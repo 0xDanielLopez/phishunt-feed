@@ -1,0 +1,32 @@
+name: Update phishunt feed
+on:
+  schedule:
+    - cron: '17 */6 * * *'   # every 6 hours
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: update-feed
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch feeds from phishunt.io
+        run: |
+          UA='Mozilla/5.0 (compatible; phishunt-feed-mirror; +https://github.com/0xDanielLopez/phishunt-feed)'
+          curl -fsSL -A "$UA" https://phishunt.io/feed.txt  -o feed.txt
+          curl -fsSL -A "$UA" https://phishunt.io/feed.json -o feed.json
+          curl -fsSL -A "$UA" https://phishunt.io/feed.csv  -o feed.csv
+      - name: Commit if changed
+        run: |
+          git config user.name  "phishunt-feed-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add feed.txt feed.json feed.csv
+            git commit -m "Update feed ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git push
+          else
+            echo "No changes."
+          fi
