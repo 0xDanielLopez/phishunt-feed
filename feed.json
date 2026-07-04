@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://netflixhasnohomepage.com",
+    "domain": "netflixhasnohomepage.com",
+    "company": "netflix",
+    "date": "2026-07-04T15:41:04.172295+00:00",
+    "first_seen": "2026-07-04T15:41:04.172295+00:00",
+    "uuid": "fb78f120-3156-4163-ad4b-d9d23ab6bbb8",
+    "ip": "3.160.150.44",
+    "country": "Germany",
+    "asn": "16509",
+    "org": "Amazon.com, Inc.",
+    "cert": "Amazon",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": true
+  },
+  {
     "url": "http://register-facebook.blogspot.com",
     "domain": "register-facebook.blogspot.com",
     "company": "facebook",
