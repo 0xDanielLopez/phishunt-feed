@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://metamask-info-serviceuninstall.net.ph",
+    "domain": "metamask-info-serviceuninstall.net.ph",
+    "company": "metamask",
+    "date": "2026-07-19T15:38:55.107152+00:00",
+    "first_seen": "2026-07-19T15:38:55.107152+00:00",
+    "uuid": "8cdf3583-3d5c-4b68-b2a5-d82edb69df93",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "Let's Encrypt",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": true
+  },
+  {
     "url": "http://register-facebook.blogspot.com",
     "domain": "register-facebook.blogspot.com",
     "company": "facebook",
