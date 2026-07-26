@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://binancebooster.com",
+    "domain": "binancebooster.com",
+    "company": "binance",
+    "date": "2026-07-26T14:46:18.923210+00:00",
+    "first_seen": "2026-07-26T14:46:18.923210+00:00",
+    "uuid": "d854f1ef-3123-4865-a153-fc1894db7384",
+    "ip": "76.223.67.189",
+    "country": "United States",
+    "asn": "16509",
+    "org": "Amazon.com, Inc.",
+    "cert": "GoDaddy.com",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false
+  },
+  {
     "url": "http://register-facebook.blogspot.com",
     "domain": "register-facebook.blogspot.com",
     "company": "facebook",
