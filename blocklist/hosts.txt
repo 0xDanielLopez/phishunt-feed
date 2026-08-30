@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 644
-# Updated: 2026-08-30T20:25:56Z
+# Entries: 646
+# Updated: 2026-08-30T21:07:02Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -426,12 +426,14 @@
 0.0.0.0 login.rmdbwskx.santander.bimp-bot.duckdns.org
 0.0.0.0 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 0.0.0.0 loginfacebook-facebook.blogspot.com
+0.0.0.0 lokala-ofera812911.sbs
 0.0.0.0 lokalna-059272.sbs
 0.0.0.0 lokalna-47294.sbs
 0.0.0.0 lokalna-4930237.sbs
 0.0.0.0 lokalna-668.sbs
 0.0.0.0 lokalna-9938201.sbs
 0.0.0.0 lokalna-ofera81112191.sbs
+0.0.0.0 lokalna-oferta742346.lol
 0.0.0.0 lokalna-ofeta287689142.sbs
 0.0.0.0 lokalna-ofeta7891987121.sbs
 0.0.0.0 love-facebook.blogspot.com

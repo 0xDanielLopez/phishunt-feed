@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 644
-! Updated: 2026-08-30T20:27:53Z
+! Entries: 646
+! Updated: 2026-08-30T21:07:02Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -426,12 +426,14 @@
 ||login.rmdbwskx.santander.bimp-bot.duckdns.org^
 ||login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org^
 ||loginfacebook-facebook.blogspot.com^
+||lokala-ofera812911.sbs^
 ||lokalna-059272.sbs^
 ||lokalna-47294.sbs^
 ||lokalna-4930237.sbs^
 ||lokalna-668.sbs^
 ||lokalna-9938201.sbs^
 ||lokalna-ofera81112191.sbs^
+||lokalna-oferta742346.lol^
 ||lokalna-ofeta287689142.sbs^
 ||lokalna-ofeta7891987121.sbs^
 ||love-facebook.blogspot.com^

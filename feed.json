@@ -1,5 +1,146 @@
 [
   {
+    "url": "http://allegrolokalnie.lokala-ofera812911.sbs",
+    "domain": "allegrolokalnie.lokala-ofera812911.sbs",
+    "company": "allegro",
+    "date": "2026-08-30T21:01:55.273610+00:00",
+    "first_seen": "2026-08-30T21:01:55.273610+00:00",
+    "uuid": "d738fda7-2cbc-4515-89a0-c5ab5024bafd",
+    "ip": "188.114.96.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      }
+    ],
+    "score": 29,
+    "verdict": "low"
+  },
+  {
+    "url": "http://allegrolokalnie.lokalna-oferta742346.lol",
+    "domain": "allegrolokalnie.lokalna-oferta742346.lol",
+    "company": "allegro",
+    "date": "2026-08-30T21:01:37.414048+00:00",
+    "first_seen": "2026-08-30T21:01:37.414048+00:00",
+    "uuid": "10a60811-326f-42f4-ad00-75a86416a67f",
+    "ip": "104.21.92.88",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      }
+    ],
+    "score": 25,
+    "verdict": "low"
+  },
+  {
+    "url": "http://allegro.lokalna-oferta742346.lol",
+    "domain": "allegro.lokalna-oferta742346.lol",
+    "company": "allegro",
+    "date": "2026-08-30T21:01:20.074092+00:00",
+    "first_seen": "2026-08-30T21:01:20.074092+00:00",
+    "uuid": "b3ff216b-66e3-46a0-9abb-6c18107f9297",
+    "ip": "104.21.92.88",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      }
+    ],
+    "score": 27,
+    "verdict": "low"
+  },
+  {
     "url": "https://allegro.lokalna-4930237.sbs",
     "domain": "allegro.lokalna-4930237.sbs",
     "company": "allegro",
