@@ -1,0 +1,30 @@
+{
+ "date": "2026-08-30",
+ "updated": "2026-08-30T20:27:54Z",
+ "source": "https://phishunt.io/feed.txt",
+ "license": "CC0-1.0",
+ "counts": {
+  "added": 17,
+  "removed": 0
+ },
+ "added": [
+  "http://allegrolokalnie.lokalna-4930237.sbs",
+  "https://73a2370016b7.dng8rz.paypal-support.antimoney-laundering.org",
+  "https://73a2370016b7.whm5.paypal-verification.antimoney-laundering.org",
+  "https://838721-coinbase.com",
+  "https://allegro.lokalna-4930237.sbs",
+  "https://bankofamerica-unauthorized.ph",
+  "https://bankofamericacanadastore.ph",
+  "https://bankofamericamerchantservices.ph",
+  "https://bankofamericana.ph",
+  "https://bankofamericasecured.ph",
+  "https://case185366-coinbase.com",
+  "https://debt-bankofamerica.ph",
+  "https://icloudweb-ext1476.click",
+  "https://mail.bankofamerica-secure-changelog.ph",
+  "https://meine-santander.org",
+  "https://support.zoom.us.pro.kaisarstore.dpdns.org",
+  "https://support.zoom.us.vip.kaisarstore.dpdns.org"
+ ],
+ "removed": []
+}
