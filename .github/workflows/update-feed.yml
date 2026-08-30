@@ -3,28 +3,86 @@ on:
   schedule:
     - cron: '17 */6 * * *'   # every 6 hours
   workflow_dispatch:
+    inputs:
+      force:
+        description: 'Commit even if the anomaly guard trips (use after a deliberate mass removal)'
+        type: boolean
+        default: false
 permissions:
   contents: write
 concurrency:
   group: update-feed
   cancel-in-progress: false
+
+env:
+  # Refuse to publish a feed that lost more than this share of its entries in
+  # one refresh. The mirror is what most consumers actually poll, so a bad
+  # upstream fetch or a truncated response would otherwise propagate as
+  # "these domains are clean now" to every downstream blocklist.
+  MAX_SHRINK_PCT: '20'
+
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      - name: Keep the previous snapshot for the diff and the guard
+        run: |
+          cp feed.txt feed.txt.prev 2>/dev/null || true
+          touch feed.txt.prev
+
       - name: Fetch feeds from phishunt.io
         run: |
           UA='Mozilla/5.0 (compatible; phishunt-feed-mirror; +https://github.com/0xDanielLopez/phishunt-feed)'
           curl -fsSL -A "$UA" https://phishunt.io/feed.txt  -o feed.txt
           curl -fsSL -A "$UA" https://phishunt.io/feed.json -o feed.json
           curl -fsSL -A "$UA" https://phishunt.io/feed.csv  -o feed.csv
+          # The three list formats DNS/adblock catalogs subscribe to, collapsed
+          # to registrable domains upstream. The dnsmasq/unbound/rpz config
+          # formats and the STIX bundle are deliberately NOT mirrored: they are
+          # fetched directly from phishunt.io by whoever needs them, and the
+          # STIX bundle alone is ~800 KB that changes on every run, which is how
+          # a mirror repo ends up rewriting its own history to stay usable.
+          mkdir -p blocklist
+          curl -fsSL -A "$UA" https://phishunt.io/blocklist/domains.txt -o blocklist/domains.txt
+          curl -fsSL -A "$UA" https://phishunt.io/blocklist/hosts.txt   -o blocklist/hosts.txt
+          curl -fsSL -A "$UA" https://phishunt.io/blocklist/adblock.txt -o blocklist/adblock.txt
+
+      # A blocklist that silently empties is worse than a stale one: consumers
+      # cannot tell "nothing is malicious today" from "the fetch broke". curl -f
+      # catches an HTTP error, but not a 200 that returns a truncated body.
+      - name: Anomaly guard
+        run: |
+          prev=$(grep -c . feed.txt.prev || echo 0)
+          curr=$(grep -c . feed.txt || echo 0)
+          echo "previous=$prev current=$curr"
+          if [ "$curr" -eq 0 ]; then
+            echo "::error::Fetched feed is empty. Refusing to publish."
+            exit 1
+          fi
+          if [ "$prev" -gt 0 ]; then
+            floor=$(( prev * (100 - MAX_SHRINK_PCT) / 100 ))
+            if [ "$curr" -lt "$floor" ]; then
+              if [ "${{ github.event.inputs.force }}" = "true" ]; then
+                echo "::warning::Feed shrank $prev -> $curr (floor $floor). Overridden by force input."
+              else
+                echo "::error::Feed shrank $prev -> $curr, below the $floor floor (-${MAX_SHRINK_PCT}%). Refusing to publish. Re-run with force=true if this drop is real."
+                exit 1
+              fi
+            fi
+          fi
+
+      - name: Build the day's added/removed diff
+        run: python3 scripts/build_changes.py feed.txt.prev feed.txt changes
+
       - name: Commit if changed
         run: |
+          rm -f feed.txt.prev
           git config user.name  "phishunt-feed-bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if [ -n "$(git status --porcelain)" ]; then
-            git add feed.txt feed.json feed.csv
+            git add feed.txt feed.json feed.csv blocklist changes
             git commit -m "Update feed ($(date -u +%Y-%m-%dT%H:%MZ))"
             git push
           else

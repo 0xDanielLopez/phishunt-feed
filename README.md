@@ -15,13 +15,25 @@ phishunt is a free phishing-domain feed and lookup service run by Daniel López 
 | `feed.txt` | one phishing domain per line | https://raw.githubusercontent.com/0xDanielLopez/phishunt-feed/main/feed.txt |
 | `feed.json` | full record per domain | https://raw.githubusercontent.com/0xDanielLopez/phishunt-feed/main/feed.json |
 | `feed.csv` | spreadsheet-friendly | https://raw.githubusercontent.com/0xDanielLopez/phishunt-feed/main/feed.csv |
+| `blocklist/domains.txt` | one registrable domain per line (Pi-hole) | https://raw.githubusercontent.com/0xDanielLopez/phishunt-feed/main/blocklist/domains.txt |
+| `blocklist/hosts.txt` | `0.0.0.0 domain` hosts file | https://raw.githubusercontent.com/0xDanielLopez/phishunt-feed/main/blocklist/hosts.txt |
+| `blocklist/adblock.txt` | uBlock Origin / AdGuard filter list | https://raw.githubusercontent.com/0xDanielLopez/phishunt-feed/main/blocklist/adblock.txt |
+| `changes/YYYY-MM/YYYY-MM-DD.json` | that day's added/removed domains | see the `changes/` directory |
 
 Updated automatically every few hours via GitHub Actions from the canonical source.
 
+The `feed.*` files carry full hostnames. The `blocklist/` files collapse each one
+to its registrable domain so a DNS resolver can block it, and they never collapse
+to a shared-hosting apex: a phishing site on Blogspot, GitBook or Zapier stays
+listed as that individual host, never as the provider. dnsmasq, unbound and RPZ
+formats plus a STIX 2.1 bundle are served from phishunt.io rather than mirrored
+here, to keep this repo's history small.
+
 ## Richer / live access (canonical source: phishunt.io)
 
-- **REST API** — https://phishunt.io/api/v1/domains (paginated JSON; `?contains=`)
-- **MCP server (for AI agents)** — https://mcp.phishunt.io/ — 6 tools: `check_domain`, `list_brand_phishings`, `get_recent_detections`, `get_brand_metadata`, `get_cert_metadata`, `search_phishings`
+- **REST API** — https://phishunt.io/api/v1/domains (paginated JSON; `?contains=`, `?tier=`). Carries `score`, `verdict` and `top_signals` per row: a heuristic 0-100 risk score with the signals that drove it, not a calibrated probability.
+- **STIX 2.1 bundle** — https://phishunt.io/stix/bundle.json — one `indicator` per detection, `confidence` derived from that row's own score.
+- **MCP server (for AI agents)** — https://mcp.phishunt.io/ — 11 tools: `check_domain`, `list_brand_phishings`, `get_recent_detections`, `get_brand_metadata`, `get_cert_metadata`, `search_phishings`, `analyze_url`, `analyze_url_deep`, `get_related_infrastructure`, `get_campaigns`, `get_campaign`
 - **Browse** — by [brand](https://phishunt.io/suspicious/), [TLS certificate](https://phishunt.io/cert/), [hosting](https://phishunt.io/statistics/)
 - **Docs** — https://phishunt.io/docs/ · **AI reference** — https://phishunt.io/llms-full.txt
 
