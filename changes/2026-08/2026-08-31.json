@@ -1,0 +1,41 @@
+{
+ "date": "2026-08-31",
+ "updated": "2026-08-31T05:36:31Z",
+ "source": "https://phishunt.io/feed.txt",
+ "license": "CC0-1.0",
+ "counts": {
+  "added": 18,
+  "removed": 9
+ },
+ "added": [
+  "http://allegro.nr-2389842ms2.lol",
+  "http://allegro.pl-34592676320.lat",
+  "http://allegrolokalnie.nr-2389842ms2.lol",
+  "http://allegrolokalnie.pl-34592676320.lat",
+  "http://dpd.fwmqrf.icu/com/",
+  "http://instagram-accounts-login.duckdns.org",
+  "https://73a2370016b7.asi.paypal-signin.antimoney-laundering.org",
+  "https://73a2370016b7.bblocal.paypal-update.antimoney-laundering.org",
+  "https://73a2370016b7.ws4.3.paypal-signin.antimoney-laundering.org",
+  "https://alibaba188.org",
+  "https://allegrolokalnie.pl-wfde.shop",
+  "https://care-bankofamerica.ph",
+  "https://googleplsmy.com",
+  "https://kenhoward.com",
+  "https://mail.icloud-i-cl.com",
+  "https://misilabario.cl",
+  "https://roblox.com.am/users/147013942575/profile",
+  "https://roblox.com.ml/users/222162092017/profile"
+ ],
+ "removed": [
+  "http://allegro.id9458215.cfd",
+  "http://allegro.lokalna-ofeta7891987121.sbs",
+  "http://allegrolokalnie.lokalna-4930237.sbs",
+  "https://838721-coinbase.com",
+  "https://allegrolokalnie.83038493.xyz",
+  "https://bankofamerica-sign.ph",
+  "https://bradesco-validacao.digital",
+  "https://bradesco.email",
+  "https://roblox.com.ml/users/221241260043/profile"
+ ]
+}

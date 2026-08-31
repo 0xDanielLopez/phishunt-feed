@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 646
-# Updated: 2026-08-30T21:07:02Z
+# Entries: 654
+# Updated: 2026-08-31T05:36:31Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -13,13 +13,18 @@
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 293841-coinbase.com
 0.0.0.0 393bet-facebook.sa.com
+0.0.0.0 73a2370016b7.afterall.paypal-login.antimoney-laundering.org
+0.0.0.0 73a2370016b7.asi.paypal-signin.antimoney-laundering.org
+0.0.0.0 73a2370016b7.bblocal.paypal-update.antimoney-laundering.org
+0.0.0.0 73a2370016b7.dng8rz.paypal-support.antimoney-laundering.org
+0.0.0.0 73a2370016b7.whm5.paypal-verification.antimoney-laundering.org
+0.0.0.0 73a2370016b7.ws4.3.paypal-signin.antimoney-laundering.org
 0.0.0.0 810276-kraken.com
-0.0.0.0 83038493.xyz
-0.0.0.0 838721-coinbase.com
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
 0.0.0.0 accounts-facebook.blogspot.com
 0.0.0.0 adrpowersystem.com
+0.0.0.0 alibaba188.org
 0.0.0.0 alibaba33.pro
 0.0.0.0 alibaba66.co
 0.0.0.0 alibaba666.bet
@@ -30,7 +35,6 @@
 0.0.0.0 amazon-promos.shop
 0.0.0.0 amazonbookawards.com
 0.0.0.0 ani-facebook.blogspot.com
-0.0.0.0 antimoney-laundering.org
 0.0.0.0 app-facebook.blogspot.com
 0.0.0.0 app81-facebook.blogspot.com
 0.0.0.0 appengine.google.com.drive.pratham.vincacybertechltd.myshn.net
@@ -42,7 +46,6 @@
 0.0.0.0 bankofamerica-com-update-new-secure-loading-sitkey-onilne-pass.ph
 0.0.0.0 bankofamerica-secure-changelog.ph
 0.0.0.0 bankofamerica-security.blogspot.com
-0.0.0.0 bankofamerica-sign.ph
 0.0.0.0 bankofamerica-unauthorized.ph
 0.0.0.0 bankofamerica-verificatie.ph
 0.0.0.0 bankofamericablockchain.ph
@@ -70,11 +73,10 @@
 0.0.0.0 biowikiweb.com
 0.0.0.0 bnext.es
 0.0.0.0 brad-facebook.blogspot.com
-0.0.0.0 bradesco-validacao.digital
-0.0.0.0 bradesco.email
 0.0.0.0 buroob.cfd
 0.0.0.0 business-dropbox.me
 0.0.0.0 cardpaysecurity.org
+0.0.0.0 care-bankofamerica.ph
 0.0.0.0 case185366-coinbase.com
 0.0.0.0 cashappps.com
 0.0.0.0 ch-google.cc
@@ -288,6 +290,7 @@
 0.0.0.0 foryour.review
 0.0.0.0 free-facebook-page-likes.blogspot.com
 0.0.0.0 fwh.is
+0.0.0.0 fwmqrf.icu
 0.0.0.0 g0ogle.com
 0.0.0.0 gafiatechnologies.com
 0.0.0.0 gateareis.vu
@@ -319,6 +322,7 @@
 0.0.0.0 googleplouy.com
 0.0.0.0 googleplrzy.com
 0.0.0.0 googleplsey.com
+0.0.0.0 googleplsmy.com
 0.0.0.0 googleplty.com
 0.0.0.0 googlesqzcacviii.com
 0.0.0.0 googleuserlogin.cam
@@ -350,7 +354,6 @@
 0.0.0.0 icloudwebmx-ext02.help
 0.0.0.0 icloudwebmx-ext04.help
 0.0.0.0 id-kraken-controle.com
-0.0.0.0 id9458215.cfd
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 info-facebook.blogspot.com
 0.0.0.0 ingdirect-alerta-clientes.com
@@ -362,6 +365,7 @@
 0.0.0.0 ingdirect-usuario-soporte.com
 0.0.0.0 ingdirect-web-validado.com
 0.0.0.0 iniciamazon.com.br
+0.0.0.0 instagram-accounts-login.duckdns.org
 0.0.0.0 instagram-analytics.blogspot.com
 0.0.0.0 instagram-baittouts-login.blogspot.com
 0.0.0.0 instagram-change-password.blogspot.com
@@ -406,6 +410,7 @@
 0.0.0.0 jj-facebook.blogspot.com
 0.0.0.0 jo-facebook.blogspot.com
 0.0.0.0 jwb-facebook.blogspot.com
+0.0.0.0 kenhoward.com
 0.0.0.0 kucoin_o_logi.godaddysites.com
 0.0.0.0 kucoin_u_logi.godaddysites.com
 0.0.0.0 lateinos.com.br
@@ -426,14 +431,12 @@
 0.0.0.0 login.rmdbwskx.santander.bimp-bot.duckdns.org
 0.0.0.0 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 0.0.0.0 loginfacebook-facebook.blogspot.com
-0.0.0.0 lokala-ofera812911.sbs
 0.0.0.0 lokalna-059272.sbs
 0.0.0.0 lokalna-47294.sbs
 0.0.0.0 lokalna-4930237.sbs
 0.0.0.0 lokalna-668.sbs
 0.0.0.0 lokalna-9938201.sbs
 0.0.0.0 lokalna-ofera81112191.sbs
-0.0.0.0 lokalna-oferta742346.lol
 0.0.0.0 lokalna-ofeta287689142.sbs
 0.0.0.0 lokalna-ofeta7891987121.sbs
 0.0.0.0 love-facebook.blogspot.com
@@ -467,6 +470,7 @@
 0.0.0.0 microsoftsupportcenter.digital
 0.0.0.0 microsoftuk.co
 0.0.0.0 mirror-google.com
+0.0.0.0 misilabario.cl
 0.0.0.0 ml-facebook.blogspot.com
 0.0.0.0 mobile-google.cn
 0.0.0.0 movistar-recaudo-epayc.com
@@ -493,6 +497,7 @@
 0.0.0.0 netsolhost.com
 0.0.0.0 network-facebook.blogspot.com
 0.0.0.0 noreply-icloud.app
+0.0.0.0 nr-2389842ms2.lol
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 oferta-lokalna8654968923445.shop
 0.0.0.0 oferta-lokalna8943961432.cfd
@@ -519,8 +524,10 @@
 0.0.0.0 paypalcorp.blogspot.com
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 photosharing-icloud.com
+0.0.0.0 pl-34592676320.lat
 0.0.0.0 pl-oferta6893457623479.sbs
 0.0.0.0 pl-ogloszenie8913.icu
+0.0.0.0 pl-wfde.shop
 0.0.0.0 play-google.cam
 0.0.0.0 plkupteraz83219321698.sbs
 0.0.0.0 ppzke.cyou
@@ -546,6 +553,7 @@
 0.0.0.0 rev.it
 0.0.0.0 rf.gd
 0.0.0.0 roblox-canjear.online
+0.0.0.0 roblox.com.am
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bz
