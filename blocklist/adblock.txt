@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 651
-! Updated: 2026-08-31T13:52:37Z
+! Entries: 624
+! Updated: 2026-08-31T22:51:30Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -11,19 +11,14 @@
 ||18493821-coinbase.com^
 ||191758a-coinbase.com^
 ||2017-facebook.blogspot.com^
-||293841-coinbase.com^
 ||393bet-facebook.sa.com^
-||73a2370016b7.afterall.paypal-login.antimoney-laundering.org^
-||73a2370016b7.asi.paypal-signin.antimoney-laundering.org^
-||73a2370016b7.bblocal.paypal-update.antimoney-laundering.org^
-||73a2370016b7.dng8rz.paypal-support.antimoney-laundering.org^
-||73a2370016b7.whm5.paypal-verification.antimoney-laundering.org^
-||73a2370016b7.ws4.3.paypal-signin.antimoney-laundering.org^
-||810276-kraken.com^
+||54893-coinbase.com^
+||978489-coinbase.com^
 ||a1-kraken.com^
 ||a2zapk.co^
 ||accounts-facebook.blogspot.com^
 ||adrpowersystem.com^
+||alibaba-taobaol.cn^
 ||alibaba188.org^
 ||alibaba33.pro^
 ||alibaba66.co^
@@ -35,10 +30,10 @@
 ||amazon-promos.shop^
 ||amazonbookawards.com^
 ||ani-facebook.blogspot.com^
+||antimoney-laundering.org^
 ||app-facebook.blogspot.com^
 ||app81-facebook.blogspot.com^
 ||appengine.google.com.drive.pratham.vincacybertechltd.myshn.net^
-||applebr-alert.info^
 ||asif.me^
 ||assign-icloud.com^
 ||authorised-support.com^
@@ -58,7 +53,6 @@
 ||bbva-hiring-paperless.appspot.com^
 ||bbvaglobalwealthadvisors.com^
 ||bbvalues.uk^
-||bbvpe.cyou^
 ||berbagi-facebook.blogspot.com^
 ||best-credit-card-for-facebook-ads.com^
 ||bet-facebook.blogspot.com^
@@ -72,9 +66,7 @@
 ||biowikiweb.com^
 ||bnext.es^
 ||brad-facebook.blogspot.com^
-||buroob.cfd^
 ||business-dropbox.me^
-||cardpaysecurity.org^
 ||care-bankofamerica.ph^
 ||case185366-coinbase.com^
 ||cashappps.com^
@@ -82,7 +74,6 @@
 ||chatgpt0005.eu.org^
 ||citrix-sharing.com^
 ||click-facebook.blogspot.com^
-||coderkubes.com^
 ||coinbasebackoffice.exchange^
 ||coinbaseinvestors.ai^
 ||ct.ws^
@@ -289,12 +280,10 @@
 ||foryour.review^
 ||free-facebook-page-likes.blogspot.com^
 ||fwh.is^
-||fwmqrf.icu^
 ||g0ogle.com^
 ||gafiatechnologies.com^
 ||gateareis.vu^
 ||ggzh-google.com.cn^
-||ggzpe.cyou^
 ||google-account-login.com^
 ||google-cloud.services^
 ||google-verify.email^
@@ -394,7 +383,6 @@
 ||instagramlogin24.blogspot.com^
 ||instagramlogin68.blogspot.com^
 ||instagramlogin77.blogspot.com^
-||instagramlogin910.blogspot.com^
 ||instagramlogin99.blogspot.com^
 ||instagramloginpage111.blogspot.com^
 ||instagramloginpassword.blogspot.com^
@@ -410,8 +398,7 @@
 ||jo-facebook.blogspot.com^
 ||jwb-facebook.blogspot.com^
 ||kenhoward.com^
-||kucoin_o_logi.godaddysites.com^
-||kucoin_u_logi.godaddysites.com^
+||klarnaslots.best^
 ||lateinos.com.br^
 ||ledger-live-download-sso-conect.typedream.app^
 ||ledger-live-login-web.square.site^
@@ -431,11 +418,8 @@
 ||login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org^
 ||loginfacebook-facebook.blogspot.com^
 ||lokalna-47294.sbs^
-||lokalna-668.sbs^
 ||lokalna-958204.sbs^
-||lokalna-ofera81112191.sbs^
-||lokalna-ofeta287689142.sbs^
-||lokalna-ofeta7891987121.sbs^
+||lokalna-ofera930133.lol^
 ||love-facebook.blogspot.com^
 ||lovefive-facebook.blogspot.com^
 ||lovevivah.com^
@@ -447,6 +431,7 @@
 ||meine-santander.org^
 ||meme-facebook.blogspot.com^
 ||metacreatormonetizationsupportsystem.click^
+||metamask88.com^
 ||metamaskcasino.de^
 ||metamaskcasino.de.com^
 ||metamaskchromeextensionn.blogspot.com^
@@ -496,7 +481,6 @@
 ||noreply-icloud.app^
 ||nw-facebook.blogspot.com^
 ||oferta-lokalna8654968923445.shop^
-||oferta-lokalna8943961432.cfd^
 ||oferta823161.click^
 ||office365licensingsupport.com^
 ||onepage.website^
@@ -513,21 +497,14 @@
 ||paypal-details.com^
 ||paypal-invoice.com^
 ||paypal-logiin.blogspot.com^
+||paypal-login-support.com^
 ||paypal-password.blogspot.com^
 ||paypal-refund.com^
 ||paypal-signin.blogspot.com^
 ||paypalcorp.blogspot.com^
 ||pe-facebook.blogspot.com^
 ||photosharing-icloud.com^
-||pl-oferta-lokalna2689433.live^
-||pl-oferta6893457623479.sbs^
-||pl-oferta8745329.lol^
-||pl-ogloszenie8913.icu^
-||pl-wfde.shop^
 ||play-google.cam^
-||plkuptera732183278681.bond^
-||plkupteraz83219321698.sbs^
-||ppzke.cyou^
 ||premio-instagram.com^
 ||prizebond.net.pk^
 ||profil-facebook-saya.blogspot.com^
@@ -535,7 +512,6 @@
 ||protected-request.com^
 ||prov.cx^
 ||pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev^
-||qzvbbk.cfd^
 ||r-facebook.blogspot.com^
 ||rama-facebook.blogspot.com^
 ||rberthelette.com^
@@ -582,6 +558,7 @@
 ||skachat-microsoft-visual.ru^
 ||spotify-modapk.com^
 ||spotify-plus.com^
+||srpska-banka.com^
 ||sso-ledger-live-strt-ledger-support-cdn.typedream.app^
 ||start-ledgren.zapier.app^
 ||start-web-en-ledger-live-login.typedream.app^
@@ -630,8 +607,6 @@
 ||vn-facebook.blogspot.com^
 ||vpn-update.org^
 ||vpnuse.eu.org^
-||vwtzzv.icu^
-||web-conect-ledger-live-download-sso.typedream.app^
 ||web-conect-us-ledger-live-wallet.typedream.app^
 ||webaccess-alert.com^
 ||whatsapp-verify.blogspot.com^
@@ -639,7 +614,6 @@
 ||whatsapptools.pro^
 ||windows-ledger-live.typedream.app^
 ||ww-facebook.blogspot.com^
-||wwmpe.cyou^
 ||www-app-google.com^
 ||www-google.cn^
 ||www-hk-google.com^
@@ -656,4 +630,3 @@
 ||zelleria.shop^
 ||zeta-facebook.blogspot.com^
 ||zoom-security.berlin^
-||zzvru.cyou^
