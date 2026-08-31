@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 654
-! Updated: 2026-08-31T05:36:31Z
+! Entries: 651
+! Updated: 2026-08-31T13:52:37Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -54,7 +54,6 @@
 ||bankofamericamerchantservices.ph^
 ||bankofamericamortagage.ph^
 ||bankofamericana.ph^
-||bankofamericasecured.ph^
 ||barcelona-facebook.blogspot.com^
 ||bbva-hiring-paperless.appspot.com^
 ||bbvaglobalwealthadvisors.com^
@@ -324,7 +323,6 @@
 ||googleplsey.com^
 ||googleplsmy.com^
 ||googleplty.com^
-||googlesqzcacviii.com^
 ||googleuserlogin.cam^
 ||googleww.com^
 ||gpcconcrete.co.nz^
@@ -371,6 +369,7 @@
 ||instagram-change-password.blogspot.com^
 ||instagram-clone-app-cyi5.bolt.host^
 ||instagram-demo.blogspot.com^
+||instagram-e.com.cn^
 ||instagram-g.com.cn^
 ||instagram-instagram.blogspot.com^
 ||instagram-jennifer.blogspot.com^
@@ -431,11 +430,9 @@
 ||login.rmdbwskx.santander.bimp-bot.duckdns.org^
 ||login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org^
 ||loginfacebook-facebook.blogspot.com^
-||lokalna-059272.sbs^
 ||lokalna-47294.sbs^
-||lokalna-4930237.sbs^
 ||lokalna-668.sbs^
-||lokalna-9938201.sbs^
+||lokalna-958204.sbs^
 ||lokalna-ofera81112191.sbs^
 ||lokalna-ofeta287689142.sbs^
 ||lokalna-ofeta7891987121.sbs^
@@ -497,7 +494,6 @@
 ||netsolhost.com^
 ||network-facebook.blogspot.com^
 ||noreply-icloud.app^
-||nr-2389842ms2.lol^
 ||nw-facebook.blogspot.com^
 ||oferta-lokalna8654968923445.shop^
 ||oferta-lokalna8943961432.cfd^
@@ -518,17 +514,18 @@
 ||paypal-invoice.com^
 ||paypal-logiin.blogspot.com^
 ||paypal-password.blogspot.com^
-||paypal-receipt.xyz^
 ||paypal-refund.com^
 ||paypal-signin.blogspot.com^
 ||paypalcorp.blogspot.com^
 ||pe-facebook.blogspot.com^
 ||photosharing-icloud.com^
-||pl-34592676320.lat^
+||pl-oferta-lokalna2689433.live^
 ||pl-oferta6893457623479.sbs^
+||pl-oferta8745329.lol^
 ||pl-ogloszenie8913.icu^
 ||pl-wfde.shop^
 ||play-google.cam^
+||plkuptera732183278681.bond^
 ||plkupteraz83219321698.sbs^
 ||ppzke.cyou^
 ||premio-instagram.com^

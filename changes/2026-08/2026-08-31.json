@@ -1,23 +1,26 @@
 {
  "date": "2026-08-31",
- "updated": "2026-08-31T05:36:31Z",
+ "updated": "2026-08-31T13:52:37Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 18,
-  "removed": 9
+  "added": 21,
+  "removed": 16
  },
  "added": [
-  "http://allegro.nr-2389842ms2.lol",
-  "http://allegro.pl-34592676320.lat",
-  "http://allegrolokalnie.nr-2389842ms2.lol",
-  "http://allegrolokalnie.pl-34592676320.lat",
+  "http://allegro.lokalna-958204.sbs",
+  "http://allegro.pl-oferta8745329.lol",
+  "http://allegrolokalnie.lokalna-958204.sbs",
+  "http://allegrolokalnie.pl-oferta8745329.lol",
+  "http://allegrolokalnie.plkuptera732183278681.bond/oferta/playstation-5-z-nap%C4%99dem-3-pady-i-gry/171056586",
   "http://dpd.fwmqrf.icu/com/",
   "http://instagram-accounts-login.duckdns.org",
+  "http://instagram-e.com.cn",
   "https://73a2370016b7.asi.paypal-signin.antimoney-laundering.org",
   "https://73a2370016b7.bblocal.paypal-update.antimoney-laundering.org",
   "https://73a2370016b7.ws4.3.paypal-signin.antimoney-laundering.org",
   "https://alibaba188.org",
+  "https://allegrolokalnie.pl-oferta-lokalna2689433.live/oferta/PS5-Pro-biala-z-dwoma-kontrolerami-zestaw/186975172",
   "https://allegrolokalnie.pl-wfde.shop",
   "https://care-bankofamerica.ph",
   "https://googleplsmy.com",
@@ -29,13 +32,20 @@
  ],
  "removed": [
   "http://allegro.id9458215.cfd",
+  "http://allegro.lokalna-059272.sbs",
+  "http://allegro.lokalna-9938201.sbs",
   "http://allegro.lokalna-ofeta7891987121.sbs",
   "http://allegrolokalnie.lokalna-4930237.sbs",
+  "http://allegrolokalnie.lokalna-9938201.sbs",
+  "http://paypal-receipt.xyz",
   "https://838721-coinbase.com",
+  "https://allegro.lokalna-4930237.sbs",
   "https://allegrolokalnie.83038493.xyz",
   "https://bankofamerica-sign.ph",
+  "https://bankofamericasecured.ph",
   "https://bradesco-validacao.digital",
   "https://bradesco.email",
+  "https://googlesqzcacviii.com",
   "https://roblox.com.ml/users/221241260043/profile"
  ]
 }
