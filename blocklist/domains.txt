@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 626
-# Updated: 2026-09-01T11:40:13Z
+# Entries: 620
+# Updated: 2026-09-01T16:40:54Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -9,7 +9,6 @@
 123-facebook.blogspot.com
 164196-coinbase.com
 18493821-coinbase.com
-191758a-coinbase.com
 2017-facebook.blogspot.com
 393bet-facebook.sa.com
 54893-coinbase.com
@@ -314,7 +313,6 @@ googleuserlogin.cam
 googleww.com
 gpcconcrete.co.nz
 h5-whatsapp-zn.hl.cn
-halseyburgund.com
 hashnode.dev
 help-instagram.blogspot.com
 helpsecurity-microsoft.com
@@ -336,7 +334,6 @@ icloud-network.com
 icloud-sharedalbum.com
 icloudhelp.com
 icloudweb-ext1476.click
-icloudwebmx-ext02.help
 icloudwebmx-ext04.help
 id-kraken-controle.com
 ifotografix.co.uk
@@ -384,6 +381,7 @@ instagramlogin68.blogspot.com
 instagramlogin77.blogspot.com
 instagramlogin99.blogspot.com
 instagramloginpage111.blogspot.com
+instagramloginpage2021.blogspot.com
 instagramloginpassword.blogspot.com
 instagramrecovery.blogspot.com
 instagramsnp.blogspot.com
@@ -396,7 +394,7 @@ jj-facebook.blogspot.com
 jo-facebook.blogspot.com
 jwb-facebook.blogspot.com
 kenhoward.com
-klarnaslots.best
+kupteraz429199421.xyz
 laravel.cloud
 lateinos.com.br
 ledger-live-download-sso-conect.typedream.app
@@ -416,6 +414,7 @@ login-yahoo-verify.blogspot.com
 login.rmdbwskx.santander.bimp-bot.duckdns.org
 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 loginfacebook-facebook.blogspot.com
+lokalna-0493729.sbs
 lokalna-0904921.sbs
 lokalna-47294.sbs
 lokalna-8487391.sbs
@@ -486,7 +485,6 @@ nw-facebook.blogspot.com
 oferta-lokalana684538913895.shop
 oferta-lokalna8654968923445.shop
 office365licensingsupport.com
-onepage.website
 online-facebook-privacy.blogspot.com
 oortstorages.com
 oovra.club
@@ -505,7 +503,9 @@ paypal-signin.blogspot.com
 paypalcorp.blogspot.com
 pe-facebook.blogspot.com
 photosharing-icloud.com
+pl-109772.cfd
 pl-893057502435.icu
+pl-loka.shop
 play-google.cam
 plkuptera732183278681.bond
 premio-instagram.com
@@ -528,15 +528,12 @@ rekemonedasi-facebook.org
 rents.ac
 rev.it
 rf.gd
-roblox-canjear.online
-roblox.com.am
 roblox.com.bi
 roblox.com.bn
 roblox.com.bz
 roblox.com.et
 roblox.com.gr
 roblox.com.kz
-roblox.com.ml
 roblox.com.mu
 roblox.com.pt
 rricrosoft-offices.org
@@ -566,7 +563,6 @@ start-ledgren.zapier.app
 start-web-en-ledger-live-login.typedream.app
 steamcommunity.blog
 steamcommunity.ing
-steely.xin
 steuerquimica.cl
 su-facebook.blogspot.com
 sugar-outlook.com
@@ -582,8 +578,6 @@ temporary.site
 test-facebook.blogspot.com
 therelayservice.com
 trackingnumbers.org
-transrev0lut.com
-trezoio-started.blogspot.com
 trezor-io-lernnu.typedream.app
 trezor-io-start-conect-auth.typedream.app
 trezor-io-start-us-help-access.typedream.app

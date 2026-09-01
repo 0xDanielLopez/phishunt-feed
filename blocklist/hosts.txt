@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 626
-# Updated: 2026-09-01T11:40:14Z
+# Entries: 620
+# Updated: 2026-09-01T16:38:51Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -9,7 +9,6 @@
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 164196-coinbase.com
 0.0.0.0 18493821-coinbase.com
-0.0.0.0 191758a-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 393bet-facebook.sa.com
 0.0.0.0 54893-coinbase.com
@@ -314,7 +313,6 @@
 0.0.0.0 googleww.com
 0.0.0.0 gpcconcrete.co.nz
 0.0.0.0 h5-whatsapp-zn.hl.cn
-0.0.0.0 halseyburgund.com
 0.0.0.0 hashnode.dev
 0.0.0.0 help-instagram.blogspot.com
 0.0.0.0 helpsecurity-microsoft.com
@@ -336,7 +334,6 @@
 0.0.0.0 icloud-sharedalbum.com
 0.0.0.0 icloudhelp.com
 0.0.0.0 icloudweb-ext1476.click
-0.0.0.0 icloudwebmx-ext02.help
 0.0.0.0 icloudwebmx-ext04.help
 0.0.0.0 id-kraken-controle.com
 0.0.0.0 ifotografix.co.uk
@@ -384,6 +381,7 @@
 0.0.0.0 instagramlogin77.blogspot.com
 0.0.0.0 instagramlogin99.blogspot.com
 0.0.0.0 instagramloginpage111.blogspot.com
+0.0.0.0 instagramloginpage2021.blogspot.com
 0.0.0.0 instagramloginpassword.blogspot.com
 0.0.0.0 instagramrecovery.blogspot.com
 0.0.0.0 instagramsnp.blogspot.com
@@ -396,7 +394,7 @@
 0.0.0.0 jo-facebook.blogspot.com
 0.0.0.0 jwb-facebook.blogspot.com
 0.0.0.0 kenhoward.com
-0.0.0.0 klarnaslots.best
+0.0.0.0 kupteraz429199421.xyz
 0.0.0.0 laravel.cloud
 0.0.0.0 lateinos.com.br
 0.0.0.0 ledger-live-download-sso-conect.typedream.app
@@ -416,6 +414,7 @@
 0.0.0.0 login.rmdbwskx.santander.bimp-bot.duckdns.org
 0.0.0.0 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 0.0.0.0 loginfacebook-facebook.blogspot.com
+0.0.0.0 lokalna-0493729.sbs
 0.0.0.0 lokalna-0904921.sbs
 0.0.0.0 lokalna-47294.sbs
 0.0.0.0 lokalna-8487391.sbs
@@ -486,7 +485,6 @@
 0.0.0.0 oferta-lokalana684538913895.shop
 0.0.0.0 oferta-lokalna8654968923445.shop
 0.0.0.0 office365licensingsupport.com
-0.0.0.0 onepage.website
 0.0.0.0 online-facebook-privacy.blogspot.com
 0.0.0.0 oortstorages.com
 0.0.0.0 oovra.club
@@ -505,7 +503,9 @@
 0.0.0.0 paypalcorp.blogspot.com
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 photosharing-icloud.com
+0.0.0.0 pl-109772.cfd
 0.0.0.0 pl-893057502435.icu
+0.0.0.0 pl-loka.shop
 0.0.0.0 play-google.cam
 0.0.0.0 plkuptera732183278681.bond
 0.0.0.0 premio-instagram.com
@@ -528,15 +528,12 @@
 0.0.0.0 rents.ac
 0.0.0.0 rev.it
 0.0.0.0 rf.gd
-0.0.0.0 roblox-canjear.online
-0.0.0.0 roblox.com.am
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bz
 0.0.0.0 roblox.com.et
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.kz
-0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 rricrosoft-offices.org
@@ -566,7 +563,6 @@
 0.0.0.0 start-web-en-ledger-live-login.typedream.app
 0.0.0.0 steamcommunity.blog
 0.0.0.0 steamcommunity.ing
-0.0.0.0 steely.xin
 0.0.0.0 steuerquimica.cl
 0.0.0.0 su-facebook.blogspot.com
 0.0.0.0 sugar-outlook.com
@@ -582,8 +578,6 @@
 0.0.0.0 test-facebook.blogspot.com
 0.0.0.0 therelayservice.com
 0.0.0.0 trackingnumbers.org
-0.0.0.0 transrev0lut.com
-0.0.0.0 trezoio-started.blogspot.com
 0.0.0.0 trezor-io-lernnu.typedream.app
 0.0.0.0 trezor-io-start-conect-auth.typedream.app
 0.0.0.0 trezor-io-start-us-help-access.typedream.app

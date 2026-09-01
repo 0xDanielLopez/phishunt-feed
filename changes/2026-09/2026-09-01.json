@@ -1,13 +1,15 @@
 {
  "date": "2026-09-01",
- "updated": "2026-09-01T11:40:15Z",
+ "updated": "2026-09-01T16:40:55Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 20,
-  "removed": 16
+  "added": 23,
+  "removed": 25
  },
  "added": [
+  "http://allegro.kupteraz429199421.xyz",
+  "http://allegro.lokalna-0493729.sbs",
   "http://allegro.lokalna-0904921.sbs",
   "http://allegro.lokalna-8487391.sbs",
   "http://allegro.lokalna-ofeta287689147.sbs",
@@ -20,18 +22,23 @@
   "http://allegrolokalnie.lokalna-ofeta9914122115.sbs",
   "http://allegrolokalnie.pl-893057502435.icu",
   "http://instagram-app.cn",
-  "http://roblox.com.am/users/354704663845/profile/",
   "https://allegro.plkuptera732183278681.bond",
+  "https://allegrolokalnie.pl-109772.cfd/logowanie/13362",
+  "https://allegrolokalnie.pl-loka.shop",
   "https://correosiicr.cc",
   "https://fedexonl.com",
   "https://fls-a29a8cd9-0161-4493-bf5c-9f682b16d0c8.laravel.cloud/hotmail%20inbox%20main.html",
+  "https://instagramloginpage2021.blogspot.com",
   "https://microsoftwordob.blogspot.com",
-  "https://roblox.com.ml/users/283101140895/profile",
   "https://swanhui.com/USPS"
  ],
  "removed": [
   "http://allegrolokalnie.oferta823161.click",
+  "http://public-kucoin-en-us.onepage.website",
+  "http://roblox-canjear.online/login.html",
+  "http://trezoio-started.blogspot.com",
   "http://zoom-security.berlin",
+  "https://191758a-coinbase.com",
   "https://73a2370016b7.afterall.paypal-login.antimoney-laundering.org",
   "https://73a2370016b7.dng8rz.paypal-support.antimoney-laundering.org",
   "https://73a2370016b7.ws4.3.paypal-signin.antimoney-laundering.org",
@@ -39,12 +46,17 @@
   "https://bankofamerica-security.blogspot.com",
   "https://bankofamerica-unauthorized.ph",
   "https://bankofamericacanadastore.ph",
+  "https://dpd.steely.xin/com",
   "https://facebook.securitylog.hu",
+  "https://icloudwebmx-ext02.help",
+  "https://klarnaslots.best",
+  "https://krakencommand.halseyburgund.com",
   "https://meine-santander.org",
   "https://netflixama111.com",
   "https://outlooktoo.top",
   "https://paypal-login-support.com",
   "https://roblox.com.am/users/282753409673/profile",
-  "https://roblox.com.ml/users/232301126482/profile"
+  "https://roblox.com.ml/users/232301126482/profile",
+  "https://transrev0lut.com"
  ]
 }
