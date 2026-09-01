@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 631
-! Updated: 2026-09-01T05:10:09Z
+! Entries: 626
+! Updated: 2026-09-01T11:40:15Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -30,7 +30,6 @@
 ||amazon-promos.shop^
 ||amazonbookawards.com^
 ||ani-facebook.blogspot.com^
-||antimoney-laundering.org^
 ||app-facebook.blogspot.com^
 ||app81-facebook.blogspot.com^
 ||appengine.google.com.drive.pratham.vincacybertechltd.myshn.net^
@@ -40,7 +39,6 @@
 ||bankofamerica-com-login-update-unauthorized.ph^
 ||bankofamerica-com-update-new-secure-loading-sitkey-onilne-pass.ph^
 ||bankofamerica-secure-changelog.ph^
-||bankofamerica-unauthorized.ph^
 ||bankofamerica-verificatie.ph^
 ||bankofamericablockchain.ph^
 ||bankofamericamailcompte.blogspot.com^
@@ -74,6 +72,7 @@
 ||click-facebook.blogspot.com^
 ||coinbasebackoffice.exchange^
 ||coinbaseinvestors.ai^
+||correosiicr.cc^
 ||ct.ws^
 ||cvmac.id^
 ||cz-facebook.blogspot.com^
@@ -267,6 +266,7 @@
 ||facebookwebsite9.blogspot.com^
 ||fake-facebook.blogspot.com^
 ||fedexinterviewprep.com^
+||fedexonl.com^
 ||fedexsubdelivery.com^
 ||ffmka.club^
 ||fifa-store.shop^
@@ -391,7 +391,6 @@
 ||instagramusicabrasilinstagram.blogspot.com^
 ||internal-alerts.com^
 ||invreceiptslinkedin.com^
-||itauemprestimosbrasil.com^
 ||jimdofree.com^
 ||jj-facebook.blogspot.com^
 ||jo-facebook.blogspot.com^
@@ -419,10 +418,12 @@
 ||loginfacebook-facebook.blogspot.com^
 ||lokalna-0904921.sbs^
 ||lokalna-47294.sbs^
+||lokalna-8487391.sbs^
 ||lokalna-958204.sbs^
 ||lokalna-ofera812712.sbs^
 ||lokalna-ofera930133.lol^
 ||lokalna-ofeta287689147.sbs^
+||lokalna-ofeta9914122115.sbs^
 ||love-facebook.blogspot.com^
 ||lovefive-facebook.blogspot.com^
 ||lovevivah.com^
@@ -431,7 +432,6 @@
 ||m4ntapaset.ink^
 ||mail.google.com.drive.pratham.vincacybertechltd.myshn.net^
 ||mb-facebook.blogspot.com^
-||meine-santander.org^
 ||meme-facebook.blogspot.com^
 ||metacreatormonetizationsupportsystem.click^
 ||metamask88.com^
@@ -455,7 +455,6 @@
 ||microsoftsupportcenter.digital^
 ||microsoftuk.co^
 ||microsoftwordob.blogspot.com^
-||microsoftworldofwarcraft.com^
 ||mirror-google.com^
 ||misilabario.cl^
 ||ml-facebook.blogspot.com^
@@ -484,8 +483,8 @@
 ||network-facebook.blogspot.com^
 ||noreply-icloud.app^
 ||nw-facebook.blogspot.com^
+||oferta-lokalana684538913895.shop^
 ||oferta-lokalna8654968923445.shop^
-||oferta823161.click^
 ||office365licensingsupport.com^
 ||onepage.website^
 ||online-facebook-privacy.blogspot.com^
@@ -495,13 +494,11 @@
 ||openai-online.net^
 ||outlookindia.com^
 ||outlookmail.social^
-||outlooktoo.top^
 ||pago-correos.es^
 ||paykmc.com^
 ||paypal-details.com^
 ||paypal-invoice.com^
 ||paypal-logiin.blogspot.com^
-||paypal-login-support.com^
 ||paypal-password.blogspot.com^
 ||paypal-refund.com^
 ||paypal-signin.blogspot.com^
@@ -551,7 +548,6 @@
 ||secure-dropbox.ist^
 ||secure-trezor-en-io.typedream.app^
 ||securedsupport-coinbase.com^
-||securitylog.hu^
 ||secutury-facebook.blogspot.com^
 ||sena-facebook.blogspot.com^
 ||services-facebook.blogspot.com^
@@ -636,4 +632,3 @@
 ||z-instagram.blogspot.com^
 ||zelleria.shop^
 ||zeta-facebook.blogspot.com^
-||zoom-security.berlin^
