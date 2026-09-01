@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 624
-# Updated: 2026-08-31T22:51:29Z
+# Entries: 631
+# Updated: 2026-09-01T05:10:08Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -40,11 +40,9 @@
 0.0.0.0 bankofamerica-com-login-update-unauthorized.ph
 0.0.0.0 bankofamerica-com-update-new-secure-loading-sitkey-onilne-pass.ph
 0.0.0.0 bankofamerica-secure-changelog.ph
-0.0.0.0 bankofamerica-security.blogspot.com
 0.0.0.0 bankofamerica-unauthorized.ph
 0.0.0.0 bankofamerica-verificatie.ph
 0.0.0.0 bankofamericablockchain.ph
-0.0.0.0 bankofamericacanadastore.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 bankofamericamerchantservices.ph
 0.0.0.0 bankofamericamortagage.ph
@@ -354,6 +352,7 @@
 0.0.0.0 iniciamazon.com.br
 0.0.0.0 instagram-accounts-login.duckdns.org
 0.0.0.0 instagram-analytics.blogspot.com
+0.0.0.0 instagram-app.cn
 0.0.0.0 instagram-baittouts-login.blogspot.com
 0.0.0.0 instagram-change-password.blogspot.com
 0.0.0.0 instagram-clone-app-cyi5.bolt.host
@@ -399,6 +398,7 @@
 0.0.0.0 jwb-facebook.blogspot.com
 0.0.0.0 kenhoward.com
 0.0.0.0 klarnaslots.best
+0.0.0.0 laravel.cloud
 0.0.0.0 lateinos.com.br
 0.0.0.0 ledger-live-download-sso-conect.typedream.app
 0.0.0.0 ledger-live-login-web.square.site
@@ -417,9 +417,12 @@
 0.0.0.0 login.rmdbwskx.santander.bimp-bot.duckdns.org
 0.0.0.0 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 0.0.0.0 loginfacebook-facebook.blogspot.com
+0.0.0.0 lokalna-0904921.sbs
 0.0.0.0 lokalna-47294.sbs
 0.0.0.0 lokalna-958204.sbs
+0.0.0.0 lokalna-ofera812712.sbs
 0.0.0.0 lokalna-ofera930133.lol
+0.0.0.0 lokalna-ofeta287689147.sbs
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lovevivah.com
@@ -451,6 +454,8 @@
 0.0.0.0 microsoftjk.eu.org
 0.0.0.0 microsoftsupportcenter.digital
 0.0.0.0 microsoftuk.co
+0.0.0.0 microsoftwordob.blogspot.com
+0.0.0.0 microsoftworldofwarcraft.com
 0.0.0.0 mirror-google.com
 0.0.0.0 misilabario.cl
 0.0.0.0 ml-facebook.blogspot.com
@@ -465,7 +470,6 @@
 0.0.0.0 netflix.surf
 0.0.0.0 netflix520.com
 0.0.0.0 netflix6.com
-0.0.0.0 netflixama111.com
 0.0.0.0 netflixandchiffres.com
 0.0.0.0 netflixfeitoaqui.com.br
 0.0.0.0 netflixhasnohomepage.com
@@ -504,7 +508,9 @@
 0.0.0.0 paypalcorp.blogspot.com
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 photosharing-icloud.com
+0.0.0.0 pl-893057502435.icu
 0.0.0.0 play-google.cam
+0.0.0.0 plkuptera732183278681.bond
 0.0.0.0 premio-instagram.com
 0.0.0.0 prizebond.net.pk
 0.0.0.0 profil-facebook-saya.blogspot.com
@@ -572,6 +578,7 @@
 0.0.0.0 support-ledgrcom-start-web.typedream.app
 0.0.0.0 support.zoom.us.pro.kaisarstore.dpdns.org
 0.0.0.0 support.zoom.us.vip.kaisarstore.dpdns.org
+0.0.0.0 swanhui.com
 0.0.0.0 sylam.vip
 0.0.0.0 tara-facebook.blogspot.com
 0.0.0.0 tb-facebook.blogspot.com

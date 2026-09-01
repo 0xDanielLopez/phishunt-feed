@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 624
-! Updated: 2026-08-31T22:51:30Z
+! Entries: 631
+! Updated: 2026-09-01T05:10:09Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -40,11 +40,9 @@
 ||bankofamerica-com-login-update-unauthorized.ph^
 ||bankofamerica-com-update-new-secure-loading-sitkey-onilne-pass.ph^
 ||bankofamerica-secure-changelog.ph^
-||bankofamerica-security.blogspot.com^
 ||bankofamerica-unauthorized.ph^
 ||bankofamerica-verificatie.ph^
 ||bankofamericablockchain.ph^
-||bankofamericacanadastore.ph^
 ||bankofamericamailcompte.blogspot.com^
 ||bankofamericamerchantservices.ph^
 ||bankofamericamortagage.ph^
@@ -354,6 +352,7 @@
 ||iniciamazon.com.br^
 ||instagram-accounts-login.duckdns.org^
 ||instagram-analytics.blogspot.com^
+||instagram-app.cn^
 ||instagram-baittouts-login.blogspot.com^
 ||instagram-change-password.blogspot.com^
 ||instagram-clone-app-cyi5.bolt.host^
@@ -399,6 +398,7 @@
 ||jwb-facebook.blogspot.com^
 ||kenhoward.com^
 ||klarnaslots.best^
+||laravel.cloud^
 ||lateinos.com.br^
 ||ledger-live-download-sso-conect.typedream.app^
 ||ledger-live-login-web.square.site^
@@ -417,9 +417,12 @@
 ||login.rmdbwskx.santander.bimp-bot.duckdns.org^
 ||login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org^
 ||loginfacebook-facebook.blogspot.com^
+||lokalna-0904921.sbs^
 ||lokalna-47294.sbs^
 ||lokalna-958204.sbs^
+||lokalna-ofera812712.sbs^
 ||lokalna-ofera930133.lol^
+||lokalna-ofeta287689147.sbs^
 ||love-facebook.blogspot.com^
 ||lovefive-facebook.blogspot.com^
 ||lovevivah.com^
@@ -451,6 +454,8 @@
 ||microsoftjk.eu.org^
 ||microsoftsupportcenter.digital^
 ||microsoftuk.co^
+||microsoftwordob.blogspot.com^
+||microsoftworldofwarcraft.com^
 ||mirror-google.com^
 ||misilabario.cl^
 ||ml-facebook.blogspot.com^
@@ -465,7 +470,6 @@
 ||netflix.surf^
 ||netflix520.com^
 ||netflix6.com^
-||netflixama111.com^
 ||netflixandchiffres.com^
 ||netflixfeitoaqui.com.br^
 ||netflixhasnohomepage.com^
@@ -504,7 +508,9 @@
 ||paypalcorp.blogspot.com^
 ||pe-facebook.blogspot.com^
 ||photosharing-icloud.com^
+||pl-893057502435.icu^
 ||play-google.cam^
+||plkuptera732183278681.bond^
 ||premio-instagram.com^
 ||prizebond.net.pk^
 ||profil-facebook-saya.blogspot.com^
@@ -572,6 +578,7 @@
 ||support-ledgrcom-start-web.typedream.app^
 ||support.zoom.us.pro.kaisarstore.dpdns.org^
 ||support.zoom.us.vip.kaisarstore.dpdns.org^
+||swanhui.com^
 ||sylam.vip^
 ||tara-facebook.blogspot.com^
 ||tb-facebook.blogspot.com^

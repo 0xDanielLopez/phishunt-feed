@@ -1,0 +1,30 @@
+{
+ "date": "2026-09-01",
+ "updated": "2026-09-01T05:10:10Z",
+ "source": "https://phishunt.io/feed.txt",
+ "license": "CC0-1.0",
+ "counts": {
+  "added": 9,
+  "removed": 7
+ },
+ "added": [
+  "http://allegrolokalnie.lokalna-ofera812712.sbs",
+  "http://instagram-app.cn",
+  "http://microsoftworldofwarcraft.com",
+  "https://allegro.plkuptera732183278681.bond",
+  "https://fls-a29a8cd9-0161-4493-bf5c-9f682b16d0c8.laravel.cloud/hotmail%20inbox%20main.html",
+  "https://microsoftwordob.blogspot.com",
+  "https://roblox.com.am/users/346856734377/profile",
+  "https://roblox.com.ml/users/251793406034/profile",
+  "https://swanhui.com/USPS"
+ ],
+ "removed": [
+  "https://73a2370016b7.afterall.paypal-login.antimoney-laundering.org",
+  "https://73a2370016b7.dng8rz.paypal-support.antimoney-laundering.org",
+  "https://bankofamerica-security.blogspot.com",
+  "https://bankofamericacanadastore.ph",
+  "https://netflixama111.com",
+  "https://roblox.com.am/users/282753409673/profile",
+  "https://roblox.com.ml/users/232301126482/profile"
+ ]
+}
