@@ -1,5 +1,1368 @@
 [
   {
+    "url": "http://allegro.platnosc402199421.xyz",
+    "domain": "allegro.platnosc402199421.xyz",
+    "company": "allegro",
+    "date": "2026-09-01T21:02:07.485673+00:00",
+    "first_seen": "2026-09-01T21:02:07.485673+00:00",
+    "uuid": "e2ca298a-d234-4830-8817-f658f3ed2687",
+    "ip": "172.67.130.199",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      }
+    ],
+    "score": 28,
+    "verdict": "low"
+  },
+  {
+    "url": "https://allegrolokalnie.pln385.lol/myjka-ci%C5%9Bnieniowa-karcher-k7/63379",
+    "domain": "allegrolokalnie.pln385.lol",
+    "company": "allegro",
+    "date": "2026-09-01T21:01:46.925556+00:00",
+    "first_seen": "2026-09-01T21:01:46.925556+00:00",
+    "uuid": "20d92c89-788d-4eef-823c-be0b6138d1fd",
+    "ip": "188.114.97.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      }
+    ],
+    "score": 30,
+    "verdict": "low"
+  },
+  {
+    "url": "http://allegro.plkupteraz732185943781.click",
+    "domain": "allegro.plkupteraz732185943781.click",
+    "company": "allegro",
+    "date": "2026-09-01T20:01:59.334752+00:00",
+    "first_seen": "2026-09-01T20:01:59.334752+00:00",
+    "uuid": "d0a7e529-f1df-4dff-80ac-06cac6b5c999",
+    "ip": "172.67.186.17",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      }
+    ],
+    "score": 28,
+    "verdict": "low"
+  },
+  {
+    "url": "http://allegrolokalnie.plkupteraz732185943781.click",
+    "domain": "allegrolokalnie.plkupteraz732185943781.click",
+    "company": "allegro",
+    "date": "2026-09-01T20:01:43.606336+00:00",
+    "first_seen": "2026-09-01T20:01:43.606336+00:00",
+    "uuid": "f150dfb5-589a-48c6-a9d4-5996a06a5b83",
+    "ip": "172.67.186.17",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      }
+    ],
+    "score": 26,
+    "verdict": "low"
+  },
+  {
+    "url": "https://allegrolokalnie.lokalna-0904921.sbs",
+    "domain": "allegrolokalnie.lokalna-0904921.sbs",
+    "company": "allegro",
+    "date": "2026-09-01T20:01:25.043682+00:00",
+    "first_seen": "2026-09-01T20:01:25.043682+00:00",
+    "uuid": "993d16a1-0d7b-4ff9-ba59-929490ad86d2",
+    "ip": "104.21.76.142",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      }
+    ],
+    "score": 35,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://allegrolokalnie.pl-x37yq.sbs/oferta/super-stan-tablet-apple-ipad-11-a16-128gb-srebrny-gwarancja-apple-pencil-e-4pllw",
+    "domain": "allegrolokalnie.pl-x37yq.sbs",
+    "company": "allegro",
+    "date": "2026-09-01T18:01:05.564386+00:00",
+    "first_seen": "2026-09-01T18:01:05.564386+00:00",
+    "uuid": "5a123859-0182-4cf2-8668-af09825f1b99",
+    "ip": "104.21.55.215",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      }
+    ],
+    "score": 26,
+    "verdict": "low"
+  },
+  {
+    "url": "https://pop.debt-bankofamerica.ph",
+    "domain": "pop.debt-bankofamerica.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-01T17:24:27.394483+00:00",
+    "first_seen": "2026-09-01T17:24:27.394483+00:00",
+    "uuid": "312b022b-f559-41b3-8323-3839ae2b483e",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 3.3
+      }
+    ],
+    "score": 27,
+    "verdict": "low"
+  },
+  {
+    "url": "https://smtp.bankofamericacanadastore.ph",
+    "domain": "smtp.bankofamericacanadastore.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-01T17:24:27.253292+00:00",
+    "first_seen": "2026-09-01T17:24:27.253292+00:00",
+    "uuid": "26e23209-11a5-4cd6-9593-5d5cfffb620b",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 30,
+    "verdict": "low"
+  },
+  {
+    "url": "https://mx.bankofamericana.ph",
+    "domain": "mx.bankofamericana.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-01T17:24:27.149841+00:00",
+    "first_seen": "2026-09-01T17:24:27.149841+00:00",
+    "uuid": "4bdd100c-8c70-4d26-b32f-7b587453eb29",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 30,
+    "verdict": "low"
+  },
+  {
+    "url": "https://autodiscover.bankofamericamerchantservices.ph",
+    "domain": "autodiscover.bankofamericamerchantservices.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-01T17:24:27.063305+00:00",
+    "first_seen": "2026-09-01T17:24:27.063305+00:00",
+    "uuid": "c1a50c41-f9d9-4367-bb3b-f97db228f970",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 30,
+    "verdict": "low"
+  },
+  {
+    "url": "https://autodiscover.bankofamerica-unauthorized.ph",
+    "domain": "autodiscover.bankofamerica-unauthorized.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-01T17:24:26.981475+00:00",
+    "first_seen": "2026-09-01T17:24:26.981475+00:00",
+    "uuid": "e2fafd79-f125-4655-9d5f-498a7088096a",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 30,
+    "verdict": "low"
+  },
+  {
+    "url": "https://pop.bankofamericacanadastore.ph",
+    "domain": "pop.bankofamericacanadastore.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-01T17:24:26.906512+00:00",
+    "first_seen": "2026-09-01T17:24:26.906512+00:00",
+    "uuid": "c43de70d-1996-4903-b192-ec5fd4fc34db",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 30,
+    "verdict": "low"
+  },
+  {
+    "url": "https://outlook.bankofamericana.ph",
+    "domain": "outlook.bankofamericana.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-01T17:24:26.834253+00:00",
+    "first_seen": "2026-09-01T17:24:26.834253+00:00",
+    "uuid": "b73726e1-f8e8-45ba-a182-f2ff5d24c4e2",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 30,
+    "verdict": "low"
+  },
+  {
+    "url": "https://smtp.bankofamericasecured.ph",
+    "domain": "smtp.bankofamericasecured.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-01T17:24:26.078598+00:00",
+    "first_seen": "2026-09-01T17:24:26.078598+00:00",
+    "uuid": "042a4094-302d-43f7-885f-102d915d8deb",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 30,
+    "verdict": "low"
+  },
+  {
+    "url": "https://smtp.debt-bankofamerica.ph",
+    "domain": "smtp.debt-bankofamerica.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-01T17:24:26.001311+00:00",
+    "first_seen": "2026-09-01T17:24:26.001311+00:00",
+    "uuid": "bdf14cb7-c8ca-4fd6-a50c-708838614e1e",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 3.3
+      }
+    ],
+    "score": 27,
+    "verdict": "low"
+  },
+  {
+    "url": "https://outlook.bankofamericasecured.ph",
+    "domain": "outlook.bankofamericasecured.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-01T17:24:25.924423+00:00",
+    "first_seen": "2026-09-01T17:24:25.924423+00:00",
+    "uuid": "817cbec3-c910-4e7a-aafd-8794236795b6",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 30,
+    "verdict": "low"
+  },
+  {
+    "url": "https://mx.debt-bankofamerica.ph",
+    "domain": "mx.debt-bankofamerica.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-01T17:24:25.837324+00:00",
+    "first_seen": "2026-09-01T17:24:25.837324+00:00",
+    "uuid": "8131e80f-9d66-457d-ac75-d9c24bf31239",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 3.3
+      }
+    ],
+    "score": 27,
+    "verdict": "low"
+  },
+  {
+    "url": "https://outlook.bankofamerica-unauthorized.ph",
+    "domain": "outlook.bankofamerica-unauthorized.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-01T17:24:25.721434+00:00",
+    "first_seen": "2026-09-01T17:24:25.721434+00:00",
+    "uuid": "6258ce93-fe5b-4272-945b-017ce2359c62",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 30,
+    "verdict": "low"
+  },
+  {
+    "url": "https://autodiscover.debt-bankofamerica.ph",
+    "domain": "autodiscover.debt-bankofamerica.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-01T17:24:25.082539+00:00",
+    "first_seen": "2026-09-01T17:24:25.082539+00:00",
+    "uuid": "8a766d7d-756c-42eb-b4ce-fafb6df8c7a1",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 3.3
+      }
+    ],
+    "score": 27,
+    "verdict": "low"
+  },
+  {
+    "url": "https://autoconfig.bankofamericamerchantservices.ph",
+    "domain": "autoconfig.bankofamericamerchantservices.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-01T17:24:24.461142+00:00",
+    "first_seen": "2026-09-01T17:24:24.461142+00:00",
+    "uuid": "15d094e1-d19f-4032-8676-6738fdfb3ad1",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 30,
+    "verdict": "low"
+  },
+  {
+    "url": "https://mx.bankofamericamerchantservices.ph",
+    "domain": "mx.bankofamericamerchantservices.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-01T17:24:24.367224+00:00",
+    "first_seen": "2026-09-01T17:24:24.367224+00:00",
+    "uuid": "e1386a2f-aa4d-4e41-8e98-386c394a7e82",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 30,
+    "verdict": "low"
+  },
+  {
+    "url": "https://autoconfig.bankofamericacanadastore.ph",
+    "domain": "autoconfig.bankofamericacanadastore.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-01T17:24:23.827614+00:00",
+    "first_seen": "2026-09-01T17:24:23.827614+00:00",
+    "uuid": "53cc8da7-7467-44d4-8e19-51952737cac5",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 30,
+    "verdict": "low"
+  },
+  {
+    "url": "https://mx.bankofamericasecured.ph",
+    "domain": "mx.bankofamericasecured.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-01T17:24:23.751463+00:00",
+    "first_seen": "2026-09-01T17:24:23.751463+00:00",
+    "uuid": "433440f5-2099-4460-82e3-69641431b3e8",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 30,
+    "verdict": "low"
+  },
+  {
+    "url": "https://autodiscover.bankofamericacanadastore.ph",
+    "domain": "autodiscover.bankofamericacanadastore.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-01T17:24:23.649427+00:00",
+    "first_seen": "2026-09-01T17:24:23.649427+00:00",
+    "uuid": "d518a11f-89dd-4a5f-ad08-2363934f933e",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 30,
+    "verdict": "low"
+  },
+  {
+    "url": "https://mail.bankofamericasecured.ph",
+    "domain": "mail.bankofamericasecured.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-01T17:24:22.955430+00:00",
+    "first_seen": "2026-09-01T17:24:22.955430+00:00",
+    "uuid": "8817f5f0-39e6-4558-a54f-39113dd374b0",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 30,
+    "verdict": "low"
+  },
+  {
+    "url": "https://secure-apple-id.com",
+    "domain": "secure-apple-id.com",
+    "company": "apple",
+    "date": "2026-09-01T17:24:22.107317+00:00",
+    "first_seen": "2026-09-01T17:24:22.107317+00:00",
+    "uuid": "96fc8651-3da6-4826-9e23-2d63012b08ab",
+    "ip": "198.52.247.68",
+    "country": "The Netherlands",
+    "asn": "215674",
+    "org": "Brookplus Limited",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 4.2
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      },
+      {
+        "signal": "hsts_missing",
+        "label": "No HSTS header",
+        "points": 1.1
+      }
+    ],
+    "score": 18,
+    "verdict": "noise"
+  },
+  {
+    "url": "https://sec-whatsapp.com",
+    "domain": "sec-whatsapp.com",
+    "company": "whatsapp",
+    "date": "2026-09-01T17:24:21.723459+00:00",
+    "first_seen": "2026-09-01T17:24:21.723459+00:00",
+    "uuid": "bf248048-9722-4e7a-8706-aa4c8b711f7e",
+    "ip": "156.234.67.94",
+    "country": "Hong Kong",
+    "asn": "138415",
+    "org": "Yancy Limited",
+    "cert": "YR2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 1.1
+      }
+    ],
+    "score": 21,
+    "verdict": "low"
+  },
+  {
+    "url": "https://mydhl-verifn.help",
+    "domain": "mydhl-verifn.help",
+    "company": "dhl",
+    "date": "2026-09-01T17:24:21.078814+00:00",
+    "first_seen": "2026-09-01T17:24:21.078814+00:00",
+    "uuid": "735be2bb-8846-4369-8cc4-85031403b75f",
+    "ip": "172.67.198.198",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      }
+    ],
+    "score": 29,
+    "verdict": "low"
+  },
+  {
+    "url": "https://business-premier-google.com",
+    "domain": "business-premier-google.com",
+    "company": "google",
+    "date": "2026-09-01T17:24:20.480420+00:00",
+    "first_seen": "2026-09-01T17:24:20.480420+00:00",
+    "uuid": "5c71a501-ecbf-4208-a691-876a150f8647",
+    "ip": "188.114.96.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 30,
+    "verdict": "low"
+  },
+  {
     "url": "https://allegrolokalnie.pl-109772.cfd/logowanie/13362",
     "domain": "allegrolokalnie.pl-109772.cfd",
     "company": "allegro",
@@ -27603,7 +28966,7 @@
     "malicious_google": false,
     "malicious_openphish": true,
     "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
+    "malicious_tweetfeed": true,
     "malicious_urlscan": false,
     "top_signals": [
       {

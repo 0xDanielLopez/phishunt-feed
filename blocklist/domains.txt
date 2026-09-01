@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 620
-# Updated: 2026-09-01T16:40:54Z
+# Entries: 631
+# Updated: 2026-09-01T21:02:47Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -38,12 +38,15 @@ authorised-support.com
 bankofamerica-com-login-update-unauthorized.ph
 bankofamerica-com-update-new-secure-loading-sitkey-onilne-pass.ph
 bankofamerica-secure-changelog.ph
+bankofamerica-unauthorized.ph
 bankofamerica-verificatie.ph
 bankofamericablockchain.ph
+bankofamericacanadastore.ph
 bankofamericamailcompte.blogspot.com
 bankofamericamerchantservices.ph
 bankofamericamortagage.ph
 bankofamericana.ph
+bankofamericasecured.ph
 barcelona-facebook.blogspot.com
 bbva-hiring-paperless.appspot.com
 bbvaglobalwealthadvisors.com
@@ -62,6 +65,7 @@ biowikiweb.com
 bnext.es
 brad-facebook.blogspot.com
 business-dropbox.me
+business-premier-google.com
 care-bankofamerica.ph
 case185366-coinbase.com
 cashappps.com
@@ -462,6 +466,7 @@ movistar-recaudo-epayc.com
 movistarepayco.com
 munimventures.com
 my-facebook-blog.blogspot.com
+mydhl-verifn.help
 neda-facebook.blogspot.com
 netflix-games.click
 netflix-login.blogspot.com
@@ -506,8 +511,12 @@ photosharing-icloud.com
 pl-109772.cfd
 pl-893057502435.icu
 pl-loka.shop
+pl-x37yq.sbs
+platnosc402199421.xyz
 play-google.cam
 plkuptera732183278681.bond
+plkupteraz732185943781.click
+pln385.lol
 premio-instagram.com
 prizebond.net.pk
 profil-facebook-saya.blogspot.com
@@ -542,6 +551,8 @@ santanderbank.shop
 santandercitas.com
 saque-instagram.com
 scotiabank-secure.info
+sec-whatsapp.com
+secure-apple-id.com
 secure-dropbox.ist
 secure-trezor-en-io.typedream.app
 securedsupport-coinbase.com

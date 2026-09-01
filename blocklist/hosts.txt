@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 620
-# Updated: 2026-09-01T16:38:51Z
+# Entries: 631
+# Updated: 2026-09-01T21:02:48Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -38,12 +38,15 @@
 0.0.0.0 bankofamerica-com-login-update-unauthorized.ph
 0.0.0.0 bankofamerica-com-update-new-secure-loading-sitkey-onilne-pass.ph
 0.0.0.0 bankofamerica-secure-changelog.ph
+0.0.0.0 bankofamerica-unauthorized.ph
 0.0.0.0 bankofamerica-verificatie.ph
 0.0.0.0 bankofamericablockchain.ph
+0.0.0.0 bankofamericacanadastore.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 bankofamericamerchantservices.ph
 0.0.0.0 bankofamericamortagage.ph
 0.0.0.0 bankofamericana.ph
+0.0.0.0 bankofamericasecured.ph
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 bbva-hiring-paperless.appspot.com
 0.0.0.0 bbvaglobalwealthadvisors.com
@@ -62,6 +65,7 @@
 0.0.0.0 bnext.es
 0.0.0.0 brad-facebook.blogspot.com
 0.0.0.0 business-dropbox.me
+0.0.0.0 business-premier-google.com
 0.0.0.0 care-bankofamerica.ph
 0.0.0.0 case185366-coinbase.com
 0.0.0.0 cashappps.com
@@ -462,6 +466,7 @@
 0.0.0.0 movistarepayco.com
 0.0.0.0 munimventures.com
 0.0.0.0 my-facebook-blog.blogspot.com
+0.0.0.0 mydhl-verifn.help
 0.0.0.0 neda-facebook.blogspot.com
 0.0.0.0 netflix-games.click
 0.0.0.0 netflix-login.blogspot.com
@@ -506,8 +511,12 @@
 0.0.0.0 pl-109772.cfd
 0.0.0.0 pl-893057502435.icu
 0.0.0.0 pl-loka.shop
+0.0.0.0 pl-x37yq.sbs
+0.0.0.0 platnosc402199421.xyz
 0.0.0.0 play-google.cam
 0.0.0.0 plkuptera732183278681.bond
+0.0.0.0 plkupteraz732185943781.click
+0.0.0.0 pln385.lol
 0.0.0.0 premio-instagram.com
 0.0.0.0 prizebond.net.pk
 0.0.0.0 profil-facebook-saya.blogspot.com
@@ -542,6 +551,8 @@
 0.0.0.0 santandercitas.com
 0.0.0.0 saque-instagram.com
 0.0.0.0 scotiabank-secure.info
+0.0.0.0 sec-whatsapp.com
+0.0.0.0 secure-apple-id.com
 0.0.0.0 secure-dropbox.ist
 0.0.0.0 secure-trezor-en-io.typedream.app
 0.0.0.0 securedsupport-coinbase.com
