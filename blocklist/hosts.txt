@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 622
-# Updated: 2026-09-02T11:19:39Z
+# Entries: 608
+# Updated: 2026-09-02T16:35:32Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -10,6 +10,7 @@
 0.0.0.0 164196-coinbase.com
 0.0.0.0 18493821-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
+0.0.0.0 239492341.casa
 0.0.0.0 393bet-facebook.sa.com
 0.0.0.0 54893-coinbase.com
 0.0.0.0 978489-coinbase.com
@@ -36,11 +37,8 @@
 0.0.0.0 assign-icloud.com
 0.0.0.0 authorised-support.com
 0.0.0.0 autoconfig.bankofamericacanadastore.ph
-0.0.0.0 autoconfig.bankofamericasecured.ph
-0.0.0.0 autodiscover.bankofamericacanadastore.ph
 0.0.0.0 bankofamerica-com-login-update-unauthorized.ph
 0.0.0.0 bankofamerica-com-update-new-secure-loading-sitkey-onilne-pass.ph
-0.0.0.0 bankofamerica-secure-changelog.ph
 0.0.0.0 bankofamerica-unauthorized.ph
 0.0.0.0 bankofamerica-verificatie.ph
 0.0.0.0 bankofamericablockchain.ph
@@ -48,6 +46,7 @@
 0.0.0.0 bankofamericamerchantservices.ph
 0.0.0.0 bankofamericamortagage.ph
 0.0.0.0 bankofamericana.ph
+0.0.0.0 bankofamericasecured.ph
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 bbva-hiring-paperless.appspot.com
 0.0.0.0 bbvaglobalwealthadvisors.com
@@ -63,6 +62,7 @@
 0.0.0.0 binanceuz.co
 0.0.0.0 binancewallett.blogspot.com
 0.0.0.0 biowikiweb.com
+0.0.0.0 bmb.adv.br
 0.0.0.0 bnext.es
 0.0.0.0 brad-facebook.blogspot.com
 0.0.0.0 business-dropbox.me
@@ -314,6 +314,7 @@
 0.0.0.0 googleuserlogin.cam
 0.0.0.0 googleww.com
 0.0.0.0 gpcconcrete.co.nz
+0.0.0.0 grupoimpaktu.ao
 0.0.0.0 h5-whatsapp-zn.hl.cn
 0.0.0.0 hashnode.dev
 0.0.0.0 help-instagram.blogspot.com
@@ -326,7 +327,6 @@
 0.0.0.0 hotmail143.net
 0.0.0.0 hsbc-sec.com
 0.0.0.0 hsbc.dev
-0.0.0.0 hsbcbankuk.ws
 0.0.0.0 hsbcpress.com
 0.0.0.0 hstn.me
 0.0.0.0 htttps-www-roblox.co
@@ -379,7 +379,6 @@
 0.0.0.0 instagramlogin77.blogspot.com
 0.0.0.0 instagramlogin99.blogspot.com
 0.0.0.0 instagramloginpage111.blogspot.com
-0.0.0.0 instagramloginpage2021.blogspot.com
 0.0.0.0 instagramloginpassword.blogspot.com
 0.0.0.0 instagramrecovery.blogspot.com
 0.0.0.0 instagramsnp.blogspot.com
@@ -393,7 +392,6 @@
 0.0.0.0 jo-facebook.blogspot.com
 0.0.0.0 jwb-facebook.blogspot.com
 0.0.0.0 kenhoward.com
-0.0.0.0 laravel.cloud
 0.0.0.0 lateinos.com.br
 0.0.0.0 ledger-live-download-sso-conect.typedream.app
 0.0.0.0 ledger-live-login-web.square.site
@@ -413,11 +411,6 @@
 0.0.0.0 login.rmdbwskx.santander.bimp-bot.duckdns.org
 0.0.0.0 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 0.0.0.0 loginfacebook-facebook.blogspot.com
-0.0.0.0 lokalna-0904921.sbs
-0.0.0.0 lokalna-47294.sbs
-0.0.0.0 lokalna-958204.sbs
-0.0.0.0 lokalna-ofera812712.sbs
-0.0.0.0 lokalna-ofeta287689147.sbs
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lovevivah.com
@@ -438,8 +431,8 @@
 0.0.0.0 metamasklskog.gitbook.io
 0.0.0.0 metamaskrewards.com
 0.0.0.0 metamaskwallett.blogspot.com
+0.0.0.0 meweb.kz
 0.0.0.0 mhmr.ro
-0.0.0.0 mhsdns.com
 0.0.0.0 mi-santander.com
 0.0.0.0 microsoft-se.us
 0.0.0.0 microsoft-sharepoint.fr
@@ -457,7 +450,6 @@
 0.0.0.0 movistar-recaudo-epayc.com
 0.0.0.0 movistarepayco.com
 0.0.0.0 munimventures.com
-0.0.0.0 mx.bankofamericasecured.ph
 0.0.0.0 my-facebook-blog.blogspot.com
 0.0.0.0 mydhl-verifn.help
 0.0.0.0 neda-facebook.blogspot.com
@@ -467,11 +459,11 @@
 0.0.0.0 netflix520.com
 0.0.0.0 netflix6.com
 0.0.0.0 netflixandchiffres.com
+0.0.0.0 netflixcasino.co.it
 0.0.0.0 netflixfeitoaqui.com.br
 0.0.0.0 netflixhasnohomepage.com
 0.0.0.0 netflixquebec.blogspot.com
 0.0.0.0 netflixreviewflix.com
-0.0.0.0 netflixroulette.club
 0.0.0.0 netflixseeker.com
 0.0.0.0 netflixtoto.xyz
 0.0.0.0 netflixtunisie.com.tn
@@ -481,14 +473,12 @@
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 oferta-lokalana684538913895.shop
-0.0.0.0 oferta-lokalna8654968923445.shop
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 online-facebook-privacy.blogspot.com
 0.0.0.0 oortstorages.com
 0.0.0.0 oovra.club
 0.0.0.0 openai-coin.com
 0.0.0.0 openai-online.net
-0.0.0.0 outlook.bankofamericasecured.ph
 0.0.0.0 outlookindia.com
 0.0.0.0 outlookmail.social
 0.0.0.0 pago-correos.es
@@ -502,11 +492,9 @@
 0.0.0.0 paypalcorp.blogspot.com
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 photosharing-icloud.com
-0.0.0.0 pl-893057502435.icu
+0.0.0.0 pl01972.cam
 0.0.0.0 play-google.cam
-0.0.0.0 plkuptera732183278681.bond
 0.0.0.0 pop.bankofamericacanadastore.ph
-0.0.0.0 pop.bankofamericasecured.ph
 0.0.0.0 premio-instagram.com
 0.0.0.0 prizebond.net.pk
 0.0.0.0 profil-facebook-saya.blogspot.com
@@ -555,7 +543,6 @@
 0.0.0.0 sites.google.com.drive.pratham.vincacybertechltd.myshn.net
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 smtp.bankofamericacanadastore.ph
-0.0.0.0 smtp.bankofamericasecured.ph
 0.0.0.0 spotify-modapk.com
 0.0.0.0 spotify-plus.com
 0.0.0.0 srpska-banka.com
@@ -607,7 +594,6 @@
 0.0.0.0 web-conect-us-ledger-live-wallet.typedream.app
 0.0.0.0 webaccess-alert.com
 0.0.0.0 webmail.bankofamericacanadastore.ph
-0.0.0.0 webmail.bankofamericasecured.ph
 0.0.0.0 whatsapp-verify.blogspot.com
 0.0.0.0 whatsappapk.org
 0.0.0.0 whatsappfreewhatsapp.blogspot.com
