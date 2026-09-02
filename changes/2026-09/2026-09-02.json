@@ -1,10 +1,10 @@
 {
  "date": "2026-09-02",
- "updated": "2026-09-02T16:35:33Z",
+ "updated": "2026-09-02T21:04:10Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 18,
+  "added": 28,
   "removed": 54
  },
  "added": [
@@ -12,20 +12,30 @@
   "http://allegrolokalnie.pl01972.cam/oferta/hulajnoga-kukirin-g4-2026/235356191",
   "http://bmb.adv.br/meetings/microsoft-store.html",
   "http://facebook.meweb.kz",
+  "https://73a2370016b7.7.zaikan2.account-paypal.antimoney-laundering.org",
   "https://autodiscover.bankofamericana.ph",
+  "https://dpdher.buzz",
+  "https://ebaymevip.com",
   "https://grupoimpaktu.ao/quotesss/onedrive-verify-obf.html",
   "https://itau777.com",
   "https://ledgerlivewebapp.com",
   "https://mail.bankofamerica-unauthorized.ph",
   "https://mail.bankofamericacanadastore.ph",
+  "https://mail.debt-bankofamerica.ph",
   "https://netflixcasino.co.it",
+  "https://outlook.debt-bankofamerica.ph",
+  "https://pop.bankofamerica-unauthorized.ph",
+  "https://pop.bankofamericamerchantservices.ph",
   "https://pop.bankofamericasecured.ph",
   "https://roblox.com.ml/users/120953165631/profile",
   "https://siyarata-assets-workbench.whatsappapk.org",
   "https://steamcommunity-balanceworkshop.shop",
+  "https://uspsecuredlogs.com",
+  "https://verifyaccount-wellsfargo.com",
   "https://webmail.bankofamericacanadastore.ph",
   "https://webmail.bankofamericana.ph",
-  "https://webmail.bankofamericasecured.ph"
+  "https://webmail.bankofamericasecured.ph",
+  "https://webmail.debt-bankofamerica.ph"
  ],
  "removed": [
   "http://allegro.kupteraz429199421.xyz",

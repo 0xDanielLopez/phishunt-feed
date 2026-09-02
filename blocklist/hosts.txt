@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 608
-# Updated: 2026-09-02T16:35:32Z
+# Entries: 613
+# Updated: 2026-09-02T21:04:10Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -30,6 +30,7 @@
 0.0.0.0 amazon-promos.shop
 0.0.0.0 amazonbookawards.com
 0.0.0.0 ani-facebook.blogspot.com
+0.0.0.0 antimoney-laundering.org
 0.0.0.0 app-facebook.blogspot.com
 0.0.0.0 app81-facebook.blogspot.com
 0.0.0.0 appengine.google.com.drive.pratham.vincacybertechltd.myshn.net
@@ -88,6 +89,7 @@
 0.0.0.0 docs-google.com
 0.0.0.0 docs.google.com.drive.pratham.vincacybertechltd.myshn.net
 0.0.0.0 dothome.co.kr
+0.0.0.0 dpdher.buzz
 0.0.0.0 dpdi.xyz
 0.0.0.0 dropbox-online.at
 0.0.0.0 dropbox-online.net
@@ -97,6 +99,7 @@
 0.0.0.0 ebay-phone-number.blogspot.com
 0.0.0.0 ebay-wholesale.com
 0.0.0.0 ebayfoll.store
+0.0.0.0 ebaymevip.com
 0.0.0.0 edge-microsoft-zh.com.cn
 0.0.0.0 email-microsoft.com
 0.0.0.0 empresas-hsbc.com
@@ -584,8 +587,10 @@
 0.0.0.0 usacrazyseller.com
 0.0.0.0 usps-pickup.com
 0.0.0.0 uspsaunitedworkforce.com
+0.0.0.0 uspsecuredlogs.com
 0.0.0.0 uspsglobal.delivery
 0.0.0.0 uspssmartpackagelockers.com
+0.0.0.0 verifyaccount-wellsfargo.com
 0.0.0.0 verifytoken.com
 0.0.0.0 vi-facebook.blogspot.com
 0.0.0.0 vn-facebook.blogspot.com

@@ -1,5 +1,475 @@
 [
   {
+    "url": "https://73a2370016b7.7.zaikan2.account-paypal.antimoney-laundering.org",
+    "domain": "73a2370016b7.7.zaikan2.account-paypal.antimoney-laundering.org",
+    "company": "paypal",
+    "date": "2026-09-02T17:25:21.215424+00:00",
+    "first_seen": "2026-09-02T17:25:21.215424+00:00",
+    "uuid": "b85f6bd9-c4df-4643-b4a9-d1cb37c0d86c",
+    "ip": "208.91.197.27",
+    "country": "United States",
+    "asn": "40034",
+    "org": "Confluence Networks Inc",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      },
+      {
+        "signal": "hsts_missing",
+        "label": "No HSTS header",
+        "points": 1.1
+      }
+    ],
+    "score": 21,
+    "verdict": "low"
+  },
+  {
+    "url": "https://verifyaccount-wellsfargo.com",
+    "domain": "verifyaccount-wellsfargo.com",
+    "company": "wellsfargo",
+    "date": "2026-09-02T17:25:14.830212+00:00",
+    "first_seen": "2026-09-02T17:25:14.830212+00:00",
+    "uuid": "4c42376d-64f8-4510-aa57-56aff8d966a2",
+    "ip": "54.215.31.113",
+    "country": "United States",
+    "asn": "16509",
+    "org": "Amazon.com, Inc.",
+    "cert": "YR1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 1.5
+      }
+    ],
+    "score": 27,
+    "verdict": "low"
+  },
+  {
+    "url": "https://uspsecuredlogs.com",
+    "domain": "uspsecuredlogs.com",
+    "company": "usps",
+    "date": "2026-09-02T17:25:13.698248+00:00",
+    "first_seen": "2026-09-02T17:25:13.698248+00:00",
+    "uuid": "535b829b-515c-4e1b-a6e4-ade104fc7761",
+    "ip": "207.210.229.232",
+    "country": "United States",
+    "asn": "17378",
+    "org": "TierPoint, LLC",
+    "cert": "YR1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      }
+    ],
+    "score": 28,
+    "verdict": "low"
+  },
+  {
+    "url": "https://ebaymevip.com",
+    "domain": "ebaymevip.com",
+    "company": "ebay",
+    "date": "2026-09-02T17:25:12.826149+00:00",
+    "first_seen": "2026-09-02T17:25:12.826149+00:00",
+    "uuid": "bcd703eb-769a-454f-9b20-1ed84a0edc5a",
+    "ip": "43.135.161.205",
+    "country": "United States",
+    "asn": "132203",
+    "org": "Tencent Building, Kejizhongyi Avenue",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 4.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      }
+    ],
+    "score": 29,
+    "verdict": "low"
+  },
+  {
+    "url": "https://dpdher.buzz",
+    "domain": "dpdher.buzz",
+    "company": "dpd",
+    "date": "2026-09-02T17:25:11.991198+00:00",
+    "first_seen": "2026-09-02T17:25:11.991198+00:00",
+    "uuid": "71ce8cc3-a92d-44fe-944f-3d26c30f4b77",
+    "ip": "43.162.111.113",
+    "country": "United States",
+    "asn": "132203",
+    "org": "Tencent Building, Kejizhongyi Avenue",
+    "cert": "YE2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 3.0
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 2.8
+      }
+    ],
+    "score": 29,
+    "verdict": "low"
+  },
+  {
+    "url": "https://webmail.debt-bankofamerica.ph",
+    "domain": "webmail.debt-bankofamerica.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-02T17:25:10.436719+00:00",
+    "first_seen": "2026-09-02T17:25:10.436719+00:00",
+    "uuid": "fc9c25a7-5682-4572-98f3-b7c6c681eecd",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 3.4
+      }
+    ],
+    "score": 27,
+    "verdict": "low"
+  },
+  {
+    "url": "https://outlook.debt-bankofamerica.ph",
+    "domain": "outlook.debt-bankofamerica.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-02T17:25:10.180102+00:00",
+    "first_seen": "2026-09-02T17:25:10.180102+00:00",
+    "uuid": "f5133614-c92b-4a9b-a050-583c524a6c4d",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 3.4
+      }
+    ],
+    "score": 27,
+    "verdict": "low"
+  },
+  {
+    "url": "https://pop.bankofamerica-unauthorized.ph",
+    "domain": "pop.bankofamerica-unauthorized.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-02T17:25:09.932547+00:00",
+    "first_seen": "2026-09-02T17:25:09.932547+00:00",
+    "uuid": "e3a71b7c-62f9-44fb-9637-d312a0afa748",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 31,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://pop.bankofamericamerchantservices.ph",
+    "domain": "pop.bankofamericamerchantservices.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-02T17:25:08.886557+00:00",
+    "first_seen": "2026-09-02T17:25:08.886557+00:00",
+    "uuid": "9d738365-8ebb-4557-b3d5-77d2845ea840",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 30,
+    "verdict": "low"
+  },
+  {
+    "url": "https://mail.debt-bankofamerica.ph",
+    "domain": "mail.debt-bankofamerica.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-02T17:25:08.205127+00:00",
+    "first_seen": "2026-09-02T17:25:08.205127+00:00",
+    "uuid": "f855b1b3-3791-454e-867d-7f782c7bec77",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 3.4
+      }
+    ],
+    "score": 27,
+    "verdict": "low"
+  },
+  {
     "url": "https://roblox.com.ml/users/120953165631/profile",
     "domain": "roblox.com.ml",
     "company": "roblox",
@@ -29483,7 +29953,7 @@
     "malicious_google": false,
     "malicious_openphish": true,
     "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
+    "malicious_tweetfeed": true,
     "malicious_urlscan": false,
     "top_signals": [
       {

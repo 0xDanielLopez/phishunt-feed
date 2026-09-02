@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 608
-! Updated: 2026-09-02T16:35:33Z
+! Entries: 613
+! Updated: 2026-09-02T21:04:10Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -30,6 +30,7 @@
 ||amazon-promos.shop^
 ||amazonbookawards.com^
 ||ani-facebook.blogspot.com^
+||antimoney-laundering.org^
 ||app-facebook.blogspot.com^
 ||app81-facebook.blogspot.com^
 ||appengine.google.com.drive.pratham.vincacybertechltd.myshn.net^
@@ -88,6 +89,7 @@
 ||docs-google.com^
 ||docs.google.com.drive.pratham.vincacybertechltd.myshn.net^
 ||dothome.co.kr^
+||dpdher.buzz^
 ||dpdi.xyz^
 ||dropbox-online.at^
 ||dropbox-online.net^
@@ -97,6 +99,7 @@
 ||ebay-phone-number.blogspot.com^
 ||ebay-wholesale.com^
 ||ebayfoll.store^
+||ebaymevip.com^
 ||edge-microsoft-zh.com.cn^
 ||email-microsoft.com^
 ||empresas-hsbc.com^
@@ -584,8 +587,10 @@
 ||usacrazyseller.com^
 ||usps-pickup.com^
 ||uspsaunitedworkforce.com^
+||uspsecuredlogs.com^
 ||uspsglobal.delivery^
 ||uspssmartpackagelockers.com^
+||verifyaccount-wellsfargo.com^
 ||verifytoken.com^
 ||vi-facebook.blogspot.com^
 ||vn-facebook.blogspot.com^
