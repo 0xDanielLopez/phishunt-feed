@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 631
-# Updated: 2026-09-01T21:02:48Z
+# Entries: 619
+# Updated: 2026-09-02T04:35:16Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -210,7 +210,6 @@
 0.0.0.0 facebookahla.blogspot.com
 0.0.0.0 facebookbfacebook.blogspot.com
 0.0.0.0 facebookbigeronline.blogspot.com
-0.0.0.0 facebookclone.duckdns.org
 0.0.0.0 facebookcomfacebook.blogspot.com
 0.0.0.0 facebookcustomer-service.com
 0.0.0.0 facebookcustomersupportnumber25.blogspot.com
@@ -269,7 +268,6 @@
 0.0.0.0 facebookwebsite9.blogspot.com
 0.0.0.0 fake-facebook.blogspot.com
 0.0.0.0 fedexinterviewprep.com
-0.0.0.0 fedexonl.com
 0.0.0.0 fedexsubdelivery.com
 0.0.0.0 ffmka.club
 0.0.0.0 fifa-store.shop
@@ -328,7 +326,6 @@
 0.0.0.0 hotmail143.net
 0.0.0.0 hsbc-sec.com
 0.0.0.0 hsbc.dev
-0.0.0.0 hsbcbank-london.ws
 0.0.0.0 hsbcbankuk.ws
 0.0.0.0 hsbcpress.com
 0.0.0.0 hstn.me
@@ -351,12 +348,10 @@
 0.0.0.0 ingdirect-usuario-soporte.com
 0.0.0.0 ingdirect-web-validado.com
 0.0.0.0 iniciamazon.com.br
-0.0.0.0 instagram-accounts-login.duckdns.org
 0.0.0.0 instagram-analytics.blogspot.com
 0.0.0.0 instagram-app.cn
 0.0.0.0 instagram-baittouts-login.blogspot.com
 0.0.0.0 instagram-change-password.blogspot.com
-0.0.0.0 instagram-clone-app-cyi5.bolt.host
 0.0.0.0 instagram-demo.blogspot.com
 0.0.0.0 instagram-e.com.cn
 0.0.0.0 instagram-g.com.cn
@@ -398,7 +393,6 @@
 0.0.0.0 jo-facebook.blogspot.com
 0.0.0.0 jwb-facebook.blogspot.com
 0.0.0.0 kenhoward.com
-0.0.0.0 kupteraz429199421.xyz
 0.0.0.0 laravel.cloud
 0.0.0.0 lateinos.com.br
 0.0.0.0 ledger-live-download-sso-conect.typedream.app
@@ -406,6 +400,7 @@
 0.0.0.0 ledger-live-wallet-start-conect-us-en.typedream.app
 0.0.0.0 ledger-lives-desktop.square.site
 0.0.0.0 ledger-liveusa.zapier.app
+0.0.0.0 ledgerlivewebapp.com
 0.0.0.0 ledgrelivapp--crome.typedream.app
 0.0.0.0 lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
 0.0.0.0 lnk.ink
@@ -421,12 +416,9 @@
 0.0.0.0 lokalna-0493729.sbs
 0.0.0.0 lokalna-0904921.sbs
 0.0.0.0 lokalna-47294.sbs
-0.0.0.0 lokalna-8487391.sbs
 0.0.0.0 lokalna-958204.sbs
 0.0.0.0 lokalna-ofera812712.sbs
-0.0.0.0 lokalna-ofera930133.lol
 0.0.0.0 lokalna-ofeta287689147.sbs
-0.0.0.0 lokalna-ofeta9914122115.sbs
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lovevivah.com
@@ -511,12 +503,8 @@
 0.0.0.0 pl-109772.cfd
 0.0.0.0 pl-893057502435.icu
 0.0.0.0 pl-loka.shop
-0.0.0.0 pl-x37yq.sbs
-0.0.0.0 platnosc402199421.xyz
 0.0.0.0 play-google.cam
 0.0.0.0 plkuptera732183278681.bond
-0.0.0.0 plkupteraz732185943781.click
-0.0.0.0 pln385.lol
 0.0.0.0 premio-instagram.com
 0.0.0.0 prizebond.net.pk
 0.0.0.0 profil-facebook-saya.blogspot.com
@@ -543,6 +531,7 @@
 0.0.0.0 roblox.com.et
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.kz
+0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 rricrosoft-offices.org
@@ -552,7 +541,6 @@
 0.0.0.0 saque-instagram.com
 0.0.0.0 scotiabank-secure.info
 0.0.0.0 sec-whatsapp.com
-0.0.0.0 secure-apple-id.com
 0.0.0.0 secure-dropbox.ist
 0.0.0.0 secure-trezor-en-io.typedream.app
 0.0.0.0 securedsupport-coinbase.com
@@ -618,8 +606,8 @@
 0.0.0.0 web-conect-us-ledger-live-wallet.typedream.app
 0.0.0.0 webaccess-alert.com
 0.0.0.0 whatsapp-verify.blogspot.com
+0.0.0.0 whatsappapk.org
 0.0.0.0 whatsappfreewhatsapp.blogspot.com
-0.0.0.0 whatsapptools.pro
 0.0.0.0 windows-ledger-live.typedream.app
 0.0.0.0 ww-facebook.blogspot.com
 0.0.0.0 www-app-google.com

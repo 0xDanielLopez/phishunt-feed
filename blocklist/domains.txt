@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 631
-# Updated: 2026-09-01T21:02:47Z
+# Entries: 619
+# Updated: 2026-09-02T04:35:15Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -210,7 +210,6 @@ facebookaccountsmanager.blogspot.com
 facebookahla.blogspot.com
 facebookbfacebook.blogspot.com
 facebookbigeronline.blogspot.com
-facebookclone.duckdns.org
 facebookcomfacebook.blogspot.com
 facebookcustomer-service.com
 facebookcustomersupportnumber25.blogspot.com
@@ -269,7 +268,6 @@ facebookverifyyouraccount.blogspot.com
 facebookwebsite9.blogspot.com
 fake-facebook.blogspot.com
 fedexinterviewprep.com
-fedexonl.com
 fedexsubdelivery.com
 ffmka.club
 fifa-store.shop
@@ -328,7 +326,6 @@ hot-binance.com.cn
 hotmail143.net
 hsbc-sec.com
 hsbc.dev
-hsbcbank-london.ws
 hsbcbankuk.ws
 hsbcpress.com
 hstn.me
@@ -351,12 +348,10 @@ ingdirect-soporte-servicios.com
 ingdirect-usuario-soporte.com
 ingdirect-web-validado.com
 iniciamazon.com.br
-instagram-accounts-login.duckdns.org
 instagram-analytics.blogspot.com
 instagram-app.cn
 instagram-baittouts-login.blogspot.com
 instagram-change-password.blogspot.com
-instagram-clone-app-cyi5.bolt.host
 instagram-demo.blogspot.com
 instagram-e.com.cn
 instagram-g.com.cn
@@ -398,7 +393,6 @@ jj-facebook.blogspot.com
 jo-facebook.blogspot.com
 jwb-facebook.blogspot.com
 kenhoward.com
-kupteraz429199421.xyz
 laravel.cloud
 lateinos.com.br
 ledger-live-download-sso-conect.typedream.app
@@ -406,6 +400,7 @@ ledger-live-login-web.square.site
 ledger-live-wallet-start-conect-us-en.typedream.app
 ledger-lives-desktop.square.site
 ledger-liveusa.zapier.app
+ledgerlivewebapp.com
 ledgrelivapp--crome.typedream.app
 lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
 lnk.ink
@@ -421,12 +416,9 @@ loginfacebook-facebook.blogspot.com
 lokalna-0493729.sbs
 lokalna-0904921.sbs
 lokalna-47294.sbs
-lokalna-8487391.sbs
 lokalna-958204.sbs
 lokalna-ofera812712.sbs
-lokalna-ofera930133.lol
 lokalna-ofeta287689147.sbs
-lokalna-ofeta9914122115.sbs
 love-facebook.blogspot.com
 lovefive-facebook.blogspot.com
 lovevivah.com
@@ -511,12 +503,8 @@ photosharing-icloud.com
 pl-109772.cfd
 pl-893057502435.icu
 pl-loka.shop
-pl-x37yq.sbs
-platnosc402199421.xyz
 play-google.cam
 plkuptera732183278681.bond
-plkupteraz732185943781.click
-pln385.lol
 premio-instagram.com
 prizebond.net.pk
 profil-facebook-saya.blogspot.com
@@ -543,6 +531,7 @@ roblox.com.bz
 roblox.com.et
 roblox.com.gr
 roblox.com.kz
+roblox.com.ml
 roblox.com.mu
 roblox.com.pt
 rricrosoft-offices.org
@@ -552,7 +541,6 @@ santandercitas.com
 saque-instagram.com
 scotiabank-secure.info
 sec-whatsapp.com
-secure-apple-id.com
 secure-dropbox.ist
 secure-trezor-en-io.typedream.app
 securedsupport-coinbase.com
@@ -618,8 +606,8 @@ vpnuse.eu.org
 web-conect-us-ledger-live-wallet.typedream.app
 webaccess-alert.com
 whatsapp-verify.blogspot.com
+whatsappapk.org
 whatsappfreewhatsapp.blogspot.com
-whatsapptools.pro
 windows-ledger-live.typedream.app
 ww-facebook.blogspot.com
 www-app-google.com
