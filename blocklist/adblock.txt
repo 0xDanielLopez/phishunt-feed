@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 619
-! Updated: 2026-09-02T04:35:16Z
+! Entries: 622
+! Updated: 2026-09-02T11:19:40Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -35,18 +35,19 @@
 ||asif.me^
 ||assign-icloud.com^
 ||authorised-support.com^
+||autoconfig.bankofamericacanadastore.ph^
+||autoconfig.bankofamericasecured.ph^
+||autodiscover.bankofamericacanadastore.ph^
 ||bankofamerica-com-login-update-unauthorized.ph^
 ||bankofamerica-com-update-new-secure-loading-sitkey-onilne-pass.ph^
 ||bankofamerica-secure-changelog.ph^
 ||bankofamerica-unauthorized.ph^
 ||bankofamerica-verificatie.ph^
 ||bankofamericablockchain.ph^
-||bankofamericacanadastore.ph^
 ||bankofamericamailcompte.blogspot.com^
 ||bankofamericamerchantservices.ph^
 ||bankofamericamortagage.ph^
 ||bankofamericana.ph^
-||bankofamericasecured.ph^
 ||barcelona-facebook.blogspot.com^
 ||bbva-hiring-paperless.appspot.com^
 ||bbvaglobalwealthadvisors.com^
@@ -65,7 +66,6 @@
 ||bnext.es^
 ||brad-facebook.blogspot.com^
 ||business-dropbox.me^
-||business-premier-google.com^
 ||care-bankofamerica.ph^
 ||case185366-coinbase.com^
 ||cashappps.com^
@@ -333,7 +333,6 @@
 ||icloud-i-cl.com^
 ||icloud-network.com^
 ||icloud-sharedalbum.com^
-||icloudhelp.com^
 ||icloudweb-ext1476.click^
 ||icloudwebmx-ext04.help^
 ||id-kraken-controle.com^
@@ -388,6 +387,7 @@
 ||instagramusicabrasilinstagram.blogspot.com^
 ||internal-alerts.com^
 ||invreceiptslinkedin.com^
+||itau777.com^
 ||jimdofree.com^
 ||jj-facebook.blogspot.com^
 ||jo-facebook.blogspot.com^
@@ -413,7 +413,6 @@
 ||login.rmdbwskx.santander.bimp-bot.duckdns.org^
 ||login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org^
 ||loginfacebook-facebook.blogspot.com^
-||lokalna-0493729.sbs^
 ||lokalna-0904921.sbs^
 ||lokalna-47294.sbs^
 ||lokalna-958204.sbs^
@@ -425,6 +424,7 @@
 ||ly-facebook.blogspot.com^
 ||m365-microsoft.com^
 ||m4ntapaset.ink^
+||mail.bankofamericacanadastore.ph^
 ||mail.google.com.drive.pratham.vincacybertechltd.myshn.net^
 ||mb-facebook.blogspot.com^
 ||meme-facebook.blogspot.com^
@@ -457,6 +457,7 @@
 ||movistar-recaudo-epayc.com^
 ||movistarepayco.com^
 ||munimventures.com^
+||mx.bankofamericasecured.ph^
 ||my-facebook-blog.blogspot.com^
 ||mydhl-verifn.help^
 ||neda-facebook.blogspot.com^
@@ -487,6 +488,7 @@
 ||oovra.club^
 ||openai-coin.com^
 ||openai-online.net^
+||outlook.bankofamericasecured.ph^
 ||outlookindia.com^
 ||outlookmail.social^
 ||pago-correos.es^
@@ -500,11 +502,11 @@
 ||paypalcorp.blogspot.com^
 ||pe-facebook.blogspot.com^
 ||photosharing-icloud.com^
-||pl-109772.cfd^
 ||pl-893057502435.icu^
-||pl-loka.shop^
 ||play-google.cam^
 ||plkuptera732183278681.bond^
+||pop.bankofamericacanadastore.ph^
+||pop.bankofamericasecured.ph^
 ||premio-instagram.com^
 ||prizebond.net.pk^
 ||profil-facebook-saya.blogspot.com^
@@ -552,14 +554,15 @@
 ||sirjooni.com^
 ||sites.google.com.drive.pratham.vincacybertechltd.myshn.net^
 ||sk-facebook.blogspot.com^
-||skachat-itunes.ru^
-||skachat-microsoft-visual.ru^
+||smtp.bankofamericacanadastore.ph^
+||smtp.bankofamericasecured.ph^
 ||spotify-modapk.com^
 ||spotify-plus.com^
 ||srpska-banka.com^
 ||sso-ledger-live-strt-ledger-support-cdn.typedream.app^
 ||start-ledgren.zapier.app^
 ||start-web-en-ledger-live-login.typedream.app^
+||steamcommunity-balanceworkshop.shop^
 ||steamcommunity.blog^
 ||steamcommunity.ing^
 ||steuerquimica.cl^
@@ -570,7 +573,6 @@
 ||support.zoom.us.pro.kaisarstore.dpdns.org^
 ||support.zoom.us.vip.kaisarstore.dpdns.org^
 ||swanhui.com^
-||sylam.vip^
 ||tara-facebook.blogspot.com^
 ||tb-facebook.blogspot.com^
 ||temporary.site^
@@ -591,7 +593,6 @@
 ||uk-facebook.blogspot.com^
 ||unaux.com^
 ||updata.net.cn^
-||update-netflix.info^
 ||us-nqzqo.life^
 ||usacrazyseller.com^
 ||usps-pickup.com^
@@ -605,6 +606,8 @@
 ||vpnuse.eu.org^
 ||web-conect-us-ledger-live-wallet.typedream.app^
 ||webaccess-alert.com^
+||webmail.bankofamericacanadastore.ph^
+||webmail.bankofamericasecured.ph^
 ||whatsapp-verify.blogspot.com^
 ||whatsappapk.org^
 ||whatsappfreewhatsapp.blogspot.com^
