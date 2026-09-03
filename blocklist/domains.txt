@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 592
-# Updated: 2026-09-03T11:15:44Z
+# Entries: 584
+# Updated: 2026-09-03T16:26:07Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -30,17 +30,13 @@ alibaba66slot.app
 amazon-promos.shop
 amazonbookawards.com
 ani-facebook.blogspot.com
-antimoney-laundering.org
 app-facebook.blogspot.com
 app81-facebook.blogspot.com
 appengine.google.com.drive.pratham.vincacybertechltd.myshn.net
 asif.me
 assign-icloud.com
 authorised-support.com
-bankofamerica-verificatie.ph
 bankofamericamailcompte.blogspot.com
-bankofamericamortagage.ph
-bankofamericana.ph
 barcelona-facebook.blogspot.com
 bbva-hiring-paperless.appspot.com
 bbvaglobalwealthadvisors.com
@@ -62,6 +58,7 @@ boxofthings.com
 brad-facebook.blogspot.com
 business-dropbox.me
 c-icloud.com
+carivo.vu
 case185366-coinbase.com
 cashappps.com
 ch-google.cc
@@ -91,7 +88,6 @@ ebay-phone-number.blogspot.com
 ebay-wholesale.com
 ebayfoll.store
 ebaymevip.com
-edge-microsoft-zh.com.cn
 email-microsoft.com
 empresas-hsbc.com
 epsilons.co
@@ -266,14 +262,12 @@ fedexsubdelivery.com
 ffmka.club
 fifa-store.shop
 fifaworldcupgiveaway.com
-fifaworldcups26.com
 file-whatsappn.hl.cn
 fmi-icloud.pro
 forsakens-crew-teman-facebook.blogspot.com
 foryour.review
 free-facebook-page-likes.blogspot.com
 fwh.is
-g0ogle.com
 gafiatechnologies.com
 gateareis.vu
 geotehnica.com
@@ -325,8 +319,6 @@ hstn.me
 icloud-i-cl.com
 icloud-network.com
 icloud-sharedalbum.com
-icloudweb-ext1476.click
-icloudwebmx-ext04.help
 id-kraken-controle.com
 ifotografix.co.uk
 info-facebook.blogspot.com
@@ -434,6 +426,7 @@ microsoftjk.eu.org
 microsoftsupportcenter.digital
 microsoftuk.co
 microsoftwordob.blogspot.com
+minttaskapp.com
 mirror-google.com
 misilabario.cl
 ml-facebook.blogspot.com
@@ -508,7 +501,7 @@ roblox.com.bn
 roblox.com.bz
 roblox.com.et
 roblox.com.gr
-roblox.com.ml
+roblox.com.ms
 roblox.com.mu
 roblox.com.pt
 rricrosoft-offices.org
@@ -516,7 +509,6 @@ s-facebook.blogspot.com
 santanderbank.shop
 santandercitas.com
 saque-instagram.com
-scotiabank-secure.info
 sec-whatsapp.com
 secure-dropbox.ist
 secure-trezor-en-io.typedream.app
@@ -528,6 +520,7 @@ seureonline.shop
 shoppingonamazon.net
 sites.google.com.drive.pratham.vincacybertechltd.myshn.net
 sk-facebook.blogspot.com
+softr.app
 spotify-modapk.com
 spotify-plus.com
 srpska-banka.com
@@ -571,7 +564,6 @@ uspsaunitedworkforce.com
 uspsecuredlogs.com
 uspsglobal.delivery
 uspssmartpackagelockers.com
-verifyaccount-wellsfargo.com
 verifytoken.com
 vi-facebook.blogspot.com
 vn-facebook.blogspot.com

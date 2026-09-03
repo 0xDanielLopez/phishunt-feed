@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 592
-# Updated: 2026-09-03T11:15:44Z
+# Entries: 584
+# Updated: 2026-09-03T16:26:08Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -30,17 +30,13 @@
 0.0.0.0 amazon-promos.shop
 0.0.0.0 amazonbookawards.com
 0.0.0.0 ani-facebook.blogspot.com
-0.0.0.0 antimoney-laundering.org
 0.0.0.0 app-facebook.blogspot.com
 0.0.0.0 app81-facebook.blogspot.com
 0.0.0.0 appengine.google.com.drive.pratham.vincacybertechltd.myshn.net
 0.0.0.0 asif.me
 0.0.0.0 assign-icloud.com
 0.0.0.0 authorised-support.com
-0.0.0.0 bankofamerica-verificatie.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
-0.0.0.0 bankofamericamortagage.ph
-0.0.0.0 bankofamericana.ph
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 bbva-hiring-paperless.appspot.com
 0.0.0.0 bbvaglobalwealthadvisors.com
@@ -62,6 +58,7 @@
 0.0.0.0 brad-facebook.blogspot.com
 0.0.0.0 business-dropbox.me
 0.0.0.0 c-icloud.com
+0.0.0.0 carivo.vu
 0.0.0.0 case185366-coinbase.com
 0.0.0.0 cashappps.com
 0.0.0.0 ch-google.cc
@@ -91,7 +88,6 @@
 0.0.0.0 ebay-wholesale.com
 0.0.0.0 ebayfoll.store
 0.0.0.0 ebaymevip.com
-0.0.0.0 edge-microsoft-zh.com.cn
 0.0.0.0 email-microsoft.com
 0.0.0.0 empresas-hsbc.com
 0.0.0.0 epsilons.co
@@ -266,14 +262,12 @@
 0.0.0.0 ffmka.club
 0.0.0.0 fifa-store.shop
 0.0.0.0 fifaworldcupgiveaway.com
-0.0.0.0 fifaworldcups26.com
 0.0.0.0 file-whatsappn.hl.cn
 0.0.0.0 fmi-icloud.pro
 0.0.0.0 forsakens-crew-teman-facebook.blogspot.com
 0.0.0.0 foryour.review
 0.0.0.0 free-facebook-page-likes.blogspot.com
 0.0.0.0 fwh.is
-0.0.0.0 g0ogle.com
 0.0.0.0 gafiatechnologies.com
 0.0.0.0 gateareis.vu
 0.0.0.0 geotehnica.com
@@ -325,8 +319,6 @@
 0.0.0.0 icloud-i-cl.com
 0.0.0.0 icloud-network.com
 0.0.0.0 icloud-sharedalbum.com
-0.0.0.0 icloudweb-ext1476.click
-0.0.0.0 icloudwebmx-ext04.help
 0.0.0.0 id-kraken-controle.com
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 info-facebook.blogspot.com
@@ -434,6 +426,7 @@
 0.0.0.0 microsoftsupportcenter.digital
 0.0.0.0 microsoftuk.co
 0.0.0.0 microsoftwordob.blogspot.com
+0.0.0.0 minttaskapp.com
 0.0.0.0 mirror-google.com
 0.0.0.0 misilabario.cl
 0.0.0.0 ml-facebook.blogspot.com
@@ -508,7 +501,7 @@
 0.0.0.0 roblox.com.bz
 0.0.0.0 roblox.com.et
 0.0.0.0 roblox.com.gr
-0.0.0.0 roblox.com.ml
+0.0.0.0 roblox.com.ms
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 rricrosoft-offices.org
@@ -516,7 +509,6 @@
 0.0.0.0 santanderbank.shop
 0.0.0.0 santandercitas.com
 0.0.0.0 saque-instagram.com
-0.0.0.0 scotiabank-secure.info
 0.0.0.0 sec-whatsapp.com
 0.0.0.0 secure-dropbox.ist
 0.0.0.0 secure-trezor-en-io.typedream.app
@@ -528,6 +520,7 @@
 0.0.0.0 shoppingonamazon.net
 0.0.0.0 sites.google.com.drive.pratham.vincacybertechltd.myshn.net
 0.0.0.0 sk-facebook.blogspot.com
+0.0.0.0 softr.app
 0.0.0.0 spotify-modapk.com
 0.0.0.0 spotify-plus.com
 0.0.0.0 srpska-banka.com
@@ -571,7 +564,6 @@
 0.0.0.0 uspsecuredlogs.com
 0.0.0.0 uspsglobal.delivery
 0.0.0.0 uspssmartpackagelockers.com
-0.0.0.0 verifyaccount-wellsfargo.com
 0.0.0.0 verifytoken.com
 0.0.0.0 vi-facebook.blogspot.com
 0.0.0.0 vn-facebook.blogspot.com
