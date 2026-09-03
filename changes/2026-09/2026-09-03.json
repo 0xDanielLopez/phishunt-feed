@@ -1,14 +1,15 @@
 {
  "date": "2026-09-03",
- "updated": "2026-09-03T16:26:09Z",
+ "updated": "2026-09-03T21:03:02Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 22,
+  "added": 25,
   "removed": 53
  },
  "added": [
   "http://instagram.com.minttaskapp.com",
+  "https://73a2370016b7.mv1.paypal-support.antimoney-laundering.org",
   "https://app.instagram-f.com.cn",
   "https://app.instagram-g.com.cn",
   "https://c-icloud.com",
@@ -29,6 +30,8 @@
   "https://roblox.com.ms/users/6929118928/profile",
   "https://wap.c-icloud.com",
   "https://welcome-dhl-trackclientstationonlinedashboardparceldhl.boxofthings.com",
+  "https://whatsappq.com",
+  "https://www.paypal.com.under-security.in",
   "https://zh.instagram-e.com.cn"
  ],
  "removed": [

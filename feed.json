@@ -1,5 +1,146 @@
 [
   {
+    "url": "https://whatsappq.com",
+    "domain": "whatsappq.com",
+    "company": "whatsapp",
+    "date": "2026-09-03T17:26:16.537016+00:00",
+    "first_seen": "2026-09-03T17:26:16.537016+00:00",
+    "uuid": "3caeee27-d3ed-4660-ade5-323e121d296c",
+    "ip": "156.225.26.28",
+    "country": "Hong Kong",
+    "asn": "401701",
+    "org": "cognetcloud INC",
+    "cert": "YR2",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "levenshtein_brand",
+        "label": "Brand typo",
+        "points": 2.6
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 1.1
+      }
+    ],
+    "score": 15,
+    "verdict": "noise"
+  },
+  {
+    "url": "https://73a2370016b7.mv1.paypal-support.antimoney-laundering.org",
+    "domain": "73a2370016b7.mv1.paypal-support.antimoney-laundering.org",
+    "company": "paypal",
+    "date": "2026-09-03T17:24:59.685622+00:00",
+    "first_seen": "2026-09-03T17:24:59.685622+00:00",
+    "uuid": "bbcd8ef6-7474-41b9-b68a-2a86e5ab27cd",
+    "ip": "208.91.197.27",
+    "country": "United States",
+    "asn": "40034",
+    "org": "Confluence Networks Inc",
+    "cert": "ZeroSSL ECC DV SSL CA 2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      },
+      {
+        "signal": "hsts_missing",
+        "label": "No HSTS header",
+        "points": 1.1
+      }
+    ],
+    "score": 22,
+    "verdict": "low"
+  },
+  {
+    "url": "https://www.paypal.com.under-security.in",
+    "domain": "www.paypal.com.under-security.in",
+    "company": "paypal",
+    "date": "2026-09-03T17:24:49.559487+00:00",
+    "first_seen": "2026-09-03T17:24:49.559487+00:00",
+    "uuid": "c9ff3535-3556-475b-aae4-a7eb4007b5e1",
+    "ip": "199.191.50.184",
+    "country": "United States",
+    "asn": "40034",
+    "org": "Confluence Networks Inc",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      },
+      {
+        "signal": "hsts_missing",
+        "label": "No HSTS header",
+        "points": 1.1
+      }
+    ],
+    "score": 21,
+    "verdict": "low"
+  },
+  {
     "url": "http://register-facebook.blogspot.com",
     "domain": "register-facebook.blogspot.com",
     "company": "facebook",

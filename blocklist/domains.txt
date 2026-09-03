@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 584
-# Updated: 2026-09-03T16:26:07Z
+# Entries: 587
+# Updated: 2026-09-03T21:03:01Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -30,6 +30,7 @@ alibaba66slot.app
 amazon-promos.shop
 amazonbookawards.com
 ani-facebook.blogspot.com
+antimoney-laundering.org
 app-facebook.blogspot.com
 app81-facebook.blogspot.com
 appengine.google.com.drive.pratham.vincacybertechltd.myshn.net
@@ -557,6 +558,7 @@ twineapp.com
 twinehr.com
 uk-facebook.blogspot.com
 unaux.com
+under-security.in
 updata.net.cn
 us-nqzqo.life
 usacrazyseller.com
@@ -574,6 +576,7 @@ webaccess-alert.com
 whatsapp-verify.blogspot.com
 whatsappapk.org
 whatsappfreewhatsapp.blogspot.com
+whatsappq.com
 windows-ledger-live.typedream.app
 ww-facebook.blogspot.com
 www-app-google.com

@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 584
-# Updated: 2026-09-03T16:26:08Z
+# Entries: 587
+# Updated: 2026-09-03T21:03:01Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -30,6 +30,7 @@
 0.0.0.0 amazon-promos.shop
 0.0.0.0 amazonbookawards.com
 0.0.0.0 ani-facebook.blogspot.com
+0.0.0.0 antimoney-laundering.org
 0.0.0.0 app-facebook.blogspot.com
 0.0.0.0 app81-facebook.blogspot.com
 0.0.0.0 appengine.google.com.drive.pratham.vincacybertechltd.myshn.net
@@ -557,6 +558,7 @@
 0.0.0.0 twinehr.com
 0.0.0.0 uk-facebook.blogspot.com
 0.0.0.0 unaux.com
+0.0.0.0 under-security.in
 0.0.0.0 updata.net.cn
 0.0.0.0 us-nqzqo.life
 0.0.0.0 usacrazyseller.com
@@ -574,6 +576,7 @@
 0.0.0.0 whatsapp-verify.blogspot.com
 0.0.0.0 whatsappapk.org
 0.0.0.0 whatsappfreewhatsapp.blogspot.com
+0.0.0.0 whatsappq.com
 0.0.0.0 windows-ledger-live.typedream.app
 0.0.0.0 ww-facebook.blogspot.com
 0.0.0.0 www-app-google.com
