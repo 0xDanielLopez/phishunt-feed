@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 601
-# Updated: 2026-09-03T04:34:25Z
+# Entries: 592
+# Updated: 2026-09-03T11:15:44Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -30,19 +30,17 @@
 0.0.0.0 amazon-promos.shop
 0.0.0.0 amazonbookawards.com
 0.0.0.0 ani-facebook.blogspot.com
+0.0.0.0 antimoney-laundering.org
 0.0.0.0 app-facebook.blogspot.com
 0.0.0.0 app81-facebook.blogspot.com
 0.0.0.0 appengine.google.com.drive.pratham.vincacybertechltd.myshn.net
 0.0.0.0 asif.me
 0.0.0.0 assign-icloud.com
 0.0.0.0 authorised-support.com
-0.0.0.0 bankofamerica-unauthorized.ph
 0.0.0.0 bankofamerica-verificatie.ph
-0.0.0.0 bankofamericacanadastore.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 bankofamericamortagage.ph
 0.0.0.0 bankofamericana.ph
-0.0.0.0 bankofamericasecured.ph
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 bbva-hiring-paperless.appspot.com
 0.0.0.0 bbvaglobalwealthadvisors.com
@@ -63,6 +61,7 @@
 0.0.0.0 boxofthings.com
 0.0.0.0 brad-facebook.blogspot.com
 0.0.0.0 business-dropbox.me
+0.0.0.0 c-icloud.com
 0.0.0.0 case185366-coinbase.com
 0.0.0.0 cashappps.com
 0.0.0.0 ch-google.cc
@@ -77,13 +76,11 @@
 0.0.0.0 cz-facebook.blogspot.com
 0.0.0.0 daservglobal.com
 0.0.0.0 dblxhosting.co.uk
-0.0.0.0 debt-bankofamerica.ph
 0.0.0.0 deluxxe.com.br
 0.0.0.0 dir.com.my
 0.0.0.0 dj-facebook.blogspot.com
 0.0.0.0 docs-google.com
 0.0.0.0 dothome.co.kr
-0.0.0.0 dpdher.buzz
 0.0.0.0 dpdi.xyz
 0.0.0.0 dropbox-online.at
 0.0.0.0 dropbox-online.net
@@ -316,7 +313,6 @@
 0.0.0.0 hashnode.dev
 0.0.0.0 help-instagram.blogspot.com
 0.0.0.0 helpsecurity-microsoft.com
-0.0.0.0 hhttps-www-roblox.co
 0.0.0.0 hhvka.club
 0.0.0.0 home-facebook.blogspot.com
 0.0.0.0 home-ledgrreliveapp.typedream.app
@@ -326,7 +322,6 @@
 0.0.0.0 hsbc.dev
 0.0.0.0 hsbcpress.com
 0.0.0.0 hstn.me
-0.0.0.0 htttps-www-roblox.co
 0.0.0.0 icloud-i-cl.com
 0.0.0.0 icloud-network.com
 0.0.0.0 icloud-sharedalbum.com
@@ -508,13 +503,11 @@
 0.0.0.0 rents.ac
 0.0.0.0 rev.it
 0.0.0.0 rf.gd
-0.0.0.0 roblox.com.am
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bz
 0.0.0.0 roblox.com.et
 0.0.0.0 roblox.com.gr
-0.0.0.0 roblox.com.kz
 0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
@@ -533,7 +526,6 @@
 0.0.0.0 services-facebook.blogspot.com
 0.0.0.0 seureonline.shop
 0.0.0.0 shoppingonamazon.net
-0.0.0.0 sirjooni.com
 0.0.0.0 sites.google.com.drive.pratham.vincacybertechltd.myshn.net
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 spotify-modapk.com
@@ -575,7 +567,6 @@
 0.0.0.0 updata.net.cn
 0.0.0.0 us-nqzqo.life
 0.0.0.0 usacrazyseller.com
-0.0.0.0 usps-pickup.com
 0.0.0.0 uspsaunitedworkforce.com
 0.0.0.0 uspsecuredlogs.com
 0.0.0.0 uspsglobal.delivery

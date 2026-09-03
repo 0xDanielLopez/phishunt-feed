@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 601
-! Updated: 2026-09-03T04:34:26Z
+! Entries: 592
+! Updated: 2026-09-03T11:15:45Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -30,19 +30,17 @@
 ||amazon-promos.shop^
 ||amazonbookawards.com^
 ||ani-facebook.blogspot.com^
+||antimoney-laundering.org^
 ||app-facebook.blogspot.com^
 ||app81-facebook.blogspot.com^
 ||appengine.google.com.drive.pratham.vincacybertechltd.myshn.net^
 ||asif.me^
 ||assign-icloud.com^
 ||authorised-support.com^
-||bankofamerica-unauthorized.ph^
 ||bankofamerica-verificatie.ph^
-||bankofamericacanadastore.ph^
 ||bankofamericamailcompte.blogspot.com^
 ||bankofamericamortagage.ph^
 ||bankofamericana.ph^
-||bankofamericasecured.ph^
 ||barcelona-facebook.blogspot.com^
 ||bbva-hiring-paperless.appspot.com^
 ||bbvaglobalwealthadvisors.com^
@@ -63,6 +61,7 @@
 ||boxofthings.com^
 ||brad-facebook.blogspot.com^
 ||business-dropbox.me^
+||c-icloud.com^
 ||case185366-coinbase.com^
 ||cashappps.com^
 ||ch-google.cc^
@@ -77,13 +76,11 @@
 ||cz-facebook.blogspot.com^
 ||daservglobal.com^
 ||dblxhosting.co.uk^
-||debt-bankofamerica.ph^
 ||deluxxe.com.br^
 ||dir.com.my^
 ||dj-facebook.blogspot.com^
 ||docs-google.com^
 ||dothome.co.kr^
-||dpdher.buzz^
 ||dpdi.xyz^
 ||dropbox-online.at^
 ||dropbox-online.net^
@@ -316,7 +313,6 @@
 ||hashnode.dev^
 ||help-instagram.blogspot.com^
 ||helpsecurity-microsoft.com^
-||hhttps-www-roblox.co^
 ||hhvka.club^
 ||home-facebook.blogspot.com^
 ||home-ledgrreliveapp.typedream.app^
@@ -326,7 +322,6 @@
 ||hsbc.dev^
 ||hsbcpress.com^
 ||hstn.me^
-||htttps-www-roblox.co^
 ||icloud-i-cl.com^
 ||icloud-network.com^
 ||icloud-sharedalbum.com^
@@ -508,13 +503,11 @@
 ||rents.ac^
 ||rev.it^
 ||rf.gd^
-||roblox.com.am^
 ||roblox.com.bi^
 ||roblox.com.bn^
 ||roblox.com.bz^
 ||roblox.com.et^
 ||roblox.com.gr^
-||roblox.com.kz^
 ||roblox.com.ml^
 ||roblox.com.mu^
 ||roblox.com.pt^
@@ -533,7 +526,6 @@
 ||services-facebook.blogspot.com^
 ||seureonline.shop^
 ||shoppingonamazon.net^
-||sirjooni.com^
 ||sites.google.com.drive.pratham.vincacybertechltd.myshn.net^
 ||sk-facebook.blogspot.com^
 ||spotify-modapk.com^
@@ -575,7 +567,6 @@
 ||updata.net.cn^
 ||us-nqzqo.life^
 ||usacrazyseller.com^
-||usps-pickup.com^
 ||uspsaunitedworkforce.com^
 ||uspsecuredlogs.com^
 ||uspsglobal.delivery^
