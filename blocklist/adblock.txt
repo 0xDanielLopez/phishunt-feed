@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 613
-! Updated: 2026-09-02T21:04:10Z
+! Entries: 601
+! Updated: 2026-09-03T04:34:26Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -30,21 +30,16 @@
 ||amazon-promos.shop^
 ||amazonbookawards.com^
 ||ani-facebook.blogspot.com^
-||antimoney-laundering.org^
 ||app-facebook.blogspot.com^
 ||app81-facebook.blogspot.com^
 ||appengine.google.com.drive.pratham.vincacybertechltd.myshn.net^
 ||asif.me^
 ||assign-icloud.com^
 ||authorised-support.com^
-||autoconfig.bankofamericacanadastore.ph^
-||bankofamerica-com-login-update-unauthorized.ph^
-||bankofamerica-com-update-new-secure-loading-sitkey-onilne-pass.ph^
 ||bankofamerica-unauthorized.ph^
 ||bankofamerica-verificatie.ph^
-||bankofamericablockchain.ph^
+||bankofamericacanadastore.ph^
 ||bankofamericamailcompte.blogspot.com^
-||bankofamericamerchantservices.ph^
 ||bankofamericamortagage.ph^
 ||bankofamericana.ph^
 ||bankofamericasecured.ph^
@@ -65,9 +60,9 @@
 ||biowikiweb.com^
 ||bmb.adv.br^
 ||bnext.es^
+||boxofthings.com^
 ||brad-facebook.blogspot.com^
 ||business-dropbox.me^
-||care-bankofamerica.ph^
 ||case185366-coinbase.com^
 ||cashappps.com^
 ||ch-google.cc^
@@ -87,7 +82,6 @@
 ||dir.com.my^
 ||dj-facebook.blogspot.com^
 ||docs-google.com^
-||docs.google.com.drive.pratham.vincacybertechltd.myshn.net^
 ||dothome.co.kr^
 ||dpdher.buzz^
 ||dpdi.xyz^
@@ -285,8 +279,8 @@
 ||g0ogle.com^
 ||gafiatechnologies.com^
 ||gateareis.vu^
+||geotehnica.com^
 ||ggzh-google.com.cn^
-||google-account-login.com^
 ||google-cloud.services^
 ||google-verify.email^
 ||google1107.com^
@@ -346,7 +340,6 @@
 ||ingdirect-clientes-alerta.com^
 ||ingdirect-gestiones-incidencia.com^
 ||ingdirect-ingreso-usuarios.com^
-||ingdirect-soporte-servicios.com^
 ||ingdirect-usuario-soporte.com^
 ||ingdirect-web-validado.com^
 ||iniciamazon.com.br^
@@ -356,6 +349,7 @@
 ||instagram-change-password.blogspot.com^
 ||instagram-demo.blogspot.com^
 ||instagram-e.com.cn^
+||instagram-f.com.cn^
 ||instagram-g.com.cn^
 ||instagram-instagram.blogspot.com^
 ||instagram-jennifer.blogspot.com^
@@ -379,6 +373,7 @@
 ||instagramlogin124.blogspot.com^
 ||instagramlogin24.blogspot.com^
 ||instagramlogin68.blogspot.com^
+||instagramlogin74.blogspot.com^
 ||instagramlogin77.blogspot.com^
 ||instagramlogin99.blogspot.com^
 ||instagramloginpage111.blogspot.com^
@@ -389,7 +384,6 @@
 ||instagramusicabrasilinstagram.blogspot.com^
 ||internal-alerts.com^
 ||invreceiptslinkedin.com^
-||itau777.com^
 ||jimdofree.com^
 ||jj-facebook.blogspot.com^
 ||jo-facebook.blogspot.com^
@@ -420,7 +414,6 @@
 ||ly-facebook.blogspot.com^
 ||m365-microsoft.com^
 ||m4ntapaset.ink^
-||mail.bankofamericacanadastore.ph^
 ||mail.google.com.drive.pratham.vincacybertechltd.myshn.net^
 ||mb-facebook.blogspot.com^
 ||meme-facebook.blogspot.com^
@@ -451,7 +444,6 @@
 ||ml-facebook.blogspot.com^
 ||mobile-google.cn^
 ||movistar-recaudo-epayc.com^
-||movistarepayco.com^
 ||munimventures.com^
 ||my-facebook-blog.blogspot.com^
 ||mydhl-verifn.help^
@@ -495,9 +487,7 @@
 ||paypalcorp.blogspot.com^
 ||pe-facebook.blogspot.com^
 ||photosharing-icloud.com^
-||pl01972.cam^
 ||play-google.cam^
-||pop.bankofamericacanadastore.ph^
 ||premio-instagram.com^
 ||prizebond.net.pk^
 ||profil-facebook-saya.blogspot.com^
@@ -518,6 +508,7 @@
 ||rents.ac^
 ||rev.it^
 ||rf.gd^
+||roblox.com.am^
 ||roblox.com.bi^
 ||roblox.com.bn^
 ||roblox.com.bz^
@@ -545,7 +536,6 @@
 ||sirjooni.com^
 ||sites.google.com.drive.pratham.vincacybertechltd.myshn.net^
 ||sk-facebook.blogspot.com^
-||smtp.bankofamericacanadastore.ph^
 ||spotify-modapk.com^
 ||spotify-plus.com^
 ||srpska-banka.com^
@@ -598,7 +588,6 @@
 ||vpnuse.eu.org^
 ||web-conect-us-ledger-live-wallet.typedream.app^
 ||webaccess-alert.com^
-||webmail.bankofamericacanadastore.ph^
 ||whatsapp-verify.blogspot.com^
 ||whatsappapk.org^
 ||whatsappfreewhatsapp.blogspot.com^
@@ -608,7 +597,6 @@
 ||www-google.cn^
 ||www-hk-google.com^
 ||www-microsoft.com.cn^
-||www1-icloud.com^
 ||www2-facebook.com^
 ||wwww-linkedin.be^
 ||xfinity101.duckdns.org^

@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 613
-# Updated: 2026-09-02T21:04:10Z
+# Entries: 601
+# Updated: 2026-09-03T04:34:25Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -30,21 +30,16 @@
 0.0.0.0 amazon-promos.shop
 0.0.0.0 amazonbookawards.com
 0.0.0.0 ani-facebook.blogspot.com
-0.0.0.0 antimoney-laundering.org
 0.0.0.0 app-facebook.blogspot.com
 0.0.0.0 app81-facebook.blogspot.com
 0.0.0.0 appengine.google.com.drive.pratham.vincacybertechltd.myshn.net
 0.0.0.0 asif.me
 0.0.0.0 assign-icloud.com
 0.0.0.0 authorised-support.com
-0.0.0.0 autoconfig.bankofamericacanadastore.ph
-0.0.0.0 bankofamerica-com-login-update-unauthorized.ph
-0.0.0.0 bankofamerica-com-update-new-secure-loading-sitkey-onilne-pass.ph
 0.0.0.0 bankofamerica-unauthorized.ph
 0.0.0.0 bankofamerica-verificatie.ph
-0.0.0.0 bankofamericablockchain.ph
+0.0.0.0 bankofamericacanadastore.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
-0.0.0.0 bankofamericamerchantservices.ph
 0.0.0.0 bankofamericamortagage.ph
 0.0.0.0 bankofamericana.ph
 0.0.0.0 bankofamericasecured.ph
@@ -65,9 +60,9 @@
 0.0.0.0 biowikiweb.com
 0.0.0.0 bmb.adv.br
 0.0.0.0 bnext.es
+0.0.0.0 boxofthings.com
 0.0.0.0 brad-facebook.blogspot.com
 0.0.0.0 business-dropbox.me
-0.0.0.0 care-bankofamerica.ph
 0.0.0.0 case185366-coinbase.com
 0.0.0.0 cashappps.com
 0.0.0.0 ch-google.cc
@@ -87,7 +82,6 @@
 0.0.0.0 dir.com.my
 0.0.0.0 dj-facebook.blogspot.com
 0.0.0.0 docs-google.com
-0.0.0.0 docs.google.com.drive.pratham.vincacybertechltd.myshn.net
 0.0.0.0 dothome.co.kr
 0.0.0.0 dpdher.buzz
 0.0.0.0 dpdi.xyz
@@ -285,8 +279,8 @@
 0.0.0.0 g0ogle.com
 0.0.0.0 gafiatechnologies.com
 0.0.0.0 gateareis.vu
+0.0.0.0 geotehnica.com
 0.0.0.0 ggzh-google.com.cn
-0.0.0.0 google-account-login.com
 0.0.0.0 google-cloud.services
 0.0.0.0 google-verify.email
 0.0.0.0 google1107.com
@@ -346,7 +340,6 @@
 0.0.0.0 ingdirect-clientes-alerta.com
 0.0.0.0 ingdirect-gestiones-incidencia.com
 0.0.0.0 ingdirect-ingreso-usuarios.com
-0.0.0.0 ingdirect-soporte-servicios.com
 0.0.0.0 ingdirect-usuario-soporte.com
 0.0.0.0 ingdirect-web-validado.com
 0.0.0.0 iniciamazon.com.br
@@ -356,6 +349,7 @@
 0.0.0.0 instagram-change-password.blogspot.com
 0.0.0.0 instagram-demo.blogspot.com
 0.0.0.0 instagram-e.com.cn
+0.0.0.0 instagram-f.com.cn
 0.0.0.0 instagram-g.com.cn
 0.0.0.0 instagram-instagram.blogspot.com
 0.0.0.0 instagram-jennifer.blogspot.com
@@ -379,6 +373,7 @@
 0.0.0.0 instagramlogin124.blogspot.com
 0.0.0.0 instagramlogin24.blogspot.com
 0.0.0.0 instagramlogin68.blogspot.com
+0.0.0.0 instagramlogin74.blogspot.com
 0.0.0.0 instagramlogin77.blogspot.com
 0.0.0.0 instagramlogin99.blogspot.com
 0.0.0.0 instagramloginpage111.blogspot.com
@@ -389,7 +384,6 @@
 0.0.0.0 instagramusicabrasilinstagram.blogspot.com
 0.0.0.0 internal-alerts.com
 0.0.0.0 invreceiptslinkedin.com
-0.0.0.0 itau777.com
 0.0.0.0 jimdofree.com
 0.0.0.0 jj-facebook.blogspot.com
 0.0.0.0 jo-facebook.blogspot.com
@@ -420,7 +414,6 @@
 0.0.0.0 ly-facebook.blogspot.com
 0.0.0.0 m365-microsoft.com
 0.0.0.0 m4ntapaset.ink
-0.0.0.0 mail.bankofamericacanadastore.ph
 0.0.0.0 mail.google.com.drive.pratham.vincacybertechltd.myshn.net
 0.0.0.0 mb-facebook.blogspot.com
 0.0.0.0 meme-facebook.blogspot.com
@@ -451,7 +444,6 @@
 0.0.0.0 ml-facebook.blogspot.com
 0.0.0.0 mobile-google.cn
 0.0.0.0 movistar-recaudo-epayc.com
-0.0.0.0 movistarepayco.com
 0.0.0.0 munimventures.com
 0.0.0.0 my-facebook-blog.blogspot.com
 0.0.0.0 mydhl-verifn.help
@@ -495,9 +487,7 @@
 0.0.0.0 paypalcorp.blogspot.com
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 photosharing-icloud.com
-0.0.0.0 pl01972.cam
 0.0.0.0 play-google.cam
-0.0.0.0 pop.bankofamericacanadastore.ph
 0.0.0.0 premio-instagram.com
 0.0.0.0 prizebond.net.pk
 0.0.0.0 profil-facebook-saya.blogspot.com
@@ -518,6 +508,7 @@
 0.0.0.0 rents.ac
 0.0.0.0 rev.it
 0.0.0.0 rf.gd
+0.0.0.0 roblox.com.am
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bz
@@ -545,7 +536,6 @@
 0.0.0.0 sirjooni.com
 0.0.0.0 sites.google.com.drive.pratham.vincacybertechltd.myshn.net
 0.0.0.0 sk-facebook.blogspot.com
-0.0.0.0 smtp.bankofamericacanadastore.ph
 0.0.0.0 spotify-modapk.com
 0.0.0.0 spotify-plus.com
 0.0.0.0 srpska-banka.com
@@ -598,7 +588,6 @@
 0.0.0.0 vpnuse.eu.org
 0.0.0.0 web-conect-us-ledger-live-wallet.typedream.app
 0.0.0.0 webaccess-alert.com
-0.0.0.0 webmail.bankofamericacanadastore.ph
 0.0.0.0 whatsapp-verify.blogspot.com
 0.0.0.0 whatsappapk.org
 0.0.0.0 whatsappfreewhatsapp.blogspot.com
@@ -608,7 +597,6 @@
 0.0.0.0 www-google.cn
 0.0.0.0 www-hk-google.com
 0.0.0.0 www-microsoft.com.cn
-0.0.0.0 www1-icloud.com
 0.0.0.0 www2-facebook.com
 0.0.0.0 wwww-linkedin.be
 0.0.0.0 xfinity101.duckdns.org
