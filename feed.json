@@ -1,5 +1,1483 @@
 [
   {
+    "url": "https://apk-google.cn",
+    "domain": "apk-google.cn",
+    "company": "google",
+    "date": "2026-09-04T19:43:23.107193+00:00",
+    "first_seen": "2026-09-04T19:43:23.107193+00:00",
+    "uuid": "3a9caf38-d5fe-4cf9-9b6f-702f5b135596",
+    "ip": "47.57.138.67",
+    "country": "Hong Kong",
+    "asn": "45102",
+    "org": "Alibaba (US) Technology Co., Ltd.",
+    "cert": "TrustAsia Technologies, Inc.",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": true,
+    "top_signals": [],
+    "score": 0,
+    "verdict": "noise"
+  },
+  {
+    "url": "http://allegrolokalnie.752976.lol",
+    "domain": "allegrolokalnie.752976.lol",
+    "company": "allegro",
+    "date": "2026-09-04T18:01:34.498429+00:00",
+    "first_seen": "2026-09-04T18:01:34.498429+00:00",
+    "uuid": "742b6788-207d-406d-bad4-13c988b36821",
+    "ip": "188.114.96.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      }
+    ],
+    "score": 31,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://whatsappcampaign.online",
+    "domain": "whatsappcampaign.online",
+    "company": "whatsapp",
+    "date": "2026-09-04T17:25:14.435660+00:00",
+    "first_seen": "2026-09-04T17:25:14.435660+00:00",
+    "uuid": "943e6141-503c-49dc-a040-9fdfa16f192e",
+    "ip": "216.198.79.1",
+    "country": "United States",
+    "asn": "16509",
+    "org": "Amazon.com, Inc.",
+    "cert": "YR1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      }
+    ],
+    "score": 29,
+    "verdict": "low"
+  },
+  {
+    "url": "https://smtp.bankofamerica-unauthorized.ph",
+    "domain": "smtp.bankofamerica-unauthorized.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-04T17:25:10.053790+00:00",
+    "first_seen": "2026-09-04T17:25:10.053790+00:00",
+    "uuid": "b82e2008-7a06-43ac-8fcf-3fec433e569b",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 3.0
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 1.8
+      }
+    ],
+    "score": 25,
+    "verdict": "low"
+  },
+  {
+    "url": "https://autodiscover.bankofamericasecured.ph",
+    "domain": "autodiscover.bankofamericasecured.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-04T17:25:09.305907+00:00",
+    "first_seen": "2026-09-04T17:25:09.305907+00:00",
+    "uuid": "7bd946cd-9ea1-4bc7-b522-9d3021a7442b",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 2.0
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 1.8
+      }
+    ],
+    "score": 22,
+    "verdict": "low"
+  },
+  {
+    "url": "https://academy.ww12.coinbase.com.lc",
+    "domain": "academy.ww12.coinbase.com.lc",
+    "company": "coinbase",
+    "date": "2026-09-04T17:25:07.376852+00:00",
+    "first_seen": "2026-09-04T17:25:07.376852+00:00",
+    "uuid": "30185d6e-b436-4436-9e4e-a6dc7ae83207",
+    "ip": "172.239.193.153",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 1.8
+      },
+      {
+        "signal": "levenshtein_brand",
+        "label": "Brand typo",
+        "points": 1.3
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 20,
+    "verdict": "low"
+  },
+  {
+    "url": "https://restoration-google.com",
+    "domain": "restoration-google.com",
+    "company": "google",
+    "date": "2026-09-04T17:25:00.778725+00:00",
+    "first_seen": "2026-09-04T17:25:00.778725+00:00",
+    "uuid": "11a739df-7b73-487c-8f96-71f5bc154069",
+    "ip": "188.114.96.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 31,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://paypal-login-secure.help",
+    "domain": "paypal-login-secure.help",
+    "company": "paypal",
+    "date": "2026-09-04T17:25:00.022475+00:00",
+    "first_seen": "2026-09-04T17:25:00.022475+00:00",
+    "uuid": "48ace3ed-6d28-44c1-bbf8-ba4ccd86e7b4",
+    "ip": "-",
+    "country": "-",
+    "asn": "-",
+    "org": "-",
+    "cert": "YR1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "has_password_input",
+        "label": "Password field",
+        "points": 3.9
+      }
+    ],
+    "score": 75,
+    "verdict": "high"
+  },
+  {
+    "url": "https://my-walletfix-id-apple.com",
+    "domain": "my-walletfix-id-apple.com",
+    "company": "apple",
+    "date": "2026-09-04T17:24:59.510201+00:00",
+    "first_seen": "2026-09-04T17:24:59.510201+00:00",
+    "uuid": "578cfda5-31a8-4485-bf82-7941e59b776d",
+    "ip": "188.114.96.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 3.7
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 2.1
+      }
+    ],
+    "score": 24,
+    "verdict": "low"
+  },
+  {
+    "url": "https://bankofamericanonline.com",
+    "domain": "bankofamericanonline.com",
+    "company": "bankofamerica",
+    "date": "2026-09-04T17:24:58.727646+00:00",
+    "first_seen": "2026-09-04T17:24:58.727646+00:00",
+    "uuid": "0b4828e3-cf78-4086-9ea7-4bc806662648",
+    "ip": "34.111.179.208",
+    "country": "United States",
+    "asn": "396982",
+    "org": "Google LLC",
+    "cert": "YE2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 3.5
+      }
+    ],
+    "score": 28,
+    "verdict": "low"
+  },
+  {
+    "url": "https://819283-kraken.com",
+    "domain": "819283-kraken.com",
+    "company": "kraken",
+    "date": "2026-09-04T17:24:57.327312+00:00",
+    "first_seen": "2026-09-04T17:24:57.327312+00:00",
+    "uuid": "6b02dc5f-f67f-40cd-be08-3db0d60e7daf",
+    "ip": "217.60.77.59",
+    "country": "United States",
+    "asn": "203861",
+    "org": "Miteflux Technologies Ltd",
+    "cert": "YR1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 31,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://818920-kraken.com",
+    "domain": "818920-kraken.com",
+    "company": "kraken",
+    "date": "2026-09-04T17:24:56.192319+00:00",
+    "first_seen": "2026-09-04T17:24:56.192319+00:00",
+    "uuid": "9e13f4da-eb77-41a4-8122-332fb9e2ea84",
+    "ip": "217.60.77.59",
+    "country": "United States",
+    "asn": "203861",
+    "org": "Miteflux Technologies Ltd",
+    "cert": "YR2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 1.7
+      }
+    ],
+    "score": 28,
+    "verdict": "low"
+  },
+  {
+    "url": "https://818144-kraken.com",
+    "domain": "818144-kraken.com",
+    "company": "kraken",
+    "date": "2026-09-04T17:24:55.088367+00:00",
+    "first_seen": "2026-09-04T17:24:55.088367+00:00",
+    "uuid": "0c123e9a-e124-4fcc-8a73-b25c566314aa",
+    "ip": "217.60.77.59",
+    "country": "United States",
+    "asn": "203861",
+    "org": "Miteflux Technologies Ltd",
+    "cert": "YR2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 25,
+    "verdict": "low"
+  },
+  {
+    "url": "https://283674-coinbase.com",
+    "domain": "283674-coinbase.com",
+    "company": "coinbase",
+    "date": "2026-09-04T17:24:53.781106+00:00",
+    "first_seen": "2026-09-04T17:24:53.781106+00:00",
+    "uuid": "06fa55a3-abce-47e4-9c60-f5c09d0eed10",
+    "ip": "34.196.13.28",
+    "country": "United States",
+    "asn": "14618",
+    "org": "Amazon.com, Inc.",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 3.0
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 1.8
+      }
+    ],
+    "score": 24,
+    "verdict": "low"
+  },
+  {
+    "url": "https://news.scan-whatsapp.com",
+    "domain": "news.scan-whatsapp.com",
+    "company": "whatsapp",
+    "date": "2026-09-04T17:24:50.299884+00:00",
+    "first_seen": "2026-09-04T17:24:50.299884+00:00",
+    "uuid": "b6cc1d6d-18bf-48f5-b1ec-8a121eadced8",
+    "ip": "156.234.67.92",
+    "country": "Hong Kong",
+    "asn": "138415",
+    "org": "Yancy Limited",
+    "cert": "YR2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "cert_cluster",
+        "label": "Cert reuse",
+        "points": 3.4
+      }
+    ],
+    "score": 33,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://mobile.scan-whatsapp.com",
+    "domain": "mobile.scan-whatsapp.com",
+    "company": "whatsapp",
+    "date": "2026-09-04T17:24:50.046447+00:00",
+    "first_seen": "2026-09-04T17:24:50.046447+00:00",
+    "uuid": "edb9665b-f6c9-453d-ac6d-ed235e1206cd",
+    "ip": "156.234.67.92",
+    "country": "Hong Kong",
+    "asn": "138415",
+    "org": "Yancy Limited",
+    "cert": "YR2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "cert_cluster",
+        "label": "Cert reuse",
+        "points": 3.4
+      }
+    ],
+    "score": 33,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://meet.scan-whatsapp.com",
+    "domain": "meet.scan-whatsapp.com",
+    "company": "whatsapp",
+    "date": "2026-09-04T17:24:49.848843+00:00",
+    "first_seen": "2026-09-04T17:24:49.848843+00:00",
+    "uuid": "d178a671-b184-45bc-9aee-7c98d722016a",
+    "ip": "156.234.67.88",
+    "country": "Hong Kong",
+    "asn": "138415",
+    "org": "Yancy Limited",
+    "cert": "YR2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "cert_cluster",
+        "label": "Cert reuse",
+        "points": 3.4
+      }
+    ],
+    "score": 33,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://job.scan-whatsapp.com",
+    "domain": "job.scan-whatsapp.com",
+    "company": "whatsapp",
+    "date": "2026-09-04T17:24:49.759473+00:00",
+    "first_seen": "2026-09-04T17:24:49.759473+00:00",
+    "uuid": "3b04720a-03f3-49db-8bf4-611f99631d7e",
+    "ip": "156.234.67.92",
+    "country": "Hong Kong",
+    "asn": "138415",
+    "org": "Yancy Limited",
+    "cert": "YR2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "cert_cluster",
+        "label": "Cert reuse",
+        "points": 3.4
+      }
+    ],
+    "score": 33,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://docs.scan-whatsapp.com",
+    "domain": "docs.scan-whatsapp.com",
+    "company": "whatsapp",
+    "date": "2026-09-04T17:24:49.649919+00:00",
+    "first_seen": "2026-09-04T17:24:49.649919+00:00",
+    "uuid": "3c79f56e-36ac-44b1-9a9a-40562b9a773e",
+    "ip": "156.234.67.88",
+    "country": "Hong Kong",
+    "asn": "138415",
+    "org": "Yancy Limited",
+    "cert": "YR2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 32,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://desktop.scan-whatsapp.com",
+    "domain": "desktop.scan-whatsapp.com",
+    "company": "whatsapp",
+    "date": "2026-09-04T17:24:49.547291+00:00",
+    "first_seen": "2026-09-04T17:24:49.547291+00:00",
+    "uuid": "4eaa3c2b-ef3b-4f30-8b3a-28eb976a23e9",
+    "ip": "156.234.67.92",
+    "country": "Hong Kong",
+    "asn": "138415",
+    "org": "Yancy Limited",
+    "cert": "YR2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 31,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://calendar.scan-whatsapp.com",
+    "domain": "calendar.scan-whatsapp.com",
+    "company": "whatsapp",
+    "date": "2026-09-04T17:24:49.355151+00:00",
+    "first_seen": "2026-09-04T17:24:49.355151+00:00",
+    "uuid": "a3a20b82-0c24-4d47-bb2b-c97ef6ec10b1",
+    "ip": "156.234.67.88",
+    "country": "Hong Kong",
+    "asn": "138415",
+    "org": "Yancy Limited",
+    "cert": "YR2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 30,
+    "verdict": "low"
+  },
+  {
+    "url": "https://works.comm-whatsapp.com",
+    "domain": "works.comm-whatsapp.com",
+    "company": "whatsapp",
+    "date": "2026-09-04T17:24:48.664637+00:00",
+    "first_seen": "2026-09-04T17:24:48.664637+00:00",
+    "uuid": "1af481a3-eeb3-4da8-b724-bcc3bfe5e257",
+    "ip": "156.234.67.92",
+    "country": "Hong Kong",
+    "asn": "138415",
+    "org": "Yancy Limited",
+    "cert": "YR1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "cert_cluster",
+        "label": "Cert reuse",
+        "points": 3.4
+      }
+    ],
+    "score": 33,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://stream.comm-whatsapp.com",
+    "domain": "stream.comm-whatsapp.com",
+    "company": "whatsapp",
+    "date": "2026-09-04T17:24:48.567836+00:00",
+    "first_seen": "2026-09-04T17:24:48.567836+00:00",
+    "uuid": "2b150352-e8fc-456d-a672-ba7d3f5c30ba",
+    "ip": "156.234.67.92",
+    "country": "Hong Kong",
+    "asn": "138415",
+    "org": "Yancy Limited",
+    "cert": "YR1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "cert_cluster",
+        "label": "Cert reuse",
+        "points": 3.4
+      }
+    ],
+    "score": 33,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://staging.comm-whatsapp.com",
+    "domain": "staging.comm-whatsapp.com",
+    "company": "whatsapp",
+    "date": "2026-09-04T17:24:48.467080+00:00",
+    "first_seen": "2026-09-04T17:24:48.467080+00:00",
+    "uuid": "3af3d897-a053-44ad-8686-8f2b131bc1e7",
+    "ip": "156.234.67.88",
+    "country": "Hong Kong",
+    "asn": "138415",
+    "org": "Yancy Limited",
+    "cert": "YR1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "cert_cluster",
+        "label": "Cert reuse",
+        "points": 3.4
+      }
+    ],
+    "score": 33,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://sandbox.comm-whatsapp.com",
+    "domain": "sandbox.comm-whatsapp.com",
+    "company": "whatsapp",
+    "date": "2026-09-04T17:24:48.368749+00:00",
+    "first_seen": "2026-09-04T17:24:48.368749+00:00",
+    "uuid": "0dc7a062-8183-47df-97c1-7c52fa72a1c1",
+    "ip": "156.234.67.92",
+    "country": "Hong Kong",
+    "asn": "138415",
+    "org": "Yancy Limited",
+    "cert": "YR1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "cert_cluster",
+        "label": "Cert reuse",
+        "points": 3.4
+      }
+    ],
+    "score": 33,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://private.comm-whatsapp.com",
+    "domain": "private.comm-whatsapp.com",
+    "company": "whatsapp",
+    "date": "2026-09-04T17:24:48.267001+00:00",
+    "first_seen": "2026-09-04T17:24:48.267001+00:00",
+    "uuid": "8e66aed0-3c4c-4fbf-9eb2-5c14ac20f181",
+    "ip": "156.234.67.88",
+    "country": "Hong Kong",
+    "asn": "138415",
+    "org": "Yancy Limited",
+    "cert": "YR1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "cert_cluster",
+        "label": "Cert reuse",
+        "points": 3.4
+      }
+    ],
+    "score": 33,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://premium.comm-whatsapp.com",
+    "domain": "premium.comm-whatsapp.com",
+    "company": "whatsapp",
+    "date": "2026-09-04T17:24:48.159554+00:00",
+    "first_seen": "2026-09-04T17:24:48.159554+00:00",
+    "uuid": "e7ad0330-8052-4ecf-929f-fbf74f140415",
+    "ip": "156.234.67.92",
+    "country": "Hong Kong",
+    "asn": "138415",
+    "org": "Yancy Limited",
+    "cert": "YR1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "cert_cluster",
+        "label": "Cert reuse",
+        "points": 3.4
+      }
+    ],
+    "score": 33,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://photo.comm-whatsapp.com",
+    "domain": "photo.comm-whatsapp.com",
+    "company": "whatsapp",
+    "date": "2026-09-04T17:24:48.052056+00:00",
+    "first_seen": "2026-09-04T17:24:48.052056+00:00",
+    "uuid": "6dc6f811-b49b-4246-b1f0-fcab40001c37",
+    "ip": "156.234.67.92",
+    "country": "Hong Kong",
+    "asn": "138415",
+    "org": "Yancy Limited",
+    "cert": "YR1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 4.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "cert_cluster",
+        "label": "Cert reuse",
+        "points": 3.4
+      }
+    ],
+    "score": 32,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://patch.comm-whatsapp.com",
+    "domain": "patch.comm-whatsapp.com",
+    "company": "whatsapp",
+    "date": "2026-09-04T17:24:47.962362+00:00",
+    "first_seen": "2026-09-04T17:24:47.962362+00:00",
+    "uuid": "caeab633-3a83-412c-8f3e-05fe4e10b9b1",
+    "ip": "156.234.67.88",
+    "country": "Hong Kong",
+    "asn": "138415",
+    "org": "Yancy Limited",
+    "cert": "YR1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 3.0
+      },
+      {
+        "signal": "cert_cluster",
+        "label": "Cert reuse",
+        "points": 2.3
+      }
+    ],
+    "score": 28,
+    "verdict": "low"
+  },
+  {
+    "url": "https://local.comm-whatsapp.com",
+    "domain": "local.comm-whatsapp.com",
+    "company": "whatsapp",
+    "date": "2026-09-04T17:24:47.881477+00:00",
+    "first_seen": "2026-09-04T17:24:47.881477+00:00",
+    "uuid": "371526b6-b9aa-479e-9549-dadbdcce3a9f",
+    "ip": "156.234.67.92",
+    "country": "Hong Kong",
+    "asn": "138415",
+    "org": "Yancy Limited",
+    "cert": "YR1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 2.0
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 1.7
+      }
+    ],
+    "score": 26,
+    "verdict": "low"
+  },
+  {
+    "url": "https://build.comm-whatsapp.com",
+    "domain": "build.comm-whatsapp.com",
+    "company": "whatsapp",
+    "date": "2026-09-04T17:24:47.788336+00:00",
+    "first_seen": "2026-09-04T17:24:47.788336+00:00",
+    "uuid": "a89411a2-c065-4c3c-b4df-f458b7f3cbc3",
+    "ip": "156.234.67.88",
+    "country": "Hong Kong",
+    "asn": "138415",
+    "org": "Yancy Limited",
+    "cert": "YR1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 1.1
+      }
+    ],
+    "score": 22,
+    "verdict": "low"
+  },
+  {
+    "url": "https://siyarata-assets-workbench.whatsappapk.org",
+    "domain": "siyarata-assets-workbench.whatsappapk.org",
+    "company": "whatsapp",
+    "date": "2026-09-04T16:29:04.379401+00:00",
+    "first_seen": "2026-09-02T02:59:26.267381+00:00",
+    "uuid": "57297f77-9590-4863-8e56-f20e4c74eddf",
+    "ip": "136.110.11.34",
+    "country": "Singapore",
+    "asn": "396982",
+    "org": "Google LLC",
+    "cert": "Let's Encrypt",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": true,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "urlscan_score",
+        "label": "urlscan.io",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 3.5
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 23,
+    "verdict": "low"
+  },
+  {
     "url": "https://roblox.com.ml/users/404373312275/profile",
     "domain": "roblox.com.ml",
     "company": "roblox",
@@ -24393,53 +25871,6 @@
     "verdict": "medium"
   },
   {
-    "url": "https://xfinityrefunds.com/Login",
-    "domain": "xfinityrefunds.com",
-    "company": "xfinity",
-    "date": "2026-09-04T15:30:08.750323+00:00",
-    "first_seen": "2026-08-29T01:03:26.044859+00:00",
-    "uuid": "32c877e9-5663-42b1-91d3-d4c5c5fce56f",
-    "ip": "52.183.82.125",
-    "country": "United States",
-    "asn": "8075",
-    "org": "Microsoft Corporation",
-    "cert": "DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "has_password_input",
-        "label": "Password field",
-        "points": 3.9
-      },
-      {
-        "signal": "brand_in_apex_label",
-        "label": "Brand in domain label",
-        "points": 3.7
-      },
-      {
-        "signal": "openphish_score",
-        "label": "OpenPhish",
-        "points": 3.0
-      },
-      {
-        "signal": "asn_reputation",
-        "label": "ASN reputation",
-        "points": 1.2
-      }
-    ],
-    "score": 70,
-    "verdict": "high"
-  },
-  {
     "url": "http://exodus-wallet.global.ssl.fastly.net/exodus.html",
     "domain": "exodus-wallet.global.ssl.fastly.net",
     "company": "exodus",
@@ -26882,53 +28313,6 @@
     ],
     "score": 31,
     "verdict": "medium"
-  },
-  {
-    "url": "https://siyarata-assets-workbench.whatsappapk.org",
-    "domain": "siyarata-assets-workbench.whatsappapk.org",
-    "company": "whatsapp",
-    "date": "2026-09-04T15:30:08.750323+00:00",
-    "first_seen": "2026-09-02T02:59:26.267381+00:00",
-    "uuid": "57297f77-9590-4863-8e56-f20e4c74eddf",
-    "ip": "136.110.11.34",
-    "country": "Singapore",
-    "asn": "396982",
-    "org": "Google LLC",
-    "cert": "Let's Encrypt",
-    "malicious_google": false,
-    "malicious_openphish": false,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": true,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "urlscan_score",
-        "label": "urlscan.io",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_apex_label",
-        "label": "Brand in domain label",
-        "points": 3.7
-      },
-      {
-        "signal": "asn_reputation",
-        "label": "ASN reputation",
-        "points": 3.5
-      },
-      {
-        "signal": "csp_missing",
-        "label": "No CSP header",
-        "points": 1.1
-      }
-    ],
-    "score": 23,
-    "verdict": "low"
   },
   {
     "url": "https://steamcommunity-balanceworkshop.shop",

@@ -1,11 +1,11 @@
 {
  "date": "2026-09-04",
- "updated": "2026-09-04T16:22:11Z",
+ "updated": "2026-09-04T20:46:11Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 22,
-  "removed": 12
+  "added": 54,
+  "removed": 13
  },
  "added": [
   "http://allegro.00123192s.casa",
@@ -16,20 +16,52 @@
   "http://allegro.pryi40-23gf2.casa",
   "http://allegro.smar9439012g.casa",
   "http://allegro.smra9439020.lol",
+  "http://allegrolokalnie.752976.lol",
   "http://tracking.usps-prioritymails.com",
+  "https://283674-coinbase.com",
+  "https://818144-kraken.com",
+  "https://818920-kraken.com",
+  "https://819283-kraken.com",
+  "https://academy.ww12.coinbase.com.lc",
+  "https://apk-google.cn",
   "https://asset.static-whatsapp.com",
+  "https://autodiscover.bankofamericasecured.ph",
+  "https://bankofamericanonline.com",
+  "https://build.comm-whatsapp.com",
+  "https://calendar.scan-whatsapp.com",
   "https://cn.instagram-g.com.cn",
   "https://comecome.click/zxm/xx/alibaba/index.html",
+  "https://desktop.scan-whatsapp.com",
+  "https://docs.scan-whatsapp.com",
   "https://facebookhints.blogspot.com",
+  "https://job.scan-whatsapp.com",
   "https://kucoinloign.gitbook.io",
+  "https://local.comm-whatsapp.com",
   "https://lonato-cc-il-leone-shopping-center.vodafone-on-line.it",
+  "https://meet.scan-whatsapp.com",
   "https://metamask-portal.yzz.me",
+  "https://mobile.scan-whatsapp.com",
   "https://modanix.digital",
+  "https://my-walletfix-id-apple.com",
+  "https://news.scan-whatsapp.com",
   "https://notifications.microsoft-ssl.com",
+  "https://patch.comm-whatsapp.com",
+  "https://paypal-login-secure.help",
+  "https://photo.comm-whatsapp.com",
+  "https://premium.comm-whatsapp.com",
+  "https://private.comm-whatsapp.com",
+  "https://restoration-google.com",
   "https://roblox.com.am/users/171429286053/profile",
+  "https://roblox.com.ml/users/404373312275/profile",
+  "https://sandbox.comm-whatsapp.com",
+  "https://smtp.bankofamerica-unauthorized.ph",
   "https://spotify-anniversary30th.com",
   "https://sso-trezor-com-start-x-auth.typedream.app/en-us",
-  "https://vodafone-on-line.it/lonato-cc-il-leone-shopping-center"
+  "https://staging.comm-whatsapp.com",
+  "https://stream.comm-whatsapp.com",
+  "https://vodafone-on-line.it/lonato-cc-il-leone-shopping-center",
+  "https://whatsappcampaign.online",
+  "https://works.comm-whatsapp.com"
  ],
  "removed": [
   "http://allegro.oferta-lokalana684538913895.shop",
@@ -43,6 +75,7 @@
   "https://roblox.com.et/games/78515283254292/animal-hospital-anomaly-?privateserverlinkcode=36676453253709010717578264400285",
   "https://sec-whatsapp.com",
   "https://welcome-dhl-trackclientstationonlinedashboardparceldhl.boxofthings.com",
-  "https://www.paypal.com.under-security.in"
+  "https://www.paypal.com.under-security.in",
+  "https://xfinityrefunds.com/Login"
  ]
 }

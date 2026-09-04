@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 596
-! Updated: 2026-09-04T16:22:11Z
+! Entries: 626
+! Updated: 2026-09-04T20:46:11Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -14,8 +14,13 @@
 ||18493821-coinbase.com^
 ||2017-facebook.blogspot.com^
 ||239492341.casa^
+||283674-coinbase.com^
 ||393bet-facebook.sa.com^
 ||54893-coinbase.com^
+||752976.lol^
+||818144-kraken.com^
+||818920-kraken.com^
+||819283-kraken.com^
 ||92359293ghg.lol^
 ||9392130120.casa^
 ||978489-coinbase.com^
@@ -34,13 +39,17 @@
 ||amazon-promos.shop^
 ||amazonbookawards.com^
 ||ani-facebook.blogspot.com^
+||apk-google.cn^
 ||app-facebook.blogspot.com^
 ||app81-facebook.blogspot.com^
 ||appengine.google.com.drive.pratham.vincacybertechltd.myshn.net^
 ||asif.me^
 ||assign-icloud.com^
 ||authorised-support.com^
+||bankofamerica-unauthorized.ph^
 ||bankofamericamailcompte.blogspot.com^
+||bankofamericanonline.com^
+||bankofamericasecured.ph^
 ||barcelona-facebook.blogspot.com^
 ||bbva-hiring-paperless.appspot.com^
 ||bbvaglobalwealthadvisors.com^
@@ -59,8 +68,10 @@
 ||bmb.adv.br^
 ||bnext.es^
 ||brad-facebook.blogspot.com^
+||build.comm-whatsapp.com^
 ||business-dropbox.me^
 ||c-icloud.com^
+||calendar.scan-whatsapp.com^
 ||carivo.vu^
 ||case185366-coinbase.com^
 ||cashappps.com^
@@ -68,6 +79,7 @@
 ||chatgpt0005.eu.org^
 ||citrix-sharing.com^
 ||click-facebook.blogspot.com^
+||coinbase.com.lc^
 ||coinbasebackoffice.exchange^
 ||coinbaseinvestors.ai^
 ||comecome.click^
@@ -78,9 +90,11 @@
 ||daservglobal.com^
 ||dblxhosting.co.uk^
 ||deluxxe.com.br^
+||desktop.scan-whatsapp.com^
 ||dir.com.my^
 ||dj-facebook.blogspot.com^
 ||docs-google.com^
+||docs.scan-whatsapp.com^
 ||dothome.co.kr^
 ||dpdi.xyz^
 ||dropbox-online.at^
@@ -377,6 +391,7 @@
 ||jimdofree.com^
 ||jj-facebook.blogspot.com^
 ||jo-facebook.blogspot.com^
+||job.scan-whatsapp.com^
 ||jwb-facebook.blogspot.com^
 ||kenhoward.com^
 ||kucoinloign.gitbook.io^
@@ -390,6 +405,7 @@
 ||lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org^
 ||lnk.ink^
 ||lobster-cloud.com^
+||local.comm-whatsapp.com^
 ||login-facebook-facebook.blogspot.com^
 ||login-facebookaccount.blogspot.com^
 ||login-my-facebook.blogspot.com^
@@ -406,6 +422,7 @@
 ||m4ntapaset.ink^
 ||mail.google.com.drive.pratham.vincacybertechltd.myshn.net^
 ||mb-facebook.blogspot.com^
+||meet.scan-whatsapp.com^
 ||meme-facebook.blogspot.com^
 ||metacreatormonetizationsupportsystem.click^
 ||metamask88.com^
@@ -435,10 +452,12 @@
 ||misilabario.cl^
 ||ml-facebook.blogspot.com^
 ||mobile-google.cn^
+||mobile.scan-whatsapp.com^
 ||modanix.digital^
 ||movistar-recaudo-epayc.com^
 ||munimventures.com^
 ||my-facebook-blog.blogspot.com^
+||my-walletfix-id-apple.com^
 ||mydhl-verifn.help^
 ||neda-facebook.blogspot.com^
 ||netflix-games.click^
@@ -458,6 +477,7 @@
 ||netflixvoid.org^
 ||netsolhost.com^
 ||network-facebook.blogspot.com^
+||news.scan-whatsapp.com^
 ||noreply-icloud.app^
 ||nw-facebook.blogspot.com^
 ||office365licensingsupport.com^
@@ -468,17 +488,22 @@
 ||openai-online.net^
 ||outlookindia.com^
 ||outlookmail.social^
+||patch.comm-whatsapp.com^
 ||paykmc.com^
 ||paypal-details.com^
 ||paypal-invoice.com^
 ||paypal-logiin.blogspot.com^
+||paypal-login-secure.help^
 ||paypal-password.blogspot.com^
 ||paypal-refund.com^
 ||paypal-signin.blogspot.com^
 ||paypalcorp.blogspot.com^
 ||pe-facebook.blogspot.com^
+||photo.comm-whatsapp.com^
 ||play-google.cam^
 ||premio-instagram.com^
+||premium.comm-whatsapp.com^
+||private.comm-whatsapp.com^
 ||prizebond.net.pk^
 ||profil-facebook-saya.blogspot.com^
 ||proteccion-outlook2026.iceiy.com^
@@ -497,6 +522,7 @@
 ||register-facebook.blogspot.com^
 ||rekemonedasi-facebook.org^
 ||rents.ac^
+||restoration-google.com^
 ||rev.it^
 ||rf.gd^
 ||roblox.com.am^
@@ -510,6 +536,7 @@
 ||roblox.com.pt^
 ||rricrosoft-offices.org^
 ||s-facebook.blogspot.com^
+||sandbox.comm-whatsapp.com^
 ||santanderbank.shop^
 ||santandercitas.com^
 ||saque-instagram.com^
@@ -532,6 +559,7 @@
 ||srpska-banka.com^
 ||sso-ledger-live-strt-ledger-support-cdn.typedream.app^
 ||sso-trezor-com-start-x-auth.typedream.app^
+||staging.comm-whatsapp.com^
 ||start-ledgren.zapier.app^
 ||start-web-en-ledger-live-login.typedream.app^
 ||static-whatsapp.com^
@@ -539,6 +567,7 @@
 ||steamcommunity.blog^
 ||steamcommunity.ing^
 ||steuerquimica.cl^
+||stream.comm-whatsapp.com^
 ||su-facebook.blogspot.com^
 ||sugar-outlook.com^
 ||support-inc-apple.com^
@@ -583,9 +612,11 @@
 ||webaccess-alert.com^
 ||whatsapp-verify.blogspot.com^
 ||whatsappapk.org^
+||whatsappcampaign.online^
 ||whatsappfreewhatsapp.blogspot.com^
 ||whatsappq.com^
 ||windows-ledger-live.typedream.app^
+||works.comm-whatsapp.com^
 ||ww-facebook.blogspot.com^
 ||www-app-google.com^
 ||www-google.cn^
@@ -594,7 +625,6 @@
 ||www2-facebook.com^
 ||wwww-linkedin.be^
 ||xfinity101.duckdns.org^
-||xfinityrefunds.com^
 ||xfinitywindowfilms.com^
 ||yapla.com^
 ||yzz.me^

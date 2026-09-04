@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 596
-# Updated: 2026-09-04T16:22:10Z
+# Entries: 626
+# Updated: 2026-09-04T20:46:10Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -14,8 +14,13 @@
 0.0.0.0 18493821-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 239492341.casa
+0.0.0.0 283674-coinbase.com
 0.0.0.0 393bet-facebook.sa.com
 0.0.0.0 54893-coinbase.com
+0.0.0.0 752976.lol
+0.0.0.0 818144-kraken.com
+0.0.0.0 818920-kraken.com
+0.0.0.0 819283-kraken.com
 0.0.0.0 92359293ghg.lol
 0.0.0.0 9392130120.casa
 0.0.0.0 978489-coinbase.com
@@ -34,13 +39,17 @@
 0.0.0.0 amazon-promos.shop
 0.0.0.0 amazonbookawards.com
 0.0.0.0 ani-facebook.blogspot.com
+0.0.0.0 apk-google.cn
 0.0.0.0 app-facebook.blogspot.com
 0.0.0.0 app81-facebook.blogspot.com
 0.0.0.0 appengine.google.com.drive.pratham.vincacybertechltd.myshn.net
 0.0.0.0 asif.me
 0.0.0.0 assign-icloud.com
 0.0.0.0 authorised-support.com
+0.0.0.0 bankofamerica-unauthorized.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
+0.0.0.0 bankofamericanonline.com
+0.0.0.0 bankofamericasecured.ph
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 bbva-hiring-paperless.appspot.com
 0.0.0.0 bbvaglobalwealthadvisors.com
@@ -59,8 +68,10 @@
 0.0.0.0 bmb.adv.br
 0.0.0.0 bnext.es
 0.0.0.0 brad-facebook.blogspot.com
+0.0.0.0 build.comm-whatsapp.com
 0.0.0.0 business-dropbox.me
 0.0.0.0 c-icloud.com
+0.0.0.0 calendar.scan-whatsapp.com
 0.0.0.0 carivo.vu
 0.0.0.0 case185366-coinbase.com
 0.0.0.0 cashappps.com
@@ -68,6 +79,7 @@
 0.0.0.0 chatgpt0005.eu.org
 0.0.0.0 citrix-sharing.com
 0.0.0.0 click-facebook.blogspot.com
+0.0.0.0 coinbase.com.lc
 0.0.0.0 coinbasebackoffice.exchange
 0.0.0.0 coinbaseinvestors.ai
 0.0.0.0 comecome.click
@@ -78,9 +90,11 @@
 0.0.0.0 daservglobal.com
 0.0.0.0 dblxhosting.co.uk
 0.0.0.0 deluxxe.com.br
+0.0.0.0 desktop.scan-whatsapp.com
 0.0.0.0 dir.com.my
 0.0.0.0 dj-facebook.blogspot.com
 0.0.0.0 docs-google.com
+0.0.0.0 docs.scan-whatsapp.com
 0.0.0.0 dothome.co.kr
 0.0.0.0 dpdi.xyz
 0.0.0.0 dropbox-online.at
@@ -377,6 +391,7 @@
 0.0.0.0 jimdofree.com
 0.0.0.0 jj-facebook.blogspot.com
 0.0.0.0 jo-facebook.blogspot.com
+0.0.0.0 job.scan-whatsapp.com
 0.0.0.0 jwb-facebook.blogspot.com
 0.0.0.0 kenhoward.com
 0.0.0.0 kucoinloign.gitbook.io
@@ -390,6 +405,7 @@
 0.0.0.0 lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
 0.0.0.0 lnk.ink
 0.0.0.0 lobster-cloud.com
+0.0.0.0 local.comm-whatsapp.com
 0.0.0.0 login-facebook-facebook.blogspot.com
 0.0.0.0 login-facebookaccount.blogspot.com
 0.0.0.0 login-my-facebook.blogspot.com
@@ -406,6 +422,7 @@
 0.0.0.0 m4ntapaset.ink
 0.0.0.0 mail.google.com.drive.pratham.vincacybertechltd.myshn.net
 0.0.0.0 mb-facebook.blogspot.com
+0.0.0.0 meet.scan-whatsapp.com
 0.0.0.0 meme-facebook.blogspot.com
 0.0.0.0 metacreatormonetizationsupportsystem.click
 0.0.0.0 metamask88.com
@@ -435,10 +452,12 @@
 0.0.0.0 misilabario.cl
 0.0.0.0 ml-facebook.blogspot.com
 0.0.0.0 mobile-google.cn
+0.0.0.0 mobile.scan-whatsapp.com
 0.0.0.0 modanix.digital
 0.0.0.0 movistar-recaudo-epayc.com
 0.0.0.0 munimventures.com
 0.0.0.0 my-facebook-blog.blogspot.com
+0.0.0.0 my-walletfix-id-apple.com
 0.0.0.0 mydhl-verifn.help
 0.0.0.0 neda-facebook.blogspot.com
 0.0.0.0 netflix-games.click
@@ -458,6 +477,7 @@
 0.0.0.0 netflixvoid.org
 0.0.0.0 netsolhost.com
 0.0.0.0 network-facebook.blogspot.com
+0.0.0.0 news.scan-whatsapp.com
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 office365licensingsupport.com
@@ -468,17 +488,22 @@
 0.0.0.0 openai-online.net
 0.0.0.0 outlookindia.com
 0.0.0.0 outlookmail.social
+0.0.0.0 patch.comm-whatsapp.com
 0.0.0.0 paykmc.com
 0.0.0.0 paypal-details.com
 0.0.0.0 paypal-invoice.com
 0.0.0.0 paypal-logiin.blogspot.com
+0.0.0.0 paypal-login-secure.help
 0.0.0.0 paypal-password.blogspot.com
 0.0.0.0 paypal-refund.com
 0.0.0.0 paypal-signin.blogspot.com
 0.0.0.0 paypalcorp.blogspot.com
 0.0.0.0 pe-facebook.blogspot.com
+0.0.0.0 photo.comm-whatsapp.com
 0.0.0.0 play-google.cam
 0.0.0.0 premio-instagram.com
+0.0.0.0 premium.comm-whatsapp.com
+0.0.0.0 private.comm-whatsapp.com
 0.0.0.0 prizebond.net.pk
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 proteccion-outlook2026.iceiy.com
@@ -497,6 +522,7 @@
 0.0.0.0 register-facebook.blogspot.com
 0.0.0.0 rekemonedasi-facebook.org
 0.0.0.0 rents.ac
+0.0.0.0 restoration-google.com
 0.0.0.0 rev.it
 0.0.0.0 rf.gd
 0.0.0.0 roblox.com.am
@@ -510,6 +536,7 @@
 0.0.0.0 roblox.com.pt
 0.0.0.0 rricrosoft-offices.org
 0.0.0.0 s-facebook.blogspot.com
+0.0.0.0 sandbox.comm-whatsapp.com
 0.0.0.0 santanderbank.shop
 0.0.0.0 santandercitas.com
 0.0.0.0 saque-instagram.com
@@ -532,6 +559,7 @@
 0.0.0.0 srpska-banka.com
 0.0.0.0 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 0.0.0.0 sso-trezor-com-start-x-auth.typedream.app
+0.0.0.0 staging.comm-whatsapp.com
 0.0.0.0 start-ledgren.zapier.app
 0.0.0.0 start-web-en-ledger-live-login.typedream.app
 0.0.0.0 static-whatsapp.com
@@ -539,6 +567,7 @@
 0.0.0.0 steamcommunity.blog
 0.0.0.0 steamcommunity.ing
 0.0.0.0 steuerquimica.cl
+0.0.0.0 stream.comm-whatsapp.com
 0.0.0.0 su-facebook.blogspot.com
 0.0.0.0 sugar-outlook.com
 0.0.0.0 support-inc-apple.com
@@ -583,9 +612,11 @@
 0.0.0.0 webaccess-alert.com
 0.0.0.0 whatsapp-verify.blogspot.com
 0.0.0.0 whatsappapk.org
+0.0.0.0 whatsappcampaign.online
 0.0.0.0 whatsappfreewhatsapp.blogspot.com
 0.0.0.0 whatsappq.com
 0.0.0.0 windows-ledger-live.typedream.app
+0.0.0.0 works.comm-whatsapp.com
 0.0.0.0 ww-facebook.blogspot.com
 0.0.0.0 www-app-google.com
 0.0.0.0 www-google.cn
@@ -594,7 +625,6 @@
 0.0.0.0 www2-facebook.com
 0.0.0.0 wwww-linkedin.be
 0.0.0.0 xfinity101.duckdns.org
-0.0.0.0 xfinityrefunds.com
 0.0.0.0 xfinitywindowfilms.com
 0.0.0.0 yapla.com
 0.0.0.0 yzz.me
