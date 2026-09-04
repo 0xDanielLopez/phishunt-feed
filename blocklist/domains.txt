@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 591
-# Updated: 2026-09-04T11:19:02Z
+# Entries: 596
+# Updated: 2026-09-04T16:22:09Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -9,6 +9,7 @@
 00123192s.casa
 012031928g.lol
 123-facebook.blogspot.com
+1241092000.casa
 164196-coinbase.com
 18493821-coinbase.com
 2017-facebook.blogspot.com
@@ -21,7 +22,6 @@
 a1-kraken.com
 a2zapk.co
 accounts-facebook.blogspot.com
-adrpowersystem.com
 alibaba-taobaol.cn
 alibaba188.org
 alibaba33.pro
@@ -68,7 +68,6 @@ ch-google.cc
 chatgpt0005.eu.org
 citrix-sharing.com
 click-facebook.blogspot.com
-coinbase99.com
 coinbasebackoffice.exchange
 coinbaseinvestors.ai
 comecome.click
@@ -423,6 +422,7 @@ mhmr.ro
 mi-santander.com
 microsoft-se.us
 microsoft-sharepoint.fr
+microsoft-ssl.com
 microsoft365businessbasic.com
 microsoft365updates.com
 microsoftai.pl
@@ -468,7 +468,6 @@ openai-coin.com
 openai-online.net
 outlookindia.com
 outlookmail.social
-pago-correos.es
 paykmc.com
 paypal-details.com
 paypal-invoice.com
@@ -485,6 +484,7 @@ profil-facebook-saya.blogspot.com
 proteccion-outlook2026.iceiy.com
 protected-request.com
 prov.cx
+pryi40-23gf2.casa
 pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev
 r-facebook.blogspot.com
 rama-facebook.blogspot.com
@@ -499,6 +499,7 @@ rekemonedasi-facebook.org
 rents.ac
 rev.it
 rf.gd
+roblox.com.am
 roblox.com.bi
 roblox.com.bn
 roblox.com.bz
@@ -522,12 +523,15 @@ seureonline.shop
 shoppingonamazon.net
 sites.google.com.drive.pratham.vincacybertechltd.myshn.net
 sk-facebook.blogspot.com
+smar9439012g.casa
 smra9439020.lol
 softr.app
+spotify-anniversary30th.com
 spotify-modapk.com
 spotify-plus.com
 srpska-banka.com
 sso-ledger-live-strt-ledger-support-cdn.typedream.app
+sso-trezor-com-start-x-auth.typedream.app
 start-ledgren.zapier.app
 start-web-en-ledger-live-login.typedream.app
 static-whatsapp.com
@@ -572,6 +576,7 @@ uspssmartpackagelockers.com
 verifytoken.com
 vi-facebook.blogspot.com
 vn-facebook.blogspot.com
+vodafone-on-line.it
 vpn-update.org
 vpnuse.eu.org
 web-conect-us-ledger-live-wallet.typedream.app

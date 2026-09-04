@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 591
-# Updated: 2026-09-04T11:19:02Z
+# Entries: 596
+# Updated: 2026-09-04T16:22:10Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -9,6 +9,7 @@
 0.0.0.0 00123192s.casa
 0.0.0.0 012031928g.lol
 0.0.0.0 123-facebook.blogspot.com
+0.0.0.0 1241092000.casa
 0.0.0.0 164196-coinbase.com
 0.0.0.0 18493821-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
@@ -21,7 +22,6 @@
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
 0.0.0.0 accounts-facebook.blogspot.com
-0.0.0.0 adrpowersystem.com
 0.0.0.0 alibaba-taobaol.cn
 0.0.0.0 alibaba188.org
 0.0.0.0 alibaba33.pro
@@ -68,7 +68,6 @@
 0.0.0.0 chatgpt0005.eu.org
 0.0.0.0 citrix-sharing.com
 0.0.0.0 click-facebook.blogspot.com
-0.0.0.0 coinbase99.com
 0.0.0.0 coinbasebackoffice.exchange
 0.0.0.0 coinbaseinvestors.ai
 0.0.0.0 comecome.click
@@ -423,6 +422,7 @@
 0.0.0.0 mi-santander.com
 0.0.0.0 microsoft-se.us
 0.0.0.0 microsoft-sharepoint.fr
+0.0.0.0 microsoft-ssl.com
 0.0.0.0 microsoft365businessbasic.com
 0.0.0.0 microsoft365updates.com
 0.0.0.0 microsoftai.pl
@@ -468,7 +468,6 @@
 0.0.0.0 openai-online.net
 0.0.0.0 outlookindia.com
 0.0.0.0 outlookmail.social
-0.0.0.0 pago-correos.es
 0.0.0.0 paykmc.com
 0.0.0.0 paypal-details.com
 0.0.0.0 paypal-invoice.com
@@ -485,6 +484,7 @@
 0.0.0.0 proteccion-outlook2026.iceiy.com
 0.0.0.0 protected-request.com
 0.0.0.0 prov.cx
+0.0.0.0 pryi40-23gf2.casa
 0.0.0.0 pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev
 0.0.0.0 r-facebook.blogspot.com
 0.0.0.0 rama-facebook.blogspot.com
@@ -499,6 +499,7 @@
 0.0.0.0 rents.ac
 0.0.0.0 rev.it
 0.0.0.0 rf.gd
+0.0.0.0 roblox.com.am
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bz
@@ -522,12 +523,15 @@
 0.0.0.0 shoppingonamazon.net
 0.0.0.0 sites.google.com.drive.pratham.vincacybertechltd.myshn.net
 0.0.0.0 sk-facebook.blogspot.com
+0.0.0.0 smar9439012g.casa
 0.0.0.0 smra9439020.lol
 0.0.0.0 softr.app
+0.0.0.0 spotify-anniversary30th.com
 0.0.0.0 spotify-modapk.com
 0.0.0.0 spotify-plus.com
 0.0.0.0 srpska-banka.com
 0.0.0.0 sso-ledger-live-strt-ledger-support-cdn.typedream.app
+0.0.0.0 sso-trezor-com-start-x-auth.typedream.app
 0.0.0.0 start-ledgren.zapier.app
 0.0.0.0 start-web-en-ledger-live-login.typedream.app
 0.0.0.0 static-whatsapp.com
@@ -572,6 +576,7 @@
 0.0.0.0 verifytoken.com
 0.0.0.0 vi-facebook.blogspot.com
 0.0.0.0 vn-facebook.blogspot.com
+0.0.0.0 vodafone-on-line.it
 0.0.0.0 vpn-update.org
 0.0.0.0 vpnuse.eu.org
 0.0.0.0 web-conect-us-ledger-live-wallet.typedream.app
