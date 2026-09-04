@@ -1,11 +1,13 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 588
-# Updated: 2026-09-04T04:34:58Z
+# Entries: 591
+# Updated: 2026-09-04T11:19:02Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
+00123192s.casa
+012031928g.lol
 123-facebook.blogspot.com
 164196-coinbase.com
 18493821-coinbase.com
@@ -13,6 +15,8 @@
 239492341.casa
 393bet-facebook.sa.com
 54893-coinbase.com
+92359293ghg.lol
+9392130120.casa
 978489-coinbase.com
 a1-kraken.com
 a2zapk.co
@@ -30,7 +34,6 @@ alibaba66slot.app
 amazon-promos.shop
 amazonbookawards.com
 ani-facebook.blogspot.com
-antimoney-laundering.org
 app-facebook.blogspot.com
 app81-facebook.blogspot.com
 appengine.google.com.drive.pratham.vincacybertechltd.myshn.net
@@ -90,7 +93,6 @@ ebay-phone-number.blogspot.com
 ebay-wholesale.com
 ebayfoll.store
 ebaymevip.com
-edgeone.dev
 email-microsoft.com
 empresas-hsbc.com
 epsilons.co
@@ -282,7 +284,6 @@ google1208.com
 google1302.com
 google1308.com
 google77bd.com
-google8upbd.com
 googleadsense.com.tr
 googlebusiness.xyz
 googleepway.com
@@ -434,6 +435,7 @@ mirror-google.com
 misilabario.cl
 ml-facebook.blogspot.com
 mobile-google.cn
+modanix.digital
 movistar-recaudo-epayc.com
 munimventures.com
 my-facebook-blog.blogspot.com
@@ -510,7 +512,6 @@ s-facebook.blogspot.com
 santanderbank.shop
 santandercitas.com
 saque-instagram.com
-sec-whatsapp.com
 secure-dropbox.ist
 secure-trezor-en-io.typedream.app
 securedsupport-coinbase.com
@@ -521,6 +522,7 @@ seureonline.shop
 shoppingonamazon.net
 sites.google.com.drive.pratham.vincacybertechltd.myshn.net
 sk-facebook.blogspot.com
+smra9439020.lol
 softr.app
 spotify-modapk.com
 spotify-plus.com
@@ -528,6 +530,7 @@ srpska-banka.com
 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 start-ledgren.zapier.app
 start-web-en-ledger-live-login.typedream.app
+static-whatsapp.com
 steamcommunity-balanceworkshop.shop
 steamcommunity.blog
 steamcommunity.ing

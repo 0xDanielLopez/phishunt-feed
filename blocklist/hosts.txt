@@ -1,11 +1,13 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 588
-# Updated: 2026-09-04T04:34:59Z
+# Entries: 591
+# Updated: 2026-09-04T11:19:02Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
+0.0.0.0 00123192s.casa
+0.0.0.0 012031928g.lol
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 164196-coinbase.com
 0.0.0.0 18493821-coinbase.com
@@ -13,6 +15,8 @@
 0.0.0.0 239492341.casa
 0.0.0.0 393bet-facebook.sa.com
 0.0.0.0 54893-coinbase.com
+0.0.0.0 92359293ghg.lol
+0.0.0.0 9392130120.casa
 0.0.0.0 978489-coinbase.com
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
@@ -30,7 +34,6 @@
 0.0.0.0 amazon-promos.shop
 0.0.0.0 amazonbookawards.com
 0.0.0.0 ani-facebook.blogspot.com
-0.0.0.0 antimoney-laundering.org
 0.0.0.0 app-facebook.blogspot.com
 0.0.0.0 app81-facebook.blogspot.com
 0.0.0.0 appengine.google.com.drive.pratham.vincacybertechltd.myshn.net
@@ -90,7 +93,6 @@
 0.0.0.0 ebay-wholesale.com
 0.0.0.0 ebayfoll.store
 0.0.0.0 ebaymevip.com
-0.0.0.0 edgeone.dev
 0.0.0.0 email-microsoft.com
 0.0.0.0 empresas-hsbc.com
 0.0.0.0 epsilons.co
@@ -282,7 +284,6 @@
 0.0.0.0 google1302.com
 0.0.0.0 google1308.com
 0.0.0.0 google77bd.com
-0.0.0.0 google8upbd.com
 0.0.0.0 googleadsense.com.tr
 0.0.0.0 googlebusiness.xyz
 0.0.0.0 googleepway.com
@@ -434,6 +435,7 @@
 0.0.0.0 misilabario.cl
 0.0.0.0 ml-facebook.blogspot.com
 0.0.0.0 mobile-google.cn
+0.0.0.0 modanix.digital
 0.0.0.0 movistar-recaudo-epayc.com
 0.0.0.0 munimventures.com
 0.0.0.0 my-facebook-blog.blogspot.com
@@ -510,7 +512,6 @@
 0.0.0.0 santanderbank.shop
 0.0.0.0 santandercitas.com
 0.0.0.0 saque-instagram.com
-0.0.0.0 sec-whatsapp.com
 0.0.0.0 secure-dropbox.ist
 0.0.0.0 secure-trezor-en-io.typedream.app
 0.0.0.0 securedsupport-coinbase.com
@@ -521,6 +522,7 @@
 0.0.0.0 shoppingonamazon.net
 0.0.0.0 sites.google.com.drive.pratham.vincacybertechltd.myshn.net
 0.0.0.0 sk-facebook.blogspot.com
+0.0.0.0 smra9439020.lol
 0.0.0.0 softr.app
 0.0.0.0 spotify-modapk.com
 0.0.0.0 spotify-plus.com
@@ -528,6 +530,7 @@
 0.0.0.0 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 0.0.0.0 start-ledgren.zapier.app
 0.0.0.0 start-web-en-ledger-live-login.typedream.app
+0.0.0.0 static-whatsapp.com
 0.0.0.0 steamcommunity-balanceworkshop.shop
 0.0.0.0 steamcommunity.blog
 0.0.0.0 steamcommunity.ing
