@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 587
-# Updated: 2026-09-03T21:03:01Z
+# Entries: 588
+# Updated: 2026-09-04T04:34:58Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -55,7 +55,6 @@ binancewallett.blogspot.com
 biowikiweb.com
 bmb.adv.br
 bnext.es
-boxofthings.com
 brad-facebook.blogspot.com
 business-dropbox.me
 c-icloud.com
@@ -66,8 +65,10 @@ ch-google.cc
 chatgpt0005.eu.org
 citrix-sharing.com
 click-facebook.blogspot.com
+coinbase99.com
 coinbasebackoffice.exchange
 coinbaseinvestors.ai
+comecome.click
 correosiicr.cc
 ct.ws
 cvmac.id
@@ -89,6 +90,7 @@ ebay-phone-number.blogspot.com
 ebay-wholesale.com
 ebayfoll.store
 ebaymevip.com
+edgeone.dev
 email-microsoft.com
 empresas-hsbc.com
 epsilons.co
@@ -97,7 +99,6 @@ eu-facebook.blogspot.com
 ewlpnkrg.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 exodus-wallet.global.ssl.fastly.net
-expert-xfinity.best
 faceb00klogin.blogspot.com
 faceb0k-facebook.blogspot.com
 facebok-facebook.blogspot.com
@@ -208,6 +209,7 @@ facebookdatingonfacebook.blogspot.com
 facebooke-login.blogspot.com
 facebookfakelogin.blogspot.com
 facebookfakepage.blogspot.com
+facebookhints.blogspot.com
 facebookk.blogspot.com
 facebooklivepage.blogspot.com
 facebooklogin-page.blogspot.com
@@ -377,13 +379,13 @@ jj-facebook.blogspot.com
 jo-facebook.blogspot.com
 jwb-facebook.blogspot.com
 kenhoward.com
+kucoinloign.gitbook.io
 lateinos.com.br
 ledger-live-download-sso-conect.typedream.app
 ledger-live-login-web.square.site
 ledger-live-wallet-start-conect-us-en.typedream.app
 ledger-lives-desktop.square.site
 ledger-liveusa.zapier.app
-ledgerlivewebapp.com
 ledgrelivapp--crome.typedream.app
 lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
 lnk.ink
@@ -456,7 +458,6 @@ netsolhost.com
 network-facebook.blogspot.com
 noreply-icloud.app
 nw-facebook.blogspot.com
-oferta-lokalana684538913895.shop
 office365licensingsupport.com
 online-facebook-privacy.blogspot.com
 oortstorages.com
@@ -475,7 +476,6 @@ paypal-refund.com
 paypal-signin.blogspot.com
 paypalcorp.blogspot.com
 pe-facebook.blogspot.com
-photosharing-icloud.com
 play-google.cam
 premio-instagram.com
 prizebond.net.pk
@@ -500,8 +500,8 @@ rf.gd
 roblox.com.bi
 roblox.com.bn
 roblox.com.bz
-roblox.com.et
 roblox.com.gr
+roblox.com.ml
 roblox.com.ms
 roblox.com.mu
 roblox.com.pt
@@ -558,10 +558,10 @@ twineapp.com
 twinehr.com
 uk-facebook.blogspot.com
 unaux.com
-under-security.in
 updata.net.cn
 us-nqzqo.life
 usacrazyseller.com
+usps-prioritymails.com
 uspsaunitedworkforce.com
 uspsecuredlogs.com
 uspsglobal.delivery
@@ -589,6 +589,7 @@ xfinity101.duckdns.org
 xfinityrefunds.com
 xfinitywindowfilms.com
 yapla.com
+yzz.me
 z-facebook.blogspot.com
 z-instagram.blogspot.com
 zelleria.shop
