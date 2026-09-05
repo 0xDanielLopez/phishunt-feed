@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 615
-! Updated: 2026-09-05T10:36:24Z
+! Entries: 620
+! Updated: 2026-09-05T15:15:04Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -33,7 +33,6 @@
 ||amazon-promos.shop^
 ||amazonbookawards.com^
 ||ani-facebook.blogspot.com^
-||antimoney-laundering.org^
 ||apk-google.cn^
 ||app-facebook.blogspot.com^
 ||app81-facebook.blogspot.com^
@@ -67,6 +66,7 @@
 ||business-dropbox.me^
 ||c-icloud.com^
 ||calendar.scan-whatsapp.com^
+||cardpaysecurity.org^
 ||carivo.vu^
 ||cart.comm-whatsapp.com^
 ||case185366-coinbase.com^
@@ -77,13 +77,11 @@
 ||click-facebook.blogspot.com^
 ||cn-spotify.cn^
 ||coinbase-fedex-claimshelpdesk.net.ph^
-||coinbase.com.lc^
 ||coinbasebackoffice.exchange^
 ||coinbaseinvestors.ai^
 ||comecome.click^
 ||correosiicr.cc^
 ||ct.ws^
-||cvmac.id^
 ||cz-facebook.blogspot.com^
 ||daservglobal.com^
 ||dblxhosting.co.uk^
@@ -318,6 +316,7 @@
 ||googleww.com^
 ||gpcconcrete.co.nz^
 ||grupoimpaktu.ao^
+||gudwa.com^
 ||h5-whatsapp-zn.hl.cn^
 ||hashnode.dev^
 ||help-instagram.blogspot.com^
@@ -330,10 +329,10 @@
 ||hsbc-sec.com^
 ||hsbc.dev^
 ||hsbcpress.com^
-||hstn.me^
 ||icloud-network.com^
 ||icloud-sharedalbum.com^
 ||id-kraken-controle.com^
+||ideeo.mx^
 ||ifotografix.co.uk^
 ||info-facebook.blogspot.com^
 ||ingdirect-alerta-clientes.com^
@@ -391,6 +390,7 @@
 ||jwb-facebook.blogspot.com^
 ||kenhoward.com^
 ||kucoinloign.gitbook.io^
+||kucoinv.com^
 ||lateinos.com.br^
 ||ledger-live-download-sso-conect.typedream.app^
 ||ledger-live-login-web.square.site^
@@ -515,15 +515,18 @@
 ||rents.ac^
 ||restoration-google.com^
 ||rev.it^
+||roblox.com.am^
 ||roblox.com.bi^
 ||roblox.com.bn^
 ||roblox.com.bz^
 ||roblox.com.gr^
+||roblox.com.ml^
 ||roblox.com.ms^
 ||roblox.com.mu^
 ||roblox.com.pt^
 ||rricrosoft-offices.org^
 ||s-facebook.blogspot.com^
+||sallim.alwaysdata.net^
 ||sandbox.comm-whatsapp.com^
 ||santanderbank.shop^
 ||santandercitas.com^
@@ -567,6 +570,7 @@
 ||test-facebook.blogspot.com^
 ||therelayservice.com^
 ||trackingnumbers.org^
+||traviyo.in^
 ||trezor-io-lernnu.typedream.app^
 ||trezor-io-start-conect-auth.typedream.app^
 ||trezor-io-start-us-help-access.typedream.app^
@@ -598,6 +602,7 @@
 ||web-spotify.cn^
 ||web0-whatsapp.com^
 ||webaccess-alert.com^
+||whatsapp-indonesia877.blogspot.com^
 ||whatsapp-verify.blogspot.com^
 ||whatsappapk.org^
 ||whatsappcampaign.online^

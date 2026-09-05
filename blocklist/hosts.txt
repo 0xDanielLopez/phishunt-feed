@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 615
-# Updated: 2026-09-05T10:36:24Z
+# Entries: 620
+# Updated: 2026-09-05T15:15:03Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -33,7 +33,6 @@
 0.0.0.0 amazon-promos.shop
 0.0.0.0 amazonbookawards.com
 0.0.0.0 ani-facebook.blogspot.com
-0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-facebook.blogspot.com
 0.0.0.0 app81-facebook.blogspot.com
@@ -67,6 +66,7 @@
 0.0.0.0 business-dropbox.me
 0.0.0.0 c-icloud.com
 0.0.0.0 calendar.scan-whatsapp.com
+0.0.0.0 cardpaysecurity.org
 0.0.0.0 carivo.vu
 0.0.0.0 cart.comm-whatsapp.com
 0.0.0.0 case185366-coinbase.com
@@ -77,13 +77,11 @@
 0.0.0.0 click-facebook.blogspot.com
 0.0.0.0 cn-spotify.cn
 0.0.0.0 coinbase-fedex-claimshelpdesk.net.ph
-0.0.0.0 coinbase.com.lc
 0.0.0.0 coinbasebackoffice.exchange
 0.0.0.0 coinbaseinvestors.ai
 0.0.0.0 comecome.click
 0.0.0.0 correosiicr.cc
 0.0.0.0 ct.ws
-0.0.0.0 cvmac.id
 0.0.0.0 cz-facebook.blogspot.com
 0.0.0.0 daservglobal.com
 0.0.0.0 dblxhosting.co.uk
@@ -318,6 +316,7 @@
 0.0.0.0 googleww.com
 0.0.0.0 gpcconcrete.co.nz
 0.0.0.0 grupoimpaktu.ao
+0.0.0.0 gudwa.com
 0.0.0.0 h5-whatsapp-zn.hl.cn
 0.0.0.0 hashnode.dev
 0.0.0.0 help-instagram.blogspot.com
@@ -330,10 +329,10 @@
 0.0.0.0 hsbc-sec.com
 0.0.0.0 hsbc.dev
 0.0.0.0 hsbcpress.com
-0.0.0.0 hstn.me
 0.0.0.0 icloud-network.com
 0.0.0.0 icloud-sharedalbum.com
 0.0.0.0 id-kraken-controle.com
+0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 info-facebook.blogspot.com
 0.0.0.0 ingdirect-alerta-clientes.com
@@ -391,6 +390,7 @@
 0.0.0.0 jwb-facebook.blogspot.com
 0.0.0.0 kenhoward.com
 0.0.0.0 kucoinloign.gitbook.io
+0.0.0.0 kucoinv.com
 0.0.0.0 lateinos.com.br
 0.0.0.0 ledger-live-download-sso-conect.typedream.app
 0.0.0.0 ledger-live-login-web.square.site
@@ -515,15 +515,18 @@
 0.0.0.0 rents.ac
 0.0.0.0 restoration-google.com
 0.0.0.0 rev.it
+0.0.0.0 roblox.com.am
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bz
 0.0.0.0 roblox.com.gr
+0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.ms
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 rricrosoft-offices.org
 0.0.0.0 s-facebook.blogspot.com
+0.0.0.0 sallim.alwaysdata.net
 0.0.0.0 sandbox.comm-whatsapp.com
 0.0.0.0 santanderbank.shop
 0.0.0.0 santandercitas.com
@@ -567,6 +570,7 @@
 0.0.0.0 test-facebook.blogspot.com
 0.0.0.0 therelayservice.com
 0.0.0.0 trackingnumbers.org
+0.0.0.0 traviyo.in
 0.0.0.0 trezor-io-lernnu.typedream.app
 0.0.0.0 trezor-io-start-conect-auth.typedream.app
 0.0.0.0 trezor-io-start-us-help-access.typedream.app
@@ -598,6 +602,7 @@
 0.0.0.0 web-spotify.cn
 0.0.0.0 web0-whatsapp.com
 0.0.0.0 webaccess-alert.com
+0.0.0.0 whatsapp-indonesia877.blogspot.com
 0.0.0.0 whatsapp-verify.blogspot.com
 0.0.0.0 whatsappapk.org
 0.0.0.0 whatsappcampaign.online
