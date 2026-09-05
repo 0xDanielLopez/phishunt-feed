@@ -1,19 +1,16 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 626
-# Updated: 2026-09-04T20:46:10Z
+# Entries: 618
+# Updated: 2026-09-05T04:30:49Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
-00123192s.casa
-012031928g.lol
 123-facebook.blogspot.com
-1241092000.casa
 164196-coinbase.com
 18493821-coinbase.com
 2017-facebook.blogspot.com
-239492341.casa
+26352717.xyz
 283674-coinbase.com
 393bet-facebook.sa.com
 54893-coinbase.com
@@ -21,8 +18,6 @@
 818144-kraken.com
 818920-kraken.com
 819283-kraken.com
-92359293ghg.lol
-9392130120.casa
 978489-coinbase.com
 a1-kraken.com
 a2zapk.co
@@ -46,10 +41,8 @@ appengine.google.com.drive.pratham.vincacybertechltd.myshn.net
 asif.me
 assign-icloud.com
 authorised-support.com
-bankofamerica-unauthorized.ph
 bankofamericamailcompte.blogspot.com
 bankofamericanonline.com
-bankofamericasecured.ph
 barcelona-facebook.blogspot.com
 bbva-hiring-paperless.appspot.com
 bbvaglobalwealthadvisors.com
@@ -67,6 +60,7 @@ binancewallett.blogspot.com
 biowikiweb.com
 bmb.adv.br
 bnext.es
+books-facebook.blogspot.com
 brad-facebook.blogspot.com
 build.comm-whatsapp.com
 business-dropbox.me
@@ -79,6 +73,7 @@ ch-google.cc
 chatgpt0005.eu.org
 citrix-sharing.com
 click-facebook.blogspot.com
+cn-spotify.cn
 coinbase.com.lc
 coinbasebackoffice.exchange
 coinbaseinvestors.ai
@@ -90,12 +85,14 @@ cz-facebook.blogspot.com
 daservglobal.com
 dblxhosting.co.uk
 deluxxe.com.br
+desktop-ledgrecdn.wixstudio.com
 desktop.scan-whatsapp.com
 dir.com.my
 dj-facebook.blogspot.com
 docs-google.com
 docs.scan-whatsapp.com
 dothome.co.kr
+dpd-cod.top
 dpdi.xyz
 dropbox-online.at
 dropbox-online.net
@@ -274,12 +271,11 @@ facebookuseraccount.blogspot.com
 facebookuserlogin.blogspot.com
 facebookverifyyouraccount.blogspot.com
 facebookwebsite9.blogspot.com
+facebookzaman.blogspot.com
 fake-facebook.blogspot.com
 fedexinterviewprep.com
-fedexsubdelivery.com
 ffmka.club
 fifa-store.shop
-fifaworldcupgiveaway.com
 file-whatsappn.hl.cn
 fmi-icloud.pro
 forsakens-crew-teman-facebook.blogspot.com
@@ -447,12 +443,10 @@ microsoftjk.eu.org
 microsoftsupportcenter.digital
 microsoftuk.co
 microsoftwordob.blogspot.com
-minttaskapp.com
 mirror-google.com
 misilabario.cl
 ml-facebook.blogspot.com
 mobile-google.cn
-mobile.scan-whatsapp.com
 modanix.digital
 movistar-recaudo-epayc.com
 munimventures.com
@@ -477,7 +471,6 @@ netflixtunisie.com.tn
 netflixvoid.org
 netsolhost.com
 network-facebook.blogspot.com
-news.scan-whatsapp.com
 noreply-icloud.app
 nw-facebook.blogspot.com
 office365licensingsupport.com
@@ -486,6 +479,7 @@ oortstorages.com
 oovra.club
 openai-coin.com
 openai-online.net
+orderyuk.info
 outlookindia.com
 outlookmail.social
 patch.comm-whatsapp.com
@@ -493,11 +487,11 @@ paykmc.com
 paypal-details.com
 paypal-invoice.com
 paypal-logiin.blogspot.com
-paypal-login-secure.help
 paypal-password.blogspot.com
 paypal-refund.com
 paypal-signin.blogspot.com
 paypalcorp.blogspot.com
+pc-spotify.cn
 pe-facebook.blogspot.com
 photo.comm-whatsapp.com
 play-google.cam
@@ -509,7 +503,6 @@ profil-facebook-saya.blogspot.com
 proteccion-outlook2026.iceiy.com
 protected-request.com
 prov.cx
-pryi40-23gf2.casa
 pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev
 r-facebook.blogspot.com
 rama-facebook.blogspot.com
@@ -530,7 +523,6 @@ roblox.com.bi
 roblox.com.bn
 roblox.com.bz
 roblox.com.gr
-roblox.com.ml
 roblox.com.ms
 roblox.com.mu
 roblox.com.pt
@@ -550,8 +542,6 @@ seureonline.shop
 shoppingonamazon.net
 sites.google.com.drive.pratham.vincacybertechltd.myshn.net
 sk-facebook.blogspot.com
-smar9439012g.casa
-smra9439020.lol
 softr.app
 spotify-anniversary30th.com
 spotify-modapk.com
@@ -560,6 +550,7 @@ srpska-banka.com
 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 sso-trezor-com-start-x-auth.typedream.app
 staging.comm-whatsapp.com
+start-faq-en-trezr-cdq.typedream.app
 start-ledgren.zapier.app
 start-web-en-ledger-live-login.typedream.app
 static-whatsapp.com
@@ -596,8 +587,8 @@ uk-facebook.blogspot.com
 unaux.com
 updata.net.cn
 us-nqzqo.life
+us-onedrive.com
 usacrazyseller.com
-usps-prioritymails.com
 uspsaunitedworkforce.com
 uspsecuredlogs.com
 uspsglobal.delivery
@@ -609,6 +600,7 @@ vodafone-on-line.it
 vpn-update.org
 vpnuse.eu.org
 web-conect-us-ledger-live-wallet.typedream.app
+web-spotify.cn
 webaccess-alert.com
 whatsapp-verify.blogspot.com
 whatsappapk.org

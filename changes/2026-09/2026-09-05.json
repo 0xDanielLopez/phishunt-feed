@@ -1,0 +1,46 @@
+{
+ "date": "2026-09-05",
+ "updated": "2026-09-05T04:30:50Z",
+ "source": "https://phishunt.io/feed.txt",
+ "license": "CC0-1.0",
+ "counts": {
+  "added": 12,
+  "removed": 20
+ },
+ "added": [
+  "http://admin-instagram.orderyuk.info",
+  "http://allegrolokalnie.26352717.xyz",
+  "http://facebookzaman.blogspot.com",
+  "http://ks-gov.us-onedrive.com",
+  "http://pc-spotify.cn",
+  "https://books-facebook.blogspot.com",
+  "https://cn-spotify.cn",
+  "https://desktop-ledgrecdn.wixstudio.com/web-en",
+  "https://dpd-cod.top/uk",
+  "https://roblox.com.am/users/259326787612/profile",
+  "https://start-faq-en-trezr-cdq.typedream.app/en-us",
+  "https://web-spotify.cn"
+ ],
+ "removed": [
+  "http://allegro.00123192s.casa",
+  "http://allegro.012031928g.lol",
+  "http://allegro.1241092000.casa",
+  "http://allegro.239492341.casa",
+  "http://allegro.92359293ghg.lol",
+  "http://allegro.9392130120.casa",
+  "http://allegro.pryi40-23gf2.casa",
+  "http://allegro.smar9439012g.casa",
+  "http://allegro.smra9439020.lol",
+  "http://fifaworldcupgiveaway.com",
+  "http://instagram.com.minttaskapp.com",
+  "http://tracking.usps-prioritymails.com",
+  "https://autodiscover.bankofamericasecured.ph",
+  "https://fedexsubdelivery.com",
+  "https://mobile.scan-whatsapp.com",
+  "https://news.scan-whatsapp.com",
+  "https://paypal-login-secure.help",
+  "https://roblox.com.am/users/171429286053/profile",
+  "https://roblox.com.ml/users/404373312275/profile",
+  "https://smtp.bankofamerica-unauthorized.ph"
+ ]
+}
