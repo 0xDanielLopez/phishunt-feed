@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 618
-# Updated: 2026-09-05T04:30:49Z
+# Entries: 615
+# Updated: 2026-09-05T10:36:24Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -14,7 +14,6 @@
 0.0.0.0 283674-coinbase.com
 0.0.0.0 393bet-facebook.sa.com
 0.0.0.0 54893-coinbase.com
-0.0.0.0 752976.lol
 0.0.0.0 818144-kraken.com
 0.0.0.0 818920-kraken.com
 0.0.0.0 819283-kraken.com
@@ -34,6 +33,7 @@
 0.0.0.0 amazon-promos.shop
 0.0.0.0 amazonbookawards.com
 0.0.0.0 ani-facebook.blogspot.com
+0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-facebook.blogspot.com
 0.0.0.0 app81-facebook.blogspot.com
@@ -47,6 +47,7 @@
 0.0.0.0 bbva-hiring-paperless.appspot.com
 0.0.0.0 bbvaglobalwealthadvisors.com
 0.0.0.0 bbvalues.uk
+0.0.0.0 benchmark.comm-whatsapp.com
 0.0.0.0 berbagi-facebook.blogspot.com
 0.0.0.0 best-credit-card-for-facebook-ads.com
 0.0.0.0 bet-facebook.blogspot.com
@@ -67,6 +68,7 @@
 0.0.0.0 c-icloud.com
 0.0.0.0 calendar.scan-whatsapp.com
 0.0.0.0 carivo.vu
+0.0.0.0 cart.comm-whatsapp.com
 0.0.0.0 case185366-coinbase.com
 0.0.0.0 cashappps.com
 0.0.0.0 ch-google.cc
@@ -74,6 +76,7 @@
 0.0.0.0 citrix-sharing.com
 0.0.0.0 click-facebook.blogspot.com
 0.0.0.0 cn-spotify.cn
+0.0.0.0 coinbase-fedex-claimshelpdesk.net.ph
 0.0.0.0 coinbase.com.lc
 0.0.0.0 coinbasebackoffice.exchange
 0.0.0.0 coinbaseinvestors.ai
@@ -92,7 +95,6 @@
 0.0.0.0 docs-google.com
 0.0.0.0 docs.scan-whatsapp.com
 0.0.0.0 dothome.co.kr
-0.0.0.0 dpd-cod.top
 0.0.0.0 dpdi.xyz
 0.0.0.0 dropbox-online.at
 0.0.0.0 dropbox-online.net
@@ -329,7 +331,6 @@
 0.0.0.0 hsbc.dev
 0.0.0.0 hsbcpress.com
 0.0.0.0 hstn.me
-0.0.0.0 icloud-i-cl.com
 0.0.0.0 icloud-network.com
 0.0.0.0 icloud-sharedalbum.com
 0.0.0.0 id-kraken-controle.com
@@ -344,7 +345,6 @@
 0.0.0.0 ingdirect-web-validado.com
 0.0.0.0 iniciamazon.com.br
 0.0.0.0 instagram-analytics.blogspot.com
-0.0.0.0 instagram-app.cn
 0.0.0.0 instagram-baittouts-login.blogspot.com
 0.0.0.0 instagram-change-password.blogspot.com
 0.0.0.0 instagram-demo.blogspot.com
@@ -484,8 +484,6 @@
 0.0.0.0 outlookmail.social
 0.0.0.0 patch.comm-whatsapp.com
 0.0.0.0 paykmc.com
-0.0.0.0 paypal-details.com
-0.0.0.0 paypal-invoice.com
 0.0.0.0 paypal-logiin.blogspot.com
 0.0.0.0 paypal-password.blogspot.com
 0.0.0.0 paypal-refund.com
@@ -517,8 +515,6 @@
 0.0.0.0 rents.ac
 0.0.0.0 restoration-google.com
 0.0.0.0 rev.it
-0.0.0.0 rf.gd
-0.0.0.0 roblox.com.am
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bz
@@ -561,7 +557,6 @@
 0.0.0.0 stream.comm-whatsapp.com
 0.0.0.0 su-facebook.blogspot.com
 0.0.0.0 sugar-outlook.com
-0.0.0.0 support-inc-apple.com
 0.0.0.0 support-ledgrcom-start-web.typedream.app
 0.0.0.0 support.zoom.us.pro.kaisarstore.dpdns.org
 0.0.0.0 support.zoom.us.vip.kaisarstore.dpdns.org
@@ -601,6 +596,7 @@
 0.0.0.0 vpnuse.eu.org
 0.0.0.0 web-conect-us-ledger-live-wallet.typedream.app
 0.0.0.0 web-spotify.cn
+0.0.0.0 web0-whatsapp.com
 0.0.0.0 webaccess-alert.com
 0.0.0.0 whatsapp-verify.blogspot.com
 0.0.0.0 whatsappapk.org
@@ -609,6 +605,7 @@
 0.0.0.0 whatsappq.com
 0.0.0.0 windows-ledger-live.typedream.app
 0.0.0.0 works.comm-whatsapp.com
+0.0.0.0 wqg.ru.com
 0.0.0.0 ww-facebook.blogspot.com
 0.0.0.0 www-app-google.com
 0.0.0.0 www-google.cn

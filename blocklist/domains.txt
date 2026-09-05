@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 618
-# Updated: 2026-09-05T04:30:49Z
+# Entries: 615
+# Updated: 2026-09-05T10:36:23Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -14,7 +14,6 @@
 283674-coinbase.com
 393bet-facebook.sa.com
 54893-coinbase.com
-752976.lol
 818144-kraken.com
 818920-kraken.com
 819283-kraken.com
@@ -34,6 +33,7 @@ alibaba66slot.app
 amazon-promos.shop
 amazonbookawards.com
 ani-facebook.blogspot.com
+antimoney-laundering.org
 apk-google.cn
 app-facebook.blogspot.com
 app81-facebook.blogspot.com
@@ -47,6 +47,7 @@ barcelona-facebook.blogspot.com
 bbva-hiring-paperless.appspot.com
 bbvaglobalwealthadvisors.com
 bbvalues.uk
+benchmark.comm-whatsapp.com
 berbagi-facebook.blogspot.com
 best-credit-card-for-facebook-ads.com
 bet-facebook.blogspot.com
@@ -67,6 +68,7 @@ business-dropbox.me
 c-icloud.com
 calendar.scan-whatsapp.com
 carivo.vu
+cart.comm-whatsapp.com
 case185366-coinbase.com
 cashappps.com
 ch-google.cc
@@ -74,6 +76,7 @@ chatgpt0005.eu.org
 citrix-sharing.com
 click-facebook.blogspot.com
 cn-spotify.cn
+coinbase-fedex-claimshelpdesk.net.ph
 coinbase.com.lc
 coinbasebackoffice.exchange
 coinbaseinvestors.ai
@@ -92,7 +95,6 @@ dj-facebook.blogspot.com
 docs-google.com
 docs.scan-whatsapp.com
 dothome.co.kr
-dpd-cod.top
 dpdi.xyz
 dropbox-online.at
 dropbox-online.net
@@ -329,7 +331,6 @@ hsbc-sec.com
 hsbc.dev
 hsbcpress.com
 hstn.me
-icloud-i-cl.com
 icloud-network.com
 icloud-sharedalbum.com
 id-kraken-controle.com
@@ -344,7 +345,6 @@ ingdirect-usuario-soporte.com
 ingdirect-web-validado.com
 iniciamazon.com.br
 instagram-analytics.blogspot.com
-instagram-app.cn
 instagram-baittouts-login.blogspot.com
 instagram-change-password.blogspot.com
 instagram-demo.blogspot.com
@@ -484,8 +484,6 @@ outlookindia.com
 outlookmail.social
 patch.comm-whatsapp.com
 paykmc.com
-paypal-details.com
-paypal-invoice.com
 paypal-logiin.blogspot.com
 paypal-password.blogspot.com
 paypal-refund.com
@@ -517,8 +515,6 @@ rekemonedasi-facebook.org
 rents.ac
 restoration-google.com
 rev.it
-rf.gd
-roblox.com.am
 roblox.com.bi
 roblox.com.bn
 roblox.com.bz
@@ -561,7 +557,6 @@ steuerquimica.cl
 stream.comm-whatsapp.com
 su-facebook.blogspot.com
 sugar-outlook.com
-support-inc-apple.com
 support-ledgrcom-start-web.typedream.app
 support.zoom.us.pro.kaisarstore.dpdns.org
 support.zoom.us.vip.kaisarstore.dpdns.org
@@ -601,6 +596,7 @@ vpn-update.org
 vpnuse.eu.org
 web-conect-us-ledger-live-wallet.typedream.app
 web-spotify.cn
+web0-whatsapp.com
 webaccess-alert.com
 whatsapp-verify.blogspot.com
 whatsappapk.org
@@ -609,6 +605,7 @@ whatsappfreewhatsapp.blogspot.com
 whatsappq.com
 windows-ledger-live.typedream.app
 works.comm-whatsapp.com
+wqg.ru.com
 ww-facebook.blogspot.com
 www-app-google.com
 www-google.cn
