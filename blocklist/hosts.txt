@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 820
-# Updated: 2026-09-06T15:28:39Z
+# Entries: 828
+# Updated: 2026-09-06T20:24:59Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -36,6 +36,7 @@
 0.0.0.0 alibaba66a.net
 0.0.0.0 alibaba66malaysia.app
 0.0.0.0 alibaba66slot.app
+0.0.0.0 alone-trezr-io-strt.pages.dev
 0.0.0.0 amazon-ecommerce-nine.vercel.app
 0.0.0.0 amazon-eight-taupe.vercel.app
 0.0.0.0 amazon-front-me.vercel.app
@@ -56,7 +57,6 @@
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-facebook.blogspot.com
 0.0.0.0 app81-facebook.blogspot.com
-0.0.0.0 appengine.google.com.drive.pratham.vincacybertechltd.myshn.net
 0.0.0.0 arencia-vitaminc-booster-amazon.netlify.app
 0.0.0.0 armankhan-12.github.io
 0.0.0.0 asif.me
@@ -65,10 +65,12 @@
 0.0.0.0 auth-trezr-brdge-io.pages.dev
 0.0.0.0 authorised-support.com
 0.0.0.0 aziizmusyafa18.github.io
+0.0.0.0 bankofamerica-com-login-update-unauthorized.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 bankofamericanonline.com
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
+0.0.0.0 base.sec-whatsapp.com
 0.0.0.0 bbva-hiring-paperless.appspot.com
 0.0.0.0 bbvaglobalwealthadvisors.com
 0.0.0.0 bbvalues.uk
@@ -385,6 +387,7 @@
 0.0.0.0 gpcconcrete.co.nz
 0.0.0.0 grupoimpaktu.ao
 0.0.0.0 gudwa.com
+0.0.0.0 guide.sec-whatsapp.com
 0.0.0.0 hackerog17.github.io
 0.0.0.0 hasan-321.github.io
 0.0.0.0 hashnode.dev
@@ -404,6 +407,7 @@
 0.0.0.0 https-wwwv-roblox.co
 0.0.0.0 icloud-network.com
 0.0.0.0 icloud-sharedalbum.com
+0.0.0.0 icloudfinders.help
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 indiarevolutionnova.github.io
@@ -512,6 +516,7 @@
 0.0.0.0 lnk.ink
 0.0.0.0 lobster-cloud.com
 0.0.0.0 local.comm-whatsapp.com
+0.0.0.0 local.sec-whatsapp.com
 0.0.0.0 local.static-whatsapp.com
 0.0.0.0 login-facebook-facebook.blogspot.com
 0.0.0.0 login-facebookaccount.blogspot.com
@@ -524,6 +529,7 @@
 0.0.0.0 loginfacebook-facebook.blogspot.com
 0.0.0.0 logowanie-facebook.vercel.app
 0.0.0.0 lokalna-48203.sbs
+0.0.0.0 lokalna-709814.lol
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lovevivah.com
@@ -531,7 +537,6 @@
 0.0.0.0 ly-facebook.blogspot.com
 0.0.0.0 m365-microsoft.com
 0.0.0.0 m4ntapaset.ink
-0.0.0.0 mail.google.com.drive.pratham.vincacybertechltd.myshn.net
 0.0.0.0 manish1719.github.io
 0.0.0.0 mb-facebook.blogspot.com
 0.0.0.0 meet-googlee46347975696.pages.dev
@@ -614,6 +619,7 @@
 0.0.0.0 network-facebook.blogspot.com
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
+0.0.0.0 oferta839174.click
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 onedrive-2-zeta.vercel.app
 0.0.0.0 online-facebook-privacy.blogspot.com
@@ -633,6 +639,7 @@
 0.0.0.0 outlookmail.social
 0.0.0.0 page-instagram.vercel.app
 0.0.0.0 patch.comm-whatsapp.com
+0.0.0.0 patch.sec-whatsapp.com
 0.0.0.0 patch.static-whatsapp.com
 0.0.0.0 paykmc.com
 0.0.0.0 paypal-logiin.blogspot.com
@@ -646,14 +653,17 @@
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 pfw498tr2323.homes
 0.0.0.0 photo.comm-whatsapp.com
+0.0.0.0 photo.sec-whatsapp.com
 0.0.0.0 photo.static-whatsapp.com
 0.0.0.0 play-google.cam
 0.0.0.0 pr1395387-stack.github.io
 0.0.0.0 prajwalkuchewar.github.io
 0.0.0.0 premio-instagram.com
 0.0.0.0 premium.comm-whatsapp.com
+0.0.0.0 premium.sec-whatsapp.com
 0.0.0.0 premium.static-whatsapp.com
 0.0.0.0 private.comm-whatsapp.com
+0.0.0.0 private.sec-whatsapp.com
 0.0.0.0 private.static-whatsapp.com
 0.0.0.0 prizebond.net.pk
 0.0.0.0 profil-facebook-saya.blogspot.com
@@ -690,9 +700,9 @@
 0.0.0.0 ruddycruzc.github.io
 0.0.0.0 rushikesh-rane.github.io
 0.0.0.0 s-facebook.blogspot.com
-0.0.0.0 sallim.alwaysdata.net
 0.0.0.0 samplel-ks6yxvur5-instagramm.vercel.app
 0.0.0.0 sandbox.comm-whatsapp.com
+0.0.0.0 sandbox.sec-whatsapp.com
 0.0.0.0 sandbox.static-whatsapp.com
 0.0.0.0 santander-dev-week.vercel.app
 0.0.0.0 santanderbank.shop
@@ -710,12 +720,10 @@
 0.0.0.0 shoppingonamazon.net
 0.0.0.0 shruuti-005.github.io
 0.0.0.0 siddharth-1404.github.io
-0.0.0.0 sites.google.com.drive.pratham.vincacybertechltd.myshn.net
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 smarpt342832012.homes
 0.0.0.0 softr.app
 0.0.0.0 spotify-a9.netlify.app
-0.0.0.0 spotify-anniversary30th.com
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotify-modapk.com
 0.0.0.0 spotify-plus.com
@@ -731,6 +739,7 @@
 0.0.0.0 steamcommunity.ing
 0.0.0.0 steuerquimica.cl
 0.0.0.0 stream.comm-whatsapp.com
+0.0.0.0 stream.sec-whatsapp.com
 0.0.0.0 stream.static-whatsapp.com
 0.0.0.0 su-facebook.blogspot.com
 0.0.0.0 sugar-outlook.com
@@ -776,7 +785,6 @@
 0.0.0.0 usdt-trustwallet-blockchain.vercel.app
 0.0.0.0 uspsaunitedworkforce.com
 0.0.0.0 uspsecuredlogs.com
-0.0.0.0 uspsglobal.delivery
 0.0.0.0 uspssmartpackagelockers.com
 0.0.0.0 v0-instagram-accounts.vercel.app
 0.0.0.0 verifytoken.com

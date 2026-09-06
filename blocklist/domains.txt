@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 820
-# Updated: 2026-09-06T15:28:39Z
+# Entries: 828
+# Updated: 2026-09-06T20:24:58Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -36,6 +36,7 @@ alibaba666.pro
 alibaba66a.net
 alibaba66malaysia.app
 alibaba66slot.app
+alone-trezr-io-strt.pages.dev
 amazon-ecommerce-nine.vercel.app
 amazon-eight-taupe.vercel.app
 amazon-front-me.vercel.app
@@ -56,7 +57,6 @@ apk-google.cn
 app-binance.github.io
 app-facebook.blogspot.com
 app81-facebook.blogspot.com
-appengine.google.com.drive.pratham.vincacybertechltd.myshn.net
 arencia-vitaminc-booster-amazon.netlify.app
 armankhan-12.github.io
 asif.me
@@ -65,10 +65,12 @@ assign-icloud.com
 auth-trezr-brdge-io.pages.dev
 authorised-support.com
 aziizmusyafa18.github.io
+bankofamerica-com-login-update-unauthorized.ph
 bankofamericamailcompte.blogspot.com
 bankofamericanonline.com
 barcelona-facebook.blogspot.com
 barclays-bank.vercel.app
+base.sec-whatsapp.com
 bbva-hiring-paperless.appspot.com
 bbvaglobalwealthadvisors.com
 bbvalues.uk
@@ -385,6 +387,7 @@ googleww.com
 gpcconcrete.co.nz
 grupoimpaktu.ao
 gudwa.com
+guide.sec-whatsapp.com
 hackerog17.github.io
 hasan-321.github.io
 hashnode.dev
@@ -404,6 +407,7 @@ hsbcpress.com
 https-wwwv-roblox.co
 icloud-network.com
 icloud-sharedalbum.com
+icloudfinders.help
 ideeo.mx
 ifotografix.co.uk
 indiarevolutionnova.github.io
@@ -512,6 +516,7 @@ lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
 lnk.ink
 lobster-cloud.com
 local.comm-whatsapp.com
+local.sec-whatsapp.com
 local.static-whatsapp.com
 login-facebook-facebook.blogspot.com
 login-facebookaccount.blogspot.com
@@ -524,6 +529,7 @@ login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 loginfacebook-facebook.blogspot.com
 logowanie-facebook.vercel.app
 lokalna-48203.sbs
+lokalna-709814.lol
 love-facebook.blogspot.com
 lovefive-facebook.blogspot.com
 lovevivah.com
@@ -531,7 +537,6 @@ luanaallycia.github.io
 ly-facebook.blogspot.com
 m365-microsoft.com
 m4ntapaset.ink
-mail.google.com.drive.pratham.vincacybertechltd.myshn.net
 manish1719.github.io
 mb-facebook.blogspot.com
 meet-googlee46347975696.pages.dev
@@ -614,6 +619,7 @@ netsolhost.com
 network-facebook.blogspot.com
 noreply-icloud.app
 nw-facebook.blogspot.com
+oferta839174.click
 office365licensingsupport.com
 onedrive-2-zeta.vercel.app
 online-facebook-privacy.blogspot.com
@@ -633,6 +639,7 @@ outlookindia.com
 outlookmail.social
 page-instagram.vercel.app
 patch.comm-whatsapp.com
+patch.sec-whatsapp.com
 patch.static-whatsapp.com
 paykmc.com
 paypal-logiin.blogspot.com
@@ -646,14 +653,17 @@ pc-spotify.cn
 pe-facebook.blogspot.com
 pfw498tr2323.homes
 photo.comm-whatsapp.com
+photo.sec-whatsapp.com
 photo.static-whatsapp.com
 play-google.cam
 pr1395387-stack.github.io
 prajwalkuchewar.github.io
 premio-instagram.com
 premium.comm-whatsapp.com
+premium.sec-whatsapp.com
 premium.static-whatsapp.com
 private.comm-whatsapp.com
+private.sec-whatsapp.com
 private.static-whatsapp.com
 prizebond.net.pk
 profil-facebook-saya.blogspot.com
@@ -690,9 +700,9 @@ rricrosoft-offices.org
 ruddycruzc.github.io
 rushikesh-rane.github.io
 s-facebook.blogspot.com
-sallim.alwaysdata.net
 samplel-ks6yxvur5-instagramm.vercel.app
 sandbox.comm-whatsapp.com
+sandbox.sec-whatsapp.com
 sandbox.static-whatsapp.com
 santander-dev-week.vercel.app
 santanderbank.shop
@@ -710,12 +720,10 @@ sheokand9806.github.io
 shoppingonamazon.net
 shruuti-005.github.io
 siddharth-1404.github.io
-sites.google.com.drive.pratham.vincacybertechltd.myshn.net
 sk-facebook.blogspot.com
 smarpt342832012.homes
 softr.app
 spotify-a9.netlify.app
-spotify-anniversary30th.com
 spotify-client-beta.vercel.app
 spotify-modapk.com
 spotify-plus.com
@@ -731,6 +739,7 @@ steamcommunity.blog
 steamcommunity.ing
 steuerquimica.cl
 stream.comm-whatsapp.com
+stream.sec-whatsapp.com
 stream.static-whatsapp.com
 su-facebook.blogspot.com
 sugar-outlook.com
@@ -776,7 +785,6 @@ usacrazyseller.com
 usdt-trustwallet-blockchain.vercel.app
 uspsaunitedworkforce.com
 uspsecuredlogs.com
-uspsglobal.delivery
 uspssmartpackagelockers.com
 v0-instagram-accounts.vercel.app
 verifytoken.com
