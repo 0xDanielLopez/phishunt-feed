@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 805
-# Updated: 2026-09-06T10:58:16Z
+# Entries: 820
+# Updated: 2026-09-06T15:28:39Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -18,6 +18,7 @@
 0.0.0.0 818144-kraken.com
 0.0.0.0 818920-kraken.com
 0.0.0.0 819283-kraken.com
+0.0.0.0 9458323ffo.beauty
 0.0.0.0 978489-coinbase.com
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
@@ -94,6 +95,7 @@
 0.0.0.0 brad-facebook.blogspot.com
 0.0.0.0 build.comm-whatsapp.com
 0.0.0.0 build.static-whatsapp.com
+0.0.0.0 bunker.ink
 0.0.0.0 business-dropbox.me
 0.0.0.0 c-binance.github.io
 0.0.0.0 c-icloud.com
@@ -114,6 +116,8 @@
 0.0.0.0 coinbasebackoffice.exchange
 0.0.0.0 coinbaseinvestors.ai
 0.0.0.0 comcast2.vercel.app
+0.0.0.0 comcastcarebusiness.weebly.com
+0.0.0.0 comcastsurvey.weebly.com
 0.0.0.0 comecome.click
 0.0.0.0 correosiicr.cc
 0.0.0.0 ct.ws
@@ -348,6 +352,7 @@
 0.0.0.0 gateareis.vu
 0.0.0.0 geotehnica.com
 0.0.0.0 ggzh-google.com.cn
+0.0.0.0 gloronyan.github.io
 0.0.0.0 google-cloud.services
 0.0.0.0 google-sign-in.github.io
 0.0.0.0 google-verify.email
@@ -396,6 +401,7 @@
 0.0.0.0 hsbc-sec.com
 0.0.0.0 hsbc.dev
 0.0.0.0 hsbcpress.com
+0.0.0.0 https-wwwv-roblox.co
 0.0.0.0 icloud-network.com
 0.0.0.0 icloud-sharedalbum.com
 0.0.0.0 ideeo.mx
@@ -465,6 +471,7 @@
 0.0.0.0 instagramlogin74.blogspot.com
 0.0.0.0 instagramlogin77.blogspot.com
 0.0.0.0 instagramlogin99.blogspot.com
+0.0.0.0 instagramloginlink.blogspot.com
 0.0.0.0 instagramloginpage111.blogspot.com
 0.0.0.0 instagramloginpassword.blogspot.com
 0.0.0.0 instagramrecovery.blogspot.com
@@ -475,6 +482,7 @@
 0.0.0.0 instagramunblockedd.vercel.app
 0.0.0.0 instagramusicabrasilinstagram.blogspot.com
 0.0.0.0 internal-alerts.com
+0.0.0.0 isha-dev.com
 0.0.0.0 itau-snowy.vercel.app
 0.0.0.0 itauu.vercel.app
 0.0.0.0 itzthesandy.github.io
@@ -557,6 +565,7 @@
 0.0.0.0 mhmr.ro
 0.0.0.0 mi-santander.com
 0.0.0.0 microsoft-alpha.vercel.app
+0.0.0.0 microsoft-notifcation.com
 0.0.0.0 microsoft-se.us
 0.0.0.0 microsoft-sharepoint.fr
 0.0.0.0 microsoft-ssl.com
@@ -635,6 +644,7 @@
 0.0.0.0 paypalcorp.blogspot.com
 0.0.0.0 pc-spotify.cn
 0.0.0.0 pe-facebook.blogspot.com
+0.0.0.0 pfw498tr2323.homes
 0.0.0.0 photo.comm-whatsapp.com
 0.0.0.0 photo.static-whatsapp.com
 0.0.0.0 play-google.cam
@@ -702,6 +712,7 @@
 0.0.0.0 siddharth-1404.github.io
 0.0.0.0 sites.google.com.drive.pratham.vincacybertechltd.myshn.net
 0.0.0.0 sk-facebook.blogspot.com
+0.0.0.0 smarpt342832012.homes
 0.0.0.0 softr.app
 0.0.0.0 spotify-a9.netlify.app
 0.0.0.0 spotify-anniversary30th.com
@@ -754,6 +765,7 @@
 0.0.0.0 trustwallet-login.blogspot.com
 0.0.0.0 trustwallet-secure-check.vercel.app
 0.0.0.0 trustwalletsupport.dev
+0.0.0.0 trustwalletsupport455-crypto.github.io
 0.0.0.0 twineapp.com
 0.0.0.0 twinehr.com
 0.0.0.0 uk-facebook.blogspot.com
@@ -779,6 +791,7 @@
 0.0.0.0 web-spotify.cn
 0.0.0.0 web-trezor-io-start-us.vercel.app
 0.0.0.0 webaccess-alert.com
+0.0.0.0 wegoupupup.com
 0.0.0.0 wellsfargo-worl.vercel.app
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-iamsuyash.vercel.app
@@ -801,7 +814,9 @@
 0.0.0.0 x-comcast.weebly.com
 0.0.0.0 xfinity101.duckdns.org
 0.0.0.0 xfinity2.vercel.app
+0.0.0.0 xfinityis.weebly.com
 0.0.0.0 xfinityservices.vercel.app
+0.0.0.0 xfinityttt.weebly.com
 0.0.0.0 xfinitywindowfilms.com
 0.0.0.0 yagomouro.github.io
 0.0.0.0 yapla.com

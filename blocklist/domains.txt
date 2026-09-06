@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 805
-# Updated: 2026-09-06T10:58:16Z
+# Entries: 820
+# Updated: 2026-09-06T15:28:39Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -18,6 +18,7 @@
 818144-kraken.com
 818920-kraken.com
 819283-kraken.com
+9458323ffo.beauty
 978489-coinbase.com
 a1-kraken.com
 a2zapk.co
@@ -94,6 +95,7 @@ books-facebook.blogspot.com
 brad-facebook.blogspot.com
 build.comm-whatsapp.com
 build.static-whatsapp.com
+bunker.ink
 business-dropbox.me
 c-binance.github.io
 c-icloud.com
@@ -114,6 +116,8 @@ coinbase-fedex-claimshelpdesk.net.ph
 coinbasebackoffice.exchange
 coinbaseinvestors.ai
 comcast2.vercel.app
+comcastcarebusiness.weebly.com
+comcastsurvey.weebly.com
 comecome.click
 correosiicr.cc
 ct.ws
@@ -348,6 +352,7 @@ gafiatechnologies.com
 gateareis.vu
 geotehnica.com
 ggzh-google.com.cn
+gloronyan.github.io
 google-cloud.services
 google-sign-in.github.io
 google-verify.email
@@ -396,6 +401,7 @@ hotmail143.net
 hsbc-sec.com
 hsbc.dev
 hsbcpress.com
+https-wwwv-roblox.co
 icloud-network.com
 icloud-sharedalbum.com
 ideeo.mx
@@ -465,6 +471,7 @@ instagramlogin68.blogspot.com
 instagramlogin74.blogspot.com
 instagramlogin77.blogspot.com
 instagramlogin99.blogspot.com
+instagramloginlink.blogspot.com
 instagramloginpage111.blogspot.com
 instagramloginpassword.blogspot.com
 instagramrecovery.blogspot.com
@@ -475,6 +482,7 @@ instagramsupportverify.blogspot.com
 instagramunblockedd.vercel.app
 instagramusicabrasilinstagram.blogspot.com
 internal-alerts.com
+isha-dev.com
 itau-snowy.vercel.app
 itauu.vercel.app
 itzthesandy.github.io
@@ -557,6 +565,7 @@ meweb.kz
 mhmr.ro
 mi-santander.com
 microsoft-alpha.vercel.app
+microsoft-notifcation.com
 microsoft-se.us
 microsoft-sharepoint.fr
 microsoft-ssl.com
@@ -635,6 +644,7 @@ paypal3.vercel.app
 paypalcorp.blogspot.com
 pc-spotify.cn
 pe-facebook.blogspot.com
+pfw498tr2323.homes
 photo.comm-whatsapp.com
 photo.static-whatsapp.com
 play-google.cam
@@ -702,6 +712,7 @@ shruuti-005.github.io
 siddharth-1404.github.io
 sites.google.com.drive.pratham.vincacybertechltd.myshn.net
 sk-facebook.blogspot.com
+smarpt342832012.homes
 softr.app
 spotify-a9.netlify.app
 spotify-anniversary30th.com
@@ -754,6 +765,7 @@ trustwallet-helpcenter.vercel.app
 trustwallet-login.blogspot.com
 trustwallet-secure-check.vercel.app
 trustwalletsupport.dev
+trustwalletsupport455-crypto.github.io
 twineapp.com
 twinehr.com
 uk-facebook.blogspot.com
@@ -779,6 +791,7 @@ web-conect-us-ledger-live-wallet.typedream.app
 web-spotify.cn
 web-trezor-io-start-us.vercel.app
 webaccess-alert.com
+wegoupupup.com
 wellsfargo-worl.vercel.app
 whatsapp-fast.vercel.app
 whatsapp-iamsuyash.vercel.app
@@ -801,7 +814,9 @@ wwww-linkedin.be
 x-comcast.weebly.com
 xfinity101.duckdns.org
 xfinity2.vercel.app
+xfinityis.weebly.com
 xfinityservices.vercel.app
+xfinityttt.weebly.com
 xfinitywindowfilms.com
 yagomouro.github.io
 yapla.com
