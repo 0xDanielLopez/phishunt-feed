@@ -1,18 +1,29 @@
 {
  "date": "2026-09-06",
- "updated": "2026-09-06T04:40:30Z",
+ "updated": "2026-09-06T10:58:16Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 5,
-  "removed": 155
+  "added": 16,
+  "removed": 158
  },
  "added": [
   "http://x-comcast.weebly.com",
   "https://allegrolokalnie.lokalna-48203.sbs",
+  "https://build.static-whatsapp.com",
+  "https://local.static-whatsapp.com",
+  "https://mcstaging.americanexpresspop.com",
   "https://objectstorage.ap-kulai-2.oraclecloud.com/n/axqwdn9ov3iw/b/bucket-20260730-1024/o/DocuSign.html?cms=miryn9@b7e2de675cbd56e72e01235186b7c0c84b2a.org",
-  "https://roblox.com.am/games/2753915549/Blox-Fruits?privateServerLinkCode=137482564248189219577652373777",
-  "https://roblox.com.ml/users/114648165233/profile"
+  "https://patch.static-whatsapp.com",
+  "https://photo.static-whatsapp.com",
+  "https://premium.static-whatsapp.com",
+  "https://private.static-whatsapp.com",
+  "https://pve.paypal-login.antimoney-laundering.org",
+  "https://roblox.com.am/users/255877383315/profile",
+  "https://roblox.com.ml/users/228338630634/profile",
+  "https://sandbox.static-whatsapp.com",
+  "https://stream.static-whatsapp.com",
+  "https://works.static-whatsapp.com"
  ],
  "removed": [
   "http://allegrolokalnie.26352717.xyz",
@@ -90,6 +101,7 @@
   "https://icloud-keychain-customer-service.pages.dev",
   "https://id-kraken-controle.com/login_a8f2k9m.php",
   "https://info-ledgerlive.pages.dev",
+  "https://instagram9092.github.io/share.video.reels/",
   "https://instagramx4.pages.dev",
   "https://io-ledzer-login.pages.dev",
   "https://kenapa-lagi-ni-google.pages.dev",
@@ -106,11 +118,13 @@
   "https://ledgerlive-desktop-ask.pages.dev",
   "https://ledgrr-eng-com.pages.dev",
   "https://linkedin-answer.pages.dev",
+  "https://livepc.h5-whatsapp-zn.hl.cn",
   "https://local.scan-whatsapp.com",
   "https://login-stripe-customer-portal-docs.pages.dev",
   "https://logn-trezre.pages.dev",
   "https://maen-maen-terus-google.pages.dev",
   "https://mark-zuck-facebook.pages.dev",
+  "https://me.h5-whatsapp-zn.hl.cn",
   "https://mercedesbenz-gls-class.pages.dev",
   "https://microsoft-login.imicrosoftonllne.workers.dev",
   "https://most-watched-netflix-series.pages.dev",

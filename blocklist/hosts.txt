@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 795
-# Updated: 2026-09-06T04:40:29Z
+# Entries: 805
+# Updated: 2026-09-06T10:58:16Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -45,10 +45,12 @@
 0.0.0.0 amazon-ten-gamma.vercel.app
 0.0.0.0 amazon-web-inspired.vercel.app
 0.0.0.0 amazonbookawards.com
+0.0.0.0 americanexpresspop.com
 0.0.0.0 amirrhasanpor0915-pixel.github.io
 0.0.0.0 amjadraza19.github.io
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 anoopsamazon.vercel.app
+0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-facebook.blogspot.com
@@ -57,7 +59,9 @@
 0.0.0.0 arencia-vitaminc-booster-amazon.netlify.app
 0.0.0.0 armankhan-12.github.io
 0.0.0.0 asif.me
+0.0.0.0 asset.static-whatsapp.com
 0.0.0.0 assign-icloud.com
+0.0.0.0 auth-trezr-brdge-io.pages.dev
 0.0.0.0 authorised-support.com
 0.0.0.0 aziizmusyafa18.github.io
 0.0.0.0 bankofamericamailcompte.blogspot.com
@@ -89,6 +93,7 @@
 0.0.0.0 books-facebook.blogspot.com
 0.0.0.0 brad-facebook.blogspot.com
 0.0.0.0 build.comm-whatsapp.com
+0.0.0.0 build.static-whatsapp.com
 0.0.0.0 business-dropbox.me
 0.0.0.0 c-binance.github.io
 0.0.0.0 c-icloud.com
@@ -375,7 +380,6 @@
 0.0.0.0 gpcconcrete.co.nz
 0.0.0.0 grupoimpaktu.ao
 0.0.0.0 gudwa.com
-0.0.0.0 h5-whatsapp-zn.hl.cn
 0.0.0.0 hackerog17.github.io
 0.0.0.0 hasan-321.github.io
 0.0.0.0 hashnode.dev
@@ -440,7 +444,6 @@
 0.0.0.0 instagram-users.blogspot.com
 0.0.0.0 instagram-usman-haider.vercel.app
 0.0.0.0 instagram-verifications.blogspot.com
-0.0.0.0 instagram9092.github.io
 0.0.0.0 instagram90sedition.vercel.app
 0.0.0.0 instagramaaps-code.github.io
 0.0.0.0 instagramaccount.info
@@ -501,6 +504,7 @@
 0.0.0.0 lnk.ink
 0.0.0.0 lobster-cloud.com
 0.0.0.0 local.comm-whatsapp.com
+0.0.0.0 local.static-whatsapp.com
 0.0.0.0 login-facebook-facebook.blogspot.com
 0.0.0.0 login-facebookaccount.blogspot.com
 0.0.0.0 login-my-facebook.blogspot.com
@@ -620,6 +624,7 @@
 0.0.0.0 outlookmail.social
 0.0.0.0 page-instagram.vercel.app
 0.0.0.0 patch.comm-whatsapp.com
+0.0.0.0 patch.static-whatsapp.com
 0.0.0.0 paykmc.com
 0.0.0.0 paypal-logiin.blogspot.com
 0.0.0.0 paypal-password.blogspot.com
@@ -631,12 +636,15 @@
 0.0.0.0 pc-spotify.cn
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 photo.comm-whatsapp.com
+0.0.0.0 photo.static-whatsapp.com
 0.0.0.0 play-google.cam
 0.0.0.0 pr1395387-stack.github.io
 0.0.0.0 prajwalkuchewar.github.io
 0.0.0.0 premio-instagram.com
 0.0.0.0 premium.comm-whatsapp.com
+0.0.0.0 premium.static-whatsapp.com
 0.0.0.0 private.comm-whatsapp.com
+0.0.0.0 private.static-whatsapp.com
 0.0.0.0 prizebond.net.pk
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 proteccion-outlook2026.iceiy.com
@@ -675,6 +683,7 @@
 0.0.0.0 sallim.alwaysdata.net
 0.0.0.0 samplel-ks6yxvur5-instagramm.vercel.app
 0.0.0.0 sandbox.comm-whatsapp.com
+0.0.0.0 sandbox.static-whatsapp.com
 0.0.0.0 santander-dev-week.vercel.app
 0.0.0.0 santanderbank.shop
 0.0.0.0 santandercitas.com
@@ -706,12 +715,12 @@
 0.0.0.0 start-faq-en-trezr-cdq.typedream.app
 0.0.0.0 start-ledgren.zapier.app
 0.0.0.0 start-web-en-ledger-live-login.typedream.app
-0.0.0.0 static-whatsapp.com
 0.0.0.0 steamcommunity-balanceworkshop.shop
 0.0.0.0 steamcommunity.blog
 0.0.0.0 steamcommunity.ing
 0.0.0.0 steuerquimica.cl
 0.0.0.0 stream.comm-whatsapp.com
+0.0.0.0 stream.static-whatsapp.com
 0.0.0.0 su-facebook.blogspot.com
 0.0.0.0 sugar-outlook.com
 0.0.0.0 support-instagram.github.io
@@ -781,6 +790,7 @@
 0.0.0.0 whatsappq.com
 0.0.0.0 windows-ledger-live.typedream.app
 0.0.0.0 works.comm-whatsapp.com
+0.0.0.0 works.static-whatsapp.com
 0.0.0.0 ww-facebook.blogspot.com
 0.0.0.0 www-app-google.com
 0.0.0.0 www-google.cn

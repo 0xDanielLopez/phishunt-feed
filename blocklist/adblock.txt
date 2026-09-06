@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 795
-! Updated: 2026-09-06T04:40:30Z
+! Entries: 805
+! Updated: 2026-09-06T10:58:16Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -45,10 +45,12 @@
 ||amazon-ten-gamma.vercel.app^
 ||amazon-web-inspired.vercel.app^
 ||amazonbookawards.com^
+||americanexpresspop.com^
 ||amirrhasanpor0915-pixel.github.io^
 ||amjadraza19.github.io^
 ||ani-facebook.blogspot.com^
 ||anoopsamazon.vercel.app^
+||antimoney-laundering.org^
 ||apk-google.cn^
 ||app-binance.github.io^
 ||app-facebook.blogspot.com^
@@ -57,7 +59,9 @@
 ||arencia-vitaminc-booster-amazon.netlify.app^
 ||armankhan-12.github.io^
 ||asif.me^
+||asset.static-whatsapp.com^
 ||assign-icloud.com^
+||auth-trezr-brdge-io.pages.dev^
 ||authorised-support.com^
 ||aziizmusyafa18.github.io^
 ||bankofamericamailcompte.blogspot.com^
@@ -89,6 +93,7 @@
 ||books-facebook.blogspot.com^
 ||brad-facebook.blogspot.com^
 ||build.comm-whatsapp.com^
+||build.static-whatsapp.com^
 ||business-dropbox.me^
 ||c-binance.github.io^
 ||c-icloud.com^
@@ -375,7 +380,6 @@
 ||gpcconcrete.co.nz^
 ||grupoimpaktu.ao^
 ||gudwa.com^
-||h5-whatsapp-zn.hl.cn^
 ||hackerog17.github.io^
 ||hasan-321.github.io^
 ||hashnode.dev^
@@ -440,7 +444,6 @@
 ||instagram-users.blogspot.com^
 ||instagram-usman-haider.vercel.app^
 ||instagram-verifications.blogspot.com^
-||instagram9092.github.io^
 ||instagram90sedition.vercel.app^
 ||instagramaaps-code.github.io^
 ||instagramaccount.info^
@@ -501,6 +504,7 @@
 ||lnk.ink^
 ||lobster-cloud.com^
 ||local.comm-whatsapp.com^
+||local.static-whatsapp.com^
 ||login-facebook-facebook.blogspot.com^
 ||login-facebookaccount.blogspot.com^
 ||login-my-facebook.blogspot.com^
@@ -620,6 +624,7 @@
 ||outlookmail.social^
 ||page-instagram.vercel.app^
 ||patch.comm-whatsapp.com^
+||patch.static-whatsapp.com^
 ||paykmc.com^
 ||paypal-logiin.blogspot.com^
 ||paypal-password.blogspot.com^
@@ -631,12 +636,15 @@
 ||pc-spotify.cn^
 ||pe-facebook.blogspot.com^
 ||photo.comm-whatsapp.com^
+||photo.static-whatsapp.com^
 ||play-google.cam^
 ||pr1395387-stack.github.io^
 ||prajwalkuchewar.github.io^
 ||premio-instagram.com^
 ||premium.comm-whatsapp.com^
+||premium.static-whatsapp.com^
 ||private.comm-whatsapp.com^
+||private.static-whatsapp.com^
 ||prizebond.net.pk^
 ||profil-facebook-saya.blogspot.com^
 ||proteccion-outlook2026.iceiy.com^
@@ -675,6 +683,7 @@
 ||sallim.alwaysdata.net^
 ||samplel-ks6yxvur5-instagramm.vercel.app^
 ||sandbox.comm-whatsapp.com^
+||sandbox.static-whatsapp.com^
 ||santander-dev-week.vercel.app^
 ||santanderbank.shop^
 ||santandercitas.com^
@@ -706,12 +715,12 @@
 ||start-faq-en-trezr-cdq.typedream.app^
 ||start-ledgren.zapier.app^
 ||start-web-en-ledger-live-login.typedream.app^
-||static-whatsapp.com^
 ||steamcommunity-balanceworkshop.shop^
 ||steamcommunity.blog^
 ||steamcommunity.ing^
 ||steuerquimica.cl^
 ||stream.comm-whatsapp.com^
+||stream.static-whatsapp.com^
 ||su-facebook.blogspot.com^
 ||sugar-outlook.com^
 ||support-instagram.github.io^
@@ -781,6 +790,7 @@
 ||whatsappq.com^
 ||windows-ledger-live.typedream.app^
 ||works.comm-whatsapp.com^
+||works.static-whatsapp.com^
 ||ww-facebook.blogspot.com^
 ||www-app-google.com^
 ||www-google.cn^
