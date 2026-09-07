@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 800
-# Updated: 2026-09-07T04:43:13Z
+# Entries: 810
+# Updated: 2026-09-07T12:34:23Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -31,11 +31,13 @@ alibaba-taobaol.cn
 alibaba188.org
 alibaba33.pro
 alibaba66.co
+alibaba666.app
 alibaba666.bet
 alibaba666.pro
 alibaba66a.net
 alibaba66malaysia.app
 alibaba66slot.app
+alibabarest.com
 amazon-ecommerce-nine.vercel.app
 amazon-eight-taupe.vercel.app
 amazon-front-me.vercel.app
@@ -46,6 +48,7 @@ amazon-promos.shop
 amazon-ten-gamma.vercel.app
 amazon-web-inspired.vercel.app
 amazonbookawards.com
+americanexpress-ja-jp.com
 americanexpresspop.com
 amirrhasanpor0915-pixel.github.io
 amjadraza19.github.io
@@ -54,6 +57,7 @@ anoopsamazon.vercel.app
 apk-google.cn
 app-binance.github.io
 app-facebook.blogspot.com
+app-trezr-suite-io.pages.dev
 app81-facebook.blogspot.com
 arencia-vitaminc-booster-amazon.netlify.app
 armankhan-12.github.io
@@ -62,6 +66,7 @@ asset.static-whatsapp.com
 assign-icloud.com
 authorised-support.com
 avlinfo.in
+axm-amazon.com
 aziizmusyafa18.github.io
 bankofamericamailcompte.blogspot.com
 bankofamericanonline.com
@@ -70,6 +75,7 @@ barclays-bank.vercel.app
 bbva-hiring-paperless.appspot.com
 bbvaglobalwealthadvisors.com
 bbvalues.uk
+benchmark.static-whatsapp.com
 berbagi-facebook.blogspot.com
 best-credit-card-for-facebook-ads.com
 bet-facebook.blogspot.com
@@ -94,6 +100,7 @@ brad-facebook.blogspot.com
 build.comm-whatsapp.com
 build.static-whatsapp.com
 bunker.ink
+buscarmi-icloud.app
 business-dropbox.me
 c-binance.github.io
 c-icloud.com
@@ -108,6 +115,8 @@ citrix-sharing.com
 click-facebook.blogspot.com
 clon-facebook.vercel.app
 cn-spotify.cn
+cn.comm-whatsapp.com
+cn.static-whatsapp.com
 coinbasebackoffice.exchange
 coinbaseinvestors.ai
 comcast2.vercel.app
@@ -122,10 +131,13 @@ david-santos7.github.io
 dblxhosting.co.uk
 deluxxe.com.br
 desktop-ledgrecdn.wixstudio.com
+desktop.comm-whatsapp.com
+desktop.static-whatsapp.com
 dir.com.my
 dj-facebook.blogspot.com
 docs-google.com
 docs-trezor-app.pages.dev
+docs.static-whatsapp.com
 dolaition-bit.github.io
 dothome.co.kr
 dpdi.xyz
@@ -386,7 +398,6 @@ hashnode.dev
 hasyimf.github.io
 hellenvicente.github.io
 help-instagram.blogspot.com
-helpsecurity-microsoft.com
 hhvka.club
 hibafatima2782008-code.github.io
 home-facebook.blogspot.com
@@ -399,7 +410,6 @@ hsbcpress.com
 https-wwwv-roblox.co
 icloud-network.com
 icloud-sharedalbum.com
-icloudfinders.help
 ideeo.mx
 ifotografix.co.uk
 indiarevolutionnova.github.io
@@ -460,7 +470,6 @@ instagramlogin68.blogspot.com
 instagramlogin74.blogspot.com
 instagramlogin77.blogspot.com
 instagramlogin99.blogspot.com
-instagramloginlink.blogspot.com
 instagramloginpage111.blogspot.com
 instagramloginpassword.blogspot.com
 instagramrecovery.blogspot.com
@@ -479,6 +488,7 @@ jayaram0550.github.io
 jimdofree.com
 jj-facebook.blogspot.com
 jo-facebook.blogspot.com
+job.static-whatsapp.com
 joel-eapen.github.io
 jwb-facebook.blogspot.com
 kavishkadileepa01.github.io
@@ -493,6 +503,7 @@ ledger-live-wallet-start-conect-us-en.typedream.app
 ledger-lives-desktop.square.site
 ledger-liveusa.zapier.app
 ledgerlive-eng.netlify.app
+ledgerwalletrepair.com
 ledgrelivapp--crome.typedream.app
 leia-santander.vercel.app
 lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
@@ -511,7 +522,6 @@ login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 loginfacebook-facebook.blogspot.com
 logowanie-facebook.vercel.app
 lokalna-48203.sbs
-lokalna-709814.lol
 love-facebook.blogspot.com
 lovefive-facebook.blogspot.com
 lovevivah.com
@@ -524,6 +534,7 @@ mb-facebook.blogspot.com
 meet-googlee46347975696.pages.dev
 meet-googlee7563454656.pages.dev
 meet-googlee7823629056.pages.dev
+meet.static-whatsapp.com
 mehdi-bellache.github.io
 meme-facebook.blogspot.com
 metamask-connect.vercel.app
@@ -566,6 +577,7 @@ mirror-google.com
 misilabario.cl
 ml-facebook.blogspot.com
 mobile-google.cn
+mobile.static-whatsapp.com
 movistar-recaudo-epayc.com
 munimventures.com
 muzamilmeerdev.github.io
@@ -597,6 +609,7 @@ netflixvoid.org
 netflixy-bixy.vercel.app
 netsolhost.com
 network-facebook.blogspot.com
+news.static-whatsapp.com
 noreply-icloud.app
 nw-facebook.blogspot.com
 office365licensingsupport.com
@@ -631,7 +644,7 @@ pe-facebook.blogspot.com
 photo.comm-whatsapp.com
 photo.static-whatsapp.com
 play-google.cam
-plloferta763254214.sbs
+playground.static-whatsapp.com
 pr1395387-stack.github.io
 prajwalkuchewar.github.io
 premio-instagram.com
@@ -685,6 +698,7 @@ santandercitas.com
 saque-instagram.com
 saventureinfratech234-boop.github.io
 scan-whatsapp.com
+sec-whatsapp.com
 secure-dropbox.ist
 secure-trezor-en-io.typedream.app
 securedsupport-coinbase.com
@@ -704,8 +718,6 @@ spotify-plus.com
 spotify25.netlify.app
 srpska-banka.com
 sso-ledger-live-strt-ledger-support-cdn.typedream.app
-sso-trezor-com-start-x-auth.typedream.app
-start-faq-en-trezr-cdq.typedream.app
 start-ledgren.zapier.app
 start-web-en-ledger-live-login.typedream.app
 steamcommunity-balanceworkshop.shop
@@ -731,11 +743,9 @@ therelayservice.com
 trackingnumbers.org
 traviyo.in
 trezor-io-lernnu.typedream.app
-trezor-io-start-conect-auth.typedream.app
 trezor-io-start-us-help-access.typedream.app
 trezor-login-us-auth-start.typedream.app
 trezorguide.vercel.app
-trezrstartpublic-com-en-auths.typedream.app
 trienkhaiweb.com
 trust-wallet-bnb.vercel.app
 trust-wallet-contact.vercel.app
@@ -762,7 +772,6 @@ verifytoken.com
 vi-facebook.blogspot.com
 vitvasconcelos.github.io
 vn-facebook.blogspot.com
-vodafone-elsherif.netlify.app
 vodafone-on-line.it
 vpn-update.org
 vpnuse.eu.org
@@ -782,6 +791,7 @@ whatsappcampaign.online
 whatsappfreewhatsapp.blogspot.com
 whatsappq.com
 windows-ledger-live.typedream.app
+work.static-whatsapp.com
 works.comm-whatsapp.com
 works.static-whatsapp.com
 ww-facebook.blogspot.com

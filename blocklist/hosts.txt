@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 800
-# Updated: 2026-09-07T04:43:14Z
+# Entries: 810
+# Updated: 2026-09-07T12:34:23Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -31,11 +31,13 @@
 0.0.0.0 alibaba188.org
 0.0.0.0 alibaba33.pro
 0.0.0.0 alibaba66.co
+0.0.0.0 alibaba666.app
 0.0.0.0 alibaba666.bet
 0.0.0.0 alibaba666.pro
 0.0.0.0 alibaba66a.net
 0.0.0.0 alibaba66malaysia.app
 0.0.0.0 alibaba66slot.app
+0.0.0.0 alibabarest.com
 0.0.0.0 amazon-ecommerce-nine.vercel.app
 0.0.0.0 amazon-eight-taupe.vercel.app
 0.0.0.0 amazon-front-me.vercel.app
@@ -46,6 +48,7 @@
 0.0.0.0 amazon-ten-gamma.vercel.app
 0.0.0.0 amazon-web-inspired.vercel.app
 0.0.0.0 amazonbookawards.com
+0.0.0.0 americanexpress-ja-jp.com
 0.0.0.0 americanexpresspop.com
 0.0.0.0 amirrhasanpor0915-pixel.github.io
 0.0.0.0 amjadraza19.github.io
@@ -54,6 +57,7 @@
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-facebook.blogspot.com
+0.0.0.0 app-trezr-suite-io.pages.dev
 0.0.0.0 app81-facebook.blogspot.com
 0.0.0.0 arencia-vitaminc-booster-amazon.netlify.app
 0.0.0.0 armankhan-12.github.io
@@ -62,6 +66,7 @@
 0.0.0.0 assign-icloud.com
 0.0.0.0 authorised-support.com
 0.0.0.0 avlinfo.in
+0.0.0.0 axm-amazon.com
 0.0.0.0 aziizmusyafa18.github.io
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 bankofamericanonline.com
@@ -70,6 +75,7 @@
 0.0.0.0 bbva-hiring-paperless.appspot.com
 0.0.0.0 bbvaglobalwealthadvisors.com
 0.0.0.0 bbvalues.uk
+0.0.0.0 benchmark.static-whatsapp.com
 0.0.0.0 berbagi-facebook.blogspot.com
 0.0.0.0 best-credit-card-for-facebook-ads.com
 0.0.0.0 bet-facebook.blogspot.com
@@ -94,6 +100,7 @@
 0.0.0.0 build.comm-whatsapp.com
 0.0.0.0 build.static-whatsapp.com
 0.0.0.0 bunker.ink
+0.0.0.0 buscarmi-icloud.app
 0.0.0.0 business-dropbox.me
 0.0.0.0 c-binance.github.io
 0.0.0.0 c-icloud.com
@@ -108,6 +115,8 @@
 0.0.0.0 click-facebook.blogspot.com
 0.0.0.0 clon-facebook.vercel.app
 0.0.0.0 cn-spotify.cn
+0.0.0.0 cn.comm-whatsapp.com
+0.0.0.0 cn.static-whatsapp.com
 0.0.0.0 coinbasebackoffice.exchange
 0.0.0.0 coinbaseinvestors.ai
 0.0.0.0 comcast2.vercel.app
@@ -122,10 +131,13 @@
 0.0.0.0 dblxhosting.co.uk
 0.0.0.0 deluxxe.com.br
 0.0.0.0 desktop-ledgrecdn.wixstudio.com
+0.0.0.0 desktop.comm-whatsapp.com
+0.0.0.0 desktop.static-whatsapp.com
 0.0.0.0 dir.com.my
 0.0.0.0 dj-facebook.blogspot.com
 0.0.0.0 docs-google.com
 0.0.0.0 docs-trezor-app.pages.dev
+0.0.0.0 docs.static-whatsapp.com
 0.0.0.0 dolaition-bit.github.io
 0.0.0.0 dothome.co.kr
 0.0.0.0 dpdi.xyz
@@ -386,7 +398,6 @@
 0.0.0.0 hasyimf.github.io
 0.0.0.0 hellenvicente.github.io
 0.0.0.0 help-instagram.blogspot.com
-0.0.0.0 helpsecurity-microsoft.com
 0.0.0.0 hhvka.club
 0.0.0.0 hibafatima2782008-code.github.io
 0.0.0.0 home-facebook.blogspot.com
@@ -399,7 +410,6 @@
 0.0.0.0 https-wwwv-roblox.co
 0.0.0.0 icloud-network.com
 0.0.0.0 icloud-sharedalbum.com
-0.0.0.0 icloudfinders.help
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 indiarevolutionnova.github.io
@@ -460,7 +470,6 @@
 0.0.0.0 instagramlogin74.blogspot.com
 0.0.0.0 instagramlogin77.blogspot.com
 0.0.0.0 instagramlogin99.blogspot.com
-0.0.0.0 instagramloginlink.blogspot.com
 0.0.0.0 instagramloginpage111.blogspot.com
 0.0.0.0 instagramloginpassword.blogspot.com
 0.0.0.0 instagramrecovery.blogspot.com
@@ -479,6 +488,7 @@
 0.0.0.0 jimdofree.com
 0.0.0.0 jj-facebook.blogspot.com
 0.0.0.0 jo-facebook.blogspot.com
+0.0.0.0 job.static-whatsapp.com
 0.0.0.0 joel-eapen.github.io
 0.0.0.0 jwb-facebook.blogspot.com
 0.0.0.0 kavishkadileepa01.github.io
@@ -493,6 +503,7 @@
 0.0.0.0 ledger-lives-desktop.square.site
 0.0.0.0 ledger-liveusa.zapier.app
 0.0.0.0 ledgerlive-eng.netlify.app
+0.0.0.0 ledgerwalletrepair.com
 0.0.0.0 ledgrelivapp--crome.typedream.app
 0.0.0.0 leia-santander.vercel.app
 0.0.0.0 lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
@@ -511,7 +522,6 @@
 0.0.0.0 loginfacebook-facebook.blogspot.com
 0.0.0.0 logowanie-facebook.vercel.app
 0.0.0.0 lokalna-48203.sbs
-0.0.0.0 lokalna-709814.lol
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lovevivah.com
@@ -524,6 +534,7 @@
 0.0.0.0 meet-googlee46347975696.pages.dev
 0.0.0.0 meet-googlee7563454656.pages.dev
 0.0.0.0 meet-googlee7823629056.pages.dev
+0.0.0.0 meet.static-whatsapp.com
 0.0.0.0 mehdi-bellache.github.io
 0.0.0.0 meme-facebook.blogspot.com
 0.0.0.0 metamask-connect.vercel.app
@@ -566,6 +577,7 @@
 0.0.0.0 misilabario.cl
 0.0.0.0 ml-facebook.blogspot.com
 0.0.0.0 mobile-google.cn
+0.0.0.0 mobile.static-whatsapp.com
 0.0.0.0 movistar-recaudo-epayc.com
 0.0.0.0 munimventures.com
 0.0.0.0 muzamilmeerdev.github.io
@@ -597,6 +609,7 @@
 0.0.0.0 netflixy-bixy.vercel.app
 0.0.0.0 netsolhost.com
 0.0.0.0 network-facebook.blogspot.com
+0.0.0.0 news.static-whatsapp.com
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 office365licensingsupport.com
@@ -631,7 +644,7 @@
 0.0.0.0 photo.comm-whatsapp.com
 0.0.0.0 photo.static-whatsapp.com
 0.0.0.0 play-google.cam
-0.0.0.0 plloferta763254214.sbs
+0.0.0.0 playground.static-whatsapp.com
 0.0.0.0 pr1395387-stack.github.io
 0.0.0.0 prajwalkuchewar.github.io
 0.0.0.0 premio-instagram.com
@@ -685,6 +698,7 @@
 0.0.0.0 saque-instagram.com
 0.0.0.0 saventureinfratech234-boop.github.io
 0.0.0.0 scan-whatsapp.com
+0.0.0.0 sec-whatsapp.com
 0.0.0.0 secure-dropbox.ist
 0.0.0.0 secure-trezor-en-io.typedream.app
 0.0.0.0 securedsupport-coinbase.com
@@ -704,8 +718,6 @@
 0.0.0.0 spotify25.netlify.app
 0.0.0.0 srpska-banka.com
 0.0.0.0 sso-ledger-live-strt-ledger-support-cdn.typedream.app
-0.0.0.0 sso-trezor-com-start-x-auth.typedream.app
-0.0.0.0 start-faq-en-trezr-cdq.typedream.app
 0.0.0.0 start-ledgren.zapier.app
 0.0.0.0 start-web-en-ledger-live-login.typedream.app
 0.0.0.0 steamcommunity-balanceworkshop.shop
@@ -731,11 +743,9 @@
 0.0.0.0 trackingnumbers.org
 0.0.0.0 traviyo.in
 0.0.0.0 trezor-io-lernnu.typedream.app
-0.0.0.0 trezor-io-start-conect-auth.typedream.app
 0.0.0.0 trezor-io-start-us-help-access.typedream.app
 0.0.0.0 trezor-login-us-auth-start.typedream.app
 0.0.0.0 trezorguide.vercel.app
-0.0.0.0 trezrstartpublic-com-en-auths.typedream.app
 0.0.0.0 trienkhaiweb.com
 0.0.0.0 trust-wallet-bnb.vercel.app
 0.0.0.0 trust-wallet-contact.vercel.app
@@ -762,7 +772,6 @@
 0.0.0.0 vi-facebook.blogspot.com
 0.0.0.0 vitvasconcelos.github.io
 0.0.0.0 vn-facebook.blogspot.com
-0.0.0.0 vodafone-elsherif.netlify.app
 0.0.0.0 vodafone-on-line.it
 0.0.0.0 vpn-update.org
 0.0.0.0 vpnuse.eu.org
@@ -782,6 +791,7 @@
 0.0.0.0 whatsappfreewhatsapp.blogspot.com
 0.0.0.0 whatsappq.com
 0.0.0.0 windows-ledger-live.typedream.app
+0.0.0.0 work.static-whatsapp.com
 0.0.0.0 works.comm-whatsapp.com
 0.0.0.0 works.static-whatsapp.com
 0.0.0.0 ww-facebook.blogspot.com
