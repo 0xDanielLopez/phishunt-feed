@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 806
-# Updated: 2026-09-08T04:37:55Z
+# Entries: 814
+# Updated: 2026-09-08T11:20:43Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -12,6 +12,7 @@
 2017-facebook.blogspot.com
 283674-coinbase.com
 286364-coinbase.com
+3481921-coinbase.com
 393bet-facebook.sa.com
 54893-coinbase.com
 818144-kraken.com
@@ -77,6 +78,7 @@ benchmark.static-whatsapp.com
 berbagi-facebook.blogspot.com
 best-credit-card-for-facebook-ads.com
 bet-facebook.blogspot.com
+beta.static-whatsapp.com
 binance-blog.vercel.app
 binance-co.github.io
 binance-promo-code.vercel.app
@@ -101,8 +103,11 @@ bunker.ink
 buscarmi-icloud.app
 business-dropbox.me
 c-binance.github.io
+canary.static-whatsapp.com
 cardpaysecurity.org
+care-bankofamerica.ph
 carivo.vu
+cart.static-whatsapp.com
 case185366-coinbase.com
 cashapp-liart.vercel.app
 cashappps.com
@@ -408,7 +413,6 @@ hsbcpress.com
 https-wwwv-roblox.co
 icloud-network.com
 icloud-sharedalbum.com
-icloudfindmaps.help
 ideeo.mx
 ifotografix.co.uk
 indiarevolutionnova.github.io
@@ -489,6 +493,7 @@ joel-eapen.github.io
 jwb-facebook.blogspot.com
 kavishkadileepa01.github.io
 kenhoward.com
+kraken-tor.co.com
 kucoinloign.gitbook.io
 kucoinv.com
 lateinos.com.br
@@ -503,7 +508,6 @@ ledgerwalletrepair.com
 ledgrelivapp--crome.typedream.app
 leia-santander.vercel.app
 lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
-lnk.ink
 lobster-cloud.com
 local.comm-whatsapp.com
 local.static-whatsapp.com
@@ -525,6 +529,7 @@ luanaallycia.github.io
 ly-facebook.blogspot.com
 m365-microsoft.com
 m4ntapaset.ink
+mail.static-whatsapp.com
 manish1719.github.io
 mb-facebook.blogspot.com
 meet-googlee46347975696.pages.dev
@@ -579,6 +584,7 @@ munimventures.com
 muzamilmeerdev.github.io
 my-facebook-blog.blogspot.com
 my-walletfix-id-apple.com
+mytemp.website
 neda-facebook.blogspot.com
 netflix-56s.pages.dev
 netflix-dual-subs.pages.dev
@@ -607,7 +613,6 @@ netsolhost.com
 network-facebook.blogspot.com
 news.static-whatsapp.com
 noreply-icloud.app
-notify.comm-whatsapp.com
 nw-facebook.blogspot.com
 office365licensingsupport.com
 onedrive-2-zeta.vercel.app
@@ -638,7 +643,6 @@ pc-spotify.cn
 pe-facebook.blogspot.com
 photo.comm-whatsapp.com
 photo.static-whatsapp.com
-plan.comm-whatsapp.com
 play-google.cam
 playground.static-whatsapp.com
 pr1395387-stack.github.io
@@ -653,6 +657,7 @@ profil-facebook-saya.blogspot.com
 proteccion-outlook2026.iceiy.com
 protected-request.com
 pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev
+public.static-whatsapp.com
 pushkar-hub.github.io
 r-facebook.blogspot.com
 rafaelmdsouza.github.io
@@ -662,6 +667,7 @@ rberthelette.com
 reactivar-microsoft-live.iceiy.com
 rec-netflix.com
 recreate-instagrampage.vercel.app
+redis.static-whatsapp.com
 reentrega-seur-envio.cloudaccess.host
 register-facebook.blogspot.com
 rekemonedasi-facebook.org
@@ -673,7 +679,6 @@ roblox.com.am
 roblox.com.bi
 roblox.com.bn
 roblox.com.bz
-roblox.com.do
 roblox.com.gr
 roblox.com.ml
 roblox.com.ms
@@ -700,6 +705,7 @@ sena-facebook.blogspot.com
 services-facebook.blogspot.com
 seureonline.shop
 sheokand9806.github.io
+shop.static-whatsapp.com
 shruuti-005.github.io
 siddharth-1404.github.io
 sk-facebook.blogspot.com
@@ -734,6 +740,7 @@ test-facebook.blogspot.com
 therelayservice.com
 todo--facebook.blogspot.com
 trackingnumbers.org
+transcode.static-whatsapp.com
 trezor-login-us-auth-start.typedream.app
 trezorguide.vercel.app
 trezorzlatovna.com
@@ -787,6 +794,7 @@ whatsappfreewhatsapp.blogspot.com
 whatsappq.com
 windows-ledger-live.typedream.app
 work.static-whatsapp.com
+worker.static-whatsapp.com
 works.comm-whatsapp.com
 works.static-whatsapp.com
 ww-facebook.blogspot.com

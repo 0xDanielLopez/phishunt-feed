@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 806
-# Updated: 2026-09-08T04:37:57Z
+# Entries: 814
+# Updated: 2026-09-08T11:20:44Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -12,6 +12,7 @@
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
+0.0.0.0 3481921-coinbase.com
 0.0.0.0 393bet-facebook.sa.com
 0.0.0.0 54893-coinbase.com
 0.0.0.0 818144-kraken.com
@@ -77,6 +78,7 @@
 0.0.0.0 berbagi-facebook.blogspot.com
 0.0.0.0 best-credit-card-for-facebook-ads.com
 0.0.0.0 bet-facebook.blogspot.com
+0.0.0.0 beta.static-whatsapp.com
 0.0.0.0 binance-blog.vercel.app
 0.0.0.0 binance-co.github.io
 0.0.0.0 binance-promo-code.vercel.app
@@ -101,8 +103,11 @@
 0.0.0.0 buscarmi-icloud.app
 0.0.0.0 business-dropbox.me
 0.0.0.0 c-binance.github.io
+0.0.0.0 canary.static-whatsapp.com
 0.0.0.0 cardpaysecurity.org
+0.0.0.0 care-bankofamerica.ph
 0.0.0.0 carivo.vu
+0.0.0.0 cart.static-whatsapp.com
 0.0.0.0 case185366-coinbase.com
 0.0.0.0 cashapp-liart.vercel.app
 0.0.0.0 cashappps.com
@@ -408,7 +413,6 @@
 0.0.0.0 https-wwwv-roblox.co
 0.0.0.0 icloud-network.com
 0.0.0.0 icloud-sharedalbum.com
-0.0.0.0 icloudfindmaps.help
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 indiarevolutionnova.github.io
@@ -489,6 +493,7 @@
 0.0.0.0 jwb-facebook.blogspot.com
 0.0.0.0 kavishkadileepa01.github.io
 0.0.0.0 kenhoward.com
+0.0.0.0 kraken-tor.co.com
 0.0.0.0 kucoinloign.gitbook.io
 0.0.0.0 kucoinv.com
 0.0.0.0 lateinos.com.br
@@ -503,7 +508,6 @@
 0.0.0.0 ledgrelivapp--crome.typedream.app
 0.0.0.0 leia-santander.vercel.app
 0.0.0.0 lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
-0.0.0.0 lnk.ink
 0.0.0.0 lobster-cloud.com
 0.0.0.0 local.comm-whatsapp.com
 0.0.0.0 local.static-whatsapp.com
@@ -525,6 +529,7 @@
 0.0.0.0 ly-facebook.blogspot.com
 0.0.0.0 m365-microsoft.com
 0.0.0.0 m4ntapaset.ink
+0.0.0.0 mail.static-whatsapp.com
 0.0.0.0 manish1719.github.io
 0.0.0.0 mb-facebook.blogspot.com
 0.0.0.0 meet-googlee46347975696.pages.dev
@@ -579,6 +584,7 @@
 0.0.0.0 muzamilmeerdev.github.io
 0.0.0.0 my-facebook-blog.blogspot.com
 0.0.0.0 my-walletfix-id-apple.com
+0.0.0.0 mytemp.website
 0.0.0.0 neda-facebook.blogspot.com
 0.0.0.0 netflix-56s.pages.dev
 0.0.0.0 netflix-dual-subs.pages.dev
@@ -607,7 +613,6 @@
 0.0.0.0 network-facebook.blogspot.com
 0.0.0.0 news.static-whatsapp.com
 0.0.0.0 noreply-icloud.app
-0.0.0.0 notify.comm-whatsapp.com
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 onedrive-2-zeta.vercel.app
@@ -638,7 +643,6 @@
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 photo.comm-whatsapp.com
 0.0.0.0 photo.static-whatsapp.com
-0.0.0.0 plan.comm-whatsapp.com
 0.0.0.0 play-google.cam
 0.0.0.0 playground.static-whatsapp.com
 0.0.0.0 pr1395387-stack.github.io
@@ -653,6 +657,7 @@
 0.0.0.0 proteccion-outlook2026.iceiy.com
 0.0.0.0 protected-request.com
 0.0.0.0 pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev
+0.0.0.0 public.static-whatsapp.com
 0.0.0.0 pushkar-hub.github.io
 0.0.0.0 r-facebook.blogspot.com
 0.0.0.0 rafaelmdsouza.github.io
@@ -662,6 +667,7 @@
 0.0.0.0 reactivar-microsoft-live.iceiy.com
 0.0.0.0 rec-netflix.com
 0.0.0.0 recreate-instagrampage.vercel.app
+0.0.0.0 redis.static-whatsapp.com
 0.0.0.0 reentrega-seur-envio.cloudaccess.host
 0.0.0.0 register-facebook.blogspot.com
 0.0.0.0 rekemonedasi-facebook.org
@@ -673,7 +679,6 @@
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bz
-0.0.0.0 roblox.com.do
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.ms
@@ -700,6 +705,7 @@
 0.0.0.0 services-facebook.blogspot.com
 0.0.0.0 seureonline.shop
 0.0.0.0 sheokand9806.github.io
+0.0.0.0 shop.static-whatsapp.com
 0.0.0.0 shruuti-005.github.io
 0.0.0.0 siddharth-1404.github.io
 0.0.0.0 sk-facebook.blogspot.com
@@ -734,6 +740,7 @@
 0.0.0.0 therelayservice.com
 0.0.0.0 todo--facebook.blogspot.com
 0.0.0.0 trackingnumbers.org
+0.0.0.0 transcode.static-whatsapp.com
 0.0.0.0 trezor-login-us-auth-start.typedream.app
 0.0.0.0 trezorguide.vercel.app
 0.0.0.0 trezorzlatovna.com
@@ -787,6 +794,7 @@
 0.0.0.0 whatsappq.com
 0.0.0.0 windows-ledger-live.typedream.app
 0.0.0.0 work.static-whatsapp.com
+0.0.0.0 worker.static-whatsapp.com
 0.0.0.0 works.comm-whatsapp.com
 0.0.0.0 works.static-whatsapp.com
 0.0.0.0 ww-facebook.blogspot.com
