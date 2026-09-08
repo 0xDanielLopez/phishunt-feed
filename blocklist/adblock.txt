@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 814
-! Updated: 2026-09-08T11:20:45Z
+! Entries: 820
+! Updated: 2026-09-08T16:38:44Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -12,12 +12,14 @@
 ||2017-facebook.blogspot.com^
 ||283674-coinbase.com^
 ||286364-coinbase.com^
+||3298418244129h54.xyz^
 ||3481921-coinbase.com^
 ||393bet-facebook.sa.com^
 ||54893-coinbase.com^
 ||818144-kraken.com^
 ||818920-kraken.com^
 ||819283-kraken.com^
+||84327139h45.cfd^
 ||978489-coinbase.com^
 ||a08786897-beep.github.io^
 ||a1-kraken.com^
@@ -81,6 +83,7 @@
 ||beta.static-whatsapp.com^
 ||binance-blog.vercel.app^
 ||binance-co.github.io^
+||binance-pro.com^
 ||binance-promo-code.vercel.app^
 ||binance-red-packet.vercel.app^
 ||binance-referral-code-btcbonus.vercel.app^
@@ -123,6 +126,7 @@
 ||coinbaseinvestors.ai^
 ||comcast2.vercel.app^
 ||comcastcarebusiness.weebly.com^
+||comcastnetmail.weebly.com^
 ||comcastsurvey.weebly.com^
 ||comecome.click^
 ||correosiicr.cc^
@@ -294,6 +298,7 @@
 ||facebookfakelogin.blogspot.com^
 ||facebookfakepage.blogspot.com^
 ||facebookhints.blogspot.com^
+||facebookk-k.vercel.app^
 ||facebookk.blogspot.com^
 ||facebooklivepage.blogspot.com^
 ||facebooklogin-page.blogspot.com^
@@ -336,6 +341,7 @@
 ||facebookshops.best^
 ||facebooksociallink.blogspot.com^
 ||facebooksuporteolaine.blogspot.com^
+||facebooksupportit.blogspot.com^
 ||facebookteamhelp.blogspot.com^
 ||facebooktechnicalsupportnumber123.blogspot.com^
 ||facebooktotranscript.com^
@@ -586,7 +592,6 @@
 ||my-walletfix-id-apple.com^
 ||mytemp.website^
 ||neda-facebook.blogspot.com^
-||netflix-56s.pages.dev^
 ||netflix-dual-subs.pages.dev^
 ||netflix-games.click^
 ||netflix-github-com.vercel.app^
@@ -675,10 +680,10 @@
 ||restoration-google.com^
 ||rev.it^
 ||roblox-login.vercel.app^
-||roblox.com.am^
 ||roblox.com.bi^
 ||roblox.com.bn^
 ||roblox.com.bz^
+||roblox.com.do^
 ||roblox.com.gr^
 ||roblox.com.ml^
 ||roblox.com.ms^
@@ -709,7 +714,6 @@
 ||shruuti-005.github.io^
 ||siddharth-1404.github.io^
 ||sk-facebook.blogspot.com^
-||softr.app^
 ||spotify-a9.netlify.app^
 ||spotify-client-beta.vercel.app^
 ||spotify-modapk.com^
@@ -753,6 +757,7 @@
 ||trustwallet-helpcenter.vercel.app^
 ||trustwallet-login.blogspot.com^
 ||trustwallet-secure-check.vercel.app^
+||trustwallet-tokentwtowner.vercel.app^
 ||trustwalletsupport.dev^
 ||trustwalletsupport455-crypto.github.io^
 ||twineapp.com^
@@ -776,6 +781,7 @@
 ||vpn-update.org^
 ||vpnuse.eu.org^
 ||vwwv-icloud.com^
+||wasmer.app^
 ||web-conect-us-ledger-live-wallet.typedream.app^
 ||web-spotify.cn^
 ||web-trezor-io-start-us.vercel.app^
@@ -805,10 +811,10 @@
 ||www2-facebook.com^
 ||wwww-linkedin.be^
 ||x-comcast.weebly.com^
-||xfinity101.duckdns.org^
 ||xfinity2.vercel.app^
 ||xfinityis.weebly.com^
 ||xfinitymail-signin-user.weebly.com^
+||xfinitynow.weebly.com^
 ||xfinityservices.vercel.app^
 ||xfinityttt.weebly.com^
 ||xfinitywindowfilms.com^
