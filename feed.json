@@ -1,5 +1,449 @@
 [
   {
+    "url": "https://mirror-google.com",
+    "domain": "mirror-google.com",
+    "company": "google",
+    "date": "2026-09-08T20:19:46.287642+00:00",
+    "first_seen": "2026-04-29T04:57:15.741156+00:00",
+    "uuid": "8accba84-7f36-4d6d-9da6-bec85059ca03",
+    "ip": "188.114.96.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "Google Trust Services",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": true,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "urlscan_score",
+        "label": "urlscan.io",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "brand_in_screenshot_text",
+        "label": "Brand in screenshot",
+        "points": 4.1
+      }
+    ],
+    "score": 35,
+    "verdict": "medium"
+  },
+  {
+    "url": "http://allegro.prywanm4328239.rest",
+    "domain": "allegro.prywanm4328239.rest",
+    "company": "allegro",
+    "date": "2026-09-08T18:01:31.110125+00:00",
+    "first_seen": "2026-09-08T18:01:31.110125+00:00",
+    "uuid": "83191216-ebc9-40eb-8a79-af695df4abe3",
+    "ip": "172.67.171.230",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      }
+    ],
+    "score": 25,
+    "verdict": "low"
+  },
+  {
+    "url": "http://allegro.prywatnem1982875h7.rest",
+    "domain": "allegro.prywatnem1982875h7.rest",
+    "company": "allegro",
+    "date": "2026-09-08T18:01:29.778785+00:00",
+    "first_seen": "2026-09-08T18:01:29.778785+00:00",
+    "uuid": "c787c198-036e-4360-8a27-2148df760416",
+    "ip": "172.67.197.166",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      }
+    ],
+    "score": 25,
+    "verdict": "low"
+  },
+  {
+    "url": "http://allegro.prowar8u237h45.cfd",
+    "domain": "allegro.prowar8u237h45.cfd",
+    "company": "allegro",
+    "date": "2026-09-08T18:01:28.489565+00:00",
+    "first_seen": "2026-09-08T18:01:28.489565+00:00",
+    "uuid": "042866ed-1ad0-4c18-a7e5-da90c3bb5422",
+    "ip": "188.114.97.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      }
+    ],
+    "score": 34,
+    "verdict": "medium"
+  },
+  {
+    "url": "http://allegro.5498h45j564.cfd",
+    "domain": "allegro.5498h45j564.cfd",
+    "company": "allegro",
+    "date": "2026-09-08T18:01:25.299468+00:00",
+    "first_seen": "2026-09-08T18:01:25.299468+00:00",
+    "uuid": "c905a4a1-2356-484c-a01a-d46c923f2301",
+    "ip": "188.114.96.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      }
+    ],
+    "score": 34,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://ws4.3.paypal-signin.antimoney-laundering.org",
+    "domain": "ws4.3.paypal-signin.antimoney-laundering.org",
+    "company": "paypal",
+    "date": "2026-09-08T17:25:57.326717+00:00",
+    "first_seen": "2026-09-08T17:25:57.326717+00:00",
+    "uuid": "85f62b8f-2e69-4615-836a-62e3a5de0662",
+    "ip": "208.91.197.27",
+    "country": "United States",
+    "asn": "40034",
+    "org": "Confluence Networks Inc",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 2.0
+      }
+    ],
+    "score": 26,
+    "verdict": "low"
+  },
+  {
+    "url": "https://73a2370016b7.paypal-support.antimoney-laundering.org",
+    "domain": "73a2370016b7.paypal-support.antimoney-laundering.org",
+    "company": "paypal",
+    "date": "2026-09-08T17:25:51.466153+00:00",
+    "first_seen": "2026-09-08T17:25:51.466153+00:00",
+    "uuid": "102dd232-a0d5-409f-88fa-0c720a224875",
+    "ip": "208.91.197.27",
+    "country": "United States",
+    "asn": "40034",
+    "org": "Confluence Networks Inc",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 1.7
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 23,
+    "verdict": "low"
+  },
+  {
+    "url": "https://icloudmyphone.help",
+    "domain": "icloudmyphone.help",
+    "company": "apple",
+    "date": "2026-09-08T17:25:45.841354+00:00",
+    "first_seen": "2026-09-08T17:25:45.841354+00:00",
+    "uuid": "78501738-e121-4b41-8b2c-664f47afc056",
+    "ip": "31.56.209.65",
+    "country": "The Netherlands",
+    "asn": "209373",
+    "org": "SWISSNET LLC",
+    "cert": "YR2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 2.0
+      }
+    ],
+    "score": 26,
+    "verdict": "low"
+  },
+  {
+    "url": "https://atl.account-paypal.antimoney-laundering.org",
+    "domain": "atl.account-paypal.antimoney-laundering.org",
+    "company": "paypal",
+    "date": "2026-09-08T17:25:45.070604+00:00",
+    "first_seen": "2026-09-08T17:25:45.070604+00:00",
+    "uuid": "d2b3cae6-8dc1-48f0-b18b-26abe5a79e72",
+    "ip": "208.91.197.27",
+    "country": "United States",
+    "asn": "40034",
+    "org": "Confluence Networks Inc",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      },
+      {
+        "signal": "hsts_missing",
+        "label": "No HSTS header",
+        "points": 1.1
+      }
+    ],
+    "score": 21,
+    "verdict": "low"
+  },
+  {
+    "url": "https://spotify-payment.click",
+    "domain": "spotify-payment.click",
+    "company": "spotify",
+    "date": "2026-09-08T17:16:08.672046+00:00",
+    "first_seen": "2026-09-08T17:16:08.672046+00:00",
+    "uuid": "5c6dae27-30a8-44db-b06d-70bf2c4b08d5",
+    "ip": "34.76.205.124",
+    "country": "Belgium",
+    "asn": "396982",
+    "org": "Google LLC",
+    "cert": "ZeroSSL GmbH",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [],
+    "score": 0,
+    "verdict": "noise"
+  },
+  {
     "url": "https://roblox.com.ml/users/214203311298/profile",
     "domain": "roblox.com.ml",
     "company": "roblox",
@@ -2535,53 +2979,6 @@
       }
     ],
     "score": 31,
-    "verdict": "medium"
-  },
-  {
-    "url": "https://mirror-google.com",
-    "domain": "mirror-google.com",
-    "company": "google",
-    "date": "2026-09-08T15:30:09.608693+00:00",
-    "first_seen": "2026-04-29T04:57:15.741156+00:00",
-    "uuid": "8accba84-7f36-4d6d-9da6-bec85059ca03",
-    "ip": "188.114.96.3",
-    "country": "United States",
-    "asn": "13335",
-    "org": "Cloudflare, Inc.",
-    "cert": "Google Trust Services",
-    "malicious_google": false,
-    "malicious_openphish": false,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": true,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "urlscan_score",
-        "label": "urlscan.io",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_screenshot_text",
-        "label": "Brand in screenshot",
-        "points": 4.1
-      }
-    ],
-    "score": 35,
     "verdict": "medium"
   },
   {

@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 820
-# Updated: 2026-09-08T16:38:43Z
+# Entries: 827
+# Updated: 2026-09-08T21:10:10Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -16,6 +16,7 @@
 3481921-coinbase.com
 393bet-facebook.sa.com
 54893-coinbase.com
+5498h45j564.cfd
 818144-kraken.com
 818920-kraken.com
 819283-kraken.com
@@ -56,6 +57,7 @@ amirrhasanpor0915-pixel.github.io
 amjadraza19.github.io
 ani-facebook.blogspot.com
 anoopsamazon.vercel.app
+antimoney-laundering.org
 apk-google.cn
 app-binance.github.io
 app-facebook.blogspot.com
@@ -419,6 +421,7 @@ hsbcpress.com
 https-wwwv-roblox.co
 icloud-network.com
 icloud-sharedalbum.com
+icloudmyphone.help
 ideeo.mx
 ifotografix.co.uk
 indiarevolutionnova.github.io
@@ -661,6 +664,9 @@ prizebond.net.pk
 profil-facebook-saya.blogspot.com
 proteccion-outlook2026.iceiy.com
 protected-request.com
+prowar8u237h45.cfd
+prywanm4328239.rest
+prywatnem1982875h7.rest
 pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev
 public.static-whatsapp.com
 pushkar-hub.github.io
@@ -717,6 +723,7 @@ sk-facebook.blogspot.com
 spotify-a9.netlify.app
 spotify-client-beta.vercel.app
 spotify-modapk.com
+spotify-payment.click
 spotify-plus.com
 spotify25.netlify.app
 srpska-banka.com

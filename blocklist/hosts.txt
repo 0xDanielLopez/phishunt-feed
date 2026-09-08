@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 820
-# Updated: 2026-09-08T16:38:43Z
+# Entries: 827
+# Updated: 2026-09-08T21:10:11Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -16,6 +16,7 @@
 0.0.0.0 3481921-coinbase.com
 0.0.0.0 393bet-facebook.sa.com
 0.0.0.0 54893-coinbase.com
+0.0.0.0 5498h45j564.cfd
 0.0.0.0 818144-kraken.com
 0.0.0.0 818920-kraken.com
 0.0.0.0 819283-kraken.com
@@ -56,6 +57,7 @@
 0.0.0.0 amjadraza19.github.io
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 anoopsamazon.vercel.app
+0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-facebook.blogspot.com
@@ -419,6 +421,7 @@
 0.0.0.0 https-wwwv-roblox.co
 0.0.0.0 icloud-network.com
 0.0.0.0 icloud-sharedalbum.com
+0.0.0.0 icloudmyphone.help
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 indiarevolutionnova.github.io
@@ -661,6 +664,9 @@
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 proteccion-outlook2026.iceiy.com
 0.0.0.0 protected-request.com
+0.0.0.0 prowar8u237h45.cfd
+0.0.0.0 prywanm4328239.rest
+0.0.0.0 prywatnem1982875h7.rest
 0.0.0.0 pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev
 0.0.0.0 public.static-whatsapp.com
 0.0.0.0 pushkar-hub.github.io
@@ -717,6 +723,7 @@
 0.0.0.0 spotify-a9.netlify.app
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotify-modapk.com
+0.0.0.0 spotify-payment.click
 0.0.0.0 spotify-plus.com
 0.0.0.0 spotify25.netlify.app
 0.0.0.0 srpska-banka.com
