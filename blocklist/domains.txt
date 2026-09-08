@@ -1,14 +1,12 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 835
-# Updated: 2026-09-07T21:31:48Z
+# Entries: 806
+# Updated: 2026-09-08T04:37:55Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
-01230120hj5n.top
 01felipeaugusto-star.github.io
-04192281.me
 123-facebook.blogspot.com
 164196-coinbase.com
 2017-facebook.blogspot.com
@@ -19,7 +17,6 @@
 818144-kraken.com
 818920-kraken.com
 819283-kraken.com
-9673754.lat
 978489-coinbase.com
 a08786897-beep.github.io
 a1-kraken.com
@@ -28,8 +25,7 @@ aaryan-musk.github.io
 access-login-ledger-live-cdn-io.netlify.app
 account-instagram.vercel.app
 accounts-facebook.blogspot.com
-adobe-desk.pages.dev
-adobe-hkjlapjufrsxgxjmnjghvxat.pages.dev
+accounts-google-login.github.io
 ahmadhussain99.github.io
 alibaba-taobaol.cn
 alibaba188.org
@@ -52,13 +48,11 @@ amazon-promos.shop
 amazon-ten-gamma.vercel.app
 amazon-web-inspired.vercel.app
 amazonbookawards.com
-americanexpress-ja-jp.com
 americanexpresspop.com
 amirrhasanpor0915-pixel.github.io
 amjadraza19.github.io
 ani-facebook.blogspot.com
 anoopsamazon.vercel.app
-antimoney-laundering.org
 apk-google.cn
 app-binance.github.io
 app-facebook.blogspot.com
@@ -108,7 +102,6 @@ buscarmi-icloud.app
 business-dropbox.me
 c-binance.github.io
 cardpaysecurity.org
-care-bankofamerica.ph
 carivo.vu
 case185366-coinbase.com
 cashapp-liart.vercel.app
@@ -136,7 +129,6 @@ dblxhosting.co.uk
 deluxxe.com.br
 desktop-ledgrecdn.wixstudio.com
 desktop.comm-whatsapp.com
-desktop.sec-whatsapp.com
 desktop.static-whatsapp.com
 dir.com.my
 dj-facebook.blogspot.com
@@ -168,7 +160,6 @@ ewlpnkrg.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 exclusive-openseamints.vercel.app
 exodus-wallet.global.ssl.fastly.net
-external.sec-whatsapp.com
 faceb00klogin.blogspot.com
 faceb0k-facebook.blogspot.com
 facebok-facebook.blogspot.com
@@ -349,7 +340,6 @@ facebookverifyyouraccount.blogspot.com
 facebookweb.github.io
 facebookwebsite9.blogspot.com
 facebookzaman.blogspot.com
-fast.sec-whatsapp.com
 fedex-olive.vercel.app
 fedexinterviewprep.com
 ffmka.club
@@ -416,7 +406,6 @@ hsbc-sec.com
 hsbc.dev
 hsbcpress.com
 https-wwwv-roblox.co
-icloud-findmydevice.info
 icloud-network.com
 icloud-sharedalbum.com
 icloudfindmaps.help
@@ -435,12 +424,9 @@ instagram-chi-ten.vercel.app
 instagram-chi.vercel.app
 instagram-copy.vercel.app
 instagram-cyber.github.io
-instagram-e.com.cn
-instagram-f.com.cn
 instagram-fe.vercel.app
 instagram-five-gamma.vercel.app
 instagram-frontpage.vercel.app
-instagram-g.com.cn
 instagram-inky.vercel.app
 instagram-instagram.blogspot.com
 instagram-jennifer.blogspot.com
@@ -505,8 +491,6 @@ kavishkadileepa01.github.io
 kenhoward.com
 kucoinloign.gitbook.io
 kucoinv.com
-lab.comm-whatsapp.com
-lab.sec-whatsapp.com
 lateinos.com.br
 ledger-live-cdn-auth.netlify.app
 ledger-live-download-sso-conect.typedream.app
@@ -534,7 +518,6 @@ login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 loginfacebook-facebook.blogspot.com
 logowanie-facebook.vercel.app
 lokalna-63282.sbs
-lokalna429081.xyz
 love-facebook.blogspot.com
 lovefive-facebook.blogspot.com
 lovevivah.com
@@ -544,8 +527,6 @@ m365-microsoft.com
 m4ntapaset.ink
 manish1719.github.io
 mb-facebook.blogspot.com
-media.comm-whatsapp.com
-media.sec-whatsapp.com
 meet-googlee46347975696.pages.dev
 meet-googlee7563454656.pages.dev
 meet-googlee7823629056.pages.dev
@@ -627,7 +608,6 @@ network-facebook.blogspot.com
 news.static-whatsapp.com
 noreply-icloud.app
 notify.comm-whatsapp.com
-notify.sec-whatsapp.com
 nw-facebook.blogspot.com
 office365licensingsupport.com
 onedrive-2-zeta.vercel.app
@@ -636,7 +616,6 @@ oortstorages.com
 oovra.club
 openai-coin.com
 openai-online.net
-opensea-nft-boxed-0097.vercel.app
 opensea-six.vercel.app
 openseaproks007.vercel.app
 openseavxr.vercel.app
@@ -660,16 +639,13 @@ pe-facebook.blogspot.com
 photo.comm-whatsapp.com
 photo.static-whatsapp.com
 plan.comm-whatsapp.com
-plan.sec-whatsapp.com
 play-google.cam
-playground.sec-whatsapp.com
 playground.static-whatsapp.com
 pr1395387-stack.github.io
 prajwalkuchewar.github.io
 premio-instagram.com
 premium.comm-whatsapp.com
 premium.static-whatsapp.com
-primehostbd.shop
 private.comm-whatsapp.com
 private.static-whatsapp.com
 prizebond.net.pk
@@ -677,7 +653,6 @@ profil-facebook-saya.blogspot.com
 proteccion-outlook2026.iceiy.com
 protected-request.com
 pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev
-publis-ledger-wallet.pages.dev
 pushkar-hub.github.io
 r-facebook.blogspot.com
 rafaelmdsouza.github.io
@@ -691,8 +666,6 @@ reentrega-seur-envio.cloudaccess.host
 register-facebook.blogspot.com
 rekemonedasi-facebook.org
 rents.ac
-research.comm-whatsapp.com
-research.sec-whatsapp.com
 restoration-google.com
 rev.it
 roblox-login.vercel.app
@@ -700,12 +673,12 @@ roblox.com.am
 roblox.com.bi
 roblox.com.bn
 roblox.com.bz
+roblox.com.do
 roblox.com.gr
 roblox.com.ml
 roblox.com.ms
 roblox.com.mu
 roblox.com.pt
-robloxr.com.es
 rricrosoft-offices.org
 ruddycruzc.github.io
 rushikesh-rane.github.io
@@ -719,8 +692,8 @@ santandercitas.com
 saque-instagram.com
 saventureinfratech234-boop.github.io
 scan-whatsapp.com
+sec-whatsapp.com
 secure-dropbox.ist
-secure-trezor-en-io.typedream.app
 securedsupport-coinbase.com
 secutury-facebook.blogspot.com
 sena-facebook.blogspot.com
@@ -756,17 +729,14 @@ tanish-ashu.github.io
 tanishq98714.github.io
 tara-facebook.blogspot.com
 tb-facebook.blogspot.com
-team.comm-whatsapp.com
-team.sec-whatsapp.com
 temporary.site
 test-facebook.blogspot.com
-test.comm-whatsapp.com
-test.sec-whatsapp.com
 therelayservice.com
 todo--facebook.blogspot.com
 trackingnumbers.org
 trezor-login-us-auth-start.typedream.app
 trezorguide.vercel.app
+trezorzlatovna.com
 trienkhaiweb.com
 trust-wallet-bnb.vercel.app
 trust-wallet-contact.vercel.app
@@ -791,6 +761,7 @@ uspssmartpackagelockers.com
 v0-instagram-accounts.vercel.app
 verifytoken.com
 vi-facebook.blogspot.com
+viewclass.com
 vitvasconcelos.github.io
 vn-facebook.blogspot.com
 vodafone-on-line.it
@@ -804,7 +775,6 @@ web-trezor-io-start-us.vercel.app
 webaccess-alert.com
 webstore.vn
 weekly.comm-whatsapp.com
-weekly.sec-whatsapp.com
 wegoupupup.com
 wellsfargo-worl.vercel.app
 whatsapp-fast.vercel.app
@@ -830,6 +800,7 @@ x-comcast.weebly.com
 xfinity101.duckdns.org
 xfinity2.vercel.app
 xfinityis.weebly.com
+xfinitymail-signin-user.weebly.com
 xfinityservices.vercel.app
 xfinityttt.weebly.com
 xfinitywindowfilms.com
