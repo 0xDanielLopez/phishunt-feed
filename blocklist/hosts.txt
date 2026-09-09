@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 832
-# Updated: 2026-09-09T04:43:39Z
+# Entries: 836
+# Updated: 2026-09-09T11:24:24Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -59,6 +59,7 @@
 0.0.0.0 amjadraza19.github.io
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 anoopsamazon.vercel.app
+0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-facebook.blogspot.com
@@ -86,7 +87,6 @@
 0.0.0.0 beta.static-whatsapp.com
 0.0.0.0 binance-blog.vercel.app
 0.0.0.0 binance-co.github.io
-0.0.0.0 binance-pro.com
 0.0.0.0 binance-promo-code.vercel.app
 0.0.0.0 binance-red-packet.vercel.app
 0.0.0.0 binance-referral-code-btcbonus.vercel.app
@@ -126,7 +126,9 @@
 0.0.0.0 cn.comm-whatsapp.com
 0.0.0.0 cn.static-whatsapp.com
 0.0.0.0 coinbasebackoffice.exchange
+0.0.0.0 coinbasee.vip
 0.0.0.0 coinbaseinvestors.ai
+0.0.0.0 coinbaseweb3wallets.com
 0.0.0.0 comcast2.vercel.app
 0.0.0.0 comcastcarebusiness.weebly.com
 0.0.0.0 comcastcommunicationonline.weebly.com
@@ -144,6 +146,7 @@
 0.0.0.0 desktop.comm-whatsapp.com
 0.0.0.0 desktop.static-whatsapp.com
 0.0.0.0 dir.com.my
+0.0.0.0 dispute-coinbase.com
 0.0.0.0 dj-facebook.blogspot.com
 0.0.0.0 docs-google.com
 0.0.0.0 docs-trezor-app.pages.dev
@@ -373,8 +376,8 @@
 0.0.0.0 geotehnica.com
 0.0.0.0 ggzh-google.com.cn
 0.0.0.0 gloronyan.github.io
+0.0.0.0 google-apk.com
 0.0.0.0 google-cloud.services
-0.0.0.0 google-sign-in.github.io
 0.0.0.0 google-verify.email
 0.0.0.0 google1107.com
 0.0.0.0 google1208.com
@@ -424,7 +427,6 @@
 0.0.0.0 https-wwwv-roblox.co
 0.0.0.0 icloud-network.com
 0.0.0.0 icloud-sharedalbum.com
-0.0.0.0 icloudmyphone.help
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 indiarevolutionnova.github.io
@@ -492,6 +494,7 @@
 0.0.0.0 instagramunblockedd.vercel.app
 0.0.0.0 instagramusicabrasilinstagram.blogspot.com
 0.0.0.0 internal-alerts.com
+0.0.0.0 ippoferta75635423412.sbs
 0.0.0.0 isha-dev.com
 0.0.0.0 itau-snowy.vercel.app
 0.0.0.0 itauu.vercel.app
@@ -624,6 +627,7 @@
 0.0.0.0 network-facebook.blogspot.com
 0.0.0.0 news.static-whatsapp.com
 0.0.0.0 noreply-icloud.app
+0.0.0.0 nr-327439sm32.lol
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 onedrive-2-zeta.vercel.app
@@ -657,7 +661,6 @@
 0.0.0.0 photo.static-whatsapp.com
 0.0.0.0 play-google.cam
 0.0.0.0 playground.static-whatsapp.com
-0.0.0.0 pr1395387-stack.github.io
 0.0.0.0 prajwalkuchewar.github.io
 0.0.0.0 premio-instagram.com
 0.0.0.0 premium.comm-whatsapp.com
@@ -673,6 +676,7 @@
 0.0.0.0 prywatnem1982875h7.rest
 0.0.0.0 pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev
 0.0.0.0 public.static-whatsapp.com
+0.0.0.0 puksy.com
 0.0.0.0 pushkar-hub.github.io
 0.0.0.0 r-facebook.blogspot.com
 0.0.0.0 rafaelmdsouza.github.io

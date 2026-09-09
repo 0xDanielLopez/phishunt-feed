@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 832
-! Updated: 2026-09-09T04:43:41Z
+! Entries: 836
+! Updated: 2026-09-09T11:24:25Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -59,6 +59,7 @@
 ||amjadraza19.github.io^
 ||ani-facebook.blogspot.com^
 ||anoopsamazon.vercel.app^
+||antimoney-laundering.org^
 ||apk-google.cn^
 ||app-binance.github.io^
 ||app-facebook.blogspot.com^
@@ -86,7 +87,6 @@
 ||beta.static-whatsapp.com^
 ||binance-blog.vercel.app^
 ||binance-co.github.io^
-||binance-pro.com^
 ||binance-promo-code.vercel.app^
 ||binance-red-packet.vercel.app^
 ||binance-referral-code-btcbonus.vercel.app^
@@ -126,7 +126,9 @@
 ||cn.comm-whatsapp.com^
 ||cn.static-whatsapp.com^
 ||coinbasebackoffice.exchange^
+||coinbasee.vip^
 ||coinbaseinvestors.ai^
+||coinbaseweb3wallets.com^
 ||comcast2.vercel.app^
 ||comcastcarebusiness.weebly.com^
 ||comcastcommunicationonline.weebly.com^
@@ -144,6 +146,7 @@
 ||desktop.comm-whatsapp.com^
 ||desktop.static-whatsapp.com^
 ||dir.com.my^
+||dispute-coinbase.com^
 ||dj-facebook.blogspot.com^
 ||docs-google.com^
 ||docs-trezor-app.pages.dev^
@@ -373,8 +376,8 @@
 ||geotehnica.com^
 ||ggzh-google.com.cn^
 ||gloronyan.github.io^
+||google-apk.com^
 ||google-cloud.services^
-||google-sign-in.github.io^
 ||google-verify.email^
 ||google1107.com^
 ||google1208.com^
@@ -424,7 +427,6 @@
 ||https-wwwv-roblox.co^
 ||icloud-network.com^
 ||icloud-sharedalbum.com^
-||icloudmyphone.help^
 ||ideeo.mx^
 ||ifotografix.co.uk^
 ||indiarevolutionnova.github.io^
@@ -492,6 +494,7 @@
 ||instagramunblockedd.vercel.app^
 ||instagramusicabrasilinstagram.blogspot.com^
 ||internal-alerts.com^
+||ippoferta75635423412.sbs^
 ||isha-dev.com^
 ||itau-snowy.vercel.app^
 ||itauu.vercel.app^
@@ -624,6 +627,7 @@
 ||network-facebook.blogspot.com^
 ||news.static-whatsapp.com^
 ||noreply-icloud.app^
+||nr-327439sm32.lol^
 ||nw-facebook.blogspot.com^
 ||office365licensingsupport.com^
 ||onedrive-2-zeta.vercel.app^
@@ -657,7 +661,6 @@
 ||photo.static-whatsapp.com^
 ||play-google.cam^
 ||playground.static-whatsapp.com^
-||pr1395387-stack.github.io^
 ||prajwalkuchewar.github.io^
 ||premio-instagram.com^
 ||premium.comm-whatsapp.com^
@@ -673,6 +676,7 @@
 ||prywatnem1982875h7.rest^
 ||pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev^
 ||public.static-whatsapp.com^
+||puksy.com^
 ||pushkar-hub.github.io^
 ||r-facebook.blogspot.com^
 ||rafaelmdsouza.github.io^
