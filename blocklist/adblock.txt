@@ -1,32 +1,34 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 827
-! Updated: 2026-09-08T21:10:12Z
+! Entries: 832
+! Updated: 2026-09-09T04:43:41Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
 ! Community-reported phishing domains. Use at your own risk.
 
 ||01felipeaugusto-star.github.io^
+||04192h847h45.rest^
+||12-1-h593g4.lol^
 ||123-facebook.blogspot.com^
 ||164196-coinbase.com^
 ||2017-facebook.blogspot.com^
 ||283674-coinbase.com^
 ||286364-coinbase.com^
-||3298418244129h54.xyz^
-||3481921-coinbase.com^
 ||393bet-facebook.sa.com^
 ||54893-coinbase.com^
 ||5498h45j564.cfd^
+||6450t230t2j6.mom^
 ||818144-kraken.com^
 ||818920-kraken.com^
 ||819283-kraken.com^
 ||84327139h45.cfd^
+||91289h405h045.mom^
+||92381928h75.rest^
 ||978489-coinbase.com^
 ||a08786897-beep.github.io^
 ||a1-kraken.com^
 ||a2zapk.co^
 ||aaryan-musk.github.io^
-||access-login-ledger-live-cdn-io.netlify.app^
 ||account-instagram.vercel.app^
 ||accounts-facebook.blogspot.com^
 ||accounts-google-login.github.io^
@@ -57,7 +59,6 @@
 ||amjadraza19.github.io^
 ||ani-facebook.blogspot.com^
 ||anoopsamazon.vercel.app^
-||antimoney-laundering.org^
 ||apk-google.cn^
 ||app-binance.github.io^
 ||app-facebook.blogspot.com^
@@ -128,6 +129,7 @@
 ||coinbaseinvestors.ai^
 ||comcast2.vercel.app^
 ||comcastcarebusiness.weebly.com^
+||comcastcommunicationonline.weebly.com^
 ||comcastnetmail.weebly.com^
 ||comcastsurvey.weebly.com^
 ||comecome.click^
@@ -171,6 +173,7 @@
 ||ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org^
 ||exclusive-openseamints.vercel.app^
 ||exodus-wallet.global.ssl.fastly.net^
+||exoduswallethelpcenter.vercel.app^
 ||faceb00klogin.blogspot.com^
 ||faceb0k-facebook.blogspot.com^
 ||facebok-facebook.blogspot.com^
@@ -633,6 +636,7 @@
 ||openseaproks007.vercel.app^
 ||openseavxr.vercel.app^
 ||oraclecloud.com^
+||orbit-whatsapp.com^
 ||ossama-instagram.vercel.app^
 ||outlookindia.com^
 ||outlookmail.social^
@@ -689,7 +693,6 @@
 ||roblox.com.bi^
 ||roblox.com.bn^
 ||roblox.com.bz^
-||roblox.com.do^
 ||roblox.com.gr^
 ||roblox.com.ml^
 ||roblox.com.ms^
@@ -719,7 +722,9 @@
 ||shop.static-whatsapp.com^
 ||shruuti-005.github.io^
 ||siddharth-1404.github.io^
+||sigma-whatsapp.com^
 ||sk-facebook.blogspot.com^
+||smart82911284.bond^
 ||spotify-a9.netlify.app^
 ||spotify-client-beta.vercel.app^
 ||spotify-modapk.com^
@@ -760,7 +765,6 @@
 ||trust-wallet-contact.vercel.app^
 ||trust-wallet-customer-support-number.github.io^
 ||trust-wallet-liart.vercel.app^
-||trustedentity.com^
 ||trustwallet-helpcenter.vercel.app^
 ||trustwallet-login.blogspot.com^
 ||trustwallet-secure-check.vercel.app^
@@ -789,6 +793,7 @@
 ||vpnuse.eu.org^
 ||vwwv-icloud.com^
 ||wasmer.app^
+||wave-whatsapp.com^
 ||web-conect-us-ledger-live-wallet.typedream.app^
 ||web-spotify.cn^
 ||web-trezor-io-start-us.vercel.app^
@@ -802,6 +807,7 @@
 ||whatsapp-indonesia877.blogspot.com^
 ||whatsapp-verify.blogspot.com^
 ||whatsappapk.org^
+||whatsappbrnoticias.blogspot.com^
 ||whatsappcampaign.online^
 ||whatsappfreewhatsapp.blogspot.com^
 ||whatsappq.com^
@@ -820,7 +826,6 @@
 ||x-comcast.weebly.com^
 ||xfinity2.vercel.app^
 ||xfinityis.weebly.com^
-||xfinitymail-signin-user.weebly.com^
 ||xfinitynow.weebly.com^
 ||xfinityservices.vercel.app^
 ||xfinityttt.weebly.com^

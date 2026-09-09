@@ -1,32 +1,34 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 827
-# Updated: 2026-09-08T21:10:11Z
+# Entries: 832
+# Updated: 2026-09-09T04:43:39Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
 0.0.0.0 01felipeaugusto-star.github.io
+0.0.0.0 04192h847h45.rest
+0.0.0.0 12-1-h593g4.lol
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 164196-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
-0.0.0.0 3298418244129h54.xyz
-0.0.0.0 3481921-coinbase.com
 0.0.0.0 393bet-facebook.sa.com
 0.0.0.0 54893-coinbase.com
 0.0.0.0 5498h45j564.cfd
+0.0.0.0 6450t230t2j6.mom
 0.0.0.0 818144-kraken.com
 0.0.0.0 818920-kraken.com
 0.0.0.0 819283-kraken.com
 0.0.0.0 84327139h45.cfd
+0.0.0.0 91289h405h045.mom
+0.0.0.0 92381928h75.rest
 0.0.0.0 978489-coinbase.com
 0.0.0.0 a08786897-beep.github.io
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
 0.0.0.0 aaryan-musk.github.io
-0.0.0.0 access-login-ledger-live-cdn-io.netlify.app
 0.0.0.0 account-instagram.vercel.app
 0.0.0.0 accounts-facebook.blogspot.com
 0.0.0.0 accounts-google-login.github.io
@@ -57,7 +59,6 @@
 0.0.0.0 amjadraza19.github.io
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 anoopsamazon.vercel.app
-0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-facebook.blogspot.com
@@ -128,6 +129,7 @@
 0.0.0.0 coinbaseinvestors.ai
 0.0.0.0 comcast2.vercel.app
 0.0.0.0 comcastcarebusiness.weebly.com
+0.0.0.0 comcastcommunicationonline.weebly.com
 0.0.0.0 comcastnetmail.weebly.com
 0.0.0.0 comcastsurvey.weebly.com
 0.0.0.0 comecome.click
@@ -171,6 +173,7 @@
 0.0.0.0 ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 0.0.0.0 exclusive-openseamints.vercel.app
 0.0.0.0 exodus-wallet.global.ssl.fastly.net
+0.0.0.0 exoduswallethelpcenter.vercel.app
 0.0.0.0 faceb00klogin.blogspot.com
 0.0.0.0 faceb0k-facebook.blogspot.com
 0.0.0.0 facebok-facebook.blogspot.com
@@ -633,6 +636,7 @@
 0.0.0.0 openseaproks007.vercel.app
 0.0.0.0 openseavxr.vercel.app
 0.0.0.0 oraclecloud.com
+0.0.0.0 orbit-whatsapp.com
 0.0.0.0 ossama-instagram.vercel.app
 0.0.0.0 outlookindia.com
 0.0.0.0 outlookmail.social
@@ -689,7 +693,6 @@
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bz
-0.0.0.0 roblox.com.do
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.ms
@@ -719,7 +722,9 @@
 0.0.0.0 shop.static-whatsapp.com
 0.0.0.0 shruuti-005.github.io
 0.0.0.0 siddharth-1404.github.io
+0.0.0.0 sigma-whatsapp.com
 0.0.0.0 sk-facebook.blogspot.com
+0.0.0.0 smart82911284.bond
 0.0.0.0 spotify-a9.netlify.app
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotify-modapk.com
@@ -760,7 +765,6 @@
 0.0.0.0 trust-wallet-contact.vercel.app
 0.0.0.0 trust-wallet-customer-support-number.github.io
 0.0.0.0 trust-wallet-liart.vercel.app
-0.0.0.0 trustedentity.com
 0.0.0.0 trustwallet-helpcenter.vercel.app
 0.0.0.0 trustwallet-login.blogspot.com
 0.0.0.0 trustwallet-secure-check.vercel.app
@@ -789,6 +793,7 @@
 0.0.0.0 vpnuse.eu.org
 0.0.0.0 vwwv-icloud.com
 0.0.0.0 wasmer.app
+0.0.0.0 wave-whatsapp.com
 0.0.0.0 web-conect-us-ledger-live-wallet.typedream.app
 0.0.0.0 web-spotify.cn
 0.0.0.0 web-trezor-io-start-us.vercel.app
@@ -802,6 +807,7 @@
 0.0.0.0 whatsapp-indonesia877.blogspot.com
 0.0.0.0 whatsapp-verify.blogspot.com
 0.0.0.0 whatsappapk.org
+0.0.0.0 whatsappbrnoticias.blogspot.com
 0.0.0.0 whatsappcampaign.online
 0.0.0.0 whatsappfreewhatsapp.blogspot.com
 0.0.0.0 whatsappq.com
@@ -820,7 +826,6 @@
 0.0.0.0 x-comcast.weebly.com
 0.0.0.0 xfinity2.vercel.app
 0.0.0.0 xfinityis.weebly.com
-0.0.0.0 xfinitymail-signin-user.weebly.com
 0.0.0.0 xfinitynow.weebly.com
 0.0.0.0 xfinityservices.vercel.app
 0.0.0.0 xfinityttt.weebly.com
