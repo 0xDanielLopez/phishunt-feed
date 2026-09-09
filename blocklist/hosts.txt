@@ -1,14 +1,12 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 836
-# Updated: 2026-09-09T11:24:24Z
+# Entries: 827
+# Updated: 2026-09-09T16:39:11Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
 0.0.0.0 01felipeaugusto-star.github.io
-0.0.0.0 04192h847h45.rest
-0.0.0.0 12-1-h593g4.lol
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 164196-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
@@ -16,14 +14,9 @@
 0.0.0.0 286364-coinbase.com
 0.0.0.0 393bet-facebook.sa.com
 0.0.0.0 54893-coinbase.com
-0.0.0.0 5498h45j564.cfd
-0.0.0.0 6450t230t2j6.mom
 0.0.0.0 818144-kraken.com
 0.0.0.0 818920-kraken.com
 0.0.0.0 819283-kraken.com
-0.0.0.0 84327139h45.cfd
-0.0.0.0 91289h405h045.mom
-0.0.0.0 92381928h75.rest
 0.0.0.0 978489-coinbase.com
 0.0.0.0 a08786897-beep.github.io
 0.0.0.0 a1-kraken.com
@@ -111,7 +104,6 @@
 0.0.0.0 c-binance.github.io
 0.0.0.0 canary.static-whatsapp.com
 0.0.0.0 cardpaysecurity.org
-0.0.0.0 care-bankofamerica.ph
 0.0.0.0 carivo.vu
 0.0.0.0 cart.static-whatsapp.com
 0.0.0.0 case185366-coinbase.com
@@ -133,8 +125,11 @@
 0.0.0.0 comcastcarebusiness.weebly.com
 0.0.0.0 comcastcommunicationonline.weebly.com
 0.0.0.0 comcastnetmail.weebly.com
+0.0.0.0 comcastnetmailservice.weebly.com
+0.0.0.0 comcastnow.weebly.com
 0.0.0.0 comcastsurvey.weebly.com
 0.0.0.0 comecome.click
+0.0.0.0 contabostorage.com
 0.0.0.0 correosiicr.cc
 0.0.0.0 ct.ws
 0.0.0.0 cz-facebook.blogspot.com
@@ -349,7 +344,6 @@
 0.0.0.0 facebookshops.best
 0.0.0.0 facebooksociallink.blogspot.com
 0.0.0.0 facebooksuporteolaine.blogspot.com
-0.0.0.0 facebooksupportit.blogspot.com
 0.0.0.0 facebookteamhelp.blogspot.com
 0.0.0.0 facebooktechnicalsupportnumber123.blogspot.com
 0.0.0.0 facebooktotranscript.com
@@ -424,7 +418,6 @@
 0.0.0.0 hsbc-sec.com
 0.0.0.0 hsbc.dev
 0.0.0.0 hsbcpress.com
-0.0.0.0 https-wwwv-roblox.co
 0.0.0.0 icloud-network.com
 0.0.0.0 icloud-sharedalbum.com
 0.0.0.0 ideeo.mx
@@ -531,12 +524,12 @@
 0.0.0.0 login-my-facebook.blogspot.com
 0.0.0.0 login-page-instagram.blogspot.com
 0.0.0.0 login-page-instagram.vercel.app
-0.0.0.0 login-yahoo-verify.blogspot.com
 0.0.0.0 login.rmdbwskx.santander.bimp-bot.duckdns.org
 0.0.0.0 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 0.0.0.0 loginfacebook-facebook.blogspot.com
 0.0.0.0 logowanie-facebook.vercel.app
 0.0.0.0 lokalna-63282.sbs
+0.0.0.0 lokalna412955.cfd
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lovevivah.com
@@ -671,12 +664,8 @@
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 proteccion-outlook2026.iceiy.com
 0.0.0.0 protected-request.com
-0.0.0.0 prowar8u237h45.cfd
-0.0.0.0 prywanm4328239.rest
-0.0.0.0 prywatnem1982875h7.rest
 0.0.0.0 pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev
 0.0.0.0 public.static-whatsapp.com
-0.0.0.0 puksy.com
 0.0.0.0 pushkar-hub.github.io
 0.0.0.0 r-facebook.blogspot.com
 0.0.0.0 rafaelmdsouza.github.io
@@ -694,6 +683,7 @@
 0.0.0.0 restoration-google.com
 0.0.0.0 rev.it
 0.0.0.0 roblox-login.vercel.app
+0.0.0.0 roblox.com.am
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bz
@@ -728,7 +718,6 @@
 0.0.0.0 siddharth-1404.github.io
 0.0.0.0 sigma-whatsapp.com
 0.0.0.0 sk-facebook.blogspot.com
-0.0.0.0 smart82911284.bond
 0.0.0.0 spotify-a9.netlify.app
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotify-modapk.com
@@ -815,6 +804,7 @@
 0.0.0.0 whatsappcampaign.online
 0.0.0.0 whatsappfreewhatsapp.blogspot.com
 0.0.0.0 whatsappq.com
+0.0.0.0 whatsappzoeiras.blogspot.com
 0.0.0.0 windows-ledger-live.typedream.app
 0.0.0.0 work.static-whatsapp.com
 0.0.0.0 worker.static-whatsapp.com
@@ -828,6 +818,7 @@
 0.0.0.0 www2-facebook.com
 0.0.0.0 wwww-linkedin.be
 0.0.0.0 x-comcast.weebly.com
+0.0.0.0 xfinity-mail-user.weebly.com
 0.0.0.0 xfinity2.vercel.app
 0.0.0.0 xfinityis.weebly.com
 0.0.0.0 xfinitynow.weebly.com

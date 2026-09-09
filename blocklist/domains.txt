@@ -1,14 +1,12 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 836
-# Updated: 2026-09-09T11:24:24Z
+# Entries: 827
+# Updated: 2026-09-09T16:39:11Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
 01felipeaugusto-star.github.io
-04192h847h45.rest
-12-1-h593g4.lol
 123-facebook.blogspot.com
 164196-coinbase.com
 2017-facebook.blogspot.com
@@ -16,14 +14,9 @@
 286364-coinbase.com
 393bet-facebook.sa.com
 54893-coinbase.com
-5498h45j564.cfd
-6450t230t2j6.mom
 818144-kraken.com
 818920-kraken.com
 819283-kraken.com
-84327139h45.cfd
-91289h405h045.mom
-92381928h75.rest
 978489-coinbase.com
 a08786897-beep.github.io
 a1-kraken.com
@@ -111,7 +104,6 @@ business-dropbox.me
 c-binance.github.io
 canary.static-whatsapp.com
 cardpaysecurity.org
-care-bankofamerica.ph
 carivo.vu
 cart.static-whatsapp.com
 case185366-coinbase.com
@@ -133,8 +125,11 @@ comcast2.vercel.app
 comcastcarebusiness.weebly.com
 comcastcommunicationonline.weebly.com
 comcastnetmail.weebly.com
+comcastnetmailservice.weebly.com
+comcastnow.weebly.com
 comcastsurvey.weebly.com
 comecome.click
+contabostorage.com
 correosiicr.cc
 ct.ws
 cz-facebook.blogspot.com
@@ -349,7 +344,6 @@ facebooksecurityhelp.blogspot.com
 facebookshops.best
 facebooksociallink.blogspot.com
 facebooksuporteolaine.blogspot.com
-facebooksupportit.blogspot.com
 facebookteamhelp.blogspot.com
 facebooktechnicalsupportnumber123.blogspot.com
 facebooktotranscript.com
@@ -424,7 +418,6 @@ hotmail143.net
 hsbc-sec.com
 hsbc.dev
 hsbcpress.com
-https-wwwv-roblox.co
 icloud-network.com
 icloud-sharedalbum.com
 ideeo.mx
@@ -531,12 +524,12 @@ login-facebookaccount.blogspot.com
 login-my-facebook.blogspot.com
 login-page-instagram.blogspot.com
 login-page-instagram.vercel.app
-login-yahoo-verify.blogspot.com
 login.rmdbwskx.santander.bimp-bot.duckdns.org
 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 loginfacebook-facebook.blogspot.com
 logowanie-facebook.vercel.app
 lokalna-63282.sbs
+lokalna412955.cfd
 love-facebook.blogspot.com
 lovefive-facebook.blogspot.com
 lovevivah.com
@@ -671,12 +664,8 @@ prizebond.net.pk
 profil-facebook-saya.blogspot.com
 proteccion-outlook2026.iceiy.com
 protected-request.com
-prowar8u237h45.cfd
-prywanm4328239.rest
-prywatnem1982875h7.rest
 pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev
 public.static-whatsapp.com
-puksy.com
 pushkar-hub.github.io
 r-facebook.blogspot.com
 rafaelmdsouza.github.io
@@ -694,6 +683,7 @@ rents.ac
 restoration-google.com
 rev.it
 roblox-login.vercel.app
+roblox.com.am
 roblox.com.bi
 roblox.com.bn
 roblox.com.bz
@@ -728,7 +718,6 @@ shruuti-005.github.io
 siddharth-1404.github.io
 sigma-whatsapp.com
 sk-facebook.blogspot.com
-smart82911284.bond
 spotify-a9.netlify.app
 spotify-client-beta.vercel.app
 spotify-modapk.com
@@ -815,6 +804,7 @@ whatsappbrnoticias.blogspot.com
 whatsappcampaign.online
 whatsappfreewhatsapp.blogspot.com
 whatsappq.com
+whatsappzoeiras.blogspot.com
 windows-ledger-live.typedream.app
 work.static-whatsapp.com
 worker.static-whatsapp.com
@@ -828,6 +818,7 @@ www-microsoft.com.cn
 www2-facebook.com
 wwww-linkedin.be
 x-comcast.weebly.com
+xfinity-mail-user.weebly.com
 xfinity2.vercel.app
 xfinityis.weebly.com
 xfinitynow.weebly.com
