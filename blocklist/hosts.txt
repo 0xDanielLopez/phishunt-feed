@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 827
-# Updated: 2026-09-09T16:39:11Z
+# Entries: 839
+# Updated: 2026-09-09T20:56:26Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -8,13 +8,18 @@
 
 0.0.0.0 01felipeaugusto-star.github.io
 0.0.0.0 123-facebook.blogspot.com
+0.0.0.0 163c.paypal-login.antimoney-laundering.org
 0.0.0.0 164196-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
+0.0.0.0 24-dpd.top
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
 0.0.0.0 393bet-facebook.sa.com
 0.0.0.0 54893-coinbase.com
+0.0.0.0 73a2370016b7.hrms.account.fr.paypal.antimoney-laundering.org
+0.0.0.0 73a2370016b7.y.paypal-support.antimoney-laundering.org
 0.0.0.0 818144-kraken.com
+0.0.0.0 818393-kraken.com
 0.0.0.0 818920-kraken.com
 0.0.0.0 819283-kraken.com
 0.0.0.0 978489-coinbase.com
@@ -25,6 +30,7 @@
 0.0.0.0 account-instagram.vercel.app
 0.0.0.0 accounts-facebook.blogspot.com
 0.0.0.0 accounts-google-login.github.io
+0.0.0.0 accounts-mail-google.com
 0.0.0.0 ahmadhussain99.github.io
 0.0.0.0 alibaba-taobaol.cn
 0.0.0.0 alibaba188.org
@@ -52,7 +58,6 @@
 0.0.0.0 amjadraza19.github.io
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 anoopsamazon.vercel.app
-0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-facebook.blogspot.com
@@ -62,6 +67,7 @@
 0.0.0.0 asif.me
 0.0.0.0 asset.static-whatsapp.com
 0.0.0.0 assign-icloud.com
+0.0.0.0 auth-trezr-login.pages.dev
 0.0.0.0 authorised-support.com
 0.0.0.0 avlinfo.in
 0.0.0.0 axm-amazon.com
@@ -109,6 +115,7 @@
 0.0.0.0 case185366-coinbase.com
 0.0.0.0 cashapp-liart.vercel.app
 0.0.0.0 cashappps.com
+0.0.0.0 cfm-whatsapps.com
 0.0.0.0 ch-google.cc
 0.0.0.0 chatgpt0005.eu.org
 0.0.0.0 citrix-sharing.com
@@ -140,6 +147,7 @@
 0.0.0.0 desktop-ledgrecdn.wixstudio.com
 0.0.0.0 desktop.comm-whatsapp.com
 0.0.0.0 desktop.static-whatsapp.com
+0.0.0.0 dhl-expressmy.com
 0.0.0.0 dir.com.my
 0.0.0.0 dispute-coinbase.com
 0.0.0.0 dj-facebook.blogspot.com
@@ -354,6 +362,7 @@
 0.0.0.0 facebookwebsite9.blogspot.com
 0.0.0.0 facebookzaman.blogspot.com
 0.0.0.0 fedex-olive.vercel.app
+0.0.0.0 fedex-srl.com
 0.0.0.0 fedexinterviewprep.com
 0.0.0.0 ffmka.club
 0.0.0.0 fifa-store.shop
@@ -622,6 +631,7 @@
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nr-327439sm32.lol
 0.0.0.0 nw-facebook.blogspot.com
+0.0.0.0 nwhht.account-paypal.antimoney-laundering.org
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 onedrive-2-zeta.vercel.app
 0.0.0.0 online-facebook-privacy.blogspot.com
@@ -652,6 +662,7 @@
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 photo.comm-whatsapp.com
 0.0.0.0 photo.static-whatsapp.com
+0.0.0.0 pl-96077.icu
 0.0.0.0 play-google.cam
 0.0.0.0 playground.static-whatsapp.com
 0.0.0.0 prajwalkuchewar.github.io
@@ -698,6 +709,7 @@
 0.0.0.0 s-facebook.blogspot.com
 0.0.0.0 samplel-ks6yxvur5-instagramm.vercel.app
 0.0.0.0 sandbox.comm-whatsapp.com
+0.0.0.0 sandbox.paypal-login.antimoney-laundering.org
 0.0.0.0 sandbox.static-whatsapp.com
 0.0.0.0 santander-dev-week.vercel.app
 0.0.0.0 santanderbank.shop

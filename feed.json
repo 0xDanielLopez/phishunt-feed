@@ -1,5 +1,543 @@
 [
   {
+    "url": "https://auth-trezr-login.pages.dev",
+    "domain": "auth-trezr-login.pages.dev",
+    "company": "trezor",
+    "date": "2026-09-09T20:02:44.658887+00:00",
+    "first_seen": "2026-09-09T20:02:44.658887+00:00",
+    "uuid": "3d7e9538-6745-4b94-a414-fe9ba69a2688",
+    "ip": "188.114.96.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "Google Trust Services",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": true,
+    "top_signals": [],
+    "score": 0,
+    "verdict": "noise"
+  },
+  {
+    "url": "http://allegrolokalnie.pl-96077.icu/oferta/garaz-blaszany-magazynek/56761",
+    "domain": "allegrolokalnie.pl-96077.icu",
+    "company": "allegro",
+    "date": "2026-09-09T18:01:10.411447+00:00",
+    "first_seen": "2026-09-09T18:01:10.411447+00:00",
+    "uuid": "55144cbc-638d-4445-a508-03de6dfca2b2",
+    "ip": "188.114.96.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 36,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://nwhht.account-paypal.antimoney-laundering.org",
+    "domain": "nwhht.account-paypal.antimoney-laundering.org",
+    "company": "paypal",
+    "date": "2026-09-09T17:26:11.066170+00:00",
+    "first_seen": "2026-09-09T17:26:11.066170+00:00",
+    "uuid": "cf84a94f-e5eb-4098-b631-52616c8b0adc",
+    "ip": "208.91.197.27",
+    "country": "United States",
+    "asn": "40034",
+    "org": "Confluence Networks Inc",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 4.1
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      }
+    ],
+    "score": 28,
+    "verdict": "low"
+  },
+  {
+    "url": "https://73a2370016b7.y.paypal-support.antimoney-laundering.org",
+    "domain": "73a2370016b7.y.paypal-support.antimoney-laundering.org",
+    "company": "paypal",
+    "date": "2026-09-09T17:26:05.413370+00:00",
+    "first_seen": "2026-09-09T17:26:05.413370+00:00",
+    "uuid": "5d6cd66f-b86f-4f82-91b7-8bc7031fd186",
+    "ip": "208.91.197.27",
+    "country": "United States",
+    "asn": "40034",
+    "org": "Confluence Networks Inc",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 3.0
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      }
+    ],
+    "score": 27,
+    "verdict": "low"
+  },
+  {
+    "url": "https://fedex-srl.com",
+    "domain": "fedex-srl.com",
+    "company": "fedex",
+    "date": "2026-09-09T17:25:59.679747+00:00",
+    "first_seen": "2026-09-09T17:25:59.679747+00:00",
+    "uuid": "fbdfe12b-3d50-42d1-b600-162778364598",
+    "ip": "160.153.0.40",
+    "country": "United States",
+    "asn": "209242",
+    "org": "Cloudflare London, LLC",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      }
+    ],
+    "score": 29,
+    "verdict": "low"
+  },
+  {
+    "url": "https://dhl-expressmy.com",
+    "domain": "dhl-expressmy.com",
+    "company": "dhl",
+    "date": "2026-09-09T17:25:58.818614+00:00",
+    "first_seen": "2026-09-09T17:25:58.818614+00:00",
+    "uuid": "7485ecf6-e3cc-462c-bde8-669460d5f5e8",
+    "ip": "103.79.244.211",
+    "country": "Indonesia",
+    "asn": "150949",
+    "org": "PT RumahNET Internusa",
+    "cert": "YE2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 24,
+    "verdict": "low"
+  },
+  {
+    "url": "https://cfm-whatsapps.com",
+    "domain": "cfm-whatsapps.com",
+    "company": "whatsapp",
+    "date": "2026-09-09T17:25:57.457183+00:00",
+    "first_seen": "2026-09-09T17:25:57.457183+00:00",
+    "uuid": "03b0be88-907b-403e-bcf9-69da1959ec55",
+    "ip": "156.247.52.194",
+    "country": "Hong Kong",
+    "asn": "138415",
+    "org": "Yancy Limited",
+    "cert": "YR2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 3.5
+      }
+    ],
+    "score": 29,
+    "verdict": "low"
+  },
+  {
+    "url": "https://818393-kraken.com",
+    "domain": "818393-kraken.com",
+    "company": "kraken",
+    "date": "2026-09-09T17:25:56.128155+00:00",
+    "first_seen": "2026-09-09T17:25:56.128155+00:00",
+    "uuid": "c630ae32-f328-46dc-8be9-6d3d80f0f7f3",
+    "ip": "172.67.204.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      }
+    ],
+    "score": 31,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://24-dpd.top",
+    "domain": "24-dpd.top",
+    "company": "dpd",
+    "date": "2026-09-09T17:25:55.424585+00:00",
+    "first_seen": "2026-09-09T17:25:55.424585+00:00",
+    "uuid": "803d7559-9037-4aef-ba4a-f056f877279e",
+    "ip": "172.237.129.108",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 2.8
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      }
+    ],
+    "score": 27,
+    "verdict": "low"
+  },
+  {
+    "url": "https://sandbox.paypal-login.antimoney-laundering.org",
+    "domain": "sandbox.paypal-login.antimoney-laundering.org",
+    "company": "paypal",
+    "date": "2026-09-09T17:25:54.913329+00:00",
+    "first_seen": "2026-09-09T17:25:54.913329+00:00",
+    "uuid": "58e05cde-f110-4594-8e84-5c4e816821d9",
+    "ip": "208.91.197.27",
+    "country": "United States",
+    "asn": "40034",
+    "org": "Confluence Networks Inc",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 2.0
+      }
+    ],
+    "score": 26,
+    "verdict": "low"
+  },
+  {
+    "url": "https://163c.paypal-login.antimoney-laundering.org",
+    "domain": "163c.paypal-login.antimoney-laundering.org",
+    "company": "paypal",
+    "date": "2026-09-09T17:25:49.671663+00:00",
+    "first_seen": "2026-09-09T17:25:49.671663+00:00",
+    "uuid": "dbac195c-4cfe-44cc-94dd-3caf49710062",
+    "ip": "208.91.197.27",
+    "country": "United States",
+    "asn": "40034",
+    "org": "Confluence Networks Inc",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 1.7
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 23,
+    "verdict": "low"
+  },
+  {
+    "url": "https://accounts-mail-google.com",
+    "domain": "accounts-mail-google.com",
+    "company": "google",
+    "date": "2026-09-09T17:25:44.134794+00:00",
+    "first_seen": "2026-09-09T17:25:44.134794+00:00",
+    "uuid": "898c62a8-2a7a-4187-b8f1-955b5624e2c2",
+    "ip": "104.21.36.161",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 3.2
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 2.0
+      }
+    ],
+    "score": 27,
+    "verdict": "low"
+  },
+  {
     "url": "https://allegrolokalnie.lokalna412955.cfd",
     "domain": "allegrolokalnie.lokalna412955.cfd",
     "company": "allegro",
