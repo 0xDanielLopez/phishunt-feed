@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 843
-# Updated: 2026-09-10T16:24:55Z
+# Entries: 848
+# Updated: 2026-09-10T20:52:57Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -13,6 +13,7 @@
 283674-coinbase.com
 286364-coinbase.com
 393bet-facebook.sa.com
+49192-coinbase.com
 54893-coinbase.com
 818144-kraken.com
 818393-kraken.com
@@ -55,6 +56,7 @@ amirrhasanpor0915-pixel.github.io
 amjadraza19.github.io
 ani-facebook.blogspot.com
 anoopsamazon.vercel.app
+antimoney-laundering.org
 apk-google.cn
 app-binance.github.io
 app-facebook.blogspot.com
@@ -433,6 +435,7 @@ hsbc.dev
 hsbcpress.com
 https-wvvw-roblox.com
 icloud-sharedalbum.com
+icloudmyphones.help
 ideeo.mx
 ifotografix.co.uk
 indiarevolutionnova.github.io
@@ -719,6 +722,7 @@ scan-whatsapp.com
 sec-whatsapp.com
 secure-dropbox.ist
 securedsupport-coinbase.com
+secureportal-googlelogin.com
 secutury-facebook.blogspot.com
 sena-facebook.blogspot.com
 services-facebook.blogspot.com
@@ -775,6 +779,7 @@ trustwallet-tokentwtowner.vercel.app
 trustwalletsupport.dev
 twineapp.com
 twinehr.com
+twitterfav.com
 uk-facebook.blogspot.com
 updata.net.cn
 upgradexfinty.weebly.com

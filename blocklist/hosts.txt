@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 843
-# Updated: 2026-09-10T16:24:55Z
+# Entries: 848
+# Updated: 2026-09-10T20:52:57Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -13,6 +13,7 @@
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
 0.0.0.0 393bet-facebook.sa.com
+0.0.0.0 49192-coinbase.com
 0.0.0.0 54893-coinbase.com
 0.0.0.0 818144-kraken.com
 0.0.0.0 818393-kraken.com
@@ -55,6 +56,7 @@
 0.0.0.0 amjadraza19.github.io
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 anoopsamazon.vercel.app
+0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-facebook.blogspot.com
@@ -433,6 +435,7 @@
 0.0.0.0 hsbcpress.com
 0.0.0.0 https-wvvw-roblox.com
 0.0.0.0 icloud-sharedalbum.com
+0.0.0.0 icloudmyphones.help
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 indiarevolutionnova.github.io
@@ -719,6 +722,7 @@
 0.0.0.0 sec-whatsapp.com
 0.0.0.0 secure-dropbox.ist
 0.0.0.0 securedsupport-coinbase.com
+0.0.0.0 secureportal-googlelogin.com
 0.0.0.0 secutury-facebook.blogspot.com
 0.0.0.0 sena-facebook.blogspot.com
 0.0.0.0 services-facebook.blogspot.com
@@ -775,6 +779,7 @@
 0.0.0.0 trustwalletsupport.dev
 0.0.0.0 twineapp.com
 0.0.0.0 twinehr.com
+0.0.0.0 twitterfav.com
 0.0.0.0 uk-facebook.blogspot.com
 0.0.0.0 updata.net.cn
 0.0.0.0 upgradexfinty.weebly.com

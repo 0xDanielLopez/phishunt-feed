@@ -1,10 +1,10 @@
 {
  "date": "2026-09-10",
- "updated": "2026-09-10T16:24:56Z",
+ "updated": "2026-09-10T20:52:58Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 43,
+  "added": 49,
   "removed": 30
  },
  "added": [
@@ -23,6 +23,8 @@
   "http://xfinitymailxx.weebly.com",
   "http://xfinityservicexxx.weebly.com",
   "http://xfinitysupportnow.weebly.com",
+  "https://49192-coinbase.com",
+  "https://accounts-paypal.antimoney-laundering.org",
   "https://amazon.iqraashraf.dev",
   "https://coinbase-event.vercel.app",
   "https://coinbase.com.lc",
@@ -36,6 +38,8 @@
   "https://hotmail-session-mjxtmxmg-ixb4qojnj-----d2mdsfzrix.zoecondominios.com.br",
   "https://hotmail-session-nmjk0bri-ww5ct9w0m-----yo26j491vd.zoecondominios.com.br",
   "https://https-wvvw-roblox.com/login?returnUrl=1505481875",
+  "https://ic.account-paypal.antimoney-laundering.org",
+  "https://icloudmyphones.help",
   "https://icon.sigma-whatsapp.com",
   "https://instagrammalo.blogspot.com",
   "https://ledgrr-com-hlp.wasmer.app",
@@ -45,9 +49,11 @@
   "https://outlook-office365.com",
   "https://paypal-pay.com",
   "https://roblox.com.mu/users/903524346/profile",
+  "https://secureportal-googlelogin.com",
   "https://sigma-whatsapp.com",
   "https://static.wave-whatsapp.com",
   "https://tkau.info",
+  "https://twitterfav.com",
   "https://web-ledger.eng-usa.app/download/ledger-wallet/",
   "https://xfinity-email-net.weebly.com",
   "https://xfinity-email-net.weeblysite.com"

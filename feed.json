@@ -1,5 +1,261 @@
 [
   {
+    "url": "https://accounts-paypal.antimoney-laundering.org",
+    "domain": "accounts-paypal.antimoney-laundering.org",
+    "company": "paypal",
+    "date": "2026-09-10T17:25:54.900330+00:00",
+    "first_seen": "2026-09-10T17:25:54.900330+00:00",
+    "uuid": "04e55703-bf93-496d-992f-165780c91714",
+    "ip": "208.91.197.27",
+    "country": "United States",
+    "asn": "40034",
+    "org": "Confluence Networks Inc",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 1.7
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 23,
+    "verdict": "low"
+  },
+  {
+    "url": "https://secureportal-googlelogin.com",
+    "domain": "secureportal-googlelogin.com",
+    "company": "google",
+    "date": "2026-09-10T17:25:49.656884+00:00",
+    "first_seen": "2026-09-10T17:25:49.656884+00:00",
+    "uuid": "b8d85266-57e1-40fb-a6ac-9e2e72dc3f6a",
+    "ip": "188.114.96.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      }
+    ],
+    "score": 35,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://icloudmyphones.help",
+    "domain": "icloudmyphones.help",
+    "company": "apple",
+    "date": "2026-09-10T17:25:48.802452+00:00",
+    "first_seen": "2026-09-10T17:25:48.802452+00:00",
+    "uuid": "a93a8d1f-9d03-444c-86f6-999c09b34cad",
+    "ip": "31.56.209.65",
+    "country": "The Netherlands",
+    "asn": "209373",
+    "org": "SWISSNET LLC",
+    "cert": "YR1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 24,
+    "verdict": "low"
+  },
+  {
+    "url": "https://49192-coinbase.com",
+    "domain": "49192-coinbase.com",
+    "company": "coinbase",
+    "date": "2026-09-10T17:25:47.480078+00:00",
+    "first_seen": "2026-09-10T17:25:47.480078+00:00",
+    "uuid": "24ea3485-030b-4060-93fa-d045a886b6ad",
+    "ip": "188.114.97.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 30,
+    "verdict": "low"
+  },
+  {
+    "url": "https://ic.account-paypal.antimoney-laundering.org",
+    "domain": "ic.account-paypal.antimoney-laundering.org",
+    "company": "paypal",
+    "date": "2026-09-10T17:25:46.570343+00:00",
+    "first_seen": "2026-09-10T17:25:46.570343+00:00",
+    "uuid": "cc3c0dee-d5c3-42b5-9d99-0950c8327739",
+    "ip": "208.91.197.27",
+    "country": "United States",
+    "asn": "40034",
+    "org": "Confluence Networks Inc",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      },
+      {
+        "signal": "hsts_missing",
+        "label": "No HSTS header",
+        "points": 1.1
+      }
+    ],
+    "score": 21,
+    "verdict": "low"
+  },
+  {
+    "url": "https://twitterfav.com",
+    "domain": "twitterfav.com",
+    "company": "twitter",
+    "date": "2026-09-10T17:06:19.138890+00:00",
+    "first_seen": "2026-09-10T17:06:19.138890+00:00",
+    "uuid": "2095df1c-d3b2-4d15-bfe1-c24738cb65e2",
+    "ip": "104.21.78.121",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "Let's Encrypt",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": true,
+    "top_signals": [],
+    "score": 0,
+    "verdict": "noise"
+  },
+  {
     "url": "http://register-facebook.blogspot.com",
     "domain": "register-facebook.blogspot.com",
     "company": "facebook",
