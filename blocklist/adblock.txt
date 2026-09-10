@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 836
-! Updated: 2026-09-10T04:44:08Z
+! Entries: 832
+! Updated: 2026-09-10T11:20:54Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -54,6 +54,7 @@
 ||amjadraza19.github.io^
 ||ani-facebook.blogspot.com^
 ||anoopsamazon.vercel.app^
+||antimoney-laundering.org^
 ||apk-google.cn^
 ||app-binance.github.io^
 ||app-facebook.blogspot.com^
@@ -119,6 +120,7 @@
 ||cn-spotify.cn^
 ||cn.comm-whatsapp.com^
 ||cn.static-whatsapp.com^
+||coinbase.com.lc^
 ||coinbasebackoffice.exchange^
 ||coinbasee.vip^
 ||coinbaseinvestors.ai^
@@ -132,7 +134,7 @@
 ||comcastnow.weebly.com^
 ||comcastsurvey.weebly.com^
 ||comecome.click^
-||contabostorage.com^
+||correoscri.cc^
 ||correosiicr.cc^
 ||ct.ws^
 ||cz-facebook.blogspot.com^
@@ -232,7 +234,6 @@
 ||facebook-login-it.blogspot.com^
 ||facebook-login-login.blogspot.com^
 ||facebook-login-page-kappa.vercel.app^
-||facebook-login-page-nine.vercel.app^
 ||facebook-login-page-three.vercel.app^
 ||facebook-login-page.blogspot.com^
 ||facebook-login-pages.blogspot.com^
@@ -629,8 +630,6 @@
 ||nr-327439sm32.lol^
 ||nw-facebook.blogspot.com^
 ||office365licensingsupport.com^
-||onedrive-2-zeta.vercel.app^
-||onedrive-58x0.vercel.app^
 ||online-facebook-privacy.blogspot.com^
 ||oortstorages.com^
 ||oovra.club^
@@ -641,6 +640,7 @@
 ||oraclecloud.com^
 ||orbit-whatsapp.com^
 ||ossama-instagram.vercel.app^
+||outlook-office365.com^
 ||outlookindia.com^
 ||outlookmail.social^
 ||page-instagram.vercel.app^
@@ -659,7 +659,6 @@
 ||pe-facebook.blogspot.com^
 ||photo.comm-whatsapp.com^
 ||photo.static-whatsapp.com^
-||pl-96077.icu^
 ||play-google.cam^
 ||playground.static-whatsapp.com^
 ||prajwalkuchewar.github.io^
@@ -687,16 +686,13 @@
 ||reentrega-seur-envio.cloudaccess.host^
 ||register-facebook.blogspot.com^
 ||rekemonedasi-facebook.org^
-||rents.ac^
 ||restoration-google.com^
 ||rev.it^
 ||roblox-login.vercel.app^
-||roblox.com.am^
 ||roblox.com.bi^
 ||roblox.com.bn^
 ||roblox.com.bz^
 ||roblox.com.gr^
-||roblox.com.ml^
 ||roblox.com.ms^
 ||roblox.com.mu^
 ||roblox.com.pt^
@@ -755,12 +751,12 @@
 ||temporary.site^
 ||test-facebook.blogspot.com^
 ||therelayservice.com^
+||tkau.info^
 ||todo--facebook.blogspot.com^
 ||trackingnumbers.org^
 ||transcode.static-whatsapp.com^
 ||trezor-login-us-auth-start.typedream.app^
 ||trezorguide.vercel.app^
-||trezorzlatovna.com^
 ||trust-wallet-bnb.vercel.app^
 ||trust-wallet-contact.vercel.app^
 ||trust-wallet-customer-support-number.github.io^

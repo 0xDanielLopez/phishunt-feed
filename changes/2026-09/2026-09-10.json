@@ -1,11 +1,11 @@
 {
  "date": "2026-09-10",
- "updated": "2026-09-10T04:44:08Z",
+ "updated": "2026-09-10T11:20:54Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 17,
-  "removed": 18
+  "added": 19,
+  "removed": 24
  },
  "added": [
   "http://comcastlogins.weebly.com",
@@ -14,22 +14,27 @@
   "http://www.paypal-pay.com",
   "http://xfinitymailxx.weebly.com",
   "http://xfinityservicexxx.weebly.com",
+  "https://73a2370016b7.us-ux5.paypal-support.antimoney-laundering.org",
   "https://amazon.iqraashraf.dev",
+  "https://coinbase.com.lc",
+  "https://correoscri.cc",
   "https://facebook85.blogspot.com",
   "https://fauziahxvn-cloud.github.io/tugas-facebook",
   "https://https-wvvw-roblox.com/login?returnUrl=1505481875",
   "https://instagrammalo.blogspot.com",
   "https://ledgrr-com-hlp.wasmer.app",
-  "https://onedrive-58x0.vercel.app",
+  "https://outlook-office365.com",
   "https://paypal-pay.com",
-  "https://roblox.com.am/users/233615155373/profile",
-  "https://roblox.com.ml/users/188852656261/profile",
-  "https://roblox.com.mu/users/903524346/profile"
+  "https://roblox.com.mu/users/903524346/profile",
+  "https://tkau.info"
  ],
  "removed": [
   "http://allegro.ippoferta75635423412.sbs",
   "http://allegrolokalnie.ippoferta75635423412.sbs",
+  "http://allegrolokalnie.pl-96077.icu/oferta/garaz-blaszany-magazynek/56761",
   "http://icloud-network.com",
+  "http://onedrive-2-zeta.vercel.app",
+  "http://usc1.contabostorage.com/75aa73034c8149be88bc55a9b9406ac4:secure/adobe/adobe/adobe.html",
   "https://163c.paypal-login.antimoney-laundering.org",
   "https://24-dpd.top",
   "https://73a2370016b7.hrms.account.fr.paypal.antimoney-laundering.org",
@@ -37,13 +42,16 @@
   "https://allegrolokalnie.lokalna-63282.sbs",
   "https://allegrolokalnie.lokalna412955.cfd",
   "https://auth-trezr-login.pages.dev",
+  "https://facebook-login-page-nine.vercel.app",
   "https://facebook-loginrealumber.vercel.app",
   "https://icloud.trienkhaiweb.com",
+  "https://instagram.rents.ac",
   "https://nwhht.account-paypal.antimoney-laundering.org",
   "https://openai-online.net",
   "https://roblox.com.am/users/192693059264/profile",
   "https://roblox.com.ml/users/262136467014/profile",
   "https://roblox.com.mu/users/2370921487/profile",
-  "https://sandbox.paypal-login.antimoney-laundering.org"
+  "https://sandbox.paypal-login.antimoney-laundering.org",
+  "https://trezorzlatovna.com"
  ]
 }

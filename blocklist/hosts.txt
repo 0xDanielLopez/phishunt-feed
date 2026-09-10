@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 836
-# Updated: 2026-09-10T04:44:08Z
+# Entries: 832
+# Updated: 2026-09-10T11:20:53Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -54,6 +54,7 @@
 0.0.0.0 amjadraza19.github.io
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 anoopsamazon.vercel.app
+0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-facebook.blogspot.com
@@ -119,6 +120,7 @@
 0.0.0.0 cn-spotify.cn
 0.0.0.0 cn.comm-whatsapp.com
 0.0.0.0 cn.static-whatsapp.com
+0.0.0.0 coinbase.com.lc
 0.0.0.0 coinbasebackoffice.exchange
 0.0.0.0 coinbasee.vip
 0.0.0.0 coinbaseinvestors.ai
@@ -132,7 +134,7 @@
 0.0.0.0 comcastnow.weebly.com
 0.0.0.0 comcastsurvey.weebly.com
 0.0.0.0 comecome.click
-0.0.0.0 contabostorage.com
+0.0.0.0 correoscri.cc
 0.0.0.0 correosiicr.cc
 0.0.0.0 ct.ws
 0.0.0.0 cz-facebook.blogspot.com
@@ -232,7 +234,6 @@
 0.0.0.0 facebook-login-it.blogspot.com
 0.0.0.0 facebook-login-login.blogspot.com
 0.0.0.0 facebook-login-page-kappa.vercel.app
-0.0.0.0 facebook-login-page-nine.vercel.app
 0.0.0.0 facebook-login-page-three.vercel.app
 0.0.0.0 facebook-login-page.blogspot.com
 0.0.0.0 facebook-login-pages.blogspot.com
@@ -629,8 +630,6 @@
 0.0.0.0 nr-327439sm32.lol
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 office365licensingsupport.com
-0.0.0.0 onedrive-2-zeta.vercel.app
-0.0.0.0 onedrive-58x0.vercel.app
 0.0.0.0 online-facebook-privacy.blogspot.com
 0.0.0.0 oortstorages.com
 0.0.0.0 oovra.club
@@ -641,6 +640,7 @@
 0.0.0.0 oraclecloud.com
 0.0.0.0 orbit-whatsapp.com
 0.0.0.0 ossama-instagram.vercel.app
+0.0.0.0 outlook-office365.com
 0.0.0.0 outlookindia.com
 0.0.0.0 outlookmail.social
 0.0.0.0 page-instagram.vercel.app
@@ -659,7 +659,6 @@
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 photo.comm-whatsapp.com
 0.0.0.0 photo.static-whatsapp.com
-0.0.0.0 pl-96077.icu
 0.0.0.0 play-google.cam
 0.0.0.0 playground.static-whatsapp.com
 0.0.0.0 prajwalkuchewar.github.io
@@ -687,16 +686,13 @@
 0.0.0.0 reentrega-seur-envio.cloudaccess.host
 0.0.0.0 register-facebook.blogspot.com
 0.0.0.0 rekemonedasi-facebook.org
-0.0.0.0 rents.ac
 0.0.0.0 restoration-google.com
 0.0.0.0 rev.it
 0.0.0.0 roblox-login.vercel.app
-0.0.0.0 roblox.com.am
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bz
 0.0.0.0 roblox.com.gr
-0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.ms
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
@@ -755,12 +751,12 @@
 0.0.0.0 temporary.site
 0.0.0.0 test-facebook.blogspot.com
 0.0.0.0 therelayservice.com
+0.0.0.0 tkau.info
 0.0.0.0 todo--facebook.blogspot.com
 0.0.0.0 trackingnumbers.org
 0.0.0.0 transcode.static-whatsapp.com
 0.0.0.0 trezor-login-us-auth-start.typedream.app
 0.0.0.0 trezorguide.vercel.app
-0.0.0.0 trezorzlatovna.com
 0.0.0.0 trust-wallet-bnb.vercel.app
 0.0.0.0 trust-wallet-contact.vercel.app
 0.0.0.0 trust-wallet-customer-support-number.github.io
