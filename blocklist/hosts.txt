@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 832
-# Updated: 2026-09-10T11:20:53Z
+# Entries: 843
+# Updated: 2026-09-10T16:24:55Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -27,6 +27,7 @@
 0.0.0.0 accounts-facebook.blogspot.com
 0.0.0.0 accounts-google-login.github.io
 0.0.0.0 accounts-mail-google.com
+0.0.0.0 adobeforbusiness.com
 0.0.0.0 ahmadhussain99.github.io
 0.0.0.0 alibaba-taobaol.cn
 0.0.0.0 alibaba188.org
@@ -54,7 +55,6 @@
 0.0.0.0 amjadraza19.github.io
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 anoopsamazon.vercel.app
-0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-facebook.blogspot.com
@@ -65,6 +65,7 @@
 0.0.0.0 asset.static-whatsapp.com
 0.0.0.0 assign-icloud.com
 0.0.0.0 authorised-support.com
+0.0.0.0 avaturefed.net
 0.0.0.0 avlinfo.in
 0.0.0.0 axm-amazon.com
 0.0.0.0 aziizmusyafa18.github.io
@@ -120,6 +121,7 @@
 0.0.0.0 cn-spotify.cn
 0.0.0.0 cn.comm-whatsapp.com
 0.0.0.0 cn.static-whatsapp.com
+0.0.0.0 coinbase-event.vercel.app
 0.0.0.0 coinbase.com.lc
 0.0.0.0 coinbasebackoffice.exchange
 0.0.0.0 coinbasee.vip
@@ -128,6 +130,7 @@
 0.0.0.0 comcast2.vercel.app
 0.0.0.0 comcastcarebusiness.weebly.com
 0.0.0.0 comcastcommunicationonline.weebly.com
+0.0.0.0 comcastlog.weebly.com
 0.0.0.0 comcastlogins.weebly.com
 0.0.0.0 comcastnetmail.weebly.com
 0.0.0.0 comcastnetmailservice.weebly.com
@@ -136,6 +139,7 @@
 0.0.0.0 comecome.click
 0.0.0.0 correoscri.cc
 0.0.0.0 correosiicr.cc
+0.0.0.0 coxilab.de
 0.0.0.0 ct.ws
 0.0.0.0 cz-facebook.blogspot.com
 0.0.0.0 daservglobal.com
@@ -167,9 +171,11 @@
 0.0.0.0 ebayfoll.store
 0.0.0.0 ebaymevip.com
 0.0.0.0 edgeone.app
+0.0.0.0 edgeone.dev
 0.0.0.0 email-microsoft.com
 0.0.0.0 emersondasilva-dev.github.io
 0.0.0.0 empresas-hsbc.com
+0.0.0.0 eng-usa.app
 0.0.0.0 epsilons.co
 0.0.0.0 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
 0.0.0.0 eu-facebook.blogspot.com
@@ -197,6 +203,7 @@
 0.0.0.0 facebook-astuces-news.blogspot.com
 0.0.0.0 facebook-auto-liker.blogspot.com
 0.0.0.0 facebook-ba.blogspot.com
+0.0.0.0 facebook-bay.vercel.app
 0.0.0.0 facebook-benjamin.blogspot.com
 0.0.0.0 facebook-blond.vercel.app
 0.0.0.0 facebook-ca.blogspot.com
@@ -360,7 +367,6 @@
 0.0.0.0 facebookzaman.blogspot.com
 0.0.0.0 fauziahxvn-cloud.github.io
 0.0.0.0 fedex-olive.vercel.app
-0.0.0.0 fedex-srl.com
 0.0.0.0 fedexinterviewprep.com
 0.0.0.0 ffmka.club
 0.0.0.0 fifa-store.shop
@@ -488,9 +494,7 @@
 0.0.0.0 instagramloginpassword.blogspot.com
 0.0.0.0 instagrammalo.blogspot.com
 0.0.0.0 instagramrecovery.blogspot.com
-0.0.0.0 instagramsecurityhelpline-rgb.github.io
 0.0.0.0 instagramsnp.blogspot.com
-0.0.0.0 instagramsupportsegurity.github.io
 0.0.0.0 instagramsupportverify.blogspot.com
 0.0.0.0 instagramunblockedd.vercel.app
 0.0.0.0 instagramusicabrasilinstagram.blogspot.com
@@ -544,6 +548,7 @@
 0.0.0.0 ly-facebook.blogspot.com
 0.0.0.0 m365-microsoft.com
 0.0.0.0 m4ntapaset.ink
+0.0.0.0 mail-xfinitylogin.weebly.com
 0.0.0.0 mail.static-whatsapp.com
 0.0.0.0 manish1719.github.io
 0.0.0.0 mb-facebook.blogspot.com
@@ -553,6 +558,7 @@
 0.0.0.0 meet.static-whatsapp.com
 0.0.0.0 mehdi-bellache.github.io
 0.0.0.0 meme-facebook.blogspot.com
+0.0.0.0 metamask-ai-agent.vercel.app
 0.0.0.0 metamask-connect.vercel.app
 0.0.0.0 metamask-dev-dashboard-feat-remove-prora-consensys-ddffed67.vercel.app
 0.0.0.0 metamask-docs-45ta0ykbu-consensys-ddffed67.vercel.app
@@ -564,6 +570,7 @@
 0.0.0.0 metamask-wallet.vercel.app
 0.0.0.0 metamask-web.vercel.app
 0.0.0.0 metamask.github.io
+0.0.0.0 metamask2-eight.vercel.app
 0.0.0.0 metamask88.com
 0.0.0.0 metamaskcasino.de
 0.0.0.0 metamaskcasino.de.com
@@ -616,7 +623,6 @@
 0.0.0.0 netflixbymanoj.vercel.app
 0.0.0.0 netflixcasino.co.it
 0.0.0.0 netflixfeitoaqui.com.br
-0.0.0.0 netflixhasnohomepage.com
 0.0.0.0 netflixquebec.blogspot.com
 0.0.0.0 netflixreviewflix.com
 0.0.0.0 netflixtoto.xyz
@@ -627,7 +633,6 @@
 0.0.0.0 network-facebook.blogspot.com
 0.0.0.0 news.static-whatsapp.com
 0.0.0.0 noreply-icloud.app
-0.0.0.0 nr-327439sm32.lol
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 online-facebook-privacy.blogspot.com
@@ -686,6 +691,7 @@
 0.0.0.0 reentrega-seur-envio.cloudaccess.host
 0.0.0.0 register-facebook.blogspot.com
 0.0.0.0 rekemonedasi-facebook.org
+0.0.0.0 rents.ac
 0.0.0.0 restoration-google.com
 0.0.0.0 rev.it
 0.0.0.0 roblox-login.vercel.app
@@ -693,6 +699,7 @@
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bz
 0.0.0.0 roblox.com.gr
+0.0.0.0 roblox.com.kz
 0.0.0.0 roblox.com.ms
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
@@ -766,7 +773,6 @@
 0.0.0.0 trustwallet-secure-check.vercel.app
 0.0.0.0 trustwallet-tokentwtowner.vercel.app
 0.0.0.0 trustwalletsupport.dev
-0.0.0.0 trustwalletsupport455-crypto.github.io
 0.0.0.0 twineapp.com
 0.0.0.0 twinehr.com
 0.0.0.0 uk-facebook.blogspot.com
@@ -795,6 +801,7 @@
 0.0.0.0 web-trezor-io-start-us.vercel.app
 0.0.0.0 webaccess-alert.com
 0.0.0.0 webstore.vn
+0.0.0.0 weeblysite.com
 0.0.0.0 weekly.comm-whatsapp.com
 0.0.0.0 wegoupupup.com
 0.0.0.0 wellsfargo-worl.vercel.app
@@ -821,13 +828,16 @@
 0.0.0.0 www2-facebook.com
 0.0.0.0 wwww-linkedin.be
 0.0.0.0 x-comcast.weebly.com
+0.0.0.0 xfinity-email-net.weebly.com
 0.0.0.0 xfinity-mail-user.weebly.com
 0.0.0.0 xfinity2.vercel.app
 0.0.0.0 xfinityis.weebly.com
+0.0.0.0 xfinitymailnow.weebly.com
 0.0.0.0 xfinitymailxx.weebly.com
 0.0.0.0 xfinitynow.weebly.com
 0.0.0.0 xfinityservices.vercel.app
 0.0.0.0 xfinityservicexxx.weebly.com
+0.0.0.0 xfinitysupportnow.weebly.com
 0.0.0.0 xfinityttt.weebly.com
 0.0.0.0 xfinitywindowfilms.com
 0.0.0.0 yagomouro.github.io
@@ -838,3 +848,4 @@
 0.0.0.0 z-instagram.blogspot.com
 0.0.0.0 zelleria.shop
 0.0.0.0 zeta-facebook.blogspot.com
+0.0.0.0 zoecondominios.com.br

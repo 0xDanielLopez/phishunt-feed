@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 832
-! Updated: 2026-09-10T11:20:54Z
+! Entries: 843
+! Updated: 2026-09-10T16:24:56Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -27,6 +27,7 @@
 ||accounts-facebook.blogspot.com^
 ||accounts-google-login.github.io^
 ||accounts-mail-google.com^
+||adobeforbusiness.com^
 ||ahmadhussain99.github.io^
 ||alibaba-taobaol.cn^
 ||alibaba188.org^
@@ -54,7 +55,6 @@
 ||amjadraza19.github.io^
 ||ani-facebook.blogspot.com^
 ||anoopsamazon.vercel.app^
-||antimoney-laundering.org^
 ||apk-google.cn^
 ||app-binance.github.io^
 ||app-facebook.blogspot.com^
@@ -65,6 +65,7 @@
 ||asset.static-whatsapp.com^
 ||assign-icloud.com^
 ||authorised-support.com^
+||avaturefed.net^
 ||avlinfo.in^
 ||axm-amazon.com^
 ||aziizmusyafa18.github.io^
@@ -120,6 +121,7 @@
 ||cn-spotify.cn^
 ||cn.comm-whatsapp.com^
 ||cn.static-whatsapp.com^
+||coinbase-event.vercel.app^
 ||coinbase.com.lc^
 ||coinbasebackoffice.exchange^
 ||coinbasee.vip^
@@ -128,6 +130,7 @@
 ||comcast2.vercel.app^
 ||comcastcarebusiness.weebly.com^
 ||comcastcommunicationonline.weebly.com^
+||comcastlog.weebly.com^
 ||comcastlogins.weebly.com^
 ||comcastnetmail.weebly.com^
 ||comcastnetmailservice.weebly.com^
@@ -136,6 +139,7 @@
 ||comecome.click^
 ||correoscri.cc^
 ||correosiicr.cc^
+||coxilab.de^
 ||ct.ws^
 ||cz-facebook.blogspot.com^
 ||daservglobal.com^
@@ -167,9 +171,11 @@
 ||ebayfoll.store^
 ||ebaymevip.com^
 ||edgeone.app^
+||edgeone.dev^
 ||email-microsoft.com^
 ||emersondasilva-dev.github.io^
 ||empresas-hsbc.com^
+||eng-usa.app^
 ||epsilons.co^
 ||erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org^
 ||eu-facebook.blogspot.com^
@@ -197,6 +203,7 @@
 ||facebook-astuces-news.blogspot.com^
 ||facebook-auto-liker.blogspot.com^
 ||facebook-ba.blogspot.com^
+||facebook-bay.vercel.app^
 ||facebook-benjamin.blogspot.com^
 ||facebook-blond.vercel.app^
 ||facebook-ca.blogspot.com^
@@ -360,7 +367,6 @@
 ||facebookzaman.blogspot.com^
 ||fauziahxvn-cloud.github.io^
 ||fedex-olive.vercel.app^
-||fedex-srl.com^
 ||fedexinterviewprep.com^
 ||ffmka.club^
 ||fifa-store.shop^
@@ -488,9 +494,7 @@
 ||instagramloginpassword.blogspot.com^
 ||instagrammalo.blogspot.com^
 ||instagramrecovery.blogspot.com^
-||instagramsecurityhelpline-rgb.github.io^
 ||instagramsnp.blogspot.com^
-||instagramsupportsegurity.github.io^
 ||instagramsupportverify.blogspot.com^
 ||instagramunblockedd.vercel.app^
 ||instagramusicabrasilinstagram.blogspot.com^
@@ -544,6 +548,7 @@
 ||ly-facebook.blogspot.com^
 ||m365-microsoft.com^
 ||m4ntapaset.ink^
+||mail-xfinitylogin.weebly.com^
 ||mail.static-whatsapp.com^
 ||manish1719.github.io^
 ||mb-facebook.blogspot.com^
@@ -553,6 +558,7 @@
 ||meet.static-whatsapp.com^
 ||mehdi-bellache.github.io^
 ||meme-facebook.blogspot.com^
+||metamask-ai-agent.vercel.app^
 ||metamask-connect.vercel.app^
 ||metamask-dev-dashboard-feat-remove-prora-consensys-ddffed67.vercel.app^
 ||metamask-docs-45ta0ykbu-consensys-ddffed67.vercel.app^
@@ -564,6 +570,7 @@
 ||metamask-wallet.vercel.app^
 ||metamask-web.vercel.app^
 ||metamask.github.io^
+||metamask2-eight.vercel.app^
 ||metamask88.com^
 ||metamaskcasino.de^
 ||metamaskcasino.de.com^
@@ -616,7 +623,6 @@
 ||netflixbymanoj.vercel.app^
 ||netflixcasino.co.it^
 ||netflixfeitoaqui.com.br^
-||netflixhasnohomepage.com^
 ||netflixquebec.blogspot.com^
 ||netflixreviewflix.com^
 ||netflixtoto.xyz^
@@ -627,7 +633,6 @@
 ||network-facebook.blogspot.com^
 ||news.static-whatsapp.com^
 ||noreply-icloud.app^
-||nr-327439sm32.lol^
 ||nw-facebook.blogspot.com^
 ||office365licensingsupport.com^
 ||online-facebook-privacy.blogspot.com^
@@ -686,6 +691,7 @@
 ||reentrega-seur-envio.cloudaccess.host^
 ||register-facebook.blogspot.com^
 ||rekemonedasi-facebook.org^
+||rents.ac^
 ||restoration-google.com^
 ||rev.it^
 ||roblox-login.vercel.app^
@@ -693,6 +699,7 @@
 ||roblox.com.bn^
 ||roblox.com.bz^
 ||roblox.com.gr^
+||roblox.com.kz^
 ||roblox.com.ms^
 ||roblox.com.mu^
 ||roblox.com.pt^
@@ -766,7 +773,6 @@
 ||trustwallet-secure-check.vercel.app^
 ||trustwallet-tokentwtowner.vercel.app^
 ||trustwalletsupport.dev^
-||trustwalletsupport455-crypto.github.io^
 ||twineapp.com^
 ||twinehr.com^
 ||uk-facebook.blogspot.com^
@@ -795,6 +801,7 @@
 ||web-trezor-io-start-us.vercel.app^
 ||webaccess-alert.com^
 ||webstore.vn^
+||weeblysite.com^
 ||weekly.comm-whatsapp.com^
 ||wegoupupup.com^
 ||wellsfargo-worl.vercel.app^
@@ -821,13 +828,16 @@
 ||www2-facebook.com^
 ||wwww-linkedin.be^
 ||x-comcast.weebly.com^
+||xfinity-email-net.weebly.com^
 ||xfinity-mail-user.weebly.com^
 ||xfinity2.vercel.app^
 ||xfinityis.weebly.com^
+||xfinitymailnow.weebly.com^
 ||xfinitymailxx.weebly.com^
 ||xfinitynow.weebly.com^
 ||xfinityservices.vercel.app^
 ||xfinityservicexxx.weebly.com^
+||xfinitysupportnow.weebly.com^
 ||xfinityttt.weebly.com^
 ||xfinitywindowfilms.com^
 ||yagomouro.github.io^
@@ -838,3 +848,4 @@
 ||z-instagram.blogspot.com^
 ||zelleria.shop^
 ||zeta-facebook.blogspot.com^
+||zoecondominios.com.br^
