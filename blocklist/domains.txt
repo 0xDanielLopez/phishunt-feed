@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 839
-# Updated: 2026-09-09T20:56:25Z
+# Entries: 836
+# Updated: 2026-09-10T04:44:07Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -8,16 +8,12 @@
 
 01felipeaugusto-star.github.io
 123-facebook.blogspot.com
-163c.paypal-login.antimoney-laundering.org
 164196-coinbase.com
 2017-facebook.blogspot.com
-24-dpd.top
 283674-coinbase.com
 286364-coinbase.com
 393bet-facebook.sa.com
 54893-coinbase.com
-73a2370016b7.hrms.account.fr.paypal.antimoney-laundering.org
-73a2370016b7.y.paypal-support.antimoney-laundering.org
 818144-kraken.com
 818393-kraken.com
 818920-kraken.com
@@ -67,7 +63,6 @@ armankhan-12.github.io
 asif.me
 asset.static-whatsapp.com
 assign-icloud.com
-auth-trezr-login.pages.dev
 authorised-support.com
 avlinfo.in
 axm-amazon.com
@@ -131,6 +126,7 @@ coinbaseweb3wallets.com
 comcast2.vercel.app
 comcastcarebusiness.weebly.com
 comcastcommunicationonline.weebly.com
+comcastlogins.weebly.com
 comcastnetmail.weebly.com
 comcastnetmailservice.weebly.com
 comcastnow.weebly.com
@@ -245,7 +241,6 @@ facebook-login-web.blogspot.com
 facebook-login.vercel.app
 facebook-login0.blogspot.com
 facebook-loging.blogspot.com
-facebook-loginrealumber.vercel.app
 facebook-logo.blogspot.com
 facebook-main.vercel.app
 facebook-mark.blogspot.com
@@ -297,6 +292,7 @@ facebook-vu.blogspot.com
 facebook-www.blogspot.com
 facebook1019key.blogspot.com
 facebook7-facebook.blogspot.com
+facebook85.blogspot.com
 facebookaccountsmanager.blogspot.com
 facebookahla.blogspot.com
 facebookbfacebook.blogspot.com
@@ -361,6 +357,7 @@ facebookverifyyouraccount.blogspot.com
 facebookweb.github.io
 facebookwebsite9.blogspot.com
 facebookzaman.blogspot.com
+fauziahxvn-cloud.github.io
 fedex-olive.vercel.app
 fedex-srl.com
 fedexinterviewprep.com
@@ -427,7 +424,7 @@ hotmail143.net
 hsbc-sec.com
 hsbc.dev
 hsbcpress.com
-icloud-network.com
+https-wvvw-roblox.com
 icloud-sharedalbum.com
 ideeo.mx
 ifotografix.co.uk
@@ -488,6 +485,7 @@ instagramlogin77.blogspot.com
 instagramlogin99.blogspot.com
 instagramloginpage111.blogspot.com
 instagramloginpassword.blogspot.com
+instagrammalo.blogspot.com
 instagramrecovery.blogspot.com
 instagramsecurityhelpline-rgb.github.io
 instagramsnp.blogspot.com
@@ -496,7 +494,7 @@ instagramsupportverify.blogspot.com
 instagramunblockedd.vercel.app
 instagramusicabrasilinstagram.blogspot.com
 internal-alerts.com
-ippoferta75635423412.sbs
+iqraashraf.dev
 isha-dev.com
 itau-snowy.vercel.app
 itauu.vercel.app
@@ -533,12 +531,11 @@ login-facebookaccount.blogspot.com
 login-my-facebook.blogspot.com
 login-page-instagram.blogspot.com
 login-page-instagram.vercel.app
+login-xfinity-now.weebly.com
 login.rmdbwskx.santander.bimp-bot.duckdns.org
 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 loginfacebook-facebook.blogspot.com
 logowanie-facebook.vercel.app
-lokalna-63282.sbs
-lokalna412955.cfd
 love-facebook.blogspot.com
 lovefive-facebook.blogspot.com
 lovevivah.com
@@ -631,14 +628,13 @@ news.static-whatsapp.com
 noreply-icloud.app
 nr-327439sm32.lol
 nw-facebook.blogspot.com
-nwhht.account-paypal.antimoney-laundering.org
 office365licensingsupport.com
 onedrive-2-zeta.vercel.app
+onedrive-58x0.vercel.app
 online-facebook-privacy.blogspot.com
 oortstorages.com
 oovra.club
 openai-coin.com
-openai-online.net
 opensea-six.vercel.app
 openseaproks007.vercel.app
 openseavxr.vercel.app
@@ -653,6 +649,7 @@ patch.static-whatsapp.com
 paykmc.com
 paypal-logiin.blogspot.com
 paypal-password.blogspot.com
+paypal-pay.com
 paypal-refund.com
 paypal-secure.vercel.app
 paypal-signin.blogspot.com
@@ -709,7 +706,6 @@ rushikesh-rane.github.io
 s-facebook.blogspot.com
 samplel-ks6yxvur5-instagramm.vercel.app
 sandbox.comm-whatsapp.com
-sandbox.paypal-login.antimoney-laundering.org
 sandbox.static-whatsapp.com
 santander-dev-week.vercel.app
 santanderbank.shop
@@ -765,7 +761,6 @@ transcode.static-whatsapp.com
 trezor-login-us-auth-start.typedream.app
 trezorguide.vercel.app
 trezorzlatovna.com
-trienkhaiweb.com
 trust-wallet-bnb.vercel.app
 trust-wallet-contact.vercel.app
 trust-wallet-customer-support-number.github.io
@@ -833,8 +828,10 @@ x-comcast.weebly.com
 xfinity-mail-user.weebly.com
 xfinity2.vercel.app
 xfinityis.weebly.com
+xfinitymailxx.weebly.com
 xfinitynow.weebly.com
 xfinityservices.vercel.app
+xfinityservicexxx.weebly.com
 xfinityttt.weebly.com
 xfinitywindowfilms.com
 yagomouro.github.io

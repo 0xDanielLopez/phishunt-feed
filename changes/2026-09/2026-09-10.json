@@ -1,0 +1,49 @@
+{
+ "date": "2026-09-10",
+ "updated": "2026-09-10T04:44:08Z",
+ "source": "https://phishunt.io/feed.txt",
+ "license": "CC0-1.0",
+ "counts": {
+  "added": 17,
+  "removed": 18
+ },
+ "added": [
+  "http://comcastlogins.weebly.com",
+  "http://login-xfinity-now.weebly.com",
+  "http://main.wave-whatsapp.com",
+  "http://www.paypal-pay.com",
+  "http://xfinitymailxx.weebly.com",
+  "http://xfinityservicexxx.weebly.com",
+  "https://amazon.iqraashraf.dev",
+  "https://facebook85.blogspot.com",
+  "https://fauziahxvn-cloud.github.io/tugas-facebook",
+  "https://https-wvvw-roblox.com/login?returnUrl=1505481875",
+  "https://instagrammalo.blogspot.com",
+  "https://ledgrr-com-hlp.wasmer.app",
+  "https://onedrive-58x0.vercel.app",
+  "https://paypal-pay.com",
+  "https://roblox.com.am/users/233615155373/profile",
+  "https://roblox.com.ml/users/188852656261/profile",
+  "https://roblox.com.mu/users/903524346/profile"
+ ],
+ "removed": [
+  "http://allegro.ippoferta75635423412.sbs",
+  "http://allegrolokalnie.ippoferta75635423412.sbs",
+  "http://icloud-network.com",
+  "https://163c.paypal-login.antimoney-laundering.org",
+  "https://24-dpd.top",
+  "https://73a2370016b7.hrms.account.fr.paypal.antimoney-laundering.org",
+  "https://73a2370016b7.y.paypal-support.antimoney-laundering.org",
+  "https://allegrolokalnie.lokalna-63282.sbs",
+  "https://allegrolokalnie.lokalna412955.cfd",
+  "https://auth-trezr-login.pages.dev",
+  "https://facebook-loginrealumber.vercel.app",
+  "https://icloud.trienkhaiweb.com",
+  "https://nwhht.account-paypal.antimoney-laundering.org",
+  "https://openai-online.net",
+  "https://roblox.com.am/users/192693059264/profile",
+  "https://roblox.com.ml/users/262136467014/profile",
+  "https://roblox.com.mu/users/2370921487/profile",
+  "https://sandbox.paypal-login.antimoney-laundering.org"
+ ]
+}
