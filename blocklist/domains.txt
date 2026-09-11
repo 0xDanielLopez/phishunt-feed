@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 836
-# Updated: 2026-09-11T11:22:34Z
+# Entries: 841
+# Updated: 2026-09-11T16:29:17Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -10,6 +10,7 @@
 123-facebook.blogspot.com
 164196-coinbase.com
 2017-facebook.blogspot.com
+2390as92358.pics
 283674-coinbase.com
 286364-coinbase.com
 393bet-facebook.sa.com
@@ -49,7 +50,6 @@ amazon-opfq.vercel.app
 amazon-promos.shop
 amazon-ten-gamma.vercel.app
 amazon-web-inspired.vercel.app
-amazonbookawards.com
 americanexpresspop.com
 amirrhasanpor0915-pixel.github.io
 amjadraza19.github.io
@@ -96,6 +96,7 @@ binancereferralid.github.io
 binanceuz.co
 binancewallett.blogspot.com
 biowikiweb.com
+blamedame.com
 bmb.adv.br
 bnb-trust-wallet.vercel.app
 bnext.es
@@ -172,6 +173,7 @@ ebaymevip.com
 edgeone.dev
 email-microsoft.com
 emersondasilva-dev.github.io
+emmanueldegreatltd.com
 empresas-hsbc.com
 eng-usa.app
 epsilons.co
@@ -510,7 +512,9 @@ jwb-facebook.blogspot.com
 kavishkadileepa01.github.io
 kenhoward.com
 kraken-tor.co.com
+kuc0in-log.godaddysites.com
 kucoinloign.gitbook.io
+kucoins-signin.com
 kucoinv.com
 lateinos.com.br
 ledger-live-cdn-auth.netlify.app
@@ -686,7 +690,6 @@ reentrega-seur-envio.cloudaccess.host
 register-facebook.blogspot.com
 rekemonedasi-facebook.org
 rents.ac
-restoration-google.com
 rev.it
 roblox-login.vercel.app
 roblox.com.bi
@@ -718,6 +721,7 @@ secutury-facebook.blogspot.com
 sena-facebook.blogspot.com
 services-facebook.blogspot.com
 seureonline.shop
+sgn-1.com
 sheokand9806.github.io
 shop.static-whatsapp.com
 shruuti-005.github.io
@@ -747,6 +751,7 @@ support-instagram.github.io
 support-ledgrcom-start-web.typedream.app
 support.zoom.us.pro.kaisarstore.dpdns.org
 support.zoom.us.vip.kaisarstore.dpdns.org
+tailbe60c2.ts.net
 tamires-ramos.github.io
 tanish-ashu.github.io
 tanishq98714.github.io

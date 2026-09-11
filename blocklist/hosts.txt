@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 836
-# Updated: 2026-09-11T11:22:35Z
+# Entries: 841
+# Updated: 2026-09-11T16:29:17Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -10,6 +10,7 @@
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 164196-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
+0.0.0.0 2390as92358.pics
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
 0.0.0.0 393bet-facebook.sa.com
@@ -49,7 +50,6 @@
 0.0.0.0 amazon-promos.shop
 0.0.0.0 amazon-ten-gamma.vercel.app
 0.0.0.0 amazon-web-inspired.vercel.app
-0.0.0.0 amazonbookawards.com
 0.0.0.0 americanexpresspop.com
 0.0.0.0 amirrhasanpor0915-pixel.github.io
 0.0.0.0 amjadraza19.github.io
@@ -96,6 +96,7 @@
 0.0.0.0 binanceuz.co
 0.0.0.0 binancewallett.blogspot.com
 0.0.0.0 biowikiweb.com
+0.0.0.0 blamedame.com
 0.0.0.0 bmb.adv.br
 0.0.0.0 bnb-trust-wallet.vercel.app
 0.0.0.0 bnext.es
@@ -172,6 +173,7 @@
 0.0.0.0 edgeone.dev
 0.0.0.0 email-microsoft.com
 0.0.0.0 emersondasilva-dev.github.io
+0.0.0.0 emmanueldegreatltd.com
 0.0.0.0 empresas-hsbc.com
 0.0.0.0 eng-usa.app
 0.0.0.0 epsilons.co
@@ -510,7 +512,9 @@
 0.0.0.0 kavishkadileepa01.github.io
 0.0.0.0 kenhoward.com
 0.0.0.0 kraken-tor.co.com
+0.0.0.0 kuc0in-log.godaddysites.com
 0.0.0.0 kucoinloign.gitbook.io
+0.0.0.0 kucoins-signin.com
 0.0.0.0 kucoinv.com
 0.0.0.0 lateinos.com.br
 0.0.0.0 ledger-live-cdn-auth.netlify.app
@@ -686,7 +690,6 @@
 0.0.0.0 register-facebook.blogspot.com
 0.0.0.0 rekemonedasi-facebook.org
 0.0.0.0 rents.ac
-0.0.0.0 restoration-google.com
 0.0.0.0 rev.it
 0.0.0.0 roblox-login.vercel.app
 0.0.0.0 roblox.com.bi
@@ -718,6 +721,7 @@
 0.0.0.0 sena-facebook.blogspot.com
 0.0.0.0 services-facebook.blogspot.com
 0.0.0.0 seureonline.shop
+0.0.0.0 sgn-1.com
 0.0.0.0 sheokand9806.github.io
 0.0.0.0 shop.static-whatsapp.com
 0.0.0.0 shruuti-005.github.io
@@ -747,6 +751,7 @@
 0.0.0.0 support-ledgrcom-start-web.typedream.app
 0.0.0.0 support.zoom.us.pro.kaisarstore.dpdns.org
 0.0.0.0 support.zoom.us.vip.kaisarstore.dpdns.org
+0.0.0.0 tailbe60c2.ts.net
 0.0.0.0 tamires-ramos.github.io
 0.0.0.0 tanish-ashu.github.io
 0.0.0.0 tanishq98714.github.io
