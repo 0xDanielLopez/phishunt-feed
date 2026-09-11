@@ -1,16 +1,17 @@
 {
  "date": "2026-09-11",
- "updated": "2026-09-11T16:29:18Z",
+ "updated": "2026-09-11T20:58:35Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 20,
+  "added": 25,
   "removed": 27
  },
  "added": [
   "http://bankofamerica-uscom.vercel.app",
   "http://bnb-trust-wallet.vercel.app",
   "http://es-ibercaja.blamedame.com/signin/login.html",
+  "http://gateway.okta-whatsapp.com",
   "http://kuc0in-log.godaddysites.com",
   "http://microsoft-advertising-authentification.sgn-1.com/signin/login.html",
   "http://sign-in-to-xfinity-090.weebly.com",
@@ -27,7 +28,11 @@
   "https://netflix.tailbe60c2.ts.net/login.html",
   "https://roblox.com.hr/users/2382934507/profile",
   "https://roblox.com.ml/users/334942678738/profile",
-  "https://uspsstampstogo.com"
+  "https://spotifypremium.live",
+  "https://t54632-kraken.com",
+  "https://uspsstampstogo.com",
+  "https://whatsapp-inv.icu",
+  "https://whatsapph.com"
  ],
  "removed": [
   "http://comcastcommunicationonline.weebly.com",

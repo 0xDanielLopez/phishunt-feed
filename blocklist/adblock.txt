@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 841
-! Updated: 2026-09-11T16:29:18Z
+! Entries: 846
+! Updated: 2026-09-11T20:58:35Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -633,6 +633,7 @@
 ||noreply-icloud.app^
 ||nw-facebook.blogspot.com^
 ||office365licensingsupport.com^
+||okta-whatsapp.com^
 ||online-facebook-privacy.blogspot.com^
 ||oortstorages.com^
 ||oovra.club^
@@ -736,6 +737,7 @@
 ||spotify-payment.click^
 ||spotify-plus.com^
 ||spotify25.netlify.app^
+||spotifypremium.live^
 ||srpska-banka.com^
 ||sso-ledger-live-strt-ledger-support-cdn.typedream.app^
 ||start-ledgren.zapier.app^
@@ -751,6 +753,7 @@
 ||support-ledgrcom-start-web.typedream.app^
 ||support.zoom.us.pro.kaisarstore.dpdns.org^
 ||support.zoom.us.vip.kaisarstore.dpdns.org^
+||t54632-kraken.com^
 ||tailbe60c2.ts.net^
 ||tamires-ramos.github.io^
 ||tanish-ashu.github.io^
@@ -809,11 +812,13 @@
 ||whatsapp-fast.vercel.app^
 ||whatsapp-iamsuyash.vercel.app^
 ||whatsapp-indonesia877.blogspot.com^
+||whatsapp-inv.icu^
 ||whatsapp-verify.blogspot.com^
 ||whatsappapk.org^
 ||whatsappbrnoticias.blogspot.com^
 ||whatsappcampaign.online^
 ||whatsappfreewhatsapp.blogspot.com^
+||whatsapph.com^
 ||whatsappq.com^
 ||whatsappzoeiras.blogspot.com^
 ||windows-ledger-live.typedream.app^

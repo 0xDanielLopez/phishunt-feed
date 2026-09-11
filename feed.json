@@ -1,5 +1,287 @@
 [
   {
+    "url": "http://gateway.okta-whatsapp.com",
+    "domain": "gateway.okta-whatsapp.com",
+    "company": "whatsapp",
+    "date": "2026-09-11T19:01:24.399765+00:00",
+    "first_seen": "2026-09-11T19:01:24.399765+00:00",
+    "uuid": "e02003a0-ded5-43db-b721-a3ae574695dc",
+    "ip": "156.234.67.92",
+    "country": "Hong Kong",
+    "asn": "138415",
+    "org": "Yancy Limited",
+    "cert": "YR1",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 3.5
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      }
+    ],
+    "score": 25,
+    "verdict": "low"
+  },
+  {
+    "url": "https://siyarata-assets-workbench.whatsappapk.org",
+    "domain": "siyarata-assets-workbench.whatsappapk.org",
+    "company": "whatsapp",
+    "date": "2026-09-11T17:27:37.311544+00:00",
+    "first_seen": "2026-09-02T02:59:26.267381+00:00",
+    "uuid": "57297f77-9590-4863-8e56-f20e4c74eddf",
+    "ip": "136.110.11.34",
+    "country": "Singapore",
+    "asn": "396982",
+    "org": "Google LLC",
+    "cert": "Let's Encrypt",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": true,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "urlscan_score",
+        "label": "urlscan.io",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 3.0
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 2.8
+      }
+    ],
+    "score": 24,
+    "verdict": "low"
+  },
+  {
+    "url": "https://whatsapph.com",
+    "domain": "whatsapph.com",
+    "company": "whatsapp",
+    "date": "2026-09-11T17:25:22.029185+00:00",
+    "first_seen": "2026-09-11T17:25:22.029185+00:00",
+    "uuid": "50c10db0-64ab-4b55-bc10-f5479474c9b6",
+    "ip": "188.114.97.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 32,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://whatsapp-inv.icu",
+    "domain": "whatsapp-inv.icu",
+    "company": "whatsapp",
+    "date": "2026-09-11T17:25:21.290149+00:00",
+    "first_seen": "2026-09-11T17:25:21.290149+00:00",
+    "uuid": "2072f7b0-3d1c-4dd0-bfd2-f8f45d551865",
+    "ip": "185.139.214.109",
+    "country": "United States",
+    "asn": "200019",
+    "org": "ALEXHOST SRL",
+    "cert": "YR2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      }
+    ],
+    "score": 29,
+    "verdict": "low"
+  },
+  {
+    "url": "https://t54632-kraken.com",
+    "domain": "t54632-kraken.com",
+    "company": "kraken",
+    "date": "2026-09-11T17:25:20.804475+00:00",
+    "first_seen": "2026-09-11T17:25:20.804475+00:00",
+    "uuid": "1d7427cc-a3ef-4d23-b59e-72c064576fae",
+    "ip": "172.67.189.208",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 2.0
+      }
+    ],
+    "score": 26,
+    "verdict": "low"
+  },
+  {
+    "url": "https://spotifypremium.live",
+    "domain": "spotifypremium.live",
+    "company": "spotify",
+    "date": "2026-09-11T17:25:19.913179+00:00",
+    "first_seen": "2026-09-11T17:25:19.913179+00:00",
+    "uuid": "c3043392-db50-4f81-a16e-aca807667a2a",
+    "ip": "45.14.224.240",
+    "country": "The Netherlands",
+    "asn": "62068",
+    "org": "SpectraIP B.V.",
+    "cert": "YR2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      }
+    ],
+    "score": 27,
+    "verdict": "low"
+  },
+  {
     "url": "http://register-facebook.blogspot.com",
     "domain": "register-facebook.blogspot.com",
     "company": "facebook",
@@ -31112,53 +31394,6 @@
     ],
     "score": 32,
     "verdict": "medium"
-  },
-  {
-    "url": "https://siyarata-assets-workbench.whatsappapk.org",
-    "domain": "siyarata-assets-workbench.whatsappapk.org",
-    "company": "whatsapp",
-    "date": "2026-09-11T15:30:08.343621+00:00",
-    "first_seen": "2026-09-02T02:59:26.267381+00:00",
-    "uuid": "57297f77-9590-4863-8e56-f20e4c74eddf",
-    "ip": "136.110.11.34",
-    "country": "Singapore",
-    "asn": "396982",
-    "org": "Google LLC",
-    "cert": "Let's Encrypt",
-    "malicious_google": false,
-    "malicious_openphish": false,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": true,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "urlscan_score",
-        "label": "urlscan.io",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_apex_label",
-        "label": "Brand in domain label",
-        "points": 3.7
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 3.0
-      },
-      {
-        "signal": "asn_reputation",
-        "label": "ASN reputation",
-        "points": 2.8
-      }
-    ],
-    "score": 24,
-    "verdict": "low"
   },
   {
     "url": "https://steamcommunity-balanceworkshop.shop",

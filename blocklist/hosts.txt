@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 841
-# Updated: 2026-09-11T16:29:17Z
+# Entries: 846
+# Updated: 2026-09-11T20:58:35Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -633,6 +633,7 @@
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 office365licensingsupport.com
+0.0.0.0 okta-whatsapp.com
 0.0.0.0 online-facebook-privacy.blogspot.com
 0.0.0.0 oortstorages.com
 0.0.0.0 oovra.club
@@ -736,6 +737,7 @@
 0.0.0.0 spotify-payment.click
 0.0.0.0 spotify-plus.com
 0.0.0.0 spotify25.netlify.app
+0.0.0.0 spotifypremium.live
 0.0.0.0 srpska-banka.com
 0.0.0.0 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 0.0.0.0 start-ledgren.zapier.app
@@ -751,6 +753,7 @@
 0.0.0.0 support-ledgrcom-start-web.typedream.app
 0.0.0.0 support.zoom.us.pro.kaisarstore.dpdns.org
 0.0.0.0 support.zoom.us.vip.kaisarstore.dpdns.org
+0.0.0.0 t54632-kraken.com
 0.0.0.0 tailbe60c2.ts.net
 0.0.0.0 tamires-ramos.github.io
 0.0.0.0 tanish-ashu.github.io
@@ -809,11 +812,13 @@
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-iamsuyash.vercel.app
 0.0.0.0 whatsapp-indonesia877.blogspot.com
+0.0.0.0 whatsapp-inv.icu
 0.0.0.0 whatsapp-verify.blogspot.com
 0.0.0.0 whatsappapk.org
 0.0.0.0 whatsappbrnoticias.blogspot.com
 0.0.0.0 whatsappcampaign.online
 0.0.0.0 whatsappfreewhatsapp.blogspot.com
+0.0.0.0 whatsapph.com
 0.0.0.0 whatsappq.com
 0.0.0.0 whatsappzoeiras.blogspot.com
 0.0.0.0 windows-ledger-live.typedream.app
