@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 848
-# Updated: 2026-09-10T20:52:57Z
+# Entries: 842
+# Updated: 2026-09-11T04:41:53Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -30,6 +30,7 @@ accounts-google-login.github.io
 accounts-mail-google.com
 adobeforbusiness.com
 ahmadhussain99.github.io
+aishwarya-rathore.github.io
 alibaba-taobaol.cn
 alibaba188.org
 alibaba33.pro
@@ -56,7 +57,6 @@ amirrhasanpor0915-pixel.github.io
 amjadraza19.github.io
 ani-facebook.blogspot.com
 anoopsamazon.vercel.app
-antimoney-laundering.org
 apk-google.cn
 app-binance.github.io
 app-facebook.blogspot.com
@@ -71,6 +71,7 @@ avaturefed.net
 avlinfo.in
 axm-amazon.com
 aziizmusyafa18.github.io
+bankofamerica-uscom.vercel.app
 bankofamericamailcompte.blogspot.com
 bankofamericanonline.com
 barcelona-facebook.blogspot.com
@@ -98,6 +99,7 @@ binanceuz.co
 binancewallett.blogspot.com
 biowikiweb.com
 bmb.adv.br
+bnb-trust-wallet.vercel.app
 bnext.es
 books-facebook.blogspot.com
 brad-facebook.blogspot.com
@@ -125,18 +127,15 @@ cn.comm-whatsapp.com
 cn.static-whatsapp.com
 coinbase-event.vercel.app
 coinbase.com.lc
+coinbase88.top
 coinbasebackoffice.exchange
 coinbasee.vip
 coinbaseinvestors.ai
 coinbaseweb3wallets.com
 comcast2.vercel.app
 comcastcarebusiness.weebly.com
-comcastcommunicationonline.weebly.com
 comcastlog.weebly.com
-comcastlogins.weebly.com
 comcastnetmail.weebly.com
-comcastnetmailservice.weebly.com
-comcastnow.weebly.com
 comcastsurvey.weebly.com
 comecome.click
 correoscri.cc
@@ -302,7 +301,6 @@ facebook-vu.blogspot.com
 facebook-www.blogspot.com
 facebook1019key.blogspot.com
 facebook7-facebook.blogspot.com
-facebook85.blogspot.com
 facebookaccountsmanager.blogspot.com
 facebookahla.blogspot.com
 facebookbfacebook.blogspot.com
@@ -367,7 +365,6 @@ facebookverifyyouraccount.blogspot.com
 facebookweb.github.io
 facebookwebsite9.blogspot.com
 facebookzaman.blogspot.com
-fauziahxvn-cloud.github.io
 fedex-olive.vercel.app
 fedexinterviewprep.com
 ffmka.club
@@ -393,6 +390,7 @@ google1208.com
 google1302.com
 google1308.com
 google77bd.com
+google88.bet
 googleadsense.com.tr
 googlebusiness.xyz
 googleepway.com
@@ -435,7 +433,6 @@ hsbc.dev
 hsbcpress.com
 https-wvvw-roblox.com
 icloud-sharedalbum.com
-icloudmyphones.help
 ideeo.mx
 ifotografix.co.uk
 indiarevolutionnova.github.io
@@ -524,7 +521,6 @@ ledger-live-cdn-auth.netlify.app
 ledger-live-download-sso-conect.typedream.app
 ledger-live-login-web.square.site
 ledger-live-wallet-start-conect-us-en.typedream.app
-ledger-lives-desktop.square.site
 ledger-liveusa.zapier.app
 ledgerlive-eng.netlify.app
 ledgerwalletrepair.com
@@ -539,7 +535,6 @@ login-facebookaccount.blogspot.com
 login-my-facebook.blogspot.com
 login-page-instagram.blogspot.com
 login-page-instagram.vercel.app
-login-xfinity-now.weebly.com
 login.rmdbwskx.santander.bimp-bot.duckdns.org
 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 loginfacebook-facebook.blogspot.com
@@ -698,17 +693,19 @@ rents.ac
 restoration-google.com
 rev.it
 roblox-login.vercel.app
+roblox.com.am
 roblox.com.bi
 roblox.com.bn
 roblox.com.bz
 roblox.com.gr
+roblox.com.hr
 roblox.com.kz
+roblox.com.ml
 roblox.com.ms
 roblox.com.mu
 roblox.com.pt
 rricrosoft-offices.org
 ruddycruzc.github.io
-rushikesh-rane.github.io
 s-facebook.blogspot.com
 samplel-ks6yxvur5-instagramm.vercel.app
 sandbox.comm-whatsapp.com
@@ -722,7 +719,6 @@ scan-whatsapp.com
 sec-whatsapp.com
 secure-dropbox.ist
 securedsupport-coinbase.com
-secureportal-googlelogin.com
 secutury-facebook.blogspot.com
 sena-facebook.blogspot.com
 services-facebook.blogspot.com
@@ -732,6 +728,8 @@ shop.static-whatsapp.com
 shruuti-005.github.io
 siddharth-1404.github.io
 sigma-whatsapp.com
+sign-in-to-xfinity-090.weebly.com
+sign-in-to-xfinity-87653.weebly.com
 sk-facebook.blogspot.com
 spotify-a9.netlify.app
 spotify-client-beta.vercel.app
@@ -788,6 +786,7 @@ usdt-trustwallet-blockchain.vercel.app
 uspsaunitedworkforce.com
 uspsecuredlogs.com
 uspssmartpackagelockers.com
+uspsstampstogo.com
 v0-instagram-accounts.vercel.app
 verifytoken.com
 vi-facebook.blogspot.com
@@ -806,9 +805,7 @@ web-spotify.cn
 web-trezor-io-start-us.vercel.app
 webaccess-alert.com
 webstore.vn
-weeblysite.com
 weekly.comm-whatsapp.com
-wegoupupup.com
 wellsfargo-worl.vercel.app
 whatsapp-fast.vercel.app
 whatsapp-iamsuyash.vercel.app
@@ -833,15 +830,12 @@ www-microsoft.com.cn
 www2-facebook.com
 wwww-linkedin.be
 x-comcast.weebly.com
-xfinity-email-net.weebly.com
-xfinity-mail-user.weebly.com
 xfinity2.vercel.app
+xfinitybillingsupport.weebly.com
 xfinityis.weebly.com
 xfinitymailnow.weebly.com
-xfinitymailxx.weebly.com
 xfinitynow.weebly.com
 xfinityservices.vercel.app
-xfinityservicexxx.weebly.com
 xfinitysupportnow.weebly.com
 xfinityttt.weebly.com
 xfinitywindowfilms.com
