@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 842
-# Updated: 2026-09-11T04:41:53Z
+# Entries: 836
+# Updated: 2026-09-11T11:22:34Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -13,10 +13,8 @@
 283674-coinbase.com
 286364-coinbase.com
 393bet-facebook.sa.com
-49192-coinbase.com
 54893-coinbase.com
 818144-kraken.com
-818393-kraken.com
 818920-kraken.com
 819283-kraken.com
 978489-coinbase.com
@@ -127,7 +125,6 @@ cn.comm-whatsapp.com
 cn.static-whatsapp.com
 coinbase-event.vercel.app
 coinbase.com.lc
-coinbase88.top
 coinbasebackoffice.exchange
 coinbasee.vip
 coinbaseinvestors.ai
@@ -160,6 +157,7 @@ docs.static-whatsapp.com
 dolaition-bit.github.io
 dothome.co.kr
 dpdi.xyz
+dpdn62.click
 dropbox-online.at
 dropbox-online.net
 dropboxbiz.com
@@ -171,7 +169,6 @@ ebay-seller-center-managedpayments.vercel.app
 ebay-wholesale.com
 ebayfoll.store
 ebaymevip.com
-edgeone.app
 edgeone.dev
 email-microsoft.com
 emersondasilva-dev.github.io
@@ -368,7 +365,6 @@ facebookzaman.blogspot.com
 fedex-olive.vercel.app
 fedexinterviewprep.com
 ffmka.club
-fifa-store.shop
 file-whatsappn.hl.cn
 fmello2002.github.io
 fmi-icloud.pro
@@ -693,7 +689,6 @@ rents.ac
 restoration-google.com
 rev.it
 roblox-login.vercel.app
-roblox.com.am
 roblox.com.bi
 roblox.com.bn
 roblox.com.bz
@@ -760,7 +755,6 @@ tb-facebook.blogspot.com
 temporary.site
 test-facebook.blogspot.com
 therelayservice.com
-tkau.info
 todo--facebook.blogspot.com
 trackingnumbers.org
 transcode.static-whatsapp.com

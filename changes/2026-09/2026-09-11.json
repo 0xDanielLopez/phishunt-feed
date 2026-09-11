@@ -1,11 +1,11 @@
 {
  "date": "2026-09-11",
- "updated": "2026-09-11T04:41:54Z",
+ "updated": "2026-09-11T11:22:35Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 14,
-  "removed": 20
+  "added": 13,
+  "removed": 25
  },
  "added": [
   "http://bankofamerica-uscom.vercel.app",
@@ -14,13 +14,12 @@
   "http://sign-in-to-xfinity-87653.weebly.com",
   "http://xfinitybillingsupport.weebly.com",
   "https://aishwarya-rathore.github.io/javascript-amazon-project-main-main",
-  "https://app.coinbase88.top",
   "https://dev.uspsstampstogo.com",
+  "https://dpdn62.click",
   "https://google88.bet",
   "https://gudwa.com/Reader_Adobe/",
-  "https://roblox.com.am/users/312575881519/profile",
   "https://roblox.com.hr/users/2382934507/profile",
-  "https://roblox.com.ml/users/280818521444/profile",
+  "https://roblox.com.ml/users/334942678738/profile",
   "https://uspsstampstogo.com"
  ],
  "removed": [
@@ -33,14 +32,19 @@
   "http://xfinity-mail-user.weebly.com",
   "http://xfinitymailxx.weebly.com",
   "http://xfinityservicexxx.weebly.com",
+  "https://49192-coinbase.com",
+  "https://818393-kraken.com",
   "https://accounts-paypal.antimoney-laundering.org",
+  "https://barclaysrewards-7bp3hxawof.edgeone.app",
   "https://facebook85.blogspot.com",
   "https://fauziahxvn-cloud.github.io/tugas-facebook",
+  "https://fifa-store.shop",
   "https://ic.account-paypal.antimoney-laundering.org",
   "https://icloudmyphones.help",
   "https://ledger-lives-desktop.square.site",
   "https://rushikesh-rane.github.io/javascript-amazon-project",
   "https://secureportal-googlelogin.com",
+  "https://tkau.info",
   "https://wegoupupup.com/v3/signin/identifier?continue=https://accounts.google.com/o/oauth2/programmatic_auth?lang%3Den%26cc%3DUS%26langCountry%3Den_US%26xoauth_display_name%3DPixel%2B8%26tmpl%3Dnew_account%26source%3Dandroid%26return_user_id%3Dtrue%26client_id%3D1070009224336-sdh77n7uot3oc99ais00jmuft6sk2fg9.apps.googleusercontent.com%26scope%3Dhttps://www.google.com/accounts/OAuthLogin%26access_type%3Doffline%26set_oauth_token_cookie%3Dtrue%26hl%3Den_US&faa=1&followup=https://accounts.google.com/o/oauth2/programmatic_auth?lang%3Den%26cc%3DUS%26langCountry%3Den_US%26xoauth_display_name%3DPixel%2B8%26tmpl%3Dnew_account%26source%3Dandroid%26return_user_id%3Dtrue%26client_id%3D1070009224336-sdh77n7uot3oc99ais00jmuft6sk2fg9.apps.googleusercontent.com%26scope%3Dhttps://www.google.com/accounts/OAuthLogin%26access_type%3Doffline%26set_oauth_token_cookie%3Dtrue%26hl%3Den_US&hl=en_US&passive=1209600&rart=ANgoxcfJ4FDmoJk_0mVSJ3wAvGY-tlGIWGvQW-gdUcoK_CV6lgMr45_kQjoge1I1Dj4-H6jeQ9WIw9-8V0Twn-I5ukPIFQqM6xGJYRNHgPtWQTJbog-zGfo&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1408957660:1788682985013131",
   "https://xfinity-email-net.weebly.com",
   "https://xfinity-email-net.weeblysite.com"

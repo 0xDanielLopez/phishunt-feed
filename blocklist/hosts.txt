@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 842
-# Updated: 2026-09-11T04:41:53Z
+# Entries: 836
+# Updated: 2026-09-11T11:22:35Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -13,10 +13,8 @@
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
 0.0.0.0 393bet-facebook.sa.com
-0.0.0.0 49192-coinbase.com
 0.0.0.0 54893-coinbase.com
 0.0.0.0 818144-kraken.com
-0.0.0.0 818393-kraken.com
 0.0.0.0 818920-kraken.com
 0.0.0.0 819283-kraken.com
 0.0.0.0 978489-coinbase.com
@@ -127,7 +125,6 @@
 0.0.0.0 cn.static-whatsapp.com
 0.0.0.0 coinbase-event.vercel.app
 0.0.0.0 coinbase.com.lc
-0.0.0.0 coinbase88.top
 0.0.0.0 coinbasebackoffice.exchange
 0.0.0.0 coinbasee.vip
 0.0.0.0 coinbaseinvestors.ai
@@ -160,6 +157,7 @@
 0.0.0.0 dolaition-bit.github.io
 0.0.0.0 dothome.co.kr
 0.0.0.0 dpdi.xyz
+0.0.0.0 dpdn62.click
 0.0.0.0 dropbox-online.at
 0.0.0.0 dropbox-online.net
 0.0.0.0 dropboxbiz.com
@@ -171,7 +169,6 @@
 0.0.0.0 ebay-wholesale.com
 0.0.0.0 ebayfoll.store
 0.0.0.0 ebaymevip.com
-0.0.0.0 edgeone.app
 0.0.0.0 edgeone.dev
 0.0.0.0 email-microsoft.com
 0.0.0.0 emersondasilva-dev.github.io
@@ -368,7 +365,6 @@
 0.0.0.0 fedex-olive.vercel.app
 0.0.0.0 fedexinterviewprep.com
 0.0.0.0 ffmka.club
-0.0.0.0 fifa-store.shop
 0.0.0.0 file-whatsappn.hl.cn
 0.0.0.0 fmello2002.github.io
 0.0.0.0 fmi-icloud.pro
@@ -693,7 +689,6 @@
 0.0.0.0 restoration-google.com
 0.0.0.0 rev.it
 0.0.0.0 roblox-login.vercel.app
-0.0.0.0 roblox.com.am
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bz
@@ -760,7 +755,6 @@
 0.0.0.0 temporary.site
 0.0.0.0 test-facebook.blogspot.com
 0.0.0.0 therelayservice.com
-0.0.0.0 tkau.info
 0.0.0.0 todo--facebook.blogspot.com
 0.0.0.0 trackingnumbers.org
 0.0.0.0 transcode.static-whatsapp.com
