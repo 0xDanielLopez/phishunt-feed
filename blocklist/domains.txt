@@ -1,24 +1,26 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 846
-# Updated: 2026-09-11T20:58:34Z
+# Entries: 855
+# Updated: 2026-09-12T04:36:04Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
+012398h574h5j.skin
 01felipeaugusto-star.github.io
 123-facebook.blogspot.com
 164196-coinbase.com
 2017-facebook.blogspot.com
-2390as92358.pics
 283674-coinbase.com
 286364-coinbase.com
 393bet-facebook.sa.com
 54893-coinbase.com
+63401298h5.me
 818144-kraken.com
 818920-kraken.com
 819283-kraken.com
 978489-coinbase.com
+98j657503f23.homes
 a08786897-beep.github.io
 a1-kraken.com
 a2zapk.co
@@ -45,7 +47,6 @@ amazon-ecommerce-nine.vercel.app
 amazon-eight-taupe.vercel.app
 amazon-front-me.vercel.app
 amazon-harshdeep.vercel.app
-amazon-js-tau.vercel.app
 amazon-opfq.vercel.app
 amazon-promos.shop
 amazon-ten-gamma.vercel.app
@@ -59,6 +60,7 @@ apk-google.cn
 app-binance.github.io
 app-facebook.blogspot.com
 app81-facebook.blogspot.com
+apple-verify.us
 arencia-vitaminc-booster-amazon.netlify.app
 armankhan-12.github.io
 asif.me
@@ -102,6 +104,7 @@ bnb-trust-wallet.vercel.app
 bnext.es
 books-facebook.blogspot.com
 brad-facebook.blogspot.com
+bradescoatualizabrasil.com
 build.comm-whatsapp.com
 build.static-whatsapp.com
 bunker.ink
@@ -121,6 +124,7 @@ chatgpt0005.eu.org
 citrix-sharing.com
 click-facebook.blogspot.com
 clon-facebook.vercel.app
+cloudclusters.net
 cn-spotify.cn
 cn.comm-whatsapp.com
 cn.static-whatsapp.com
@@ -152,6 +156,7 @@ dhl-expressmy.com
 dir.com.my
 dispute-coinbase.com
 dj-facebook.blogspot.com
+dk-produkt392584.sbs
 docs-google.com
 docs-trezor-app.pages.dev
 docs.static-whatsapp.com
@@ -413,7 +418,6 @@ googleuserlogin.cam
 googleww.com
 gpcconcrete.co.nz
 grupoimpaktu.ao
-gudwa.com
 hackerog17.github.io
 hasan-321.github.io
 hashnode.dev
@@ -429,7 +433,6 @@ hotmail143.net
 hsbc-sec.com
 hsbc.dev
 hsbcpress.com
-https-wvvw-roblox.com
 icloud-sharedalbum.com
 ideeo.mx
 ifotografix.co.uk
@@ -457,7 +460,6 @@ instagram-login-page-two.vercel.app
 instagram-login-user.blogspot.com
 instagram-mu-rosy.vercel.app
 instagram-open.blogspot.com
-instagram-react-blue.vercel.app
 instagram-reels-funny-every-viral-reels.github.io
 instagram-register.blogspot.com
 instagram-ssew.vercel.app
@@ -539,6 +541,7 @@ login.rmdbwskx.santander.bimp-bot.duckdns.org
 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 loginfacebook-facebook.blogspot.com
 logowanie-facebook.vercel.app
+lokala-ofera89121.cfd
 love-facebook.blogspot.com
 lovefive-facebook.blogspot.com
 lovevivah.com
@@ -583,7 +586,6 @@ mexicocentral-01.azurewebsites.net
 mhmr.ro
 mi-santander.com
 microsoft-alpha.vercel.app
-microsoft-notifcation.com
 microsoft-se.us
 microsoft-sharepoint.fr
 microsoft-ssl.com
@@ -632,6 +634,7 @@ network-facebook.blogspot.com
 news.static-whatsapp.com
 noreply-icloud.app
 nw-facebook.blogspot.com
+ofertaa9455241593275.cfd
 office365licensingsupport.com
 okta-whatsapp.com
 online-facebook-privacy.blogspot.com
@@ -663,6 +666,9 @@ pc-spotify.cn
 pe-facebook.blogspot.com
 photo.comm-whatsapp.com
 photo.static-whatsapp.com
+pl-019692205.cfd
+pl-92783.click
+pl-ogloszenie-adriankoleda-61.click
 play-google.cam
 playground.static-whatsapp.com
 prajwalkuchewar.github.io
@@ -675,6 +681,7 @@ prizebond.net.pk
 profil-facebook-saya.blogspot.com
 proteccion-outlook2026.iceiy.com
 protected-request.com
+pryo4j34nm34889.skin
 pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev
 public.static-whatsapp.com
 pushkar-hub.github.io
@@ -693,6 +700,7 @@ rekemonedasi-facebook.org
 rents.ac
 rev.it
 roblox-login.vercel.app
+roblox.com.am
 roblox.com.bi
 roblox.com.bn
 roblox.com.bz
@@ -711,6 +719,7 @@ sandbox.comm-whatsapp.com
 sandbox.static-whatsapp.com
 santander-dev-week.vercel.app
 santanderbank.shop
+santanderbizum.com
 santandercitas.com
 saque-instagram.com
 saventureinfratech234-boop.github.io
@@ -731,6 +740,7 @@ sigma-whatsapp.com
 sign-in-to-xfinity-090.weebly.com
 sign-in-to-xfinity-87653.weebly.com
 sk-facebook.blogspot.com
+smar96340203.lol
 spotify-a9.netlify.app
 spotify-client-beta.vercel.app
 spotify-modapk.com
@@ -754,7 +764,6 @@ support-ledgrcom-start-web.typedream.app
 support.zoom.us.pro.kaisarstore.dpdns.org
 support.zoom.us.vip.kaisarstore.dpdns.org
 t54632-kraken.com
-tailbe60c2.ts.net
 tamires-ramos.github.io
 tanish-ashu.github.io
 tanishq98714.github.io
@@ -774,6 +783,7 @@ trust-wallet-customer-support-number.github.io
 trust-wallet-liart.vercel.app
 trustwallet-helpcenter.vercel.app
 trustwallet-login.blogspot.com
+trustwallet-neon.vercel.app
 trustwallet-secure-check.vercel.app
 trustwallet-tokentwtowner.vercel.app
 trustwalletsupport.dev
@@ -851,4 +861,3 @@ z-facebook.blogspot.com
 z-instagram.blogspot.com
 zelleria.shop
 zeta-facebook.blogspot.com
-zoecondominios.com.br

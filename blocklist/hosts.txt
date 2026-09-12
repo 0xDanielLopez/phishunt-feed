@@ -1,24 +1,26 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 846
-# Updated: 2026-09-11T20:58:35Z
+# Entries: 855
+# Updated: 2026-09-12T04:36:04Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
+0.0.0.0 012398h574h5j.skin
 0.0.0.0 01felipeaugusto-star.github.io
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 164196-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
-0.0.0.0 2390as92358.pics
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
 0.0.0.0 393bet-facebook.sa.com
 0.0.0.0 54893-coinbase.com
+0.0.0.0 63401298h5.me
 0.0.0.0 818144-kraken.com
 0.0.0.0 818920-kraken.com
 0.0.0.0 819283-kraken.com
 0.0.0.0 978489-coinbase.com
+0.0.0.0 98j657503f23.homes
 0.0.0.0 a08786897-beep.github.io
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
@@ -45,7 +47,6 @@
 0.0.0.0 amazon-eight-taupe.vercel.app
 0.0.0.0 amazon-front-me.vercel.app
 0.0.0.0 amazon-harshdeep.vercel.app
-0.0.0.0 amazon-js-tau.vercel.app
 0.0.0.0 amazon-opfq.vercel.app
 0.0.0.0 amazon-promos.shop
 0.0.0.0 amazon-ten-gamma.vercel.app
@@ -59,6 +60,7 @@
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-facebook.blogspot.com
 0.0.0.0 app81-facebook.blogspot.com
+0.0.0.0 apple-verify.us
 0.0.0.0 arencia-vitaminc-booster-amazon.netlify.app
 0.0.0.0 armankhan-12.github.io
 0.0.0.0 asif.me
@@ -102,6 +104,7 @@
 0.0.0.0 bnext.es
 0.0.0.0 books-facebook.blogspot.com
 0.0.0.0 brad-facebook.blogspot.com
+0.0.0.0 bradescoatualizabrasil.com
 0.0.0.0 build.comm-whatsapp.com
 0.0.0.0 build.static-whatsapp.com
 0.0.0.0 bunker.ink
@@ -121,6 +124,7 @@
 0.0.0.0 citrix-sharing.com
 0.0.0.0 click-facebook.blogspot.com
 0.0.0.0 clon-facebook.vercel.app
+0.0.0.0 cloudclusters.net
 0.0.0.0 cn-spotify.cn
 0.0.0.0 cn.comm-whatsapp.com
 0.0.0.0 cn.static-whatsapp.com
@@ -152,6 +156,7 @@
 0.0.0.0 dir.com.my
 0.0.0.0 dispute-coinbase.com
 0.0.0.0 dj-facebook.blogspot.com
+0.0.0.0 dk-produkt392584.sbs
 0.0.0.0 docs-google.com
 0.0.0.0 docs-trezor-app.pages.dev
 0.0.0.0 docs.static-whatsapp.com
@@ -413,7 +418,6 @@
 0.0.0.0 googleww.com
 0.0.0.0 gpcconcrete.co.nz
 0.0.0.0 grupoimpaktu.ao
-0.0.0.0 gudwa.com
 0.0.0.0 hackerog17.github.io
 0.0.0.0 hasan-321.github.io
 0.0.0.0 hashnode.dev
@@ -429,7 +433,6 @@
 0.0.0.0 hsbc-sec.com
 0.0.0.0 hsbc.dev
 0.0.0.0 hsbcpress.com
-0.0.0.0 https-wvvw-roblox.com
 0.0.0.0 icloud-sharedalbum.com
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
@@ -457,7 +460,6 @@
 0.0.0.0 instagram-login-user.blogspot.com
 0.0.0.0 instagram-mu-rosy.vercel.app
 0.0.0.0 instagram-open.blogspot.com
-0.0.0.0 instagram-react-blue.vercel.app
 0.0.0.0 instagram-reels-funny-every-viral-reels.github.io
 0.0.0.0 instagram-register.blogspot.com
 0.0.0.0 instagram-ssew.vercel.app
@@ -539,6 +541,7 @@
 0.0.0.0 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 0.0.0.0 loginfacebook-facebook.blogspot.com
 0.0.0.0 logowanie-facebook.vercel.app
+0.0.0.0 lokala-ofera89121.cfd
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lovevivah.com
@@ -583,7 +586,6 @@
 0.0.0.0 mhmr.ro
 0.0.0.0 mi-santander.com
 0.0.0.0 microsoft-alpha.vercel.app
-0.0.0.0 microsoft-notifcation.com
 0.0.0.0 microsoft-se.us
 0.0.0.0 microsoft-sharepoint.fr
 0.0.0.0 microsoft-ssl.com
@@ -632,6 +634,7 @@
 0.0.0.0 news.static-whatsapp.com
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
+0.0.0.0 ofertaa9455241593275.cfd
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 okta-whatsapp.com
 0.0.0.0 online-facebook-privacy.blogspot.com
@@ -663,6 +666,9 @@
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 photo.comm-whatsapp.com
 0.0.0.0 photo.static-whatsapp.com
+0.0.0.0 pl-019692205.cfd
+0.0.0.0 pl-92783.click
+0.0.0.0 pl-ogloszenie-adriankoleda-61.click
 0.0.0.0 play-google.cam
 0.0.0.0 playground.static-whatsapp.com
 0.0.0.0 prajwalkuchewar.github.io
@@ -675,6 +681,7 @@
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 proteccion-outlook2026.iceiy.com
 0.0.0.0 protected-request.com
+0.0.0.0 pryo4j34nm34889.skin
 0.0.0.0 pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev
 0.0.0.0 public.static-whatsapp.com
 0.0.0.0 pushkar-hub.github.io
@@ -693,6 +700,7 @@
 0.0.0.0 rents.ac
 0.0.0.0 rev.it
 0.0.0.0 roblox-login.vercel.app
+0.0.0.0 roblox.com.am
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bz
@@ -711,6 +719,7 @@
 0.0.0.0 sandbox.static-whatsapp.com
 0.0.0.0 santander-dev-week.vercel.app
 0.0.0.0 santanderbank.shop
+0.0.0.0 santanderbizum.com
 0.0.0.0 santandercitas.com
 0.0.0.0 saque-instagram.com
 0.0.0.0 saventureinfratech234-boop.github.io
@@ -731,6 +740,7 @@
 0.0.0.0 sign-in-to-xfinity-090.weebly.com
 0.0.0.0 sign-in-to-xfinity-87653.weebly.com
 0.0.0.0 sk-facebook.blogspot.com
+0.0.0.0 smar96340203.lol
 0.0.0.0 spotify-a9.netlify.app
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotify-modapk.com
@@ -754,7 +764,6 @@
 0.0.0.0 support.zoom.us.pro.kaisarstore.dpdns.org
 0.0.0.0 support.zoom.us.vip.kaisarstore.dpdns.org
 0.0.0.0 t54632-kraken.com
-0.0.0.0 tailbe60c2.ts.net
 0.0.0.0 tamires-ramos.github.io
 0.0.0.0 tanish-ashu.github.io
 0.0.0.0 tanishq98714.github.io
@@ -774,6 +783,7 @@
 0.0.0.0 trust-wallet-liart.vercel.app
 0.0.0.0 trustwallet-helpcenter.vercel.app
 0.0.0.0 trustwallet-login.blogspot.com
+0.0.0.0 trustwallet-neon.vercel.app
 0.0.0.0 trustwallet-secure-check.vercel.app
 0.0.0.0 trustwallet-tokentwtowner.vercel.app
 0.0.0.0 trustwalletsupport.dev
@@ -851,4 +861,3 @@
 0.0.0.0 z-instagram.blogspot.com
 0.0.0.0 zelleria.shop
 0.0.0.0 zeta-facebook.blogspot.com
-0.0.0.0 zoecondominios.com.br
