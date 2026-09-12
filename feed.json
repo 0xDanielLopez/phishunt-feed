@@ -1,5 +1,684 @@
 [
   {
+    "url": "https://allegrolokalnie.nr-328742398sdn2.lol/oferta/samsung-s24-ultra-256gb-pamieci-w-bardzo-dobrym-stanie/ruVlJq8w",
+    "domain": "allegrolokalnie.nr-328742398sdn2.lol",
+    "company": "allegro",
+    "date": "2026-09-12T14:02:22.538140+00:00",
+    "first_seen": "2026-09-12T14:02:22.538140+00:00",
+    "uuid": "56c94a07-bf04-47ba-a55e-bdffd70be9ae",
+    "ip": "2.59.219.224",
+    "country": "Switzerland",
+    "asn": "200019",
+    "org": "ALEXHOST SRL",
+    "cert": "-",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 22,
+    "verdict": "low"
+  },
+  {
+    "url": "https://roblox.com.ml/users/173714336421/profile",
+    "domain": "roblox.com.ml",
+    "company": "roblox",
+    "date": "2026-09-12T13:06:29.034222+00:00",
+    "first_seen": "2026-09-12T13:06:29.034222+00:00",
+    "uuid": "6dd51f11-8e2c-457a-85d0-81b5b6393607",
+    "ip": "31.56.209.148",
+    "country": "The Netherlands",
+    "asn": "209373",
+    "org": "SWISSNET LLC",
+    "cert": "YE2",
+    "malicious_google": false,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "openphish_score",
+        "label": "OpenPhish",
+        "points": 3.0
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 2.0
+      }
+    ],
+    "score": 26,
+    "verdict": "low"
+  },
+  {
+    "url": "https://alpha.sigma-whatsapp.com",
+    "domain": "alpha.sigma-whatsapp.com",
+    "company": "whatsapp",
+    "date": "2026-09-12T13:06:13.938651+00:00",
+    "first_seen": "2026-09-12T13:06:13.938651+00:00",
+    "uuid": "e546d141-0f7c-49b9-a086-be685b93ca04",
+    "ip": "104.21.17.34",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": false,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "cert_cluster",
+        "label": "Cert reuse",
+        "points": 3.4
+      },
+      {
+        "signal": "openphish_score",
+        "label": "OpenPhish",
+        "points": 3.0
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 1.9
+      }
+    ],
+    "score": 24,
+    "verdict": "low"
+  },
+  {
+    "url": "https://inbox.wave-whatsapp.com",
+    "domain": "inbox.wave-whatsapp.com",
+    "company": "whatsapp",
+    "date": "2026-09-12T13:06:02.058598+00:00",
+    "first_seen": "2026-09-12T13:06:02.058598+00:00",
+    "uuid": "2497450b-e810-4601-b0d3-e137e222766b",
+    "ip": "188.114.96.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": false,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "cert_cluster",
+        "label": "Cert reuse",
+        "points": 3.4
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "openphish_score",
+        "label": "OpenPhish",
+        "points": 3.0
+      }
+    ],
+    "score": 26,
+    "verdict": "low"
+  },
+  {
+    "url": "https://ebaymclaren-austin.eventshouse.app/microsite/index?waid=215734953c4d3ce4104903fadee3c12eb2f146428117ae269d3ad9f380cc996b345894ffe15239d6726cbd865633f2210557950d547dc6ee99dfe9d8afabfb13ZlX5VWGbU4hiMhAM%2FcmpkpVpUJ2MloieHwEPLivvt%2Bk%3D",
+    "domain": "ebaymclaren-austin.eventshouse.app",
+    "company": "ebay",
+    "date": "2026-09-12T13:05:51.840214+00:00",
+    "first_seen": "2026-09-12T13:05:51.840214+00:00",
+    "uuid": "16c9de15-235a-4089-8ca6-a8b336ff6771",
+    "ip": "77.74.193.106",
+    "country": "United Kingdom",
+    "asn": "42831",
+    "org": "UK Dedicated Servers Limited",
+    "cert": "YR2",
+    "malicious_google": false,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "openphish_score",
+        "label": "OpenPhish",
+        "points": 3.0
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 21,
+    "verdict": "low"
+  },
+  {
+    "url": "https://mclarencar.ebaymclaren-austin.eventshouse.app",
+    "domain": "mclarencar.ebaymclaren-austin.eventshouse.app",
+    "company": "ebay",
+    "date": "2026-09-12T13:05:43.959704+00:00",
+    "first_seen": "2026-09-12T13:05:43.959704+00:00",
+    "uuid": "2b2a58ce-6777-4681-a6ed-33395e254a49",
+    "ip": "77.74.193.106",
+    "country": "United Kingdom",
+    "asn": "42831",
+    "org": "UK Dedicated Servers Limited",
+    "cert": "YR2",
+    "malicious_google": false,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "openphish_score",
+        "label": "OpenPhish",
+        "points": 3.0
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 22,
+    "verdict": "low"
+  },
+  {
+    "url": "https://mclarenf1car.ebaymclaren-austin.eventshouse.app",
+    "domain": "mclarenf1car.ebaymclaren-austin.eventshouse.app",
+    "company": "ebay",
+    "date": "2026-09-12T13:05:19.464369+00:00",
+    "first_seen": "2026-09-12T13:05:19.464369+00:00",
+    "uuid": "1448bf49-da4f-4982-97b4-28c554e7beab",
+    "ip": "77.74.193.106",
+    "country": "United Kingdom",
+    "asn": "42831",
+    "org": "UK Dedicated Servers Limited",
+    "cert": "YR2",
+    "malicious_google": false,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "openphish_score",
+        "label": "OpenPhish",
+        "points": 3.0
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 22,
+    "verdict": "low"
+  },
+  {
+    "url": "https://hofmemorabilia.ebaymclaren-austin.eventshouse.app",
+    "domain": "hofmemorabilia.ebaymclaren-austin.eventshouse.app",
+    "company": "ebay",
+    "date": "2026-09-12T13:04:53.730541+00:00",
+    "first_seen": "2026-09-12T13:04:53.730541+00:00",
+    "uuid": "d18353ec-03cb-4a2b-b6e4-4354f3e5dd45",
+    "ip": "77.74.193.106",
+    "country": "United Kingdom",
+    "asn": "42831",
+    "org": "UK Dedicated Servers Limited",
+    "cert": "YR2",
+    "malicious_google": false,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "openphish_score",
+        "label": "OpenPhish",
+        "points": 3.0
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 22,
+    "verdict": "low"
+  },
+  {
+    "url": "https://info.sigma-whatsapp.com",
+    "domain": "info.sigma-whatsapp.com",
+    "company": "whatsapp",
+    "date": "2026-09-12T13:04:49.819277+00:00",
+    "first_seen": "2026-09-12T13:04:49.819277+00:00",
+    "uuid": "81343186-2666-4eac-8fa5-7ebce54596bb",
+    "ip": "104.21.17.34",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": false,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "cert_cluster",
+        "label": "Cert reuse",
+        "points": 3.4
+      },
+      {
+        "signal": "openphish_score",
+        "label": "OpenPhish",
+        "points": 3.0
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 1.9
+      }
+    ],
+    "score": 24,
+    "verdict": "low"
+  },
+  {
+    "url": "http://facebookconfirm.blogspot.com/?m=1",
+    "domain": "facebookconfirm.blogspot.com",
+    "company": "facebook",
+    "date": "2026-09-12T13:04:40.532310+00:00",
+    "first_seen": "2026-09-12T13:04:40.532310+00:00",
+    "uuid": "b5e194c6-7c04-42b2-8f39-8ec9f86c924b",
+    "ip": "142.250.154.132",
+    "country": "Germany",
+    "asn": "15169",
+    "org": "Google LLC",
+    "cert": "WE2",
+    "malicious_google": false,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "cert_cluster",
+        "label": "Cert reuse",
+        "points": 3.4
+      }
+    ],
+    "score": 36,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://collectableswall.ebaymclaren-austin.eventshouse.app",
+    "domain": "collectableswall.ebaymclaren-austin.eventshouse.app",
+    "company": "ebay",
+    "date": "2026-09-12T13:04:35.129445+00:00",
+    "first_seen": "2026-09-12T13:04:35.129445+00:00",
+    "uuid": "9f2f34a7-32ad-4b09-872c-488e6d4067af",
+    "ip": "77.74.193.106",
+    "country": "United Kingdom",
+    "asn": "42831",
+    "org": "UK Dedicated Servers Limited",
+    "cert": "YR2",
+    "malicious_google": false,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "openphish_score",
+        "label": "OpenPhish",
+        "points": 3.0
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 22,
+    "verdict": "low"
+  },
+  {
+    "url": "http://facebook.com%2f@appeal-case.about-help.com/app=xs",
+    "domain": "appeal-case.about-help.com",
+    "company": "facebook",
+    "date": "2026-09-12T13:04:22.235296+00:00",
+    "first_seen": "2026-09-12T13:04:22.235296+00:00",
+    "uuid": "72d8508d-9451-4655-80bd-cc1909d4305e",
+    "ip": "172.67.146.230",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": false,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "has_password_input",
+        "label": "Password field",
+        "points": 3.9
+      },
+      {
+        "signal": "openphish_score",
+        "label": "OpenPhish",
+        "points": 3.0
+      }
+    ],
+    "score": 29,
+    "verdict": "low"
+  },
+  {
+    "url": "https://roblox.com.bo/communities/488688266/",
+    "domain": "roblox.com.bo",
+    "company": "roblox",
+    "date": "2026-09-12T13:04:09.210077+00:00",
+    "first_seen": "2026-09-12T13:04:09.210077+00:00",
+    "uuid": "703f937f-4441-4317-9d57-7b087dfcd398",
+    "ip": "107.150.72.200",
+    "country": "Italy",
+    "asn": "219067",
+    "org": "Chiara Conti",
+    "cert": "YE1",
+    "malicious_google": false,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 4.1
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "openphish_score",
+        "label": "OpenPhish",
+        "points": 3.0
+      }
+    ],
+    "score": 27,
+    "verdict": "low"
+  },
+  {
+    "url": "https://start-linkedin.com",
+    "domain": "start-linkedin.com",
+    "company": "linkedin",
+    "date": "2026-09-12T13:03:47.488000+00:00",
+    "first_seen": "2026-09-12T13:03:47.488000+00:00",
+    "uuid": "1b9c3909-d7cf-48e8-8b4b-baff0640d6ef",
+    "ip": "185.123.53.246",
+    "country": "Estonia",
+    "asn": "62005",
+    "org": "BlueVPS OU",
+    "cert": "YR2",
+    "malicious_google": false,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "openphish_score",
+        "label": "OpenPhish",
+        "points": 3.0
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 20,
+    "verdict": "low"
+  },
+  {
+    "url": "https://usps-stampservice.com",
+    "domain": "usps-stampservice.com",
+    "company": "usps",
+    "date": "2026-09-12T12:17:48.588484+00:00",
+    "first_seen": "2026-09-12T12:17:48.588484+00:00",
+    "uuid": "da0b7521-6c0e-4e91-ba7e-f46a3bb9e113",
+    "ip": "104.16.210.68",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "Google Trust Services",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": true,
+    "top_signals": [],
+    "score": 0,
+    "verdict": "noise"
+  },
+  {
     "url": "http://register-facebook.blogspot.com",
     "domain": "register-facebook.blogspot.com",
     "company": "facebook",

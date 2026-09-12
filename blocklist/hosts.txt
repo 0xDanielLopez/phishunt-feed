@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 855
-# Updated: 2026-09-12T10:48:11Z
+# Entries: 871
+# Updated: 2026-09-12T15:32:38Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -24,6 +24,7 @@
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
 0.0.0.0 aaryan-musk.github.io
+0.0.0.0 about-help.com
 0.0.0.0 account-instagram.vercel.app
 0.0.0.0 accounts-facebook.blogspot.com
 0.0.0.0 accounts-google-login.github.io
@@ -133,12 +134,14 @@
 0.0.0.0 coinbasee.vip
 0.0.0.0 coinbaseinvestors.ai
 0.0.0.0 coinbaseweb3wallets.com
+0.0.0.0 collectableswall.ebaymclaren-austin.eventshouse.app
 0.0.0.0 comcast2.vercel.app
 0.0.0.0 comcastcarebusiness.weebly.com
 0.0.0.0 comcastlog.weebly.com
 0.0.0.0 comcastnetmail.weebly.com
 0.0.0.0 comcastsurvey.weebly.com
 0.0.0.0 comecome.click
+0.0.0.0 connect.wave-whatsapp.com
 0.0.0.0 correoscri.cc
 0.0.0.0 correosiicr.cc
 0.0.0.0 ct.ws
@@ -173,6 +176,7 @@
 0.0.0.0 ebay-seller-center-managedpayments.vercel.app
 0.0.0.0 ebay-wholesale.com
 0.0.0.0 ebayfoll.store
+0.0.0.0 ebaymclaren-austin.eventshouse.app
 0.0.0.0 ebaymevip.com
 0.0.0.0 edgeone.dev
 0.0.0.0 email-microsoft.com
@@ -309,6 +313,7 @@
 0.0.0.0 facebookbfacebook.blogspot.com
 0.0.0.0 facebookbigeronline.blogspot.com
 0.0.0.0 facebookcomfacebook.blogspot.com
+0.0.0.0 facebookconfirm.blogspot.com
 0.0.0.0 facebookcustomer-service.com
 0.0.0.0 facebookcustomersupportnumber25.blogspot.com
 0.0.0.0 facebookdatingonfacebook.blogspot.com
@@ -425,6 +430,7 @@
 0.0.0.0 help-instagram.blogspot.com
 0.0.0.0 hhvka.club
 0.0.0.0 hibafatima2782008-code.github.io
+0.0.0.0 hofmemorabilia.ebaymclaren-austin.eventshouse.app
 0.0.0.0 home-facebook.blogspot.com
 0.0.0.0 home-ledgrreliveapp.typedream.app
 0.0.0.0 hot-binance.com.cn
@@ -436,6 +442,7 @@
 0.0.0.0 icloudfinder.help
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
+0.0.0.0 inbox.wave-whatsapp.com
 0.0.0.0 indiarevolutionnova.github.io
 0.0.0.0 info-facebook.blogspot.com
 0.0.0.0 iniciamazon.com.br
@@ -550,8 +557,11 @@
 0.0.0.0 m4ntapaset.ink
 0.0.0.0 mail-xfinitylogin.weebly.com
 0.0.0.0 mail.static-whatsapp.com
+0.0.0.0 main.wave-whatsapp.com
 0.0.0.0 manish1719.github.io
 0.0.0.0 mb-facebook.blogspot.com
+0.0.0.0 mclarencar.ebaymclaren-austin.eventshouse.app
+0.0.0.0 mclarenf1car.ebaymclaren-austin.eventshouse.app
 0.0.0.0 meet-googlee46347975696.pages.dev
 0.0.0.0 meet-googlee7563454656.pages.dev
 0.0.0.0 meet-googlee7823629056.pages.dev
@@ -633,6 +643,7 @@
 0.0.0.0 news.static-whatsapp.com
 0.0.0.0 niels-meyer.de
 0.0.0.0 noreply-icloud.app
+0.0.0.0 nr-328742398sdn2.lol
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 ofertaa9455241593275.cfd
 0.0.0.0 office365licensingsupport.com
@@ -704,10 +715,12 @@
 0.0.0.0 roblox.com.am
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
+0.0.0.0 roblox.com.bo
 0.0.0.0 roblox.com.bz
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.hr
 0.0.0.0 roblox.com.kz
+0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.ms
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
@@ -751,7 +764,9 @@
 0.0.0.0 srpska-banka.com
 0.0.0.0 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 0.0.0.0 start-ledgren.zapier.app
+0.0.0.0 start-linkedin.com
 0.0.0.0 start-web-en-ledger-live-login.typedream.app
+0.0.0.0 static.wave-whatsapp.com
 0.0.0.0 steamcommunity-balanceworkshop.shop
 0.0.0.0 steamcommunity.blog
 0.0.0.0 steamcommunity.ing
@@ -795,6 +810,7 @@
 0.0.0.0 upgradexfinty.weebly.com
 0.0.0.0 usacrazyseller.com
 0.0.0.0 usdt-trustwallet-blockchain.vercel.app
+0.0.0.0 usps-stampservice.com
 0.0.0.0 uspsaunitedworkforce.com
 0.0.0.0 uspsecuredlogs.com
 0.0.0.0 uspssmartpackagelockers.com
@@ -811,7 +827,6 @@
 0.0.0.0 vpnuse.eu.org
 0.0.0.0 vwwv-icloud.com
 0.0.0.0 wasmer.app
-0.0.0.0 wave-whatsapp.com
 0.0.0.0 web-conect-us-ledger-live-wallet.typedream.app
 0.0.0.0 web-spotify.cn
 0.0.0.0 web-trezor-io-start-us.vercel.app
@@ -861,3 +876,4 @@
 0.0.0.0 z-instagram.blogspot.com
 0.0.0.0 zelleria.shop
 0.0.0.0 zeta-facebook.blogspot.com
+0.0.0.0 zh.wave-whatsapp.com

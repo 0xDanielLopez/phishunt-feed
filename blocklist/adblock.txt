@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 855
-! Updated: 2026-09-12T10:48:11Z
+! Entries: 871
+! Updated: 2026-09-12T15:32:39Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -24,6 +24,7 @@
 ||a1-kraken.com^
 ||a2zapk.co^
 ||aaryan-musk.github.io^
+||about-help.com^
 ||account-instagram.vercel.app^
 ||accounts-facebook.blogspot.com^
 ||accounts-google-login.github.io^
@@ -133,12 +134,14 @@
 ||coinbasee.vip^
 ||coinbaseinvestors.ai^
 ||coinbaseweb3wallets.com^
+||collectableswall.ebaymclaren-austin.eventshouse.app^
 ||comcast2.vercel.app^
 ||comcastcarebusiness.weebly.com^
 ||comcastlog.weebly.com^
 ||comcastnetmail.weebly.com^
 ||comcastsurvey.weebly.com^
 ||comecome.click^
+||connect.wave-whatsapp.com^
 ||correoscri.cc^
 ||correosiicr.cc^
 ||ct.ws^
@@ -173,6 +176,7 @@
 ||ebay-seller-center-managedpayments.vercel.app^
 ||ebay-wholesale.com^
 ||ebayfoll.store^
+||ebaymclaren-austin.eventshouse.app^
 ||ebaymevip.com^
 ||edgeone.dev^
 ||email-microsoft.com^
@@ -309,6 +313,7 @@
 ||facebookbfacebook.blogspot.com^
 ||facebookbigeronline.blogspot.com^
 ||facebookcomfacebook.blogspot.com^
+||facebookconfirm.blogspot.com^
 ||facebookcustomer-service.com^
 ||facebookcustomersupportnumber25.blogspot.com^
 ||facebookdatingonfacebook.blogspot.com^
@@ -425,6 +430,7 @@
 ||help-instagram.blogspot.com^
 ||hhvka.club^
 ||hibafatima2782008-code.github.io^
+||hofmemorabilia.ebaymclaren-austin.eventshouse.app^
 ||home-facebook.blogspot.com^
 ||home-ledgrreliveapp.typedream.app^
 ||hot-binance.com.cn^
@@ -436,6 +442,7 @@
 ||icloudfinder.help^
 ||ideeo.mx^
 ||ifotografix.co.uk^
+||inbox.wave-whatsapp.com^
 ||indiarevolutionnova.github.io^
 ||info-facebook.blogspot.com^
 ||iniciamazon.com.br^
@@ -550,8 +557,11 @@
 ||m4ntapaset.ink^
 ||mail-xfinitylogin.weebly.com^
 ||mail.static-whatsapp.com^
+||main.wave-whatsapp.com^
 ||manish1719.github.io^
 ||mb-facebook.blogspot.com^
+||mclarencar.ebaymclaren-austin.eventshouse.app^
+||mclarenf1car.ebaymclaren-austin.eventshouse.app^
 ||meet-googlee46347975696.pages.dev^
 ||meet-googlee7563454656.pages.dev^
 ||meet-googlee7823629056.pages.dev^
@@ -633,6 +643,7 @@
 ||news.static-whatsapp.com^
 ||niels-meyer.de^
 ||noreply-icloud.app^
+||nr-328742398sdn2.lol^
 ||nw-facebook.blogspot.com^
 ||ofertaa9455241593275.cfd^
 ||office365licensingsupport.com^
@@ -704,10 +715,12 @@
 ||roblox.com.am^
 ||roblox.com.bi^
 ||roblox.com.bn^
+||roblox.com.bo^
 ||roblox.com.bz^
 ||roblox.com.gr^
 ||roblox.com.hr^
 ||roblox.com.kz^
+||roblox.com.ml^
 ||roblox.com.ms^
 ||roblox.com.mu^
 ||roblox.com.pt^
@@ -751,7 +764,9 @@
 ||srpska-banka.com^
 ||sso-ledger-live-strt-ledger-support-cdn.typedream.app^
 ||start-ledgren.zapier.app^
+||start-linkedin.com^
 ||start-web-en-ledger-live-login.typedream.app^
+||static.wave-whatsapp.com^
 ||steamcommunity-balanceworkshop.shop^
 ||steamcommunity.blog^
 ||steamcommunity.ing^
@@ -795,6 +810,7 @@
 ||upgradexfinty.weebly.com^
 ||usacrazyseller.com^
 ||usdt-trustwallet-blockchain.vercel.app^
+||usps-stampservice.com^
 ||uspsaunitedworkforce.com^
 ||uspsecuredlogs.com^
 ||uspssmartpackagelockers.com^
@@ -811,7 +827,6 @@
 ||vpnuse.eu.org^
 ||vwwv-icloud.com^
 ||wasmer.app^
-||wave-whatsapp.com^
 ||web-conect-us-ledger-live-wallet.typedream.app^
 ||web-spotify.cn^
 ||web-trezor-io-start-us.vercel.app^
@@ -861,3 +876,4 @@
 ||z-instagram.blogspot.com^
 ||zelleria.shop^
 ||zeta-facebook.blogspot.com^
+||zh.wave-whatsapp.com^
