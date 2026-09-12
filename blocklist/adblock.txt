@@ -1,12 +1,11 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 871
-! Updated: 2026-09-12T15:32:39Z
+! Entries: 869
+! Updated: 2026-09-12T20:34:01Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
 ! Community-reported phishing domains. Use at your own risk.
 
-||012398h574h5j.skin^
 ||01felipeaugusto-star.github.io^
 ||123-facebook.blogspot.com^
 ||164196-coinbase.com^
@@ -15,12 +14,11 @@
 ||286364-coinbase.com^
 ||393bet-facebook.sa.com^
 ||54893-coinbase.com^
-||63401298h5.me^
 ||818144-kraken.com^
 ||818920-kraken.com^
 ||819283-kraken.com^
+||878279jsmar889.lol^
 ||978489-coinbase.com^
-||98j657503f23.homes^
 ||a1-kraken.com^
 ||a2zapk.co^
 ||aaryan-musk.github.io^
@@ -56,6 +54,7 @@
 ||amjadraza19.github.io^
 ||ani-facebook.blogspot.com^
 ||anoopsamazon.vercel.app^
+||antimoney-laundering.org^
 ||apk-google.cn^
 ||app-binance.github.io^
 ||app-facebook.blogspot.com^
@@ -111,6 +110,7 @@
 ||buscarmi-icloud.app^
 ||business-dropbox.me^
 ||c-binance.github.io^
+||calendar.scan-whatsapp.com^
 ||canary.static-whatsapp.com^
 ||cardpaysecurity.org^
 ||carivo.vu^
@@ -152,6 +152,7 @@
 ||deluxxe.com.br^
 ||desktop-ledgrecdn.wixstudio.com^
 ||desktop.comm-whatsapp.com^
+||desktop.scan-whatsapp.com^
 ||desktop.static-whatsapp.com^
 ||dhl-expressmy.com^
 ||dir.com.my^
@@ -160,6 +161,7 @@
 ||dk-produkt392584.sbs^
 ||docs-google.com^
 ||docs-trezor-app.pages.dev^
+||docs.scan-whatsapp.com^
 ||docs.static-whatsapp.com^
 ||dolaition-bit.github.io^
 ||dothome.co.kr^
@@ -391,7 +393,6 @@
 ||gloronyan.github.io^
 ||google-apk.com^
 ||google-cloud.services^
-||google-verify.email^
 ||google1107.com^
 ||google1208.com^
 ||google1302.com^
@@ -429,7 +430,6 @@
 ||hellenvicente.github.io^
 ||help-instagram.blogspot.com^
 ||hhvka.club^
-||hibafatima2782008-code.github.io^
 ||hofmemorabilia.ebaymclaren-austin.eventshouse.app^
 ||home-facebook.blogspot.com^
 ||home-ledgrreliveapp.typedream.app^
@@ -438,6 +438,7 @@
 ||hsbc-sec.com^
 ||hsbc.dev^
 ||hsbcpress.com^
+||hub-whatsapp.com^
 ||icloud-sharedalbum.com^
 ||icloudfinder.help^
 ||ideeo.mx^
@@ -640,12 +641,11 @@
 ||netflixy-bixy.vercel.app^
 ||netsolhost.com^
 ||network-facebook.blogspot.com^
+||news-revolut.com^
 ||news.static-whatsapp.com^
 ||niels-meyer.de^
 ||noreply-icloud.app^
-||nr-328742398sdn2.lol^
 ||nw-facebook.blogspot.com^
-||ofertaa9455241593275.cfd^
 ||office365licensingsupport.com^
 ||okta-whatsapp.com^
 ||online-facebook-privacy.blogspot.com^
@@ -693,7 +693,6 @@
 ||profil-facebook-saya.blogspot.com^
 ||proteccion-outlook2026.iceiy.com^
 ||protected-request.com^
-||pryo4j34nm34889.skin^
 ||pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev^
 ||public.static-whatsapp.com^
 ||pushkar-hub.github.io^
@@ -712,7 +711,6 @@
 ||rents.ac^
 ||rev.it^
 ||roblox-login.vercel.app^
-||roblox.com.am^
 ||roblox.com.bi^
 ||roblox.com.bn^
 ||roblox.com.bo^
@@ -736,7 +734,6 @@
 ||santandercitas.com^
 ||saque-instagram.com^
 ||saventureinfratech234-boop.github.io^
-||scan-whatsapp.com^
 ||sec-whatsapp.com^
 ||secure-dropbox.ist^
 ||securedsupport-coinbase.com^
@@ -753,10 +750,8 @@
 ||sign-in-to-xfinity-090.weebly.com^
 ||sign-in-to-xfinity-87653.weebly.com^
 ||sk-facebook.blogspot.com^
-||smar96340203.lol^
 ||spotify-a9.netlify.app^
 ||spotify-client-beta.vercel.app^
-||spotify-modapk.com^
 ||spotify-payment.click^
 ||spotify-plus.com^
 ||spotify25.netlify.app^
@@ -766,6 +761,7 @@
 ||start-ledgren.zapier.app^
 ||start-linkedin.com^
 ||start-web-en-ledger-live-login.typedream.app^
+||static.scan-whatsapp.com^
 ||static.wave-whatsapp.com^
 ||steamcommunity-balanceworkshop.shop^
 ||steamcommunity.blog^
@@ -830,10 +826,12 @@
 ||web-conect-us-ledger-live-wallet.typedream.app^
 ||web-spotify.cn^
 ||web-trezor-io-start-us.vercel.app^
+||web.scan-whatsapp.com^
 ||webaccess-alert.com^
 ||webstore.vn^
 ||weekly.comm-whatsapp.com^
 ||wellsfargo-worl.vercel.app^
+||wellsfargoverify.net^
 ||whatsapp-fast.vercel.app^
 ||whatsapp-iamsuyash.vercel.app^
 ||whatsapp-indonesia877.blogspot.com^
