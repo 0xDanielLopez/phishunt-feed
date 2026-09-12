@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
 # Entries: 855
-# Updated: 2026-09-12T04:36:04Z
+# Updated: 2026-09-12T10:48:11Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -21,7 +21,6 @@
 0.0.0.0 819283-kraken.com
 0.0.0.0 978489-coinbase.com
 0.0.0.0 98j657503f23.homes
-0.0.0.0 a08786897-beep.github.io
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
 0.0.0.0 aaryan-musk.github.io
@@ -142,7 +141,6 @@
 0.0.0.0 comecome.click
 0.0.0.0 correoscri.cc
 0.0.0.0 correosiicr.cc
-0.0.0.0 coxilab.de
 0.0.0.0 ct.ws
 0.0.0.0 cz-facebook.blogspot.com
 0.0.0.0 daservglobal.com
@@ -162,6 +160,7 @@
 0.0.0.0 docs.static-whatsapp.com
 0.0.0.0 dolaition-bit.github.io
 0.0.0.0 dothome.co.kr
+0.0.0.0 dpd-ie-edit.club
 0.0.0.0 dpdi.xyz
 0.0.0.0 dpdn62.click
 0.0.0.0 dropbox-online.at
@@ -434,6 +433,7 @@
 0.0.0.0 hsbc.dev
 0.0.0.0 hsbcpress.com
 0.0.0.0 icloud-sharedalbum.com
+0.0.0.0 icloudfinder.help
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 indiarevolutionnova.github.io
@@ -541,7 +541,6 @@
 0.0.0.0 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 0.0.0.0 loginfacebook-facebook.blogspot.com
 0.0.0.0 logowanie-facebook.vercel.app
-0.0.0.0 lokala-ofera89121.cfd
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lovevivah.com
@@ -632,6 +631,7 @@
 0.0.0.0 netsolhost.com
 0.0.0.0 network-facebook.blogspot.com
 0.0.0.0 news.static-whatsapp.com
+0.0.0.0 niels-meyer.de
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 ofertaa9455241593275.cfd
@@ -667,6 +667,7 @@
 0.0.0.0 photo.comm-whatsapp.com
 0.0.0.0 photo.static-whatsapp.com
 0.0.0.0 pl-019692205.cfd
+0.0.0.0 pl-72739.sbs
 0.0.0.0 pl-92783.click
 0.0.0.0 pl-ogloszenie-adriankoleda-61.click
 0.0.0.0 play-google.cam
@@ -707,7 +708,6 @@
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.hr
 0.0.0.0 roblox.com.kz
-0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.ms
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt

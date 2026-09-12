@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
 ! Entries: 855
-! Updated: 2026-09-12T04:36:05Z
+! Updated: 2026-09-12T10:48:11Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -21,7 +21,6 @@
 ||819283-kraken.com^
 ||978489-coinbase.com^
 ||98j657503f23.homes^
-||a08786897-beep.github.io^
 ||a1-kraken.com^
 ||a2zapk.co^
 ||aaryan-musk.github.io^
@@ -142,7 +141,6 @@
 ||comecome.click^
 ||correoscri.cc^
 ||correosiicr.cc^
-||coxilab.de^
 ||ct.ws^
 ||cz-facebook.blogspot.com^
 ||daservglobal.com^
@@ -162,6 +160,7 @@
 ||docs.static-whatsapp.com^
 ||dolaition-bit.github.io^
 ||dothome.co.kr^
+||dpd-ie-edit.club^
 ||dpdi.xyz^
 ||dpdn62.click^
 ||dropbox-online.at^
@@ -434,6 +433,7 @@
 ||hsbc.dev^
 ||hsbcpress.com^
 ||icloud-sharedalbum.com^
+||icloudfinder.help^
 ||ideeo.mx^
 ||ifotografix.co.uk^
 ||indiarevolutionnova.github.io^
@@ -541,7 +541,6 @@
 ||login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org^
 ||loginfacebook-facebook.blogspot.com^
 ||logowanie-facebook.vercel.app^
-||lokala-ofera89121.cfd^
 ||love-facebook.blogspot.com^
 ||lovefive-facebook.blogspot.com^
 ||lovevivah.com^
@@ -632,6 +631,7 @@
 ||netsolhost.com^
 ||network-facebook.blogspot.com^
 ||news.static-whatsapp.com^
+||niels-meyer.de^
 ||noreply-icloud.app^
 ||nw-facebook.blogspot.com^
 ||ofertaa9455241593275.cfd^
@@ -667,6 +667,7 @@
 ||photo.comm-whatsapp.com^
 ||photo.static-whatsapp.com^
 ||pl-019692205.cfd^
+||pl-72739.sbs^
 ||pl-92783.click^
 ||pl-ogloszenie-adriankoleda-61.click^
 ||play-google.cam^
@@ -707,7 +708,6 @@
 ||roblox.com.gr^
 ||roblox.com.hr^
 ||roblox.com.kz^
-||roblox.com.ml^
 ||roblox.com.ms^
 ||roblox.com.mu^
 ||roblox.com.pt^
