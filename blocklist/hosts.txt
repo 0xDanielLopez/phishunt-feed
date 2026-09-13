@@ -1,13 +1,16 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 869
-# Updated: 2026-09-12T20:34:01Z
+# Entries: 871
+# Updated: 2026-09-13T04:49:19Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
 0.0.0.0 01felipeaugusto-star.github.io
+0.0.0.0 058ji56i56g35g3.skin
+0.0.0.0 12012309h485.beer
 0.0.0.0 123-facebook.blogspot.com
+0.0.0.0 1231236kk.buzz
 0.0.0.0 164196-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 283674-coinbase.com
@@ -17,8 +20,9 @@
 0.0.0.0 818144-kraken.com
 0.0.0.0 818920-kraken.com
 0.0.0.0 819283-kraken.com
-0.0.0.0 878279jsmar889.lol
+0.0.0.0 8643275.pl
 0.0.0.0 978489-coinbase.com
+0.0.0.0 9j8273r39956jh65u45g.beer
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
 0.0.0.0 aaryan-musk.github.io
@@ -57,6 +61,7 @@
 0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
+0.0.0.0 app-exodusweb.pages.dev
 0.0.0.0 app-facebook.blogspot.com
 0.0.0.0 app81-facebook.blogspot.com
 0.0.0.0 apple-verify.us
@@ -140,8 +145,6 @@
 0.0.0.0 comcastlog.weebly.com
 0.0.0.0 comcastnetmail.weebly.com
 0.0.0.0 comcastsurvey.weebly.com
-0.0.0.0 comecome.click
-0.0.0.0 connect.wave-whatsapp.com
 0.0.0.0 correoscri.cc
 0.0.0.0 correosiicr.cc
 0.0.0.0 ct.ws
@@ -156,7 +159,6 @@
 0.0.0.0 desktop.static-whatsapp.com
 0.0.0.0 dhl-expressmy.com
 0.0.0.0 dir.com.my
-0.0.0.0 dispute-coinbase.com
 0.0.0.0 dj-facebook.blogspot.com
 0.0.0.0 dk-produkt392584.sbs
 0.0.0.0 docs-google.com
@@ -177,7 +179,6 @@
 0.0.0.0 ebay-phone-number.blogspot.com
 0.0.0.0 ebay-seller-center-managedpayments.vercel.app
 0.0.0.0 ebay-wholesale.com
-0.0.0.0 ebayfoll.store
 0.0.0.0 ebaymclaren-austin.eventshouse.app
 0.0.0.0 ebaymevip.com
 0.0.0.0 edgeone.dev
@@ -185,7 +186,6 @@
 0.0.0.0 emersondasilva-dev.github.io
 0.0.0.0 emmanueldegreatltd.com
 0.0.0.0 empresas-hsbc.com
-0.0.0.0 eng-usa.app
 0.0.0.0 epsilons.co
 0.0.0.0 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
 0.0.0.0 eu-facebook.blogspot.com
@@ -421,7 +421,6 @@
 0.0.0.0 googleplty.com
 0.0.0.0 googleuserlogin.cam
 0.0.0.0 googleww.com
-0.0.0.0 gpcconcrete.co.nz
 0.0.0.0 grupoimpaktu.ao
 0.0.0.0 hackerog17.github.io
 0.0.0.0 hasan-321.github.io
@@ -439,11 +438,10 @@
 0.0.0.0 hsbc.dev
 0.0.0.0 hsbcpress.com
 0.0.0.0 hub-whatsapp.com
+0.0.0.0 icloud-asisten-official.com
 0.0.0.0 icloud-sharedalbum.com
-0.0.0.0 icloudfinder.help
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
-0.0.0.0 inbox.wave-whatsapp.com
 0.0.0.0 indiarevolutionnova.github.io
 0.0.0.0 info-facebook.blogspot.com
 0.0.0.0 iniciamazon.com.br
@@ -558,7 +556,6 @@
 0.0.0.0 m4ntapaset.ink
 0.0.0.0 mail-xfinitylogin.weebly.com
 0.0.0.0 mail.static-whatsapp.com
-0.0.0.0 main.wave-whatsapp.com
 0.0.0.0 manish1719.github.io
 0.0.0.0 mb-facebook.blogspot.com
 0.0.0.0 mclarencar.ebaymclaren-austin.eventshouse.app
@@ -646,6 +643,7 @@
 0.0.0.0 niels-meyer.de
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
+0.0.0.0 oferta5927.cfd
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 okta-whatsapp.com
 0.0.0.0 online-facebook-privacy.blogspot.com
@@ -678,7 +676,6 @@
 0.0.0.0 photo.comm-whatsapp.com
 0.0.0.0 photo.static-whatsapp.com
 0.0.0.0 pl-019692205.cfd
-0.0.0.0 pl-72739.sbs
 0.0.0.0 pl-92783.click
 0.0.0.0 pl-ogloszenie-adriankoleda-61.click
 0.0.0.0 play-google.cam
@@ -693,6 +690,9 @@
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 proteccion-outlook2026.iceiy.com
 0.0.0.0 protected-request.com
+0.0.0.0 proy5283hh.help
+0.0.0.0 prywanm543823901.beer
+0.0.0.0 pryweantm438934.beer
 0.0.0.0 pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev
 0.0.0.0 public.static-whatsapp.com
 0.0.0.0 pushkar-hub.github.io
@@ -739,6 +739,7 @@
 0.0.0.0 securedsupport-coinbase.com
 0.0.0.0 secutury-facebook.blogspot.com
 0.0.0.0 sena-facebook.blogspot.com
+0.0.0.0 send-secure-trustwallet-usdt-bip20.vercel.app
 0.0.0.0 services-facebook.blogspot.com
 0.0.0.0 seureonline.shop
 0.0.0.0 sgn-1.com
@@ -762,7 +763,6 @@
 0.0.0.0 start-linkedin.com
 0.0.0.0 start-web-en-ledger-live-login.typedream.app
 0.0.0.0 static.scan-whatsapp.com
-0.0.0.0 static.wave-whatsapp.com
 0.0.0.0 steamcommunity-balanceworkshop.shop
 0.0.0.0 steamcommunity.blog
 0.0.0.0 steamcommunity.ing
@@ -788,6 +788,7 @@
 0.0.0.0 transcode.static-whatsapp.com
 0.0.0.0 trezor-login-us-auth-start.typedream.app
 0.0.0.0 trezorguide.vercel.app
+0.0.0.0 troubleshoots-google.com
 0.0.0.0 trust-wallet-bnb.vercel.app
 0.0.0.0 trust-wallet-contact.vercel.app
 0.0.0.0 trust-wallet-customer-support-number.github.io
@@ -797,6 +798,7 @@
 0.0.0.0 trustwallet-neon.vercel.app
 0.0.0.0 trustwallet-secure-check.vercel.app
 0.0.0.0 trustwallet-tokentwtowner.vercel.app
+0.0.0.0 trustwalletreport.vercel.app
 0.0.0.0 trustwalletsupport.dev
 0.0.0.0 twineapp.com
 0.0.0.0 twinehr.com
@@ -823,6 +825,7 @@
 0.0.0.0 vpnuse.eu.org
 0.0.0.0 vwwv-icloud.com
 0.0.0.0 wasmer.app
+0.0.0.0 wave-whatsapp.com
 0.0.0.0 web-conect-us-ledger-live-wallet.typedream.app
 0.0.0.0 web-spotify.cn
 0.0.0.0 web-trezor-io-start-us.vercel.app
@@ -874,4 +877,3 @@
 0.0.0.0 z-instagram.blogspot.com
 0.0.0.0 zelleria.shop
 0.0.0.0 zeta-facebook.blogspot.com
-0.0.0.0 zh.wave-whatsapp.com

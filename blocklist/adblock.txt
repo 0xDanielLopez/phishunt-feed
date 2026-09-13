@@ -1,13 +1,16 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 869
-! Updated: 2026-09-12T20:34:01Z
+! Entries: 871
+! Updated: 2026-09-13T04:49:20Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
 ! Community-reported phishing domains. Use at your own risk.
 
 ||01felipeaugusto-star.github.io^
+||058ji56i56g35g3.skin^
+||12012309h485.beer^
 ||123-facebook.blogspot.com^
+||1231236kk.buzz^
 ||164196-coinbase.com^
 ||2017-facebook.blogspot.com^
 ||283674-coinbase.com^
@@ -17,8 +20,9 @@
 ||818144-kraken.com^
 ||818920-kraken.com^
 ||819283-kraken.com^
-||878279jsmar889.lol^
+||8643275.pl^
 ||978489-coinbase.com^
+||9j8273r39956jh65u45g.beer^
 ||a1-kraken.com^
 ||a2zapk.co^
 ||aaryan-musk.github.io^
@@ -57,6 +61,7 @@
 ||antimoney-laundering.org^
 ||apk-google.cn^
 ||app-binance.github.io^
+||app-exodusweb.pages.dev^
 ||app-facebook.blogspot.com^
 ||app81-facebook.blogspot.com^
 ||apple-verify.us^
@@ -140,8 +145,6 @@
 ||comcastlog.weebly.com^
 ||comcastnetmail.weebly.com^
 ||comcastsurvey.weebly.com^
-||comecome.click^
-||connect.wave-whatsapp.com^
 ||correoscri.cc^
 ||correosiicr.cc^
 ||ct.ws^
@@ -156,7 +159,6 @@
 ||desktop.static-whatsapp.com^
 ||dhl-expressmy.com^
 ||dir.com.my^
-||dispute-coinbase.com^
 ||dj-facebook.blogspot.com^
 ||dk-produkt392584.sbs^
 ||docs-google.com^
@@ -177,7 +179,6 @@
 ||ebay-phone-number.blogspot.com^
 ||ebay-seller-center-managedpayments.vercel.app^
 ||ebay-wholesale.com^
-||ebayfoll.store^
 ||ebaymclaren-austin.eventshouse.app^
 ||ebaymevip.com^
 ||edgeone.dev^
@@ -185,7 +186,6 @@
 ||emersondasilva-dev.github.io^
 ||emmanueldegreatltd.com^
 ||empresas-hsbc.com^
-||eng-usa.app^
 ||epsilons.co^
 ||erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org^
 ||eu-facebook.blogspot.com^
@@ -421,7 +421,6 @@
 ||googleplty.com^
 ||googleuserlogin.cam^
 ||googleww.com^
-||gpcconcrete.co.nz^
 ||grupoimpaktu.ao^
 ||hackerog17.github.io^
 ||hasan-321.github.io^
@@ -439,11 +438,10 @@
 ||hsbc.dev^
 ||hsbcpress.com^
 ||hub-whatsapp.com^
+||icloud-asisten-official.com^
 ||icloud-sharedalbum.com^
-||icloudfinder.help^
 ||ideeo.mx^
 ||ifotografix.co.uk^
-||inbox.wave-whatsapp.com^
 ||indiarevolutionnova.github.io^
 ||info-facebook.blogspot.com^
 ||iniciamazon.com.br^
@@ -558,7 +556,6 @@
 ||m4ntapaset.ink^
 ||mail-xfinitylogin.weebly.com^
 ||mail.static-whatsapp.com^
-||main.wave-whatsapp.com^
 ||manish1719.github.io^
 ||mb-facebook.blogspot.com^
 ||mclarencar.ebaymclaren-austin.eventshouse.app^
@@ -646,6 +643,7 @@
 ||niels-meyer.de^
 ||noreply-icloud.app^
 ||nw-facebook.blogspot.com^
+||oferta5927.cfd^
 ||office365licensingsupport.com^
 ||okta-whatsapp.com^
 ||online-facebook-privacy.blogspot.com^
@@ -678,7 +676,6 @@
 ||photo.comm-whatsapp.com^
 ||photo.static-whatsapp.com^
 ||pl-019692205.cfd^
-||pl-72739.sbs^
 ||pl-92783.click^
 ||pl-ogloszenie-adriankoleda-61.click^
 ||play-google.cam^
@@ -693,6 +690,9 @@
 ||profil-facebook-saya.blogspot.com^
 ||proteccion-outlook2026.iceiy.com^
 ||protected-request.com^
+||proy5283hh.help^
+||prywanm543823901.beer^
+||pryweantm438934.beer^
 ||pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev^
 ||public.static-whatsapp.com^
 ||pushkar-hub.github.io^
@@ -739,6 +739,7 @@
 ||securedsupport-coinbase.com^
 ||secutury-facebook.blogspot.com^
 ||sena-facebook.blogspot.com^
+||send-secure-trustwallet-usdt-bip20.vercel.app^
 ||services-facebook.blogspot.com^
 ||seureonline.shop^
 ||sgn-1.com^
@@ -762,7 +763,6 @@
 ||start-linkedin.com^
 ||start-web-en-ledger-live-login.typedream.app^
 ||static.scan-whatsapp.com^
-||static.wave-whatsapp.com^
 ||steamcommunity-balanceworkshop.shop^
 ||steamcommunity.blog^
 ||steamcommunity.ing^
@@ -788,6 +788,7 @@
 ||transcode.static-whatsapp.com^
 ||trezor-login-us-auth-start.typedream.app^
 ||trezorguide.vercel.app^
+||troubleshoots-google.com^
 ||trust-wallet-bnb.vercel.app^
 ||trust-wallet-contact.vercel.app^
 ||trust-wallet-customer-support-number.github.io^
@@ -797,6 +798,7 @@
 ||trustwallet-neon.vercel.app^
 ||trustwallet-secure-check.vercel.app^
 ||trustwallet-tokentwtowner.vercel.app^
+||trustwalletreport.vercel.app^
 ||trustwalletsupport.dev^
 ||twineapp.com^
 ||twinehr.com^
@@ -823,6 +825,7 @@
 ||vpnuse.eu.org^
 ||vwwv-icloud.com^
 ||wasmer.app^
+||wave-whatsapp.com^
 ||web-conect-us-ledger-live-wallet.typedream.app^
 ||web-spotify.cn^
 ||web-trezor-io-start-us.vercel.app^
@@ -874,4 +877,3 @@
 ||z-instagram.blogspot.com^
 ||zelleria.shop^
 ||zeta-facebook.blogspot.com^
-||zh.wave-whatsapp.com^
