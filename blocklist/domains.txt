@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 871
-# Updated: 2026-09-13T04:49:18Z
+# Entries: 869
+# Updated: 2026-09-13T11:54:09Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -20,7 +20,7 @@
 818144-kraken.com
 818920-kraken.com
 819283-kraken.com
-8643275.pl
+94238796j5.beer
 978489-coinbase.com
 9j8273r39956jh65u45g.beer
 a1-kraken.com
@@ -44,7 +44,6 @@ alibaba666.pro
 alibaba66a.net
 alibaba66malaysia.app
 alibaba66slot.app
-alibabarest.com
 amazon-ecommerce-nine.vercel.app
 amazon-eight-taupe.vercel.app
 amazon-front-me.vercel.app
@@ -641,6 +640,7 @@ network-facebook.blogspot.com
 news-revolut.com
 news.static-whatsapp.com
 niels-meyer.de
+nldc-googlesudahmulaistabil.pages.dev
 noreply-icloud.app
 nw-facebook.blogspot.com
 oferta5927.cfd
@@ -677,7 +677,6 @@ photo.comm-whatsapp.com
 photo.static-whatsapp.com
 pl-019692205.cfd
 pl-92783.click
-pl-ogloszenie-adriankoleda-61.click
 play-google.cam
 playground.static-whatsapp.com
 prajwalkuchewar.github.io
@@ -691,6 +690,7 @@ profil-facebook-saya.blogspot.com
 proteccion-outlook2026.iceiy.com
 protected-request.com
 proy5283hh.help
+pry5nmm6798.buzz
 prywanm543823901.beer
 pryweantm438934.beer
 pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev
@@ -713,13 +713,10 @@ rev.it
 roblox-login.vercel.app
 roblox.com.bi
 roblox.com.bn
-roblox.com.bo
-roblox.com.bz
 roblox.com.gr
 roblox.com.hr
 roblox.com.kz
 roblox.com.ml
-roblox.com.ms
 roblox.com.mu
 roblox.com.pt
 rricrosoft-offices.org
@@ -751,6 +748,7 @@ sigma-whatsapp.com
 sign-in-to-xfinity-090.weebly.com
 sign-in-to-xfinity-87653.weebly.com
 sk-facebook.blogspot.com
+smswt.in
 spotify-a9.netlify.app
 spotify-client-beta.vercel.app
 spotify-payment.click

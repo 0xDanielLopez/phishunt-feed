@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 871
-# Updated: 2026-09-13T04:49:19Z
+# Entries: 869
+# Updated: 2026-09-13T11:54:10Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -20,7 +20,7 @@
 0.0.0.0 818144-kraken.com
 0.0.0.0 818920-kraken.com
 0.0.0.0 819283-kraken.com
-0.0.0.0 8643275.pl
+0.0.0.0 94238796j5.beer
 0.0.0.0 978489-coinbase.com
 0.0.0.0 9j8273r39956jh65u45g.beer
 0.0.0.0 a1-kraken.com
@@ -44,7 +44,6 @@
 0.0.0.0 alibaba66a.net
 0.0.0.0 alibaba66malaysia.app
 0.0.0.0 alibaba66slot.app
-0.0.0.0 alibabarest.com
 0.0.0.0 amazon-ecommerce-nine.vercel.app
 0.0.0.0 amazon-eight-taupe.vercel.app
 0.0.0.0 amazon-front-me.vercel.app
@@ -641,6 +640,7 @@
 0.0.0.0 news-revolut.com
 0.0.0.0 news.static-whatsapp.com
 0.0.0.0 niels-meyer.de
+0.0.0.0 nldc-googlesudahmulaistabil.pages.dev
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 oferta5927.cfd
@@ -677,7 +677,6 @@
 0.0.0.0 photo.static-whatsapp.com
 0.0.0.0 pl-019692205.cfd
 0.0.0.0 pl-92783.click
-0.0.0.0 pl-ogloszenie-adriankoleda-61.click
 0.0.0.0 play-google.cam
 0.0.0.0 playground.static-whatsapp.com
 0.0.0.0 prajwalkuchewar.github.io
@@ -691,6 +690,7 @@
 0.0.0.0 proteccion-outlook2026.iceiy.com
 0.0.0.0 protected-request.com
 0.0.0.0 proy5283hh.help
+0.0.0.0 pry5nmm6798.buzz
 0.0.0.0 prywanm543823901.beer
 0.0.0.0 pryweantm438934.beer
 0.0.0.0 pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev
@@ -713,13 +713,10 @@
 0.0.0.0 roblox-login.vercel.app
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
-0.0.0.0 roblox.com.bo
-0.0.0.0 roblox.com.bz
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.hr
 0.0.0.0 roblox.com.kz
 0.0.0.0 roblox.com.ml
-0.0.0.0 roblox.com.ms
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 rricrosoft-offices.org
@@ -751,6 +748,7 @@
 0.0.0.0 sign-in-to-xfinity-090.weebly.com
 0.0.0.0 sign-in-to-xfinity-87653.weebly.com
 0.0.0.0 sk-facebook.blogspot.com
+0.0.0.0 smswt.in
 0.0.0.0 spotify-a9.netlify.app
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotify-payment.click
