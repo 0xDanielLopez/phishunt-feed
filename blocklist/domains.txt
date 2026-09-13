@@ -1,13 +1,12 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 869
-# Updated: 2026-09-13T11:54:09Z
+# Entries: 873
+# Updated: 2026-09-13T16:18:20Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
 01felipeaugusto-star.github.io
-058ji56i56g35g3.skin
 12012309h485.beer
 123-facebook.blogspot.com
 1231236kk.buzz
@@ -16,6 +15,7 @@
 283674-coinbase.com
 286364-coinbase.com
 393bet-facebook.sa.com
+491290h45h.help
 54893-coinbase.com
 818144-kraken.com
 818920-kraken.com
@@ -102,6 +102,7 @@ binanceuz.co
 binancewallett.blogspot.com
 biowikiweb.com
 blamedame.com
+blog-whatsappx.hl.cn
 bmb.adv.br
 bnb-trust-wallet.vercel.app
 bnext.es
@@ -546,6 +547,8 @@ login.rmdbwskx.santander.bimp-bot.duckdns.org
 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 loginfacebook-facebook.blogspot.com
 logowanie-facebook.vercel.app
+lokaina-48234.sbs
+lokalna-4019.sbs
 love-facebook.blogspot.com
 lovefive-facebook.blogspot.com
 lovevivah.com
@@ -620,6 +623,7 @@ netflix-github-com.vercel.app
 netflix-homepage-pi.vercel.app
 netflix-lake.vercel.app
 netflix-login.blogspot.com
+netflix-registro.com
 netflix-two-mu.vercel.app
 netflix-web-site-three.vercel.app
 netflix.surf
@@ -640,7 +644,6 @@ network-facebook.blogspot.com
 news-revolut.com
 news.static-whatsapp.com
 niels-meyer.de
-nldc-googlesudahmulaistabil.pages.dev
 noreply-icloud.app
 nw-facebook.blogspot.com
 oferta5927.cfd
@@ -677,13 +680,11 @@ photo.comm-whatsapp.com
 photo.static-whatsapp.com
 pl-019692205.cfd
 pl-92783.click
-play-google.cam
 playground.static-whatsapp.com
 prajwalkuchewar.github.io
 premio-instagram.com
 premium.comm-whatsapp.com
 premium.static-whatsapp.com
-private.comm-whatsapp.com
 private.static-whatsapp.com
 prizebond.net.pk
 profil-facebook-saya.blogspot.com
@@ -711,6 +712,7 @@ rekemonedasi-facebook.org
 rents.ac
 rev.it
 roblox-login.vercel.app
+roblox.com.am
 roblox.com.bi
 roblox.com.bn
 roblox.com.gr
@@ -758,7 +760,6 @@ spotifypremium.live
 srpska-banka.com
 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 start-ledgren.zapier.app
-start-linkedin.com
 start-web-en-ledger-live-login.typedream.app
 static.scan-whatsapp.com
 steamcommunity-balanceworkshop.shop
@@ -786,6 +787,7 @@ trackingnumbers.org
 transcode.static-whatsapp.com
 trezor-login-us-auth-start.typedream.app
 trezorguide.vercel.app
+trezoriostarts.godaddysites.com
 troubleshoots-google.com
 trust-wallet-bnb.vercel.app
 trust-wallet-contact.vercel.app
@@ -804,8 +806,10 @@ twitterfav.com
 uk-facebook.blogspot.com
 updata.net.cn
 upgradexfinty.weebly.com
+us.ci
 usacrazyseller.com
 usdt-trustwallet-blockchain.vercel.app
+usps-email.com
 usps-stampservice.com
 uspsaunitedworkforce.com
 uspsecuredlogs.com
@@ -831,8 +835,8 @@ web.scan-whatsapp.com
 webaccess-alert.com
 webstore.vn
 weekly.comm-whatsapp.com
+welcome-trezor-bridge.godaddysites.com
 wellsfargo-worl.vercel.app
-wellsfargoverify.net
 whatsapp-fast.vercel.app
 whatsapp-iamsuyash.vercel.app
 whatsapp-indonesia877.blogspot.com

@@ -1,13 +1,12 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 869
-# Updated: 2026-09-13T11:54:10Z
+# Entries: 873
+# Updated: 2026-09-13T16:18:20Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
 0.0.0.0 01felipeaugusto-star.github.io
-0.0.0.0 058ji56i56g35g3.skin
 0.0.0.0 12012309h485.beer
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 1231236kk.buzz
@@ -16,6 +15,7 @@
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
 0.0.0.0 393bet-facebook.sa.com
+0.0.0.0 491290h45h.help
 0.0.0.0 54893-coinbase.com
 0.0.0.0 818144-kraken.com
 0.0.0.0 818920-kraken.com
@@ -102,6 +102,7 @@
 0.0.0.0 binancewallett.blogspot.com
 0.0.0.0 biowikiweb.com
 0.0.0.0 blamedame.com
+0.0.0.0 blog-whatsappx.hl.cn
 0.0.0.0 bmb.adv.br
 0.0.0.0 bnb-trust-wallet.vercel.app
 0.0.0.0 bnext.es
@@ -546,6 +547,8 @@
 0.0.0.0 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 0.0.0.0 loginfacebook-facebook.blogspot.com
 0.0.0.0 logowanie-facebook.vercel.app
+0.0.0.0 lokaina-48234.sbs
+0.0.0.0 lokalna-4019.sbs
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lovevivah.com
@@ -620,6 +623,7 @@
 0.0.0.0 netflix-homepage-pi.vercel.app
 0.0.0.0 netflix-lake.vercel.app
 0.0.0.0 netflix-login.blogspot.com
+0.0.0.0 netflix-registro.com
 0.0.0.0 netflix-two-mu.vercel.app
 0.0.0.0 netflix-web-site-three.vercel.app
 0.0.0.0 netflix.surf
@@ -640,7 +644,6 @@
 0.0.0.0 news-revolut.com
 0.0.0.0 news.static-whatsapp.com
 0.0.0.0 niels-meyer.de
-0.0.0.0 nldc-googlesudahmulaistabil.pages.dev
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 oferta5927.cfd
@@ -677,13 +680,11 @@
 0.0.0.0 photo.static-whatsapp.com
 0.0.0.0 pl-019692205.cfd
 0.0.0.0 pl-92783.click
-0.0.0.0 play-google.cam
 0.0.0.0 playground.static-whatsapp.com
 0.0.0.0 prajwalkuchewar.github.io
 0.0.0.0 premio-instagram.com
 0.0.0.0 premium.comm-whatsapp.com
 0.0.0.0 premium.static-whatsapp.com
-0.0.0.0 private.comm-whatsapp.com
 0.0.0.0 private.static-whatsapp.com
 0.0.0.0 prizebond.net.pk
 0.0.0.0 profil-facebook-saya.blogspot.com
@@ -711,6 +712,7 @@
 0.0.0.0 rents.ac
 0.0.0.0 rev.it
 0.0.0.0 roblox-login.vercel.app
+0.0.0.0 roblox.com.am
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.gr
@@ -758,7 +760,6 @@
 0.0.0.0 srpska-banka.com
 0.0.0.0 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 0.0.0.0 start-ledgren.zapier.app
-0.0.0.0 start-linkedin.com
 0.0.0.0 start-web-en-ledger-live-login.typedream.app
 0.0.0.0 static.scan-whatsapp.com
 0.0.0.0 steamcommunity-balanceworkshop.shop
@@ -786,6 +787,7 @@
 0.0.0.0 transcode.static-whatsapp.com
 0.0.0.0 trezor-login-us-auth-start.typedream.app
 0.0.0.0 trezorguide.vercel.app
+0.0.0.0 trezoriostarts.godaddysites.com
 0.0.0.0 troubleshoots-google.com
 0.0.0.0 trust-wallet-bnb.vercel.app
 0.0.0.0 trust-wallet-contact.vercel.app
@@ -804,8 +806,10 @@
 0.0.0.0 uk-facebook.blogspot.com
 0.0.0.0 updata.net.cn
 0.0.0.0 upgradexfinty.weebly.com
+0.0.0.0 us.ci
 0.0.0.0 usacrazyseller.com
 0.0.0.0 usdt-trustwallet-blockchain.vercel.app
+0.0.0.0 usps-email.com
 0.0.0.0 usps-stampservice.com
 0.0.0.0 uspsaunitedworkforce.com
 0.0.0.0 uspsecuredlogs.com
@@ -831,8 +835,8 @@
 0.0.0.0 webaccess-alert.com
 0.0.0.0 webstore.vn
 0.0.0.0 weekly.comm-whatsapp.com
+0.0.0.0 welcome-trezor-bridge.godaddysites.com
 0.0.0.0 wellsfargo-worl.vercel.app
-0.0.0.0 wellsfargoverify.net
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-iamsuyash.vercel.app
 0.0.0.0 whatsapp-indonesia877.blogspot.com
