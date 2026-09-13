@@ -1,10 +1,10 @@
 {
  "date": "2026-09-13",
- "updated": "2026-09-13T16:18:21Z",
+ "updated": "2026-09-13T20:51:07Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 30,
+  "added": 38,
   "removed": 29
  },
  "added": [
@@ -14,6 +14,7 @@
   "http://allegro.9j8273r39956jh65u45g.beer",
   "http://allegro.proy5283hh.help",
   "http://allegro.prywanm543823901.beer",
+  "http://allegro.prywanrm2388129.beer",
   "http://allegro.pryweantm438934.beer",
   "http://allegrolokalnie.lokalna-4019.sbs",
   "http://allegrolokalnie.oferta5927.cfd/oferta/johnathannscloudflarecom-katenscloudflarecom/yret8grru7jzj2ukj5?fbclid=iwcgrvzgnlehrua2flbqixmqbzcnrjbmfwcf9pza80mzc2mjyzmty5nzm3odgaar4l2bi3_s4qcpzm9cp5kplch3caxdcdzwj7nzet3f2qekj5ikre0h5-hpb-kw_aem_rd2hmcpozasdl4rirk4e6w",
@@ -22,11 +23,17 @@
   "http://wetransfer-east856-dppejjz76yzz.edgeone.dev",
   "https://73a2370016b7.v1boottaps.paypal-signin.antimoney-laundering.org",
   "https://account.docusign.us.ci",
+  "https://accounts.google.login.secure.id.google.com.zkey0.com",
   "https://allegro.94238796j5.beer",
   "https://allegro.pry5nmm6798.buzz",
   "https://allegrolokalnie.lokaina-48234.sbs",
+  "https://annulation-amazon.com",
   "https://app-exodusweb.pages.dev/%22%3EExodus",
+  "https://autoconfig.190842-coinbase.com",
   "https://blog-whatsappx.hl.cn",
+  "https://gameofamazon.com",
+  "https://googleapps.shop",
+  "https://gps-icloudsupport.pro",
   "https://icloud-asisten-official.com",
   "https://netflix-registro.com/captcha",
   "https://roblox.com.am/users/258958418528/profile",
@@ -37,6 +44,7 @@
   "https://trezoriostarts.godaddysites.com",
   "https://troubleshoots-google.com",
   "https://usps-email.com",
+  "https://web-login-whatsapp.com",
   "https://welcome-trezor-bridge.godaddysites.com"
  ],
  "removed": [

@@ -1,5 +1,355 @@
 [
   {
+    "url": "https://gameofamazon.com",
+    "domain": "gameofamazon.com",
+    "company": "amazon",
+    "date": "2026-09-13T18:58:20.815003+00:00",
+    "first_seen": "2026-09-13T18:58:20.815003+00:00",
+    "uuid": "cc4312e4-bb69-4220-a64c-ca3577d2644e",
+    "ip": "154.199.200.247",
+    "country": "Hong Kong",
+    "asn": "9294",
+    "org": "GNET INC.",
+    "cert": "Let's Encrypt",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": true,
+    "top_signals": [],
+    "score": 0,
+    "verdict": "noise"
+  },
+  {
+    "url": "https://accounts.google.login.secure.id.google.com.zkey0.com",
+    "domain": "accounts.google.login.secure.id.google.com.zkey0.com",
+    "company": "google",
+    "date": "2026-09-13T17:25:21.971053+00:00",
+    "first_seen": "2026-09-13T17:25:21.971053+00:00",
+    "uuid": "7d4a3ecd-2c70-4edf-aad2-a6aee77de68a",
+    "ip": "104.21.23.171",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 1.8
+      }
+    ],
+    "score": 28,
+    "verdict": "low"
+  },
+  {
+    "url": "https://web-login-whatsapp.com",
+    "domain": "web-login-whatsapp.com",
+    "company": "whatsapp",
+    "date": "2026-09-13T17:25:20.707604+00:00",
+    "first_seen": "2026-09-13T17:25:20.707604+00:00",
+    "uuid": "d07fd382-ec87-496d-ac83-222d88244d2c",
+    "ip": "162.4.41.85",
+    "country": "Hong Kong",
+    "asn": "400619",
+    "org": "AROSSCLOUD INC.",
+    "cert": "YR2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 1.1
+      },
+      {
+        "signal": "domain_status_minimal",
+        "label": "No registrar lock",
+        "points": 0.9
+      }
+    ],
+    "score": 21,
+    "verdict": "low"
+  },
+  {
+    "url": "https://gps-icloudsupport.pro",
+    "domain": "gps-icloudsupport.pro",
+    "company": "apple",
+    "date": "2026-09-13T17:25:19.869478+00:00",
+    "first_seen": "2026-09-13T17:25:19.869478+00:00",
+    "uuid": "7a3d6775-c5c1-481b-900c-9bcb01001692",
+    "ip": "217.60.103.74",
+    "country": "Switzerland",
+    "asn": "209373",
+    "org": "SWISSNET LLC",
+    "cert": "YR2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 2.0
+      }
+    ],
+    "score": 26,
+    "verdict": "low"
+  },
+  {
+    "url": "https://googleapps.shop",
+    "domain": "googleapps.shop",
+    "company": "google",
+    "date": "2026-09-13T17:25:19.271153+00:00",
+    "first_seen": "2026-09-13T17:25:19.271153+00:00",
+    "uuid": "f11b0b68-2f90-4d4e-891b-42050a2b90aa",
+    "ip": "76.223.105.230",
+    "country": "United States",
+    "asn": "16509",
+    "org": "Amazon.com, Inc.",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      }
+    ],
+    "score": 30,
+    "verdict": "low"
+  },
+  {
+    "url": "https://autoconfig.190842-coinbase.com",
+    "domain": "autoconfig.190842-coinbase.com",
+    "company": "coinbase",
+    "date": "2026-09-13T17:25:17.658847+00:00",
+    "first_seen": "2026-09-13T17:25:17.658847+00:00",
+    "uuid": "717782f8-a81d-48ba-9dda-668fec632115",
+    "ip": "104.21.5.12",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 1.8
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 23,
+    "verdict": "low"
+  },
+  {
+    "url": "https://annulation-amazon.com",
+    "domain": "annulation-amazon.com",
+    "company": "amazon",
+    "date": "2026-09-13T17:25:16.957090+00:00",
+    "first_seen": "2026-09-13T17:25:16.957090+00:00",
+    "uuid": "2bb32255-f3f0-403b-b661-24a5182d5519",
+    "ip": "172.238.172.122",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 2.9
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 24,
+    "verdict": "low"
+  },
+  {
+    "url": "http://allegro.prywanrm2388129.beer",
+    "domain": "allegro.prywanrm2388129.beer",
+    "company": "allegro",
+    "date": "2026-09-13T17:01:58.916801+00:00",
+    "first_seen": "2026-09-13T17:01:58.916801+00:00",
+    "uuid": "3f5cd15b-4892-4e01-8c5a-22702515c9d9",
+    "ip": "188.114.96.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      }
+    ],
+    "score": 28,
+    "verdict": "low"
+  },
+  {
     "url": "https://allegrolokalnie.lokaina-48234.sbs",
     "domain": "allegrolokalnie.lokaina-48234.sbs",
     "company": "allegro",

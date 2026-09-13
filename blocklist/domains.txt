@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 873
-# Updated: 2026-09-13T16:18:20Z
+# Entries: 881
+# Updated: 2026-09-13T20:51:05Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -11,6 +11,7 @@
 123-facebook.blogspot.com
 1231236kk.buzz
 164196-coinbase.com
+190842-coinbase.com
 2017-facebook.blogspot.com
 283674-coinbase.com
 286364-coinbase.com
@@ -56,6 +57,7 @@ americanexpresspop.com
 amirrhasanpor0915-pixel.github.io
 amjadraza19.github.io
 ani-facebook.blogspot.com
+annulation-amazon.com
 anoopsamazon.vercel.app
 antimoney-laundering.org
 apk-google.cn
@@ -387,6 +389,7 @@ francielilimaa.github.io
 free-facebook-page-likes.blogspot.com
 fwh.is
 gafiatechnologies.com
+gameofamazon.com
 gateareis.vu
 geotehnica.com
 ggzh-google.com.cn
@@ -400,6 +403,7 @@ google1308.com
 google77bd.com
 google88.bet
 googleadsense.com.tr
+googleapps.shop
 googlebusiness.xyz
 googleepway.com
 googlelogos.com
@@ -421,6 +425,7 @@ googleplsmy.com
 googleplty.com
 googleuserlogin.cam
 googleww.com
+gps-icloudsupport.pro
 grupoimpaktu.ao
 hackerog17.github.io
 hasan-321.github.io
@@ -693,6 +698,7 @@ protected-request.com
 proy5283hh.help
 pry5nmm6798.buzz
 prywanm543823901.beer
+prywanrm2388129.beer
 pryweantm438934.beer
 pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev
 public.static-whatsapp.com
@@ -829,6 +835,7 @@ vwwv-icloud.com
 wasmer.app
 wave-whatsapp.com
 web-conect-us-ledger-live-wallet.typedream.app
+web-login-whatsapp.com
 web-spotify.cn
 web-trezor-io-start-us.vercel.app
 web.scan-whatsapp.com
@@ -879,3 +886,4 @@ z-facebook.blogspot.com
 z-instagram.blogspot.com
 zelleria.shop
 zeta-facebook.blogspot.com
+zkey0.com

@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 873
-# Updated: 2026-09-13T16:18:20Z
+# Entries: 881
+# Updated: 2026-09-13T20:51:06Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -11,6 +11,7 @@
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 1231236kk.buzz
 0.0.0.0 164196-coinbase.com
+0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
@@ -56,6 +57,7 @@
 0.0.0.0 amirrhasanpor0915-pixel.github.io
 0.0.0.0 amjadraza19.github.io
 0.0.0.0 ani-facebook.blogspot.com
+0.0.0.0 annulation-amazon.com
 0.0.0.0 anoopsamazon.vercel.app
 0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
@@ -387,6 +389,7 @@
 0.0.0.0 free-facebook-page-likes.blogspot.com
 0.0.0.0 fwh.is
 0.0.0.0 gafiatechnologies.com
+0.0.0.0 gameofamazon.com
 0.0.0.0 gateareis.vu
 0.0.0.0 geotehnica.com
 0.0.0.0 ggzh-google.com.cn
@@ -400,6 +403,7 @@
 0.0.0.0 google77bd.com
 0.0.0.0 google88.bet
 0.0.0.0 googleadsense.com.tr
+0.0.0.0 googleapps.shop
 0.0.0.0 googlebusiness.xyz
 0.0.0.0 googleepway.com
 0.0.0.0 googlelogos.com
@@ -421,6 +425,7 @@
 0.0.0.0 googleplty.com
 0.0.0.0 googleuserlogin.cam
 0.0.0.0 googleww.com
+0.0.0.0 gps-icloudsupport.pro
 0.0.0.0 grupoimpaktu.ao
 0.0.0.0 hackerog17.github.io
 0.0.0.0 hasan-321.github.io
@@ -693,6 +698,7 @@
 0.0.0.0 proy5283hh.help
 0.0.0.0 pry5nmm6798.buzz
 0.0.0.0 prywanm543823901.beer
+0.0.0.0 prywanrm2388129.beer
 0.0.0.0 pryweantm438934.beer
 0.0.0.0 pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev
 0.0.0.0 public.static-whatsapp.com
@@ -829,6 +835,7 @@
 0.0.0.0 wasmer.app
 0.0.0.0 wave-whatsapp.com
 0.0.0.0 web-conect-us-ledger-live-wallet.typedream.app
+0.0.0.0 web-login-whatsapp.com
 0.0.0.0 web-spotify.cn
 0.0.0.0 web-trezor-io-start-us.vercel.app
 0.0.0.0 web.scan-whatsapp.com
@@ -879,3 +886,4 @@
 0.0.0.0 z-instagram.blogspot.com
 0.0.0.0 zelleria.shop
 0.0.0.0 zeta-facebook.blogspot.com
+0.0.0.0 zkey0.com
