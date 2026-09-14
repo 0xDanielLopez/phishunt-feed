@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 874
-# Updated: 2026-09-14T12:49:22Z
+# Entries: 899
+# Updated: 2026-09-14T21:50:14Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -8,15 +8,17 @@
 
 01felipeaugusto-star.github.io
 123-facebook.blogspot.com
+1231230h8h5.beer
 129031828h45h.top
 1298j675h75g34.buzz
 190842-coinbase.com
 2017-facebook.blogspot.com
+274615-coinbase.com
 283674-coinbase.com
 286364-coinbase.com
 309129128h7546.beer
+32120319hh57.mom
 393bet-facebook.sa.com
-48284113-coinbase.com
 54893-coinbase.com
 818144-kraken.com
 818920-kraken.com
@@ -62,6 +64,8 @@ app-binance.github.io
 app-exodusweb.pages.dev
 app-facebook.blogspot.com
 app81-facebook.blogspot.com
+apple-icloud.azurewebsites.net
+apple-support-track.info
 apple-verify.us
 arencia-vitaminc-booster-amazon.netlify.app
 armankhan-12.github.io
@@ -102,7 +106,6 @@ binancewallett.blogspot.com
 biowikiweb.com
 blamedame.com
 blog-whatsappx.hl.cn
-bnb-trust-wallet.vercel.app
 bnext.es
 books-facebook.blogspot.com
 brad-facebook.blogspot.com
@@ -132,19 +135,23 @@ cn-byte-whatsapp.com.cn
 cn-spotify.cn
 cn.comm-whatsapp.com
 cn.static-whatsapp.com
+coinbase-account.info
 coinbase-event.vercel.app
+coinbase-securitycheck.com
 coinbase.com.lc
 coinbase99.top
 coinbasebackoffice.exchange
 coinbasee.vip
 coinbaseinvestors.ai
-coinbaseweb3wallets.com
 collectableswall.ebaymclaren-austin.eventshouse.app
 comcast2.vercel.app
 comcastcarebusiness.weebly.com
 comcastlog.weebly.com
 comcastnetmail.weebly.com
+comcastseettings.weebly.com
 comcastsurvey.weebly.com
+comcastvm.weebly.com
+connect-xfinity-log.weebly.com
 correoscri.cc
 correosiicr.cc
 ct.ws
@@ -182,6 +189,7 @@ ebaymclaren-austin.eventshouse.app
 ebaymevip.com
 edgeone.dev
 email-microsoft.com
+email-update-comcast.weebly.com
 emersondasilva-dev.github.io
 emmanueldegreatltd.com
 empresas-hsbc.com
@@ -323,6 +331,7 @@ facebooke-login.blogspot.com
 facebookfakelogin.blogspot.com
 facebookfakepage.blogspot.com
 facebookhints.blogspot.com
+facebookhotysexyvideos.blogspot.com
 facebookk-k.vercel.app
 facebookk.blogspot.com
 facebooklivepage.blogspot.com
@@ -361,6 +370,7 @@ facebookpage-noreplycenter.com
 facebookpagemanagement.com
 facebookpageslinkk.blogspot.com
 facebookprofilelinks.blogspot.com
+facebookqq.vip
 facebooksecure.blogspot.com
 facebooksecurityhelp.blogspot.com
 facebookshops.best
@@ -442,7 +452,6 @@ hsbcpress.com
 hub-whatsapp.com
 icloud-asisten-official.com
 icloud-sharedalbum.com
-id19e73jd7e9djo39e7db.sbs
 ideeo.mx
 ifotografix.co.uk
 indiarevolutionnova.github.io
@@ -509,6 +518,7 @@ instagramsupportverify.blogspot.com
 instagramunblockedd.vercel.app
 instagramusicabrasilinstagram.blogspot.com
 internal-alerts.com
+invreceiptslinkedin.com
 iqraashraf.dev
 isha-dev.com
 itau-snowy.vercel.app
@@ -524,6 +534,7 @@ jwb-facebook.blogspot.com
 kavishkadileepa01.github.io
 kenhoward.com
 kraken-tor.co.com
+kucoin9.com
 kucoinloign.gitbook.io
 kucoins-signin.com
 kucoinv.com
@@ -612,6 +623,7 @@ misilabario.cl
 ml-facebook.blogspot.com
 mobile-google.cn
 mobile.static-whatsapp.com
+movistar-recarga.icu
 movistar-recaudo-epayc.com
 munimventures.com
 muzamilmeerdev.github.io
@@ -644,6 +656,7 @@ netsolhost.com
 network-facebook.blogspot.com
 news-revolut.com
 news.static-whatsapp.com
+nhcarwraps.com
 niels-meyer.de
 noreply-icloud.app
 nw-facebook.blogspot.com
@@ -665,6 +678,7 @@ outlookmail.social
 page-instagram.vercel.app
 patch.comm-whatsapp.com
 patch.static-whatsapp.com
+patelrudra.in
 paykmc.com
 paypal-logiin.blogspot.com
 paypal-password.blogspot.com
@@ -709,6 +723,7 @@ register-facebook.blogspot.com
 rekemonedasi-facebook.org
 rents.ac
 rev.it
+rezerwacja54278.cfd
 roblox-login.vercel.app
 roblox.com.am
 roblox.com.bi
@@ -752,7 +767,6 @@ smart8437329129.buzz
 smswt.in
 spotify-a9.netlify.app
 spotify-client-beta.vercel.app
-spotify-payment.click
 spotify-plus.com
 spotify25.netlify.app
 spotifypremium.live
@@ -788,6 +802,7 @@ transcode.static-whatsapp.com
 trezor-login-us-auth-start.typedream.app
 trezorguide.vercel.app
 trezoriostarts.godaddysites.com
+trezr-io-cloud-sso.typedream.app
 troubleshoots-google.com
 trust-wallet-bnb.vercel.app
 trust-wallet-contact.vercel.app
@@ -814,6 +829,7 @@ uspsecuredlogs.com
 uspssmartpackagelockers.com
 uspsstampstogo.com
 v0-instagram-accounts.vercel.app
+verifyid-metamask.com
 verifytoken.com
 vi-facebook.blogspot.com
 viewclass.com
@@ -833,13 +849,14 @@ web-trezor-io-start-us.vercel.app
 web.scan-whatsapp.com
 webaccess-alert.com
 webstore.vn
+weeblysite.com
 weekly.comm-whatsapp.com
-welcome-trezor-bridge.godaddysites.com
 wellsfargo-worl.vercel.app
 whatsapp-fast.vercel.app
 whatsapp-iamsuyash.vercel.app
 whatsapp-indonesia877.blogspot.com
 whatsapp-inv.icu
+whatsapp-stream-unblock.ph
 whatsapp-verify.blogspot.com
 whatsappapk.org
 whatsappbrnoticias.blogspot.com
@@ -862,9 +879,16 @@ www-microsoft.com.cn
 www2-facebook.com
 wwww-linkedin.be
 x-comcast.weebly.com
+xfinity-mail-id.weebly.com
+xfinity090.weebly.com
 xfinity2.vercel.app
+xfinity200212.weebly.com
 xfinitybillingsupport.weebly.com
+xfinityconnectemail.weebly.com
+xfinityconnectupgrade.weebly.com
 xfinityis.weebly.com
+xfinitymail087.weebly.com
+xfinitymailid.weebly.com
 xfinitymailnow.weebly.com
 xfinitynow.weebly.com
 xfinityservices.vercel.app
@@ -879,4 +903,5 @@ z-facebook.blogspot.com
 z-instagram.blogspot.com
 zelleria.shop
 zeta-facebook.blogspot.com
+zfkmasinac.com
 zkey0.com

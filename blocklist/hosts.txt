@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 874
-# Updated: 2026-09-14T12:49:23Z
+# Entries: 899
+# Updated: 2026-09-14T21:50:15Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -8,15 +8,17 @@
 
 0.0.0.0 01felipeaugusto-star.github.io
 0.0.0.0 123-facebook.blogspot.com
+0.0.0.0 1231230h8h5.beer
 0.0.0.0 129031828h45h.top
 0.0.0.0 1298j675h75g34.buzz
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
+0.0.0.0 274615-coinbase.com
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
 0.0.0.0 309129128h7546.beer
+0.0.0.0 32120319hh57.mom
 0.0.0.0 393bet-facebook.sa.com
-0.0.0.0 48284113-coinbase.com
 0.0.0.0 54893-coinbase.com
 0.0.0.0 818144-kraken.com
 0.0.0.0 818920-kraken.com
@@ -62,6 +64,8 @@
 0.0.0.0 app-exodusweb.pages.dev
 0.0.0.0 app-facebook.blogspot.com
 0.0.0.0 app81-facebook.blogspot.com
+0.0.0.0 apple-icloud.azurewebsites.net
+0.0.0.0 apple-support-track.info
 0.0.0.0 apple-verify.us
 0.0.0.0 arencia-vitaminc-booster-amazon.netlify.app
 0.0.0.0 armankhan-12.github.io
@@ -102,7 +106,6 @@
 0.0.0.0 biowikiweb.com
 0.0.0.0 blamedame.com
 0.0.0.0 blog-whatsappx.hl.cn
-0.0.0.0 bnb-trust-wallet.vercel.app
 0.0.0.0 bnext.es
 0.0.0.0 books-facebook.blogspot.com
 0.0.0.0 brad-facebook.blogspot.com
@@ -132,19 +135,23 @@
 0.0.0.0 cn-spotify.cn
 0.0.0.0 cn.comm-whatsapp.com
 0.0.0.0 cn.static-whatsapp.com
+0.0.0.0 coinbase-account.info
 0.0.0.0 coinbase-event.vercel.app
+0.0.0.0 coinbase-securitycheck.com
 0.0.0.0 coinbase.com.lc
 0.0.0.0 coinbase99.top
 0.0.0.0 coinbasebackoffice.exchange
 0.0.0.0 coinbasee.vip
 0.0.0.0 coinbaseinvestors.ai
-0.0.0.0 coinbaseweb3wallets.com
 0.0.0.0 collectableswall.ebaymclaren-austin.eventshouse.app
 0.0.0.0 comcast2.vercel.app
 0.0.0.0 comcastcarebusiness.weebly.com
 0.0.0.0 comcastlog.weebly.com
 0.0.0.0 comcastnetmail.weebly.com
+0.0.0.0 comcastseettings.weebly.com
 0.0.0.0 comcastsurvey.weebly.com
+0.0.0.0 comcastvm.weebly.com
+0.0.0.0 connect-xfinity-log.weebly.com
 0.0.0.0 correoscri.cc
 0.0.0.0 correosiicr.cc
 0.0.0.0 ct.ws
@@ -182,6 +189,7 @@
 0.0.0.0 ebaymevip.com
 0.0.0.0 edgeone.dev
 0.0.0.0 email-microsoft.com
+0.0.0.0 email-update-comcast.weebly.com
 0.0.0.0 emersondasilva-dev.github.io
 0.0.0.0 emmanueldegreatltd.com
 0.0.0.0 empresas-hsbc.com
@@ -323,6 +331,7 @@
 0.0.0.0 facebookfakelogin.blogspot.com
 0.0.0.0 facebookfakepage.blogspot.com
 0.0.0.0 facebookhints.blogspot.com
+0.0.0.0 facebookhotysexyvideos.blogspot.com
 0.0.0.0 facebookk-k.vercel.app
 0.0.0.0 facebookk.blogspot.com
 0.0.0.0 facebooklivepage.blogspot.com
@@ -361,6 +370,7 @@
 0.0.0.0 facebookpagemanagement.com
 0.0.0.0 facebookpageslinkk.blogspot.com
 0.0.0.0 facebookprofilelinks.blogspot.com
+0.0.0.0 facebookqq.vip
 0.0.0.0 facebooksecure.blogspot.com
 0.0.0.0 facebooksecurityhelp.blogspot.com
 0.0.0.0 facebookshops.best
@@ -442,7 +452,6 @@
 0.0.0.0 hub-whatsapp.com
 0.0.0.0 icloud-asisten-official.com
 0.0.0.0 icloud-sharedalbum.com
-0.0.0.0 id19e73jd7e9djo39e7db.sbs
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 indiarevolutionnova.github.io
@@ -509,6 +518,7 @@
 0.0.0.0 instagramunblockedd.vercel.app
 0.0.0.0 instagramusicabrasilinstagram.blogspot.com
 0.0.0.0 internal-alerts.com
+0.0.0.0 invreceiptslinkedin.com
 0.0.0.0 iqraashraf.dev
 0.0.0.0 isha-dev.com
 0.0.0.0 itau-snowy.vercel.app
@@ -524,6 +534,7 @@
 0.0.0.0 kavishkadileepa01.github.io
 0.0.0.0 kenhoward.com
 0.0.0.0 kraken-tor.co.com
+0.0.0.0 kucoin9.com
 0.0.0.0 kucoinloign.gitbook.io
 0.0.0.0 kucoins-signin.com
 0.0.0.0 kucoinv.com
@@ -612,6 +623,7 @@
 0.0.0.0 ml-facebook.blogspot.com
 0.0.0.0 mobile-google.cn
 0.0.0.0 mobile.static-whatsapp.com
+0.0.0.0 movistar-recarga.icu
 0.0.0.0 movistar-recaudo-epayc.com
 0.0.0.0 munimventures.com
 0.0.0.0 muzamilmeerdev.github.io
@@ -644,6 +656,7 @@
 0.0.0.0 network-facebook.blogspot.com
 0.0.0.0 news-revolut.com
 0.0.0.0 news.static-whatsapp.com
+0.0.0.0 nhcarwraps.com
 0.0.0.0 niels-meyer.de
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
@@ -665,6 +678,7 @@
 0.0.0.0 page-instagram.vercel.app
 0.0.0.0 patch.comm-whatsapp.com
 0.0.0.0 patch.static-whatsapp.com
+0.0.0.0 patelrudra.in
 0.0.0.0 paykmc.com
 0.0.0.0 paypal-logiin.blogspot.com
 0.0.0.0 paypal-password.blogspot.com
@@ -709,6 +723,7 @@
 0.0.0.0 rekemonedasi-facebook.org
 0.0.0.0 rents.ac
 0.0.0.0 rev.it
+0.0.0.0 rezerwacja54278.cfd
 0.0.0.0 roblox-login.vercel.app
 0.0.0.0 roblox.com.am
 0.0.0.0 roblox.com.bi
@@ -752,7 +767,6 @@
 0.0.0.0 smswt.in
 0.0.0.0 spotify-a9.netlify.app
 0.0.0.0 spotify-client-beta.vercel.app
-0.0.0.0 spotify-payment.click
 0.0.0.0 spotify-plus.com
 0.0.0.0 spotify25.netlify.app
 0.0.0.0 spotifypremium.live
@@ -788,6 +802,7 @@
 0.0.0.0 trezor-login-us-auth-start.typedream.app
 0.0.0.0 trezorguide.vercel.app
 0.0.0.0 trezoriostarts.godaddysites.com
+0.0.0.0 trezr-io-cloud-sso.typedream.app
 0.0.0.0 troubleshoots-google.com
 0.0.0.0 trust-wallet-bnb.vercel.app
 0.0.0.0 trust-wallet-contact.vercel.app
@@ -814,6 +829,7 @@
 0.0.0.0 uspssmartpackagelockers.com
 0.0.0.0 uspsstampstogo.com
 0.0.0.0 v0-instagram-accounts.vercel.app
+0.0.0.0 verifyid-metamask.com
 0.0.0.0 verifytoken.com
 0.0.0.0 vi-facebook.blogspot.com
 0.0.0.0 viewclass.com
@@ -833,13 +849,14 @@
 0.0.0.0 web.scan-whatsapp.com
 0.0.0.0 webaccess-alert.com
 0.0.0.0 webstore.vn
+0.0.0.0 weeblysite.com
 0.0.0.0 weekly.comm-whatsapp.com
-0.0.0.0 welcome-trezor-bridge.godaddysites.com
 0.0.0.0 wellsfargo-worl.vercel.app
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-iamsuyash.vercel.app
 0.0.0.0 whatsapp-indonesia877.blogspot.com
 0.0.0.0 whatsapp-inv.icu
+0.0.0.0 whatsapp-stream-unblock.ph
 0.0.0.0 whatsapp-verify.blogspot.com
 0.0.0.0 whatsappapk.org
 0.0.0.0 whatsappbrnoticias.blogspot.com
@@ -862,9 +879,16 @@
 0.0.0.0 www2-facebook.com
 0.0.0.0 wwww-linkedin.be
 0.0.0.0 x-comcast.weebly.com
+0.0.0.0 xfinity-mail-id.weebly.com
+0.0.0.0 xfinity090.weebly.com
 0.0.0.0 xfinity2.vercel.app
+0.0.0.0 xfinity200212.weebly.com
 0.0.0.0 xfinitybillingsupport.weebly.com
+0.0.0.0 xfinityconnectemail.weebly.com
+0.0.0.0 xfinityconnectupgrade.weebly.com
 0.0.0.0 xfinityis.weebly.com
+0.0.0.0 xfinitymail087.weebly.com
+0.0.0.0 xfinitymailid.weebly.com
 0.0.0.0 xfinitymailnow.weebly.com
 0.0.0.0 xfinitynow.weebly.com
 0.0.0.0 xfinityservices.vercel.app
@@ -879,4 +903,5 @@
 0.0.0.0 z-instagram.blogspot.com
 0.0.0.0 zelleria.shop
 0.0.0.0 zeta-facebook.blogspot.com
+0.0.0.0 zfkmasinac.com
 0.0.0.0 zkey0.com
