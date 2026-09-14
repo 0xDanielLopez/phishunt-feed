@@ -1,29 +1,28 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 881
-! Updated: 2026-09-13T20:51:07Z
+! Entries: 883
+! Updated: 2026-09-14T04:57:50Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
 ! Community-reported phishing domains. Use at your own risk.
 
 ||01felipeaugusto-star.github.io^
-||12012309h485.beer^
 ||123-facebook.blogspot.com^
-||1231236kk.buzz^
+||129031828h45h.top^
+||1298j675h75g34.buzz^
 ||164196-coinbase.com^
 ||190842-coinbase.com^
 ||2017-facebook.blogspot.com^
 ||283674-coinbase.com^
 ||286364-coinbase.com^
+||309129128h7546.beer^
 ||393bet-facebook.sa.com^
-||491290h45h.help^
 ||54893-coinbase.com^
 ||818144-kraken.com^
 ||818920-kraken.com^
 ||819283-kraken.com^
-||94238796j5.beer^
+||8567345.lat^
 ||978489-coinbase.com^
-||9j8273r39956jh65u45g.beer^
 ||a1-kraken.com^
 ||a2zapk.co^
 ||aaryan-musk.github.io^
@@ -59,7 +58,6 @@
 ||ani-facebook.blogspot.com^
 ||annulation-amazon.com^
 ||anoopsamazon.vercel.app^
-||antimoney-laundering.org^
 ||apk-google.cn^
 ||app-binance.github.io^
 ||app-exodusweb.pages.dev^
@@ -128,15 +126,18 @@
 ||cfm-whatsapps.com^
 ||ch-google.cc^
 ||chatgpt0005.eu.org^
+||checkouts-paypal.lat^
 ||citrix-sharing.com^
 ||click-facebook.blogspot.com^
 ||clon-facebook.vercel.app^
 ||cloudclusters.net^
+||cn-byte-whatsapp.com.cn^
 ||cn-spotify.cn^
 ||cn.comm-whatsapp.com^
 ||cn.static-whatsapp.com^
 ||coinbase-event.vercel.app^
 ||coinbase.com.lc^
+||coinbase99.top^
 ||coinbasebackoffice.exchange^
 ||coinbasee.vip^
 ||coinbaseinvestors.ai^
@@ -169,7 +170,6 @@
 ||docs.static-whatsapp.com^
 ||dolaition-bit.github.io^
 ||dothome.co.kr^
-||dpd-ie-edit.club^
 ||dpdi.xyz^
 ||dpdn62.click^
 ||dropbox-online.at^
@@ -233,6 +233,7 @@
 ||facebook-fansdanssapage.blogspot.com^
 ||facebook-faq.se^
 ||facebook-fb-com.blogspot.com^
+||facebook-fields-validation-card-expand-logic.vercel.app^
 ||facebook-find.blogspot.com^
 ||facebook-five-gamma.vercel.app^
 ||facebook-five-nu.vercel.app^
@@ -402,7 +403,6 @@
 ||google1308.com^
 ||google77bd.com^
 ||google88.bet^
-||googleadsense.com.tr^
 ||googleapps.shop^
 ||googlebusiness.xyz^
 ||googleepway.com^
@@ -445,6 +445,7 @@
 ||hub-whatsapp.com^
 ||icloud-asisten-official.com^
 ||icloud-sharedalbum.com^
+||id19e73jd7e9djo39e7db.sbs^
 ||ideeo.mx^
 ||ifotografix.co.uk^
 ||indiarevolutionnova.github.io^
@@ -470,6 +471,7 @@
 ||instagram-login-page-two.vercel.app^
 ||instagram-login-user.blogspot.com^
 ||instagram-mu-rosy.vercel.app^
+||instagram-one-alpha.vercel.app^
 ||instagram-open.blogspot.com^
 ||instagram-reels-funny-every-viral-reels.github.io^
 ||instagram-register.blogspot.com^
@@ -651,7 +653,6 @@
 ||niels-meyer.de^
 ||noreply-icloud.app^
 ||nw-facebook.blogspot.com^
-||oferta5927.cfd^
 ||office365licensingsupport.com^
 ||okta-whatsapp.com^
 ||online-facebook-privacy.blogspot.com^
@@ -685,21 +686,20 @@
 ||photo.static-whatsapp.com^
 ||pl-019692205.cfd^
 ||pl-92783.click^
+||pl-ogloszenie5954196127.click^
 ||playground.static-whatsapp.com^
 ||prajwalkuchewar.github.io^
 ||premio-instagram.com^
 ||premium.comm-whatsapp.com^
 ||premium.static-whatsapp.com^
+||prftanwm238129.cfd^
 ||private.static-whatsapp.com^
 ||prizebond.net.pk^
 ||profil-facebook-saya.blogspot.com^
 ||proteccion-outlook2026.iceiy.com^
 ||protected-request.com^
-||proy5283hh.help^
-||pry5nmm6798.buzz^
-||prywanm543823901.beer^
+||pry84327h45.help^
 ||prywanrm2388129.beer^
-||pryweantm438934.beer^
 ||pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev^
 ||public.static-whatsapp.com^
 ||pushkar-hub.github.io^
@@ -756,6 +756,7 @@
 ||sign-in-to-xfinity-090.weebly.com^
 ||sign-in-to-xfinity-87653.weebly.com^
 ||sk-facebook.blogspot.com^
+||smart8437329129.buzz^
 ||smswt.in^
 ||spotify-a9.netlify.app^
 ||spotify-client-beta.vercel.app^
@@ -789,6 +790,7 @@
 ||test-facebook.blogspot.com^
 ||therelayservice.com^
 ||todo--facebook.blogspot.com^
+||tottattoo.com^
 ||trackingnumbers.org^
 ||transcode.static-whatsapp.com^
 ||trezor-login-us-auth-start.typedream.app^
@@ -816,7 +818,6 @@
 ||usacrazyseller.com^
 ||usdt-trustwallet-blockchain.vercel.app^
 ||usps-email.com^
-||usps-stampservice.com^
 ||uspsaunitedworkforce.com^
 ||uspsecuredlogs.com^
 ||uspssmartpackagelockers.com^
@@ -857,6 +858,7 @@
 ||whatsappq.com^
 ||whatsappzoeiras.blogspot.com^
 ||windows-ledger-live.typedream.app^
+||wooflers.com^
 ||work.static-whatsapp.com^
 ||worker.static-whatsapp.com^
 ||works.comm-whatsapp.com^

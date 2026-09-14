@@ -1,29 +1,28 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 881
-# Updated: 2026-09-13T20:51:06Z
+# Entries: 883
+# Updated: 2026-09-14T04:57:50Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
 0.0.0.0 01felipeaugusto-star.github.io
-0.0.0.0 12012309h485.beer
 0.0.0.0 123-facebook.blogspot.com
-0.0.0.0 1231236kk.buzz
+0.0.0.0 129031828h45h.top
+0.0.0.0 1298j675h75g34.buzz
 0.0.0.0 164196-coinbase.com
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
+0.0.0.0 309129128h7546.beer
 0.0.0.0 393bet-facebook.sa.com
-0.0.0.0 491290h45h.help
 0.0.0.0 54893-coinbase.com
 0.0.0.0 818144-kraken.com
 0.0.0.0 818920-kraken.com
 0.0.0.0 819283-kraken.com
-0.0.0.0 94238796j5.beer
+0.0.0.0 8567345.lat
 0.0.0.0 978489-coinbase.com
-0.0.0.0 9j8273r39956jh65u45g.beer
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
 0.0.0.0 aaryan-musk.github.io
@@ -59,7 +58,6 @@
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 annulation-amazon.com
 0.0.0.0 anoopsamazon.vercel.app
-0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-exodusweb.pages.dev
@@ -128,15 +126,18 @@
 0.0.0.0 cfm-whatsapps.com
 0.0.0.0 ch-google.cc
 0.0.0.0 chatgpt0005.eu.org
+0.0.0.0 checkouts-paypal.lat
 0.0.0.0 citrix-sharing.com
 0.0.0.0 click-facebook.blogspot.com
 0.0.0.0 clon-facebook.vercel.app
 0.0.0.0 cloudclusters.net
+0.0.0.0 cn-byte-whatsapp.com.cn
 0.0.0.0 cn-spotify.cn
 0.0.0.0 cn.comm-whatsapp.com
 0.0.0.0 cn.static-whatsapp.com
 0.0.0.0 coinbase-event.vercel.app
 0.0.0.0 coinbase.com.lc
+0.0.0.0 coinbase99.top
 0.0.0.0 coinbasebackoffice.exchange
 0.0.0.0 coinbasee.vip
 0.0.0.0 coinbaseinvestors.ai
@@ -169,7 +170,6 @@
 0.0.0.0 docs.static-whatsapp.com
 0.0.0.0 dolaition-bit.github.io
 0.0.0.0 dothome.co.kr
-0.0.0.0 dpd-ie-edit.club
 0.0.0.0 dpdi.xyz
 0.0.0.0 dpdn62.click
 0.0.0.0 dropbox-online.at
@@ -233,6 +233,7 @@
 0.0.0.0 facebook-fansdanssapage.blogspot.com
 0.0.0.0 facebook-faq.se
 0.0.0.0 facebook-fb-com.blogspot.com
+0.0.0.0 facebook-fields-validation-card-expand-logic.vercel.app
 0.0.0.0 facebook-find.blogspot.com
 0.0.0.0 facebook-five-gamma.vercel.app
 0.0.0.0 facebook-five-nu.vercel.app
@@ -402,7 +403,6 @@
 0.0.0.0 google1308.com
 0.0.0.0 google77bd.com
 0.0.0.0 google88.bet
-0.0.0.0 googleadsense.com.tr
 0.0.0.0 googleapps.shop
 0.0.0.0 googlebusiness.xyz
 0.0.0.0 googleepway.com
@@ -445,6 +445,7 @@
 0.0.0.0 hub-whatsapp.com
 0.0.0.0 icloud-asisten-official.com
 0.0.0.0 icloud-sharedalbum.com
+0.0.0.0 id19e73jd7e9djo39e7db.sbs
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 indiarevolutionnova.github.io
@@ -470,6 +471,7 @@
 0.0.0.0 instagram-login-page-two.vercel.app
 0.0.0.0 instagram-login-user.blogspot.com
 0.0.0.0 instagram-mu-rosy.vercel.app
+0.0.0.0 instagram-one-alpha.vercel.app
 0.0.0.0 instagram-open.blogspot.com
 0.0.0.0 instagram-reels-funny-every-viral-reels.github.io
 0.0.0.0 instagram-register.blogspot.com
@@ -651,7 +653,6 @@
 0.0.0.0 niels-meyer.de
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
-0.0.0.0 oferta5927.cfd
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 okta-whatsapp.com
 0.0.0.0 online-facebook-privacy.blogspot.com
@@ -685,21 +686,20 @@
 0.0.0.0 photo.static-whatsapp.com
 0.0.0.0 pl-019692205.cfd
 0.0.0.0 pl-92783.click
+0.0.0.0 pl-ogloszenie5954196127.click
 0.0.0.0 playground.static-whatsapp.com
 0.0.0.0 prajwalkuchewar.github.io
 0.0.0.0 premio-instagram.com
 0.0.0.0 premium.comm-whatsapp.com
 0.0.0.0 premium.static-whatsapp.com
+0.0.0.0 prftanwm238129.cfd
 0.0.0.0 private.static-whatsapp.com
 0.0.0.0 prizebond.net.pk
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 proteccion-outlook2026.iceiy.com
 0.0.0.0 protected-request.com
-0.0.0.0 proy5283hh.help
-0.0.0.0 pry5nmm6798.buzz
-0.0.0.0 prywanm543823901.beer
+0.0.0.0 pry84327h45.help
 0.0.0.0 prywanrm2388129.beer
-0.0.0.0 pryweantm438934.beer
 0.0.0.0 pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev
 0.0.0.0 public.static-whatsapp.com
 0.0.0.0 pushkar-hub.github.io
@@ -756,6 +756,7 @@
 0.0.0.0 sign-in-to-xfinity-090.weebly.com
 0.0.0.0 sign-in-to-xfinity-87653.weebly.com
 0.0.0.0 sk-facebook.blogspot.com
+0.0.0.0 smart8437329129.buzz
 0.0.0.0 smswt.in
 0.0.0.0 spotify-a9.netlify.app
 0.0.0.0 spotify-client-beta.vercel.app
@@ -789,6 +790,7 @@
 0.0.0.0 test-facebook.blogspot.com
 0.0.0.0 therelayservice.com
 0.0.0.0 todo--facebook.blogspot.com
+0.0.0.0 tottattoo.com
 0.0.0.0 trackingnumbers.org
 0.0.0.0 transcode.static-whatsapp.com
 0.0.0.0 trezor-login-us-auth-start.typedream.app
@@ -816,7 +818,6 @@
 0.0.0.0 usacrazyseller.com
 0.0.0.0 usdt-trustwallet-blockchain.vercel.app
 0.0.0.0 usps-email.com
-0.0.0.0 usps-stampservice.com
 0.0.0.0 uspsaunitedworkforce.com
 0.0.0.0 uspsecuredlogs.com
 0.0.0.0 uspssmartpackagelockers.com
@@ -857,6 +858,7 @@
 0.0.0.0 whatsappq.com
 0.0.0.0 whatsappzoeiras.blogspot.com
 0.0.0.0 windows-ledger-live.typedream.app
+0.0.0.0 wooflers.com
 0.0.0.0 work.static-whatsapp.com
 0.0.0.0 worker.static-whatsapp.com
 0.0.0.0 works.comm-whatsapp.com
