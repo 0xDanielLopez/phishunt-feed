@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 883
-# Updated: 2026-09-14T04:57:50Z
+# Entries: 874
+# Updated: 2026-09-14T12:49:23Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -10,18 +10,17 @@
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 129031828h45h.top
 0.0.0.0 1298j675h75g34.buzz
-0.0.0.0 164196-coinbase.com
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
 0.0.0.0 309129128h7546.beer
 0.0.0.0 393bet-facebook.sa.com
+0.0.0.0 48284113-coinbase.com
 0.0.0.0 54893-coinbase.com
 0.0.0.0 818144-kraken.com
 0.0.0.0 818920-kraken.com
 0.0.0.0 819283-kraken.com
-0.0.0.0 8567345.lat
 0.0.0.0 978489-coinbase.com
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
@@ -103,7 +102,6 @@
 0.0.0.0 biowikiweb.com
 0.0.0.0 blamedame.com
 0.0.0.0 blog-whatsappx.hl.cn
-0.0.0.0 bmb.adv.br
 0.0.0.0 bnb-trust-wallet.vercel.app
 0.0.0.0 bnext.es
 0.0.0.0 books-facebook.blogspot.com
@@ -126,7 +124,6 @@
 0.0.0.0 cfm-whatsapps.com
 0.0.0.0 ch-google.cc
 0.0.0.0 chatgpt0005.eu.org
-0.0.0.0 checkouts-paypal.lat
 0.0.0.0 citrix-sharing.com
 0.0.0.0 click-facebook.blogspot.com
 0.0.0.0 clon-facebook.vercel.app
@@ -527,7 +524,6 @@
 0.0.0.0 kavishkadileepa01.github.io
 0.0.0.0 kenhoward.com
 0.0.0.0 kraken-tor.co.com
-0.0.0.0 kuc0in-log.godaddysites.com
 0.0.0.0 kucoinloign.gitbook.io
 0.0.0.0 kucoins-signin.com
 0.0.0.0 kucoinv.com
@@ -555,7 +551,6 @@
 0.0.0.0 loginfacebook-facebook.blogspot.com
 0.0.0.0 logowanie-facebook.vercel.app
 0.0.0.0 lokaina-48234.sbs
-0.0.0.0 lokalna-4019.sbs
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lovevivah.com
@@ -630,7 +625,6 @@
 0.0.0.0 netflix-homepage-pi.vercel.app
 0.0.0.0 netflix-lake.vercel.app
 0.0.0.0 netflix-login.blogspot.com
-0.0.0.0 netflix-registro.com
 0.0.0.0 netflix-two-mu.vercel.app
 0.0.0.0 netflix-web-site-three.vercel.app
 0.0.0.0 netflix.surf
@@ -684,8 +678,6 @@
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 photo.comm-whatsapp.com
 0.0.0.0 photo.static-whatsapp.com
-0.0.0.0 pl-019692205.cfd
-0.0.0.0 pl-92783.click
 0.0.0.0 pl-ogloszenie5954196127.click
 0.0.0.0 playground.static-whatsapp.com
 0.0.0.0 prajwalkuchewar.github.io
@@ -699,10 +691,10 @@
 0.0.0.0 proteccion-outlook2026.iceiy.com
 0.0.0.0 protected-request.com
 0.0.0.0 pry84327h45.help
-0.0.0.0 prywanrm2388129.beer
 0.0.0.0 pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev
 0.0.0.0 public.static-whatsapp.com
 0.0.0.0 pushkar-hub.github.io
+0.0.0.0 quantum-flares.com
 0.0.0.0 r-facebook.blogspot.com
 0.0.0.0 rafaelmdsouza.github.io
 0.0.0.0 raj24k.github.io
@@ -814,7 +806,6 @@
 0.0.0.0 uk-facebook.blogspot.com
 0.0.0.0 updata.net.cn
 0.0.0.0 upgradexfinty.weebly.com
-0.0.0.0 us.ci
 0.0.0.0 usacrazyseller.com
 0.0.0.0 usdt-trustwallet-blockchain.vercel.app
 0.0.0.0 usps-email.com

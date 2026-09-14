@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 883
-! Updated: 2026-09-14T04:57:50Z
+! Entries: 874
+! Updated: 2026-09-14T12:49:24Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -10,18 +10,17 @@
 ||123-facebook.blogspot.com^
 ||129031828h45h.top^
 ||1298j675h75g34.buzz^
-||164196-coinbase.com^
 ||190842-coinbase.com^
 ||2017-facebook.blogspot.com^
 ||283674-coinbase.com^
 ||286364-coinbase.com^
 ||309129128h7546.beer^
 ||393bet-facebook.sa.com^
+||48284113-coinbase.com^
 ||54893-coinbase.com^
 ||818144-kraken.com^
 ||818920-kraken.com^
 ||819283-kraken.com^
-||8567345.lat^
 ||978489-coinbase.com^
 ||a1-kraken.com^
 ||a2zapk.co^
@@ -103,7 +102,6 @@
 ||biowikiweb.com^
 ||blamedame.com^
 ||blog-whatsappx.hl.cn^
-||bmb.adv.br^
 ||bnb-trust-wallet.vercel.app^
 ||bnext.es^
 ||books-facebook.blogspot.com^
@@ -126,7 +124,6 @@
 ||cfm-whatsapps.com^
 ||ch-google.cc^
 ||chatgpt0005.eu.org^
-||checkouts-paypal.lat^
 ||citrix-sharing.com^
 ||click-facebook.blogspot.com^
 ||clon-facebook.vercel.app^
@@ -527,7 +524,6 @@
 ||kavishkadileepa01.github.io^
 ||kenhoward.com^
 ||kraken-tor.co.com^
-||kuc0in-log.godaddysites.com^
 ||kucoinloign.gitbook.io^
 ||kucoins-signin.com^
 ||kucoinv.com^
@@ -555,7 +551,6 @@
 ||loginfacebook-facebook.blogspot.com^
 ||logowanie-facebook.vercel.app^
 ||lokaina-48234.sbs^
-||lokalna-4019.sbs^
 ||love-facebook.blogspot.com^
 ||lovefive-facebook.blogspot.com^
 ||lovevivah.com^
@@ -630,7 +625,6 @@
 ||netflix-homepage-pi.vercel.app^
 ||netflix-lake.vercel.app^
 ||netflix-login.blogspot.com^
-||netflix-registro.com^
 ||netflix-two-mu.vercel.app^
 ||netflix-web-site-three.vercel.app^
 ||netflix.surf^
@@ -684,8 +678,6 @@
 ||pe-facebook.blogspot.com^
 ||photo.comm-whatsapp.com^
 ||photo.static-whatsapp.com^
-||pl-019692205.cfd^
-||pl-92783.click^
 ||pl-ogloszenie5954196127.click^
 ||playground.static-whatsapp.com^
 ||prajwalkuchewar.github.io^
@@ -699,10 +691,10 @@
 ||proteccion-outlook2026.iceiy.com^
 ||protected-request.com^
 ||pry84327h45.help^
-||prywanrm2388129.beer^
 ||pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev^
 ||public.static-whatsapp.com^
 ||pushkar-hub.github.io^
+||quantum-flares.com^
 ||r-facebook.blogspot.com^
 ||rafaelmdsouza.github.io^
 ||raj24k.github.io^
@@ -814,7 +806,6 @@
 ||uk-facebook.blogspot.com^
 ||updata.net.cn^
 ||upgradexfinty.weebly.com^
-||us.ci^
 ||usacrazyseller.com^
 ||usdt-trustwallet-blockchain.vercel.app^
 ||usps-email.com^
