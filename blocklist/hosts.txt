@@ -1,24 +1,19 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 890
-# Updated: 2026-09-15T04:55:55Z
+# Entries: 883
+# Updated: 2026-09-15T11:45:06Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
 0.0.0.0 01felipeaugusto-star.github.io
-0.0.0.0 102391hj655.buzz
 0.0.0.0 123-facebook.blogspot.com
-0.0.0.0 12301209.click
-0.0.0.0 123098h5.buzz
-0.0.0.0 1230h9457h45g.pics
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 274615-coinbase.com
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
 0.0.0.0 393bet-facebook.sa.com
-0.0.0.0 54893-coinbase.com
 0.0.0.0 818144-kraken.com
 0.0.0.0 818920-kraken.com
 0.0.0.0 819283-kraken.com
@@ -66,6 +61,7 @@
 0.0.0.0 asif.me
 0.0.0.0 asset.static-whatsapp.com
 0.0.0.0 assign-icloud.com
+0.0.0.0 asso-entrautres.fr
 0.0.0.0 authorised-support.com
 0.0.0.0 avaturefed.net
 0.0.0.0 avlinfo.in
@@ -109,7 +105,6 @@
 0.0.0.0 business-dropbox.me
 0.0.0.0 c-binance.github.io
 0.0.0.0 calendar.scan-whatsapp.com
-0.0.0.0 camisasdecolores.net
 0.0.0.0 canary.static-whatsapp.com
 0.0.0.0 cardpaysecurity.org
 0.0.0.0 carivo.vu
@@ -130,7 +125,6 @@
 0.0.0.0 cn.static-whatsapp.com
 0.0.0.0 coinbase-event.vercel.app
 0.0.0.0 coinbase.com.lc
-0.0.0.0 coinbase99.top
 0.0.0.0 coinbasebackoffice.exchange
 0.0.0.0 coinbasee.vip
 0.0.0.0 coinbaseinvestors.ai
@@ -165,6 +159,7 @@
 0.0.0.0 docs.static-whatsapp.com
 0.0.0.0 dolaition-bit.github.io
 0.0.0.0 dothome.co.kr
+0.0.0.0 dpd-ie-edit.xin
 0.0.0.0 dpdi.xyz
 0.0.0.0 dpdn62.click
 0.0.0.0 dropbox-online.at
@@ -379,7 +374,6 @@
 0.0.0.0 facebookzaman.blogspot.com
 0.0.0.0 fedex-olive.vercel.app
 0.0.0.0 fedexinterviewprep.com
-0.0.0.0 ffmka.club
 0.0.0.0 file-whatsappn.hl.cn
 0.0.0.0 fmello2002.github.io
 0.0.0.0 fmi-icloud.pro
@@ -432,7 +426,6 @@
 0.0.0.0 hasyimf.github.io
 0.0.0.0 hellenvicente.github.io
 0.0.0.0 help-instagram.blogspot.com
-0.0.0.0 hhvka.club
 0.0.0.0 hofmemorabilia.ebaymclaren-austin.eventshouse.app
 0.0.0.0 home-facebook.blogspot.com
 0.0.0.0 home-ledgrreliveapp.typedream.app
@@ -658,7 +651,6 @@
 0.0.0.0 okta-whatsapp.com
 0.0.0.0 online-facebook-privacy.blogspot.com
 0.0.0.0 oortstorages.com
-0.0.0.0 oovra.club
 0.0.0.0 open-instagram.vercel.app
 0.0.0.0 openai-coin.com
 0.0.0.0 opensea-six.vercel.app
@@ -685,6 +677,7 @@
 0.0.0.0 paypalcorp.blogspot.com
 0.0.0.0 pc-spotify.cn
 0.0.0.0 pe-facebook.blogspot.com
+0.0.0.0 pgn-s.com
 0.0.0.0 photo.comm-whatsapp.com
 0.0.0.0 photo.static-whatsapp.com
 0.0.0.0 playground.static-whatsapp.com
@@ -775,6 +768,7 @@
 0.0.0.0 sugar-outlook.com
 0.0.0.0 support-instagram.github.io
 0.0.0.0 support-ledgrcom-start-web.typedream.app
+0.0.0.0 support-netflix-signup.info
 0.0.0.0 support.zoom.us.pro.kaisarstore.dpdns.org
 0.0.0.0 support.zoom.us.vip.kaisarstore.dpdns.org
 0.0.0.0 t54632-kraken.com
@@ -814,7 +808,6 @@
 0.0.0.0 upgradexfinty.weebly.com
 0.0.0.0 usacrazyseller.com
 0.0.0.0 usdt-trustwallet-blockchain.vercel.app
-0.0.0.0 usps-email.com
 0.0.0.0 uspsaunitedworkforce.com
 0.0.0.0 uspsecuredlogs.com
 0.0.0.0 uspssmartpackagelockers.com

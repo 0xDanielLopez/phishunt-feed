@@ -1,30 +1,29 @@
 {
  "date": "2026-09-15",
- "updated": "2026-09-15T04:55:56Z",
+ "updated": "2026-09-15T11:45:07Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 17,
-  "removed": 26
+  "added": 16,
+  "removed": 32
  },
  "added": [
-  "http://allegro.102391hj655.buzz",
-  "http://allegro.12301209.click",
-  "http://allegro.123098h5.buzz",
-  "http://allegro.1230h9457h45g.pics",
-  "http://camisasdecolores.net/Office/onedrive-verify-obf.html",
   "http://kucoin-referral-code-pt.vercel.app",
   "http://receiptslinkedin.com",
   "http://showroom.ebaymotorspro.co.uk/iMv-MOTORS-LTD/",
+  "https://accounts.google.com.asso-entrautres.fr",
   "https://auth-ledgrelive-net.wasmer.app",
+  "https://dpd-ie-edit.xin",
   "https://ebay-verif.com",
   "https://https-vww-roblox.com/login?returnUrl=1543493810",
   "https://lingpai.paypal-security.antimoney-laundering.org",
   "https://metamask.godaddysites.com",
   "https://netflixinfos.com",
   "https://open-instagram.vercel.app",
-  "https://roblox.com.am/users/214467286110/profile",
-  "https://roblox.com.ml/users/453611055163/profile"
+  "https://roblox.com.am/users/465",
+  "https://roblox.com.ml/users/186279419962/profile",
+  "https://sbwww.pgn-s.com",
+  "https://support-netflix-signup.info"
  ],
  "removed": [
   "http://allegro.1231230h8h5.beer",
@@ -37,6 +36,7 @@
   "http://es-ibercaja.blamedame.com/signin/login.html",
   "http://facebook-similer.vercel.app",
   "http://microsoft-advertising-authentification.sgn-1.com/signin/login.html",
+  "https://54893-coinbase.com",
   "https://accounts-mail-google.com",
   "https://alibaba33.pro",
   "https://alibaba666.bet",
@@ -46,12 +46,17 @@
   "https://allegrolokalnie.pl-ogloszenie5954196127.click",
   "https://allegrolokalnie.pl-ogloszenie5954196127.click/oferta/telefon-google-pixel-10-pro-xl-25616gb-bialy-8mgvp",
   "https://allegrolokalnie.rezerwacja54278.cfd/nowa-elektryczna-hulajnoga-kuk/53014/wiadomosci/",
+  "https://app.coinbase99.top",
   "https://bankofamericanonline.com",
   "https://coinbase-account.info",
   "https://coinbase-securitycheck.com",
+  "https://dpd.ffmka.club/com",
+  "https://dpd.hhvka.club/com",
+  "https://dpd.oovra.club/com",
   "https://netflixreviewflix.com",
   "https://netflixtoto.xyz",
   "https://roblox.com.am/users/3330563",
-  "https://roblox.com.ml/users/391325812897/profile"
+  "https://roblox.com.ml/users/391325812897/profile",
+  "https://usps-email.com"
  ]
 }

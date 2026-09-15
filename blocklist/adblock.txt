@@ -1,24 +1,19 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 890
-! Updated: 2026-09-15T04:41:24Z
+! Entries: 883
+! Updated: 2026-09-15T11:45:07Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
 ! Community-reported phishing domains. Use at your own risk.
 
 ||01felipeaugusto-star.github.io^
-||102391hj655.buzz^
 ||123-facebook.blogspot.com^
-||12301209.click^
-||123098h5.buzz^
-||1230h9457h45g.pics^
 ||190842-coinbase.com^
 ||2017-facebook.blogspot.com^
 ||274615-coinbase.com^
 ||283674-coinbase.com^
 ||286364-coinbase.com^
 ||393bet-facebook.sa.com^
-||54893-coinbase.com^
 ||818144-kraken.com^
 ||818920-kraken.com^
 ||819283-kraken.com^
@@ -66,6 +61,7 @@
 ||asif.me^
 ||asset.static-whatsapp.com^
 ||assign-icloud.com^
+||asso-entrautres.fr^
 ||authorised-support.com^
 ||avaturefed.net^
 ||avlinfo.in^
@@ -109,7 +105,6 @@
 ||business-dropbox.me^
 ||c-binance.github.io^
 ||calendar.scan-whatsapp.com^
-||camisasdecolores.net^
 ||canary.static-whatsapp.com^
 ||cardpaysecurity.org^
 ||carivo.vu^
@@ -130,7 +125,6 @@
 ||cn.static-whatsapp.com^
 ||coinbase-event.vercel.app^
 ||coinbase.com.lc^
-||coinbase99.top^
 ||coinbasebackoffice.exchange^
 ||coinbasee.vip^
 ||coinbaseinvestors.ai^
@@ -165,6 +159,7 @@
 ||docs.static-whatsapp.com^
 ||dolaition-bit.github.io^
 ||dothome.co.kr^
+||dpd-ie-edit.xin^
 ||dpdi.xyz^
 ||dpdn62.click^
 ||dropbox-online.at^
@@ -379,7 +374,6 @@
 ||facebookzaman.blogspot.com^
 ||fedex-olive.vercel.app^
 ||fedexinterviewprep.com^
-||ffmka.club^
 ||file-whatsappn.hl.cn^
 ||fmello2002.github.io^
 ||fmi-icloud.pro^
@@ -432,7 +426,6 @@
 ||hasyimf.github.io^
 ||hellenvicente.github.io^
 ||help-instagram.blogspot.com^
-||hhvka.club^
 ||hofmemorabilia.ebaymclaren-austin.eventshouse.app^
 ||home-facebook.blogspot.com^
 ||home-ledgrreliveapp.typedream.app^
@@ -658,7 +651,6 @@
 ||okta-whatsapp.com^
 ||online-facebook-privacy.blogspot.com^
 ||oortstorages.com^
-||oovra.club^
 ||open-instagram.vercel.app^
 ||openai-coin.com^
 ||opensea-six.vercel.app^
@@ -685,6 +677,7 @@
 ||paypalcorp.blogspot.com^
 ||pc-spotify.cn^
 ||pe-facebook.blogspot.com^
+||pgn-s.com^
 ||photo.comm-whatsapp.com^
 ||photo.static-whatsapp.com^
 ||playground.static-whatsapp.com^
@@ -775,6 +768,7 @@
 ||sugar-outlook.com^
 ||support-instagram.github.io^
 ||support-ledgrcom-start-web.typedream.app^
+||support-netflix-signup.info^
 ||support.zoom.us.pro.kaisarstore.dpdns.org^
 ||support.zoom.us.vip.kaisarstore.dpdns.org^
 ||t54632-kraken.com^
@@ -814,7 +808,6 @@
 ||upgradexfinty.weebly.com^
 ||usacrazyseller.com^
 ||usdt-trustwallet-blockchain.vercel.app^
-||usps-email.com^
 ||uspsaunitedworkforce.com^
 ||uspsecuredlogs.com^
 ||uspssmartpackagelockers.com^
