@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 883
-! Updated: 2026-09-15T11:45:07Z
+! Entries: 882
+! Updated: 2026-09-15T17:00:23Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -17,14 +17,12 @@
 ||818144-kraken.com^
 ||818920-kraken.com^
 ||819283-kraken.com^
-||978489-coinbase.com^
 ||a1-kraken.com^
 ||a2zapk.co^
 ||aaryan-musk.github.io^
 ||about-help.com^
 ||account-instagram.vercel.app^
 ||accounts-facebook.blogspot.com^
-||accounts-google-login.github.io^
 ||adobeforbusiness.com^
 ||ahmadhussain99.github.io^
 ||aishwarya-rathore.github.io^
@@ -47,7 +45,6 @@
 ||ani-facebook.blogspot.com^
 ||annulation-amazon.com^
 ||anoopsamazon.vercel.app^
-||antimoney-laundering.org^
 ||apk-google.cn^
 ||app-binance.github.io^
 ||app-exodusweb.pages.dev^
@@ -65,6 +62,7 @@
 ||authorised-support.com^
 ||avaturefed.net^
 ||avlinfo.in^
+||awarenesss.cfd^
 ||axm-amazon.com^
 ||aziizmusyafa18.github.io^
 ||bankofamerica-uscom.vercel.app^
@@ -97,7 +95,6 @@
 ||bnext.es^
 ||books-facebook.blogspot.com^
 ||brad-facebook.blogspot.com^
-||bradescoatualizabrasil.com^
 ||build.comm-whatsapp.com^
 ||build.static-whatsapp.com^
 ||bunker.ink^
@@ -109,7 +106,6 @@
 ||cardpaysecurity.org^
 ||carivo.vu^
 ||cart.static-whatsapp.com^
-||case185366-coinbase.com^
 ||cashapp-liart.vercel.app^
 ||cashappps.com^
 ||cfm-whatsapps.com^
@@ -131,12 +127,14 @@
 ||collectableswall.ebaymclaren-austin.eventshouse.app^
 ||comcast2.vercel.app^
 ||comcastcarebusiness.weebly.com^
+||comcastinfoupdatesnow.weebly.com^
 ||comcastlog.weebly.com^
 ||comcastnetmail.weebly.com^
 ||comcastseettings.weebly.com^
 ||comcastsurvey.weebly.com^
 ||comcastvm.weebly.com^
 ||connect-xfinity-log.weebly.com^
+||contabostorage.com^
 ||correoscri.cc^
 ||correosiicr.cc^
 ||ct.ws^
@@ -159,9 +157,9 @@
 ||docs.static-whatsapp.com^
 ||dolaition-bit.github.io^
 ||dothome.co.kr^
-||dpd-ie-edit.xin^
 ||dpdi.xyz^
 ||dpdn62.click^
+||dreamy-crumble-17846c.netlify.app^
 ||dropbox-online.at^
 ||dropbox-online.net^
 ||dropboxbiz.com^
@@ -184,6 +182,7 @@
 ||epsilons.co^
 ||erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org^
 ||eu-facebook.blogspot.com^
+||eventsreg.in^
 ||ewlpnkrg.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org^
 ||ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org^
 ||exclusive-openseamints.vercel.app^
@@ -274,6 +273,7 @@
 ||facebook-qa.blogspot.com^
 ||facebook-rus.blogspot.com^
 ||facebook-sa.blogspot.com^
+||facebook-secure.shop^
 ||facebook-seks-27.blogspot.com^
 ||facebook-seks-30.blogspot.com^
 ||facebook-seks-32.blogspot.com^
@@ -369,7 +369,6 @@
 ||facebookuseraccount.blogspot.com^
 ||facebookuserlogin.blogspot.com^
 ||facebookverifyyouraccount.blogspot.com^
-||facebookweb.github.io^
 ||facebookwebsite9.blogspot.com^
 ||facebookzaman.blogspot.com^
 ||fedex-olive.vercel.app^
@@ -571,7 +570,6 @@
 ||metamask-ai-agent.vercel.app^
 ||metamask-connect.vercel.app^
 ||metamask-dev-dashboard-feat-remove-prora-consensys-ddffed67.vercel.app^
-||metamask-docs-45ta0ykbu-consensys-ddffed67.vercel.app^
 ||metamask-docs-git-dependabot-npmandya-95394d-consensys-ddffed67.vercel.app^
 ||metamask-docs-p13jojaa8-consensys-ddffed67.vercel.app^
 ||metamask-launchpad.vercel.app^
@@ -584,14 +582,12 @@
 ||metamask2-eight.vercel.app^
 ||metamask88.com^
 ||metamaskcasino.de^
-||metamaskcasino.de.com^
 ||metamaskchromeextensionn.blogspot.com^
 ||metamaskextensionnn.gitbook.io^
 ||metamasklogniox.gitbook.io^
 ||metamasklskog.gitbook.io^
 ||metamaskrewards.com^
 ||metamaskwallett.blogspot.com^
-||meweb.kz^
 ||mexicocentral-01.azurewebsites.net^
 ||mhmr.ro^
 ||mi-santander.com^
@@ -667,6 +663,7 @@
 ||patch.static-whatsapp.com^
 ||patelrudra.in^
 ||paykmc.com^
+||paypal-app.online^
 ||paypal-logiin.blogspot.com^
 ||paypal-password.blogspot.com^
 ||paypal-pay.com^
@@ -675,6 +672,7 @@
 ||paypal-signin.blogspot.com^
 ||paypal3.vercel.app^
 ||paypalcorp.blogspot.com^
+||paypall-login.blogspot.com^
 ||pc-spotify.cn^
 ||pe-facebook.blogspot.com^
 ||pgn-s.com^
@@ -708,16 +706,14 @@
 ||reentrega-seur-envio.cloudaccess.host^
 ||register-facebook.blogspot.com^
 ||rekemonedasi-facebook.org^
-||rents.ac^
 ||rev.it^
 ||roblox-login.vercel.app^
-||roblox.com.am^
 ||roblox.com.bi^
 ||roblox.com.bn^
+||roblox.com.bz^
 ||roblox.com.gr^
 ||roblox.com.hr^
 ||roblox.com.kz^
-||roblox.com.ml^
 ||roblox.com.mu^
 ||roblox.com.pt^
 ||rricrosoft-offices.org^
@@ -869,8 +865,10 @@
 ||xfinity200212.weebly.com^
 ||xfinitybillingsupport.weebly.com^
 ||xfinityconnectemail.weebly.com^
+||xfinityconnectonline.weebly.com^
 ||xfinityconnectupgrade.weebly.com^
 ||xfinityis.weebly.com^
+||xfinitymail01.weebly.com^
 ||xfinitymail087.weebly.com^
 ||xfinitymailid.weebly.com^
 ||xfinitymailnow.weebly.com^
@@ -878,6 +876,7 @@
 ||xfinityservices.vercel.app^
 ||xfinitysupportnow.weebly.com^
 ||xfinityttt.weebly.com^
+||xfinityupdatesnow.weebly.com^
 ||xfinitywindowfilms.com^
 ||yagomouro.github.io^
 ||yapla.com^

@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 883
-# Updated: 2026-09-15T11:45:06Z
+# Entries: 882
+# Updated: 2026-09-15T17:00:22Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -17,14 +17,12 @@
 0.0.0.0 818144-kraken.com
 0.0.0.0 818920-kraken.com
 0.0.0.0 819283-kraken.com
-0.0.0.0 978489-coinbase.com
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
 0.0.0.0 aaryan-musk.github.io
 0.0.0.0 about-help.com
 0.0.0.0 account-instagram.vercel.app
 0.0.0.0 accounts-facebook.blogspot.com
-0.0.0.0 accounts-google-login.github.io
 0.0.0.0 adobeforbusiness.com
 0.0.0.0 ahmadhussain99.github.io
 0.0.0.0 aishwarya-rathore.github.io
@@ -47,7 +45,6 @@
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 annulation-amazon.com
 0.0.0.0 anoopsamazon.vercel.app
-0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-exodusweb.pages.dev
@@ -65,6 +62,7 @@
 0.0.0.0 authorised-support.com
 0.0.0.0 avaturefed.net
 0.0.0.0 avlinfo.in
+0.0.0.0 awarenesss.cfd
 0.0.0.0 axm-amazon.com
 0.0.0.0 aziizmusyafa18.github.io
 0.0.0.0 bankofamerica-uscom.vercel.app
@@ -97,7 +95,6 @@
 0.0.0.0 bnext.es
 0.0.0.0 books-facebook.blogspot.com
 0.0.0.0 brad-facebook.blogspot.com
-0.0.0.0 bradescoatualizabrasil.com
 0.0.0.0 build.comm-whatsapp.com
 0.0.0.0 build.static-whatsapp.com
 0.0.0.0 bunker.ink
@@ -109,7 +106,6 @@
 0.0.0.0 cardpaysecurity.org
 0.0.0.0 carivo.vu
 0.0.0.0 cart.static-whatsapp.com
-0.0.0.0 case185366-coinbase.com
 0.0.0.0 cashapp-liart.vercel.app
 0.0.0.0 cashappps.com
 0.0.0.0 cfm-whatsapps.com
@@ -131,12 +127,14 @@
 0.0.0.0 collectableswall.ebaymclaren-austin.eventshouse.app
 0.0.0.0 comcast2.vercel.app
 0.0.0.0 comcastcarebusiness.weebly.com
+0.0.0.0 comcastinfoupdatesnow.weebly.com
 0.0.0.0 comcastlog.weebly.com
 0.0.0.0 comcastnetmail.weebly.com
 0.0.0.0 comcastseettings.weebly.com
 0.0.0.0 comcastsurvey.weebly.com
 0.0.0.0 comcastvm.weebly.com
 0.0.0.0 connect-xfinity-log.weebly.com
+0.0.0.0 contabostorage.com
 0.0.0.0 correoscri.cc
 0.0.0.0 correosiicr.cc
 0.0.0.0 ct.ws
@@ -159,9 +157,9 @@
 0.0.0.0 docs.static-whatsapp.com
 0.0.0.0 dolaition-bit.github.io
 0.0.0.0 dothome.co.kr
-0.0.0.0 dpd-ie-edit.xin
 0.0.0.0 dpdi.xyz
 0.0.0.0 dpdn62.click
+0.0.0.0 dreamy-crumble-17846c.netlify.app
 0.0.0.0 dropbox-online.at
 0.0.0.0 dropbox-online.net
 0.0.0.0 dropboxbiz.com
@@ -184,6 +182,7 @@
 0.0.0.0 epsilons.co
 0.0.0.0 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
 0.0.0.0 eu-facebook.blogspot.com
+0.0.0.0 eventsreg.in
 0.0.0.0 ewlpnkrg.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 0.0.0.0 ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 0.0.0.0 exclusive-openseamints.vercel.app
@@ -274,6 +273,7 @@
 0.0.0.0 facebook-qa.blogspot.com
 0.0.0.0 facebook-rus.blogspot.com
 0.0.0.0 facebook-sa.blogspot.com
+0.0.0.0 facebook-secure.shop
 0.0.0.0 facebook-seks-27.blogspot.com
 0.0.0.0 facebook-seks-30.blogspot.com
 0.0.0.0 facebook-seks-32.blogspot.com
@@ -369,7 +369,6 @@
 0.0.0.0 facebookuseraccount.blogspot.com
 0.0.0.0 facebookuserlogin.blogspot.com
 0.0.0.0 facebookverifyyouraccount.blogspot.com
-0.0.0.0 facebookweb.github.io
 0.0.0.0 facebookwebsite9.blogspot.com
 0.0.0.0 facebookzaman.blogspot.com
 0.0.0.0 fedex-olive.vercel.app
@@ -571,7 +570,6 @@
 0.0.0.0 metamask-ai-agent.vercel.app
 0.0.0.0 metamask-connect.vercel.app
 0.0.0.0 metamask-dev-dashboard-feat-remove-prora-consensys-ddffed67.vercel.app
-0.0.0.0 metamask-docs-45ta0ykbu-consensys-ddffed67.vercel.app
 0.0.0.0 metamask-docs-git-dependabot-npmandya-95394d-consensys-ddffed67.vercel.app
 0.0.0.0 metamask-docs-p13jojaa8-consensys-ddffed67.vercel.app
 0.0.0.0 metamask-launchpad.vercel.app
@@ -584,14 +582,12 @@
 0.0.0.0 metamask2-eight.vercel.app
 0.0.0.0 metamask88.com
 0.0.0.0 metamaskcasino.de
-0.0.0.0 metamaskcasino.de.com
 0.0.0.0 metamaskchromeextensionn.blogspot.com
 0.0.0.0 metamaskextensionnn.gitbook.io
 0.0.0.0 metamasklogniox.gitbook.io
 0.0.0.0 metamasklskog.gitbook.io
 0.0.0.0 metamaskrewards.com
 0.0.0.0 metamaskwallett.blogspot.com
-0.0.0.0 meweb.kz
 0.0.0.0 mexicocentral-01.azurewebsites.net
 0.0.0.0 mhmr.ro
 0.0.0.0 mi-santander.com
@@ -667,6 +663,7 @@
 0.0.0.0 patch.static-whatsapp.com
 0.0.0.0 patelrudra.in
 0.0.0.0 paykmc.com
+0.0.0.0 paypal-app.online
 0.0.0.0 paypal-logiin.blogspot.com
 0.0.0.0 paypal-password.blogspot.com
 0.0.0.0 paypal-pay.com
@@ -675,6 +672,7 @@
 0.0.0.0 paypal-signin.blogspot.com
 0.0.0.0 paypal3.vercel.app
 0.0.0.0 paypalcorp.blogspot.com
+0.0.0.0 paypall-login.blogspot.com
 0.0.0.0 pc-spotify.cn
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 pgn-s.com
@@ -708,16 +706,14 @@
 0.0.0.0 reentrega-seur-envio.cloudaccess.host
 0.0.0.0 register-facebook.blogspot.com
 0.0.0.0 rekemonedasi-facebook.org
-0.0.0.0 rents.ac
 0.0.0.0 rev.it
 0.0.0.0 roblox-login.vercel.app
-0.0.0.0 roblox.com.am
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
+0.0.0.0 roblox.com.bz
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.hr
 0.0.0.0 roblox.com.kz
-0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 rricrosoft-offices.org
@@ -869,8 +865,10 @@
 0.0.0.0 xfinity200212.weebly.com
 0.0.0.0 xfinitybillingsupport.weebly.com
 0.0.0.0 xfinityconnectemail.weebly.com
+0.0.0.0 xfinityconnectonline.weebly.com
 0.0.0.0 xfinityconnectupgrade.weebly.com
 0.0.0.0 xfinityis.weebly.com
+0.0.0.0 xfinitymail01.weebly.com
 0.0.0.0 xfinitymail087.weebly.com
 0.0.0.0 xfinitymailid.weebly.com
 0.0.0.0 xfinitymailnow.weebly.com
@@ -878,6 +876,7 @@
 0.0.0.0 xfinityservices.vercel.app
 0.0.0.0 xfinitysupportnow.weebly.com
 0.0.0.0 xfinityttt.weebly.com
+0.0.0.0 xfinityupdatesnow.weebly.com
 0.0.0.0 xfinitywindowfilms.com
 0.0.0.0 yagomouro.github.io
 0.0.0.0 yapla.com
