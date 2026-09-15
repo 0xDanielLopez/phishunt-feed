@@ -1,23 +1,22 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 899
-! Updated: 2026-09-14T21:50:16Z
+! Entries: 890
+! Updated: 2026-09-15T04:41:24Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
 ! Community-reported phishing domains. Use at your own risk.
 
 ||01felipeaugusto-star.github.io^
+||102391hj655.buzz^
 ||123-facebook.blogspot.com^
-||1231230h8h5.beer^
-||129031828h45h.top^
-||1298j675h75g34.buzz^
+||12301209.click^
+||123098h5.buzz^
+||1230h9457h45g.pics^
 ||190842-coinbase.com^
 ||2017-facebook.blogspot.com^
 ||274615-coinbase.com^
 ||283674-coinbase.com^
 ||286364-coinbase.com^
-||309129128h7546.beer^
-||32120319hh57.mom^
 ||393bet-facebook.sa.com^
 ||54893-coinbase.com^
 ||818144-kraken.com^
@@ -31,20 +30,14 @@
 ||account-instagram.vercel.app^
 ||accounts-facebook.blogspot.com^
 ||accounts-google-login.github.io^
-||accounts-mail-google.com^
 ||adobeforbusiness.com^
 ||ahmadhussain99.github.io^
 ||aishwarya-rathore.github.io^
 ||alibaba-taobaol.cn^
 ||alibaba188.org^
-||alibaba33.pro^
 ||alibaba66.co^
 ||alibaba666.app^
-||alibaba666.bet^
-||alibaba666.pro^
 ||alibaba66a.net^
-||alibaba66malaysia.app^
-||alibaba66slot.app^
 ||amazon-ecommerce-nine.vercel.app^
 ||amazon-eight-taupe.vercel.app^
 ||amazon-front-me.vercel.app^
@@ -59,6 +52,7 @@
 ||ani-facebook.blogspot.com^
 ||annulation-amazon.com^
 ||anoopsamazon.vercel.app^
+||antimoney-laundering.org^
 ||apk-google.cn^
 ||app-binance.github.io^
 ||app-exodusweb.pages.dev^
@@ -79,7 +73,6 @@
 ||aziizmusyafa18.github.io^
 ||bankofamerica-uscom.vercel.app^
 ||bankofamericamailcompte.blogspot.com^
-||bankofamericanonline.com^
 ||barcelona-facebook.blogspot.com^
 ||barclays-bank.vercel.app^
 ||bbva-hiring-paperless.appspot.com^
@@ -104,7 +97,6 @@
 ||binanceuz.co^
 ||binancewallett.blogspot.com^
 ||biowikiweb.com^
-||blamedame.com^
 ||blog-whatsappx.hl.cn^
 ||bnext.es^
 ||books-facebook.blogspot.com^
@@ -117,6 +109,7 @@
 ||business-dropbox.me^
 ||c-binance.github.io^
 ||calendar.scan-whatsapp.com^
+||camisasdecolores.net^
 ||canary.static-whatsapp.com^
 ||cardpaysecurity.org^
 ||carivo.vu^
@@ -135,9 +128,7 @@
 ||cn-spotify.cn^
 ||cn.comm-whatsapp.com^
 ||cn.static-whatsapp.com^
-||coinbase-account.info^
 ||coinbase-event.vercel.app^
-||coinbase-securitycheck.com^
 ||coinbase.com.lc^
 ||coinbase99.top^
 ||coinbasebackoffice.exchange^
@@ -184,9 +175,11 @@
 ||ebay-c.com^
 ||ebay-phone-number.blogspot.com^
 ||ebay-seller-center-managedpayments.vercel.app^
+||ebay-verif.com^
 ||ebay-wholesale.com^
 ||ebaymclaren-austin.eventshouse.app^
 ||ebaymevip.com^
+||ebaymotorspro.co.uk^
 ||edgeone.dev^
 ||email-microsoft.com^
 ||email-update-comcast.weebly.com^
@@ -296,7 +289,6 @@
 ||facebook-seven-alpha.vercel.app^
 ||facebook-sigma-ruby.vercel.app^
 ||facebook-signup-page-1zav.vercel.app^
-||facebook-similer.vercel.app^
 ||facebook-source.blogspot.com^
 ||facebook-supports.blogspot.com^
 ||facebook-system.blogspot.com^
@@ -449,6 +441,7 @@
 ||hsbc-sec.com^
 ||hsbc.dev^
 ||hsbcpress.com^
+||https-vww-roblox.com^
 ||hub-whatsapp.com^
 ||icloud-asisten-official.com^
 ||icloud-sharedalbum.com^
@@ -534,6 +527,7 @@
 ||kavishkadileepa01.github.io^
 ||kenhoward.com^
 ||kraken-tor.co.com^
+||kucoin-referral-code-pt.vercel.app^
 ||kucoin9.com^
 ||kucoinloign.gitbook.io^
 ||kucoins-signin.com^
@@ -593,6 +587,7 @@
 ||metamask-wallet.vercel.app^
 ||metamask-web.vercel.app^
 ||metamask.github.io^
+||metamask.godaddysites.com^
 ||metamask2-eight.vercel.app^
 ||metamask88.com^
 ||metamaskcasino.de^
@@ -646,9 +641,8 @@
 ||netflixbymanoj.vercel.app^
 ||netflixcasino.co.it^
 ||netflixfeitoaqui.com.br^
+||netflixinfos.com^
 ||netflixquebec.blogspot.com^
-||netflixreviewflix.com^
-||netflixtoto.xyz^
 ||netflixtunisie.com.tn^
 ||netflixvoid.org^
 ||netflixy-bixy.vercel.app^
@@ -665,6 +659,7 @@
 ||online-facebook-privacy.blogspot.com^
 ||oortstorages.com^
 ||oovra.club^
+||open-instagram.vercel.app^
 ||openai-coin.com^
 ||opensea-six.vercel.app^
 ||openseaproks007.vercel.app^
@@ -692,7 +687,6 @@
 ||pe-facebook.blogspot.com^
 ||photo.comm-whatsapp.com^
 ||photo.static-whatsapp.com^
-||pl-ogloszenie5954196127.click^
 ||playground.static-whatsapp.com^
 ||prajwalkuchewar.github.io^
 ||premio-instagram.com^
@@ -704,7 +698,6 @@
 ||profil-facebook-saya.blogspot.com^
 ||proteccion-outlook2026.iceiy.com^
 ||protected-request.com^
-||pry84327h45.help^
 ||pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev^
 ||public.static-whatsapp.com^
 ||pushkar-hub.github.io^
@@ -716,6 +709,7 @@
 ||rberthelette.com^
 ||reactivar-microsoft-live.iceiy.com^
 ||rec-netflix.com^
+||receiptslinkedin.com^
 ||recreate-instagrampage.vercel.app^
 ||redis.static-whatsapp.com^
 ||reentrega-seur-envio.cloudaccess.host^
@@ -723,7 +717,6 @@
 ||rekemonedasi-facebook.org^
 ||rents.ac^
 ||rev.it^
-||rezerwacja54278.cfd^
 ||roblox-login.vercel.app^
 ||roblox.com.am^
 ||roblox.com.bi^
@@ -754,7 +747,6 @@
 ||send-secure-trustwallet-usdt-bip20.vercel.app^
 ||services-facebook.blogspot.com^
 ||seureonline.shop^
-||sgn-1.com^
 ||sheokand9806.github.io^
 ||shop.static-whatsapp.com^
 ||shruuti-005.github.io^
@@ -763,7 +755,6 @@
 ||sign-in-to-xfinity-090.weebly.com^
 ||sign-in-to-xfinity-87653.weebly.com^
 ||sk-facebook.blogspot.com^
-||smart8437329129.buzz^
 ||smswt.in^
 ||spotify-a9.netlify.app^
 ||spotify-client-beta.vercel.app^

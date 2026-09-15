@@ -1,23 +1,22 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 899
-# Updated: 2026-09-14T21:50:15Z
+# Entries: 890
+# Updated: 2026-09-15T04:55:55Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
 0.0.0.0 01felipeaugusto-star.github.io
+0.0.0.0 102391hj655.buzz
 0.0.0.0 123-facebook.blogspot.com
-0.0.0.0 1231230h8h5.beer
-0.0.0.0 129031828h45h.top
-0.0.0.0 1298j675h75g34.buzz
+0.0.0.0 12301209.click
+0.0.0.0 123098h5.buzz
+0.0.0.0 1230h9457h45g.pics
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 274615-coinbase.com
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
-0.0.0.0 309129128h7546.beer
-0.0.0.0 32120319hh57.mom
 0.0.0.0 393bet-facebook.sa.com
 0.0.0.0 54893-coinbase.com
 0.0.0.0 818144-kraken.com
@@ -31,20 +30,14 @@
 0.0.0.0 account-instagram.vercel.app
 0.0.0.0 accounts-facebook.blogspot.com
 0.0.0.0 accounts-google-login.github.io
-0.0.0.0 accounts-mail-google.com
 0.0.0.0 adobeforbusiness.com
 0.0.0.0 ahmadhussain99.github.io
 0.0.0.0 aishwarya-rathore.github.io
 0.0.0.0 alibaba-taobaol.cn
 0.0.0.0 alibaba188.org
-0.0.0.0 alibaba33.pro
 0.0.0.0 alibaba66.co
 0.0.0.0 alibaba666.app
-0.0.0.0 alibaba666.bet
-0.0.0.0 alibaba666.pro
 0.0.0.0 alibaba66a.net
-0.0.0.0 alibaba66malaysia.app
-0.0.0.0 alibaba66slot.app
 0.0.0.0 amazon-ecommerce-nine.vercel.app
 0.0.0.0 amazon-eight-taupe.vercel.app
 0.0.0.0 amazon-front-me.vercel.app
@@ -59,6 +52,7 @@
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 annulation-amazon.com
 0.0.0.0 anoopsamazon.vercel.app
+0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-exodusweb.pages.dev
@@ -79,7 +73,6 @@
 0.0.0.0 aziizmusyafa18.github.io
 0.0.0.0 bankofamerica-uscom.vercel.app
 0.0.0.0 bankofamericamailcompte.blogspot.com
-0.0.0.0 bankofamericanonline.com
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
 0.0.0.0 bbva-hiring-paperless.appspot.com
@@ -104,7 +97,6 @@
 0.0.0.0 binanceuz.co
 0.0.0.0 binancewallett.blogspot.com
 0.0.0.0 biowikiweb.com
-0.0.0.0 blamedame.com
 0.0.0.0 blog-whatsappx.hl.cn
 0.0.0.0 bnext.es
 0.0.0.0 books-facebook.blogspot.com
@@ -117,6 +109,7 @@
 0.0.0.0 business-dropbox.me
 0.0.0.0 c-binance.github.io
 0.0.0.0 calendar.scan-whatsapp.com
+0.0.0.0 camisasdecolores.net
 0.0.0.0 canary.static-whatsapp.com
 0.0.0.0 cardpaysecurity.org
 0.0.0.0 carivo.vu
@@ -135,9 +128,7 @@
 0.0.0.0 cn-spotify.cn
 0.0.0.0 cn.comm-whatsapp.com
 0.0.0.0 cn.static-whatsapp.com
-0.0.0.0 coinbase-account.info
 0.0.0.0 coinbase-event.vercel.app
-0.0.0.0 coinbase-securitycheck.com
 0.0.0.0 coinbase.com.lc
 0.0.0.0 coinbase99.top
 0.0.0.0 coinbasebackoffice.exchange
@@ -184,9 +175,11 @@
 0.0.0.0 ebay-c.com
 0.0.0.0 ebay-phone-number.blogspot.com
 0.0.0.0 ebay-seller-center-managedpayments.vercel.app
+0.0.0.0 ebay-verif.com
 0.0.0.0 ebay-wholesale.com
 0.0.0.0 ebaymclaren-austin.eventshouse.app
 0.0.0.0 ebaymevip.com
+0.0.0.0 ebaymotorspro.co.uk
 0.0.0.0 edgeone.dev
 0.0.0.0 email-microsoft.com
 0.0.0.0 email-update-comcast.weebly.com
@@ -296,7 +289,6 @@
 0.0.0.0 facebook-seven-alpha.vercel.app
 0.0.0.0 facebook-sigma-ruby.vercel.app
 0.0.0.0 facebook-signup-page-1zav.vercel.app
-0.0.0.0 facebook-similer.vercel.app
 0.0.0.0 facebook-source.blogspot.com
 0.0.0.0 facebook-supports.blogspot.com
 0.0.0.0 facebook-system.blogspot.com
@@ -449,6 +441,7 @@
 0.0.0.0 hsbc-sec.com
 0.0.0.0 hsbc.dev
 0.0.0.0 hsbcpress.com
+0.0.0.0 https-vww-roblox.com
 0.0.0.0 hub-whatsapp.com
 0.0.0.0 icloud-asisten-official.com
 0.0.0.0 icloud-sharedalbum.com
@@ -534,6 +527,7 @@
 0.0.0.0 kavishkadileepa01.github.io
 0.0.0.0 kenhoward.com
 0.0.0.0 kraken-tor.co.com
+0.0.0.0 kucoin-referral-code-pt.vercel.app
 0.0.0.0 kucoin9.com
 0.0.0.0 kucoinloign.gitbook.io
 0.0.0.0 kucoins-signin.com
@@ -593,6 +587,7 @@
 0.0.0.0 metamask-wallet.vercel.app
 0.0.0.0 metamask-web.vercel.app
 0.0.0.0 metamask.github.io
+0.0.0.0 metamask.godaddysites.com
 0.0.0.0 metamask2-eight.vercel.app
 0.0.0.0 metamask88.com
 0.0.0.0 metamaskcasino.de
@@ -646,9 +641,8 @@
 0.0.0.0 netflixbymanoj.vercel.app
 0.0.0.0 netflixcasino.co.it
 0.0.0.0 netflixfeitoaqui.com.br
+0.0.0.0 netflixinfos.com
 0.0.0.0 netflixquebec.blogspot.com
-0.0.0.0 netflixreviewflix.com
-0.0.0.0 netflixtoto.xyz
 0.0.0.0 netflixtunisie.com.tn
 0.0.0.0 netflixvoid.org
 0.0.0.0 netflixy-bixy.vercel.app
@@ -665,6 +659,7 @@
 0.0.0.0 online-facebook-privacy.blogspot.com
 0.0.0.0 oortstorages.com
 0.0.0.0 oovra.club
+0.0.0.0 open-instagram.vercel.app
 0.0.0.0 openai-coin.com
 0.0.0.0 opensea-six.vercel.app
 0.0.0.0 openseaproks007.vercel.app
@@ -692,7 +687,6 @@
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 photo.comm-whatsapp.com
 0.0.0.0 photo.static-whatsapp.com
-0.0.0.0 pl-ogloszenie5954196127.click
 0.0.0.0 playground.static-whatsapp.com
 0.0.0.0 prajwalkuchewar.github.io
 0.0.0.0 premio-instagram.com
@@ -704,7 +698,6 @@
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 proteccion-outlook2026.iceiy.com
 0.0.0.0 protected-request.com
-0.0.0.0 pry84327h45.help
 0.0.0.0 pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev
 0.0.0.0 public.static-whatsapp.com
 0.0.0.0 pushkar-hub.github.io
@@ -716,6 +709,7 @@
 0.0.0.0 rberthelette.com
 0.0.0.0 reactivar-microsoft-live.iceiy.com
 0.0.0.0 rec-netflix.com
+0.0.0.0 receiptslinkedin.com
 0.0.0.0 recreate-instagrampage.vercel.app
 0.0.0.0 redis.static-whatsapp.com
 0.0.0.0 reentrega-seur-envio.cloudaccess.host
@@ -723,7 +717,6 @@
 0.0.0.0 rekemonedasi-facebook.org
 0.0.0.0 rents.ac
 0.0.0.0 rev.it
-0.0.0.0 rezerwacja54278.cfd
 0.0.0.0 roblox-login.vercel.app
 0.0.0.0 roblox.com.am
 0.0.0.0 roblox.com.bi
@@ -754,7 +747,6 @@
 0.0.0.0 send-secure-trustwallet-usdt-bip20.vercel.app
 0.0.0.0 services-facebook.blogspot.com
 0.0.0.0 seureonline.shop
-0.0.0.0 sgn-1.com
 0.0.0.0 sheokand9806.github.io
 0.0.0.0 shop.static-whatsapp.com
 0.0.0.0 shruuti-005.github.io
@@ -763,7 +755,6 @@
 0.0.0.0 sign-in-to-xfinity-090.weebly.com
 0.0.0.0 sign-in-to-xfinity-87653.weebly.com
 0.0.0.0 sk-facebook.blogspot.com
-0.0.0.0 smart8437329129.buzz
 0.0.0.0 smswt.in
 0.0.0.0 spotify-a9.netlify.app
 0.0.0.0 spotify-client-beta.vercel.app
