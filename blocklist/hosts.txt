@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 882
-# Updated: 2026-09-15T17:00:22Z
+# Entries: 894
+# Updated: 2026-09-15T21:22:06Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -14,6 +14,7 @@
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
 0.0.0.0 393bet-facebook.sa.com
+0.0.0.0 5828342-coinbase.com
 0.0.0.0 818144-kraken.com
 0.0.0.0 818920-kraken.com
 0.0.0.0 819283-kraken.com
@@ -26,6 +27,7 @@
 0.0.0.0 adobeforbusiness.com
 0.0.0.0 ahmadhussain99.github.io
 0.0.0.0 aishwarya-rathore.github.io
+0.0.0.0 alert-metamask.app
 0.0.0.0 alibaba-taobaol.cn
 0.0.0.0 alibaba188.org
 0.0.0.0 alibaba66.co
@@ -59,6 +61,7 @@
 0.0.0.0 asset.static-whatsapp.com
 0.0.0.0 assign-icloud.com
 0.0.0.0 asso-entrautres.fr
+0.0.0.0 at-trezr-io-logn.pages.dev
 0.0.0.0 authorised-support.com
 0.0.0.0 avaturefed.net
 0.0.0.0 avlinfo.in
@@ -150,7 +153,9 @@
 0.0.0.0 dhl-expressmy.com
 0.0.0.0 dir.com.my
 0.0.0.0 dj-facebook.blogspot.com
+0.0.0.0 dk-oferta9243020342.cyou
 0.0.0.0 dk-produkt392584.sbs
+0.0.0.0 dockerfile-whatsapp.com
 0.0.0.0 docs-google.com
 0.0.0.0 docs-trezor-app.pages.dev
 0.0.0.0 docs.scan-whatsapp.com
@@ -173,12 +178,14 @@
 0.0.0.0 ebaymclaren-austin.eventshouse.app
 0.0.0.0 ebaymevip.com
 0.0.0.0 ebaymotorspro.co.uk
+0.0.0.0 ebayohs.com
 0.0.0.0 edgeone.dev
 0.0.0.0 email-microsoft.com
 0.0.0.0 email-update-comcast.weebly.com
 0.0.0.0 emersondasilva-dev.github.io
 0.0.0.0 emmanueldegreatltd.com
 0.0.0.0 empresas-hsbc.com
+0.0.0.0 en-en-kraken.com
 0.0.0.0 epsilons.co
 0.0.0.0 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
 0.0.0.0 eu-facebook.blogspot.com
@@ -373,6 +380,7 @@
 0.0.0.0 facebookzaman.blogspot.com
 0.0.0.0 fedex-olive.vercel.app
 0.0.0.0 fedexinterviewprep.com
+0.0.0.0 fhow-whatsapp.com
 0.0.0.0 file-whatsappn.hl.cn
 0.0.0.0 fmello2002.github.io
 0.0.0.0 fmi-icloud.pro
@@ -437,6 +445,7 @@
 0.0.0.0 hub-whatsapp.com
 0.0.0.0 icloud-asisten-official.com
 0.0.0.0 icloud-sharedalbum.com
+0.0.0.0 id38djw7d29ds872bf6723fd.sbs
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 indiarevolutionnova.github.io
@@ -642,7 +651,9 @@
 0.0.0.0 nhcarwraps.com
 0.0.0.0 niels-meyer.de
 0.0.0.0 noreply-icloud.app
+0.0.0.0 nr-2343m2342.lol
 0.0.0.0 nw-facebook.blogspot.com
+0.0.0.0 oferta95837.cfd
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 okta-whatsapp.com
 0.0.0.0 online-facebook-privacy.blogspot.com
@@ -678,6 +689,7 @@
 0.0.0.0 pgn-s.com
 0.0.0.0 photo.comm-whatsapp.com
 0.0.0.0 photo.static-whatsapp.com
+0.0.0.0 pl-oferta674891287.sbs
 0.0.0.0 playground.static-whatsapp.com
 0.0.0.0 prajwalkuchewar.github.io
 0.0.0.0 premio-instagram.com

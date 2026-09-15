@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 882
-# Updated: 2026-09-15T17:00:20Z
+# Entries: 894
+# Updated: 2026-09-15T21:22:05Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -14,6 +14,7 @@
 283674-coinbase.com
 286364-coinbase.com
 393bet-facebook.sa.com
+5828342-coinbase.com
 818144-kraken.com
 818920-kraken.com
 819283-kraken.com
@@ -26,6 +27,7 @@ accounts-facebook.blogspot.com
 adobeforbusiness.com
 ahmadhussain99.github.io
 aishwarya-rathore.github.io
+alert-metamask.app
 alibaba-taobaol.cn
 alibaba188.org
 alibaba66.co
@@ -59,6 +61,7 @@ asif.me
 asset.static-whatsapp.com
 assign-icloud.com
 asso-entrautres.fr
+at-trezr-io-logn.pages.dev
 authorised-support.com
 avaturefed.net
 avlinfo.in
@@ -150,7 +153,9 @@ desktop.static-whatsapp.com
 dhl-expressmy.com
 dir.com.my
 dj-facebook.blogspot.com
+dk-oferta9243020342.cyou
 dk-produkt392584.sbs
+dockerfile-whatsapp.com
 docs-google.com
 docs-trezor-app.pages.dev
 docs.scan-whatsapp.com
@@ -173,12 +178,14 @@ ebay-wholesale.com
 ebaymclaren-austin.eventshouse.app
 ebaymevip.com
 ebaymotorspro.co.uk
+ebayohs.com
 edgeone.dev
 email-microsoft.com
 email-update-comcast.weebly.com
 emersondasilva-dev.github.io
 emmanueldegreatltd.com
 empresas-hsbc.com
+en-en-kraken.com
 epsilons.co
 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
 eu-facebook.blogspot.com
@@ -373,6 +380,7 @@ facebookwebsite9.blogspot.com
 facebookzaman.blogspot.com
 fedex-olive.vercel.app
 fedexinterviewprep.com
+fhow-whatsapp.com
 file-whatsappn.hl.cn
 fmello2002.github.io
 fmi-icloud.pro
@@ -437,6 +445,7 @@ https-vww-roblox.com
 hub-whatsapp.com
 icloud-asisten-official.com
 icloud-sharedalbum.com
+id38djw7d29ds872bf6723fd.sbs
 ideeo.mx
 ifotografix.co.uk
 indiarevolutionnova.github.io
@@ -642,7 +651,9 @@ news.static-whatsapp.com
 nhcarwraps.com
 niels-meyer.de
 noreply-icloud.app
+nr-2343m2342.lol
 nw-facebook.blogspot.com
+oferta95837.cfd
 office365licensingsupport.com
 okta-whatsapp.com
 online-facebook-privacy.blogspot.com
@@ -678,6 +689,7 @@ pe-facebook.blogspot.com
 pgn-s.com
 photo.comm-whatsapp.com
 photo.static-whatsapp.com
+pl-oferta674891287.sbs
 playground.static-whatsapp.com
 prajwalkuchewar.github.io
 premio-instagram.com
