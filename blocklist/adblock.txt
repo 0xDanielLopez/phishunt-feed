@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 832
-! Updated: 2026-09-16T11:35:39Z
+! Entries: 837
+! Updated: 2026-09-16T16:57:16Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -57,11 +57,9 @@
 ||asif.me^
 ||assign-icloud.com^
 ||asso-entrautres.fr^
-||att-mail.com^
 ||authorised-support.com^
 ||avaturefed.net^
 ||avlinfo.in^
-||awarenesss.cfd^
 ||axm-amazon.com^
 ||aziizmusyafa18.github.io^
 ||bankofamerica-uscom.vercel.app^
@@ -115,10 +113,13 @@
 ||coinbasebackoffice.exchange^
 ||coinbaseinvestors.ai^
 ||collectableswall.ebaymclaren-austin.eventshouse.app^
+||comcast-ebon.vercel.app^
 ||comcast2.vercel.app^
 ||comcastcarebusiness.weebly.com^
+||comcastinfoupdatenow.weebly.com^
 ||comcastinfoupdatesnow.weebly.com^
 ||comcastlog.weebly.com^
+||comcastmemberupdate.weebly.com^
 ||comcastnetmail.weebly.com^
 ||comcastseettings.weebly.com^
 ||comcastsurvey.weebly.com^
@@ -137,7 +138,6 @@
 ||dhl-expressmy.com^
 ||dir.com.my^
 ||dj-facebook.blogspot.com^
-||dk-produkt392584.sbs^
 ||docs-google.com^
 ||docs-trezor-app.pages.dev^
 ||dolaition-bit.github.io^
@@ -164,7 +164,6 @@
 ||email-update-comcast.weebly.com^
 ||emersondasilva-dev.github.io^
 ||emmanueldegreatltd.com^
-||empresas-hsbc.com^
 ||epsilons.co^
 ||erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org^
 ||eu-facebook.blogspot.com^
@@ -418,9 +417,9 @@
 ||hsbc.dev^
 ||hsbccpersonalonlinebanking.com^
 ||hsbcpress.com^
-||https-vww-roblox.com^
 ||icloud-asisten-official.com^
 ||icloud-sharedalbum.com^
+||icloudxtzsopoe.click^
 ||ideeo.mx^
 ||ifotografix.co.uk^
 ||indiarevolutionnova.github.io^
@@ -504,7 +503,6 @@
 ||kucoin-referral-code-pt.vercel.app^
 ||kucoin9.com^
 ||kucoinloign.gitbook.io^
-||kucoins-signin.com^
 ||kucoinv.com^
 ||lateinos.com.br^
 ||ledger-live-cdn-auth.netlify.app^
@@ -523,11 +521,11 @@
 ||login-my-facebook.blogspot.com^
 ||login-page-instagram.blogspot.com^
 ||login-page-instagram.vercel.app^
+||login-xfinityweb.weebly.com^
 ||login.rmdbwskx.santander.bimp-bot.duckdns.org^
 ||login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org^
 ||loginfacebook-facebook.blogspot.com^
 ||logowanie-facebook.vercel.app^
-||lokaina-48234.sbs^
 ||lokaina-5843.sbs^
 ||love-facebook.blogspot.com^
 ||lovefive-facebook.blogspot.com^
@@ -599,6 +597,7 @@
 ||netflix-homepage-pi.vercel.app^
 ||netflix-lake.vercel.app^
 ||netflix-login.blogspot.com^
+||netflix-renovacion-pago.com^
 ||netflix-two-mu.vercel.app^
 ||netflix-web-site-three.vercel.app^
 ||netflix.surf^
@@ -616,7 +615,6 @@
 ||netsolhost.com^
 ||network-facebook.blogspot.com^
 ||news-revolut.com^
-||nhcarwraps.com^
 ||niels-meyer.de^
 ||noreply-icloud.app^
 ||nw-facebook.blogspot.com^
@@ -663,6 +661,7 @@
 ||rama-facebook.blogspot.com^
 ||rberthelette.com^
 ||reactivar-microsoft-live.iceiy.com^
+||real-facebook.blogspot.com^
 ||rec-netflix.com^
 ||receiptslinkedin.com^
 ||recreate-instagrampage.vercel.app^
@@ -674,16 +673,20 @@
 ||roblox.com.bi^
 ||roblox.com.bn^
 ||roblox.com.bz^
+||roblox.com.do^
 ||roblox.com.gr^
 ||roblox.com.hr^
 ||roblox.com.kz^
+||roblox.com.ml^
 ||roblox.com.mu^
 ||roblox.com.pt^
 ||rricrosoft-offices.org^
 ||ruddycruzc.github.io^
 ||s-facebook.blogspot.com^
+||sagers.com^
 ||samplel-ks6yxvur5-instagramm.vercel.app^
 ||santander-dev-week.vercel.app^
+||santander-remaster-whats-fb.vercel.app^
 ||santanderbank.shop^
 ||santanderbizum.com^
 ||santandercitas.com^
@@ -788,7 +791,7 @@
 ||whatsapp-fast.vercel.app^
 ||whatsapp-iamsuyash.vercel.app^
 ||whatsapp-indonesia877.blogspot.com^
-||whatsapp-inv.icu^
+||whatsapp-report.com^
 ||whatsapp-stream-unblock.ph^
 ||whatsapp-verify.blogspot.com^
 ||whatsappapk.org^
@@ -808,6 +811,7 @@
 ||www2-facebook.com^
 ||wwww-linkedin.be^
 ||x-comcast.weebly.com^
+||xfinity-555.weebly.com^
 ||xfinity-mail-id.weebly.com^
 ||xfinity090.weebly.com^
 ||xfinity2.vercel.app^
@@ -821,6 +825,7 @@
 ||xfinitymail087.weebly.com^
 ||xfinitymailid.weebly.com^
 ||xfinitymailnow.weebly.com^
+||xfinitymemberinfo.weebly.com^
 ||xfinitynow.weebly.com^
 ||xfinityservices.vercel.app^
 ||xfinitysupportnow.weebly.com^

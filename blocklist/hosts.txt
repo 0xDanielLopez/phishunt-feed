@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 832
-# Updated: 2026-09-16T11:35:39Z
+# Entries: 837
+# Updated: 2026-09-16T16:57:15Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -57,11 +57,9 @@
 0.0.0.0 asif.me
 0.0.0.0 assign-icloud.com
 0.0.0.0 asso-entrautres.fr
-0.0.0.0 att-mail.com
 0.0.0.0 authorised-support.com
 0.0.0.0 avaturefed.net
 0.0.0.0 avlinfo.in
-0.0.0.0 awarenesss.cfd
 0.0.0.0 axm-amazon.com
 0.0.0.0 aziizmusyafa18.github.io
 0.0.0.0 bankofamerica-uscom.vercel.app
@@ -115,10 +113,13 @@
 0.0.0.0 coinbasebackoffice.exchange
 0.0.0.0 coinbaseinvestors.ai
 0.0.0.0 collectableswall.ebaymclaren-austin.eventshouse.app
+0.0.0.0 comcast-ebon.vercel.app
 0.0.0.0 comcast2.vercel.app
 0.0.0.0 comcastcarebusiness.weebly.com
+0.0.0.0 comcastinfoupdatenow.weebly.com
 0.0.0.0 comcastinfoupdatesnow.weebly.com
 0.0.0.0 comcastlog.weebly.com
+0.0.0.0 comcastmemberupdate.weebly.com
 0.0.0.0 comcastnetmail.weebly.com
 0.0.0.0 comcastseettings.weebly.com
 0.0.0.0 comcastsurvey.weebly.com
@@ -137,7 +138,6 @@
 0.0.0.0 dhl-expressmy.com
 0.0.0.0 dir.com.my
 0.0.0.0 dj-facebook.blogspot.com
-0.0.0.0 dk-produkt392584.sbs
 0.0.0.0 docs-google.com
 0.0.0.0 docs-trezor-app.pages.dev
 0.0.0.0 dolaition-bit.github.io
@@ -164,7 +164,6 @@
 0.0.0.0 email-update-comcast.weebly.com
 0.0.0.0 emersondasilva-dev.github.io
 0.0.0.0 emmanueldegreatltd.com
-0.0.0.0 empresas-hsbc.com
 0.0.0.0 epsilons.co
 0.0.0.0 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
 0.0.0.0 eu-facebook.blogspot.com
@@ -418,9 +417,9 @@
 0.0.0.0 hsbc.dev
 0.0.0.0 hsbccpersonalonlinebanking.com
 0.0.0.0 hsbcpress.com
-0.0.0.0 https-vww-roblox.com
 0.0.0.0 icloud-asisten-official.com
 0.0.0.0 icloud-sharedalbum.com
+0.0.0.0 icloudxtzsopoe.click
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 indiarevolutionnova.github.io
@@ -504,7 +503,6 @@
 0.0.0.0 kucoin-referral-code-pt.vercel.app
 0.0.0.0 kucoin9.com
 0.0.0.0 kucoinloign.gitbook.io
-0.0.0.0 kucoins-signin.com
 0.0.0.0 kucoinv.com
 0.0.0.0 lateinos.com.br
 0.0.0.0 ledger-live-cdn-auth.netlify.app
@@ -523,11 +521,11 @@
 0.0.0.0 login-my-facebook.blogspot.com
 0.0.0.0 login-page-instagram.blogspot.com
 0.0.0.0 login-page-instagram.vercel.app
+0.0.0.0 login-xfinityweb.weebly.com
 0.0.0.0 login.rmdbwskx.santander.bimp-bot.duckdns.org
 0.0.0.0 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 0.0.0.0 loginfacebook-facebook.blogspot.com
 0.0.0.0 logowanie-facebook.vercel.app
-0.0.0.0 lokaina-48234.sbs
 0.0.0.0 lokaina-5843.sbs
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
@@ -599,6 +597,7 @@
 0.0.0.0 netflix-homepage-pi.vercel.app
 0.0.0.0 netflix-lake.vercel.app
 0.0.0.0 netflix-login.blogspot.com
+0.0.0.0 netflix-renovacion-pago.com
 0.0.0.0 netflix-two-mu.vercel.app
 0.0.0.0 netflix-web-site-three.vercel.app
 0.0.0.0 netflix.surf
@@ -616,7 +615,6 @@
 0.0.0.0 netsolhost.com
 0.0.0.0 network-facebook.blogspot.com
 0.0.0.0 news-revolut.com
-0.0.0.0 nhcarwraps.com
 0.0.0.0 niels-meyer.de
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
@@ -663,6 +661,7 @@
 0.0.0.0 rama-facebook.blogspot.com
 0.0.0.0 rberthelette.com
 0.0.0.0 reactivar-microsoft-live.iceiy.com
+0.0.0.0 real-facebook.blogspot.com
 0.0.0.0 rec-netflix.com
 0.0.0.0 receiptslinkedin.com
 0.0.0.0 recreate-instagrampage.vercel.app
@@ -674,16 +673,20 @@
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bz
+0.0.0.0 roblox.com.do
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.hr
 0.0.0.0 roblox.com.kz
+0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 rricrosoft-offices.org
 0.0.0.0 ruddycruzc.github.io
 0.0.0.0 s-facebook.blogspot.com
+0.0.0.0 sagers.com
 0.0.0.0 samplel-ks6yxvur5-instagramm.vercel.app
 0.0.0.0 santander-dev-week.vercel.app
+0.0.0.0 santander-remaster-whats-fb.vercel.app
 0.0.0.0 santanderbank.shop
 0.0.0.0 santanderbizum.com
 0.0.0.0 santandercitas.com
@@ -788,7 +791,7 @@
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-iamsuyash.vercel.app
 0.0.0.0 whatsapp-indonesia877.blogspot.com
-0.0.0.0 whatsapp-inv.icu
+0.0.0.0 whatsapp-report.com
 0.0.0.0 whatsapp-stream-unblock.ph
 0.0.0.0 whatsapp-verify.blogspot.com
 0.0.0.0 whatsappapk.org
@@ -808,6 +811,7 @@
 0.0.0.0 www2-facebook.com
 0.0.0.0 wwww-linkedin.be
 0.0.0.0 x-comcast.weebly.com
+0.0.0.0 xfinity-555.weebly.com
 0.0.0.0 xfinity-mail-id.weebly.com
 0.0.0.0 xfinity090.weebly.com
 0.0.0.0 xfinity2.vercel.app
@@ -821,6 +825,7 @@
 0.0.0.0 xfinitymail087.weebly.com
 0.0.0.0 xfinitymailid.weebly.com
 0.0.0.0 xfinitymailnow.weebly.com
+0.0.0.0 xfinitymemberinfo.weebly.com
 0.0.0.0 xfinitynow.weebly.com
 0.0.0.0 xfinityservices.vercel.app
 0.0.0.0 xfinitysupportnow.weebly.com
