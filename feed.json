@@ -1,5 +1,543 @@
 [
   {
+    "url": "https://allegrolokalnie.id2199785904.sbs/jacuzzi-ogrodowe-dmuchane-inte/97480",
+    "domain": "allegrolokalnie.id2199785904.sbs",
+    "company": "allegro",
+    "date": "2026-09-16T20:02:09.647607+00:00",
+    "first_seen": "2026-09-16T20:02:09.647607+00:00",
+    "uuid": "dd9de922-1b64-41c1-b5fd-f16dafb0d50b",
+    "ip": "188.114.97.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      }
+    ],
+    "score": 31,
+    "verdict": "medium"
+  },
+  {
+    "url": "http://allegrolokalnie.pl-smart891981898122712919201.sbs/oferta/id-p198e-samsung-galaxy-s25-ultra-256-gb-12gb-ram",
+    "domain": "allegrolokalnie.pl-smart891981898122712919201.sbs",
+    "company": "allegro",
+    "date": "2026-09-16T19:01:53.778847+00:00",
+    "first_seen": "2026-09-16T19:01:53.778847+00:00",
+    "uuid": "76669141-b1ad-4778-b30a-eb15bf154281",
+    "ip": "172.67.186.65",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "YE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      }
+    ],
+    "score": 34,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://fdg-trezr-logn.pages.dev",
+    "domain": "fdg-trezr-logn.pages.dev",
+    "company": "trezor",
+    "date": "2026-09-16T18:44:10.369022+00:00",
+    "first_seen": "2026-09-16T18:44:10.369022+00:00",
+    "uuid": "d79a66c8-069a-4bf7-98c5-c3161cde9cdc",
+    "ip": "172.66.44.121",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "Google Trust Services",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": true,
+    "top_signals": [],
+    "score": 0,
+    "verdict": "noise"
+  },
+  {
+    "url": "https://securenet.talent.paypal.antimoney-laundering.org",
+    "domain": "securenet.talent.paypal.antimoney-laundering.org",
+    "company": "paypal",
+    "date": "2026-09-16T17:25:32.756331+00:00",
+    "first_seen": "2026-09-16T17:25:32.756331+00:00",
+    "uuid": "1ba77df8-a44f-48ac-b598-d4999d1299be",
+    "ip": "208.91.197.27",
+    "country": "United States",
+    "asn": "40034",
+    "org": "Confluence Networks Inc",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      },
+      {
+        "signal": "hsts_missing",
+        "label": "No HSTS header",
+        "points": 1.1
+      }
+    ],
+    "score": 20,
+    "verdict": "low"
+  },
+  {
+    "url": "https://tecnicorevolut.info",
+    "domain": "tecnicorevolut.info",
+    "company": "revolut",
+    "date": "2026-09-16T17:25:18.585623+00:00",
+    "first_seen": "2026-09-16T17:25:18.585623+00:00",
+    "uuid": "22c96ecf-d9bb-4d98-bd72-46cf31debadc",
+    "ip": "35.204.150.5",
+    "country": "The Netherlands",
+    "asn": "396982",
+    "org": "Google LLC",
+    "cert": "YR1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      },
+      {
+        "signal": "hsts_missing",
+        "label": "No HSTS header",
+        "points": 1.1
+      }
+    ],
+    "score": 24,
+    "verdict": "low"
+  },
+  {
+    "url": "https://icloudnotify.help",
+    "domain": "icloudnotify.help",
+    "company": "apple",
+    "date": "2026-09-16T17:25:11.813148+00:00",
+    "first_seen": "2026-09-16T17:25:11.813148+00:00",
+    "uuid": "08f532e7-2601-40f1-83f2-8af591a503d9",
+    "ip": "31.56.209.65",
+    "country": "The Netherlands",
+    "asn": "209373",
+    "org": "SWISSNET LLC",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 4.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      }
+    ],
+    "score": 28,
+    "verdict": "low"
+  },
+  {
+    "url": "https://helps-kraken.com",
+    "domain": "helps-kraken.com",
+    "company": "kraken",
+    "date": "2026-09-16T17:25:10.506573+00:00",
+    "first_seen": "2026-09-16T17:25:10.506573+00:00",
+    "uuid": "99357ff6-47f9-47b1-aa29-04603fe731bc",
+    "ip": "103.224.182.189",
+    "country": "United States",
+    "asn": "133618",
+    "org": "Trellian Pty. Limited",
+    "cert": "YE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 3.5
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 3.0
+      }
+    ],
+    "score": 25,
+    "verdict": "low"
+  },
+  {
+    "url": "https://webdisk.binance-mail.click",
+    "domain": "webdisk.binance-mail.click",
+    "company": "binance",
+    "date": "2026-09-16T17:25:09.105302+00:00",
+    "first_seen": "2026-09-16T17:25:09.105302+00:00",
+    "uuid": "5fda1b08-870a-4faa-b1d2-757bbc4ee841",
+    "ip": "198.251.84.200",
+    "country": "Switzerland",
+    "asn": "53667",
+    "org": "FranTech Solutions",
+    "cert": "YR2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "cert_cluster",
+        "label": "Cert reuse",
+        "points": 3.4
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 33,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://cpcalendars.binance-mail.click",
+    "domain": "cpcalendars.binance-mail.click",
+    "company": "binance",
+    "date": "2026-09-16T17:25:08.799134+00:00",
+    "first_seen": "2026-09-16T17:25:08.799134+00:00",
+    "uuid": "8b619c6e-ee84-491e-99d7-9d70e5c1c2fd",
+    "ip": "198.251.84.200",
+    "country": "Switzerland",
+    "asn": "53667",
+    "org": "FranTech Solutions",
+    "cert": "YR2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "cert_cluster",
+        "label": "Cert reuse",
+        "points": 2.3
+      }
+    ],
+    "score": 31,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://binance-mail.click",
+    "domain": "binance-mail.click",
+    "company": "binance",
+    "date": "2026-09-16T17:25:08.570130+00:00",
+    "first_seen": "2026-09-16T17:25:08.570130+00:00",
+    "uuid": "25ba9055-687e-4452-bba1-df30dd13caa4",
+    "ip": "198.251.84.200",
+    "country": "Switzerland",
+    "asn": "53667",
+    "org": "FranTech Solutions",
+    "cert": "YR2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 1.7
+      },
+      {
+        "signal": "tld_abuse",
+        "label": "Suspicious TLD",
+        "points": 1.3
+      }
+    ],
+    "score": 26,
+    "verdict": "low"
+  },
+  {
+    "url": "https://autoconfig.binance-mail.click",
+    "domain": "autoconfig.binance-mail.click",
+    "company": "binance",
+    "date": "2026-09-16T17:25:08.345702+00:00",
+    "first_seen": "2026-09-16T17:25:08.345702+00:00",
+    "uuid": "307393d7-0ecc-4461-ac66-704d651d8a4a",
+    "ip": "198.251.84.200",
+    "country": "Switzerland",
+    "asn": "53667",
+    "org": "FranTech Solutions",
+    "cert": "YR2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "tld_abuse",
+        "label": "Suspicious TLD",
+        "points": 1.3
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 23,
+    "verdict": "low"
+  },
+  {
+    "url": "https://hsbctds.com",
+    "domain": "hsbctds.com",
+    "company": "hsbc",
+    "date": "2026-09-16T17:25:07.666496+00:00",
+    "first_seen": "2026-09-16T17:25:07.666496+00:00",
+    "uuid": "b401ea84-de87-400c-9d9c-1a890a89286e",
+    "ip": "52.40.42.113",
+    "country": "United States",
+    "asn": "16509",
+    "org": "Amazon.com, Inc.",
+    "cert": "YR1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      }
+    ],
+    "score": 32,
+    "verdict": "medium"
+  },
+  {
     "url": "http://register-facebook.blogspot.com",
     "domain": "register-facebook.blogspot.com",
     "company": "facebook",

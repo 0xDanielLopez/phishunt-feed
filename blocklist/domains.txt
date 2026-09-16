@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 837
-# Updated: 2026-09-16T16:57:15Z
+# Entries: 846
+# Updated: 2026-09-16T21:19:17Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -44,6 +44,7 @@ amjadraza19.github.io
 ani-facebook.blogspot.com
 annulation-amazon.com
 anoopsamazon.vercel.app
+antimoney-laundering.org
 apk-google.cn
 app-binance.github.io
 app-exodusweb.pages.dev
@@ -74,6 +75,7 @@ best-credit-card-for-facebook-ads.com
 bet-facebook.blogspot.com
 binance-blog.vercel.app
 binance-co.github.io
+binance-mail.click
 binance-promo-code.vercel.app
 binance-red-packet.vercel.app
 binance-referral-code-btcbonus.vercel.app
@@ -354,6 +356,7 @@ facebookuserlogin.blogspot.com
 facebookverifyyouraccount.blogspot.com
 facebookwebsite9.blogspot.com
 facebookzaman.blogspot.com
+fdg-trezr-logn.pages.dev
 fedex-olive.vercel.app
 fedexinterviewprep.com
 file-whatsappn.hl.cn
@@ -408,6 +411,7 @@ hashnode.dev
 hasyimf.github.io
 hellenvicente.github.io
 help-instagram.blogspot.com
+helps-kraken.com
 hofmemorabilia.ebaymclaren-austin.eventshouse.app
 home-facebook.blogspot.com
 home-ledgrreliveapp.typedream.app
@@ -417,9 +421,12 @@ hsbc-sec.com
 hsbc.dev
 hsbccpersonalonlinebanking.com
 hsbcpress.com
+hsbctds.com
 icloud-asisten-official.com
 icloud-sharedalbum.com
+icloudnotify.help
 icloudxtzsopoe.click
+id2199785904.sbs
 ideeo.mx
 ifotografix.co.uk
 indiarevolutionnova.github.io
@@ -646,6 +653,7 @@ paypalcorp.blogspot.com
 paypall-login.blogspot.com
 pc-spotify.cn
 pe-facebook.blogspot.com
+pl-smart891981898122712919201.sbs
 prajwalkuchewar.github.io
 premio-instagram.com
 prizebond.net.pk
@@ -733,6 +741,7 @@ tanish-ashu.github.io
 tanishq98714.github.io
 tara-facebook.blogspot.com
 tb-facebook.blogspot.com
+tecnicorevolut.info
 temporary.site
 test-facebook.blogspot.com
 therelayservice.com

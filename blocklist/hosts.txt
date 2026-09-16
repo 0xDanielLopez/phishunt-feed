@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 837
-# Updated: 2026-09-16T16:57:15Z
+# Entries: 846
+# Updated: 2026-09-16T21:19:18Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -44,6 +44,7 @@
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 annulation-amazon.com
 0.0.0.0 anoopsamazon.vercel.app
+0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-exodusweb.pages.dev
@@ -74,6 +75,7 @@
 0.0.0.0 bet-facebook.blogspot.com
 0.0.0.0 binance-blog.vercel.app
 0.0.0.0 binance-co.github.io
+0.0.0.0 binance-mail.click
 0.0.0.0 binance-promo-code.vercel.app
 0.0.0.0 binance-red-packet.vercel.app
 0.0.0.0 binance-referral-code-btcbonus.vercel.app
@@ -354,6 +356,7 @@
 0.0.0.0 facebookverifyyouraccount.blogspot.com
 0.0.0.0 facebookwebsite9.blogspot.com
 0.0.0.0 facebookzaman.blogspot.com
+0.0.0.0 fdg-trezr-logn.pages.dev
 0.0.0.0 fedex-olive.vercel.app
 0.0.0.0 fedexinterviewprep.com
 0.0.0.0 file-whatsappn.hl.cn
@@ -408,6 +411,7 @@
 0.0.0.0 hasyimf.github.io
 0.0.0.0 hellenvicente.github.io
 0.0.0.0 help-instagram.blogspot.com
+0.0.0.0 helps-kraken.com
 0.0.0.0 hofmemorabilia.ebaymclaren-austin.eventshouse.app
 0.0.0.0 home-facebook.blogspot.com
 0.0.0.0 home-ledgrreliveapp.typedream.app
@@ -417,9 +421,12 @@
 0.0.0.0 hsbc.dev
 0.0.0.0 hsbccpersonalonlinebanking.com
 0.0.0.0 hsbcpress.com
+0.0.0.0 hsbctds.com
 0.0.0.0 icloud-asisten-official.com
 0.0.0.0 icloud-sharedalbum.com
+0.0.0.0 icloudnotify.help
 0.0.0.0 icloudxtzsopoe.click
+0.0.0.0 id2199785904.sbs
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 indiarevolutionnova.github.io
@@ -646,6 +653,7 @@
 0.0.0.0 paypall-login.blogspot.com
 0.0.0.0 pc-spotify.cn
 0.0.0.0 pe-facebook.blogspot.com
+0.0.0.0 pl-smart891981898122712919201.sbs
 0.0.0.0 prajwalkuchewar.github.io
 0.0.0.0 premio-instagram.com
 0.0.0.0 prizebond.net.pk
@@ -733,6 +741,7 @@
 0.0.0.0 tanishq98714.github.io
 0.0.0.0 tara-facebook.blogspot.com
 0.0.0.0 tb-facebook.blogspot.com
+0.0.0.0 tecnicorevolut.info
 0.0.0.0 temporary.site
 0.0.0.0 test-facebook.blogspot.com
 0.0.0.0 therelayservice.com
