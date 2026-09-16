@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 894
-! Updated: 2026-09-15T21:22:06Z
+! Entries: 883
+! Updated: 2026-09-16T04:50:17Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -15,9 +15,6 @@
 ||286364-coinbase.com^
 ||393bet-facebook.sa.com^
 ||5828342-coinbase.com^
-||818144-kraken.com^
-||818920-kraken.com^
-||819283-kraken.com^
 ||a1-kraken.com^
 ||a2zapk.co^
 ||aaryan-musk.github.io^
@@ -61,7 +58,7 @@
 ||asset.static-whatsapp.com^
 ||assign-icloud.com^
 ||asso-entrautres.fr^
-||at-trezr-io-logn.pages.dev^
+||att-mail.com^
 ||authorised-support.com^
 ||avaturefed.net^
 ||avlinfo.in^
@@ -94,7 +91,6 @@
 ||binanceuz.co^
 ||binancewallett.blogspot.com^
 ||biowikiweb.com^
-||blog-whatsappx.hl.cn^
 ||bnext.es^
 ||books-facebook.blogspot.com^
 ||brad-facebook.blogspot.com^
@@ -107,7 +103,6 @@
 ||calendar.scan-whatsapp.com^
 ||canary.static-whatsapp.com^
 ||cardpaysecurity.org^
-||carivo.vu^
 ||cart.static-whatsapp.com^
 ||cashapp-liart.vercel.app^
 ||cashappps.com^
@@ -119,6 +114,9 @@
 ||clon-facebook.vercel.app^
 ||cloudclusters.net^
 ||cn-byte-whatsapp.com.cn^
+||cn-gui-whatsapp.com.cn^
+||cn-peer-whatsapp.com.cn^
+||cn-ping-whatsapp.com.cn^
 ||cn-spotify.cn^
 ||cn.comm-whatsapp.com^
 ||cn.static-whatsapp.com^
@@ -153,9 +151,7 @@
 ||dhl-expressmy.com^
 ||dir.com.my^
 ||dj-facebook.blogspot.com^
-||dk-oferta9243020342.cyou^
 ||dk-produkt392584.sbs^
-||dockerfile-whatsapp.com^
 ||docs-google.com^
 ||docs-trezor-app.pages.dev^
 ||docs.scan-whatsapp.com^
@@ -189,7 +185,6 @@
 ||epsilons.co^
 ||erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org^
 ||eu-facebook.blogspot.com^
-||eventsreg.in^
 ||ewlpnkrg.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org^
 ||ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org^
 ||exclusive-openseamints.vercel.app^
@@ -380,18 +375,17 @@
 ||facebookzaman.blogspot.com^
 ||fedex-olive.vercel.app^
 ||fedexinterviewprep.com^
-||fhow-whatsapp.com^
 ||file-whatsappn.hl.cn^
 ||fmello2002.github.io^
 ||fmi-icloud.pro^
 ||forsakens-crew-teman-facebook.blogspot.com^
 ||foryour.review^
+||fr-spotify.com^
 ||francielilimaa.github.io^
 ||free-facebook-page-likes.blogspot.com^
 ||fwh.is^
 ||gafiatechnologies.com^
 ||gameofamazon.com^
-||gateareis.vu^
 ||geotehnica.com^
 ||ggzh-google.com.cn^
 ||gloronyan.github.io^
@@ -445,7 +439,6 @@
 ||hub-whatsapp.com^
 ||icloud-asisten-official.com^
 ||icloud-sharedalbum.com^
-||id38djw7d29ds872bf6723fd.sbs^
 ||ideeo.mx^
 ||ifotografix.co.uk^
 ||indiarevolutionnova.github.io^
@@ -557,6 +550,7 @@
 ||loginfacebook-facebook.blogspot.com^
 ||logowanie-facebook.vercel.app^
 ||lokaina-48234.sbs^
+||lokaina-5843.sbs^
 ||love-facebook.blogspot.com^
 ||lovefive-facebook.blogspot.com^
 ||lovevivah.com^
@@ -623,6 +617,7 @@
 ||my-facebook-blog.blogspot.com^
 ||my-walletfix-id-apple.com^
 ||mytemp.website^
+||nbpublic.com^
 ||neda-facebook.blogspot.com^
 ||netflix-dual-subs.pages.dev^
 ||netflix-games.click^
@@ -651,9 +646,7 @@
 ||nhcarwraps.com^
 ||niels-meyer.de^
 ||noreply-icloud.app^
-||nr-2343m2342.lol^
 ||nw-facebook.blogspot.com^
-||oferta95837.cfd^
 ||office365licensingsupport.com^
 ||okta-whatsapp.com^
 ||online-facebook-privacy.blogspot.com^
@@ -674,7 +667,6 @@
 ||patch.static-whatsapp.com^
 ||patelrudra.in^
 ||paykmc.com^
-||paypal-app.online^
 ||paypal-logiin.blogspot.com^
 ||paypal-password.blogspot.com^
 ||paypal-pay.com^
@@ -686,16 +678,13 @@
 ||paypall-login.blogspot.com^
 ||pc-spotify.cn^
 ||pe-facebook.blogspot.com^
-||pgn-s.com^
 ||photo.comm-whatsapp.com^
 ||photo.static-whatsapp.com^
-||pl-oferta674891287.sbs^
 ||playground.static-whatsapp.com^
 ||prajwalkuchewar.github.io^
 ||premio-instagram.com^
 ||premium.comm-whatsapp.com^
 ||premium.static-whatsapp.com^
-||prftanwm238129.cfd^
 ||private.static-whatsapp.com^
 ||prizebond.net.pk^
 ||profil-facebook-saya.blogspot.com^
@@ -726,6 +715,7 @@
 ||roblox.com.gr^
 ||roblox.com.hr^
 ||roblox.com.kz^
+||roblox.com.ml^
 ||roblox.com.mu^
 ||roblox.com.pt^
 ||rricrosoft-offices.org^
@@ -794,7 +784,6 @@
 ||transcode.static-whatsapp.com^
 ||trezor-login-us-auth-start.typedream.app^
 ||trezorguide.vercel.app^
-||trezoriostarts.godaddysites.com^
 ||trezr-io-cloud-sso.typedream.app^
 ||troubleshoots-google.com^
 ||trust-wallet-bnb.vercel.app^

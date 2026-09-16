@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 894
-# Updated: 2026-09-15T21:22:06Z
+# Entries: 883
+# Updated: 2026-09-16T04:50:16Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -15,9 +15,6 @@
 0.0.0.0 286364-coinbase.com
 0.0.0.0 393bet-facebook.sa.com
 0.0.0.0 5828342-coinbase.com
-0.0.0.0 818144-kraken.com
-0.0.0.0 818920-kraken.com
-0.0.0.0 819283-kraken.com
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
 0.0.0.0 aaryan-musk.github.io
@@ -61,7 +58,7 @@
 0.0.0.0 asset.static-whatsapp.com
 0.0.0.0 assign-icloud.com
 0.0.0.0 asso-entrautres.fr
-0.0.0.0 at-trezr-io-logn.pages.dev
+0.0.0.0 att-mail.com
 0.0.0.0 authorised-support.com
 0.0.0.0 avaturefed.net
 0.0.0.0 avlinfo.in
@@ -94,7 +91,6 @@
 0.0.0.0 binanceuz.co
 0.0.0.0 binancewallett.blogspot.com
 0.0.0.0 biowikiweb.com
-0.0.0.0 blog-whatsappx.hl.cn
 0.0.0.0 bnext.es
 0.0.0.0 books-facebook.blogspot.com
 0.0.0.0 brad-facebook.blogspot.com
@@ -107,7 +103,6 @@
 0.0.0.0 calendar.scan-whatsapp.com
 0.0.0.0 canary.static-whatsapp.com
 0.0.0.0 cardpaysecurity.org
-0.0.0.0 carivo.vu
 0.0.0.0 cart.static-whatsapp.com
 0.0.0.0 cashapp-liart.vercel.app
 0.0.0.0 cashappps.com
@@ -119,6 +114,9 @@
 0.0.0.0 clon-facebook.vercel.app
 0.0.0.0 cloudclusters.net
 0.0.0.0 cn-byte-whatsapp.com.cn
+0.0.0.0 cn-gui-whatsapp.com.cn
+0.0.0.0 cn-peer-whatsapp.com.cn
+0.0.0.0 cn-ping-whatsapp.com.cn
 0.0.0.0 cn-spotify.cn
 0.0.0.0 cn.comm-whatsapp.com
 0.0.0.0 cn.static-whatsapp.com
@@ -153,9 +151,7 @@
 0.0.0.0 dhl-expressmy.com
 0.0.0.0 dir.com.my
 0.0.0.0 dj-facebook.blogspot.com
-0.0.0.0 dk-oferta9243020342.cyou
 0.0.0.0 dk-produkt392584.sbs
-0.0.0.0 dockerfile-whatsapp.com
 0.0.0.0 docs-google.com
 0.0.0.0 docs-trezor-app.pages.dev
 0.0.0.0 docs.scan-whatsapp.com
@@ -189,7 +185,6 @@
 0.0.0.0 epsilons.co
 0.0.0.0 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
 0.0.0.0 eu-facebook.blogspot.com
-0.0.0.0 eventsreg.in
 0.0.0.0 ewlpnkrg.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 0.0.0.0 ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 0.0.0.0 exclusive-openseamints.vercel.app
@@ -380,18 +375,17 @@
 0.0.0.0 facebookzaman.blogspot.com
 0.0.0.0 fedex-olive.vercel.app
 0.0.0.0 fedexinterviewprep.com
-0.0.0.0 fhow-whatsapp.com
 0.0.0.0 file-whatsappn.hl.cn
 0.0.0.0 fmello2002.github.io
 0.0.0.0 fmi-icloud.pro
 0.0.0.0 forsakens-crew-teman-facebook.blogspot.com
 0.0.0.0 foryour.review
+0.0.0.0 fr-spotify.com
 0.0.0.0 francielilimaa.github.io
 0.0.0.0 free-facebook-page-likes.blogspot.com
 0.0.0.0 fwh.is
 0.0.0.0 gafiatechnologies.com
 0.0.0.0 gameofamazon.com
-0.0.0.0 gateareis.vu
 0.0.0.0 geotehnica.com
 0.0.0.0 ggzh-google.com.cn
 0.0.0.0 gloronyan.github.io
@@ -445,7 +439,6 @@
 0.0.0.0 hub-whatsapp.com
 0.0.0.0 icloud-asisten-official.com
 0.0.0.0 icloud-sharedalbum.com
-0.0.0.0 id38djw7d29ds872bf6723fd.sbs
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 indiarevolutionnova.github.io
@@ -557,6 +550,7 @@
 0.0.0.0 loginfacebook-facebook.blogspot.com
 0.0.0.0 logowanie-facebook.vercel.app
 0.0.0.0 lokaina-48234.sbs
+0.0.0.0 lokaina-5843.sbs
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lovevivah.com
@@ -623,6 +617,7 @@
 0.0.0.0 my-facebook-blog.blogspot.com
 0.0.0.0 my-walletfix-id-apple.com
 0.0.0.0 mytemp.website
+0.0.0.0 nbpublic.com
 0.0.0.0 neda-facebook.blogspot.com
 0.0.0.0 netflix-dual-subs.pages.dev
 0.0.0.0 netflix-games.click
@@ -651,9 +646,7 @@
 0.0.0.0 nhcarwraps.com
 0.0.0.0 niels-meyer.de
 0.0.0.0 noreply-icloud.app
-0.0.0.0 nr-2343m2342.lol
 0.0.0.0 nw-facebook.blogspot.com
-0.0.0.0 oferta95837.cfd
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 okta-whatsapp.com
 0.0.0.0 online-facebook-privacy.blogspot.com
@@ -674,7 +667,6 @@
 0.0.0.0 patch.static-whatsapp.com
 0.0.0.0 patelrudra.in
 0.0.0.0 paykmc.com
-0.0.0.0 paypal-app.online
 0.0.0.0 paypal-logiin.blogspot.com
 0.0.0.0 paypal-password.blogspot.com
 0.0.0.0 paypal-pay.com
@@ -686,16 +678,13 @@
 0.0.0.0 paypall-login.blogspot.com
 0.0.0.0 pc-spotify.cn
 0.0.0.0 pe-facebook.blogspot.com
-0.0.0.0 pgn-s.com
 0.0.0.0 photo.comm-whatsapp.com
 0.0.0.0 photo.static-whatsapp.com
-0.0.0.0 pl-oferta674891287.sbs
 0.0.0.0 playground.static-whatsapp.com
 0.0.0.0 prajwalkuchewar.github.io
 0.0.0.0 premio-instagram.com
 0.0.0.0 premium.comm-whatsapp.com
 0.0.0.0 premium.static-whatsapp.com
-0.0.0.0 prftanwm238129.cfd
 0.0.0.0 private.static-whatsapp.com
 0.0.0.0 prizebond.net.pk
 0.0.0.0 profil-facebook-saya.blogspot.com
@@ -726,6 +715,7 @@
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.hr
 0.0.0.0 roblox.com.kz
+0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 rricrosoft-offices.org
@@ -794,7 +784,6 @@
 0.0.0.0 transcode.static-whatsapp.com
 0.0.0.0 trezor-login-us-auth-start.typedream.app
 0.0.0.0 trezorguide.vercel.app
-0.0.0.0 trezoriostarts.godaddysites.com
 0.0.0.0 trezr-io-cloud-sso.typedream.app
 0.0.0.0 troubleshoots-google.com
 0.0.0.0 trust-wallet-bnb.vercel.app
