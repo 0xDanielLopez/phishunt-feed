@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 883
-# Updated: 2026-09-16T04:50:16Z
+# Entries: 832
+# Updated: 2026-09-16T11:35:39Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -55,7 +55,6 @@
 0.0.0.0 arencia-vitaminc-booster-amazon.netlify.app
 0.0.0.0 armankhan-12.github.io
 0.0.0.0 asif.me
-0.0.0.0 asset.static-whatsapp.com
 0.0.0.0 assign-icloud.com
 0.0.0.0 asso-entrautres.fr
 0.0.0.0 att-mail.com
@@ -72,11 +71,9 @@
 0.0.0.0 bbva-hiring-paperless.appspot.com
 0.0.0.0 bbvaglobalwealthadvisors.com
 0.0.0.0 bbvalues.uk
-0.0.0.0 benchmark.static-whatsapp.com
 0.0.0.0 berbagi-facebook.blogspot.com
 0.0.0.0 best-credit-card-for-facebook-ads.com
 0.0.0.0 bet-facebook.blogspot.com
-0.0.0.0 beta.static-whatsapp.com
 0.0.0.0 binance-blog.vercel.app
 0.0.0.0 binance-co.github.io
 0.0.0.0 binance-promo-code.vercel.app
@@ -94,16 +91,11 @@
 0.0.0.0 bnext.es
 0.0.0.0 books-facebook.blogspot.com
 0.0.0.0 brad-facebook.blogspot.com
-0.0.0.0 build.comm-whatsapp.com
-0.0.0.0 build.static-whatsapp.com
 0.0.0.0 bunker.ink
 0.0.0.0 buscarmi-icloud.app
 0.0.0.0 business-dropbox.me
 0.0.0.0 c-binance.github.io
-0.0.0.0 calendar.scan-whatsapp.com
-0.0.0.0 canary.static-whatsapp.com
 0.0.0.0 cardpaysecurity.org
-0.0.0.0 cart.static-whatsapp.com
 0.0.0.0 cashapp-liart.vercel.app
 0.0.0.0 cashappps.com
 0.0.0.0 cfm-whatsapps.com
@@ -118,12 +110,9 @@
 0.0.0.0 cn-peer-whatsapp.com.cn
 0.0.0.0 cn-ping-whatsapp.com.cn
 0.0.0.0 cn-spotify.cn
-0.0.0.0 cn.comm-whatsapp.com
-0.0.0.0 cn.static-whatsapp.com
 0.0.0.0 coinbase-event.vercel.app
 0.0.0.0 coinbase.com.lc
 0.0.0.0 coinbasebackoffice.exchange
-0.0.0.0 coinbasee.vip
 0.0.0.0 coinbaseinvestors.ai
 0.0.0.0 collectableswall.ebaymclaren-austin.eventshouse.app
 0.0.0.0 comcast2.vercel.app
@@ -145,17 +134,12 @@
 0.0.0.0 dblxhosting.co.uk
 0.0.0.0 deluxxe.com.br
 0.0.0.0 desktop-ledgrecdn.wixstudio.com
-0.0.0.0 desktop.comm-whatsapp.com
-0.0.0.0 desktop.scan-whatsapp.com
-0.0.0.0 desktop.static-whatsapp.com
 0.0.0.0 dhl-expressmy.com
 0.0.0.0 dir.com.my
 0.0.0.0 dj-facebook.blogspot.com
 0.0.0.0 dk-produkt392584.sbs
 0.0.0.0 docs-google.com
 0.0.0.0 docs-trezor-app.pages.dev
-0.0.0.0 docs.scan-whatsapp.com
-0.0.0.0 docs.static-whatsapp.com
 0.0.0.0 dolaition-bit.github.io
 0.0.0.0 dothome.co.kr
 0.0.0.0 dpdi.xyz
@@ -181,7 +165,6 @@
 0.0.0.0 emersondasilva-dev.github.io
 0.0.0.0 emmanueldegreatltd.com
 0.0.0.0 empresas-hsbc.com
-0.0.0.0 en-en-kraken.com
 0.0.0.0 epsilons.co
 0.0.0.0 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
 0.0.0.0 eu-facebook.blogspot.com
@@ -279,7 +262,6 @@
 0.0.0.0 facebook-seks-27.blogspot.com
 0.0.0.0 facebook-seks-30.blogspot.com
 0.0.0.0 facebook-seks-32.blogspot.com
-0.0.0.0 facebook-seks-35.blogspot.com
 0.0.0.0 facebook-seks-44.blogspot.com
 0.0.0.0 facebook-seks-45.blogspot.com
 0.0.0.0 facebook-services-login.blogspot.com
@@ -434,9 +416,9 @@
 0.0.0.0 hotmail143.net
 0.0.0.0 hsbc-sec.com
 0.0.0.0 hsbc.dev
+0.0.0.0 hsbccpersonalonlinebanking.com
 0.0.0.0 hsbcpress.com
 0.0.0.0 https-vww-roblox.com
-0.0.0.0 hub-whatsapp.com
 0.0.0.0 icloud-asisten-official.com
 0.0.0.0 icloud-sharedalbum.com
 0.0.0.0 ideeo.mx
@@ -512,10 +494,8 @@
 0.0.0.0 itauu.vercel.app
 0.0.0.0 itzthesandy.github.io
 0.0.0.0 jayaram0550.github.io
-0.0.0.0 jimdofree.com
 0.0.0.0 jj-facebook.blogspot.com
 0.0.0.0 jo-facebook.blogspot.com
-0.0.0.0 job.static-whatsapp.com
 0.0.0.0 joel-eapen.github.io
 0.0.0.0 jwb-facebook.blogspot.com
 0.0.0.0 kavishkadileepa01.github.io
@@ -538,8 +518,6 @@
 0.0.0.0 leia-santander.vercel.app
 0.0.0.0 lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
 0.0.0.0 lobster-cloud.com
-0.0.0.0 local.comm-whatsapp.com
-0.0.0.0 local.static-whatsapp.com
 0.0.0.0 login-facebook-facebook.blogspot.com
 0.0.0.0 login-facebookaccount.blogspot.com
 0.0.0.0 login-my-facebook.blogspot.com
@@ -559,7 +537,6 @@
 0.0.0.0 m365-microsoft.com
 0.0.0.0 m4ntapaset.ink
 0.0.0.0 mail-xfinitylogin.weebly.com
-0.0.0.0 mail.static-whatsapp.com
 0.0.0.0 manish1719.github.io
 0.0.0.0 mb-facebook.blogspot.com
 0.0.0.0 mclarencar.ebaymclaren-austin.eventshouse.app
@@ -567,7 +544,6 @@
 0.0.0.0 meet-googlee46347975696.pages.dev
 0.0.0.0 meet-googlee7563454656.pages.dev
 0.0.0.0 meet-googlee7823629056.pages.dev
-0.0.0.0 meet.static-whatsapp.com
 0.0.0.0 mehdi-bellache.github.io
 0.0.0.0 meme-facebook.blogspot.com
 0.0.0.0 metamask-ai-agent.vercel.app
@@ -581,7 +557,6 @@
 0.0.0.0 metamask-wallet.vercel.app
 0.0.0.0 metamask-web.vercel.app
 0.0.0.0 metamask.github.io
-0.0.0.0 metamask.godaddysites.com
 0.0.0.0 metamask2-eight.vercel.app
 0.0.0.0 metamask88.com
 0.0.0.0 metamaskcasino.de
@@ -609,7 +584,6 @@
 0.0.0.0 misilabario.cl
 0.0.0.0 ml-facebook.blogspot.com
 0.0.0.0 mobile-google.cn
-0.0.0.0 mobile.static-whatsapp.com
 0.0.0.0 movistar-recarga.icu
 0.0.0.0 movistar-recaudo-epayc.com
 0.0.0.0 munimventures.com
@@ -642,13 +616,11 @@
 0.0.0.0 netsolhost.com
 0.0.0.0 network-facebook.blogspot.com
 0.0.0.0 news-revolut.com
-0.0.0.0 news.static-whatsapp.com
 0.0.0.0 nhcarwraps.com
 0.0.0.0 niels-meyer.de
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 office365licensingsupport.com
-0.0.0.0 okta-whatsapp.com
 0.0.0.0 online-facebook-privacy.blogspot.com
 0.0.0.0 oortstorages.com
 0.0.0.0 open-instagram.vercel.app
@@ -663,8 +635,6 @@
 0.0.0.0 outlookindia.com
 0.0.0.0 outlookmail.social
 0.0.0.0 page-instagram.vercel.app
-0.0.0.0 patch.comm-whatsapp.com
-0.0.0.0 patch.static-whatsapp.com
 0.0.0.0 patelrudra.in
 0.0.0.0 paykmc.com
 0.0.0.0 paypal-logiin.blogspot.com
@@ -678,20 +648,13 @@
 0.0.0.0 paypall-login.blogspot.com
 0.0.0.0 pc-spotify.cn
 0.0.0.0 pe-facebook.blogspot.com
-0.0.0.0 photo.comm-whatsapp.com
-0.0.0.0 photo.static-whatsapp.com
-0.0.0.0 playground.static-whatsapp.com
 0.0.0.0 prajwalkuchewar.github.io
 0.0.0.0 premio-instagram.com
-0.0.0.0 premium.comm-whatsapp.com
-0.0.0.0 premium.static-whatsapp.com
-0.0.0.0 private.static-whatsapp.com
 0.0.0.0 prizebond.net.pk
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 proteccion-outlook2026.iceiy.com
 0.0.0.0 protected-request.com
 0.0.0.0 pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev
-0.0.0.0 public.static-whatsapp.com
 0.0.0.0 pushkar-hub.github.io
 0.0.0.0 quantum-flares.com
 0.0.0.0 r-facebook.blogspot.com
@@ -703,7 +666,6 @@
 0.0.0.0 rec-netflix.com
 0.0.0.0 receiptslinkedin.com
 0.0.0.0 recreate-instagrampage.vercel.app
-0.0.0.0 redis.static-whatsapp.com
 0.0.0.0 reentrega-seur-envio.cloudaccess.host
 0.0.0.0 register-facebook.blogspot.com
 0.0.0.0 rekemonedasi-facebook.org
@@ -715,22 +677,18 @@
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.hr
 0.0.0.0 roblox.com.kz
-0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 rricrosoft-offices.org
 0.0.0.0 ruddycruzc.github.io
 0.0.0.0 s-facebook.blogspot.com
 0.0.0.0 samplel-ks6yxvur5-instagramm.vercel.app
-0.0.0.0 sandbox.comm-whatsapp.com
-0.0.0.0 sandbox.static-whatsapp.com
 0.0.0.0 santander-dev-week.vercel.app
 0.0.0.0 santanderbank.shop
 0.0.0.0 santanderbizum.com
 0.0.0.0 santandercitas.com
 0.0.0.0 saque-instagram.com
 0.0.0.0 saventureinfratech234-boop.github.io
-0.0.0.0 sec-whatsapp.com
 0.0.0.0 secure-dropbox.ist
 0.0.0.0 securedsupport-coinbase.com
 0.0.0.0 secutury-facebook.blogspot.com
@@ -739,7 +697,6 @@
 0.0.0.0 services-facebook.blogspot.com
 0.0.0.0 seureonline.shop
 0.0.0.0 sheokand9806.github.io
-0.0.0.0 shop.static-whatsapp.com
 0.0.0.0 shruuti-005.github.io
 0.0.0.0 siddharth-1404.github.io
 0.0.0.0 sigma-whatsapp.com
@@ -756,12 +713,10 @@
 0.0.0.0 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 0.0.0.0 start-ledgren.zapier.app
 0.0.0.0 start-web-en-ledger-live-login.typedream.app
-0.0.0.0 static.scan-whatsapp.com
 0.0.0.0 steamcommunity-balanceworkshop.shop
 0.0.0.0 steamcommunity.blog
 0.0.0.0 steamcommunity.ing
 0.0.0.0 steuerquimica.cl
-0.0.0.0 stream.static-whatsapp.com
 0.0.0.0 su-facebook.blogspot.com
 0.0.0.0 sugar-outlook.com
 0.0.0.0 support-instagram.github.io
@@ -781,7 +736,6 @@
 0.0.0.0 todo--facebook.blogspot.com
 0.0.0.0 tottattoo.com
 0.0.0.0 trackingnumbers.org
-0.0.0.0 transcode.static-whatsapp.com
 0.0.0.0 trezor-login-us-auth-start.typedream.app
 0.0.0.0 trezorguide.vercel.app
 0.0.0.0 trezr-io-cloud-sso.typedream.app
@@ -827,11 +781,9 @@
 0.0.0.0 web-login-whatsapp.com
 0.0.0.0 web-spotify.cn
 0.0.0.0 web-trezor-io-start-us.vercel.app
-0.0.0.0 web.scan-whatsapp.com
 0.0.0.0 webaccess-alert.com
 0.0.0.0 webstore.vn
 0.0.0.0 weeblysite.com
-0.0.0.0 weekly.comm-whatsapp.com
 0.0.0.0 wellsfargo-worl.vercel.app
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-iamsuyash.vercel.app
@@ -848,10 +800,6 @@
 0.0.0.0 whatsappzoeiras.blogspot.com
 0.0.0.0 windows-ledger-live.typedream.app
 0.0.0.0 wooflers.com
-0.0.0.0 work.static-whatsapp.com
-0.0.0.0 worker.static-whatsapp.com
-0.0.0.0 works.comm-whatsapp.com
-0.0.0.0 works.static-whatsapp.com
 0.0.0.0 ww-facebook.blogspot.com
 0.0.0.0 www-app-google.com
 0.0.0.0 www-google.cn
@@ -881,6 +829,7 @@
 0.0.0.0 xfinitywindowfilms.com
 0.0.0.0 yagomouro.github.io
 0.0.0.0 yapla.com
+0.0.0.0 yonataxi.at
 0.0.0.0 yordyguarnizodev-hub.github.io
 0.0.0.0 yzz.me
 0.0.0.0 z-facebook.blogspot.com
