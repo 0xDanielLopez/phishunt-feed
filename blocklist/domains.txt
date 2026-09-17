@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 852
-# Updated: 2026-09-17T04:54:09Z
+# Entries: 848
+# Updated: 2026-09-17T11:42:46Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -24,7 +24,6 @@ accounts-facebook.blogspot.com
 adobeforbusiness.com
 ahmadhussain99.github.io
 aishwarya-rathore.github.io
-alert-metamask.app
 alibaba-taobaol.cn
 alibaba188.org
 alibaba66.co
@@ -396,6 +395,7 @@ googlepepy.com
 googleplaety.com
 googleplaiby.com
 googleplaydown.com
+googleplayslotsfree.lol
 googlepllry.com
 googleplouy.com
 googleplrzy.com
@@ -608,7 +608,6 @@ netflix-github-com.vercel.app
 netflix-homepage-pi.vercel.app
 netflix-lake.vercel.app
 netflix-login.blogspot.com
-netflix-renovacion-pago.com
 netflix-two-mu.vercel.app
 netflix-web-site-three.vercel.app
 netflix.surf
@@ -627,9 +626,9 @@ netflixy-bixy.vercel.app
 netsolhost.com
 network-facebook.blogspot.com
 news-revolut.com
-niels-meyer.de
 noreply-icloud.app
 nw-facebook.blogspot.com
+oferta274930.cfd
 office365licensingsupport.com
 office365mail.com
 online-facebook-privacy.blogspot.com
@@ -704,6 +703,7 @@ santanderbizum.com
 santandercitas.com
 saque-instagram.com
 saventureinfratech234-boop.github.io
+scotiabank.blog
 secure-dropbox.ist
 securedsupport-coinbase.com
 secutury-facebook.blogspot.com
@@ -736,8 +736,6 @@ sugar-outlook.com
 support-instagram.github.io
 support-ledgrcom-start-web.typedream.app
 support-netflix-signup.info
-support.zoom.us.pro.kaisarstore.dpdns.org
-support.zoom.us.vip.kaisarstore.dpdns.org
 t54632-kraken.com
 tamires-ramos.github.io
 tanish-ashu.github.io
@@ -748,8 +746,8 @@ tecnicorevolut.info
 temporary.site
 test-facebook.blogspot.com
 therelayservice.com
+tirzahollenhorst.com
 todo--facebook.blogspot.com
-topmediapp.net
 tottattoo.com
 trackingnumbers.org
 trezor-login-us-auth-start.typedream.app
@@ -779,7 +777,6 @@ uspsecuredlogs.com
 uspssmartpackagelockers.com
 uspsstampstogo.com
 v0-instagram-accounts.vercel.app
-verifyid-metamask.com
 verifytoken.com
 vi-facebook.blogspot.com
 viewclass.com
@@ -804,7 +801,6 @@ whatsapp-fast.vercel.app
 whatsapp-iamsuyash.vercel.app
 whatsapp-indonesia877.blogspot.com
 whatsapp-report.com
-whatsapp-stream-unblock.ph
 whatsapp-verify.blogspot.com
 whatsappapk.org
 whatsappbrnoticias.blogspot.com

@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 852
-# Updated: 2026-09-17T04:54:10Z
+# Entries: 848
+# Updated: 2026-09-17T11:42:47Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -24,7 +24,6 @@
 0.0.0.0 adobeforbusiness.com
 0.0.0.0 ahmadhussain99.github.io
 0.0.0.0 aishwarya-rathore.github.io
-0.0.0.0 alert-metamask.app
 0.0.0.0 alibaba-taobaol.cn
 0.0.0.0 alibaba188.org
 0.0.0.0 alibaba66.co
@@ -396,6 +395,7 @@
 0.0.0.0 googleplaety.com
 0.0.0.0 googleplaiby.com
 0.0.0.0 googleplaydown.com
+0.0.0.0 googleplayslotsfree.lol
 0.0.0.0 googlepllry.com
 0.0.0.0 googleplouy.com
 0.0.0.0 googleplrzy.com
@@ -608,7 +608,6 @@
 0.0.0.0 netflix-homepage-pi.vercel.app
 0.0.0.0 netflix-lake.vercel.app
 0.0.0.0 netflix-login.blogspot.com
-0.0.0.0 netflix-renovacion-pago.com
 0.0.0.0 netflix-two-mu.vercel.app
 0.0.0.0 netflix-web-site-three.vercel.app
 0.0.0.0 netflix.surf
@@ -627,9 +626,9 @@
 0.0.0.0 netsolhost.com
 0.0.0.0 network-facebook.blogspot.com
 0.0.0.0 news-revolut.com
-0.0.0.0 niels-meyer.de
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
+0.0.0.0 oferta274930.cfd
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 office365mail.com
 0.0.0.0 online-facebook-privacy.blogspot.com
@@ -704,6 +703,7 @@
 0.0.0.0 santandercitas.com
 0.0.0.0 saque-instagram.com
 0.0.0.0 saventureinfratech234-boop.github.io
+0.0.0.0 scotiabank.blog
 0.0.0.0 secure-dropbox.ist
 0.0.0.0 securedsupport-coinbase.com
 0.0.0.0 secutury-facebook.blogspot.com
@@ -736,8 +736,6 @@
 0.0.0.0 support-instagram.github.io
 0.0.0.0 support-ledgrcom-start-web.typedream.app
 0.0.0.0 support-netflix-signup.info
-0.0.0.0 support.zoom.us.pro.kaisarstore.dpdns.org
-0.0.0.0 support.zoom.us.vip.kaisarstore.dpdns.org
 0.0.0.0 t54632-kraken.com
 0.0.0.0 tamires-ramos.github.io
 0.0.0.0 tanish-ashu.github.io
@@ -748,8 +746,8 @@
 0.0.0.0 temporary.site
 0.0.0.0 test-facebook.blogspot.com
 0.0.0.0 therelayservice.com
+0.0.0.0 tirzahollenhorst.com
 0.0.0.0 todo--facebook.blogspot.com
-0.0.0.0 topmediapp.net
 0.0.0.0 tottattoo.com
 0.0.0.0 trackingnumbers.org
 0.0.0.0 trezor-login-us-auth-start.typedream.app
@@ -779,7 +777,6 @@
 0.0.0.0 uspssmartpackagelockers.com
 0.0.0.0 uspsstampstogo.com
 0.0.0.0 v0-instagram-accounts.vercel.app
-0.0.0.0 verifyid-metamask.com
 0.0.0.0 verifytoken.com
 0.0.0.0 vi-facebook.blogspot.com
 0.0.0.0 viewclass.com
@@ -804,7 +801,6 @@
 0.0.0.0 whatsapp-iamsuyash.vercel.app
 0.0.0.0 whatsapp-indonesia877.blogspot.com
 0.0.0.0 whatsapp-report.com
-0.0.0.0 whatsapp-stream-unblock.ph
 0.0.0.0 whatsapp-verify.blogspot.com
 0.0.0.0 whatsappapk.org
 0.0.0.0 whatsappbrnoticias.blogspot.com
