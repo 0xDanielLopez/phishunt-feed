@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 846
-! Updated: 2026-09-16T21:19:18Z
+! Entries: 852
+! Updated: 2026-09-17T04:54:11Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -44,7 +44,6 @@
 ||ani-facebook.blogspot.com^
 ||annulation-amazon.com^
 ||anoopsamazon.vercel.app^
-||antimoney-laundering.org^
 ||apk-google.cn^
 ||app-binance.github.io^
 ||app-exodusweb.pages.dev^
@@ -113,6 +112,7 @@
 ||coinbase-event.vercel.app^
 ||coinbase.com.lc^
 ||coinbasebackoffice.exchange^
+||coinbasehelp.com^
 ||coinbaseinvestors.ai^
 ||collectableswall.ebaymclaren-austin.eventshouse.app^
 ||comcast-ebon.vercel.app^
@@ -138,14 +138,17 @@
 ||deluxxe.com.br^
 ||desktop-ledgrecdn.wixstudio.com^
 ||dhl-expressmy.com^
+||dhofareng.com^
 ||dir.com.my^
 ||dj-facebook.blogspot.com^
 ||docs-google.com^
 ||docs-trezor-app.pages.dev^
+||docusignfile-review-security-page--newstoolin.replit.app^
 ||dolaition-bit.github.io^
 ||dothome.co.kr^
 ||dpdi.xyz^
 ||dpdn62.click^
+||dpdr.live^
 ||dreamy-crumble-17846c.netlify.app^
 ||dropbox-online.at^
 ||dropbox-online.net^
@@ -226,6 +229,7 @@
 ||facebook-int.blogspot.com^
 ||facebook-linkedin.blogspot.com^
 ||facebook-links.blogspot.com^
+||facebook-logiin.vercel.app^
 ||facebook-login-be.blogspot.com^
 ||facebook-login-facebook.blogspot.com^
 ||facebook-login-help.blogspot.com^
@@ -356,7 +360,6 @@
 ||facebookverifyyouraccount.blogspot.com^
 ||facebookwebsite9.blogspot.com^
 ||facebookzaman.blogspot.com^
-||fdg-trezr-logn.pages.dev^
 ||fedex-olive.vercel.app^
 ||fedexinterviewprep.com^
 ||file-whatsappn.hl.cn^
@@ -381,7 +384,6 @@
 ||google1308.com^
 ||google77bd.com^
 ||google88.bet^
-||googleapps.shop^
 ||googlebusiness.xyz^
 ||googleepway.com^
 ||googlelogos.com^
@@ -394,7 +396,6 @@
 ||googleplaety.com^
 ||googleplaiby.com^
 ||googleplaydown.com^
-||googleplayslotsfree.lol^
 ||googlepllry.com^
 ||googleplouy.com^
 ||googleplrzy.com^
@@ -422,11 +423,11 @@
 ||hsbccpersonalonlinebanking.com^
 ||hsbcpress.com^
 ||hsbctds.com^
+||hstn.me^
 ||icloud-asisten-official.com^
 ||icloud-sharedalbum.com^
 ||icloudnotify.help^
 ||icloudxtzsopoe.click^
-||id2199785904.sbs^
 ||ideeo.mx^
 ||ifotografix.co.uk^
 ||indiarevolutionnova.github.io^
@@ -444,6 +445,7 @@
 ||instagram-cyber.github.io^
 ||instagram-fe.vercel.app^
 ||instagram-five-gamma.vercel.app^
+||instagram-followers-boost.vercel.app^
 ||instagram-frontpage.vercel.app^
 ||instagram-inky.vercel.app^
 ||instagram-instagram.blogspot.com^
@@ -492,6 +494,7 @@
 ||instagramsupportverify.blogspot.com^
 ||instagramunblockedd.vercel.app^
 ||instagramusicabrasilinstagram.blogspot.com^
+||intermezzoconsultoria.com.br^
 ||internal-alerts.com^
 ||invreceiptslinkedin.com^
 ||iqraashraf.dev^
@@ -507,6 +510,7 @@
 ||kavishkadileepa01.github.io^
 ||kenhoward.com^
 ||kraken-tor.co.com^
+||kucoin-leggn.godaddysites.com^
 ||kucoin-referral-code-pt.vercel.app^
 ||kucoin9.com^
 ||kucoinloign.gitbook.io^
@@ -518,6 +522,7 @@
 ||ledger-live-wallet-start-conect-us-en.typedream.app^
 ||ledger-liveusa.zapier.app^
 ||ledgerlive-eng.netlify.app^
+||ledgerlivewallts.godaddysites.com^
 ||ledgerwalletrepair.com^
 ||ledgrelivapp--crome.typedream.app^
 ||leia-santander.vercel.app^
@@ -533,7 +538,6 @@
 ||login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org^
 ||loginfacebook-facebook.blogspot.com^
 ||logowanie-facebook.vercel.app^
-||lokaina-5843.sbs^
 ||love-facebook.blogspot.com^
 ||lovefive-facebook.blogspot.com^
 ||lovevivah.com^
@@ -589,12 +593,12 @@
 ||misilabario.cl^
 ||ml-facebook.blogspot.com^
 ||mobile-google.cn^
-||movistar-recarga.icu^
 ||movistar-recaudo-epayc.com^
 ||munimventures.com^
 ||muzamilmeerdev.github.io^
 ||my-facebook-blog.blogspot.com^
 ||my-walletfix-id-apple.com^
+||my-whatsapp.com^
 ||mytemp.website^
 ||nbpublic.com^
 ||neda-facebook.blogspot.com^
@@ -613,6 +617,7 @@
 ||netflixandchiffres.com^
 ||netflixbymanoj.vercel.app^
 ||netflixcasino.co.it^
+||netflixcasino.com.es^
 ||netflixfeitoaqui.com.br^
 ||netflixinfos.com^
 ||netflixquebec.blogspot.com^
@@ -626,6 +631,7 @@
 ||noreply-icloud.app^
 ||nw-facebook.blogspot.com^
 ||office365licensingsupport.com^
+||office365mail.com^
 ||online-facebook-privacy.blogspot.com^
 ||oortstorages.com^
 ||open-instagram.vercel.app^
@@ -660,7 +666,6 @@
 ||profil-facebook-saya.blogspot.com^
 ||proteccion-outlook2026.iceiy.com^
 ||protected-request.com^
-||pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev^
 ||pushkar-hub.github.io^
 ||quantum-flares.com^
 ||r-facebook.blogspot.com^
@@ -681,13 +686,12 @@
 ||roblox.com.bi^
 ||roblox.com.bn^
 ||roblox.com.bz^
-||roblox.com.do^
 ||roblox.com.gr^
 ||roblox.com.hr^
 ||roblox.com.kz^
-||roblox.com.ml^
 ||roblox.com.mu^
 ||roblox.com.pt^
+||robloxc.com.es^
 ||rricrosoft-offices.org^
 ||ruddycruzc.github.io^
 ||s-facebook.blogspot.com^
@@ -719,7 +723,6 @@
 ||spotify-client-beta.vercel.app^
 ||spotify-plus.com^
 ||spotify25.netlify.app^
-||spotifypremium.live^
 ||srpska-banka.com^
 ||sso-ledger-live-strt-ledger-support-cdn.typedream.app^
 ||start-ledgren.zapier.app^
@@ -746,11 +749,11 @@
 ||test-facebook.blogspot.com^
 ||therelayservice.com^
 ||todo--facebook.blogspot.com^
+||topmediapp.net^
 ||tottattoo.com^
 ||trackingnumbers.org^
 ||trezor-login-us-auth-start.typedream.app^
 ||trezorguide.vercel.app^
-||trezr-io-cloud-sso.typedream.app^
 ||troubleshoots-google.com^
 ||trust-wallet-bnb.vercel.app^
 ||trust-wallet-contact.vercel.app^
@@ -808,6 +811,7 @@
 ||whatsappcampaign.online^
 ||whatsappfreewhatsapp.blogspot.com^
 ||whatsapph.com^
+||whatsapplnfo.blogspot.com^
 ||whatsappq.com^
 ||whatsappzoeiras.blogspot.com^
 ||windows-ledger-live.typedream.app^
@@ -839,7 +843,9 @@
 ||xfinityservices.vercel.app^
 ||xfinitysupportnow.weebly.com^
 ||xfinityttt.weebly.com^
+||xfinityupdateonline.weebly.com^
 ||xfinityupdatesnow.weebly.com^
+||xfinitywebmailinfo.weebly.com^
 ||xfinitywindowfilms.com^
 ||yagomouro.github.io^
 ||yapla.com^
