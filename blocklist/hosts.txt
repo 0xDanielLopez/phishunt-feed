@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 848
-# Updated: 2026-09-17T11:42:47Z
+# Entries: 849
+# Updated: 2026-09-17T17:00:40Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -10,7 +10,6 @@
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
-0.0.0.0 274615-coinbase.com
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
 0.0.0.0 393bet-facebook.sa.com
@@ -111,7 +110,6 @@
 0.0.0.0 coinbase-event.vercel.app
 0.0.0.0 coinbase.com.lc
 0.0.0.0 coinbasebackoffice.exchange
-0.0.0.0 coinbasehelp.com
 0.0.0.0 coinbaseinvestors.ai
 0.0.0.0 collectableswall.ebaymclaren-austin.eventshouse.app
 0.0.0.0 comcast-ebon.vercel.app
@@ -133,7 +131,6 @@
 0.0.0.0 cz-facebook.blogspot.com
 0.0.0.0 daservglobal.com
 0.0.0.0 david-santos7.github.io
-0.0.0.0 dblxhosting.co.uk
 0.0.0.0 deluxxe.com.br
 0.0.0.0 desktop-ledgrecdn.wixstudio.com
 0.0.0.0 dhl-expressmy.com
@@ -424,6 +421,7 @@
 0.0.0.0 hsbcpress.com
 0.0.0.0 hsbctds.com
 0.0.0.0 hstn.me
+0.0.0.0 iberdrolatrade.com
 0.0.0.0 icloud-asisten-official.com
 0.0.0.0 icloud-sharedalbum.com
 0.0.0.0 icloudnotify.help
@@ -510,13 +508,11 @@
 0.0.0.0 kavishkadileepa01.github.io
 0.0.0.0 kenhoward.com
 0.0.0.0 kraken-tor.co.com
-0.0.0.0 kucoin-leggn.godaddysites.com
 0.0.0.0 kucoin-referral-code-pt.vercel.app
 0.0.0.0 kucoin9.com
 0.0.0.0 kucoinloign.gitbook.io
 0.0.0.0 kucoinv.com
 0.0.0.0 lateinos.com.br
-0.0.0.0 ledger-live-cdn-auth.netlify.app
 0.0.0.0 ledger-live-download-sso-conect.typedream.app
 0.0.0.0 ledger-live-login-web.square.site
 0.0.0.0 ledger-live-wallet-start-conect-us-en.typedream.app
@@ -593,6 +589,7 @@
 0.0.0.0 misilabario.cl
 0.0.0.0 ml-facebook.blogspot.com
 0.0.0.0 mobile-google.cn
+0.0.0.0 more-ledgerlive-en.typedream.app
 0.0.0.0 movistar-recaudo-epayc.com
 0.0.0.0 munimventures.com
 0.0.0.0 muzamilmeerdev.github.io
@@ -628,6 +625,7 @@
 0.0.0.0 news-revolut.com
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
+0.0.0.0 ofert-43819.sbs
 0.0.0.0 oferta274930.cfd
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 office365mail.com
@@ -685,9 +683,11 @@
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bz
+0.0.0.0 roblox.com.do
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.hr
 0.0.0.0 roblox.com.kz
+0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 robloxc.com.es
@@ -703,7 +703,6 @@
 0.0.0.0 santandercitas.com
 0.0.0.0 saque-instagram.com
 0.0.0.0 saventureinfratech234-boop.github.io
-0.0.0.0 scotiabank.blog
 0.0.0.0 secure-dropbox.ist
 0.0.0.0 securedsupport-coinbase.com
 0.0.0.0 secutury-facebook.blogspot.com
@@ -719,10 +718,8 @@
 0.0.0.0 sign-in-to-xfinity-87653.weebly.com
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 smswt.in
-0.0.0.0 spotify-a9.netlify.app
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotify-plus.com
-0.0.0.0 spotify25.netlify.app
 0.0.0.0 srpska-banka.com
 0.0.0.0 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 0.0.0.0 start-ledgren.zapier.app
@@ -809,6 +806,7 @@
 0.0.0.0 whatsapph.com
 0.0.0.0 whatsapplnfo.blogspot.com
 0.0.0.0 whatsappq.com
+0.0.0.0 whatsappwebred.blogspot.com
 0.0.0.0 whatsappzoeiras.blogspot.com
 0.0.0.0 windows-ledger-live.typedream.app
 0.0.0.0 wooflers.com
@@ -822,6 +820,8 @@
 0.0.0.0 x-comcast.weebly.com
 0.0.0.0 xfinity-555.weebly.com
 0.0.0.0 xfinity-mail-id.weebly.com
+0.0.0.0 xfinity-updateform.square.site
+0.0.0.0 xfinity-updateform.weebly.com
 0.0.0.0 xfinity090.weebly.com
 0.0.0.0 xfinity2.vercel.app
 0.0.0.0 xfinity200212.weebly.com
@@ -830,6 +830,7 @@
 0.0.0.0 xfinityconnectonline.weebly.com
 0.0.0.0 xfinityconnectupgrade.weebly.com
 0.0.0.0 xfinityis.weebly.com
+0.0.0.0 xfinitylogin247.weebly.com
 0.0.0.0 xfinitymail01.weebly.com
 0.0.0.0 xfinitymail087.weebly.com
 0.0.0.0 xfinitymailid.weebly.com

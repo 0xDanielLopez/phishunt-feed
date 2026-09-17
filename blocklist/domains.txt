@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 848
-# Updated: 2026-09-17T11:42:46Z
+# Entries: 849
+# Updated: 2026-09-17T17:00:39Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -10,7 +10,6 @@
 123-facebook.blogspot.com
 190842-coinbase.com
 2017-facebook.blogspot.com
-274615-coinbase.com
 283674-coinbase.com
 286364-coinbase.com
 393bet-facebook.sa.com
@@ -111,7 +110,6 @@ cn-spotify.cn
 coinbase-event.vercel.app
 coinbase.com.lc
 coinbasebackoffice.exchange
-coinbasehelp.com
 coinbaseinvestors.ai
 collectableswall.ebaymclaren-austin.eventshouse.app
 comcast-ebon.vercel.app
@@ -133,7 +131,6 @@ ct.ws
 cz-facebook.blogspot.com
 daservglobal.com
 david-santos7.github.io
-dblxhosting.co.uk
 deluxxe.com.br
 desktop-ledgrecdn.wixstudio.com
 dhl-expressmy.com
@@ -424,6 +421,7 @@ hsbccpersonalonlinebanking.com
 hsbcpress.com
 hsbctds.com
 hstn.me
+iberdrolatrade.com
 icloud-asisten-official.com
 icloud-sharedalbum.com
 icloudnotify.help
@@ -510,13 +508,11 @@ jwb-facebook.blogspot.com
 kavishkadileepa01.github.io
 kenhoward.com
 kraken-tor.co.com
-kucoin-leggn.godaddysites.com
 kucoin-referral-code-pt.vercel.app
 kucoin9.com
 kucoinloign.gitbook.io
 kucoinv.com
 lateinos.com.br
-ledger-live-cdn-auth.netlify.app
 ledger-live-download-sso-conect.typedream.app
 ledger-live-login-web.square.site
 ledger-live-wallet-start-conect-us-en.typedream.app
@@ -593,6 +589,7 @@ mirror-google.com
 misilabario.cl
 ml-facebook.blogspot.com
 mobile-google.cn
+more-ledgerlive-en.typedream.app
 movistar-recaudo-epayc.com
 munimventures.com
 muzamilmeerdev.github.io
@@ -628,6 +625,7 @@ network-facebook.blogspot.com
 news-revolut.com
 noreply-icloud.app
 nw-facebook.blogspot.com
+ofert-43819.sbs
 oferta274930.cfd
 office365licensingsupport.com
 office365mail.com
@@ -685,9 +683,11 @@ roblox-login.vercel.app
 roblox.com.bi
 roblox.com.bn
 roblox.com.bz
+roblox.com.do
 roblox.com.gr
 roblox.com.hr
 roblox.com.kz
+roblox.com.ml
 roblox.com.mu
 roblox.com.pt
 robloxc.com.es
@@ -703,7 +703,6 @@ santanderbizum.com
 santandercitas.com
 saque-instagram.com
 saventureinfratech234-boop.github.io
-scotiabank.blog
 secure-dropbox.ist
 securedsupport-coinbase.com
 secutury-facebook.blogspot.com
@@ -719,10 +718,8 @@ sign-in-to-xfinity-090.weebly.com
 sign-in-to-xfinity-87653.weebly.com
 sk-facebook.blogspot.com
 smswt.in
-spotify-a9.netlify.app
 spotify-client-beta.vercel.app
 spotify-plus.com
-spotify25.netlify.app
 srpska-banka.com
 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 start-ledgren.zapier.app
@@ -809,6 +806,7 @@ whatsappfreewhatsapp.blogspot.com
 whatsapph.com
 whatsapplnfo.blogspot.com
 whatsappq.com
+whatsappwebred.blogspot.com
 whatsappzoeiras.blogspot.com
 windows-ledger-live.typedream.app
 wooflers.com
@@ -822,6 +820,8 @@ wwww-linkedin.be
 x-comcast.weebly.com
 xfinity-555.weebly.com
 xfinity-mail-id.weebly.com
+xfinity-updateform.square.site
+xfinity-updateform.weebly.com
 xfinity090.weebly.com
 xfinity2.vercel.app
 xfinity200212.weebly.com
@@ -830,6 +830,7 @@ xfinityconnectemail.weebly.com
 xfinityconnectonline.weebly.com
 xfinityconnectupgrade.weebly.com
 xfinityis.weebly.com
+xfinitylogin247.weebly.com
 xfinitymail01.weebly.com
 xfinitymail087.weebly.com
 xfinitymailid.weebly.com
