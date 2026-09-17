@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 849
-# Updated: 2026-09-17T17:00:40Z
+# Entries: 857
+# Updated: 2026-09-17T21:23:25Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -13,6 +13,7 @@
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
 0.0.0.0 393bet-facebook.sa.com
+0.0.0.0 427334-coinbase.com
 0.0.0.0 5828342-coinbase.com
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
@@ -42,6 +43,7 @@
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 annulation-amazon.com
 0.0.0.0 anoopsamazon.vercel.app
+0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-exodusweb.pages.dev
@@ -497,6 +499,7 @@
 0.0.0.0 invreceiptslinkedin.com
 0.0.0.0 iqraashraf.dev
 0.0.0.0 isha-dev.com
+0.0.0.0 itau-com.vercel.app
 0.0.0.0 itau-snowy.vercel.app
 0.0.0.0 itauu.vercel.app
 0.0.0.0 itzthesandy.github.io
@@ -626,9 +629,12 @@
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 ofert-43819.sbs
+0.0.0.0 oferta27387238283874237.sbs
 0.0.0.0 oferta274930.cfd
+0.0.0.0 oferta421449082091.sbs
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 office365mail.com
+0.0.0.0 ogloszenie2108578947.cyou
 0.0.0.0 online-facebook-privacy.blogspot.com
 0.0.0.0 oortstorages.com
 0.0.0.0 open-instagram.vercel.app
@@ -664,6 +670,7 @@
 0.0.0.0 proteccion-outlook2026.iceiy.com
 0.0.0.0 protected-request.com
 0.0.0.0 pushkar-hub.github.io
+0.0.0.0 px-amazon.com
 0.0.0.0 quantum-flares.com
 0.0.0.0 r-facebook.blogspot.com
 0.0.0.0 rafaelmdsouza.github.io
@@ -719,6 +726,7 @@
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 smswt.in
 0.0.0.0 spotify-client-beta.vercel.app
+0.0.0.0 spotify-payment.click
 0.0.0.0 spotify-plus.com
 0.0.0.0 srpska-banka.com
 0.0.0.0 sso-ledger-live-strt-ledger-support-cdn.typedream.app

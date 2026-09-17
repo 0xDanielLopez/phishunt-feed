@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 849
-# Updated: 2026-09-17T17:00:39Z
+# Entries: 857
+# Updated: 2026-09-17T21:23:24Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -13,6 +13,7 @@
 283674-coinbase.com
 286364-coinbase.com
 393bet-facebook.sa.com
+427334-coinbase.com
 5828342-coinbase.com
 a1-kraken.com
 a2zapk.co
@@ -42,6 +43,7 @@ amjadraza19.github.io
 ani-facebook.blogspot.com
 annulation-amazon.com
 anoopsamazon.vercel.app
+antimoney-laundering.org
 apk-google.cn
 app-binance.github.io
 app-exodusweb.pages.dev
@@ -497,6 +499,7 @@ internal-alerts.com
 invreceiptslinkedin.com
 iqraashraf.dev
 isha-dev.com
+itau-com.vercel.app
 itau-snowy.vercel.app
 itauu.vercel.app
 itzthesandy.github.io
@@ -626,9 +629,12 @@ news-revolut.com
 noreply-icloud.app
 nw-facebook.blogspot.com
 ofert-43819.sbs
+oferta27387238283874237.sbs
 oferta274930.cfd
+oferta421449082091.sbs
 office365licensingsupport.com
 office365mail.com
+ogloszenie2108578947.cyou
 online-facebook-privacy.blogspot.com
 oortstorages.com
 open-instagram.vercel.app
@@ -664,6 +670,7 @@ profil-facebook-saya.blogspot.com
 proteccion-outlook2026.iceiy.com
 protected-request.com
 pushkar-hub.github.io
+px-amazon.com
 quantum-flares.com
 r-facebook.blogspot.com
 rafaelmdsouza.github.io
@@ -719,6 +726,7 @@ sign-in-to-xfinity-87653.weebly.com
 sk-facebook.blogspot.com
 smswt.in
 spotify-client-beta.vercel.app
+spotify-payment.click
 spotify-plus.com
 srpska-banka.com
 sso-ledger-live-strt-ledger-support-cdn.typedream.app
