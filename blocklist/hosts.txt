@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 860
-# Updated: 2026-09-18T04:44:51Z
+# Entries: 854
+# Updated: 2026-09-18T11:16:23Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -17,6 +17,7 @@
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
+0.0.0.0 aaranonigeria.com
 0.0.0.0 aaryan-musk.github.io
 0.0.0.0 about-help.com
 0.0.0.0 account-instagram.vercel.app
@@ -135,7 +136,6 @@
 0.0.0.0 deluxxe.com.br
 0.0.0.0 desktop-ledgrecdn.wixstudio.com
 0.0.0.0 dhl-expressmy.com
-0.0.0.0 dhofareng.com
 0.0.0.0 dir.com.my
 0.0.0.0 dj-facebook.blogspot.com
 0.0.0.0 docs-google.com
@@ -155,7 +155,6 @@
 0.0.0.0 ebay-c.com
 0.0.0.0 ebay-phone-number.blogspot.com
 0.0.0.0 ebay-seller-center-managedpayments.vercel.app
-0.0.0.0 ebay-verif.com
 0.0.0.0 ebay-wholesale.com
 0.0.0.0 ebaymclaren-austin.eventshouse.app
 0.0.0.0 ebaymevip.com
@@ -164,7 +163,6 @@
 0.0.0.0 edgeone.dev
 0.0.0.0 email-microsoft.com
 0.0.0.0 email-update-comcast.weebly.com
-0.0.0.0 ember-whatsapp.com
 0.0.0.0 emersondasilva-dev.github.io
 0.0.0.0 emmanueldegreatltd.com
 0.0.0.0 epsilons.co
@@ -402,7 +400,6 @@
 0.0.0.0 googleplty.com
 0.0.0.0 googleuserlogin.cam
 0.0.0.0 googleww.com
-0.0.0.0 gps-icloudsupport.pro
 0.0.0.0 grupoimpaktu.ao
 0.0.0.0 hackerog17.github.io
 0.0.0.0 hasan-321.github.io
@@ -521,7 +518,6 @@
 0.0.0.0 ledger-live-wallet-start-conect-us-en.typedream.app
 0.0.0.0 ledger-liveusa.zapier.app
 0.0.0.0 ledgerlive-eng.netlify.app
-0.0.0.0 ledgerlivewallts.godaddysites.com
 0.0.0.0 ledgerwalletrepair.com
 0.0.0.0 ledgrelivapp--crome.typedream.app
 0.0.0.0 leia-santander.vercel.app
@@ -598,7 +594,6 @@
 0.0.0.0 muzamilmeerdev.github.io
 0.0.0.0 my-facebook-blog.blogspot.com
 0.0.0.0 my-walletfix-id-apple.com
-0.0.0.0 my-whatsapp.com
 0.0.0.0 my-xfinity-signin.weebly.com
 0.0.0.0 mytemp.website
 0.0.0.0 nbpublic.com
@@ -664,7 +659,6 @@
 0.0.0.0 pc-spotify.cn
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 pl-aukcja.cfd
-0.0.0.0 pl-oferta732691879.cfd
 0.0.0.0 prajwalkuchewar.github.io
 0.0.0.0 premio-instagram.com
 0.0.0.0 prizebond.net.pk
@@ -684,6 +678,7 @@
 0.0.0.0 rec-netflix.com
 0.0.0.0 receiptslinkedin.com
 0.0.0.0 recreate-instagrampage.vercel.app
+0.0.0.0 reduzindotaxass.sbs
 0.0.0.0 reentrega-seur-envio.cloudaccess.host
 0.0.0.0 register-facebook.blogspot.com
 0.0.0.0 rekemonedasi-facebook.org
@@ -696,7 +691,6 @@
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.hr
 0.0.0.0 roblox.com.kz
-0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 robloxc.com.es
@@ -721,6 +715,7 @@
 0.0.0.0 seureonline.shop
 0.0.0.0 sheokand9806.github.io
 0.0.0.0 shruuti-005.github.io
+0.0.0.0 siastrategy.com
 0.0.0.0 siddharth-1404.github.io
 0.0.0.0 sigma-whatsapp.com
 0.0.0.0 sign-in-to-xfinity-090.weebly.com
@@ -814,7 +809,6 @@
 0.0.0.0 whatsappbrnoticias.blogspot.com
 0.0.0.0 whatsappcampaign.online
 0.0.0.0 whatsappfreewhatsapp.blogspot.com
-0.0.0.0 whatsapph.com
 0.0.0.0 whatsapplnfo.blogspot.com
 0.0.0.0 whatsappq.com
 0.0.0.0 whatsappwebred.blogspot.com

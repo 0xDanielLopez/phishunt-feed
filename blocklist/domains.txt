@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 860
-# Updated: 2026-09-18T04:44:51Z
+# Entries: 854
+# Updated: 2026-09-18T11:16:22Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -17,6 +17,7 @@
 a1-kraken.com
 a2zapk.co
 a2zapk.dev
+aaranonigeria.com
 aaryan-musk.github.io
 about-help.com
 account-instagram.vercel.app
@@ -135,7 +136,6 @@ david-santos7.github.io
 deluxxe.com.br
 desktop-ledgrecdn.wixstudio.com
 dhl-expressmy.com
-dhofareng.com
 dir.com.my
 dj-facebook.blogspot.com
 docs-google.com
@@ -155,7 +155,6 @@ ebay-app.com
 ebay-c.com
 ebay-phone-number.blogspot.com
 ebay-seller-center-managedpayments.vercel.app
-ebay-verif.com
 ebay-wholesale.com
 ebaymclaren-austin.eventshouse.app
 ebaymevip.com
@@ -164,7 +163,6 @@ ebayohs.com
 edgeone.dev
 email-microsoft.com
 email-update-comcast.weebly.com
-ember-whatsapp.com
 emersondasilva-dev.github.io
 emmanueldegreatltd.com
 epsilons.co
@@ -402,7 +400,6 @@ googleplsmy.com
 googleplty.com
 googleuserlogin.cam
 googleww.com
-gps-icloudsupport.pro
 grupoimpaktu.ao
 hackerog17.github.io
 hasan-321.github.io
@@ -521,7 +518,6 @@ ledger-live-login-web.square.site
 ledger-live-wallet-start-conect-us-en.typedream.app
 ledger-liveusa.zapier.app
 ledgerlive-eng.netlify.app
-ledgerlivewallts.godaddysites.com
 ledgerwalletrepair.com
 ledgrelivapp--crome.typedream.app
 leia-santander.vercel.app
@@ -598,7 +594,6 @@ munimventures.com
 muzamilmeerdev.github.io
 my-facebook-blog.blogspot.com
 my-walletfix-id-apple.com
-my-whatsapp.com
 my-xfinity-signin.weebly.com
 mytemp.website
 nbpublic.com
@@ -664,7 +659,6 @@ paypall-login.blogspot.com
 pc-spotify.cn
 pe-facebook.blogspot.com
 pl-aukcja.cfd
-pl-oferta732691879.cfd
 prajwalkuchewar.github.io
 premio-instagram.com
 prizebond.net.pk
@@ -684,6 +678,7 @@ real-facebook.blogspot.com
 rec-netflix.com
 receiptslinkedin.com
 recreate-instagrampage.vercel.app
+reduzindotaxass.sbs
 reentrega-seur-envio.cloudaccess.host
 register-facebook.blogspot.com
 rekemonedasi-facebook.org
@@ -696,7 +691,6 @@ roblox.com.bz
 roblox.com.gr
 roblox.com.hr
 roblox.com.kz
-roblox.com.ml
 roblox.com.mu
 roblox.com.pt
 robloxc.com.es
@@ -721,6 +715,7 @@ services-facebook.blogspot.com
 seureonline.shop
 sheokand9806.github.io
 shruuti-005.github.io
+siastrategy.com
 siddharth-1404.github.io
 sigma-whatsapp.com
 sign-in-to-xfinity-090.weebly.com
@@ -814,7 +809,6 @@ whatsappapk.org
 whatsappbrnoticias.blogspot.com
 whatsappcampaign.online
 whatsappfreewhatsapp.blogspot.com
-whatsapph.com
 whatsapplnfo.blogspot.com
 whatsappq.com
 whatsappwebred.blogspot.com
