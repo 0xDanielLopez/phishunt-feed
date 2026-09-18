@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 857
-# Updated: 2026-09-17T21:23:25Z
+# Entries: 860
+# Updated: 2026-09-18T04:44:51Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -13,10 +13,10 @@
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
 0.0.0.0 393bet-facebook.sa.com
-0.0.0.0 427334-coinbase.com
 0.0.0.0 5828342-coinbase.com
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
+0.0.0.0 a2zapk.dev
 0.0.0.0 aaryan-musk.github.io
 0.0.0.0 about-help.com
 0.0.0.0 account-instagram.vercel.app
@@ -29,6 +29,7 @@
 0.0.0.0 alibaba66.co
 0.0.0.0 alibaba666.app
 0.0.0.0 alibaba66a.net
+0.0.0.0 amar-dokan.com
 0.0.0.0 amazon-ecommerce-nine.vercel.app
 0.0.0.0 amazon-eight-taupe.vercel.app
 0.0.0.0 amazon-front-me.vercel.app
@@ -43,14 +44,12 @@
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 annulation-amazon.com
 0.0.0.0 anoopsamazon.vercel.app
-0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-exodusweb.pages.dev
 0.0.0.0 app-facebook.blogspot.com
 0.0.0.0 app81-facebook.blogspot.com
 0.0.0.0 apple-icloud.azurewebsites.net
-0.0.0.0 apple-support-track.info
 0.0.0.0 apple-verify.us
 0.0.0.0 arencia-vitaminc-booster-amazon.netlify.app
 0.0.0.0 armankhan-12.github.io
@@ -165,6 +164,7 @@
 0.0.0.0 edgeone.dev
 0.0.0.0 email-microsoft.com
 0.0.0.0 email-update-comcast.weebly.com
+0.0.0.0 ember-whatsapp.com
 0.0.0.0 emersondasilva-dev.github.io
 0.0.0.0 emmanueldegreatltd.com
 0.0.0.0 epsilons.co
@@ -375,7 +375,6 @@
 0.0.0.0 ggzh-google.com.cn
 0.0.0.0 gloronyan.github.io
 0.0.0.0 google-apk.com
-0.0.0.0 google-cloud.services
 0.0.0.0 google1107.com
 0.0.0.0 google1208.com
 0.0.0.0 google1302.com
@@ -415,6 +414,7 @@
 0.0.0.0 hofmemorabilia.ebaymclaren-austin.eventshouse.app
 0.0.0.0 home-facebook.blogspot.com
 0.0.0.0 home-ledgrreliveapp.typedream.app
+0.0.0.0 host-coinbase.com
 0.0.0.0 hot-binance.com.cn
 0.0.0.0 hotmail143.net
 0.0.0.0 hsbc-sec.com
@@ -494,7 +494,6 @@
 0.0.0.0 instagramsupportverify.blogspot.com
 0.0.0.0 instagramunblockedd.vercel.app
 0.0.0.0 instagramusicabrasilinstagram.blogspot.com
-0.0.0.0 intermezzoconsultoria.com.br
 0.0.0.0 internal-alerts.com
 0.0.0.0 invreceiptslinkedin.com
 0.0.0.0 iqraashraf.dev
@@ -516,6 +515,7 @@
 0.0.0.0 kucoinloign.gitbook.io
 0.0.0.0 kucoinv.com
 0.0.0.0 lateinos.com.br
+0.0.0.0 ledger-live-application.com
 0.0.0.0 ledger-live-download-sso-conect.typedream.app
 0.0.0.0 ledger-live-login-web.square.site
 0.0.0.0 ledger-live-wallet-start-conect-us-en.typedream.app
@@ -599,6 +599,7 @@
 0.0.0.0 my-facebook-blog.blogspot.com
 0.0.0.0 my-walletfix-id-apple.com
 0.0.0.0 my-whatsapp.com
+0.0.0.0 my-xfinity-signin.weebly.com
 0.0.0.0 mytemp.website
 0.0.0.0 nbpublic.com
 0.0.0.0 neda-facebook.blogspot.com
@@ -615,8 +616,6 @@
 0.0.0.0 netflix6.com
 0.0.0.0 netflixandchiffres.com
 0.0.0.0 netflixbymanoj.vercel.app
-0.0.0.0 netflixcasino.co.it
-0.0.0.0 netflixcasino.com.es
 0.0.0.0 netflixfeitoaqui.com.br
 0.0.0.0 netflixinfos.com
 0.0.0.0 netflixquebec.blogspot.com
@@ -629,12 +628,14 @@
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 ofert-43819.sbs
+0.0.0.0 oferta-074938739.cfd
 0.0.0.0 oferta27387238283874237.sbs
-0.0.0.0 oferta274930.cfd
 0.0.0.0 oferta421449082091.sbs
+0.0.0.0 office-share-microsoft.com
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 office365mail.com
 0.0.0.0 ogloszenie2108578947.cyou
+0.0.0.0 ogloszenie6481757591.sbs
 0.0.0.0 online-facebook-privacy.blogspot.com
 0.0.0.0 oortstorages.com
 0.0.0.0 open-instagram.vercel.app
@@ -662,7 +663,8 @@
 0.0.0.0 paypall-login.blogspot.com
 0.0.0.0 pc-spotify.cn
 0.0.0.0 pe-facebook.blogspot.com
-0.0.0.0 pl-smart891981898122712919201.sbs
+0.0.0.0 pl-aukcja.cfd
+0.0.0.0 pl-oferta732691879.cfd
 0.0.0.0 prajwalkuchewar.github.io
 0.0.0.0 premio-instagram.com
 0.0.0.0 prizebond.net.pk
@@ -686,11 +688,11 @@
 0.0.0.0 register-facebook.blogspot.com
 0.0.0.0 rekemonedasi-facebook.org
 0.0.0.0 rev.it
+0.0.0.0 reviewteaserarchiveproj.biz
 0.0.0.0 roblox-login.vercel.app
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bz
-0.0.0.0 roblox.com.do
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.hr
 0.0.0.0 roblox.com.kz
@@ -748,6 +750,7 @@
 0.0.0.0 tara-facebook.blogspot.com
 0.0.0.0 tb-facebook.blogspot.com
 0.0.0.0 tecnicorevolut.info
+0.0.0.0 tecniplast.com.gt
 0.0.0.0 temporary.site
 0.0.0.0 test-facebook.blogspot.com
 0.0.0.0 therelayservice.com

@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 857
-! Updated: 2026-09-17T21:23:25Z
+! Entries: 860
+! Updated: 2026-09-18T04:44:52Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -13,10 +13,10 @@
 ||283674-coinbase.com^
 ||286364-coinbase.com^
 ||393bet-facebook.sa.com^
-||427334-coinbase.com^
 ||5828342-coinbase.com^
 ||a1-kraken.com^
 ||a2zapk.co^
+||a2zapk.dev^
 ||aaryan-musk.github.io^
 ||about-help.com^
 ||account-instagram.vercel.app^
@@ -29,6 +29,7 @@
 ||alibaba66.co^
 ||alibaba666.app^
 ||alibaba66a.net^
+||amar-dokan.com^
 ||amazon-ecommerce-nine.vercel.app^
 ||amazon-eight-taupe.vercel.app^
 ||amazon-front-me.vercel.app^
@@ -43,14 +44,12 @@
 ||ani-facebook.blogspot.com^
 ||annulation-amazon.com^
 ||anoopsamazon.vercel.app^
-||antimoney-laundering.org^
 ||apk-google.cn^
 ||app-binance.github.io^
 ||app-exodusweb.pages.dev^
 ||app-facebook.blogspot.com^
 ||app81-facebook.blogspot.com^
 ||apple-icloud.azurewebsites.net^
-||apple-support-track.info^
 ||apple-verify.us^
 ||arencia-vitaminc-booster-amazon.netlify.app^
 ||armankhan-12.github.io^
@@ -165,6 +164,7 @@
 ||edgeone.dev^
 ||email-microsoft.com^
 ||email-update-comcast.weebly.com^
+||ember-whatsapp.com^
 ||emersondasilva-dev.github.io^
 ||emmanueldegreatltd.com^
 ||epsilons.co^
@@ -375,7 +375,6 @@
 ||ggzh-google.com.cn^
 ||gloronyan.github.io^
 ||google-apk.com^
-||google-cloud.services^
 ||google1107.com^
 ||google1208.com^
 ||google1302.com^
@@ -415,6 +414,7 @@
 ||hofmemorabilia.ebaymclaren-austin.eventshouse.app^
 ||home-facebook.blogspot.com^
 ||home-ledgrreliveapp.typedream.app^
+||host-coinbase.com^
 ||hot-binance.com.cn^
 ||hotmail143.net^
 ||hsbc-sec.com^
@@ -494,7 +494,6 @@
 ||instagramsupportverify.blogspot.com^
 ||instagramunblockedd.vercel.app^
 ||instagramusicabrasilinstagram.blogspot.com^
-||intermezzoconsultoria.com.br^
 ||internal-alerts.com^
 ||invreceiptslinkedin.com^
 ||iqraashraf.dev^
@@ -516,6 +515,7 @@
 ||kucoinloign.gitbook.io^
 ||kucoinv.com^
 ||lateinos.com.br^
+||ledger-live-application.com^
 ||ledger-live-download-sso-conect.typedream.app^
 ||ledger-live-login-web.square.site^
 ||ledger-live-wallet-start-conect-us-en.typedream.app^
@@ -599,6 +599,7 @@
 ||my-facebook-blog.blogspot.com^
 ||my-walletfix-id-apple.com^
 ||my-whatsapp.com^
+||my-xfinity-signin.weebly.com^
 ||mytemp.website^
 ||nbpublic.com^
 ||neda-facebook.blogspot.com^
@@ -615,8 +616,6 @@
 ||netflix6.com^
 ||netflixandchiffres.com^
 ||netflixbymanoj.vercel.app^
-||netflixcasino.co.it^
-||netflixcasino.com.es^
 ||netflixfeitoaqui.com.br^
 ||netflixinfos.com^
 ||netflixquebec.blogspot.com^
@@ -629,12 +628,14 @@
 ||noreply-icloud.app^
 ||nw-facebook.blogspot.com^
 ||ofert-43819.sbs^
+||oferta-074938739.cfd^
 ||oferta27387238283874237.sbs^
-||oferta274930.cfd^
 ||oferta421449082091.sbs^
+||office-share-microsoft.com^
 ||office365licensingsupport.com^
 ||office365mail.com^
 ||ogloszenie2108578947.cyou^
+||ogloszenie6481757591.sbs^
 ||online-facebook-privacy.blogspot.com^
 ||oortstorages.com^
 ||open-instagram.vercel.app^
@@ -662,7 +663,8 @@
 ||paypall-login.blogspot.com^
 ||pc-spotify.cn^
 ||pe-facebook.blogspot.com^
-||pl-smart891981898122712919201.sbs^
+||pl-aukcja.cfd^
+||pl-oferta732691879.cfd^
 ||prajwalkuchewar.github.io^
 ||premio-instagram.com^
 ||prizebond.net.pk^
@@ -686,11 +688,11 @@
 ||register-facebook.blogspot.com^
 ||rekemonedasi-facebook.org^
 ||rev.it^
+||reviewteaserarchiveproj.biz^
 ||roblox-login.vercel.app^
 ||roblox.com.bi^
 ||roblox.com.bn^
 ||roblox.com.bz^
-||roblox.com.do^
 ||roblox.com.gr^
 ||roblox.com.hr^
 ||roblox.com.kz^
@@ -748,6 +750,7 @@
 ||tara-facebook.blogspot.com^
 ||tb-facebook.blogspot.com^
 ||tecnicorevolut.info^
+||tecniplast.com.gt^
 ||temporary.site^
 ||test-facebook.blogspot.com^
 ||therelayservice.com^
