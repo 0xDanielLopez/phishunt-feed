@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 853
-# Updated: 2026-09-18T16:24:43Z
+# Entries: 857
+# Updated: 2026-09-18T20:54:53Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -12,6 +12,7 @@
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
+0.0.0.0 2948382-coinbase.com
 0.0.0.0 393bet-facebook.sa.com
 0.0.0.0 5828342-coinbase.com
 0.0.0.0 a1-kraken.com
@@ -100,6 +101,7 @@
 0.0.0.0 cfm-whatsapps.com
 0.0.0.0 ch-google.cc
 0.0.0.0 chatgpt0005.eu.org
+0.0.0.0 checkout-paypal.sbs
 0.0.0.0 citrix-sharing.com
 0.0.0.0 click-facebook.blogspot.com
 0.0.0.0 clon-facebook.vercel.app
@@ -357,6 +359,7 @@
 0.0.0.0 facebookwebsite9.blogspot.com
 0.0.0.0 facebookzaman.blogspot.com
 0.0.0.0 fedex-olive.vercel.app
+0.0.0.0 fedexbeta.com
 0.0.0.0 fedexinterviewprep.com
 0.0.0.0 file-whatsappn.hl.cn
 0.0.0.0 fmello2002.github.io
@@ -380,6 +383,7 @@
 0.0.0.0 google77bd.com
 0.0.0.0 google88.bet
 0.0.0.0 googlebusiness.xyz
+0.0.0.0 googleepkay.com
 0.0.0.0 googleepway.com
 0.0.0.0 googlelogos.com
 0.0.0.0 googleoa.com

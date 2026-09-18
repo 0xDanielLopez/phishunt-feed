@@ -1,5 +1,193 @@
 [
   {
+    "url": "https://googleepkay.com",
+    "domain": "googleepkay.com",
+    "company": "google",
+    "date": "2026-09-18T17:25:06.104571+00:00",
+    "first_seen": "2026-09-18T17:25:06.104571+00:00",
+    "uuid": "efffbb44-a8e4-4380-8578-a5e0588270d9",
+    "ip": "104.21.34.119",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      }
+    ],
+    "score": 29,
+    "verdict": "low"
+  },
+  {
+    "url": "https://fedexbeta.com",
+    "domain": "fedexbeta.com",
+    "company": "fedex",
+    "date": "2026-09-18T17:25:01.291538+00:00",
+    "first_seen": "2026-09-18T17:25:01.291538+00:00",
+    "uuid": "abbec443-6060-4b25-a615-a107f8c3123e",
+    "ip": "34.111.179.208",
+    "country": "United States",
+    "asn": "396982",
+    "org": "Google LLC",
+    "cert": "YE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 4.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      }
+    ],
+    "score": 33,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://checkout-paypal.sbs",
+    "domain": "checkout-paypal.sbs",
+    "company": "paypal",
+    "date": "2026-09-18T17:25:00.351609+00:00",
+    "first_seen": "2026-09-18T17:25:00.351609+00:00",
+    "uuid": "dc2ef180-b011-4591-9f61-dfc1b4a94d0c",
+    "ip": "103.224.182.189",
+    "country": "United States",
+    "asn": "133618",
+    "org": "Trellian Pty. Limited",
+    "cert": "YE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 3.5
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 3.0
+      }
+    ],
+    "score": 28,
+    "verdict": "low"
+  },
+  {
+    "url": "https://2948382-coinbase.com",
+    "domain": "2948382-coinbase.com",
+    "company": "coinbase",
+    "date": "2026-09-18T17:24:59.518712+00:00",
+    "first_seen": "2026-09-18T17:24:59.518712+00:00",
+    "uuid": "0fbf7da6-35ce-4ccc-977c-a5dbc0e6c72b",
+    "ip": "103.224.182.189",
+    "country": "United States",
+    "asn": "133618",
+    "org": "Trellian Pty. Limited",
+    "cert": "YE2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 3.5
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 2.0
+      }
+    ],
+    "score": 26,
+    "verdict": "low"
+  },
+  {
     "url": "http://register-facebook.blogspot.com",
     "domain": "register-facebook.blogspot.com",
     "company": "facebook",
@@ -39118,7 +39306,7 @@
     "malicious_google": false,
     "malicious_openphish": true,
     "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
+    "malicious_tweetfeed": true,
     "malicious_urlscan": false,
     "top_signals": [
       {
@@ -41796,7 +41984,7 @@
     "cert": "WE1",
     "malicious_google": true,
     "malicious_openphish": true,
-    "malicious_phishtank": false,
+    "malicious_phishtank": true,
     "malicious_tweetfeed": false,
     "malicious_urlscan": false,
     "top_signals": [

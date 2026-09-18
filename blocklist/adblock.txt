@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 853
-! Updated: 2026-09-18T16:24:44Z
+! Entries: 857
+! Updated: 2026-09-18T20:54:53Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -12,6 +12,7 @@
 ||2017-facebook.blogspot.com^
 ||283674-coinbase.com^
 ||286364-coinbase.com^
+||2948382-coinbase.com^
 ||393bet-facebook.sa.com^
 ||5828342-coinbase.com^
 ||a1-kraken.com^
@@ -100,6 +101,7 @@
 ||cfm-whatsapps.com^
 ||ch-google.cc^
 ||chatgpt0005.eu.org^
+||checkout-paypal.sbs^
 ||citrix-sharing.com^
 ||click-facebook.blogspot.com^
 ||clon-facebook.vercel.app^
@@ -357,6 +359,7 @@
 ||facebookwebsite9.blogspot.com^
 ||facebookzaman.blogspot.com^
 ||fedex-olive.vercel.app^
+||fedexbeta.com^
 ||fedexinterviewprep.com^
 ||file-whatsappn.hl.cn^
 ||fmello2002.github.io^
@@ -380,6 +383,7 @@
 ||google77bd.com^
 ||google88.bet^
 ||googlebusiness.xyz^
+||googleepkay.com^
 ||googleepway.com^
 ||googlelogos.com^
 ||googleoa.com^
