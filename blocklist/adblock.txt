@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 854
-! Updated: 2026-09-18T11:16:24Z
+! Entries: 853
+! Updated: 2026-09-18T16:24:44Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -30,7 +30,6 @@
 ||alibaba66.co^
 ||alibaba666.app^
 ||alibaba66a.net^
-||amar-dokan.com^
 ||amazon-ecommerce-nine.vercel.app^
 ||amazon-eight-taupe.vercel.app^
 ||amazon-front-me.vercel.app^
@@ -61,6 +60,7 @@
 ||avaturefed.net^
 ||avlinfo.in^
 ||axm-amazon.com^
+||ayq.org.pk^
 ||aziizmusyafa18.github.io^
 ||bankofamerica-uscom.vercel.app^
 ||bankofamericamailcompte.blogspot.com^
@@ -106,8 +106,6 @@
 ||cloudclusters.net^
 ||cn-byte-whatsapp.com.cn^
 ||cn-gui-whatsapp.com.cn^
-||cn-peer-whatsapp.com.cn^
-||cn-ping-whatsapp.com.cn^
 ||cn-spotify.cn^
 ||coinbase-event.vercel.app^
 ||coinbase.com.lc^
@@ -136,6 +134,7 @@
 ||deluxxe.com.br^
 ||desktop-ledgrecdn.wixstudio.com^
 ||dhl-expressmy.com^
+||dhl-tracking.com^
 ||dir.com.my^
 ||dj-facebook.blogspot.com^
 ||docs-google.com^
@@ -259,6 +258,7 @@
 ||facebook-qa.blogspot.com^
 ||facebook-rus.blogspot.com^
 ||facebook-sa.blogspot.com^
+||facebook-sage-tau.vercel.app^
 ||facebook-secure.shop^
 ||facebook-seks-27.blogspot.com^
 ||facebook-seks-30.blogspot.com^
@@ -391,7 +391,6 @@
 ||googleplaety.com^
 ||googleplaiby.com^
 ||googleplaydown.com^
-||googleplayslotsfree.lol^
 ||googlepllry.com^
 ||googleplouy.com^
 ||googleplrzy.com^
@@ -422,7 +421,6 @@
 ||hstn.me^
 ||iberdrolatrade.com^
 ||icloud-asisten-official.com^
-||icloud-sharedalbum.com^
 ||icloudnotify.help^
 ||icloudxtzsopoe.click^
 ||ideeo.mx^
@@ -506,6 +504,7 @@
 ||jwb-facebook.blogspot.com^
 ||kavishkadileepa01.github.io^
 ||kenhoward.com^
+||kitchenworld.com.mx^
 ||kraken-tor.co.com^
 ||kucoin-referral-code-pt.vercel.app^
 ||kucoin9.com^
@@ -566,7 +565,6 @@
 ||metamaskcasino.de^
 ||metamaskchromeextensionn.blogspot.com^
 ||metamaskextensionnn.gitbook.io^
-||metamasklogniox.gitbook.io^
 ||metamasklskog.gitbook.io^
 ||metamaskrewards.com^
 ||metamaskwallett.blogspot.com^
@@ -624,13 +622,9 @@
 ||nw-facebook.blogspot.com^
 ||ofert-43819.sbs^
 ||oferta-074938739.cfd^
-||oferta27387238283874237.sbs^
-||oferta421449082091.sbs^
 ||office-share-microsoft.com^
 ||office365licensingsupport.com^
 ||office365mail.com^
-||ogloszenie2108578947.cyou^
-||ogloszenie6481757591.sbs^
 ||online-facebook-privacy.blogspot.com^
 ||oortstorages.com^
 ||open-instagram.vercel.app^
@@ -678,19 +672,21 @@
 ||rec-netflix.com^
 ||receiptslinkedin.com^
 ||recreate-instagrampage.vercel.app^
-||reduzindotaxass.sbs^
 ||reentrega-seur-envio.cloudaccess.host^
 ||register-facebook.blogspot.com^
 ||rekemonedasi-facebook.org^
 ||rev.it^
 ||reviewteaserarchiveproj.biz^
 ||roblox-login.vercel.app^
+||roblox.com.am^
 ||roblox.com.bi^
 ||roblox.com.bn^
 ||roblox.com.bz^
+||roblox.com.do^
 ||roblox.com.gr^
 ||roblox.com.hr^
 ||roblox.com.kz^
+||roblox.com.ml^
 ||roblox.com.mu^
 ||roblox.com.pt^
 ||robloxc.com.es^
@@ -715,7 +711,6 @@
 ||seureonline.shop^
 ||sheokand9806.github.io^
 ||shruuti-005.github.io^
-||siastrategy.com^
 ||siddharth-1404.github.io^
 ||sigma-whatsapp.com^
 ||sign-in-to-xfinity-090.weebly.com^
@@ -820,6 +815,7 @@
 ||www-google.cn^
 ||www-hk-google.com^
 ||www-microsoft.com.cn^
+||www-robloxk.com^
 ||www2-facebook.com^
 ||wwww-linkedin.be^
 ||x-comcast.weebly.com^
@@ -827,6 +823,9 @@
 ||xfinity-mail-id.weebly.com^
 ||xfinity-updateform.square.site^
 ||xfinity-updateform.weebly.com^
+||xfinity-xfinity.weebly.com^
+||xfinity001.weebly.com^
+||xfinity009.weebly.com^
 ||xfinity090.weebly.com^
 ||xfinity2.vercel.app^
 ||xfinity200212.weebly.com^
