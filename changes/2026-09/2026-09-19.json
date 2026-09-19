@@ -1,11 +1,11 @@
 {
  "date": "2026-09-19",
- "updated": "2026-09-19T04:38:42Z",
+ "updated": "2026-09-19T11:00:40Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 10,
-  "removed": 24
+  "added": 12,
+  "removed": 25
  },
  "added": [
   "http://allegrolokalnie.lokalna-oferta87453254.sbs",
@@ -15,9 +15,11 @@
   "https://allegro.lokalna-oferta87453254.sbs",
   "https://allegrolokalnie.oferta91821928912.cfd",
   "https://allegrolokalnie.pl-oferta58296379.shop",
+  "https://roblox.com.am/games/142823291/Murder-Mystery-2?privateServerLinkCode=037625068419256218425781722588",
   "https://roblox.com.bo/games/110497944711412/Tropical-Beach-Roleplay?privateServerLinkCode=39793524649927802977914581322209",
   "https://roblox.com.do/users/232301126482/profile",
-  "https://signinattcomdynamicilriaploginj70tz5ylw8.attmailpatchpsi.workers.dev/home.php?usrid=VI8rQXALmUdgqHn5Xtwovx3428Ndd7LqCzG68hxi6IKFT4tC5LcdZI7UV5lSn12MaGweWEseEShGdGT4FPir3yZ3IPQm2H32KhjTqyrgRNBtKH6PYv3fbIaBZG91Z3dkQGF0dC5uZXQ=ZIzexh39YzFvwCQgHU9sagHcD4GB1VDEpm4mNZazZGD9nkSM7E"
+  "https://signinattcomdynamicilriaploginj70tz5ylw8.attmailpatchpsi.workers.dev/home.php?usrid=VI8rQXALmUdgqHn5Xtwovx3428Ndd7LqCzG68hxi6IKFT4tC5LcdZI7UV5lSn12MaGweWEseEShGdGT4FPir3yZ3IPQm2H32KhjTqyrgRNBtKH6PYv3fbIaBZG91Z3dkQGF0dC5uZXQ=ZIzexh39YzFvwCQgHU9sagHcD4GB1VDEpm4mNZazZGD9nkSM7E",
+  "https://taslimaenterprise.com/adobe/"
  ],
  "removed": [
   "http://allegrolokalnie.pl-aukcja.cfd/oferta/podrecznik-nowa-matematyka-1-edycja-2024-nowa-era-0e5b9e57/",
@@ -38,6 +40,7 @@
   "https://dhl-tracking.com",
   "https://facebookpage-noreplycenter.com",
   "https://kitchenworld.com.mx/docusigine/docusign.html?sid=yKSNTMNfSrqETwcqjjEpkuK0KEf9e8T94QGOKUMw1Kl2uP3omSg8QQcv0615oHhMrm9utbr9K1PHwgljIwRGBGWld8DR5l3Elj9BPDyqGM0pfEpFjkw3E8IlGtK",
+  "https://roblox.com.am/users/355562866767/profile",
   "https://roblox.com.do/users/127358823826/profile",
   "https://trustwallet-neon.vercel.app",
   "https://upgradexfinty.weebly.com/xfinity-sign-in.html",

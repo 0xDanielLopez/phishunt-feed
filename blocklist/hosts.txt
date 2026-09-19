@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 845
-# Updated: 2026-09-19T04:38:42Z
+# Entries: 846
+# Updated: 2026-09-19T11:00:39Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -737,6 +737,7 @@
 0.0.0.0 tanish-ashu.github.io
 0.0.0.0 tanishq98714.github.io
 0.0.0.0 tara-facebook.blogspot.com
+0.0.0.0 taslimaenterprise.com
 0.0.0.0 tb-facebook.blogspot.com
 0.0.0.0 tecnicorevolut.info
 0.0.0.0 tecniplast.com.gt
