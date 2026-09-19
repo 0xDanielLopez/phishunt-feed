@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 846
-# Updated: 2026-09-19T11:00:39Z
+# Entries: 852
+# Updated: 2026-09-19T15:53:51Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -334,6 +334,7 @@ facebookloginss.blogspot.com
 facebookloginuser.blogspot.com
 facebookmail-facebook.blogspot.com
 facebooknenys.blogspot.com
+facebooknotify-noreply.com
 facebookpagemanagement.com
 facebookpageslinkk.blogspot.com
 facebookprofilelinks.blogspot.com
@@ -553,6 +554,7 @@ metamask-docs-p13jojaa8-consensys-ddffed67.vercel.app
 metamask-launchpad.vercel.app
 metamask-login.vercel.app
 metamask-six.vercel.app
+metamask-update.webflow.io
 metamask-wallet.vercel.app
 metamask-web.vercel.app
 metamask.github.io
@@ -637,6 +639,7 @@ outlookmail.social
 page-instagram.vercel.app
 patelrudra.in
 paykmc.com
+paymob.shop
 paypal-logiin.blogspot.com
 paypal-login.netlify.app
 paypal-password.blogspot.com
@@ -654,6 +657,7 @@ prajwalkuchewar.github.io
 premio-instagram.com
 prizebond.net.pk
 profil-facebook-saya.blogspot.com
+programgridsoft.com
 proteccion-outlook2026.iceiy.com
 protected-request.com
 pushkar-hub.github.io
@@ -693,6 +697,7 @@ ruddycruzc.github.io
 s-facebook.blogspot.com
 sagers.com
 samplel-ks6yxvur5-instagramm.vercel.app
+samridhiverma10.github.io
 santander-dev-week.vercel.app
 santander-remaster-whats-fb.vercel.app
 santanderbank.shop
@@ -748,6 +753,7 @@ tirzahollenhorst.com
 todo--facebook.blogspot.com
 tottattoo.com
 trackingnumbers.org
+trexor-io-start-home.pages.dev
 trezor-login-us-auth-start.typedream.app
 trezorguide.vercel.app
 troubleshoots-google.com

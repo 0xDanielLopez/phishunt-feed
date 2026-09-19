@@ -1,5 +1,261 @@
 [
   {
+    "url": "https://trexor-io-start-home.pages.dev",
+    "domain": "trexor-io-start-home.pages.dev",
+    "company": "trezor",
+    "date": "2026-09-19T15:04:00.432264+00:00",
+    "first_seen": "2026-09-19T15:04:00.432264+00:00",
+    "uuid": "c1ae2e55-78c3-4b74-a2ac-9624df0380cb",
+    "ip": "188.114.97.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "Sectigo Limited",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": true,
+    "top_signals": [],
+    "score": 0,
+    "verdict": "noise"
+  },
+  {
+    "url": "https://microsoftword.programgridsoft.com/?ysclid=mu7ymd4dpn786140927",
+    "domain": "microsoftword.programgridsoft.com",
+    "company": "microsoft",
+    "date": "2026-09-19T14:01:49.985422+00:00",
+    "first_seen": "2026-09-19T14:01:49.985422+00:00",
+    "uuid": "5cab18aa-950d-445a-8de1-37ca97ebe641",
+    "ip": "185.40.155.13",
+    "country": "Russia",
+    "asn": "21030",
+    "org": "Cluster LLC",
+    "cert": "YR1",
+    "malicious_google": false,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "openphish_score",
+        "label": "OpenPhish",
+        "points": 3.0
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 21,
+    "verdict": "low"
+  },
+  {
+    "url": "https://facebooknotify-noreply.com/ui/contact/0",
+    "domain": "facebooknotify-noreply.com",
+    "company": "facebook",
+    "date": "2026-09-19T13:03:11.740367+00:00",
+    "first_seen": "2026-09-19T13:03:11.740367+00:00",
+    "uuid": "28cd2b95-cd7b-4dd1-a4d2-0204da380075",
+    "ip": "64.29.17.1",
+    "country": "United States",
+    "asn": "16509",
+    "org": "Amazon.com, Inc.",
+    "cert": "YR1",
+    "malicious_google": true,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "openphish_score",
+        "label": "OpenPhish",
+        "points": 3.0
+      }
+    ],
+    "score": 25,
+    "verdict": "low"
+  },
+  {
+    "url": "http://samridhiverma10.github.io/amazon/amazon.html",
+    "domain": "samridhiverma10.github.io",
+    "company": "amazon",
+    "date": "2026-09-19T13:03:01.446580+00:00",
+    "first_seen": "2026-09-19T13:03:01.446580+00:00",
+    "uuid": "089c497c-89d5-41c4-99c0-a9a16d39afeb",
+    "ip": "185.199.108.153",
+    "country": "United States",
+    "asn": "54113",
+    "org": "Fastly, Inc.",
+    "cert": "YR1",
+    "malicious_google": false,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "cert_cluster",
+        "label": "Cert reuse",
+        "points": 3.4
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 29,
+    "verdict": "low"
+  },
+  {
+    "url": "https://paymob.shop/hotmailsss/hotnew.html",
+    "domain": "paymob.shop",
+    "company": "microsoft",
+    "date": "2026-09-19T13:02:53.366212+00:00",
+    "first_seen": "2026-09-19T13:02:53.366212+00:00",
+    "uuid": "24319a59-ede9-400d-b003-0fdf073f71a8",
+    "ip": "66.116.239.171",
+    "country": "United States",
+    "asn": "31898",
+    "org": "Oracle Corporation",
+    "cert": "YR2",
+    "malicious_google": false,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": true,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "urlscan_score",
+        "label": "urlscan.io",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "has_password_input",
+        "label": "Password field",
+        "points": 3.9
+      }
+    ],
+    "score": 75,
+    "verdict": "high"
+  },
+  {
+    "url": "http://metamask-update.webflow.io",
+    "domain": "metamask-update.webflow.io",
+    "company": "metamask",
+    "date": "2026-09-19T13:02:48.198407+00:00",
+    "first_seen": "2026-09-19T13:02:48.198407+00:00",
+    "uuid": "69ae4935-c47e-45cf-814b-521e82dd9a4f",
+    "ip": "172.64.151.8",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": false,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "openphish_score",
+        "label": "OpenPhish",
+        "points": 3.0
+      }
+    ],
+    "score": 27,
+    "verdict": "low"
+  },
+  {
     "url": "https://roblox.com.am/games/142823291/Murder-Mystery-2?privateServerLinkCode=037625068419256218425781722588",
     "domain": "roblox.com.am",
     "company": "roblox",
@@ -41325,7 +41581,7 @@
     "org": "Ummah Host BD",
     "cert": "YR2",
     "malicious_google": false,
-    "malicious_openphish": false,
+    "malicious_openphish": true,
     "malicious_phishtank": false,
     "malicious_tweetfeed": true,
     "malicious_urlscan": false,

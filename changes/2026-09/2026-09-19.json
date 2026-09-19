@@ -1,25 +1,31 @@
 {
  "date": "2026-09-19",
- "updated": "2026-09-19T11:00:40Z",
+ "updated": "2026-09-19T15:53:53Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 12,
+  "added": 18,
   "removed": 25
  },
  "added": [
   "http://allegrolokalnie.lokalna-oferta87453254.sbs",
   "http://marycar.com.br/Adobe/Acrobat_Reader",
+  "http://metamask-update.webflow.io",
   "http://paypal-login.netlify.app",
+  "http://samridhiverma10.github.io/amazon/amazon.html",
   "https://advancedfootandankle1.skinworkllc.com/components/com_media/mcpuwez/hqwumcb/wvltnsd/amazon.php",
   "https://allegro.lokalna-oferta87453254.sbs",
   "https://allegrolokalnie.oferta91821928912.cfd",
   "https://allegrolokalnie.pl-oferta58296379.shop",
+  "https://facebooknotify-noreply.com/ui/contact/0",
+  "https://microsoftword.programgridsoft.com/?ysclid=mu7ymd4dpn786140927",
+  "https://paymob.shop/hotmailsss/hotnew.html",
   "https://roblox.com.am/games/142823291/Murder-Mystery-2?privateServerLinkCode=037625068419256218425781722588",
   "https://roblox.com.bo/games/110497944711412/Tropical-Beach-Roleplay?privateServerLinkCode=39793524649927802977914581322209",
   "https://roblox.com.do/users/232301126482/profile",
   "https://signinattcomdynamicilriaploginj70tz5ylw8.attmailpatchpsi.workers.dev/home.php?usrid=VI8rQXALmUdgqHn5Xtwovx3428Ndd7LqCzG68hxi6IKFT4tC5LcdZI7UV5lSn12MaGweWEseEShGdGT4FPir3yZ3IPQm2H32KhjTqyrgRNBtKH6PYv3fbIaBZG91Z3dkQGF0dC5uZXQ=ZIzexh39YzFvwCQgHU9sagHcD4GB1VDEpm4mNZazZGD9nkSM7E",
-  "https://taslimaenterprise.com/adobe/"
+  "https://taslimaenterprise.com/adobe/",
+  "https://trexor-io-start-home.pages.dev"
  ],
  "removed": [
   "http://allegrolokalnie.pl-aukcja.cfd/oferta/podrecznik-nowa-matematyka-1-edycja-2024-nowa-era-0e5b9e57/",

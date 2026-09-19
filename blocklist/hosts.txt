@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 846
-# Updated: 2026-09-19T11:00:39Z
+# Entries: 852
+# Updated: 2026-09-19T15:53:52Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -334,6 +334,7 @@
 0.0.0.0 facebookloginuser.blogspot.com
 0.0.0.0 facebookmail-facebook.blogspot.com
 0.0.0.0 facebooknenys.blogspot.com
+0.0.0.0 facebooknotify-noreply.com
 0.0.0.0 facebookpagemanagement.com
 0.0.0.0 facebookpageslinkk.blogspot.com
 0.0.0.0 facebookprofilelinks.blogspot.com
@@ -553,6 +554,7 @@
 0.0.0.0 metamask-launchpad.vercel.app
 0.0.0.0 metamask-login.vercel.app
 0.0.0.0 metamask-six.vercel.app
+0.0.0.0 metamask-update.webflow.io
 0.0.0.0 metamask-wallet.vercel.app
 0.0.0.0 metamask-web.vercel.app
 0.0.0.0 metamask.github.io
@@ -637,6 +639,7 @@
 0.0.0.0 page-instagram.vercel.app
 0.0.0.0 patelrudra.in
 0.0.0.0 paykmc.com
+0.0.0.0 paymob.shop
 0.0.0.0 paypal-logiin.blogspot.com
 0.0.0.0 paypal-login.netlify.app
 0.0.0.0 paypal-password.blogspot.com
@@ -654,6 +657,7 @@
 0.0.0.0 premio-instagram.com
 0.0.0.0 prizebond.net.pk
 0.0.0.0 profil-facebook-saya.blogspot.com
+0.0.0.0 programgridsoft.com
 0.0.0.0 proteccion-outlook2026.iceiy.com
 0.0.0.0 protected-request.com
 0.0.0.0 pushkar-hub.github.io
@@ -693,6 +697,7 @@
 0.0.0.0 s-facebook.blogspot.com
 0.0.0.0 sagers.com
 0.0.0.0 samplel-ks6yxvur5-instagramm.vercel.app
+0.0.0.0 samridhiverma10.github.io
 0.0.0.0 santander-dev-week.vercel.app
 0.0.0.0 santander-remaster-whats-fb.vercel.app
 0.0.0.0 santanderbank.shop
@@ -748,6 +753,7 @@
 0.0.0.0 todo--facebook.blogspot.com
 0.0.0.0 tottattoo.com
 0.0.0.0 trackingnumbers.org
+0.0.0.0 trexor-io-start-home.pages.dev
 0.0.0.0 trezor-login-us-auth-start.typedream.app
 0.0.0.0 trezorguide.vercel.app
 0.0.0.0 troubleshoots-google.com
