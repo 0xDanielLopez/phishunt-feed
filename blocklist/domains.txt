@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 857
-# Updated: 2026-09-18T20:54:52Z
+# Entries: 845
+# Updated: 2026-09-19T04:38:41Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -57,11 +57,11 @@ armankhan-12.github.io
 asif.me
 assign-icloud.com
 asso-entrautres.fr
+attmailpatchpsi.workers.dev
 authorised-support.com
 avaturefed.net
 avlinfo.in
 axm-amazon.com
-ayq.org.pk
 aziizmusyafa18.github.io
 bankofamerica-uscom.vercel.app
 bankofamericamailcompte.blogspot.com
@@ -101,7 +101,6 @@ cashappps.com
 cfm-whatsapps.com
 ch-google.cc
 chatgpt0005.eu.org
-checkout-paypal.sbs
 citrix-sharing.com
 click-facebook.blogspot.com
 clon-facebook.vercel.app
@@ -117,16 +116,12 @@ collectableswall.ebaymclaren-austin.eventshouse.app
 comcast-ebon.vercel.app
 comcast2.vercel.app
 comcastcarebusiness.weebly.com
-comcastinfoupdatenow.weebly.com
 comcastinfoupdatesnow.weebly.com
 comcastlog.weebly.com
-comcastmemberupdate.weebly.com
 comcastnetmail.weebly.com
 comcastseettings.weebly.com
 comcastsurvey.weebly.com
-comcastvm.weebly.com
 connect-xfinity-log.weebly.com
-contabostorage.com
 correoscri.cc
 correosiicr.cc
 ct.ws
@@ -136,7 +131,6 @@ david-santos7.github.io
 deluxxe.com.br
 desktop-ledgrecdn.wixstudio.com
 dhl-expressmy.com
-dhl-tracking.com
 dir.com.my
 dj-facebook.blogspot.com
 docs-google.com
@@ -340,7 +334,6 @@ facebookloginss.blogspot.com
 facebookloginuser.blogspot.com
 facebookmail-facebook.blogspot.com
 facebooknenys.blogspot.com
-facebookpage-noreplycenter.com
 facebookpagemanagement.com
 facebookpageslinkk.blogspot.com
 facebookprofilelinks.blogspot.com
@@ -426,7 +419,6 @@ hstn.me
 iberdrolatrade.com
 icloud-asisten-official.com
 icloudnotify.help
-icloudxtzsopoe.click
 ideeo.mx
 ifotografix.co.uk
 indiarevolutionnova.github.io
@@ -508,7 +500,6 @@ joel-eapen.github.io
 jwb-facebook.blogspot.com
 kavishkadileepa01.github.io
 kenhoward.com
-kitchenworld.com.mx
 kraken-tor.co.com
 kucoin-referral-code-pt.vercel.app
 kucoin9.com
@@ -531,11 +522,11 @@ login-facebookaccount.blogspot.com
 login-my-facebook.blogspot.com
 login-page-instagram.blogspot.com
 login-page-instagram.vercel.app
-login-xfinityweb.weebly.com
 login.rmdbwskx.santander.bimp-bot.duckdns.org
 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 loginfacebook-facebook.blogspot.com
 logowanie-facebook.vercel.app
+lokalna-oferta87453254.sbs
 love-facebook.blogspot.com
 lovefive-facebook.blogspot.com
 lovevivah.com
@@ -545,6 +536,7 @@ m365-microsoft.com
 m4ntapaset.ink
 mail-xfinitylogin.weebly.com
 manish1719.github.io
+marycar.com.br
 mb-facebook.blogspot.com
 mclarencar.ebaymclaren-austin.eventshouse.app
 mclarenf1car.ebaymclaren-austin.eventshouse.app
@@ -596,7 +588,6 @@ munimventures.com
 muzamilmeerdev.github.io
 my-facebook-blog.blogspot.com
 my-walletfix-id-apple.com
-my-xfinity-signin.weebly.com
 mytemp.website
 nbpublic.com
 neda-facebook.blogspot.com
@@ -626,6 +617,7 @@ noreply-icloud.app
 nw-facebook.blogspot.com
 ofert-43819.sbs
 oferta-074938739.cfd
+oferta91821928912.cfd
 office-share-microsoft.com
 office365licensingsupport.com
 office365mail.com
@@ -646,6 +638,7 @@ page-instagram.vercel.app
 patelrudra.in
 paykmc.com
 paypal-logiin.blogspot.com
+paypal-login.netlify.app
 paypal-password.blogspot.com
 paypal-pay.com
 paypal-refund.com
@@ -656,7 +649,7 @@ paypalcorp.blogspot.com
 paypall-login.blogspot.com
 pc-spotify.cn
 pe-facebook.blogspot.com
-pl-aukcja.cfd
+pl-oferta58296379.shop
 prajwalkuchewar.github.io
 premio-instagram.com
 prizebond.net.pk
@@ -685,6 +678,7 @@ roblox-login.vercel.app
 roblox.com.am
 roblox.com.bi
 roblox.com.bn
+roblox.com.bo
 roblox.com.bz
 roblox.com.do
 roblox.com.gr
@@ -720,6 +714,7 @@ sigma-whatsapp.com
 sign-in-to-xfinity-090.weebly.com
 sign-in-to-xfinity-87653.weebly.com
 sk-facebook.blogspot.com
+skinworkllc.com
 smswt.in
 spotify-client-beta.vercel.app
 spotify-payment.click
@@ -761,7 +756,6 @@ trust-wallet-customer-support-number.github.io
 trust-wallet-liart.vercel.app
 trustwallet-helpcenter.vercel.app
 trustwallet-login.blogspot.com
-trustwallet-neon.vercel.app
 trustwallet-secure-check.vercel.app
 trustwallet-tokentwtowner.vercel.app
 trustwalletreport.vercel.app
@@ -771,7 +765,6 @@ twinehr.com
 twitterfav.com
 uk-facebook.blogspot.com
 updata.net.cn
-upgradexfinty.weebly.com
 usacrazyseller.com
 usdt-trustwallet-blockchain.vercel.app
 uspsaunitedworkforce.com
@@ -823,11 +816,9 @@ www-robloxk.com
 www2-facebook.com
 wwww-linkedin.be
 x-comcast.weebly.com
-xfinity-555.weebly.com
 xfinity-mail-id.weebly.com
 xfinity-updateform.square.site
 xfinity-updateform.weebly.com
-xfinity-xfinity.weebly.com
 xfinity001.weebly.com
 xfinity009.weebly.com
 xfinity090.weebly.com
@@ -843,14 +834,11 @@ xfinitymail01.weebly.com
 xfinitymail087.weebly.com
 xfinitymailid.weebly.com
 xfinitymailnow.weebly.com
-xfinitymemberinfo.weebly.com
 xfinitynow.weebly.com
 xfinityservices.vercel.app
 xfinitysupportnow.weebly.com
 xfinityttt.weebly.com
-xfinityupdateonline.weebly.com
 xfinityupdatesnow.weebly.com
-xfinitywebmailinfo.weebly.com
 xfinitywindowfilms.com
 yagomouro.github.io
 yapla.com

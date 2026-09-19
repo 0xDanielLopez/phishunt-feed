@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 857
-# Updated: 2026-09-18T20:54:53Z
+# Entries: 845
+# Updated: 2026-09-19T04:38:42Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -57,11 +57,11 @@
 0.0.0.0 asif.me
 0.0.0.0 assign-icloud.com
 0.0.0.0 asso-entrautres.fr
+0.0.0.0 attmailpatchpsi.workers.dev
 0.0.0.0 authorised-support.com
 0.0.0.0 avaturefed.net
 0.0.0.0 avlinfo.in
 0.0.0.0 axm-amazon.com
-0.0.0.0 ayq.org.pk
 0.0.0.0 aziizmusyafa18.github.io
 0.0.0.0 bankofamerica-uscom.vercel.app
 0.0.0.0 bankofamericamailcompte.blogspot.com
@@ -101,7 +101,6 @@
 0.0.0.0 cfm-whatsapps.com
 0.0.0.0 ch-google.cc
 0.0.0.0 chatgpt0005.eu.org
-0.0.0.0 checkout-paypal.sbs
 0.0.0.0 citrix-sharing.com
 0.0.0.0 click-facebook.blogspot.com
 0.0.0.0 clon-facebook.vercel.app
@@ -117,16 +116,12 @@
 0.0.0.0 comcast-ebon.vercel.app
 0.0.0.0 comcast2.vercel.app
 0.0.0.0 comcastcarebusiness.weebly.com
-0.0.0.0 comcastinfoupdatenow.weebly.com
 0.0.0.0 comcastinfoupdatesnow.weebly.com
 0.0.0.0 comcastlog.weebly.com
-0.0.0.0 comcastmemberupdate.weebly.com
 0.0.0.0 comcastnetmail.weebly.com
 0.0.0.0 comcastseettings.weebly.com
 0.0.0.0 comcastsurvey.weebly.com
-0.0.0.0 comcastvm.weebly.com
 0.0.0.0 connect-xfinity-log.weebly.com
-0.0.0.0 contabostorage.com
 0.0.0.0 correoscri.cc
 0.0.0.0 correosiicr.cc
 0.0.0.0 ct.ws
@@ -136,7 +131,6 @@
 0.0.0.0 deluxxe.com.br
 0.0.0.0 desktop-ledgrecdn.wixstudio.com
 0.0.0.0 dhl-expressmy.com
-0.0.0.0 dhl-tracking.com
 0.0.0.0 dir.com.my
 0.0.0.0 dj-facebook.blogspot.com
 0.0.0.0 docs-google.com
@@ -340,7 +334,6 @@
 0.0.0.0 facebookloginuser.blogspot.com
 0.0.0.0 facebookmail-facebook.blogspot.com
 0.0.0.0 facebooknenys.blogspot.com
-0.0.0.0 facebookpage-noreplycenter.com
 0.0.0.0 facebookpagemanagement.com
 0.0.0.0 facebookpageslinkk.blogspot.com
 0.0.0.0 facebookprofilelinks.blogspot.com
@@ -426,7 +419,6 @@
 0.0.0.0 iberdrolatrade.com
 0.0.0.0 icloud-asisten-official.com
 0.0.0.0 icloudnotify.help
-0.0.0.0 icloudxtzsopoe.click
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 indiarevolutionnova.github.io
@@ -508,7 +500,6 @@
 0.0.0.0 jwb-facebook.blogspot.com
 0.0.0.0 kavishkadileepa01.github.io
 0.0.0.0 kenhoward.com
-0.0.0.0 kitchenworld.com.mx
 0.0.0.0 kraken-tor.co.com
 0.0.0.0 kucoin-referral-code-pt.vercel.app
 0.0.0.0 kucoin9.com
@@ -531,11 +522,11 @@
 0.0.0.0 login-my-facebook.blogspot.com
 0.0.0.0 login-page-instagram.blogspot.com
 0.0.0.0 login-page-instagram.vercel.app
-0.0.0.0 login-xfinityweb.weebly.com
 0.0.0.0 login.rmdbwskx.santander.bimp-bot.duckdns.org
 0.0.0.0 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 0.0.0.0 loginfacebook-facebook.blogspot.com
 0.0.0.0 logowanie-facebook.vercel.app
+0.0.0.0 lokalna-oferta87453254.sbs
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lovevivah.com
@@ -545,6 +536,7 @@
 0.0.0.0 m4ntapaset.ink
 0.0.0.0 mail-xfinitylogin.weebly.com
 0.0.0.0 manish1719.github.io
+0.0.0.0 marycar.com.br
 0.0.0.0 mb-facebook.blogspot.com
 0.0.0.0 mclarencar.ebaymclaren-austin.eventshouse.app
 0.0.0.0 mclarenf1car.ebaymclaren-austin.eventshouse.app
@@ -596,7 +588,6 @@
 0.0.0.0 muzamilmeerdev.github.io
 0.0.0.0 my-facebook-blog.blogspot.com
 0.0.0.0 my-walletfix-id-apple.com
-0.0.0.0 my-xfinity-signin.weebly.com
 0.0.0.0 mytemp.website
 0.0.0.0 nbpublic.com
 0.0.0.0 neda-facebook.blogspot.com
@@ -626,6 +617,7 @@
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 ofert-43819.sbs
 0.0.0.0 oferta-074938739.cfd
+0.0.0.0 oferta91821928912.cfd
 0.0.0.0 office-share-microsoft.com
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 office365mail.com
@@ -646,6 +638,7 @@
 0.0.0.0 patelrudra.in
 0.0.0.0 paykmc.com
 0.0.0.0 paypal-logiin.blogspot.com
+0.0.0.0 paypal-login.netlify.app
 0.0.0.0 paypal-password.blogspot.com
 0.0.0.0 paypal-pay.com
 0.0.0.0 paypal-refund.com
@@ -656,7 +649,7 @@
 0.0.0.0 paypall-login.blogspot.com
 0.0.0.0 pc-spotify.cn
 0.0.0.0 pe-facebook.blogspot.com
-0.0.0.0 pl-aukcja.cfd
+0.0.0.0 pl-oferta58296379.shop
 0.0.0.0 prajwalkuchewar.github.io
 0.0.0.0 premio-instagram.com
 0.0.0.0 prizebond.net.pk
@@ -685,6 +678,7 @@
 0.0.0.0 roblox.com.am
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
+0.0.0.0 roblox.com.bo
 0.0.0.0 roblox.com.bz
 0.0.0.0 roblox.com.do
 0.0.0.0 roblox.com.gr
@@ -720,6 +714,7 @@
 0.0.0.0 sign-in-to-xfinity-090.weebly.com
 0.0.0.0 sign-in-to-xfinity-87653.weebly.com
 0.0.0.0 sk-facebook.blogspot.com
+0.0.0.0 skinworkllc.com
 0.0.0.0 smswt.in
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotify-payment.click
@@ -761,7 +756,6 @@
 0.0.0.0 trust-wallet-liart.vercel.app
 0.0.0.0 trustwallet-helpcenter.vercel.app
 0.0.0.0 trustwallet-login.blogspot.com
-0.0.0.0 trustwallet-neon.vercel.app
 0.0.0.0 trustwallet-secure-check.vercel.app
 0.0.0.0 trustwallet-tokentwtowner.vercel.app
 0.0.0.0 trustwalletreport.vercel.app
@@ -771,7 +765,6 @@
 0.0.0.0 twitterfav.com
 0.0.0.0 uk-facebook.blogspot.com
 0.0.0.0 updata.net.cn
-0.0.0.0 upgradexfinty.weebly.com
 0.0.0.0 usacrazyseller.com
 0.0.0.0 usdt-trustwallet-blockchain.vercel.app
 0.0.0.0 uspsaunitedworkforce.com
@@ -823,11 +816,9 @@
 0.0.0.0 www2-facebook.com
 0.0.0.0 wwww-linkedin.be
 0.0.0.0 x-comcast.weebly.com
-0.0.0.0 xfinity-555.weebly.com
 0.0.0.0 xfinity-mail-id.weebly.com
 0.0.0.0 xfinity-updateform.square.site
 0.0.0.0 xfinity-updateform.weebly.com
-0.0.0.0 xfinity-xfinity.weebly.com
 0.0.0.0 xfinity001.weebly.com
 0.0.0.0 xfinity009.weebly.com
 0.0.0.0 xfinity090.weebly.com
@@ -843,14 +834,11 @@
 0.0.0.0 xfinitymail087.weebly.com
 0.0.0.0 xfinitymailid.weebly.com
 0.0.0.0 xfinitymailnow.weebly.com
-0.0.0.0 xfinitymemberinfo.weebly.com
 0.0.0.0 xfinitynow.weebly.com
 0.0.0.0 xfinityservices.vercel.app
 0.0.0.0 xfinitysupportnow.weebly.com
 0.0.0.0 xfinityttt.weebly.com
-0.0.0.0 xfinityupdateonline.weebly.com
 0.0.0.0 xfinityupdatesnow.weebly.com
-0.0.0.0 xfinitywebmailinfo.weebly.com
 0.0.0.0 xfinitywindowfilms.com
 0.0.0.0 yagomouro.github.io
 0.0.0.0 yapla.com
