@@ -1,20 +1,20 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 852
-! Updated: 2026-09-19T15:53:53Z
+! Entries: 840
+! Updated: 2026-09-19T20:41:35Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
 ! Community-reported phishing domains. Use at your own risk.
 
+||012398h8.forum^
 ||01felipeaugusto-star.github.io^
 ||123-facebook.blogspot.com^
 ||190842-coinbase.com^
 ||2017-facebook.blogspot.com^
 ||283674-coinbase.com^
 ||286364-coinbase.com^
-||2948382-coinbase.com^
 ||393bet-facebook.sa.com^
-||5828342-coinbase.com^
+||76424.top^
 ||a1-kraken.com^
 ||a2zapk.co^
 ||a2zapk.dev^
@@ -22,11 +22,9 @@
 ||aaryan-musk.github.io^
 ||about-help.com^
 ||account-instagram.vercel.app^
-||accounts-facebook.blogspot.com^
 ||adobeforbusiness.com^
 ||ahmadhussain99.github.io^
 ||aishwarya-rathore.github.io^
-||alibaba-taobaol.cn^
 ||alibaba188.org^
 ||alibaba66.co^
 ||alibaba666.app^
@@ -52,7 +50,6 @@
 ||app81-facebook.blogspot.com^
 ||apple-icloud.azurewebsites.net^
 ||apple-verify.us^
-||arencia-vitaminc-booster-amazon.netlify.app^
 ||armankhan-12.github.io^
 ||asif.me^
 ||assign-icloud.com^
@@ -63,6 +60,7 @@
 ||avlinfo.in^
 ||axm-amazon.com^
 ||aziizmusyafa18.github.io^
+||bankofamerica-login-verify-id23.ph^
 ||bankofamerica-uscom.vercel.app^
 ||bankofamericamailcompte.blogspot.com^
 ||barcelona-facebook.blogspot.com^
@@ -96,6 +94,7 @@
 ||business-dropbox.me^
 ||c-binance.github.io^
 ||cardpaysecurity.org^
+||case-binance.us^
 ||cashapp-liart.vercel.app^
 ||cashappps.com^
 ||cfm-whatsapps.com^
@@ -141,7 +140,6 @@
 ||dpdi.xyz^
 ||dpdn62.click^
 ||dpdr.live^
-||dreamy-crumble-17846c.netlify.app^
 ||dropbox-online.at^
 ||dropbox-online.net^
 ||dropboxbiz.com^
@@ -190,7 +188,6 @@
 ||facebook-bay.vercel.app^
 ||facebook-benjamin.blogspot.com^
 ||facebook-blond.vercel.app^
-||facebook-ca.blogspot.com^
 ||facebook-carol.blogspot.com^
 ||facebook-cdn.blogspot.com^
 ||facebook-channel.blogspot.com^
@@ -225,7 +222,6 @@
 ||facebook-login-facebook.blogspot.com^
 ||facebook-login-help.blogspot.com^
 ||facebook-login-it.blogspot.com^
-||facebook-login-login.blogspot.com^
 ||facebook-login-page-kappa.vercel.app^
 ||facebook-login-page-three.vercel.app^
 ||facebook-login-page.blogspot.com^
@@ -238,7 +234,6 @@
 ||facebook-logo.blogspot.com^
 ||facebook-main.vercel.app^
 ||facebook-mark.blogspot.com^
-||facebook-mx.blogspot.com^
 ||facebook-networks.blogspot.com^
 ||facebook-new-security.blogspot.com^
 ||facebook-ng.blogspot.com^
@@ -253,9 +248,7 @@
 ||facebook-q.blogspot.com^
 ||facebook-qa.blogspot.com^
 ||facebook-rus.blogspot.com^
-||facebook-sa.blogspot.com^
 ||facebook-sage-tau.vercel.app^
-||facebook-secure.shop^
 ||facebook-seks-27.blogspot.com^
 ||facebook-seks-30.blogspot.com^
 ||facebook-seks-32.blogspot.com^
@@ -269,11 +262,9 @@
 ||facebook-supports.blogspot.com^
 ||facebook-system.blogspot.com^
 ||facebook-task-one.vercel.app^
-||facebook-th.blogspot.com^
 ||facebook-theta.vercel.app^
 ||facebook-trial.vercel.app^
 ||facebook-trk.blogspot.com^
-||facebook-us.blogspot.com^
 ||facebook-verification-system3.blogspot.com^
 ||facebook-verification-system4.blogspot.com^
 ||facebook-verification-system5.blogspot.com^
@@ -283,7 +274,6 @@
 ||facebook-vn-com.blogspot.com^
 ||facebook-vn.blogspot.com^
 ||facebook-vu.blogspot.com^
-||facebook-www.blogspot.com^
 ||facebook1019key.blogspot.com^
 ||facebook7-facebook.blogspot.com^
 ||facebookaccountsmanager.blogspot.com^
@@ -307,7 +297,6 @@
 ||facebooklogin01.blogspot.com^
 ||facebooklogin123.blogspot.com^
 ||facebooklogin1234.blogspot.com^
-||facebooklogin13.blogspot.com^
 ||facebooklogin17.blogspot.com^
 ||facebooklogin18.blogspot.com^
 ||facebooklogin19.blogspot.com^
@@ -352,6 +341,7 @@
 ||facebookverifyyouraccount.blogspot.com^
 ||facebookwebsite9.blogspot.com^
 ||facebookzaman.blogspot.com^
+||fans-whatsapp.com^
 ||fedex-olive.vercel.app^
 ||fedexbeta.com^
 ||fedexinterviewprep.com^
@@ -370,6 +360,7 @@
 ||ggzh-google.com.cn^
 ||gloronyan.github.io^
 ||google-apk.com^
+||google-havan.com^
 ||google1107.com^
 ||google1208.com^
 ||google1302.com^
@@ -404,7 +395,6 @@
 ||hasyimf.github.io^
 ||hellenvicente.github.io^
 ||help-instagram.blogspot.com^
-||helps-kraken.com^
 ||hofmemorabilia.ebaymclaren-austin.eventshouse.app^
 ||home-facebook.blogspot.com^
 ||home-ledgrreliveapp.typedream.app^
@@ -512,7 +502,6 @@
 ||ledger-live-login-web.square.site^
 ||ledger-live-wallet-start-conect-us-en.typedream.app^
 ||ledger-liveusa.zapier.app^
-||ledgerlive-eng.netlify.app^
 ||ledgerwalletrepair.com^
 ||ledgrelivapp--crome.typedream.app^
 ||leia-santander.vercel.app^
@@ -619,7 +608,9 @@
 ||nw-facebook.blogspot.com^
 ||ofert-43819.sbs^
 ||oferta-074938739.cfd^
+||oferta324452.cfd^
 ||oferta91821928912.cfd^
+||ofertaa848295327520.cfd^
 ||office-share-microsoft.com^
 ||office365licensingsupport.com^
 ||office365mail.com^
@@ -679,7 +670,6 @@
 ||rev.it^
 ||reviewteaserarchiveproj.biz^
 ||roblox-login.vercel.app^
-||roblox.com.am^
 ||roblox.com.bi^
 ||roblox.com.bn^
 ||roblox.com.bo^
@@ -708,7 +698,6 @@
 ||secure-dropbox.ist^
 ||securedsupport-coinbase.com^
 ||secutury-facebook.blogspot.com^
-||sena-facebook.blogspot.com^
 ||send-secure-trustwallet-usdt-bip20.vercel.app^
 ||services-facebook.blogspot.com^
 ||seureonline.shop^
@@ -770,8 +759,8 @@
 ||twineapp.com^
 ||twinehr.com^
 ||twitterfav.com^
-||uk-facebook.blogspot.com^
 ||updata.net.cn^
+||update-subscription-netflix.com^
 ||usacrazyseller.com^
 ||usdt-trustwallet-blockchain.vercel.app^
 ||uspsaunitedworkforce.com^
@@ -783,7 +772,6 @@
 ||vi-facebook.blogspot.com^
 ||viewclass.com^
 ||vitvasconcelos.github.io^
-||vn-facebook.blogspot.com^
 ||vodafone-on-line.it^
 ||vodafoneelevation.de^
 ||vpn-update.org^
@@ -804,6 +792,7 @@
 ||whatsapp-indonesia877.blogspot.com^
 ||whatsapp-report.com^
 ||whatsapp-verify.blogspot.com^
+||whatsapp8.cyou^
 ||whatsappapk.org^
 ||whatsappbrnoticias.blogspot.com^
 ||whatsappcampaign.online^
@@ -814,7 +803,6 @@
 ||whatsappzoeiras.blogspot.com^
 ||windows-ledger-live.typedream.app^
 ||wooflers.com^
-||ww-facebook.blogspot.com^
 ||www-app-google.com^
 ||www-google.cn^
 ||www-hk-google.com^
