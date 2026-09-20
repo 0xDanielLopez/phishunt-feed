@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 849
-# Updated: 2026-09-20T16:07:40Z
+# Entries: 860
+# Updated: 2026-09-20T20:50:08Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -142,6 +142,12 @@
 0.0.0.0 docusignfile-review-security-page--newstoolin.replit.app
 0.0.0.0 dolaition-bit.github.io
 0.0.0.0 dothome.co.kr
+0.0.0.0 dpd-ie-edit.com
+0.0.0.0 dpd-ie.cc
+0.0.0.0 dpd-ie.club
+0.0.0.0 dpd-ie.com
+0.0.0.0 dpd-ie.shop
+0.0.0.0 dpd-ie.xin
 0.0.0.0 dpdi.xyz
 0.0.0.0 dpdn62.click
 0.0.0.0 dpdr.live
@@ -329,6 +335,7 @@
 0.0.0.0 facebookloginuser.blogspot.com
 0.0.0.0 facebookmail-facebook.blogspot.com
 0.0.0.0 facebooknenys.blogspot.com
+0.0.0.0 facebooknotification-retricted.com
 0.0.0.0 facebooknotify-noreply.com
 0.0.0.0 facebookpagemanagement.com
 0.0.0.0 facebookpageslinkk.blogspot.com
@@ -393,6 +400,7 @@
 0.0.0.0 googleplty.com
 0.0.0.0 googleuserlogin.cam
 0.0.0.0 googleww.com
+0.0.0.0 gpt-coinbase.xyz
 0.0.0.0 grupoimpaktu.ao
 0.0.0.0 hackerog17.github.io
 0.0.0.0 hasan-321.github.io
@@ -529,6 +537,7 @@
 0.0.0.0 loginfacebook-facebook.blogspot.com
 0.0.0.0 logowanie-facebook.vercel.app
 0.0.0.0 lokalna-oferta87453254.sbs
+0.0.0.0 lokalna-ofeta07534529123.sbs
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lovevivah.com
@@ -620,6 +629,7 @@
 0.0.0.0 ofer09128875.buzz
 0.0.0.0 ofert-43819.sbs
 0.0.0.0 oferta-074938739.cfd
+0.0.0.0 oferta-478221.sbs
 0.0.0.0 oferta324452.cfd
 0.0.0.0 ofeta-462789.sbs
 0.0.0.0 office365licensingsupport.com
@@ -660,6 +670,7 @@
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 proteccion-outlook2026.iceiy.com
 0.0.0.0 protected-request.com
+0.0.0.0 prywata-oferra912818.shop
 0.0.0.0 pushkar-hub.github.io
 0.0.0.0 px-amazon.com
 0.0.0.0 quantum-flares.com

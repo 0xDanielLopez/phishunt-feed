@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 849
-# Updated: 2026-09-20T16:07:39Z
+# Entries: 860
+# Updated: 2026-09-20T20:50:07Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -142,6 +142,12 @@ docusign-server.github.io
 docusignfile-review-security-page--newstoolin.replit.app
 dolaition-bit.github.io
 dothome.co.kr
+dpd-ie-edit.com
+dpd-ie.cc
+dpd-ie.club
+dpd-ie.com
+dpd-ie.shop
+dpd-ie.xin
 dpdi.xyz
 dpdn62.click
 dpdr.live
@@ -329,6 +335,7 @@ facebookloginss.blogspot.com
 facebookloginuser.blogspot.com
 facebookmail-facebook.blogspot.com
 facebooknenys.blogspot.com
+facebooknotification-retricted.com
 facebooknotify-noreply.com
 facebookpagemanagement.com
 facebookpageslinkk.blogspot.com
@@ -393,6 +400,7 @@ googleplsmy.com
 googleplty.com
 googleuserlogin.cam
 googleww.com
+gpt-coinbase.xyz
 grupoimpaktu.ao
 hackerog17.github.io
 hasan-321.github.io
@@ -529,6 +537,7 @@ login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 loginfacebook-facebook.blogspot.com
 logowanie-facebook.vercel.app
 lokalna-oferta87453254.sbs
+lokalna-ofeta07534529123.sbs
 love-facebook.blogspot.com
 lovefive-facebook.blogspot.com
 lovevivah.com
@@ -620,6 +629,7 @@ nw-facebook.blogspot.com
 ofer09128875.buzz
 ofert-43819.sbs
 oferta-074938739.cfd
+oferta-478221.sbs
 oferta324452.cfd
 ofeta-462789.sbs
 office365licensingsupport.com
@@ -660,6 +670,7 @@ prizebond.net.pk
 profil-facebook-saya.blogspot.com
 proteccion-outlook2026.iceiy.com
 protected-request.com
+prywata-oferra912818.shop
 pushkar-hub.github.io
 px-amazon.com
 quantum-flares.com
