@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 838
-# Updated: 2026-09-20T04:54:47Z
+# Entries: 844
+# Updated: 2026-09-20T11:25:37Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -9,12 +9,14 @@
 0.0.0.0 01felipeaugusto-star.github.io
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 12300120h9j8ji.buzz
+0.0.0.0 1230120h85.buzz
 0.0.0.0 131200h88.buzz
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
 0.0.0.0 393bet-facebook.sa.com
+0.0.0.0 7418541.cfd
 0.0.0.0 76424.top
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
@@ -393,6 +395,7 @@
 0.0.0.0 hasan-321.github.io
 0.0.0.0 hashnode.dev
 0.0.0.0 hasyimf.github.io
+0.0.0.0 healthassistcarepro.com
 0.0.0.0 hellenvicente.github.io
 0.0.0.0 help-instagram.blogspot.com
 0.0.0.0 hofmemorabilia.ebaymclaren-austin.eventshouse.app
@@ -507,6 +510,7 @@
 0.0.0.0 ledgrelivapp--crome.typedream.app
 0.0.0.0 leia-santander.vercel.app
 0.0.0.0 lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
+0.0.0.0 lobologisticgroup.com.mx
 0.0.0.0 lobster-cloud.com
 0.0.0.0 login-facebook-facebook.blogspot.com
 0.0.0.0 login-facebookaccount.blogspot.com
@@ -606,8 +610,10 @@
 0.0.0.0 news-revolut.com
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
+0.0.0.0 ofer09128875.buzz
 0.0.0.0 ofert-43819.sbs
 0.0.0.0 oferta-074938739.cfd
+0.0.0.0 oferta198273129.cfd
 0.0.0.0 oferta324452.cfd
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 office365mail.com
@@ -674,7 +680,6 @@
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.hr
 0.0.0.0 roblox.com.kz
-0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 robloxc.com.es
@@ -694,6 +699,7 @@
 0.0.0.0 secure-dropbox.ist
 0.0.0.0 securedsupport-coinbase.com
 0.0.0.0 secutury-facebook.blogspot.com
+0.0.0.0 semuanya-punya-google.pages.dev
 0.0.0.0 send-secure-trustwallet-usdt-bip20.vercel.app
 0.0.0.0 services-facebook.blogspot.com
 0.0.0.0 seureonline.shop

@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 838
-! Updated: 2026-09-20T04:54:48Z
+! Entries: 844
+! Updated: 2026-09-20T11:25:38Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -9,12 +9,14 @@
 ||01felipeaugusto-star.github.io^
 ||123-facebook.blogspot.com^
 ||12300120h9j8ji.buzz^
+||1230120h85.buzz^
 ||131200h88.buzz^
 ||190842-coinbase.com^
 ||2017-facebook.blogspot.com^
 ||283674-coinbase.com^
 ||286364-coinbase.com^
 ||393bet-facebook.sa.com^
+||7418541.cfd^
 ||76424.top^
 ||a1-kraken.com^
 ||a2zapk.co^
@@ -393,6 +395,7 @@
 ||hasan-321.github.io^
 ||hashnode.dev^
 ||hasyimf.github.io^
+||healthassistcarepro.com^
 ||hellenvicente.github.io^
 ||help-instagram.blogspot.com^
 ||hofmemorabilia.ebaymclaren-austin.eventshouse.app^
@@ -507,6 +510,7 @@
 ||ledgrelivapp--crome.typedream.app^
 ||leia-santander.vercel.app^
 ||lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org^
+||lobologisticgroup.com.mx^
 ||lobster-cloud.com^
 ||login-facebook-facebook.blogspot.com^
 ||login-facebookaccount.blogspot.com^
@@ -606,8 +610,10 @@
 ||news-revolut.com^
 ||noreply-icloud.app^
 ||nw-facebook.blogspot.com^
+||ofer09128875.buzz^
 ||ofert-43819.sbs^
 ||oferta-074938739.cfd^
+||oferta198273129.cfd^
 ||oferta324452.cfd^
 ||office365licensingsupport.com^
 ||office365mail.com^
@@ -674,7 +680,6 @@
 ||roblox.com.gr^
 ||roblox.com.hr^
 ||roblox.com.kz^
-||roblox.com.ml^
 ||roblox.com.mu^
 ||roblox.com.pt^
 ||robloxc.com.es^
@@ -694,6 +699,7 @@
 ||secure-dropbox.ist^
 ||securedsupport-coinbase.com^
 ||secutury-facebook.blogspot.com^
+||semuanya-punya-google.pages.dev^
 ||send-secure-trustwallet-usdt-bip20.vercel.app^
 ||services-facebook.blogspot.com^
 ||seureonline.shop^
