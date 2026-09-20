@@ -1,14 +1,15 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 840
-! Updated: 2026-09-19T20:41:35Z
+! Entries: 838
+! Updated: 2026-09-20T04:54:48Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
 ! Community-reported phishing domains. Use at your own risk.
 
-||012398h8.forum^
 ||01felipeaugusto-star.github.io^
 ||123-facebook.blogspot.com^
+||12300120h9j8ji.buzz^
+||131200h88.buzz^
 ||190842-coinbase.com^
 ||2017-facebook.blogspot.com^
 ||283674-coinbase.com^
@@ -60,7 +61,6 @@
 ||avlinfo.in^
 ||axm-amazon.com^
 ||aziizmusyafa18.github.io^
-||bankofamerica-login-verify-id23.ph^
 ||bankofamerica-uscom.vercel.app^
 ||bankofamericamailcompte.blogspot.com^
 ||barcelona-facebook.blogspot.com^
@@ -104,7 +104,6 @@
 ||click-facebook.blogspot.com^
 ||clon-facebook.vercel.app^
 ||cloudclusters.net^
-||cn-byte-whatsapp.com.cn^
 ||cn-gui-whatsapp.com.cn^
 ||cn-spotify.cn^
 ||coinbase-event.vercel.app^
@@ -121,6 +120,7 @@
 ||comcastseettings.weebly.com^
 ||comcastsurvey.weebly.com^
 ||connect-xfinity-log.weebly.com^
+||contabostorage.com^
 ||correoscri.cc^
 ||correosiicr.cc^
 ||ct.ws^
@@ -173,6 +173,7 @@
 ||facebook-0-facebook.blogspot.com^
 ||facebook-2-0-dun.vercel.app^
 ||facebook-2022.blogspot.com^
+||facebook-2025.blogspot.com^
 ||facebook-22.blogspot.com^
 ||facebook-247-support.blogspot.com^
 ||facebook-5645464.blogspot.com^
@@ -347,7 +348,6 @@
 ||fedexinterviewprep.com^
 ||file-whatsappn.hl.cn^
 ||fmello2002.github.io^
-||fmi-icloud.pro^
 ||forsakens-crew-teman-facebook.blogspot.com^
 ||foryour.review^
 ||fr-spotify.com^
@@ -494,6 +494,7 @@
 ||kraken-tor.co.com^
 ||kucoin-referral-code-pt.vercel.app^
 ||kucoin9.com^
+||kucoinloginaa.gitbook.io^
 ||kucoinloign.gitbook.io^
 ||kucoinv.com^
 ||lateinos.com.br^
@@ -578,7 +579,6 @@
 ||munimventures.com^
 ||muzamilmeerdev.github.io^
 ||my-facebook-blog.blogspot.com^
-||my-walletfix-id-apple.com^
 ||mytemp.website^
 ||nbpublic.com^
 ||neda-facebook.blogspot.com^
@@ -609,9 +609,6 @@
 ||ofert-43819.sbs^
 ||oferta-074938739.cfd^
 ||oferta324452.cfd^
-||oferta91821928912.cfd^
-||ofertaa848295327520.cfd^
-||office-share-microsoft.com^
 ||office365licensingsupport.com^
 ||office365mail.com^
 ||online-facebook-privacy.blogspot.com^
@@ -648,7 +645,6 @@
 ||premio-instagram.com^
 ||prizebond.net.pk^
 ||profil-facebook-saya.blogspot.com^
-||programgridsoft.com^
 ||proteccion-outlook2026.iceiy.com^
 ||protected-request.com^
 ||pushkar-hub.github.io^
@@ -737,12 +733,13 @@
 ||tecniplast.com.gt^
 ||temporary.site^
 ||test-facebook.blogspot.com^
+||tewo23923.buzz^
 ||therelayservice.com^
+||thomas-coinbase.com^
 ||tirzahollenhorst.com^
 ||todo--facebook.blogspot.com^
 ||tottattoo.com^
 ||trackingnumbers.org^
-||trexor-io-start-home.pages.dev^
 ||trezor-login-us-auth-start.typedream.app^
 ||trezorguide.vercel.app^
 ||troubleshoots-google.com^
@@ -784,6 +781,7 @@
 ||web-spotify.cn^
 ||web-trezor-io-start-us.vercel.app^
 ||webaccess-alert.com^
+||webador.com^
 ||webstore.vn^
 ||weeblysite.com^
 ||wellsfargo-worl.vercel.app^
@@ -792,7 +790,6 @@
 ||whatsapp-indonesia877.blogspot.com^
 ||whatsapp-report.com^
 ||whatsapp-verify.blogspot.com^
-||whatsapp8.cyou^
 ||whatsappapk.org^
 ||whatsappbrnoticias.blogspot.com^
 ||whatsappcampaign.online^
@@ -837,6 +834,7 @@
 ||xfinitywindowfilms.com^
 ||yagomouro.github.io^
 ||yapla.com^
+||yogufile.shop^
 ||yonataxi.at^
 ||yordyguarnizodev-hub.github.io^
 ||yzz.me^

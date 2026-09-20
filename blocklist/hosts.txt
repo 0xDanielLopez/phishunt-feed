@@ -1,14 +1,15 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 840
-# Updated: 2026-09-19T20:41:34Z
+# Entries: 838
+# Updated: 2026-09-20T04:54:47Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
-0.0.0.0 012398h8.forum
 0.0.0.0 01felipeaugusto-star.github.io
 0.0.0.0 123-facebook.blogspot.com
+0.0.0.0 12300120h9j8ji.buzz
+0.0.0.0 131200h88.buzz
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 283674-coinbase.com
@@ -60,7 +61,6 @@
 0.0.0.0 avlinfo.in
 0.0.0.0 axm-amazon.com
 0.0.0.0 aziizmusyafa18.github.io
-0.0.0.0 bankofamerica-login-verify-id23.ph
 0.0.0.0 bankofamerica-uscom.vercel.app
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 barcelona-facebook.blogspot.com
@@ -104,7 +104,6 @@
 0.0.0.0 click-facebook.blogspot.com
 0.0.0.0 clon-facebook.vercel.app
 0.0.0.0 cloudclusters.net
-0.0.0.0 cn-byte-whatsapp.com.cn
 0.0.0.0 cn-gui-whatsapp.com.cn
 0.0.0.0 cn-spotify.cn
 0.0.0.0 coinbase-event.vercel.app
@@ -121,6 +120,7 @@
 0.0.0.0 comcastseettings.weebly.com
 0.0.0.0 comcastsurvey.weebly.com
 0.0.0.0 connect-xfinity-log.weebly.com
+0.0.0.0 contabostorage.com
 0.0.0.0 correoscri.cc
 0.0.0.0 correosiicr.cc
 0.0.0.0 ct.ws
@@ -173,6 +173,7 @@
 0.0.0.0 facebook-0-facebook.blogspot.com
 0.0.0.0 facebook-2-0-dun.vercel.app
 0.0.0.0 facebook-2022.blogspot.com
+0.0.0.0 facebook-2025.blogspot.com
 0.0.0.0 facebook-22.blogspot.com
 0.0.0.0 facebook-247-support.blogspot.com
 0.0.0.0 facebook-5645464.blogspot.com
@@ -347,7 +348,6 @@
 0.0.0.0 fedexinterviewprep.com
 0.0.0.0 file-whatsappn.hl.cn
 0.0.0.0 fmello2002.github.io
-0.0.0.0 fmi-icloud.pro
 0.0.0.0 forsakens-crew-teman-facebook.blogspot.com
 0.0.0.0 foryour.review
 0.0.0.0 fr-spotify.com
@@ -494,6 +494,7 @@
 0.0.0.0 kraken-tor.co.com
 0.0.0.0 kucoin-referral-code-pt.vercel.app
 0.0.0.0 kucoin9.com
+0.0.0.0 kucoinloginaa.gitbook.io
 0.0.0.0 kucoinloign.gitbook.io
 0.0.0.0 kucoinv.com
 0.0.0.0 lateinos.com.br
@@ -578,7 +579,6 @@
 0.0.0.0 munimventures.com
 0.0.0.0 muzamilmeerdev.github.io
 0.0.0.0 my-facebook-blog.blogspot.com
-0.0.0.0 my-walletfix-id-apple.com
 0.0.0.0 mytemp.website
 0.0.0.0 nbpublic.com
 0.0.0.0 neda-facebook.blogspot.com
@@ -609,9 +609,6 @@
 0.0.0.0 ofert-43819.sbs
 0.0.0.0 oferta-074938739.cfd
 0.0.0.0 oferta324452.cfd
-0.0.0.0 oferta91821928912.cfd
-0.0.0.0 ofertaa848295327520.cfd
-0.0.0.0 office-share-microsoft.com
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 office365mail.com
 0.0.0.0 online-facebook-privacy.blogspot.com
@@ -648,7 +645,6 @@
 0.0.0.0 premio-instagram.com
 0.0.0.0 prizebond.net.pk
 0.0.0.0 profil-facebook-saya.blogspot.com
-0.0.0.0 programgridsoft.com
 0.0.0.0 proteccion-outlook2026.iceiy.com
 0.0.0.0 protected-request.com
 0.0.0.0 pushkar-hub.github.io
@@ -737,12 +733,13 @@
 0.0.0.0 tecniplast.com.gt
 0.0.0.0 temporary.site
 0.0.0.0 test-facebook.blogspot.com
+0.0.0.0 tewo23923.buzz
 0.0.0.0 therelayservice.com
+0.0.0.0 thomas-coinbase.com
 0.0.0.0 tirzahollenhorst.com
 0.0.0.0 todo--facebook.blogspot.com
 0.0.0.0 tottattoo.com
 0.0.0.0 trackingnumbers.org
-0.0.0.0 trexor-io-start-home.pages.dev
 0.0.0.0 trezor-login-us-auth-start.typedream.app
 0.0.0.0 trezorguide.vercel.app
 0.0.0.0 troubleshoots-google.com
@@ -784,6 +781,7 @@
 0.0.0.0 web-spotify.cn
 0.0.0.0 web-trezor-io-start-us.vercel.app
 0.0.0.0 webaccess-alert.com
+0.0.0.0 webador.com
 0.0.0.0 webstore.vn
 0.0.0.0 weeblysite.com
 0.0.0.0 wellsfargo-worl.vercel.app
@@ -792,7 +790,6 @@
 0.0.0.0 whatsapp-indonesia877.blogspot.com
 0.0.0.0 whatsapp-report.com
 0.0.0.0 whatsapp-verify.blogspot.com
-0.0.0.0 whatsapp8.cyou
 0.0.0.0 whatsappapk.org
 0.0.0.0 whatsappbrnoticias.blogspot.com
 0.0.0.0 whatsappcampaign.online
@@ -837,6 +834,7 @@
 0.0.0.0 xfinitywindowfilms.com
 0.0.0.0 yagomouro.github.io
 0.0.0.0 yapla.com
+0.0.0.0 yogufile.shop
 0.0.0.0 yonataxi.at
 0.0.0.0 yordyguarnizodev-hub.github.io
 0.0.0.0 yzz.me
