@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 844
-# Updated: 2026-09-20T11:25:36Z
+# Entries: 849
+# Updated: 2026-09-20T16:07:39Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -18,6 +18,7 @@
 393bet-facebook.sa.com
 7418541.cfd
 76424.top
+979217.com
 a1-kraken.com
 a2zapk.co
 a2zapk.dev
@@ -43,6 +44,7 @@ amazon-web-inspired.vercel.app
 americanexpresspop.com
 amirrhasanpor0915-pixel.github.io
 amjadraza19.github.io
+androidguias.com
 ani-facebook.blogspot.com
 annulation-amazon.com
 anoopsamazon.vercel.app
@@ -136,6 +138,7 @@ dir.com.my
 dj-facebook.blogspot.com
 docs-google.com
 docs-trezor-app.pages.dev
+docusign-server.github.io
 docusignfile-review-security-page--newstoolin.replit.app
 dolaition-bit.github.io
 dothome.co.kr
@@ -410,6 +413,7 @@ hsbccpersonalonlinebanking.com
 hsbcpress.com
 hsbctds.com
 hstn.me
+htttps-www-roblox.co
 iberdrolatrade.com
 icloud-asisten-official.com
 icloudnotify.help
@@ -437,6 +441,7 @@ instagram-instagram.blogspot.com
 instagram-jennifer.blogspot.com
 instagram-login-page-theta.vercel.app
 instagram-login-page-two.vercel.app
+instagram-login-support.vercel.app
 instagram-login-user.blogspot.com
 instagram-mu-rosy.vercel.app
 instagram-one-alpha.vercel.app
@@ -450,6 +455,7 @@ instagram-tip.blogspot.com
 instagram-users.blogspot.com
 instagram-usman-haider.vercel.app
 instagram-verifications.blogspot.com
+instagram-visualizza-post.info
 instagram90sedition.vercel.app
 instagramaaps-code.github.io
 instagramaccount.info
@@ -502,6 +508,7 @@ kucoinloign.gitbook.io
 kucoinv.com
 lateinos.com.br
 ledger-live-application.com
+ledger-live-downlloadd.blogspot.com
 ledger-live-download-sso-conect.typedream.app
 ledger-live-login-web.square.site
 ledger-live-wallet-start-conect-us-en.typedream.app
@@ -613,8 +620,8 @@ nw-facebook.blogspot.com
 ofer09128875.buzz
 ofert-43819.sbs
 oferta-074938739.cfd
-oferta198273129.cfd
 oferta324452.cfd
+ofeta-462789.sbs
 office365licensingsupport.com
 office365mail.com
 online-facebook-privacy.blogspot.com
@@ -660,7 +667,6 @@ r-facebook.blogspot.com
 rafaelmdsouza.github.io
 raj24k.github.io
 rama-facebook.blogspot.com
-rberthelette.com
 reactivar-microsoft-live.iceiy.com
 real-facebook.blogspot.com
 rec-netflix.com
@@ -699,7 +705,6 @@ saventureinfratech234-boop.github.io
 secure-dropbox.ist
 securedsupport-coinbase.com
 secutury-facebook.blogspot.com
-semuanya-punya-google.pages.dev
 send-secure-trustwallet-usdt-bip20.vercel.app
 services-facebook.blogspot.com
 seureonline.shop
@@ -728,6 +733,7 @@ sugar-outlook.com
 support-instagram.github.io
 support-ledgrcom-start-web.typedream.app
 support-netflix-signup.info
+synel99.github.io
 t54632-kraken.com
 tamires-ramos.github.io
 tanish-ashu.github.io
@@ -735,7 +741,6 @@ tanishq98714.github.io
 tara-facebook.blogspot.com
 taslimaenterprise.com
 tb-facebook.blogspot.com
-tecnicorevolut.info
 tecniplast.com.gt
 temporary.site
 test-facebook.blogspot.com

@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 844
-# Updated: 2026-09-20T11:25:37Z
+# Entries: 849
+# Updated: 2026-09-20T16:07:40Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -18,6 +18,7 @@
 0.0.0.0 393bet-facebook.sa.com
 0.0.0.0 7418541.cfd
 0.0.0.0 76424.top
+0.0.0.0 979217.com
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
@@ -43,6 +44,7 @@
 0.0.0.0 americanexpresspop.com
 0.0.0.0 amirrhasanpor0915-pixel.github.io
 0.0.0.0 amjadraza19.github.io
+0.0.0.0 androidguias.com
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 annulation-amazon.com
 0.0.0.0 anoopsamazon.vercel.app
@@ -136,6 +138,7 @@
 0.0.0.0 dj-facebook.blogspot.com
 0.0.0.0 docs-google.com
 0.0.0.0 docs-trezor-app.pages.dev
+0.0.0.0 docusign-server.github.io
 0.0.0.0 docusignfile-review-security-page--newstoolin.replit.app
 0.0.0.0 dolaition-bit.github.io
 0.0.0.0 dothome.co.kr
@@ -410,6 +413,7 @@
 0.0.0.0 hsbcpress.com
 0.0.0.0 hsbctds.com
 0.0.0.0 hstn.me
+0.0.0.0 htttps-www-roblox.co
 0.0.0.0 iberdrolatrade.com
 0.0.0.0 icloud-asisten-official.com
 0.0.0.0 icloudnotify.help
@@ -437,6 +441,7 @@
 0.0.0.0 instagram-jennifer.blogspot.com
 0.0.0.0 instagram-login-page-theta.vercel.app
 0.0.0.0 instagram-login-page-two.vercel.app
+0.0.0.0 instagram-login-support.vercel.app
 0.0.0.0 instagram-login-user.blogspot.com
 0.0.0.0 instagram-mu-rosy.vercel.app
 0.0.0.0 instagram-one-alpha.vercel.app
@@ -450,6 +455,7 @@
 0.0.0.0 instagram-users.blogspot.com
 0.0.0.0 instagram-usman-haider.vercel.app
 0.0.0.0 instagram-verifications.blogspot.com
+0.0.0.0 instagram-visualizza-post.info
 0.0.0.0 instagram90sedition.vercel.app
 0.0.0.0 instagramaaps-code.github.io
 0.0.0.0 instagramaccount.info
@@ -502,6 +508,7 @@
 0.0.0.0 kucoinv.com
 0.0.0.0 lateinos.com.br
 0.0.0.0 ledger-live-application.com
+0.0.0.0 ledger-live-downlloadd.blogspot.com
 0.0.0.0 ledger-live-download-sso-conect.typedream.app
 0.0.0.0 ledger-live-login-web.square.site
 0.0.0.0 ledger-live-wallet-start-conect-us-en.typedream.app
@@ -613,8 +620,8 @@
 0.0.0.0 ofer09128875.buzz
 0.0.0.0 ofert-43819.sbs
 0.0.0.0 oferta-074938739.cfd
-0.0.0.0 oferta198273129.cfd
 0.0.0.0 oferta324452.cfd
+0.0.0.0 ofeta-462789.sbs
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 office365mail.com
 0.0.0.0 online-facebook-privacy.blogspot.com
@@ -660,7 +667,6 @@
 0.0.0.0 rafaelmdsouza.github.io
 0.0.0.0 raj24k.github.io
 0.0.0.0 rama-facebook.blogspot.com
-0.0.0.0 rberthelette.com
 0.0.0.0 reactivar-microsoft-live.iceiy.com
 0.0.0.0 real-facebook.blogspot.com
 0.0.0.0 rec-netflix.com
@@ -699,7 +705,6 @@
 0.0.0.0 secure-dropbox.ist
 0.0.0.0 securedsupport-coinbase.com
 0.0.0.0 secutury-facebook.blogspot.com
-0.0.0.0 semuanya-punya-google.pages.dev
 0.0.0.0 send-secure-trustwallet-usdt-bip20.vercel.app
 0.0.0.0 services-facebook.blogspot.com
 0.0.0.0 seureonline.shop
@@ -728,6 +733,7 @@
 0.0.0.0 support-instagram.github.io
 0.0.0.0 support-ledgrcom-start-web.typedream.app
 0.0.0.0 support-netflix-signup.info
+0.0.0.0 synel99.github.io
 0.0.0.0 t54632-kraken.com
 0.0.0.0 tamires-ramos.github.io
 0.0.0.0 tanish-ashu.github.io
@@ -735,7 +741,6 @@
 0.0.0.0 tara-facebook.blogspot.com
 0.0.0.0 taslimaenterprise.com
 0.0.0.0 tb-facebook.blogspot.com
-0.0.0.0 tecnicorevolut.info
 0.0.0.0 tecniplast.com.gt
 0.0.0.0 temporary.site
 0.0.0.0 test-facebook.blogspot.com
