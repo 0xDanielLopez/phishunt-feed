@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 836
-# Updated: 2026-09-21T12:49:56Z
+# Entries: 827
+# Updated: 2026-09-21T21:59:15Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -8,15 +8,12 @@
 
 0.0.0.0 01felipeaugusto-star.github.io
 0.0.0.0 123-facebook.blogspot.com
-0.0.0.0 1230g59h45g54.forum
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
 0.0.0.0 393bet-facebook.sa.com
 0.0.0.0 4923493-coinbase.com
-0.0.0.0 7418541.cfd
-0.0.0.0 979217.com
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
@@ -25,6 +22,7 @@
 0.0.0.0 account-instagram.vercel.app
 0.0.0.0 adobeforbusiness.com
 0.0.0.0 ahmadhussain99.github.io
+0.0.0.0 aidenpiearce.github.io
 0.0.0.0 aishwarya-rathore.github.io
 0.0.0.0 alibaba188.org
 0.0.0.0 alibaba66.co
@@ -45,7 +43,6 @@
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 annulation-amazon.com
 0.0.0.0 anoopsamazon.vercel.app
-0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-exodusweb.pages.dev
@@ -56,7 +53,6 @@
 0.0.0.0 armankhan-12.github.io
 0.0.0.0 assign-icloud.com
 0.0.0.0 asso-entrautres.fr
-0.0.0.0 attmailpatchpsi.workers.dev
 0.0.0.0 authorised-support.com
 0.0.0.0 avaturefed.net
 0.0.0.0 avlinfo.in
@@ -94,6 +90,7 @@
 0.0.0.0 business-dropbox.me
 0.0.0.0 c-binance.github.io
 0.0.0.0 cardpaysecurity.org
+0.0.0.0 carsscanned.ebaymclaren-austin.eventshouse.app
 0.0.0.0 case-binance.us
 0.0.0.0 cashapp-liart.vercel.app
 0.0.0.0 cashappps.com
@@ -121,6 +118,8 @@
 0.0.0.0 comcastnetmail.weebly.com
 0.0.0.0 comcastseettings.weebly.com
 0.0.0.0 comcastsurvey.weebly.com
+0.0.0.0 comcastwebmailuser.weebly.com
+0.0.0.0 contentstack.com
 0.0.0.0 correosccl.cc
 0.0.0.0 correoscri.cc
 0.0.0.0 correosiicr.cc
@@ -140,11 +139,6 @@
 0.0.0.0 dolaition-bit.github.io
 0.0.0.0 dothome.co.kr
 0.0.0.0 dpd-ie-edit.com
-0.0.0.0 dpd-ie.cc
-0.0.0.0 dpd-ie.club
-0.0.0.0 dpd-ie.com
-0.0.0.0 dpd-ie.ink
-0.0.0.0 dpd-ie.shop
 0.0.0.0 dpd-ie.xin
 0.0.0.0 dpdi.xyz
 0.0.0.0 dpdn62.click
@@ -155,9 +149,9 @@
 0.0.0.0 dummy-homepage-instagram.vercel.app
 0.0.0.0 ebay-app.com
 0.0.0.0 ebay-c.com
+0.0.0.0 ebay-dru.org
 0.0.0.0 ebay-phone-number.blogspot.com
 0.0.0.0 ebay-seller-center-managedpayments.vercel.app
-0.0.0.0 ebay-wholesale.com
 0.0.0.0 ebaymclaren-austin.eventshouse.app
 0.0.0.0 ebaymevip.com
 0.0.0.0 ebaymotorspro.co.uk
@@ -261,6 +255,7 @@
 0.0.0.0 facebook-seks-27.blogspot.com
 0.0.0.0 facebook-seks-30.blogspot.com
 0.0.0.0 facebook-seks-32.blogspot.com
+0.0.0.0 facebook-seks-40.blogspot.com
 0.0.0.0 facebook-seks-44.blogspot.com
 0.0.0.0 facebook-seks-45.blogspot.com
 0.0.0.0 facebook-services-login.blogspot.com
@@ -332,7 +327,6 @@
 0.0.0.0 facebookloginuser.blogspot.com
 0.0.0.0 facebookmail-facebook.blogspot.com
 0.0.0.0 facebooknenys.blogspot.com
-0.0.0.0 facebooknotify-noreply.com
 0.0.0.0 facebookpagemanagement.com
 0.0.0.0 facebookpageslinkk.blogspot.com
 0.0.0.0 facebookprofilelinks.blogspot.com
@@ -354,6 +348,7 @@
 0.0.0.0 fedex-olive.vercel.app
 0.0.0.0 fedexbeta.com
 0.0.0.0 fedexinterviewprep.com
+0.0.0.0 fedexs.vip
 0.0.0.0 file-whatsappn.hl.cn
 0.0.0.0 fmello2002.github.io
 0.0.0.0 forsakens-crew-teman-facebook.blogspot.com
@@ -382,7 +377,6 @@
 0.0.0.0 googleoa.com
 0.0.0.0 googlepartners.net
 0.0.0.0 googlepemy.com
-0.0.0.0 googlepepy.com
 0.0.0.0 googleplaety.com
 0.0.0.0 googleplaiby.com
 0.0.0.0 googleplaydown.com
@@ -499,6 +493,7 @@
 0.0.0.0 kucoin-referral-code-pt.vercel.app
 0.0.0.0 kucoin9.com
 0.0.0.0 kucoinloginaa.gitbook.io
+0.0.0.0 kucoinloginab.gitbook.io
 0.0.0.0 kucoinloign.gitbook.io
 0.0.0.0 kucoinv.com
 0.0.0.0 lateinos.com.br
@@ -523,8 +518,6 @@
 0.0.0.0 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 0.0.0.0 loginfacebook-facebook.blogspot.com
 0.0.0.0 logowanie-facebook.vercel.app
-0.0.0.0 lokala-ofera812819921.shop
-0.0.0.0 lokalna-oferta87453254.sbs
 0.0.0.0 lokalna-ofeta07534529123.sbs
 0.0.0.0 lokalna-ofeta562356886.sbs
 0.0.0.0 love-facebook.blogspot.com
@@ -557,7 +550,6 @@
 0.0.0.0 metamask-web.vercel.app
 0.0.0.0 metamask.github.io
 0.0.0.0 metamask2-eight.vercel.app
-0.0.0.0 metamask88.com
 0.0.0.0 metamaskcasino.de
 0.0.0.0 metamaskchromeextensionn.blogspot.com
 0.0.0.0 metamaskextensionnn.gitbook.io
@@ -587,7 +579,6 @@
 0.0.0.0 munimventures.com
 0.0.0.0 muzamilmeerdev.github.io
 0.0.0.0 my-facebook-blog.blogspot.com
-0.0.0.0 mycsskundapp.com
 0.0.0.0 mytemp.website
 0.0.0.0 nbpublic.com
 0.0.0.0 neda-facebook.blogspot.com
@@ -615,10 +606,9 @@
 0.0.0.0 news-revolut.com
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
-0.0.0.0 ofert-43819.sbs
-0.0.0.0 oferta-074938739.cfd
 0.0.0.0 oferta-478221.sbs
-0.0.0.0 oferta324452.cfd
+0.0.0.0 oferta94759302.cfd
+0.0.0.0 ofertaa948290358520643.cfd
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 office365mail.com
 0.0.0.0 online-facebook-privacy.blogspot.com
@@ -637,7 +627,6 @@
 0.0.0.0 page-instagram.vercel.app
 0.0.0.0 patelrudra.in
 0.0.0.0 paykmc.com
-0.0.0.0 paymob.shop
 0.0.0.0 paypal-logiin.blogspot.com
 0.0.0.0 paypal-password.blogspot.com
 0.0.0.0 paypal-pay.com
@@ -650,12 +639,12 @@
 0.0.0.0 pc-spotify.cn
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 pl-oferta58296379.shop
+0.0.0.0 pl-ogloszenie7892293811.top
 0.0.0.0 prajwalkuchewar.github.io
 0.0.0.0 premio-instagram.com
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 proteccion-outlook2026.iceiy.com
 0.0.0.0 protected-request.com
-0.0.0.0 prywata-oferra912818.shop
 0.0.0.0 pushkar-hub.github.io
 0.0.0.0 px-amazon.com
 0.0.0.0 quantum-flares.com
@@ -678,10 +667,9 @@
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bo
 0.0.0.0 roblox.com.bz
-0.0.0.0 roblox.com.do
 0.0.0.0 roblox.com.gr
-0.0.0.0 roblox.com.hr
 0.0.0.0 roblox.com.kz
+0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 rricrosoft-offices.org
@@ -724,17 +712,18 @@
 0.0.0.0 steuerquimica.cl
 0.0.0.0 su-facebook.blogspot.com
 0.0.0.0 sugar-outlook.com
+0.0.0.0 sumit8399.github.io
 0.0.0.0 support-instagram.github.io
 0.0.0.0 support-ledgrcom-start-web.typedream.app
 0.0.0.0 support-netflix-signup.info
 0.0.0.0 synel99.github.io
+0.0.0.0 take-coinbase.com
 0.0.0.0 tamires-ramos.github.io
 0.0.0.0 tanish-ashu.github.io
 0.0.0.0 tanishq98714.github.io
 0.0.0.0 tara-facebook.blogspot.com
 0.0.0.0 taslimaenterprise.com
 0.0.0.0 tb-facebook.blogspot.com
-0.0.0.0 tecniplast.com.gt
 0.0.0.0 temporary.site
 0.0.0.0 test-facebook.blogspot.com
 0.0.0.0 therelayservice.com
@@ -786,6 +775,7 @@
 0.0.0.0 webstore.vn
 0.0.0.0 weeblysite.com
 0.0.0.0 wellsfargo-worl.vercel.app
+0.0.0.0 welxcufils.com.ng
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-iamsuyash.vercel.app
 0.0.0.0 whatsapp-indonesia877.blogspot.com
@@ -813,6 +803,7 @@
 0.0.0.0 xfinity-updateform.square.site
 0.0.0.0 xfinity-updateform.weebly.com
 0.0.0.0 xfinity001.weebly.com
+0.0.0.0 xfinity003.weebly.com
 0.0.0.0 xfinity009.weebly.com
 0.0.0.0 xfinity2.vercel.app
 0.0.0.0 xfinity200212.weebly.com
@@ -832,6 +823,7 @@
 0.0.0.0 xfinityupdatesnow.weebly.com
 0.0.0.0 xfinitywindowfilms.com
 0.0.0.0 yagomouro.github.io
+0.0.0.0 yahooply.weebly.com
 0.0.0.0 yapla.com
 0.0.0.0 yogufile.shop
 0.0.0.0 yonataxi.at
@@ -840,5 +832,4 @@
 0.0.0.0 z-facebook.blogspot.com
 0.0.0.0 z-instagram.blogspot.com
 0.0.0.0 zeta-facebook.blogspot.com
-0.0.0.0 zfkmasinac.com
 0.0.0.0 zkey0.com

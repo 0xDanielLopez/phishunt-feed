@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 836
-# Updated: 2026-09-21T12:49:55Z
+# Entries: 827
+# Updated: 2026-09-21T21:59:14Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -8,15 +8,12 @@
 
 01felipeaugusto-star.github.io
 123-facebook.blogspot.com
-1230g59h45g54.forum
 190842-coinbase.com
 2017-facebook.blogspot.com
 283674-coinbase.com
 286364-coinbase.com
 393bet-facebook.sa.com
 4923493-coinbase.com
-7418541.cfd
-979217.com
 a1-kraken.com
 a2zapk.co
 a2zapk.dev
@@ -25,6 +22,7 @@ about-help.com
 account-instagram.vercel.app
 adobeforbusiness.com
 ahmadhussain99.github.io
+aidenpiearce.github.io
 aishwarya-rathore.github.io
 alibaba188.org
 alibaba66.co
@@ -45,7 +43,6 @@ androidguias.com
 ani-facebook.blogspot.com
 annulation-amazon.com
 anoopsamazon.vercel.app
-antimoney-laundering.org
 apk-google.cn
 app-binance.github.io
 app-exodusweb.pages.dev
@@ -56,7 +53,6 @@ apple-verify.us
 armankhan-12.github.io
 assign-icloud.com
 asso-entrautres.fr
-attmailpatchpsi.workers.dev
 authorised-support.com
 avaturefed.net
 avlinfo.in
@@ -94,6 +90,7 @@ buscarmi-icloud.app
 business-dropbox.me
 c-binance.github.io
 cardpaysecurity.org
+carsscanned.ebaymclaren-austin.eventshouse.app
 case-binance.us
 cashapp-liart.vercel.app
 cashappps.com
@@ -121,6 +118,8 @@ comcastlog.weebly.com
 comcastnetmail.weebly.com
 comcastseettings.weebly.com
 comcastsurvey.weebly.com
+comcastwebmailuser.weebly.com
+contentstack.com
 correosccl.cc
 correoscri.cc
 correosiicr.cc
@@ -140,11 +139,6 @@ docusignfile-review-security-page--newstoolin.replit.app
 dolaition-bit.github.io
 dothome.co.kr
 dpd-ie-edit.com
-dpd-ie.cc
-dpd-ie.club
-dpd-ie.com
-dpd-ie.ink
-dpd-ie.shop
 dpd-ie.xin
 dpdi.xyz
 dpdn62.click
@@ -155,9 +149,9 @@ dropboxbiz.com
 dummy-homepage-instagram.vercel.app
 ebay-app.com
 ebay-c.com
+ebay-dru.org
 ebay-phone-number.blogspot.com
 ebay-seller-center-managedpayments.vercel.app
-ebay-wholesale.com
 ebaymclaren-austin.eventshouse.app
 ebaymevip.com
 ebaymotorspro.co.uk
@@ -261,6 +255,7 @@ facebook-sage-tau.vercel.app
 facebook-seks-27.blogspot.com
 facebook-seks-30.blogspot.com
 facebook-seks-32.blogspot.com
+facebook-seks-40.blogspot.com
 facebook-seks-44.blogspot.com
 facebook-seks-45.blogspot.com
 facebook-services-login.blogspot.com
@@ -332,7 +327,6 @@ facebookloginss.blogspot.com
 facebookloginuser.blogspot.com
 facebookmail-facebook.blogspot.com
 facebooknenys.blogspot.com
-facebooknotify-noreply.com
 facebookpagemanagement.com
 facebookpageslinkk.blogspot.com
 facebookprofilelinks.blogspot.com
@@ -354,6 +348,7 @@ fans-whatsapp.com
 fedex-olive.vercel.app
 fedexbeta.com
 fedexinterviewprep.com
+fedexs.vip
 file-whatsappn.hl.cn
 fmello2002.github.io
 forsakens-crew-teman-facebook.blogspot.com
@@ -382,7 +377,6 @@ googlelogos.com
 googleoa.com
 googlepartners.net
 googlepemy.com
-googlepepy.com
 googleplaety.com
 googleplaiby.com
 googleplaydown.com
@@ -499,6 +493,7 @@ kraken-tor.co.com
 kucoin-referral-code-pt.vercel.app
 kucoin9.com
 kucoinloginaa.gitbook.io
+kucoinloginab.gitbook.io
 kucoinloign.gitbook.io
 kucoinv.com
 lateinos.com.br
@@ -523,8 +518,6 @@ login.rmdbwskx.santander.bimp-bot.duckdns.org
 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 loginfacebook-facebook.blogspot.com
 logowanie-facebook.vercel.app
-lokala-ofera812819921.shop
-lokalna-oferta87453254.sbs
 lokalna-ofeta07534529123.sbs
 lokalna-ofeta562356886.sbs
 love-facebook.blogspot.com
@@ -557,7 +550,6 @@ metamask-wallet.vercel.app
 metamask-web.vercel.app
 metamask.github.io
 metamask2-eight.vercel.app
-metamask88.com
 metamaskcasino.de
 metamaskchromeextensionn.blogspot.com
 metamaskextensionnn.gitbook.io
@@ -587,7 +579,6 @@ movistar-recaudo-epayc.com
 munimventures.com
 muzamilmeerdev.github.io
 my-facebook-blog.blogspot.com
-mycsskundapp.com
 mytemp.website
 nbpublic.com
 neda-facebook.blogspot.com
@@ -615,10 +606,9 @@ network-facebook.blogspot.com
 news-revolut.com
 noreply-icloud.app
 nw-facebook.blogspot.com
-ofert-43819.sbs
-oferta-074938739.cfd
 oferta-478221.sbs
-oferta324452.cfd
+oferta94759302.cfd
+ofertaa948290358520643.cfd
 office365licensingsupport.com
 office365mail.com
 online-facebook-privacy.blogspot.com
@@ -637,7 +627,6 @@ outlookmail.social
 page-instagram.vercel.app
 patelrudra.in
 paykmc.com
-paymob.shop
 paypal-logiin.blogspot.com
 paypal-password.blogspot.com
 paypal-pay.com
@@ -650,12 +639,12 @@ paypall-login.blogspot.com
 pc-spotify.cn
 pe-facebook.blogspot.com
 pl-oferta58296379.shop
+pl-ogloszenie7892293811.top
 prajwalkuchewar.github.io
 premio-instagram.com
 profil-facebook-saya.blogspot.com
 proteccion-outlook2026.iceiy.com
 protected-request.com
-prywata-oferra912818.shop
 pushkar-hub.github.io
 px-amazon.com
 quantum-flares.com
@@ -678,10 +667,9 @@ roblox.com.bi
 roblox.com.bn
 roblox.com.bo
 roblox.com.bz
-roblox.com.do
 roblox.com.gr
-roblox.com.hr
 roblox.com.kz
+roblox.com.ml
 roblox.com.mu
 roblox.com.pt
 rricrosoft-offices.org
@@ -724,17 +712,18 @@ steamcommunity.ing
 steuerquimica.cl
 su-facebook.blogspot.com
 sugar-outlook.com
+sumit8399.github.io
 support-instagram.github.io
 support-ledgrcom-start-web.typedream.app
 support-netflix-signup.info
 synel99.github.io
+take-coinbase.com
 tamires-ramos.github.io
 tanish-ashu.github.io
 tanishq98714.github.io
 tara-facebook.blogspot.com
 taslimaenterprise.com
 tb-facebook.blogspot.com
-tecniplast.com.gt
 temporary.site
 test-facebook.blogspot.com
 therelayservice.com
@@ -786,6 +775,7 @@ webador.com
 webstore.vn
 weeblysite.com
 wellsfargo-worl.vercel.app
+welxcufils.com.ng
 whatsapp-fast.vercel.app
 whatsapp-iamsuyash.vercel.app
 whatsapp-indonesia877.blogspot.com
@@ -813,6 +803,7 @@ xfinity-mail-id.weebly.com
 xfinity-updateform.square.site
 xfinity-updateform.weebly.com
 xfinity001.weebly.com
+xfinity003.weebly.com
 xfinity009.weebly.com
 xfinity2.vercel.app
 xfinity200212.weebly.com
@@ -832,6 +823,7 @@ xfinityttt.weebly.com
 xfinityupdatesnow.weebly.com
 xfinitywindowfilms.com
 yagomouro.github.io
+yahooply.weebly.com
 yapla.com
 yogufile.shop
 yonataxi.at
@@ -840,5 +832,4 @@ yzz.me
 z-facebook.blogspot.com
 z-instagram.blogspot.com
 zeta-facebook.blogspot.com
-zfkmasinac.com
 zkey0.com
