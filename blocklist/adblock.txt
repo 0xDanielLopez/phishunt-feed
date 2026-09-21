@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 844
-! Updated: 2026-09-21T04:57:22Z
+! Entries: 836
+! Updated: 2026-09-21T12:49:57Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -8,11 +8,6 @@
 
 ||01felipeaugusto-star.github.io^
 ||123-facebook.blogspot.com^
-||12300120h9j8ji.buzz^
-||123010h8hh45g.click^
-||1230120h85.buzz^
-||1230120h8h745.buzz^
-||1230129845.buzz^
 ||1230g59h45g54.forum^
 ||190842-coinbase.com^
 ||2017-facebook.blogspot.com^
@@ -21,8 +16,6 @@
 ||393bet-facebook.sa.com^
 ||4923493-coinbase.com^
 ||7418541.cfd^
-||76424.top^
-||9213899h45h954.buzz^
 ||979217.com^
 ||a1-kraken.com^
 ||a2zapk.co^
@@ -52,6 +45,7 @@
 ||ani-facebook.blogspot.com^
 ||annulation-amazon.com^
 ||anoopsamazon.vercel.app^
+||antimoney-laundering.org^
 ||apk-google.cn^
 ||app-binance.github.io^
 ||app-exodusweb.pages.dev^
@@ -60,7 +54,6 @@
 ||apple-icloud.azurewebsites.net^
 ||apple-verify.us^
 ||armankhan-12.github.io^
-||asif.me^
 ||assign-icloud.com^
 ||asso-entrautres.fr^
 ||attmailpatchpsi.workers.dev^
@@ -97,7 +90,6 @@
 ||bnext.es^
 ||books-facebook.blogspot.com^
 ||brad-facebook.blogspot.com^
-||bunker.ink^
 ||buscarmi-icloud.app^
 ||business-dropbox.me^
 ||c-binance.github.io^
@@ -140,6 +132,7 @@
 ||desktop-ledgrecdn.wixstudio.com^
 ||dir.com.my^
 ||dj-facebook.blogspot.com^
+||dk-produkt352951.sbs^
 ||docs-google.com^
 ||docs-trezor-app.pages.dev^
 ||docusign-server.github.io^
@@ -530,6 +523,7 @@
 ||login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org^
 ||loginfacebook-facebook.blogspot.com^
 ||logowanie-facebook.vercel.app^
+||lokala-ofera812819921.shop^
 ||lokalna-oferta87453254.sbs^
 ||lokalna-ofeta07534529123.sbs^
 ||lokalna-ofeta562356886.sbs^
@@ -593,6 +587,7 @@
 ||munimventures.com^
 ||muzamilmeerdev.github.io^
 ||my-facebook-blog.blogspot.com^
+||mycsskundapp.com^
 ||mytemp.website^
 ||nbpublic.com^
 ||neda-facebook.blogspot.com^
@@ -620,7 +615,6 @@
 ||news-revolut.com^
 ||noreply-icloud.app^
 ||nw-facebook.blogspot.com^
-||ofer09128875.buzz^
 ||ofert-43819.sbs^
 ||oferta-074938739.cfd^
 ||oferta-478221.sbs^
@@ -645,7 +639,6 @@
 ||paykmc.com^
 ||paymob.shop^
 ||paypal-logiin.blogspot.com^
-||paypal-login.netlify.app^
 ||paypal-password.blogspot.com^
 ||paypal-pay.com^
 ||paypal-refund.com^
@@ -659,7 +652,6 @@
 ||pl-oferta58296379.shop^
 ||prajwalkuchewar.github.io^
 ||premio-instagram.com^
-||prizebond.net.pk^
 ||profil-facebook-saya.blogspot.com^
 ||proteccion-outlook2026.iceiy.com^
 ||protected-request.com^
@@ -671,6 +663,7 @@
 ||rafaelmdsouza.github.io^
 ||raj24k.github.io^
 ||rama-facebook.blogspot.com^
+||rbxmodes.pro^
 ||reactivar-microsoft-live.iceiy.com^
 ||real-facebook.blogspot.com^
 ||rec-netflix.com^
@@ -689,7 +682,6 @@
 ||roblox.com.gr^
 ||roblox.com.hr^
 ||roblox.com.kz^
-||roblox.com.ml^
 ||roblox.com.mu^
 ||roblox.com.pt^
 ||rricrosoft-offices.org^

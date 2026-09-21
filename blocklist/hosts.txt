@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 844
-# Updated: 2026-09-21T04:57:21Z
+# Entries: 836
+# Updated: 2026-09-21T12:49:56Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -8,11 +8,6 @@
 
 0.0.0.0 01felipeaugusto-star.github.io
 0.0.0.0 123-facebook.blogspot.com
-0.0.0.0 12300120h9j8ji.buzz
-0.0.0.0 123010h8hh45g.click
-0.0.0.0 1230120h85.buzz
-0.0.0.0 1230120h8h745.buzz
-0.0.0.0 1230129845.buzz
 0.0.0.0 1230g59h45g54.forum
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
@@ -21,8 +16,6 @@
 0.0.0.0 393bet-facebook.sa.com
 0.0.0.0 4923493-coinbase.com
 0.0.0.0 7418541.cfd
-0.0.0.0 76424.top
-0.0.0.0 9213899h45h954.buzz
 0.0.0.0 979217.com
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
@@ -52,6 +45,7 @@
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 annulation-amazon.com
 0.0.0.0 anoopsamazon.vercel.app
+0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-exodusweb.pages.dev
@@ -60,7 +54,6 @@
 0.0.0.0 apple-icloud.azurewebsites.net
 0.0.0.0 apple-verify.us
 0.0.0.0 armankhan-12.github.io
-0.0.0.0 asif.me
 0.0.0.0 assign-icloud.com
 0.0.0.0 asso-entrautres.fr
 0.0.0.0 attmailpatchpsi.workers.dev
@@ -97,7 +90,6 @@
 0.0.0.0 bnext.es
 0.0.0.0 books-facebook.blogspot.com
 0.0.0.0 brad-facebook.blogspot.com
-0.0.0.0 bunker.ink
 0.0.0.0 buscarmi-icloud.app
 0.0.0.0 business-dropbox.me
 0.0.0.0 c-binance.github.io
@@ -140,6 +132,7 @@
 0.0.0.0 desktop-ledgrecdn.wixstudio.com
 0.0.0.0 dir.com.my
 0.0.0.0 dj-facebook.blogspot.com
+0.0.0.0 dk-produkt352951.sbs
 0.0.0.0 docs-google.com
 0.0.0.0 docs-trezor-app.pages.dev
 0.0.0.0 docusign-server.github.io
@@ -530,6 +523,7 @@
 0.0.0.0 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 0.0.0.0 loginfacebook-facebook.blogspot.com
 0.0.0.0 logowanie-facebook.vercel.app
+0.0.0.0 lokala-ofera812819921.shop
 0.0.0.0 lokalna-oferta87453254.sbs
 0.0.0.0 lokalna-ofeta07534529123.sbs
 0.0.0.0 lokalna-ofeta562356886.sbs
@@ -593,6 +587,7 @@
 0.0.0.0 munimventures.com
 0.0.0.0 muzamilmeerdev.github.io
 0.0.0.0 my-facebook-blog.blogspot.com
+0.0.0.0 mycsskundapp.com
 0.0.0.0 mytemp.website
 0.0.0.0 nbpublic.com
 0.0.0.0 neda-facebook.blogspot.com
@@ -620,7 +615,6 @@
 0.0.0.0 news-revolut.com
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
-0.0.0.0 ofer09128875.buzz
 0.0.0.0 ofert-43819.sbs
 0.0.0.0 oferta-074938739.cfd
 0.0.0.0 oferta-478221.sbs
@@ -645,7 +639,6 @@
 0.0.0.0 paykmc.com
 0.0.0.0 paymob.shop
 0.0.0.0 paypal-logiin.blogspot.com
-0.0.0.0 paypal-login.netlify.app
 0.0.0.0 paypal-password.blogspot.com
 0.0.0.0 paypal-pay.com
 0.0.0.0 paypal-refund.com
@@ -659,7 +652,6 @@
 0.0.0.0 pl-oferta58296379.shop
 0.0.0.0 prajwalkuchewar.github.io
 0.0.0.0 premio-instagram.com
-0.0.0.0 prizebond.net.pk
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 proteccion-outlook2026.iceiy.com
 0.0.0.0 protected-request.com
@@ -671,6 +663,7 @@
 0.0.0.0 rafaelmdsouza.github.io
 0.0.0.0 raj24k.github.io
 0.0.0.0 rama-facebook.blogspot.com
+0.0.0.0 rbxmodes.pro
 0.0.0.0 reactivar-microsoft-live.iceiy.com
 0.0.0.0 real-facebook.blogspot.com
 0.0.0.0 rec-netflix.com
@@ -689,7 +682,6 @@
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.hr
 0.0.0.0 roblox.com.kz
-0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 rricrosoft-offices.org
