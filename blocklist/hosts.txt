@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 860
-# Updated: 2026-09-20T20:50:08Z
+# Entries: 844
+# Updated: 2026-09-21T04:57:21Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -9,20 +9,24 @@
 0.0.0.0 01felipeaugusto-star.github.io
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 12300120h9j8ji.buzz
+0.0.0.0 123010h8hh45g.click
 0.0.0.0 1230120h85.buzz
-0.0.0.0 131200h88.buzz
+0.0.0.0 1230120h8h745.buzz
+0.0.0.0 1230129845.buzz
+0.0.0.0 1230g59h45g54.forum
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
 0.0.0.0 393bet-facebook.sa.com
+0.0.0.0 4923493-coinbase.com
 0.0.0.0 7418541.cfd
 0.0.0.0 76424.top
+0.0.0.0 9213899h45h954.buzz
 0.0.0.0 979217.com
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
-0.0.0.0 aaranonigeria.com
 0.0.0.0 aaryan-musk.github.io
 0.0.0.0 about-help.com
 0.0.0.0 account-instagram.vercel.app
@@ -104,10 +108,12 @@
 0.0.0.0 cfm-whatsapps.com
 0.0.0.0 ch-google.cc
 0.0.0.0 chatgpt0005.eu.org
+0.0.0.0 chatgptpl.com
 0.0.0.0 citrix-sharing.com
 0.0.0.0 click-facebook.blogspot.com
 0.0.0.0 clon-facebook.vercel.app
 0.0.0.0 cloudclusters.net
+0.0.0.0 cn-feed-whatsapp.com.cn
 0.0.0.0 cn-gui-whatsapp.com.cn
 0.0.0.0 cn-spotify.cn
 0.0.0.0 coinbase-event.vercel.app
@@ -123,8 +129,7 @@
 0.0.0.0 comcastnetmail.weebly.com
 0.0.0.0 comcastseettings.weebly.com
 0.0.0.0 comcastsurvey.weebly.com
-0.0.0.0 connect-xfinity-log.weebly.com
-0.0.0.0 contabostorage.com
+0.0.0.0 correosccl.cc
 0.0.0.0 correoscri.cc
 0.0.0.0 correosiicr.cc
 0.0.0.0 ct.ws
@@ -133,7 +138,6 @@
 0.0.0.0 david-santos7.github.io
 0.0.0.0 deluxxe.com.br
 0.0.0.0 desktop-ledgrecdn.wixstudio.com
-0.0.0.0 dhl-expressmy.com
 0.0.0.0 dir.com.my
 0.0.0.0 dj-facebook.blogspot.com
 0.0.0.0 docs-google.com
@@ -146,6 +150,7 @@
 0.0.0.0 dpd-ie.cc
 0.0.0.0 dpd-ie.club
 0.0.0.0 dpd-ie.com
+0.0.0.0 dpd-ie.ink
 0.0.0.0 dpd-ie.shop
 0.0.0.0 dpd-ie.xin
 0.0.0.0 dpdi.xyz
@@ -163,7 +168,6 @@
 0.0.0.0 ebaymclaren-austin.eventshouse.app
 0.0.0.0 ebaymevip.com
 0.0.0.0 ebaymotorspro.co.uk
-0.0.0.0 ebayohs.com
 0.0.0.0 edgeone.dev
 0.0.0.0 email-microsoft.com
 0.0.0.0 email-update-comcast.weebly.com
@@ -335,7 +339,6 @@
 0.0.0.0 facebookloginuser.blogspot.com
 0.0.0.0 facebookmail-facebook.blogspot.com
 0.0.0.0 facebooknenys.blogspot.com
-0.0.0.0 facebooknotification-retricted.com
 0.0.0.0 facebooknotify-noreply.com
 0.0.0.0 facebookpagemanagement.com
 0.0.0.0 facebookpageslinkk.blogspot.com
@@ -385,22 +388,14 @@
 0.0.0.0 googlelogos.com
 0.0.0.0 googleoa.com
 0.0.0.0 googlepartners.net
-0.0.0.0 googlepeey.com
-0.0.0.0 googlepelay.com
 0.0.0.0 googlepemy.com
 0.0.0.0 googlepepy.com
 0.0.0.0 googleplaety.com
 0.0.0.0 googleplaiby.com
 0.0.0.0 googleplaydown.com
 0.0.0.0 googlepllry.com
-0.0.0.0 googleplouy.com
 0.0.0.0 googleplrzy.com
-0.0.0.0 googleplsey.com
-0.0.0.0 googleplsmy.com
-0.0.0.0 googleplty.com
 0.0.0.0 googleuserlogin.cam
-0.0.0.0 googleww.com
-0.0.0.0 gpt-coinbase.xyz
 0.0.0.0 grupoimpaktu.ao
 0.0.0.0 hackerog17.github.io
 0.0.0.0 hasan-321.github.io
@@ -463,7 +458,6 @@
 0.0.0.0 instagram-users.blogspot.com
 0.0.0.0 instagram-usman-haider.vercel.app
 0.0.0.0 instagram-verifications.blogspot.com
-0.0.0.0 instagram-visualizza-post.info
 0.0.0.0 instagram90sedition.vercel.app
 0.0.0.0 instagramaaps-code.github.io
 0.0.0.0 instagramaccount.info
@@ -538,6 +532,7 @@
 0.0.0.0 logowanie-facebook.vercel.app
 0.0.0.0 lokalna-oferta87453254.sbs
 0.0.0.0 lokalna-ofeta07534529123.sbs
+0.0.0.0 lokalna-ofeta562356886.sbs
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lovevivah.com
@@ -564,7 +559,6 @@
 0.0.0.0 metamask-launchpad.vercel.app
 0.0.0.0 metamask-login.vercel.app
 0.0.0.0 metamask-six.vercel.app
-0.0.0.0 metamask-update.webflow.io
 0.0.0.0 metamask-wallet.vercel.app
 0.0.0.0 metamask-web.vercel.app
 0.0.0.0 metamask.github.io
@@ -631,7 +625,6 @@
 0.0.0.0 oferta-074938739.cfd
 0.0.0.0 oferta-478221.sbs
 0.0.0.0 oferta324452.cfd
-0.0.0.0 ofeta-462789.sbs
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 office365mail.com
 0.0.0.0 online-facebook-privacy.blogspot.com
@@ -687,7 +680,6 @@
 0.0.0.0 register-facebook.blogspot.com
 0.0.0.0 rekemonedasi-facebook.org
 0.0.0.0 rev.it
-0.0.0.0 reviewteaserarchiveproj.biz
 0.0.0.0 roblox-login.vercel.app
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
@@ -697,9 +689,9 @@
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.hr
 0.0.0.0 roblox.com.kz
+0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
-0.0.0.0 robloxc.com.es
 0.0.0.0 rricrosoft-offices.org
 0.0.0.0 ruddycruzc.github.io
 0.0.0.0 s-facebook.blogspot.com
@@ -726,7 +718,6 @@
 0.0.0.0 sign-in-to-xfinity-090.weebly.com
 0.0.0.0 sign-in-to-xfinity-87653.weebly.com
 0.0.0.0 sk-facebook.blogspot.com
-0.0.0.0 skinworkllc.com
 0.0.0.0 smswt.in
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotify-payment.click
@@ -745,7 +736,6 @@
 0.0.0.0 support-ledgrcom-start-web.typedream.app
 0.0.0.0 support-netflix-signup.info
 0.0.0.0 synel99.github.io
-0.0.0.0 t54632-kraken.com
 0.0.0.0 tamires-ramos.github.io
 0.0.0.0 tanish-ashu.github.io
 0.0.0.0 tanishq98714.github.io
@@ -755,10 +745,8 @@
 0.0.0.0 tecniplast.com.gt
 0.0.0.0 temporary.site
 0.0.0.0 test-facebook.blogspot.com
-0.0.0.0 tewo23923.buzz
 0.0.0.0 therelayservice.com
 0.0.0.0 thomas-coinbase.com
-0.0.0.0 tirzahollenhorst.com
 0.0.0.0 todo--facebook.blogspot.com
 0.0.0.0 tottattoo.com
 0.0.0.0 trackingnumbers.org
@@ -779,7 +767,6 @@
 0.0.0.0 twinehr.com
 0.0.0.0 twitterfav.com
 0.0.0.0 updata.net.cn
-0.0.0.0 update-subscription-netflix.com
 0.0.0.0 usacrazyseller.com
 0.0.0.0 usdt-trustwallet-blockchain.vercel.app
 0.0.0.0 uspsaunitedworkforce.com
@@ -835,10 +822,8 @@
 0.0.0.0 xfinity-updateform.weebly.com
 0.0.0.0 xfinity001.weebly.com
 0.0.0.0 xfinity009.weebly.com
-0.0.0.0 xfinity090.weebly.com
 0.0.0.0 xfinity2.vercel.app
 0.0.0.0 xfinity200212.weebly.com
-0.0.0.0 xfinitybillingsupport.weebly.com
 0.0.0.0 xfinityconnectemail.weebly.com
 0.0.0.0 xfinityconnectonline.weebly.com
 0.0.0.0 xfinityconnectupgrade.weebly.com
@@ -862,7 +847,6 @@
 0.0.0.0 yzz.me
 0.0.0.0 z-facebook.blogspot.com
 0.0.0.0 z-instagram.blogspot.com
-0.0.0.0 zelleria.shop
 0.0.0.0 zeta-facebook.blogspot.com
 0.0.0.0 zfkmasinac.com
 0.0.0.0 zkey0.com

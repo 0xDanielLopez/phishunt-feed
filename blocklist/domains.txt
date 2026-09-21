@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 860
-# Updated: 2026-09-20T20:50:07Z
+# Entries: 844
+# Updated: 2026-09-21T04:57:20Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -9,20 +9,24 @@
 01felipeaugusto-star.github.io
 123-facebook.blogspot.com
 12300120h9j8ji.buzz
+123010h8hh45g.click
 1230120h85.buzz
-131200h88.buzz
+1230120h8h745.buzz
+1230129845.buzz
+1230g59h45g54.forum
 190842-coinbase.com
 2017-facebook.blogspot.com
 283674-coinbase.com
 286364-coinbase.com
 393bet-facebook.sa.com
+4923493-coinbase.com
 7418541.cfd
 76424.top
+9213899h45h954.buzz
 979217.com
 a1-kraken.com
 a2zapk.co
 a2zapk.dev
-aaranonigeria.com
 aaryan-musk.github.io
 about-help.com
 account-instagram.vercel.app
@@ -104,10 +108,12 @@ cashappps.com
 cfm-whatsapps.com
 ch-google.cc
 chatgpt0005.eu.org
+chatgptpl.com
 citrix-sharing.com
 click-facebook.blogspot.com
 clon-facebook.vercel.app
 cloudclusters.net
+cn-feed-whatsapp.com.cn
 cn-gui-whatsapp.com.cn
 cn-spotify.cn
 coinbase-event.vercel.app
@@ -123,8 +129,7 @@ comcastlog.weebly.com
 comcastnetmail.weebly.com
 comcastseettings.weebly.com
 comcastsurvey.weebly.com
-connect-xfinity-log.weebly.com
-contabostorage.com
+correosccl.cc
 correoscri.cc
 correosiicr.cc
 ct.ws
@@ -133,7 +138,6 @@ daservglobal.com
 david-santos7.github.io
 deluxxe.com.br
 desktop-ledgrecdn.wixstudio.com
-dhl-expressmy.com
 dir.com.my
 dj-facebook.blogspot.com
 docs-google.com
@@ -146,6 +150,7 @@ dpd-ie-edit.com
 dpd-ie.cc
 dpd-ie.club
 dpd-ie.com
+dpd-ie.ink
 dpd-ie.shop
 dpd-ie.xin
 dpdi.xyz
@@ -163,7 +168,6 @@ ebay-wholesale.com
 ebaymclaren-austin.eventshouse.app
 ebaymevip.com
 ebaymotorspro.co.uk
-ebayohs.com
 edgeone.dev
 email-microsoft.com
 email-update-comcast.weebly.com
@@ -335,7 +339,6 @@ facebookloginss.blogspot.com
 facebookloginuser.blogspot.com
 facebookmail-facebook.blogspot.com
 facebooknenys.blogspot.com
-facebooknotification-retricted.com
 facebooknotify-noreply.com
 facebookpagemanagement.com
 facebookpageslinkk.blogspot.com
@@ -385,22 +388,14 @@ googleepway.com
 googlelogos.com
 googleoa.com
 googlepartners.net
-googlepeey.com
-googlepelay.com
 googlepemy.com
 googlepepy.com
 googleplaety.com
 googleplaiby.com
 googleplaydown.com
 googlepllry.com
-googleplouy.com
 googleplrzy.com
-googleplsey.com
-googleplsmy.com
-googleplty.com
 googleuserlogin.cam
-googleww.com
-gpt-coinbase.xyz
 grupoimpaktu.ao
 hackerog17.github.io
 hasan-321.github.io
@@ -463,7 +458,6 @@ instagram-tip.blogspot.com
 instagram-users.blogspot.com
 instagram-usman-haider.vercel.app
 instagram-verifications.blogspot.com
-instagram-visualizza-post.info
 instagram90sedition.vercel.app
 instagramaaps-code.github.io
 instagramaccount.info
@@ -538,6 +532,7 @@ loginfacebook-facebook.blogspot.com
 logowanie-facebook.vercel.app
 lokalna-oferta87453254.sbs
 lokalna-ofeta07534529123.sbs
+lokalna-ofeta562356886.sbs
 love-facebook.blogspot.com
 lovefive-facebook.blogspot.com
 lovevivah.com
@@ -564,7 +559,6 @@ metamask-docs-p13jojaa8-consensys-ddffed67.vercel.app
 metamask-launchpad.vercel.app
 metamask-login.vercel.app
 metamask-six.vercel.app
-metamask-update.webflow.io
 metamask-wallet.vercel.app
 metamask-web.vercel.app
 metamask.github.io
@@ -631,7 +625,6 @@ ofert-43819.sbs
 oferta-074938739.cfd
 oferta-478221.sbs
 oferta324452.cfd
-ofeta-462789.sbs
 office365licensingsupport.com
 office365mail.com
 online-facebook-privacy.blogspot.com
@@ -687,7 +680,6 @@ reentrega-seur-envio.cloudaccess.host
 register-facebook.blogspot.com
 rekemonedasi-facebook.org
 rev.it
-reviewteaserarchiveproj.biz
 roblox-login.vercel.app
 roblox.com.bi
 roblox.com.bn
@@ -697,9 +689,9 @@ roblox.com.do
 roblox.com.gr
 roblox.com.hr
 roblox.com.kz
+roblox.com.ml
 roblox.com.mu
 roblox.com.pt
-robloxc.com.es
 rricrosoft-offices.org
 ruddycruzc.github.io
 s-facebook.blogspot.com
@@ -726,7 +718,6 @@ sigma-whatsapp.com
 sign-in-to-xfinity-090.weebly.com
 sign-in-to-xfinity-87653.weebly.com
 sk-facebook.blogspot.com
-skinworkllc.com
 smswt.in
 spotify-client-beta.vercel.app
 spotify-payment.click
@@ -745,7 +736,6 @@ support-instagram.github.io
 support-ledgrcom-start-web.typedream.app
 support-netflix-signup.info
 synel99.github.io
-t54632-kraken.com
 tamires-ramos.github.io
 tanish-ashu.github.io
 tanishq98714.github.io
@@ -755,10 +745,8 @@ tb-facebook.blogspot.com
 tecniplast.com.gt
 temporary.site
 test-facebook.blogspot.com
-tewo23923.buzz
 therelayservice.com
 thomas-coinbase.com
-tirzahollenhorst.com
 todo--facebook.blogspot.com
 tottattoo.com
 trackingnumbers.org
@@ -779,7 +767,6 @@ twineapp.com
 twinehr.com
 twitterfav.com
 updata.net.cn
-update-subscription-netflix.com
 usacrazyseller.com
 usdt-trustwallet-blockchain.vercel.app
 uspsaunitedworkforce.com
@@ -835,10 +822,8 @@ xfinity-updateform.square.site
 xfinity-updateform.weebly.com
 xfinity001.weebly.com
 xfinity009.weebly.com
-xfinity090.weebly.com
 xfinity2.vercel.app
 xfinity200212.weebly.com
-xfinitybillingsupport.weebly.com
 xfinityconnectemail.weebly.com
 xfinityconnectonline.weebly.com
 xfinityconnectupgrade.weebly.com
@@ -862,7 +847,6 @@ yordyguarnizodev-hub.github.io
 yzz.me
 z-facebook.blogspot.com
 z-instagram.blogspot.com
-zelleria.shop
 zeta-facebook.blogspot.com
 zfkmasinac.com
 zkey0.com
