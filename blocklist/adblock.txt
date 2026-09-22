@@ -1,12 +1,13 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 833
-! Updated: 2026-09-22T04:57:41Z
+! Entries: 834
+! Updated: 2026-09-22T11:40:11Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
 ! Community-reported phishing domains. Use at your own risk.
 
 ||01felipeaugusto-star.github.io^
+||10239h899.help^
 ||123-facebook.blogspot.com^
 ||12300g459g54823.lol^
 ||12300h945b4vnj.best^
@@ -17,10 +18,11 @@
 ||2017-facebook.blogspot.com^
 ||283674-coinbase.com^
 ||286364-coinbase.com^
+||291293128g75.beer^
 ||393bet-facebook.sa.com^
 ||4329g38g85445hj56.buzz^
-||4923493-coinbase.com^
 ||5432392389.skin^
+||9193129h45h.skin^
 ||9h84523d23.beer^
 ||a1-kraken.com^
 ||a2zapk.co^
@@ -364,7 +366,6 @@
 ||fwh.is^
 ||g349fg3u4f23.beer^
 ||gafiatechnologies.com^
-||gameofamazon.com^
 ||geotehnica.com^
 ||ggzh-google.com.cn^
 ||gloronyan.github.io^
@@ -445,7 +446,6 @@
 ||instagram-open.blogspot.com^
 ||instagram-reels-funny-every-viral-reels.github.io^
 ||instagram-register.blogspot.com^
-||instagram-ssew.vercel.app^
 ||instagram-ten-blond.vercel.app^
 ||instagram-test.vercel.app^
 ||instagram-tip.blogspot.com^
@@ -646,6 +646,7 @@
 ||pe-facebook.blogspot.com^
 ||pl-oferta58296379.shop^
 ||pl-zamow-oferta-4059212.sbs^
+||plx739.cyou^
 ||popka29129hh5.beer^
 ||portalvox.com.br^
 ||prajwalkuchewar.github.io^
@@ -659,7 +660,6 @@
 ||rafaelmdsouza.github.io^
 ||raj24k.github.io^
 ||rama-facebook.blogspot.com^
-||rbxmodes.pro^
 ||reactivar-microsoft-live.iceiy.com^
 ||rec-netflix.com^
 ||receiptslinkedin.com^
@@ -667,6 +667,7 @@
 ||reentrega-seur-envio.cloudaccess.host^
 ||register-facebook.blogspot.com^
 ||rekemonedasi-facebook.org^
+||republicanlibertycaucus.org^
 ||rev.it^
 ||roblox-login.vercel.app^
 ||roblox.com.am^
@@ -706,6 +707,7 @@
 ||sign-in-to-xfinity-090.weebly.com^
 ||sign-in-to-xfinity-87653.weebly.com^
 ||sk-facebook.blogspot.com^
+||smart423823.lol^
 ||smswt.in^
 ||spotify-client-beta.vercel.app^
 ||spotify-payment.click^
@@ -725,7 +727,6 @@
 ||support-ledgrcom-start-web.typedream.app^
 ||support-netflix-signup.info^
 ||synel99.github.io^
-||take-coinbase.com^
 ||tamires-ramos.github.io^
 ||tanish-ashu.github.io^
 ||tanishq98714.github.io^

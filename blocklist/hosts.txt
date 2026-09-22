@@ -1,12 +1,13 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 833
-# Updated: 2026-09-22T04:57:41Z
+# Entries: 834
+# Updated: 2026-09-22T11:40:10Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
 0.0.0.0 01felipeaugusto-star.github.io
+0.0.0.0 10239h899.help
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 12300g459g54823.lol
 0.0.0.0 12300h945b4vnj.best
@@ -17,10 +18,11 @@
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
+0.0.0.0 291293128g75.beer
 0.0.0.0 393bet-facebook.sa.com
 0.0.0.0 4329g38g85445hj56.buzz
-0.0.0.0 4923493-coinbase.com
 0.0.0.0 5432392389.skin
+0.0.0.0 9193129h45h.skin
 0.0.0.0 9h84523d23.beer
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
@@ -364,7 +366,6 @@
 0.0.0.0 fwh.is
 0.0.0.0 g349fg3u4f23.beer
 0.0.0.0 gafiatechnologies.com
-0.0.0.0 gameofamazon.com
 0.0.0.0 geotehnica.com
 0.0.0.0 ggzh-google.com.cn
 0.0.0.0 gloronyan.github.io
@@ -445,7 +446,6 @@
 0.0.0.0 instagram-open.blogspot.com
 0.0.0.0 instagram-reels-funny-every-viral-reels.github.io
 0.0.0.0 instagram-register.blogspot.com
-0.0.0.0 instagram-ssew.vercel.app
 0.0.0.0 instagram-ten-blond.vercel.app
 0.0.0.0 instagram-test.vercel.app
 0.0.0.0 instagram-tip.blogspot.com
@@ -646,6 +646,7 @@
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 pl-oferta58296379.shop
 0.0.0.0 pl-zamow-oferta-4059212.sbs
+0.0.0.0 plx739.cyou
 0.0.0.0 popka29129hh5.beer
 0.0.0.0 portalvox.com.br
 0.0.0.0 prajwalkuchewar.github.io
@@ -659,7 +660,6 @@
 0.0.0.0 rafaelmdsouza.github.io
 0.0.0.0 raj24k.github.io
 0.0.0.0 rama-facebook.blogspot.com
-0.0.0.0 rbxmodes.pro
 0.0.0.0 reactivar-microsoft-live.iceiy.com
 0.0.0.0 rec-netflix.com
 0.0.0.0 receiptslinkedin.com
@@ -667,6 +667,7 @@
 0.0.0.0 reentrega-seur-envio.cloudaccess.host
 0.0.0.0 register-facebook.blogspot.com
 0.0.0.0 rekemonedasi-facebook.org
+0.0.0.0 republicanlibertycaucus.org
 0.0.0.0 rev.it
 0.0.0.0 roblox-login.vercel.app
 0.0.0.0 roblox.com.am
@@ -706,6 +707,7 @@
 0.0.0.0 sign-in-to-xfinity-090.weebly.com
 0.0.0.0 sign-in-to-xfinity-87653.weebly.com
 0.0.0.0 sk-facebook.blogspot.com
+0.0.0.0 smart423823.lol
 0.0.0.0 smswt.in
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotify-payment.click
@@ -725,7 +727,6 @@
 0.0.0.0 support-ledgrcom-start-web.typedream.app
 0.0.0.0 support-netflix-signup.info
 0.0.0.0 synel99.github.io
-0.0.0.0 take-coinbase.com
 0.0.0.0 tamires-ramos.github.io
 0.0.0.0 tanish-ashu.github.io
 0.0.0.0 tanishq98714.github.io
