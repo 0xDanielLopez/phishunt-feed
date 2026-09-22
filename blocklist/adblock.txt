@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 827
-! Updated: 2026-09-21T21:59:16Z
+! Entries: 833
+! Updated: 2026-09-22T04:57:41Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -8,12 +8,20 @@
 
 ||01felipeaugusto-star.github.io^
 ||123-facebook.blogspot.com^
+||12300g459g54823.lol^
+||12300h945b4vnj.best^
+||12312-0h459gf34.beer^
+||123190h485g74.beer^
+||12393098845gh45.top^
 ||190842-coinbase.com^
 ||2017-facebook.blogspot.com^
 ||283674-coinbase.com^
 ||286364-coinbase.com^
 ||393bet-facebook.sa.com^
+||4329g38g85445hj56.buzz^
 ||4923493-coinbase.com^
+||5432392389.skin^
+||9h84523d23.beer^
 ||a1-kraken.com^
 ||a2zapk.co^
 ||a2zapk.dev^
@@ -43,6 +51,7 @@
 ||ani-facebook.blogspot.com^
 ||annulation-amazon.com^
 ||anoopsamazon.vercel.app^
+||antimoney-laundering.org^
 ||apk-google.cn^
 ||app-binance.github.io^
 ||app-exodusweb.pages.dev^
@@ -53,6 +62,8 @@
 ||armankhan-12.github.io^
 ||assign-icloud.com^
 ||asso-entrautres.fr^
+||aukcj37289129v.beer^
+||auth.properties^
 ||authorised-support.com^
 ||avaturefed.net^
 ||avlinfo.in^
@@ -175,7 +186,6 @@
 ||facebook-0-facebook.blogspot.com^
 ||facebook-2-0-dun.vercel.app^
 ||facebook-2022.blogspot.com^
-||facebook-2025.blogspot.com^
 ||facebook-22.blogspot.com^
 ||facebook-247-support.blogspot.com^
 ||facebook-5645464.blogspot.com^
@@ -201,7 +211,6 @@
 ||facebook-eu.blogspot.com^
 ||facebook-facebook.blogspot.com^
 ||facebook-facebook1.blogspot.com^
-||facebook-facebook45sr.blogspot.com^
 ||facebook-fansdanssapage.blogspot.com^
 ||facebook-faq.se^
 ||facebook-fb-com.blogspot.com^
@@ -255,7 +264,6 @@
 ||facebook-seks-27.blogspot.com^
 ||facebook-seks-30.blogspot.com^
 ||facebook-seks-32.blogspot.com^
-||facebook-seks-40.blogspot.com^
 ||facebook-seks-44.blogspot.com^
 ||facebook-seks-45.blogspot.com^
 ||facebook-services-login.blogspot.com^
@@ -293,14 +301,12 @@
 ||facebookfakelogin.blogspot.com^
 ||facebookfakepage.blogspot.com^
 ||facebookhints.blogspot.com^
-||facebookhotysexyvideos.blogspot.com^
 ||facebookk-k.vercel.app^
 ||facebookk.blogspot.com^
 ||facebooklivepage.blogspot.com^
 ||facebooklogin-page.blogspot.com^
 ||facebooklogin01.blogspot.com^
 ||facebooklogin123.blogspot.com^
-||facebooklogin1234.blogspot.com^
 ||facebooklogin17.blogspot.com^
 ||facebooklogin18.blogspot.com^
 ||facebooklogin19.blogspot.com^
@@ -348,7 +354,6 @@
 ||fedex-olive.vercel.app^
 ||fedexbeta.com^
 ||fedexinterviewprep.com^
-||fedexs.vip^
 ||file-whatsappn.hl.cn^
 ||fmello2002.github.io^
 ||forsakens-crew-teman-facebook.blogspot.com^
@@ -357,6 +362,7 @@
 ||francielilimaa.github.io^
 ||free-facebook-page-likes.blogspot.com^
 ||fwh.is^
+||g349fg3u4f23.beer^
 ||gafiatechnologies.com^
 ||gameofamazon.com^
 ||geotehnica.com^
@@ -434,6 +440,7 @@
 ||instagram-login-support.vercel.app^
 ||instagram-login-user.blogspot.com^
 ||instagram-mu-rosy.vercel.app^
+||instagram-new-version.vercel.app^
 ||instagram-one-alpha.vercel.app^
 ||instagram-open.blogspot.com^
 ||instagram-reels-funny-every-viral-reels.github.io^
@@ -489,16 +496,17 @@
 ||jwb-facebook.blogspot.com^
 ||kavishkadileepa01.github.io^
 ||kenhoward.com^
+||kiddnexus14.github.io^
 ||kraken-tor.co.com^
 ||kucoin-referral-code-pt.vercel.app^
 ||kucoin9.com^
+||kucoinlogin_us.godaddysites.com^
 ||kucoinloginaa.gitbook.io^
 ||kucoinloginab.gitbook.io^
 ||kucoinloign.gitbook.io^
 ||kucoinv.com^
 ||lateinos.com.br^
 ||ledger-live-application.com^
-||ledger-live-downlloadd.blogspot.com^
 ||ledger-live-download-sso-conect.typedream.app^
 ||ledger-live-login-web.square.site^
 ||ledger-live-wallet-start-conect-us-en.typedream.app^
@@ -542,7 +550,6 @@
 ||metamask-connect.vercel.app^
 ||metamask-dev-dashboard-feat-remove-prora-consensys-ddffed67.vercel.app^
 ||metamask-docs-git-dependabot-npmandya-95394d-consensys-ddffed67.vercel.app^
-||metamask-docs-p13jojaa8-consensys-ddffed67.vercel.app^
 ||metamask-launchpad.vercel.app^
 ||metamask-login.vercel.app^
 ||metamask-six.vercel.app^
@@ -606,6 +613,7 @@
 ||news-revolut.com^
 ||noreply-icloud.app^
 ||nw-facebook.blogspot.com^
+||of4918294.skin^
 ||oferta-478221.sbs^
 ||oferta94759302.cfd^
 ||ofertaa948290358520643.cfd^
@@ -629,24 +637,23 @@
 ||paykmc.com^
 ||paypal-logiin.blogspot.com^
 ||paypal-password.blogspot.com^
-||paypal-pay.com^
 ||paypal-refund.com^
 ||paypal-secure.vercel.app^
 ||paypal-signin.blogspot.com^
 ||paypal3.vercel.app^
 ||paypalcorp.blogspot.com^
-||paypall-login.blogspot.com^
 ||pc-spotify.cn^
 ||pe-facebook.blogspot.com^
 ||pl-oferta58296379.shop^
-||pl-ogloszenie7892293811.top^
+||pl-zamow-oferta-4059212.sbs^
+||popka29129hh5.beer^
+||portalvox.com.br^
 ||prajwalkuchewar.github.io^
 ||premio-instagram.com^
 ||profil-facebook-saya.blogspot.com^
 ||proteccion-outlook2026.iceiy.com^
 ||protected-request.com^
 ||pushkar-hub.github.io^
-||px-amazon.com^
 ||quantum-flares.com^
 ||r-facebook.blogspot.com^
 ||rafaelmdsouza.github.io^
@@ -654,7 +661,6 @@
 ||rama-facebook.blogspot.com^
 ||rbxmodes.pro^
 ||reactivar-microsoft-live.iceiy.com^
-||real-facebook.blogspot.com^
 ||rec-netflix.com^
 ||receiptslinkedin.com^
 ||recreate-instagrampage.vercel.app^
@@ -663,10 +669,12 @@
 ||rekemonedasi-facebook.org^
 ||rev.it^
 ||roblox-login.vercel.app^
+||roblox.com.am^
 ||roblox.com.bi^
 ||roblox.com.bn^
 ||roblox.com.bo^
 ||roblox.com.bz^
+||roblox.com.ee^
 ||roblox.com.gr^
 ||roblox.com.kz^
 ||roblox.com.ml^
@@ -785,9 +793,7 @@
 ||whatsappbrnoticias.blogspot.com^
 ||whatsappcampaign.online^
 ||whatsappfreewhatsapp.blogspot.com^
-||whatsapplnfo.blogspot.com^
 ||whatsappq.com^
-||whatsappwebred.blogspot.com^
 ||whatsappzoeiras.blogspot.com^
 ||windows-ledger-live.typedream.app^
 ||wooflers.com^
