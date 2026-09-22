@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 839
-! Updated: 2026-09-22T16:58:05Z
+! Entries: 849
+! Updated: 2026-09-22T21:19:54Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -21,6 +21,7 @@
 ||4329g38g85445hj56.buzz^
 ||48tg34s1269h.beer^
 ||5432392389.skin^
+||99884120.pics^
 ||9h84523d23.beer^
 ||a1-kraken.com^
 ||a2zapk.co^
@@ -103,6 +104,7 @@
 ||cardpaysecurity.org^
 ||carsscanned.ebaymclaren-austin.eventshouse.app^
 ||case-binance.us^
+||case839213-coinbase.com^
 ||cashapp-liart.vercel.app^
 ||cashappps.com^
 ||cfm-whatsapps.com^
@@ -368,6 +370,8 @@
 ||geotehnica.com^
 ||ggzh-google.com.cn^
 ||gloronyan.github.io^
+||gls-group-informationy.top^
+||gls-group.loan^
 ||google-apk.com^
 ||google1107.com^
 ||google1208.com^
@@ -376,6 +380,7 @@
 ||google77bd.com^
 ||google88.bet^
 ||googlebusiness.xyz^
+||googlee-playstors.vercel.app^
 ||googleepkay.com^
 ||googleepway.com^
 ||googlelogos.com^
@@ -388,6 +393,7 @@
 ||googlepllry.com^
 ||googleplrzy.com^
 ||googleuserlogin.cam^
+||googlezplay.com^
 ||grupoimpaktu.ao^
 ||h8g45g.lol^
 ||hackerog17.github.io^
@@ -412,6 +418,7 @@
 ||htttps-www-roblox.co^
 ||iberdrolatrade.com^
 ||icloud-asisten-official.com^
+||icloudgps-ios.com^
 ||icloudnotify.help^
 ||ideeo.mx^
 ||ifotografix.co.uk^
@@ -617,6 +624,7 @@
 ||nw-facebook.blogspot.com^
 ||of4918294.skin^
 ||oferta-478221.sbs^
+||oferta194759385.cfd^
 ||oferta94759302.cfd^
 ||ofertaa948290358520643.cfd^
 ||office365licensingsupport.com^
@@ -643,6 +651,7 @@
 ||paypal-secure.vercel.app^
 ||paypal-signin.blogspot.com^
 ||paypal3.vercel.app^
+||paypalcheckout.click^
 ||paypalcorp.blogspot.com^
 ||pc-spotify.cn^
 ||pe-facebook.blogspot.com^
@@ -706,6 +715,7 @@
 ||sigma-whatsapp.com^
 ||sign-in-to-xfinity-090.weebly.com^
 ||sign-in-to-xfinity-87653.weebly.com^
+||site-google-havan.com^
 ||sk-facebook.blogspot.com^
 ||smart423823.lol^
 ||smswt.in^
