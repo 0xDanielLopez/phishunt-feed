@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 834
-! Updated: 2026-09-22T11:40:11Z
+! Entries: 839
+! Updated: 2026-09-22T16:58:05Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -11,18 +11,16 @@
 ||123-facebook.blogspot.com^
 ||12300g459g54823.lol^
 ||12300h945b4vnj.best^
-||12312-0h459gf34.beer^
-||123190h485g74.beer^
+||12390h458g.beer^
 ||12393098845gh45.top^
 ||190842-coinbase.com^
 ||2017-facebook.blogspot.com^
 ||283674-coinbase.com^
 ||286364-coinbase.com^
-||291293128g75.beer^
 ||393bet-facebook.sa.com^
 ||4329g38g85445hj56.buzz^
+||48tg34s1269h.beer^
 ||5432392389.skin^
-||9193129h45h.skin^
 ||9h84523d23.beer^
 ||a1-kraken.com^
 ||a2zapk.co^
@@ -142,6 +140,7 @@
 ||david-santos7.github.io^
 ||deluxxe.com.br^
 ||desktop-ledgrecdn.wixstudio.com^
+||dhl-express-dev.firebaseapp.com^
 ||dir.com.my^
 ||dj-facebook.blogspot.com^
 ||dk-produkt352951.sbs^
@@ -356,6 +355,7 @@
 ||fedex-olive.vercel.app^
 ||fedexbeta.com^
 ||fedexinterviewprep.com^
+||feq-trezor-suite-app.typedream.app^
 ||file-whatsappn.hl.cn^
 ||fmello2002.github.io^
 ||forsakens-crew-teman-facebook.blogspot.com^
@@ -364,13 +364,11 @@
 ||francielilimaa.github.io^
 ||free-facebook-page-likes.blogspot.com^
 ||fwh.is^
-||g349fg3u4f23.beer^
 ||gafiatechnologies.com^
 ||geotehnica.com^
 ||ggzh-google.com.cn^
 ||gloronyan.github.io^
 ||google-apk.com^
-||google-havan.com^
 ||google1107.com^
 ||google1208.com^
 ||google1302.com^
@@ -391,6 +389,7 @@
 ||googleplrzy.com^
 ||googleuserlogin.cam^
 ||grupoimpaktu.ao^
+||h8g45g.lol^
 ||hackerog17.github.io^
 ||hasan-321.github.io^
 ||hashnode.dev^
@@ -498,19 +497,21 @@
 ||kenhoward.com^
 ||kiddnexus14.github.io^
 ||kraken-tor.co.com^
+||kuc0innlogi.godaddysites.com^
 ||kucoin-referral-code-pt.vercel.app^
 ||kucoin9.com^
 ||kucoinlogin_us.godaddysites.com^
 ||kucoinloginaa.gitbook.io^
-||kucoinloginab.gitbook.io^
 ||kucoinloign.gitbook.io^
 ||kucoinv.com^
 ||lateinos.com.br^
 ||ledger-live-application.com^
 ||ledger-live-download-sso-conect.typedream.app^
+||ledger-live-feq.typedream.app^
 ||ledger-live-login-web.square.site^
 ||ledger-live-wallet-start-conect-us-en.typedream.app^
 ||ledger-liveusa.zapier.app^
+||ledger-wallet-start-cloud.typedream.app^
 ||ledgerwalletrepair.com^
 ||ledgrelivapp--crome.typedream.app^
 ||leia-santander.vercel.app^
@@ -566,6 +567,7 @@
 ||mexicocentral-01.azurewebsites.net^
 ||mhmr.ro^
 ||mi-santander.com^
+||microsoft-0r.github.io^
 ||microsoft-alpha.vercel.app^
 ||microsoft-se.us^
 ||microsoft-sharepoint.fr^
@@ -647,7 +649,6 @@
 ||pl-oferta58296379.shop^
 ||pl-zamow-oferta-4059212.sbs^
 ||plx739.cyou^
-||popka29129hh5.beer^
 ||portalvox.com.br^
 ||prajwalkuchewar.github.io^
 ||premio-instagram.com^
@@ -670,7 +671,6 @@
 ||republicanlibertycaucus.org^
 ||rev.it^
 ||roblox-login.vercel.app^
-||roblox.com.am^
 ||roblox.com.bi^
 ||roblox.com.bn^
 ||roblox.com.bo^
@@ -714,6 +714,7 @@
 ||spotify-plus.com^
 ||srpska-banka.com^
 ||sso-ledger-live-strt-ledger-support-cdn.typedream.app^
+||start-ledgerlive-com-web.typedream.app^
 ||start-ledgren.zapier.app^
 ||start-web-en-ledger-live-login.typedream.app^
 ||steamcommunity-balanceworkshop.shop^
@@ -724,6 +725,7 @@
 ||sugar-outlook.com^
 ||sumit8399.github.io^
 ||support-instagram.github.io^
+||support-ledgerlive-eng.typedream.app^
 ||support-ledgrcom-start-web.typedream.app^
 ||support-netflix-signup.info^
 ||synel99.github.io^
@@ -736,6 +738,7 @@
 ||temporary.site^
 ||test-facebook.blogspot.com^
 ||therelayservice.com^
+||thietkewebdep.net^
 ||thomas-coinbase.com^
 ||todo--facebook.blogspot.com^
 ||tottattoo.com^
@@ -781,6 +784,7 @@
 ||web-trezor-io-start-us.vercel.app^
 ||webaccess-alert.com^
 ||webador.com^
+||webpage-trezor-suite.typedream.app^
 ||webstore.vn^
 ||weeblysite.com^
 ||wellsfargo-worl.vercel.app^
@@ -826,6 +830,7 @@
 ||xfinitynow.weebly.com^
 ||xfinityservices.vercel.app^
 ||xfinitysupportnow.weebly.com^
+||xfinityteamslogin.weebly.com^
 ||xfinityttt.weebly.com^
 ||xfinityupdatesnow.weebly.com^
 ||xfinitywindowfilms.com^

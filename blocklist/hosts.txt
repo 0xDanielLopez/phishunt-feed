@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 834
-# Updated: 2026-09-22T11:40:10Z
+# Entries: 839
+# Updated: 2026-09-22T16:58:04Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -11,18 +11,16 @@
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 12300g459g54823.lol
 0.0.0.0 12300h945b4vnj.best
-0.0.0.0 12312-0h459gf34.beer
-0.0.0.0 123190h485g74.beer
+0.0.0.0 12390h458g.beer
 0.0.0.0 12393098845gh45.top
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
-0.0.0.0 291293128g75.beer
 0.0.0.0 393bet-facebook.sa.com
 0.0.0.0 4329g38g85445hj56.buzz
+0.0.0.0 48tg34s1269h.beer
 0.0.0.0 5432392389.skin
-0.0.0.0 9193129h45h.skin
 0.0.0.0 9h84523d23.beer
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
@@ -142,6 +140,7 @@
 0.0.0.0 david-santos7.github.io
 0.0.0.0 deluxxe.com.br
 0.0.0.0 desktop-ledgrecdn.wixstudio.com
+0.0.0.0 dhl-express-dev.firebaseapp.com
 0.0.0.0 dir.com.my
 0.0.0.0 dj-facebook.blogspot.com
 0.0.0.0 dk-produkt352951.sbs
@@ -356,6 +355,7 @@
 0.0.0.0 fedex-olive.vercel.app
 0.0.0.0 fedexbeta.com
 0.0.0.0 fedexinterviewprep.com
+0.0.0.0 feq-trezor-suite-app.typedream.app
 0.0.0.0 file-whatsappn.hl.cn
 0.0.0.0 fmello2002.github.io
 0.0.0.0 forsakens-crew-teman-facebook.blogspot.com
@@ -364,13 +364,11 @@
 0.0.0.0 francielilimaa.github.io
 0.0.0.0 free-facebook-page-likes.blogspot.com
 0.0.0.0 fwh.is
-0.0.0.0 g349fg3u4f23.beer
 0.0.0.0 gafiatechnologies.com
 0.0.0.0 geotehnica.com
 0.0.0.0 ggzh-google.com.cn
 0.0.0.0 gloronyan.github.io
 0.0.0.0 google-apk.com
-0.0.0.0 google-havan.com
 0.0.0.0 google1107.com
 0.0.0.0 google1208.com
 0.0.0.0 google1302.com
@@ -391,6 +389,7 @@
 0.0.0.0 googleplrzy.com
 0.0.0.0 googleuserlogin.cam
 0.0.0.0 grupoimpaktu.ao
+0.0.0.0 h8g45g.lol
 0.0.0.0 hackerog17.github.io
 0.0.0.0 hasan-321.github.io
 0.0.0.0 hashnode.dev
@@ -498,19 +497,21 @@
 0.0.0.0 kenhoward.com
 0.0.0.0 kiddnexus14.github.io
 0.0.0.0 kraken-tor.co.com
+0.0.0.0 kuc0innlogi.godaddysites.com
 0.0.0.0 kucoin-referral-code-pt.vercel.app
 0.0.0.0 kucoin9.com
 0.0.0.0 kucoinlogin_us.godaddysites.com
 0.0.0.0 kucoinloginaa.gitbook.io
-0.0.0.0 kucoinloginab.gitbook.io
 0.0.0.0 kucoinloign.gitbook.io
 0.0.0.0 kucoinv.com
 0.0.0.0 lateinos.com.br
 0.0.0.0 ledger-live-application.com
 0.0.0.0 ledger-live-download-sso-conect.typedream.app
+0.0.0.0 ledger-live-feq.typedream.app
 0.0.0.0 ledger-live-login-web.square.site
 0.0.0.0 ledger-live-wallet-start-conect-us-en.typedream.app
 0.0.0.0 ledger-liveusa.zapier.app
+0.0.0.0 ledger-wallet-start-cloud.typedream.app
 0.0.0.0 ledgerwalletrepair.com
 0.0.0.0 ledgrelivapp--crome.typedream.app
 0.0.0.0 leia-santander.vercel.app
@@ -566,6 +567,7 @@
 0.0.0.0 mexicocentral-01.azurewebsites.net
 0.0.0.0 mhmr.ro
 0.0.0.0 mi-santander.com
+0.0.0.0 microsoft-0r.github.io
 0.0.0.0 microsoft-alpha.vercel.app
 0.0.0.0 microsoft-se.us
 0.0.0.0 microsoft-sharepoint.fr
@@ -647,7 +649,6 @@
 0.0.0.0 pl-oferta58296379.shop
 0.0.0.0 pl-zamow-oferta-4059212.sbs
 0.0.0.0 plx739.cyou
-0.0.0.0 popka29129hh5.beer
 0.0.0.0 portalvox.com.br
 0.0.0.0 prajwalkuchewar.github.io
 0.0.0.0 premio-instagram.com
@@ -670,7 +671,6 @@
 0.0.0.0 republicanlibertycaucus.org
 0.0.0.0 rev.it
 0.0.0.0 roblox-login.vercel.app
-0.0.0.0 roblox.com.am
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bo
@@ -714,6 +714,7 @@
 0.0.0.0 spotify-plus.com
 0.0.0.0 srpska-banka.com
 0.0.0.0 sso-ledger-live-strt-ledger-support-cdn.typedream.app
+0.0.0.0 start-ledgerlive-com-web.typedream.app
 0.0.0.0 start-ledgren.zapier.app
 0.0.0.0 start-web-en-ledger-live-login.typedream.app
 0.0.0.0 steamcommunity-balanceworkshop.shop
@@ -724,6 +725,7 @@
 0.0.0.0 sugar-outlook.com
 0.0.0.0 sumit8399.github.io
 0.0.0.0 support-instagram.github.io
+0.0.0.0 support-ledgerlive-eng.typedream.app
 0.0.0.0 support-ledgrcom-start-web.typedream.app
 0.0.0.0 support-netflix-signup.info
 0.0.0.0 synel99.github.io
@@ -736,6 +738,7 @@
 0.0.0.0 temporary.site
 0.0.0.0 test-facebook.blogspot.com
 0.0.0.0 therelayservice.com
+0.0.0.0 thietkewebdep.net
 0.0.0.0 thomas-coinbase.com
 0.0.0.0 todo--facebook.blogspot.com
 0.0.0.0 tottattoo.com
@@ -781,6 +784,7 @@
 0.0.0.0 web-trezor-io-start-us.vercel.app
 0.0.0.0 webaccess-alert.com
 0.0.0.0 webador.com
+0.0.0.0 webpage-trezor-suite.typedream.app
 0.0.0.0 webstore.vn
 0.0.0.0 weeblysite.com
 0.0.0.0 wellsfargo-worl.vercel.app
@@ -826,6 +830,7 @@
 0.0.0.0 xfinitynow.weebly.com
 0.0.0.0 xfinityservices.vercel.app
 0.0.0.0 xfinitysupportnow.weebly.com
+0.0.0.0 xfinityteamslogin.weebly.com
 0.0.0.0 xfinityttt.weebly.com
 0.0.0.0 xfinityupdatesnow.weebly.com
 0.0.0.0 xfinitywindowfilms.com
