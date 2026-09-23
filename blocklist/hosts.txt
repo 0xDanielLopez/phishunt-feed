@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 794
-# Updated: 2026-09-23T11:38:22Z
+# Entries: 781
+# Updated: 2026-09-23T17:00:34Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -8,22 +8,16 @@
 
 0.0.0.0 01felipeaugusto-star.github.io
 0.0.0.0 123-facebook.blogspot.com
-0.0.0.0 1231020h9h8.beer
-0.0.0.0 1231209h458g.beer
-0.0.0.0 12398hg57g4.beer
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 20bet26.com
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
 0.0.0.0 393bet-facebook.sa.com
-0.0.0.0 888casino26.com
 0.0.0.0 9281238712gh9.beer
-0.0.0.0 998138128gg.buzz
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
-0.0.0.0 about-help.com
 0.0.0.0 account-instagram.vercel.app
 0.0.0.0 aidenpiearce.github.io
 0.0.0.0 aishwarya-rathore.github.io
@@ -59,7 +53,6 @@
 0.0.0.0 avaturefed.net
 0.0.0.0 avlinfo.in
 0.0.0.0 axm-amazon.com
-0.0.0.0 ayrage93817g6.beer
 0.0.0.0 bankofamerica-uscom.vercel.app
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 barcelona-facebook.blogspot.com
@@ -92,7 +85,6 @@
 0.0.0.0 cardpaysecurity.org
 0.0.0.0 carsscanned.ebaymclaren-austin.eventshouse.app
 0.0.0.0 case-binance.us
-0.0.0.0 case839213-coinbase.com
 0.0.0.0 cashapp-liart.vercel.app
 0.0.0.0 cashappps.com
 0.0.0.0 cfm-whatsapps.com
@@ -102,7 +94,6 @@
 0.0.0.0 citrix-sharing.com
 0.0.0.0 click-facebook.blogspot.com
 0.0.0.0 clon-facebook.vercel.app
-0.0.0.0 cloudclusters.net
 0.0.0.0 cn-feed-whatsapp.com.cn
 0.0.0.0 cn-gui-whatsapp.com.cn
 0.0.0.0 cn-spotify.cn
@@ -134,7 +125,6 @@
 0.0.0.0 dhl-express-dev.firebaseapp.com
 0.0.0.0 dir.com.my
 0.0.0.0 dj-facebook.blogspot.com
-0.0.0.0 dk-produkt352951.sbs
 0.0.0.0 docs-google.com
 0.0.0.0 docs-trezor-app.pages.dev
 0.0.0.0 docusign-server.github.io
@@ -148,7 +138,6 @@
 0.0.0.0 dropbox-online.at
 0.0.0.0 dropbox-online.net
 0.0.0.0 dropboxbiz.com
-0.0.0.0 ebay-app.com
 0.0.0.0 ebay-c.com
 0.0.0.0 ebay-dru.org
 0.0.0.0 ebay-phone-number.blogspot.com
@@ -159,6 +148,7 @@
 0.0.0.0 edgeone.dev
 0.0.0.0 email-microsoft.com
 0.0.0.0 email-update-comcast.weebly.com
+0.0.0.0 ember-whatsapp.com
 0.0.0.0 emersondasilva-dev.github.io
 0.0.0.0 emmanueldegreatltd.com
 0.0.0.0 epsilons.co
@@ -355,7 +345,6 @@
 0.0.0.0 ggzh-google.com.cn
 0.0.0.0 gloronyan.github.io
 0.0.0.0 gls-group.loan
-0.0.0.0 gls-live-points.pages.dev
 0.0.0.0 google-apk.com
 0.0.0.0 google1107.com
 0.0.0.0 google1208.com
@@ -479,10 +468,10 @@
 0.0.0.0 jj-facebook.blogspot.com
 0.0.0.0 jo-facebook.blogspot.com
 0.0.0.0 jwb-facebook.blogspot.com
+0.0.0.0 kauadosantos.github.io
 0.0.0.0 kenhoward.com
 0.0.0.0 kiddnexus14.github.io
 0.0.0.0 kraken-tor.co.com
-0.0.0.0 kuc0innlogi.godaddysites.com
 0.0.0.0 kucoin-referral-code-pt.vercel.app
 0.0.0.0 kucoin9.com
 0.0.0.0 kucoinlogin_us.godaddysites.com
@@ -510,8 +499,6 @@
 0.0.0.0 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 0.0.0.0 loginfacebook-facebook.blogspot.com
 0.0.0.0 logowanie-facebook.vercel.app
-0.0.0.0 lokalna-ofeta07534529123.sbs
-0.0.0.0 lokalna-ofeta562356886.sbs
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lovevivah.com
@@ -592,8 +579,7 @@
 0.0.0.0 news-revolut.com
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
-0.0.0.0 oferta-478221.sbs
-0.0.0.0 oferta-574168.cfd
+0.0.0.0 oferta65487.click
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 online-facebook-privacy.blogspot.com
 0.0.0.0 oortstorages.com
@@ -626,7 +612,7 @@
 0.0.0.0 premio-instagram.com
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 proteccion-outlook2026.iceiy.com
-0.0.0.0 prywanm12899.buzz
+0.0.0.0 ptai.in
 0.0.0.0 pushkar-hub.github.io
 0.0.0.0 quantum-flares.com
 0.0.0.0 r-facebook.blogspot.com
@@ -642,6 +628,7 @@
 0.0.0.0 republicanlibertycaucus.org
 0.0.0.0 rev.it
 0.0.0.0 roblox-login.vercel.app
+0.0.0.0 roblox.com.am
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bo
@@ -649,7 +636,6 @@
 0.0.0.0 roblox.com.do
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.gr
-0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 rricrosoft-offices.org
@@ -669,7 +655,6 @@
 0.0.0.0 secutury-facebook.blogspot.com
 0.0.0.0 send-secure-trustwallet-usdt-bip20.vercel.app
 0.0.0.0 services-facebook.blogspot.com
-0.0.0.0 seureonline.shop
 0.0.0.0 sheokand9806.github.io
 0.0.0.0 shruuti-005.github.io
 0.0.0.0 sigma-whatsapp.com
@@ -749,12 +734,12 @@
 0.0.0.0 webstore.vn
 0.0.0.0 weeblysite.com
 0.0.0.0 wellsfargo-worl.vercel.app
-0.0.0.0 welxcufils.com.ng
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-iamsuyash.vercel.app
 0.0.0.0 whatsapp-indonesia877.blogspot.com
 0.0.0.0 whatsapp-report.com
 0.0.0.0 whatsapp-verify.blogspot.com
+0.0.0.0 whatsapp7g.blogspot.com
 0.0.0.0 whatsappapk.org
 0.0.0.0 whatsappbrnoticias.blogspot.com
 0.0.0.0 whatsappcampaign.online
@@ -776,6 +761,7 @@
 0.0.0.0 xfinity001.weebly.com
 0.0.0.0 xfinity003.weebly.com
 0.0.0.0 xfinity009.weebly.com
+0.0.0.0 xfinity101.duckdns.org
 0.0.0.0 xfinity2.vercel.app
 0.0.0.0 xfinity200212.weebly.com
 0.0.0.0 xfinityconnectemail.weebly.com
@@ -791,6 +777,7 @@
 0.0.0.0 xfinityservices.vercel.app
 0.0.0.0 xfinitysupportnow.weebly.com
 0.0.0.0 xfinityteamslogin.weebly.com
+0.0.0.0 xfinityteamsservice.weebly.com
 0.0.0.0 xfinityttt.weebly.com
 0.0.0.0 xfinityupdatesnow.weebly.com
 0.0.0.0 yogufile.shop

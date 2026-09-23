@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 794
-# Updated: 2026-09-23T11:38:22Z
+# Entries: 781
+# Updated: 2026-09-23T17:00:33Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -8,22 +8,16 @@
 
 01felipeaugusto-star.github.io
 123-facebook.blogspot.com
-1231020h9h8.beer
-1231209h458g.beer
-12398hg57g4.beer
 190842-coinbase.com
 2017-facebook.blogspot.com
 20bet26.com
 283674-coinbase.com
 286364-coinbase.com
 393bet-facebook.sa.com
-888casino26.com
 9281238712gh9.beer
-998138128gg.buzz
 a1-kraken.com
 a2zapk.co
 a2zapk.dev
-about-help.com
 account-instagram.vercel.app
 aidenpiearce.github.io
 aishwarya-rathore.github.io
@@ -59,7 +53,6 @@ authorised-support.com
 avaturefed.net
 avlinfo.in
 axm-amazon.com
-ayrage93817g6.beer
 bankofamerica-uscom.vercel.app
 bankofamericamailcompte.blogspot.com
 barcelona-facebook.blogspot.com
@@ -92,7 +85,6 @@ c-binance.github.io
 cardpaysecurity.org
 carsscanned.ebaymclaren-austin.eventshouse.app
 case-binance.us
-case839213-coinbase.com
 cashapp-liart.vercel.app
 cashappps.com
 cfm-whatsapps.com
@@ -102,7 +94,6 @@ chatgptpl.com
 citrix-sharing.com
 click-facebook.blogspot.com
 clon-facebook.vercel.app
-cloudclusters.net
 cn-feed-whatsapp.com.cn
 cn-gui-whatsapp.com.cn
 cn-spotify.cn
@@ -134,7 +125,6 @@ desktop-ledgrecdn.wixstudio.com
 dhl-express-dev.firebaseapp.com
 dir.com.my
 dj-facebook.blogspot.com
-dk-produkt352951.sbs
 docs-google.com
 docs-trezor-app.pages.dev
 docusign-server.github.io
@@ -148,7 +138,6 @@ dpdr.live
 dropbox-online.at
 dropbox-online.net
 dropboxbiz.com
-ebay-app.com
 ebay-c.com
 ebay-dru.org
 ebay-phone-number.blogspot.com
@@ -159,6 +148,7 @@ eddiesresidence.co.tz
 edgeone.dev
 email-microsoft.com
 email-update-comcast.weebly.com
+ember-whatsapp.com
 emersondasilva-dev.github.io
 emmanueldegreatltd.com
 epsilons.co
@@ -355,7 +345,6 @@ geotehnica.com
 ggzh-google.com.cn
 gloronyan.github.io
 gls-group.loan
-gls-live-points.pages.dev
 google-apk.com
 google1107.com
 google1208.com
@@ -479,10 +468,10 @@ jayaram0550.github.io
 jj-facebook.blogspot.com
 jo-facebook.blogspot.com
 jwb-facebook.blogspot.com
+kauadosantos.github.io
 kenhoward.com
 kiddnexus14.github.io
 kraken-tor.co.com
-kuc0innlogi.godaddysites.com
 kucoin-referral-code-pt.vercel.app
 kucoin9.com
 kucoinlogin_us.godaddysites.com
@@ -510,8 +499,6 @@ login.rmdbwskx.santander.bimp-bot.duckdns.org
 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 loginfacebook-facebook.blogspot.com
 logowanie-facebook.vercel.app
-lokalna-ofeta07534529123.sbs
-lokalna-ofeta562356886.sbs
 love-facebook.blogspot.com
 lovefive-facebook.blogspot.com
 lovevivah.com
@@ -592,8 +579,7 @@ network-facebook.blogspot.com
 news-revolut.com
 noreply-icloud.app
 nw-facebook.blogspot.com
-oferta-478221.sbs
-oferta-574168.cfd
+oferta65487.click
 office365licensingsupport.com
 online-facebook-privacy.blogspot.com
 oortstorages.com
@@ -626,7 +612,7 @@ prajwalkuchewar.github.io
 premio-instagram.com
 profil-facebook-saya.blogspot.com
 proteccion-outlook2026.iceiy.com
-prywanm12899.buzz
+ptai.in
 pushkar-hub.github.io
 quantum-flares.com
 r-facebook.blogspot.com
@@ -642,6 +628,7 @@ rekemonedasi-facebook.org
 republicanlibertycaucus.org
 rev.it
 roblox-login.vercel.app
+roblox.com.am
 roblox.com.bi
 roblox.com.bn
 roblox.com.bo
@@ -649,7 +636,6 @@ roblox.com.bz
 roblox.com.do
 roblox.com.ee
 roblox.com.gr
-roblox.com.ml
 roblox.com.mu
 roblox.com.pt
 rricrosoft-offices.org
@@ -669,7 +655,6 @@ securedsupport-coinbase.com
 secutury-facebook.blogspot.com
 send-secure-trustwallet-usdt-bip20.vercel.app
 services-facebook.blogspot.com
-seureonline.shop
 sheokand9806.github.io
 shruuti-005.github.io
 sigma-whatsapp.com
@@ -749,12 +734,12 @@ webpage-trezor-suite.typedream.app
 webstore.vn
 weeblysite.com
 wellsfargo-worl.vercel.app
-welxcufils.com.ng
 whatsapp-fast.vercel.app
 whatsapp-iamsuyash.vercel.app
 whatsapp-indonesia877.blogspot.com
 whatsapp-report.com
 whatsapp-verify.blogspot.com
+whatsapp7g.blogspot.com
 whatsappapk.org
 whatsappbrnoticias.blogspot.com
 whatsappcampaign.online
@@ -776,6 +761,7 @@ xfinity-updateform.weebly.com
 xfinity001.weebly.com
 xfinity003.weebly.com
 xfinity009.weebly.com
+xfinity101.duckdns.org
 xfinity2.vercel.app
 xfinity200212.weebly.com
 xfinityconnectemail.weebly.com
@@ -791,6 +777,7 @@ xfinitynow.weebly.com
 xfinityservices.vercel.app
 xfinitysupportnow.weebly.com
 xfinityteamslogin.weebly.com
+xfinityteamsservice.weebly.com
 xfinityttt.weebly.com
 xfinityupdatesnow.weebly.com
 yogufile.shop
