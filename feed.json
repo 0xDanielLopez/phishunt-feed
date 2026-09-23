@@ -1,5 +1,287 @@
 [
   {
+    "url": "https://facebook-trial.vercel.app",
+    "domain": "facebook-trial.vercel.app",
+    "company": "facebook",
+    "date": "2026-09-23T18:01:06.056653+00:00",
+    "first_seen": "2026-09-23T18:01:06.056653+00:00",
+    "uuid": "ff3c25dd-3eff-4b7c-8897-260dab785e8e",
+    "ip": "64.29.17.3",
+    "country": "United States",
+    "asn": "16509",
+    "org": "Amazon.com, Inc.",
+    "cert": "WR1",
+    "malicious_google": true,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "has_password_input",
+        "label": "Password field",
+        "points": 3.9
+      }
+    ],
+    "score": 42,
+    "verdict": "high"
+  },
+  {
+    "url": "https://facebook.net.tw",
+    "domain": "facebook.net.tw",
+    "company": "facebook",
+    "date": "2026-09-23T17:27:57.854018+00:00",
+    "first_seen": "2026-09-23T17:27:57.854018+00:00",
+    "uuid": "1b5a7ed8-81c7-499d-ae49-9ab4c9e4c0c6",
+    "ip": "207.56.11.22",
+    "country": "Hong Kong",
+    "asn": "54801",
+    "org": "Zillion Network Inc.",
+    "cert": "YR1",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 1.1
+      }
+    ],
+    "score": 17,
+    "verdict": "noise"
+  },
+  {
+    "url": "https://73a2370016b7.sncs.paypal-updates.antimoney-laundering.org",
+    "domain": "73a2370016b7.sncs.paypal-updates.antimoney-laundering.org",
+    "company": "paypal",
+    "date": "2026-09-23T17:26:37.641237+00:00",
+    "first_seen": "2026-09-23T17:26:37.641237+00:00",
+    "uuid": "94a71d03-8a73-422a-84b9-3df43c70fed6",
+    "ip": "208.91.197.27",
+    "country": "United States",
+    "asn": "40034",
+    "org": "Confluence Networks Inc",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 1.7
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 23,
+    "verdict": "low"
+  },
+  {
+    "url": "https://netflixde.com",
+    "domain": "netflixde.com",
+    "company": "netflix",
+    "date": "2026-09-23T17:26:31.175298+00:00",
+    "first_seen": "2026-09-23T17:26:31.175298+00:00",
+    "uuid": "1b493ca2-9340-45ad-8ace-ec9872e89410",
+    "ip": "172.67.186.11",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "YE2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      }
+    ],
+    "score": 32,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://microsoftoffice-o365.com",
+    "domain": "microsoftoffice-o365.com",
+    "company": "microsoft",
+    "date": "2026-09-23T17:26:29.776351+00:00",
+    "first_seen": "2026-09-23T17:26:29.776351+00:00",
+    "uuid": "28357182-df1b-4ab2-afdd-5423f803608f",
+    "ip": "172.67.163.42",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 1.5
+      }
+    ],
+    "score": 26,
+    "verdict": "low"
+  },
+  {
+    "url": "https://roblox.com.ml/users/382177838770/profile",
+    "domain": "roblox.com.ml",
+    "company": "roblox",
+    "date": "2026-09-23T17:01:26.098620+00:00",
+    "first_seen": "2026-09-23T17:01:26.098620+00:00",
+    "uuid": "d27fea42-c620-4298-9a99-2e1c70500c93",
+    "ip": "31.56.209.148",
+    "country": "The Netherlands",
+    "asn": "209373",
+    "org": "SWISSNET LLC",
+    "cert": "YE2",
+    "malicious_google": false,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 4.1
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "openphish_score",
+        "label": "OpenPhish",
+        "points": 3.0
+      }
+    ],
+    "score": 33,
+    "verdict": "medium"
+  },
+  {
     "url": "http://register-facebook.blogspot.com",
     "domain": "register-facebook.blogspot.com",
     "company": "facebook",
@@ -609,53 +891,6 @@
     ],
     "score": 38,
     "verdict": "medium"
-  },
-  {
-    "url": "https://shruuti-005.github.io/js-amazon-project/checkout.html",
-    "domain": "shruuti-005.github.io",
-    "company": "amazon",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-04-05T01:01:59.335037+00:00",
-    "uuid": "0b31d7d2-d6fd-4a1d-9509-17053fb934f6",
-    "ip": "185.199.109.153",
-    "country": "United States",
-    "asn": "54113",
-    "org": "Fastly, Inc.",
-    "cert": "R12",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_screenshot_text",
-        "label": "Brand in screenshot",
-        "points": 4.1
-      },
-      {
-        "signal": "ip_cluster",
-        "label": "Shared IP cluster",
-        "points": 3.4
-      },
-      {
-        "signal": "openphish_score",
-        "label": "OpenPhish",
-        "points": 3.0
-      }
-    ],
-    "score": 26,
-    "verdict": "low"
   },
   {
     "url": "https://google28.m4ntapaset.ink",
@@ -2162,100 +2397,6 @@
     "verdict": "high"
   },
   {
-    "url": "http://facebook-task-one.vercel.app",
-    "domain": "facebook-task-one.vercel.app",
-    "company": "facebook",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-04-30T13:00:37.738377+00:00",
-    "uuid": "8cfb5577-7094-4f4d-b522-2060f85092c5",
-    "ip": "216.198.79.195",
-    "country": "United States",
-    "asn": "16509",
-    "org": "Amazon.com, Inc.",
-    "cert": "WR1",
-    "malicious_google": true,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": true,
-    "malicious_urlscan": true,
-    "top_signals": [
-      {
-        "signal": "gsb_weighted",
-        "label": "Google Safe Browsing",
-        "points": 6.1
-      },
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "urlscan_score",
-        "label": "urlscan.io",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      }
-    ],
-    "score": 51,
-    "verdict": "high"
-  },
-  {
-    "url": "https://tanish-ashu.github.io/javascript-amazon-project",
-    "domain": "tanish-ashu.github.io",
-    "company": "amazon",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-04-30T13:00:44.362083+00:00",
-    "uuid": "6ee9cb3c-6d44-4a55-9160-08919ca0f0d4",
-    "ip": "185.199.108.153",
-    "country": "United States",
-    "asn": "54113",
-    "org": "Fastly, Inc.",
-    "cert": "R12",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "ip_cluster",
-        "label": "Shared IP cluster",
-        "points": 3.4
-      },
-      {
-        "signal": "openphish_score",
-        "label": "OpenPhish",
-        "points": 3.0
-      }
-    ],
-    "score": 26,
-    "verdict": "low"
-  },
-  {
     "url": "https://googlelogos.com",
     "domain": "googlelogos.com",
     "company": "google",
@@ -2630,100 +2771,6 @@
     ],
     "score": 38,
     "verdict": "medium"
-  },
-  {
-    "url": "https://hasan-321.github.io/video53-netflix-clone",
-    "domain": "hasan-321.github.io",
-    "company": "netflix",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-05-11T01:00:33.133058+00:00",
-    "uuid": "5ed56fd9-fac0-44a0-b78f-af3e7164b7c2",
-    "ip": "185.199.110.153",
-    "country": "United States",
-    "asn": "54113",
-    "org": "Fastly, Inc.",
-    "cert": "R12",
-    "malicious_google": true,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": true,
-    "top_signals": [
-      {
-        "signal": "gsb_weighted",
-        "label": "Google Safe Browsing",
-        "points": 6.1
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "urlscan_score",
-        "label": "urlscan.io",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "ip_cluster",
-        "label": "Shared IP cluster",
-        "points": 3.4
-      }
-    ],
-    "score": 30,
-    "verdict": "low"
-  },
-  {
-    "url": "http://facebook-signup-page-1zav.vercel.app",
-    "domain": "facebook-signup-page-1zav.vercel.app",
-    "company": "facebook",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-05-11T13:01:14.888433+00:00",
-    "uuid": "7db46b22-e2c4-4714-b7ab-c08776282f79",
-    "ip": "216.198.79.195",
-    "country": "United States",
-    "asn": "16509",
-    "org": "Amazon.com, Inc.",
-    "cert": "WR1",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": true,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "urlscan_score",
-        "label": "urlscan.io",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_screenshot_text",
-        "label": "Brand in screenshot",
-        "points": 4.1
-      }
-    ],
-    "score": 43,
-    "verdict": "high"
   },
   {
     "url": "https://admin.santandercitas.com",
@@ -3384,147 +3431,6 @@
     "verdict": "medium"
   },
   {
-    "url": "https://01felipeaugusto-star.github.io/https-www.instagram.com-",
-    "domain": "01felipeaugusto-star.github.io",
-    "company": "instagram",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-05-24T13:01:08.886314+00:00",
-    "uuid": "e87afe5f-36ff-40b0-963e-24ba70259ceb",
-    "ip": "185.199.111.153",
-    "country": "United States",
-    "asn": "54113",
-    "org": "Fastly, Inc.",
-    "cert": "R12",
-    "malicious_google": true,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": true,
-    "top_signals": [
-      {
-        "signal": "gsb_weighted",
-        "label": "Google Safe Browsing",
-        "points": 6.1
-      },
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "urlscan_score",
-        "label": "urlscan.io",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      }
-    ],
-    "score": 46,
-    "verdict": "high"
-  },
-  {
-    "url": "https://hsbcpress.com",
-    "domain": "hsbcpress.com",
-    "company": "hsbc",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-05-24T16:25:41.559446+00:00",
-    "uuid": "15ac3363-2d93-423e-b5a6-063f1069c490",
-    "ip": "158.106.138.95",
-    "country": "United States",
-    "asn": "63410",
-    "org": "PrivateSystems Networks",
-    "cert": "Let's Encrypt",
-    "malicious_google": false,
-    "malicious_openphish": false,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": true,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "urlscan_score",
-        "label": "urlscan.io",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_apex_label",
-        "label": "Brand in domain label",
-        "points": 3.7
-      },
-      {
-        "signal": "country_mismatch",
-        "label": "Country mismatch",
-        "points": 2.2
-      }
-    ],
-    "score": 26,
-    "verdict": "low"
-  },
-  {
-    "url": "https://hasyimf.github.io/login-instagram",
-    "domain": "hasyimf.github.io",
-    "company": "instagram",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-05-25T01:00:38.997016+00:00",
-    "uuid": "743983d1-5c16-4051-bd49-4a0205ec6e7e",
-    "ip": "185.199.108.153",
-    "country": "United States",
-    "asn": "54113",
-    "org": "Fastly, Inc.",
-    "cert": "R12",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_screenshot_text",
-        "label": "Brand in screenshot",
-        "points": 4.1
-      },
-      {
-        "signal": "has_password_input",
-        "label": "Password field",
-        "points": 3.9
-      }
-    ],
-    "score": 35,
-    "verdict": "medium"
-  },
-  {
     "url": "http://instagram-inky.vercel.app",
     "domain": "instagram-inky.vercel.app",
     "company": "instagram",
@@ -3758,53 +3664,6 @@
     ],
     "score": 34,
     "verdict": "medium"
-  },
-  {
-    "url": "https://indiarevolutionnova.github.io/fake-amazon-ui",
-    "domain": "indiarevolutionnova.github.io",
-    "company": "amazon",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-05-28T13:00:50.150738+00:00",
-    "uuid": "6d0bd291-ea10-4616-848c-1fb6110bb82c",
-    "ip": "185.199.110.153",
-    "country": "United States",
-    "asn": "54113",
-    "org": "Fastly, Inc.",
-    "cert": "R12",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_screenshot_text",
-        "label": "Brand in screenshot",
-        "points": 4.1
-      },
-      {
-        "signal": "ip_cluster",
-        "label": "Shared IP cluster",
-        "points": 3.4
-      }
-    ],
-    "score": 30,
-    "verdict": "low"
   },
   {
     "url": "https://dropbox-online.net",
@@ -4136,53 +3995,6 @@
     "verdict": "high"
   },
   {
-    "url": "https://hackerog17.github.io/1k-on-ur-instagram-account",
-    "domain": "hackerog17.github.io",
-    "company": "instagram",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-06-04T13:01:09.091355+00:00",
-    "uuid": "2ecbca9b-ca39-4f46-b002-910cc1b0ae32",
-    "ip": "185.199.109.153",
-    "country": "United States",
-    "asn": "54113",
-    "org": "Fastly, Inc.",
-    "cert": "R12",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_screenshot_text",
-        "label": "Brand in screenshot",
-        "points": 4.1
-      },
-      {
-        "signal": "has_password_input",
-        "label": "Password field",
-        "points": 3.9
-      }
-    ],
-    "score": 35,
-    "verdict": "medium"
-  },
-  {
     "url": "https://instagramlogin-accounts-logintocontinue.github.io/login-verification",
     "domain": "instagramlogin-accounts-logintocontinue.github.io",
     "company": "instagram",
@@ -4416,53 +4228,6 @@
     ],
     "score": 25,
     "verdict": "low"
-  },
-  {
-    "url": "https://facebook-main.vercel.app",
-    "domain": "facebook-main.vercel.app",
-    "company": "facebook",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-06-09T13:00:46.561917+00:00",
-    "uuid": "009b7d85-974c-40fc-b0e2-e8579c30686c",
-    "ip": "216.198.79.3",
-    "country": "United States",
-    "asn": "16509",
-    "org": "Amazon.com, Inc.",
-    "cert": "WR1",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": true,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "urlscan_score",
-        "label": "urlscan.io",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_screenshot_text",
-        "label": "Brand in screenshot",
-        "points": 4.1
-      }
-    ],
-    "score": 38,
-    "verdict": "medium"
   },
   {
     "url": "https://hsbc-sec.com",
@@ -4935,53 +4700,6 @@
     "verdict": "low"
   },
   {
-    "url": "https://393bet-facebook.sa.com",
-    "domain": "393bet-facebook.sa.com",
-    "company": "facebook",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-06-16T08:30:25.612287+00:00",
-    "uuid": "3903b5ce-15fc-4265-8673-cfd37c11db8a",
-    "ip": "188.114.97.3",
-    "country": "United States",
-    "asn": "13335",
-    "org": "Cloudflare, Inc.",
-    "cert": "Google Trust Services",
-    "malicious_google": false,
-    "malicious_openphish": false,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": true,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "urlscan_score",
-        "label": "urlscan.io",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_screenshot_text",
-        "label": "Brand in screenshot",
-        "points": 4.1
-      }
-    ],
-    "score": 35,
-    "verdict": "medium"
-  },
-  {
     "url": "https://office365.rricrosoft-offices.org/i/df3667320560f4a8a9918ef9f3f4c4383",
     "domain": "office365.rricrosoft-offices.org",
     "company": "microsoft",
@@ -5311,53 +5029,6 @@
     "verdict": "high"
   },
   {
-    "url": "http://rafaelmdsouza.github.io/transformatec-projeto-facebook",
-    "domain": "rafaelmdsouza.github.io",
-    "company": "facebook",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-06-25T13:01:20.738854+00:00",
-    "uuid": "daeeba9f-5987-4fad-b76a-8bca75a77ee9",
-    "ip": "185.199.109.153",
-    "country": "United States",
-    "asn": "54113",
-    "org": "Fastly, Inc.",
-    "cert": "YR2",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_screenshot_text",
-        "label": "Brand in screenshot",
-        "points": 4.1
-      },
-      {
-        "signal": "has_password_input",
-        "label": "Password field",
-        "points": 3.9
-      },
-      {
-        "signal": "ip_cluster",
-        "label": "Shared IP cluster",
-        "points": 3.4
-      }
-    ],
-    "score": 29,
-    "verdict": "low"
-  },
-  {
     "url": "https://outlook.verifytoken.com/s/63bzgfsvbwsfcdx7y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a",
     "domain": "outlook.verifytoken.com",
     "company": "microsoft",
@@ -5497,100 +5168,6 @@
     ],
     "score": 70,
     "verdict": "high"
-  },
-  {
-    "url": "http://francielilimaa.github.io/recriando-interface-instagram",
-    "domain": "francielilimaa.github.io",
-    "company": "instagram",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-06-28T01:01:47.569178+00:00",
-    "uuid": "ef684d26-8a29-4bda-b922-33033a0ca95b",
-    "ip": "185.199.109.153",
-    "country": "United States",
-    "asn": "54113",
-    "org": "Fastly, Inc.",
-    "cert": "-",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "ip_cluster",
-        "label": "Shared IP cluster",
-        "points": 3.4
-      },
-      {
-        "signal": "openphish_score",
-        "label": "OpenPhish",
-        "points": 3.0
-      }
-    ],
-    "score": 26,
-    "verdict": "low"
-  },
-  {
-    "url": "https://prajwalkuchewar.github.io/javascript-amazon-project",
-    "domain": "prajwalkuchewar.github.io",
-    "company": "amazon",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-06-28T01:01:54.711032+00:00",
-    "uuid": "a23fa87e-ef83-4821-860b-5e4ec842c326",
-    "ip": "185.199.110.153",
-    "country": "United States",
-    "asn": "54113",
-    "org": "Fastly, Inc.",
-    "cert": "-",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_screenshot_text",
-        "label": "Brand in screenshot",
-        "points": 4.1
-      },
-      {
-        "signal": "ip_cluster",
-        "label": "Shared IP cluster",
-        "points": 3.4
-      }
-    ],
-    "score": 30,
-    "verdict": "low"
   },
   {
     "url": "https://facebookaccountsmanager.blogspot.com/?m=1",
@@ -5875,53 +5452,6 @@
     "verdict": "medium"
   },
   {
-    "url": "http://facebook-login-page-three.vercel.app",
-    "domain": "facebook-login-page-three.vercel.app",
-    "company": "facebook",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-06-30T01:01:49.045458+00:00",
-    "uuid": "ccbef0fa-5ad2-455e-8028-558abacb4ff6",
-    "ip": "216.198.79.131",
-    "country": "United States",
-    "asn": "16509",
-    "org": "Amazon.com, Inc.",
-    "cert": "-",
-    "malicious_google": true,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": true,
-    "top_signals": [
-      {
-        "signal": "gsb_weighted",
-        "label": "Google Safe Browsing",
-        "points": 6.1
-      },
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "urlscan_score",
-        "label": "urlscan.io",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      }
-    ],
-    "score": 50,
-    "verdict": "high"
-  },
-  {
     "url": "http://facebookloginpage2.blogspot.com",
     "domain": "facebookloginpage2.blogspot.com",
     "company": "facebook",
@@ -6013,53 +5543,6 @@
       }
     ],
     "score": 30,
-    "verdict": "low"
-  },
-  {
-    "url": "https://itzthesandy.github.io/javascript-amazon-project",
-    "domain": "itzthesandy.github.io",
-    "company": "amazon",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-07-02T01:02:05.266273+00:00",
-    "uuid": "8ece8761-a009-462e-975e-d10a2a682edf",
-    "ip": "185.199.108.153",
-    "country": "United States",
-    "asn": "54113",
-    "org": "Fastly, Inc.",
-    "cert": "-",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "ip_cluster",
-        "label": "Shared IP cluster",
-        "points": 3.4
-      },
-      {
-        "signal": "openphish_score",
-        "label": "OpenPhish",
-        "points": 3.0
-      }
-    ],
-    "score": 26,
     "verdict": "low"
   },
   {
@@ -6721,53 +6204,6 @@
     "verdict": "low"
   },
   {
-    "url": "https://facebook-five-nu.vercel.app",
-    "domain": "facebook-five-nu.vercel.app",
-    "company": "facebook",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-07-10T01:01:41.614033+00:00",
-    "uuid": "c0ffbc3b-3b99-4a68-8791-d4ea8c018a47",
-    "ip": "216.198.79.131",
-    "country": "United States",
-    "asn": "16509",
-    "org": "Amazon.com, Inc.",
-    "cert": "-",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_screenshot_text",
-        "label": "Brand in screenshot",
-        "points": 4.1
-      },
-      {
-        "signal": "brand_in_apex_label",
-        "label": "Brand in domain label",
-        "points": 3.7
-      }
-    ],
-    "score": 34,
-    "verdict": "medium"
-  },
-  {
     "url": "https://free-facebook-page-likes.blogspot.com/?m=1",
     "domain": "free-facebook-page-likes.blogspot.com",
     "company": "facebook",
@@ -7097,53 +6533,6 @@
     "verdict": "medium"
   },
   {
-    "url": "https://facebook-sigma-ruby.vercel.app",
-    "domain": "facebook-sigma-ruby.vercel.app",
-    "company": "facebook",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-07-10T13:02:55.216304+00:00",
-    "uuid": "d9bf0db2-6ac5-46e8-a828-78cce6fd37d7",
-    "ip": "216.198.79.195",
-    "country": "United States",
-    "asn": "16509",
-    "org": "Amazon.com, Inc.",
-    "cert": "-",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "has_password_input",
-        "label": "Password field",
-        "points": 3.9
-      },
-      {
-        "signal": "brand_in_apex_label",
-        "label": "Brand in domain label",
-        "points": 3.7
-      }
-    ],
-    "score": 34,
-    "verdict": "medium"
-  },
-  {
     "url": "https://facebooklogin123.blogspot.com",
     "domain": "facebooklogin123.blogspot.com",
     "company": "facebook",
@@ -7188,53 +6577,6 @@
       }
     ],
     "score": 38,
-    "verdict": "medium"
-  },
-  {
-    "url": "http://facebook-old-login-page-suhaib-nadakkavils-projects.vercel.app",
-    "domain": "facebook-old-login-page-suhaib-nadakkavils-projects.vercel.app",
-    "company": "facebook",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-07-10T13:03:02.624068+00:00",
-    "uuid": "1138937f-d1eb-4a55-9e5e-10da2842f6ce",
-    "ip": "216.198.79.131",
-    "country": "United States",
-    "asn": "16509",
-    "org": "Amazon.com, Inc.",
-    "cert": "-",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_screenshot_text",
-        "label": "Brand in screenshot",
-        "points": 4.1
-      },
-      {
-        "signal": "brand_in_apex_label",
-        "label": "Brand in domain label",
-        "points": 3.7
-      },
-      {
-        "signal": "ip_cluster",
-        "label": "Shared IP cluster",
-        "points": 3.4
-      }
-    ],
-    "score": 31,
     "verdict": "medium"
   },
   {
@@ -8178,53 +7520,6 @@
     "verdict": "medium"
   },
   {
-    "url": "https://amirrhasanpor0915-pixel.github.io/https-www.amazon.com-",
-    "domain": "amirrhasanpor0915-pixel.github.io",
-    "company": "amazon",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-07-12T13:01:49.813923+00:00",
-    "uuid": "bc488ac8-e784-4859-b6b9-d2bbf50c31d2",
-    "ip": "185.199.111.153",
-    "country": "United States",
-    "asn": "54113",
-    "org": "Fastly, Inc.",
-    "cert": "-",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_screenshot_text",
-        "label": "Brand in screenshot",
-        "points": 4.1
-      },
-      {
-        "signal": "ip_cluster",
-        "label": "Shared IP cluster",
-        "points": 3.4
-      }
-    ],
-    "score": 31,
-    "verdict": "medium"
-  },
-  {
     "url": "https://click-facebook.blogspot.com/?m=1",
     "domain": "click-facebook.blogspot.com",
     "company": "facebook",
@@ -8646,53 +7941,6 @@
     ],
     "score": 32,
     "verdict": "medium"
-  },
-  {
-    "url": "http://facebook-gamma-tawny.vercel.app",
-    "domain": "facebook-gamma-tawny.vercel.app",
-    "company": "facebook",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-07-14T01:01:57.957490+00:00",
-    "uuid": "e38f3a5a-e9df-4b4e-8dd8-8579644ad3e1",
-    "ip": "216.198.79.67",
-    "country": "United States",
-    "asn": "16509",
-    "org": "Amazon.com, Inc.",
-    "cert": "-",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_apex_label",
-        "label": "Brand in domain label",
-        "points": 3.7
-      },
-      {
-        "signal": "ip_cluster",
-        "label": "Shared IP cluster",
-        "points": 3.4
-      },
-      {
-        "signal": "openphish_score",
-        "label": "OpenPhish",
-        "points": 3.0
-      }
-    ],
-    "score": 25,
-    "verdict": "low"
   },
   {
     "url": "https://facebook-vn-com.blogspot.com/?m=1",
@@ -9494,100 +8742,6 @@
     "verdict": "low"
   },
   {
-    "url": "https://fmello2002.github.io/projeto-dio-tela-login-instagram",
-    "domain": "fmello2002.github.io",
-    "company": "instagram",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-07-15T13:01:09.786538+00:00",
-    "uuid": "ad830c6f-4e5b-49fa-acaf-4319fea1a459",
-    "ip": "185.199.111.153",
-    "country": "United States",
-    "asn": "54113",
-    "org": "Fastly, Inc.",
-    "cert": "-",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 4.8
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_screenshot_text",
-        "label": "Brand in screenshot",
-        "points": 4.1
-      },
-      {
-        "signal": "ip_cluster",
-        "label": "Shared IP cluster",
-        "points": 3.4
-      }
-    ],
-    "score": 30,
-    "verdict": "low"
-  },
-  {
-    "url": "https://pushkar-hub.github.io/javascript-amazon-project",
-    "domain": "pushkar-hub.github.io",
-    "company": "amazon",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-07-15T13:01:10.781401+00:00",
-    "uuid": "cfba0c58-2732-4d44-9d3d-cc319da7857a",
-    "ip": "185.199.108.153",
-    "country": "United States",
-    "asn": "54113",
-    "org": "Fastly, Inc.",
-    "cert": "-",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "ip_cluster",
-        "label": "Shared IP cluster",
-        "points": 3.4
-      },
-      {
-        "signal": "openphish_score",
-        "label": "OpenPhish",
-        "points": 3.0
-      }
-    ],
-    "score": 26,
-    "verdict": "low"
-  },
-  {
     "url": "https://www-app-google.com",
     "domain": "www-app-google.com",
     "company": "google",
@@ -10102,53 +9256,6 @@
       }
     ],
     "score": 34,
-    "verdict": "medium"
-  },
-  {
-    "url": "https://clon-facebook.vercel.app",
-    "domain": "clon-facebook.vercel.app",
-    "company": "facebook",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-07-18T01:03:28.840926+00:00",
-    "uuid": "e2ed20eb-345e-4340-86d8-f603d5bf203e",
-    "ip": "64.29.17.67",
-    "country": "United States",
-    "asn": "16509",
-    "org": "Amazon.com, Inc.",
-    "cert": "-",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": true,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "urlscan_score",
-        "label": "urlscan.io",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_screenshot_text",
-        "label": "Brand in screenshot",
-        "points": 4.1
-      }
-    ],
-    "score": 37,
     "verdict": "medium"
   },
   {
@@ -12415,53 +11522,6 @@
     "first_seen": "2026-07-23T13:01:59.468991+00:00",
     "uuid": "3e8114fe-bf54-4ad6-9b50-405145ad3acc",
     "ip": "64.29.17.3",
-    "country": "United States",
-    "asn": "16509",
-    "org": "Amazon.com, Inc.",
-    "cert": "-",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_screenshot_text",
-        "label": "Brand in screenshot",
-        "points": 4.1
-      },
-      {
-        "signal": "brand_in_apex_label",
-        "label": "Brand in domain label",
-        "points": 3.7
-      }
-    ],
-    "score": 34,
-    "verdict": "medium"
-  },
-  {
-    "url": "http://amazon-ten-gamma.vercel.app",
-    "domain": "amazon-ten-gamma.vercel.app",
-    "company": "amazon",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-07-23T13:02:07.151515+00:00",
-    "uuid": "9a38d661-69f9-413f-8eb3-79a41da96038",
-    "ip": "64.29.17.67",
     "country": "United States",
     "asn": "16509",
     "org": "Amazon.com, Inc.",
@@ -17625,53 +16685,6 @@
     "verdict": "medium"
   },
   {
-    "url": "http://amazon-eight-taupe.vercel.app",
-    "domain": "amazon-eight-taupe.vercel.app",
-    "company": "amazon",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-07-31T13:01:56.902288+00:00",
-    "uuid": "4b94e1e7-de36-4d86-8d65-75589cdbd138",
-    "ip": "216.198.79.195",
-    "country": "United States",
-    "asn": "16509",
-    "org": "Amazon.com, Inc.",
-    "cert": "-",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_apex_label",
-        "label": "Brand in domain label",
-        "points": 3.7
-      },
-      {
-        "signal": "ip_cluster",
-        "label": "Shared IP cluster",
-        "points": 3.4
-      }
-    ],
-    "score": 30,
-    "verdict": "low"
-  },
-  {
     "url": "https://facebooklogin19.blogspot.com",
     "domain": "facebooklogin19.blogspot.com",
     "company": "facebook",
@@ -17904,53 +16917,6 @@
       }
     ],
     "score": 25,
-    "verdict": "low"
-  },
-  {
-    "url": "https://manish1719.github.io/my-amazon-html-css-project",
-    "domain": "manish1719.github.io",
-    "company": "amazon",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-08-01T13:01:26.222998+00:00",
-    "uuid": "7f588df8-d705-4ceb-bc7e-0feb79bc7091",
-    "ip": "185.199.111.153",
-    "country": "United States",
-    "asn": "54113",
-    "org": "Fastly, Inc.",
-    "cert": "-",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_screenshot_text",
-        "label": "Brand in screenshot",
-        "points": 4.1
-      },
-      {
-        "signal": "ip_cluster",
-        "label": "Shared IP cluster",
-        "points": 3.4
-      }
-    ],
-    "score": 30,
     "verdict": "low"
   },
   {
@@ -18612,53 +17578,6 @@
     "verdict": "medium"
   },
   {
-    "url": "http://amazon-web-inspired.vercel.app",
-    "domain": "amazon-web-inspired.vercel.app",
-    "company": "amazon",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-08-04T13:01:37.406784+00:00",
-    "uuid": "addd4233-5c68-40a1-a3e3-a872b4fb4f7b",
-    "ip": "216.198.79.67",
-    "country": "United States",
-    "asn": "16509",
-    "org": "Amazon.com, Inc.",
-    "cert": "-",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_apex_label",
-        "label": "Brand in domain label",
-        "points": 3.7
-      },
-      {
-        "signal": "ip_cluster",
-        "label": "Shared IP cluster",
-        "points": 3.4
-      }
-    ],
-    "score": 30,
-    "verdict": "low"
-  },
-  {
     "url": "https://santander2026.dothome.co.kr",
     "domain": "santander2026.dothome.co.kr",
     "company": "santander",
@@ -19268,53 +18187,6 @@
     ],
     "score": 32,
     "verdict": "medium"
-  },
-  {
-    "url": "https://anoopsamazon.vercel.app",
-    "domain": "anoopsamazon.vercel.app",
-    "company": "amazon",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-08-07T13:01:25.702782+00:00",
-    "uuid": "e3327ac6-fa24-4711-9b8c-3368d6535825",
-    "ip": "64.29.17.195",
-    "country": "United States",
-    "asn": "16509",
-    "org": "Amazon.com, Inc.",
-    "cert": "-",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_screenshot_text",
-        "label": "Brand in screenshot",
-        "points": 4.1
-      },
-      {
-        "signal": "ip_cluster",
-        "label": "Shared IP cluster",
-        "points": 3.4
-      }
-    ],
-    "score": 30,
-    "verdict": "low"
   },
   {
     "url": "https://login.rmdbwskx.santander.bimp-bot.duckdns.org",
@@ -19973,53 +18845,6 @@
     ],
     "score": 37,
     "verdict": "medium"
-  },
-  {
-    "url": "https://sheokand9806.github.io/javascript-amazon-project",
-    "domain": "sheokand9806.github.io",
-    "company": "amazon",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-08-09T01:02:31.573237+00:00",
-    "uuid": "5770065e-ac72-46ea-a1ad-429f878e3e5b",
-    "ip": "185.199.109.153",
-    "country": "United States",
-    "asn": "54113",
-    "org": "Fastly, Inc.",
-    "cert": "-",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "ip_cluster",
-        "label": "Shared IP cluster",
-        "points": 3.4
-      },
-      {
-        "signal": "openphish_score",
-        "label": "OpenPhish",
-        "points": 3.0
-      }
-    ],
-    "score": 26,
-    "verdict": "low"
   },
   {
     "url": "https://fedex-olive.vercel.app",
@@ -23641,53 +22466,6 @@
     "verdict": "medium"
   },
   {
-    "url": "http://amazon-ecommerce-nine.vercel.app",
-    "domain": "amazon-ecommerce-nine.vercel.app",
-    "company": "amazon",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-08-28T01:02:49.669571+00:00",
-    "uuid": "08ea66e2-40f8-47d4-b953-a6c6e9cdd6c2",
-    "ip": "216.198.79.67",
-    "country": "United States",
-    "asn": "16509",
-    "org": "Amazon.com, Inc.",
-    "cert": "WR1",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_apex_label",
-        "label": "Brand in domain label",
-        "points": 3.7
-      },
-      {
-        "signal": "cert_cluster",
-        "label": "Cert reuse",
-        "points": 3.4
-      }
-    ],
-    "score": 34,
-    "verdict": "medium"
-  },
-  {
     "url": "http://facebook-links.blogspot.com",
     "domain": "facebook-links.blogspot.com",
     "company": "facebook",
@@ -24673,53 +23451,6 @@
     ],
     "score": 41,
     "verdict": "high"
-  },
-  {
-    "url": "http://mehdi-bellache.github.io/javascript-amazon-project/orders.html",
-    "domain": "mehdi-bellache.github.io",
-    "company": "amazon",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-08-29T13:15:12.885355+00:00",
-    "uuid": "23b43004-95d4-4ff0-8097-0f9d7fd89607",
-    "ip": "185.199.108.153",
-    "country": "United States",
-    "asn": "54113",
-    "org": "Fastly, Inc.",
-    "cert": "YR1",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "cert_cluster",
-        "label": "Cert reuse",
-        "points": 3.4
-      },
-      {
-        "signal": "ip_cluster",
-        "label": "Shared IP cluster",
-        "points": 3.4
-      },
-      {
-        "signal": "openphish_score",
-        "label": "OpenPhish",
-        "points": 3.0
-      }
-    ],
-    "score": 25,
-    "verdict": "low"
   },
   {
     "url": "https://ledger-live-login-web.square.site",
@@ -26367,53 +25098,6 @@
     "verdict": "high"
   },
   {
-    "url": "https://facebook-trial.vercel.app",
-    "domain": "facebook-trial.vercel.app",
-    "company": "facebook",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-09-03T13:07:29.178807+00:00",
-    "uuid": "16febc81-cdd3-4c23-bf76-2cd0f0e12159",
-    "ip": "216.198.79.131",
-    "country": "United States",
-    "asn": "16509",
-    "org": "Amazon.com, Inc.",
-    "cert": "WR1",
-    "malicious_google": true,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "gsb_weighted",
-        "label": "Google Safe Browsing",
-        "points": 6.1
-      },
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_screenshot_text",
-        "label": "Brand in screenshot",
-        "points": 4.1
-      }
-    ],
-    "score": 49,
-    "verdict": "high"
-  },
-  {
     "url": "https://facebook-theta.vercel.app",
     "domain": "facebook-theta.vercel.app",
     "company": "facebook",
@@ -26647,53 +25331,6 @@
     ],
     "score": 30,
     "verdict": "low"
-  },
-  {
-    "url": "http://amazon-front-me.vercel.app",
-    "domain": "amazon-front-me.vercel.app",
-    "company": "amazon",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-09-04T01:04:15.390136+00:00",
-    "uuid": "9353dd50-9a91-45ae-ae81-81776360ab8f",
-    "ip": "64.29.17.67",
-    "country": "United States",
-    "asn": "16509",
-    "org": "Amazon.com, Inc.",
-    "cert": "WR1",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_screenshot_text",
-        "label": "Brand in screenshot",
-        "points": 4.1
-      },
-      {
-        "signal": "brand_in_apex_label",
-        "label": "Brand in domain label",
-        "points": 3.7
-      }
-    ],
-    "score": 38,
-    "verdict": "medium"
   },
   {
     "url": "https://comcast2.vercel.app",
@@ -28388,53 +27025,6 @@
     "verdict": "low"
   },
   {
-    "url": "https://emersondasilva-dev.github.io/home-instagram/",
-    "domain": "emersondasilva-dev.github.io",
-    "company": "instagram",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-09-07T13:03:48.277637+00:00",
-    "uuid": "ac274697-e603-480d-b725-e695c4c57242",
-    "ip": "185.199.111.153",
-    "country": "United States",
-    "asn": "54113",
-    "org": "Fastly, Inc.",
-    "cert": "YR1",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_screenshot_text",
-        "label": "Brand in screenshot",
-        "points": 4.1
-      },
-      {
-        "signal": "has_password_input",
-        "label": "Password field",
-        "points": 3.9
-      }
-    ],
-    "score": 39,
-    "verdict": "medium"
-  },
-  {
     "url": "https://todo--facebook.blogspot.com",
     "domain": "todo--facebook.blogspot.com",
     "company": "facebook",
@@ -29516,53 +28106,6 @@
     "verdict": "noise"
   },
   {
-    "url": "https://facebook-bay.vercel.app",
-    "domain": "facebook-bay.vercel.app",
-    "company": "facebook",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-09-10T13:04:27.399503+00:00",
-    "uuid": "a8249c5c-2259-4bfb-908b-615c2b68603e",
-    "ip": "216.198.79.195",
-    "country": "United States",
-    "asn": "16509",
-    "org": "Amazon.com, Inc.",
-    "cert": "WR1",
-    "malicious_google": true,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "gsb_weighted",
-        "label": "Google Safe Browsing",
-        "points": 6.1
-      },
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_screenshot_text",
-        "label": "Brand in screenshot",
-        "points": 4.1
-      }
-    ],
-    "score": 47,
-    "verdict": "high"
-  },
-  {
     "url": "https://metamask2-eight.vercel.app",
     "domain": "metamask2-eight.vercel.app",
     "company": "metamask",
@@ -30078,53 +28621,6 @@
     ],
     "score": 36,
     "verdict": "medium"
-  },
-  {
-    "url": "https://aishwarya-rathore.github.io/javascript-amazon-project-main-main",
-    "domain": "aishwarya-rathore.github.io",
-    "company": "amazon",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-09-11T01:02:31.322663+00:00",
-    "uuid": "fae9950a-90eb-4911-9700-a37b0d23d3e1",
-    "ip": "185.199.111.153",
-    "country": "United States",
-    "asn": "54113",
-    "org": "Fastly, Inc.",
-    "cert": "YR1",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "cert_cluster",
-        "label": "Cert reuse",
-        "points": 3.4
-      },
-      {
-        "signal": "ip_cluster",
-        "label": "Shared IP cluster",
-        "points": 3.4
-      }
-    ],
-    "score": 30,
-    "verdict": "low"
   },
   {
     "url": "http://sign-in-to-xfinity-090.weebly.com",
@@ -31114,53 +29610,6 @@
     "verdict": "low"
   },
   {
-    "url": "https://smswt.in",
-    "domain": "smswt.in",
-    "company": "",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-09-13T05:26:54.557990+00:00",
-    "uuid": "5e14079c-0799-4c8e-9cd9-4eca1bf4a8ff",
-    "ip": "72.61.239.115",
-    "country": "India",
-    "asn": "47583",
-    "org": "Hostinger International Limited",
-    "cert": "YR1",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kit_found",
-        "label": "Kit captured",
-        "points": 5.1
-      },
-      {
-        "signal": "has_password_input",
-        "label": "Password field",
-        "points": 3.9
-      },
-      {
-        "signal": "openphish_score",
-        "label": "OpenPhish",
-        "points": 3.0
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 2.0
-      },
-      {
-        "signal": "csp_missing",
-        "label": "No CSP header",
-        "points": 1.1
-      }
-    ],
-    "score": 95,
-    "verdict": "critical"
-  },
-  {
     "url": "https://roblox.com.mu/communities/3330747117/Robux-Giveaway-Group",
     "domain": "roblox.com.mu",
     "company": "roblox",
@@ -31723,53 +30172,6 @@
     ],
     "score": 33,
     "verdict": "medium"
-  },
-  {
-    "url": "https://facebook-fields-validation-card-expand-logic.vercel.app",
-    "domain": "facebook-fields-validation-card-expand-logic.vercel.app",
-    "company": "facebook",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-09-14T01:02:05.697601+00:00",
-    "uuid": "ec4df983-1cca-4668-8761-95d7f514ac5c",
-    "ip": "216.198.79.3",
-    "country": "United States",
-    "asn": "16509",
-    "org": "Amazon.com, Inc.",
-    "cert": "WR1",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_screenshot_text",
-        "label": "Brand in screenshot",
-        "points": 4.1
-      },
-      {
-        "signal": "has_password_input",
-        "label": "Password field",
-        "points": 3.9
-      }
-    ],
-    "score": 42,
-    "verdict": "high"
   },
   {
     "url": "https://whatsapp.wooflers.com/livewire-742499fa",
@@ -35015,53 +33417,6 @@
     "verdict": "low"
   },
   {
-    "url": "http://samridhiverma10.github.io/amazon/amazon.html",
-    "domain": "samridhiverma10.github.io",
-    "company": "amazon",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-09-19T13:03:01.446580+00:00",
-    "uuid": "089c497c-89d5-41c4-99c0-a9a16d39afeb",
-    "ip": "185.199.108.153",
-    "country": "United States",
-    "asn": "54113",
-    "org": "Fastly, Inc.",
-    "cert": "YR1",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "cert_cluster",
-        "label": "Cert reuse",
-        "points": 3.4
-      },
-      {
-        "signal": "ip_cluster",
-        "label": "Shared IP cluster",
-        "points": 3.4
-      }
-    ],
-    "score": 31,
-    "verdict": "medium"
-  },
-  {
     "url": "https://case-binance.us",
     "domain": "case-binance.us",
     "company": "binance",
@@ -35861,53 +34216,6 @@
     "verdict": "low"
   },
   {
-    "url": "https://sumit8399.github.io/Amazon.in/",
-    "domain": "sumit8399.github.io",
-    "company": "amazon",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-09-21T13:02:36.979248+00:00",
-    "uuid": "d667285a-0473-4f59-9420-08c189f6f5ef",
-    "ip": "185.199.110.153",
-    "country": "United States",
-    "asn": "54113",
-    "org": "Fastly, Inc.",
-    "cert": "YR1",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_screenshot_text",
-        "label": "Brand in screenshot",
-        "points": 4.1
-      },
-      {
-        "signal": "cert_cluster",
-        "label": "Cert reuse",
-        "points": 3.4
-      }
-    ],
-    "score": 35,
-    "verdict": "medium"
-  },
-  {
     "url": "http://comcastwebmailuser.weebly.com",
     "domain": "comcastwebmailuser.weebly.com",
     "company": "xfinity",
@@ -35999,53 +34307,6 @@
       }
     ],
     "score": 32,
-    "verdict": "medium"
-  },
-  {
-    "url": "https://aidenpiearce.github.io/Javascript-amazon/amazon.html",
-    "domain": "aidenpiearce.github.io",
-    "company": "amazon",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-09-21T13:04:08.531244+00:00",
-    "uuid": "27c95126-94aa-44ef-bd47-c8cb93767228",
-    "ip": "185.199.108.153",
-    "country": "United States",
-    "asn": "54113",
-    "org": "Fastly, Inc.",
-    "cert": "YR1",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "cert_cluster",
-        "label": "Cert reuse",
-        "points": 3.4
-      },
-      {
-        "signal": "ip_cluster",
-        "label": "Shared IP cluster",
-        "points": 3.4
-      }
-    ],
-    "score": 31,
     "verdict": "medium"
   },
   {
@@ -36329,53 +34590,6 @@
     ],
     "score": 45,
     "verdict": "high"
-  },
-  {
-    "url": "https://kiddnexus14.github.io/V11-ICloude-Login-Page-Clone/",
-    "domain": "kiddnexus14.github.io",
-    "company": "apple",
-    "date": "2026-09-23T15:30:09.192460+00:00",
-    "first_seen": "2026-09-22T01:02:40.474634+00:00",
-    "uuid": "1e3c2331-d588-4ff9-be8d-47a4ec125fb3",
-    "ip": "185.199.108.153",
-    "country": "United States",
-    "asn": "54113",
-    "org": "Fastly, Inc.",
-    "cert": "YR1",
-    "malicious_google": false,
-    "malicious_openphish": true,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 4.8
-      },
-      {
-        "signal": "cert_cluster",
-        "label": "Cert reuse",
-        "points": 3.4
-      },
-      {
-        "signal": "ip_cluster",
-        "label": "Shared IP cluster",
-        "points": 3.4
-      },
-      {
-        "signal": "openphish_score",
-        "label": "OpenPhish",
-        "points": 3.0
-      }
-    ],
-    "score": 26,
-    "verdict": "low"
   },
   {
     "url": "https://republicanlibertycaucus.org",

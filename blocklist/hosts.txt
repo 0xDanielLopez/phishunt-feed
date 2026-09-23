@@ -1,43 +1,32 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 781
-# Updated: 2026-09-23T17:00:34Z
+# Entries: 742
+# Updated: 2026-09-23T21:30:44Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
-0.0.0.0 01felipeaugusto-star.github.io
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 20bet26.com
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
-0.0.0.0 393bet-facebook.sa.com
 0.0.0.0 9281238712gh9.beer
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
 0.0.0.0 account-instagram.vercel.app
-0.0.0.0 aidenpiearce.github.io
-0.0.0.0 aishwarya-rathore.github.io
 0.0.0.0 alibaba188.org
 0.0.0.0 alibaba66.co
 0.0.0.0 alibaba666.app
 0.0.0.0 alibaba66a.net
-0.0.0.0 amazon-ecommerce-nine.vercel.app
-0.0.0.0 amazon-eight-taupe.vercel.app
-0.0.0.0 amazon-front-me.vercel.app
 0.0.0.0 amazon-harshdeep.vercel.app
 0.0.0.0 amazon-opfq.vercel.app
 0.0.0.0 amazon-promos.shop
-0.0.0.0 amazon-ten-gamma.vercel.app
-0.0.0.0 amazon-web-inspired.vercel.app
-0.0.0.0 amirrhasanpor0915-pixel.github.io
 0.0.0.0 androidguias.com
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 annulation-amazon.com
-0.0.0.0 anoopsamazon.vercel.app
 0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
@@ -93,7 +82,6 @@
 0.0.0.0 chatgptpl.com
 0.0.0.0 citrix-sharing.com
 0.0.0.0 click-facebook.blogspot.com
-0.0.0.0 clon-facebook.vercel.app
 0.0.0.0 cn-feed-whatsapp.com.cn
 0.0.0.0 cn-gui-whatsapp.com.cn
 0.0.0.0 cn-spotify.cn
@@ -149,7 +137,6 @@
 0.0.0.0 email-microsoft.com
 0.0.0.0 email-update-comcast.weebly.com
 0.0.0.0 ember-whatsapp.com
-0.0.0.0 emersondasilva-dev.github.io
 0.0.0.0 emmanueldegreatltd.com
 0.0.0.0 epsilons.co
 0.0.0.0 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
@@ -178,7 +165,6 @@
 0.0.0.0 facebook-astuces-news.blogspot.com
 0.0.0.0 facebook-auto-liker.blogspot.com
 0.0.0.0 facebook-ba.blogspot.com
-0.0.0.0 facebook-bay.vercel.app
 0.0.0.0 facebook-benjamin.blogspot.com
 0.0.0.0 facebook-blond.vercel.app
 0.0.0.0 facebook-carol.blogspot.com
@@ -194,12 +180,9 @@
 0.0.0.0 facebook-fansdanssapage.blogspot.com
 0.0.0.0 facebook-faq.se
 0.0.0.0 facebook-fb-com.blogspot.com
-0.0.0.0 facebook-fields-validation-card-expand-logic.vercel.app
 0.0.0.0 facebook-find.blogspot.com
 0.0.0.0 facebook-five-gamma.vercel.app
-0.0.0.0 facebook-five-nu.vercel.app
 0.0.0.0 facebook-gamehacks.blogspot.com
-0.0.0.0 facebook-gamma-tawny.vercel.app
 0.0.0.0 facebook-germany.blogspot.com
 0.0.0.0 facebook-groups-new.blogspot.com
 0.0.0.0 facebook-hack-accounts.blogspot.com
@@ -215,7 +198,6 @@
 0.0.0.0 facebook-login-help.blogspot.com
 0.0.0.0 facebook-login-it.blogspot.com
 0.0.0.0 facebook-login-page-kappa.vercel.app
-0.0.0.0 facebook-login-page-three.vercel.app
 0.0.0.0 facebook-login-page.blogspot.com
 0.0.0.0 facebook-login-pages.blogspot.com
 0.0.0.0 facebook-login-redirect.blogspot.com
@@ -224,14 +206,12 @@
 0.0.0.0 facebook-login0.blogspot.com
 0.0.0.0 facebook-loging.blogspot.com
 0.0.0.0 facebook-logo.blogspot.com
-0.0.0.0 facebook-main.vercel.app
 0.0.0.0 facebook-mark.blogspot.com
 0.0.0.0 facebook-networks.blogspot.com
 0.0.0.0 facebook-new-security.blogspot.com
 0.0.0.0 facebook-ng.blogspot.com
 0.0.0.0 facebook-notification.blogspot.com
 0.0.0.0 facebook-official-page.blogspot.com
-0.0.0.0 facebook-old-login-page-suhaib-nadakkavils-projects.vercel.app
 0.0.0.0 facebook-photo5.blogspot.com
 0.0.0.0 facebook-pi.blogspot.com
 0.0.0.0 facebook-prime.blogspot.com
@@ -248,12 +228,9 @@
 0.0.0.0 facebook-seks-45.blogspot.com
 0.0.0.0 facebook-services-login.blogspot.com
 0.0.0.0 facebook-seven-alpha.vercel.app
-0.0.0.0 facebook-sigma-ruby.vercel.app
-0.0.0.0 facebook-signup-page-1zav.vercel.app
 0.0.0.0 facebook-source.blogspot.com
 0.0.0.0 facebook-supports.blogspot.com
 0.0.0.0 facebook-system.blogspot.com
-0.0.0.0 facebook-task-one.vercel.app
 0.0.0.0 facebook-theta.vercel.app
 0.0.0.0 facebook-trial.vercel.app
 0.0.0.0 facebook-trk.blogspot.com
@@ -266,6 +243,7 @@
 0.0.0.0 facebook-vn-com.blogspot.com
 0.0.0.0 facebook-vn.blogspot.com
 0.0.0.0 facebook-vu.blogspot.com
+0.0.0.0 facebook.net.tw
 0.0.0.0 facebook1019key.blogspot.com
 0.0.0.0 facebook7-facebook.blogspot.com
 0.0.0.0 facebookaccountsmanager.blogspot.com
@@ -333,11 +311,9 @@
 0.0.0.0 fedexbeta.com
 0.0.0.0 feq-trezor-suite-app.typedream.app
 0.0.0.0 file-whatsappn.hl.cn
-0.0.0.0 fmello2002.github.io
 0.0.0.0 forsakens-crew-teman-facebook.blogspot.com
 0.0.0.0 foryour.review
 0.0.0.0 fr-spotify.com
-0.0.0.0 francielilimaa.github.io
 0.0.0.0 free-facebook-page-likes.blogspot.com
 0.0.0.0 fwh.is
 0.0.0.0 gafiatechnologies.com
@@ -366,10 +342,7 @@
 0.0.0.0 googleplrzy.com
 0.0.0.0 googleuserlogin.cam
 0.0.0.0 grupoimpaktu.ao
-0.0.0.0 hackerog17.github.io
-0.0.0.0 hasan-321.github.io
 0.0.0.0 hashnode.dev
-0.0.0.0 hasyimf.github.io
 0.0.0.0 healthassistcarepro.com
 0.0.0.0 help-instagram.blogspot.com
 0.0.0.0 hofmemorabilia.ebaymclaren-austin.eventshouse.app
@@ -380,7 +353,6 @@
 0.0.0.0 hotmail143.net
 0.0.0.0 hsbc-sec.com
 0.0.0.0 hsbccpersonalonlinebanking.com
-0.0.0.0 hsbcpress.com
 0.0.0.0 hsbctds.com
 0.0.0.0 hstn.me
 0.0.0.0 iberdrolatrade.com
@@ -389,7 +361,6 @@
 0.0.0.0 icloudnotify.help
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
-0.0.0.0 indiarevolutionnova.github.io
 0.0.0.0 info-facebook.blogspot.com
 0.0.0.0 iniciamazon.com.br
 0.0.0.0 instagram-2-0-4p6f5s6nd-chibokaxavier.vercel.app
@@ -463,14 +434,12 @@
 0.0.0.0 itau-com.vercel.app
 0.0.0.0 itau-snowy.vercel.app
 0.0.0.0 itauu.vercel.app
-0.0.0.0 itzthesandy.github.io
 0.0.0.0 jayaram0550.github.io
 0.0.0.0 jj-facebook.blogspot.com
 0.0.0.0 jo-facebook.blogspot.com
 0.0.0.0 jwb-facebook.blogspot.com
 0.0.0.0 kauadosantos.github.io
 0.0.0.0 kenhoward.com
-0.0.0.0 kiddnexus14.github.io
 0.0.0.0 kraken-tor.co.com
 0.0.0.0 kucoin-referral-code-pt.vercel.app
 0.0.0.0 kucoin9.com
@@ -506,7 +475,6 @@
 0.0.0.0 m365-microsoft.com
 0.0.0.0 m4ntapaset.ink
 0.0.0.0 mail-xfinitylogin.weebly.com
-0.0.0.0 manish1719.github.io
 0.0.0.0 marycar.com.br
 0.0.0.0 mb-facebook.blogspot.com
 0.0.0.0 mclarencar.ebaymclaren-austin.eventshouse.app
@@ -514,7 +482,6 @@
 0.0.0.0 meet-googlee46347975696.pages.dev
 0.0.0.0 meet-googlee7563454656.pages.dev
 0.0.0.0 meet-googlee7823629056.pages.dev
-0.0.0.0 mehdi-bellache.github.io
 0.0.0.0 meme-facebook.blogspot.com
 0.0.0.0 metamask-ai-agent.vercel.app
 0.0.0.0 metamask-connect.vercel.app
@@ -544,6 +511,7 @@
 0.0.0.0 microsoft365businessbasic.com
 0.0.0.0 microsoft365updates.com
 0.0.0.0 microsoftjk.eu.org
+0.0.0.0 microsoftoffice-o365.com
 0.0.0.0 microsoftsupportcenter.digital
 0.0.0.0 microsoftuk.co
 0.0.0.0 microsoftwordob.blogspot.com
@@ -569,6 +537,7 @@
 0.0.0.0 netflix6.com
 0.0.0.0 netflixandchiffres.com
 0.0.0.0 netflixbymanoj.vercel.app
+0.0.0.0 netflixde.com
 0.0.0.0 netflixfeitoaqui.com.br
 0.0.0.0 netflixinfos.com
 0.0.0.0 netflixquebec.blogspot.com
@@ -608,15 +577,12 @@
 0.0.0.0 pc-spotify.cn
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 pl-oferta58296379.shop
-0.0.0.0 prajwalkuchewar.github.io
 0.0.0.0 premio-instagram.com
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 proteccion-outlook2026.iceiy.com
 0.0.0.0 ptai.in
-0.0.0.0 pushkar-hub.github.io
 0.0.0.0 quantum-flares.com
 0.0.0.0 r-facebook.blogspot.com
-0.0.0.0 rafaelmdsouza.github.io
 0.0.0.0 rama-facebook.blogspot.com
 0.0.0.0 reactivar-microsoft-live.iceiy.com
 0.0.0.0 rec-netflix.com
@@ -636,6 +602,7 @@
 0.0.0.0 roblox.com.do
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.gr
+0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 rricrosoft-offices.org
@@ -643,7 +610,6 @@
 0.0.0.0 s-facebook.blogspot.com
 0.0.0.0 sagers.com
 0.0.0.0 samplel-ks6yxvur5-instagramm.vercel.app
-0.0.0.0 samridhiverma10.github.io
 0.0.0.0 santander-dev-week.vercel.app
 0.0.0.0 santander-remaster-whats-fb.vercel.app
 0.0.0.0 santanderbank.shop
@@ -655,14 +621,11 @@
 0.0.0.0 secutury-facebook.blogspot.com
 0.0.0.0 send-secure-trustwallet-usdt-bip20.vercel.app
 0.0.0.0 services-facebook.blogspot.com
-0.0.0.0 sheokand9806.github.io
-0.0.0.0 shruuti-005.github.io
 0.0.0.0 sigma-whatsapp.com
 0.0.0.0 sign-in-to-xfinity-090.weebly.com
 0.0.0.0 sign-in-to-xfinity-87653.weebly.com
 0.0.0.0 site-google-havan.com
 0.0.0.0 sk-facebook.blogspot.com
-0.0.0.0 smswt.in
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotify-payment.click
 0.0.0.0 spotify-plus.com
@@ -677,14 +640,12 @@
 0.0.0.0 steuerquimica.cl
 0.0.0.0 su-facebook.blogspot.com
 0.0.0.0 sugar-outlook.com
-0.0.0.0 sumit8399.github.io
 0.0.0.0 support-instagram.github.io
 0.0.0.0 support-ledgerlive-eng.typedream.app
 0.0.0.0 support-ledgrcom-start-web.typedream.app
 0.0.0.0 support-netflix-signup.info
 0.0.0.0 swyftxfinancial.com
 0.0.0.0 synel99.github.io
-0.0.0.0 tanish-ashu.github.io
 0.0.0.0 tara-facebook.blogspot.com
 0.0.0.0 taslimaenterprise.com
 0.0.0.0 tb-facebook.blogspot.com

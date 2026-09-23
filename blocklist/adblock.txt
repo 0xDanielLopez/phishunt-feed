@@ -1,43 +1,32 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 781
-! Updated: 2026-09-23T17:00:34Z
+! Entries: 742
+! Updated: 2026-09-23T21:30:46Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
 ! Community-reported phishing domains. Use at your own risk.
 
-||01felipeaugusto-star.github.io^
 ||123-facebook.blogspot.com^
 ||190842-coinbase.com^
 ||2017-facebook.blogspot.com^
 ||20bet26.com^
 ||283674-coinbase.com^
 ||286364-coinbase.com^
-||393bet-facebook.sa.com^
 ||9281238712gh9.beer^
 ||a1-kraken.com^
 ||a2zapk.co^
 ||a2zapk.dev^
 ||account-instagram.vercel.app^
-||aidenpiearce.github.io^
-||aishwarya-rathore.github.io^
 ||alibaba188.org^
 ||alibaba66.co^
 ||alibaba666.app^
 ||alibaba66a.net^
-||amazon-ecommerce-nine.vercel.app^
-||amazon-eight-taupe.vercel.app^
-||amazon-front-me.vercel.app^
 ||amazon-harshdeep.vercel.app^
 ||amazon-opfq.vercel.app^
 ||amazon-promos.shop^
-||amazon-ten-gamma.vercel.app^
-||amazon-web-inspired.vercel.app^
-||amirrhasanpor0915-pixel.github.io^
 ||androidguias.com^
 ||ani-facebook.blogspot.com^
 ||annulation-amazon.com^
-||anoopsamazon.vercel.app^
 ||antimoney-laundering.org^
 ||apk-google.cn^
 ||app-binance.github.io^
@@ -93,7 +82,6 @@
 ||chatgptpl.com^
 ||citrix-sharing.com^
 ||click-facebook.blogspot.com^
-||clon-facebook.vercel.app^
 ||cn-feed-whatsapp.com.cn^
 ||cn-gui-whatsapp.com.cn^
 ||cn-spotify.cn^
@@ -149,7 +137,6 @@
 ||email-microsoft.com^
 ||email-update-comcast.weebly.com^
 ||ember-whatsapp.com^
-||emersondasilva-dev.github.io^
 ||emmanueldegreatltd.com^
 ||epsilons.co^
 ||erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org^
@@ -178,7 +165,6 @@
 ||facebook-astuces-news.blogspot.com^
 ||facebook-auto-liker.blogspot.com^
 ||facebook-ba.blogspot.com^
-||facebook-bay.vercel.app^
 ||facebook-benjamin.blogspot.com^
 ||facebook-blond.vercel.app^
 ||facebook-carol.blogspot.com^
@@ -194,12 +180,9 @@
 ||facebook-fansdanssapage.blogspot.com^
 ||facebook-faq.se^
 ||facebook-fb-com.blogspot.com^
-||facebook-fields-validation-card-expand-logic.vercel.app^
 ||facebook-find.blogspot.com^
 ||facebook-five-gamma.vercel.app^
-||facebook-five-nu.vercel.app^
 ||facebook-gamehacks.blogspot.com^
-||facebook-gamma-tawny.vercel.app^
 ||facebook-germany.blogspot.com^
 ||facebook-groups-new.blogspot.com^
 ||facebook-hack-accounts.blogspot.com^
@@ -215,7 +198,6 @@
 ||facebook-login-help.blogspot.com^
 ||facebook-login-it.blogspot.com^
 ||facebook-login-page-kappa.vercel.app^
-||facebook-login-page-three.vercel.app^
 ||facebook-login-page.blogspot.com^
 ||facebook-login-pages.blogspot.com^
 ||facebook-login-redirect.blogspot.com^
@@ -224,14 +206,12 @@
 ||facebook-login0.blogspot.com^
 ||facebook-loging.blogspot.com^
 ||facebook-logo.blogspot.com^
-||facebook-main.vercel.app^
 ||facebook-mark.blogspot.com^
 ||facebook-networks.blogspot.com^
 ||facebook-new-security.blogspot.com^
 ||facebook-ng.blogspot.com^
 ||facebook-notification.blogspot.com^
 ||facebook-official-page.blogspot.com^
-||facebook-old-login-page-suhaib-nadakkavils-projects.vercel.app^
 ||facebook-photo5.blogspot.com^
 ||facebook-pi.blogspot.com^
 ||facebook-prime.blogspot.com^
@@ -248,12 +228,9 @@
 ||facebook-seks-45.blogspot.com^
 ||facebook-services-login.blogspot.com^
 ||facebook-seven-alpha.vercel.app^
-||facebook-sigma-ruby.vercel.app^
-||facebook-signup-page-1zav.vercel.app^
 ||facebook-source.blogspot.com^
 ||facebook-supports.blogspot.com^
 ||facebook-system.blogspot.com^
-||facebook-task-one.vercel.app^
 ||facebook-theta.vercel.app^
 ||facebook-trial.vercel.app^
 ||facebook-trk.blogspot.com^
@@ -266,6 +243,7 @@
 ||facebook-vn-com.blogspot.com^
 ||facebook-vn.blogspot.com^
 ||facebook-vu.blogspot.com^
+||facebook.net.tw^
 ||facebook1019key.blogspot.com^
 ||facebook7-facebook.blogspot.com^
 ||facebookaccountsmanager.blogspot.com^
@@ -333,11 +311,9 @@
 ||fedexbeta.com^
 ||feq-trezor-suite-app.typedream.app^
 ||file-whatsappn.hl.cn^
-||fmello2002.github.io^
 ||forsakens-crew-teman-facebook.blogspot.com^
 ||foryour.review^
 ||fr-spotify.com^
-||francielilimaa.github.io^
 ||free-facebook-page-likes.blogspot.com^
 ||fwh.is^
 ||gafiatechnologies.com^
@@ -366,10 +342,7 @@
 ||googleplrzy.com^
 ||googleuserlogin.cam^
 ||grupoimpaktu.ao^
-||hackerog17.github.io^
-||hasan-321.github.io^
 ||hashnode.dev^
-||hasyimf.github.io^
 ||healthassistcarepro.com^
 ||help-instagram.blogspot.com^
 ||hofmemorabilia.ebaymclaren-austin.eventshouse.app^
@@ -380,7 +353,6 @@
 ||hotmail143.net^
 ||hsbc-sec.com^
 ||hsbccpersonalonlinebanking.com^
-||hsbcpress.com^
 ||hsbctds.com^
 ||hstn.me^
 ||iberdrolatrade.com^
@@ -389,7 +361,6 @@
 ||icloudnotify.help^
 ||ideeo.mx^
 ||ifotografix.co.uk^
-||indiarevolutionnova.github.io^
 ||info-facebook.blogspot.com^
 ||iniciamazon.com.br^
 ||instagram-2-0-4p6f5s6nd-chibokaxavier.vercel.app^
@@ -463,14 +434,12 @@
 ||itau-com.vercel.app^
 ||itau-snowy.vercel.app^
 ||itauu.vercel.app^
-||itzthesandy.github.io^
 ||jayaram0550.github.io^
 ||jj-facebook.blogspot.com^
 ||jo-facebook.blogspot.com^
 ||jwb-facebook.blogspot.com^
 ||kauadosantos.github.io^
 ||kenhoward.com^
-||kiddnexus14.github.io^
 ||kraken-tor.co.com^
 ||kucoin-referral-code-pt.vercel.app^
 ||kucoin9.com^
@@ -506,7 +475,6 @@
 ||m365-microsoft.com^
 ||m4ntapaset.ink^
 ||mail-xfinitylogin.weebly.com^
-||manish1719.github.io^
 ||marycar.com.br^
 ||mb-facebook.blogspot.com^
 ||mclarencar.ebaymclaren-austin.eventshouse.app^
@@ -514,7 +482,6 @@
 ||meet-googlee46347975696.pages.dev^
 ||meet-googlee7563454656.pages.dev^
 ||meet-googlee7823629056.pages.dev^
-||mehdi-bellache.github.io^
 ||meme-facebook.blogspot.com^
 ||metamask-ai-agent.vercel.app^
 ||metamask-connect.vercel.app^
@@ -544,6 +511,7 @@
 ||microsoft365businessbasic.com^
 ||microsoft365updates.com^
 ||microsoftjk.eu.org^
+||microsoftoffice-o365.com^
 ||microsoftsupportcenter.digital^
 ||microsoftuk.co^
 ||microsoftwordob.blogspot.com^
@@ -569,6 +537,7 @@
 ||netflix6.com^
 ||netflixandchiffres.com^
 ||netflixbymanoj.vercel.app^
+||netflixde.com^
 ||netflixfeitoaqui.com.br^
 ||netflixinfos.com^
 ||netflixquebec.blogspot.com^
@@ -608,15 +577,12 @@
 ||pc-spotify.cn^
 ||pe-facebook.blogspot.com^
 ||pl-oferta58296379.shop^
-||prajwalkuchewar.github.io^
 ||premio-instagram.com^
 ||profil-facebook-saya.blogspot.com^
 ||proteccion-outlook2026.iceiy.com^
 ||ptai.in^
-||pushkar-hub.github.io^
 ||quantum-flares.com^
 ||r-facebook.blogspot.com^
-||rafaelmdsouza.github.io^
 ||rama-facebook.blogspot.com^
 ||reactivar-microsoft-live.iceiy.com^
 ||rec-netflix.com^
@@ -636,6 +602,7 @@
 ||roblox.com.do^
 ||roblox.com.ee^
 ||roblox.com.gr^
+||roblox.com.ml^
 ||roblox.com.mu^
 ||roblox.com.pt^
 ||rricrosoft-offices.org^
@@ -643,7 +610,6 @@
 ||s-facebook.blogspot.com^
 ||sagers.com^
 ||samplel-ks6yxvur5-instagramm.vercel.app^
-||samridhiverma10.github.io^
 ||santander-dev-week.vercel.app^
 ||santander-remaster-whats-fb.vercel.app^
 ||santanderbank.shop^
@@ -655,14 +621,11 @@
 ||secutury-facebook.blogspot.com^
 ||send-secure-trustwallet-usdt-bip20.vercel.app^
 ||services-facebook.blogspot.com^
-||sheokand9806.github.io^
-||shruuti-005.github.io^
 ||sigma-whatsapp.com^
 ||sign-in-to-xfinity-090.weebly.com^
 ||sign-in-to-xfinity-87653.weebly.com^
 ||site-google-havan.com^
 ||sk-facebook.blogspot.com^
-||smswt.in^
 ||spotify-client-beta.vercel.app^
 ||spotify-payment.click^
 ||spotify-plus.com^
@@ -677,14 +640,12 @@
 ||steuerquimica.cl^
 ||su-facebook.blogspot.com^
 ||sugar-outlook.com^
-||sumit8399.github.io^
 ||support-instagram.github.io^
 ||support-ledgerlive-eng.typedream.app^
 ||support-ledgrcom-start-web.typedream.app^
 ||support-netflix-signup.info^
 ||swyftxfinancial.com^
 ||synel99.github.io^
-||tanish-ashu.github.io^
 ||tara-facebook.blogspot.com^
 ||taslimaenterprise.com^
 ||tb-facebook.blogspot.com^
