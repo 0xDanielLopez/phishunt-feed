@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 799
-# Updated: 2026-09-23T04:46:08Z
+# Entries: 794
+# Updated: 2026-09-23T11:38:22Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -9,18 +9,17 @@
 0.0.0.0 01felipeaugusto-star.github.io
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 1231020h9h8.beer
-0.0.0.0 1231200h.buzz
-0.0.0.0 1231200h9j.beer
 0.0.0.0 1231209h458g.beer
 0.0.0.0 12398hg57g4.beer
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
+0.0.0.0 20bet26.com
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
-0.0.0.0 30102301ghhh.lol
 0.0.0.0 393bet-facebook.sa.com
+0.0.0.0 888casino26.com
+0.0.0.0 9281238712gh9.beer
 0.0.0.0 998138128gg.buzz
-0.0.0.0 99884120.pics
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
@@ -45,6 +44,7 @@
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 annulation-amazon.com
 0.0.0.0 anoopsamazon.vercel.app
+0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-exodusweb.pages.dev
@@ -110,6 +110,7 @@
 0.0.0.0 coinbase.com.lc
 0.0.0.0 coinbasebackoffice.exchange
 0.0.0.0 coinbaseinvestors.ai
+0.0.0.0 coinbaseverify.vercel.app
 0.0.0.0 collectableswall.ebaymclaren-austin.eventshouse.app
 0.0.0.0 comcast-ebon.vercel.app
 0.0.0.0 comcast2.vercel.app
@@ -124,6 +125,7 @@
 0.0.0.0 correosccl.cc
 0.0.0.0 correoscri.cc
 0.0.0.0 correosiicr.cc
+0.0.0.0 correosscri.cc
 0.0.0.0 ct.ws
 0.0.0.0 cz-facebook.blogspot.com
 0.0.0.0 daservglobal.com
@@ -153,6 +155,7 @@
 0.0.0.0 ebay-seller-center-managedpayments.vercel.app
 0.0.0.0 ebaymclaren-austin.eventshouse.app
 0.0.0.0 ebaymevip.com
+0.0.0.0 eddiesresidence.co.tz
 0.0.0.0 edgeone.dev
 0.0.0.0 email-microsoft.com
 0.0.0.0 email-update-comcast.weebly.com
@@ -351,8 +354,8 @@
 0.0.0.0 geotehnica.com
 0.0.0.0 ggzh-google.com.cn
 0.0.0.0 gloronyan.github.io
-0.0.0.0 gls-group-informationy.top
 0.0.0.0 gls-group.loan
+0.0.0.0 gls-live-points.pages.dev
 0.0.0.0 google-apk.com
 0.0.0.0 google1107.com
 0.0.0.0 google1208.com
@@ -373,7 +376,6 @@
 0.0.0.0 googlepllry.com
 0.0.0.0 googleplrzy.com
 0.0.0.0 googleuserlogin.cam
-0.0.0.0 googlezplay.com
 0.0.0.0 grupoimpaktu.ao
 0.0.0.0 hackerog17.github.io
 0.0.0.0 hasan-321.github.io
@@ -473,7 +475,6 @@
 0.0.0.0 itau-snowy.vercel.app
 0.0.0.0 itauu.vercel.app
 0.0.0.0 itzthesandy.github.io
-0.0.0.0 j9of823791n.lol
 0.0.0.0 jayaram0550.github.io
 0.0.0.0 jj-facebook.blogspot.com
 0.0.0.0 jo-facebook.blogspot.com
@@ -487,7 +488,6 @@
 0.0.0.0 kucoinlogin_us.godaddysites.com
 0.0.0.0 kucoinloginaa.gitbook.io
 0.0.0.0 kucoinloign.gitbook.io
-0.0.0.0 kucoinv.com
 0.0.0.0 lateinos.com.br
 0.0.0.0 ledger-live-application.com
 0.0.0.0 ledger-live-download-sso-conect.typedream.app
@@ -595,7 +595,6 @@
 0.0.0.0 oferta-478221.sbs
 0.0.0.0 oferta-574168.cfd
 0.0.0.0 office365licensingsupport.com
-0.0.0.0 office365mail.com
 0.0.0.0 online-facebook-privacy.blogspot.com
 0.0.0.0 oortstorages.com
 0.0.0.0 open-instagram.vercel.app
@@ -623,7 +622,6 @@
 0.0.0.0 pc-spotify.cn
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 pl-oferta58296379.shop
-0.0.0.0 pl-zamow-oferta-4059212.sbs
 0.0.0.0 prajwalkuchewar.github.io
 0.0.0.0 premio-instagram.com
 0.0.0.0 profil-facebook-saya.blogspot.com
@@ -651,7 +649,6 @@
 0.0.0.0 roblox.com.do
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.gr
-0.0.0.0 roblox.com.kz
 0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
@@ -709,7 +706,6 @@
 0.0.0.0 temporary.site
 0.0.0.0 test-facebook.blogspot.com
 0.0.0.0 therelayservice.com
-0.0.0.0 thgu2378129g.buzz
 0.0.0.0 thomas-coinbase.com
 0.0.0.0 todo--facebook.blogspot.com
 0.0.0.0 tottattoo.com
@@ -771,7 +767,6 @@
 0.0.0.0 www-google.cn
 0.0.0.0 www-hk-google.com
 0.0.0.0 www-microsoft.com.cn
-0.0.0.0 www-robloxk.com
 0.0.0.0 www2-facebook.com
 0.0.0.0 wwww-linkedin.be
 0.0.0.0 x-comcast.weebly.com

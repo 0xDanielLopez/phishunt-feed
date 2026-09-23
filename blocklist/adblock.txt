@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 799
-! Updated: 2026-09-23T04:46:08Z
+! Entries: 794
+! Updated: 2026-09-23T11:38:23Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -9,18 +9,17 @@
 ||01felipeaugusto-star.github.io^
 ||123-facebook.blogspot.com^
 ||1231020h9h8.beer^
-||1231200h.buzz^
-||1231200h9j.beer^
 ||1231209h458g.beer^
 ||12398hg57g4.beer^
 ||190842-coinbase.com^
 ||2017-facebook.blogspot.com^
+||20bet26.com^
 ||283674-coinbase.com^
 ||286364-coinbase.com^
-||30102301ghhh.lol^
 ||393bet-facebook.sa.com^
+||888casino26.com^
+||9281238712gh9.beer^
 ||998138128gg.buzz^
-||99884120.pics^
 ||a1-kraken.com^
 ||a2zapk.co^
 ||a2zapk.dev^
@@ -45,6 +44,7 @@
 ||ani-facebook.blogspot.com^
 ||annulation-amazon.com^
 ||anoopsamazon.vercel.app^
+||antimoney-laundering.org^
 ||apk-google.cn^
 ||app-binance.github.io^
 ||app-exodusweb.pages.dev^
@@ -110,6 +110,7 @@
 ||coinbase.com.lc^
 ||coinbasebackoffice.exchange^
 ||coinbaseinvestors.ai^
+||coinbaseverify.vercel.app^
 ||collectableswall.ebaymclaren-austin.eventshouse.app^
 ||comcast-ebon.vercel.app^
 ||comcast2.vercel.app^
@@ -124,6 +125,7 @@
 ||correosccl.cc^
 ||correoscri.cc^
 ||correosiicr.cc^
+||correosscri.cc^
 ||ct.ws^
 ||cz-facebook.blogspot.com^
 ||daservglobal.com^
@@ -153,6 +155,7 @@
 ||ebay-seller-center-managedpayments.vercel.app^
 ||ebaymclaren-austin.eventshouse.app^
 ||ebaymevip.com^
+||eddiesresidence.co.tz^
 ||edgeone.dev^
 ||email-microsoft.com^
 ||email-update-comcast.weebly.com^
@@ -351,8 +354,8 @@
 ||geotehnica.com^
 ||ggzh-google.com.cn^
 ||gloronyan.github.io^
-||gls-group-informationy.top^
 ||gls-group.loan^
+||gls-live-points.pages.dev^
 ||google-apk.com^
 ||google1107.com^
 ||google1208.com^
@@ -373,7 +376,6 @@
 ||googlepllry.com^
 ||googleplrzy.com^
 ||googleuserlogin.cam^
-||googlezplay.com^
 ||grupoimpaktu.ao^
 ||hackerog17.github.io^
 ||hasan-321.github.io^
@@ -473,7 +475,6 @@
 ||itau-snowy.vercel.app^
 ||itauu.vercel.app^
 ||itzthesandy.github.io^
-||j9of823791n.lol^
 ||jayaram0550.github.io^
 ||jj-facebook.blogspot.com^
 ||jo-facebook.blogspot.com^
@@ -487,7 +488,6 @@
 ||kucoinlogin_us.godaddysites.com^
 ||kucoinloginaa.gitbook.io^
 ||kucoinloign.gitbook.io^
-||kucoinv.com^
 ||lateinos.com.br^
 ||ledger-live-application.com^
 ||ledger-live-download-sso-conect.typedream.app^
@@ -595,7 +595,6 @@
 ||oferta-478221.sbs^
 ||oferta-574168.cfd^
 ||office365licensingsupport.com^
-||office365mail.com^
 ||online-facebook-privacy.blogspot.com^
 ||oortstorages.com^
 ||open-instagram.vercel.app^
@@ -623,7 +622,6 @@
 ||pc-spotify.cn^
 ||pe-facebook.blogspot.com^
 ||pl-oferta58296379.shop^
-||pl-zamow-oferta-4059212.sbs^
 ||prajwalkuchewar.github.io^
 ||premio-instagram.com^
 ||profil-facebook-saya.blogspot.com^
@@ -651,7 +649,6 @@
 ||roblox.com.do^
 ||roblox.com.ee^
 ||roblox.com.gr^
-||roblox.com.kz^
 ||roblox.com.ml^
 ||roblox.com.mu^
 ||roblox.com.pt^
@@ -709,7 +706,6 @@
 ||temporary.site^
 ||test-facebook.blogspot.com^
 ||therelayservice.com^
-||thgu2378129g.buzz^
 ||thomas-coinbase.com^
 ||todo--facebook.blogspot.com^
 ||tottattoo.com^
@@ -771,7 +767,6 @@
 ||www-google.cn^
 ||www-hk-google.com^
 ||www-microsoft.com.cn^
-||www-robloxk.com^
 ||www2-facebook.com^
 ||wwww-linkedin.be^
 ||x-comcast.weebly.com^
