@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 742
-# Updated: 2026-09-23T21:30:44Z
+# Entries: 743
+# Updated: 2026-09-24T04:52:37Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -12,11 +12,12 @@
 0.0.0.0 20bet26.com
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
-0.0.0.0 9281238712gh9.beer
+0.0.0.0 3399581-coinbase.com
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
 0.0.0.0 account-instagram.vercel.app
+0.0.0.0 acltci.com
 0.0.0.0 alibaba188.org
 0.0.0.0 alibaba66.co
 0.0.0.0 alibaba666.app
@@ -27,7 +28,6 @@
 0.0.0.0 androidguias.com
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 annulation-amazon.com
-0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-exodusweb.pages.dev
@@ -43,11 +43,13 @@
 0.0.0.0 avlinfo.in
 0.0.0.0 axm-amazon.com
 0.0.0.0 bankofamerica-uscom.vercel.app
+0.0.0.0 bankofamericacanadastore.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
 0.0.0.0 bbva-hiring-paperless.appspot.com
 0.0.0.0 bbvalues.uk
+0.0.0.0 bbvasecurities.com
 0.0.0.0 berbagi-facebook.blogspot.com
 0.0.0.0 bet-facebook.blogspot.com
 0.0.0.0 binance-blog.vercel.app
@@ -68,6 +70,7 @@
 0.0.0.0 bnext.es
 0.0.0.0 books-facebook.blogspot.com
 0.0.0.0 brad-facebook.blogspot.com
+0.0.0.0 bradescosegurosop.com.br
 0.0.0.0 buscarmi-icloud.app
 0.0.0.0 business-dropbox.me
 0.0.0.0 c-binance.github.io
@@ -138,6 +141,7 @@
 0.0.0.0 email-update-comcast.weebly.com
 0.0.0.0 ember-whatsapp.com
 0.0.0.0 emmanueldegreatltd.com
+0.0.0.0 en-ledgre.pages.dev
 0.0.0.0 epsilons.co
 0.0.0.0 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
 0.0.0.0 eu-facebook.blogspot.com
@@ -311,9 +315,9 @@
 0.0.0.0 fedexbeta.com
 0.0.0.0 feq-trezor-suite-app.typedream.app
 0.0.0.0 file-whatsappn.hl.cn
+0.0.0.0 firstjob.me
 0.0.0.0 forsakens-crew-teman-facebook.blogspot.com
 0.0.0.0 foryour.review
-0.0.0.0 fr-spotify.com
 0.0.0.0 free-facebook-page-likes.blogspot.com
 0.0.0.0 fwh.is
 0.0.0.0 gafiatechnologies.com
@@ -443,6 +447,7 @@
 0.0.0.0 kraken-tor.co.com
 0.0.0.0 kucoin-referral-code-pt.vercel.app
 0.0.0.0 kucoin9.com
+0.0.0.0 kucoinievlosginie.godaddysites.com
 0.0.0.0 kucoinlogin_us.godaddysites.com
 0.0.0.0 kucoinloginaa.gitbook.io
 0.0.0.0 kucoinloign.gitbook.io
@@ -453,6 +458,7 @@
 0.0.0.0 ledger-live-wallet-start-conect-us-en.typedream.app
 0.0.0.0 ledger-liveusa.zapier.app
 0.0.0.0 ledger-wallet-start-cloud.typedream.app
+0.0.0.0 ledgerlive0.godaddysites.com
 0.0.0.0 ledgerwalletrepair.com
 0.0.0.0 ledgrelivapp--crome.typedream.app
 0.0.0.0 leia-santander.vercel.app
@@ -548,7 +554,6 @@
 0.0.0.0 news-revolut.com
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
-0.0.0.0 oferta65487.click
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 online-facebook-privacy.blogspot.com
 0.0.0.0 oortstorages.com
@@ -564,6 +569,7 @@
 0.0.0.0 outlookindia.com
 0.0.0.0 outlookmail.social
 0.0.0.0 page-instagram.vercel.app
+0.0.0.0 panel-deploy-60bef09b.us-iad-10.linodeobjects.com
 0.0.0.0 patelrudra.in
 0.0.0.0 paykmc.com
 0.0.0.0 paypal-logiin.blogspot.com
@@ -581,6 +587,7 @@
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 proteccion-outlook2026.iceiy.com
 0.0.0.0 ptai.in
+0.0.0.0 public-trexor.framer.website
 0.0.0.0 quantum-flares.com
 0.0.0.0 r-facebook.blogspot.com
 0.0.0.0 rama-facebook.blogspot.com
@@ -594,17 +601,12 @@
 0.0.0.0 republicanlibertycaucus.org
 0.0.0.0 rev.it
 0.0.0.0 roblox-login.vercel.app
-0.0.0.0 roblox.com.am
-0.0.0.0 roblox.com.bi
-0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bo
 0.0.0.0 roblox.com.bz
 0.0.0.0 roblox.com.do
 0.0.0.0 roblox.com.ee
-0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
-0.0.0.0 roblox.com.pt
 0.0.0.0 rricrosoft-offices.org
 0.0.0.0 ruddycruzc.github.io
 0.0.0.0 s-facebook.blogspot.com
@@ -624,7 +626,6 @@
 0.0.0.0 sigma-whatsapp.com
 0.0.0.0 sign-in-to-xfinity-090.weebly.com
 0.0.0.0 sign-in-to-xfinity-87653.weebly.com
-0.0.0.0 site-google-havan.com
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotify-payment.click
@@ -692,9 +693,9 @@
 0.0.0.0 webaccess-alert.com
 0.0.0.0 webador.com
 0.0.0.0 webpage-trezor-suite.typedream.app
-0.0.0.0 webstore.vn
 0.0.0.0 weeblysite.com
 0.0.0.0 wellsfargo-worl.vercel.app
+0.0.0.0 wellsfargogethelp.com
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-iamsuyash.vercel.app
 0.0.0.0 whatsapp-indonesia877.blogspot.com

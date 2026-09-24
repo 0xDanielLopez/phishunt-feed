@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 742
-! Updated: 2026-09-23T21:30:46Z
+! Entries: 743
+! Updated: 2026-09-24T04:52:37Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -12,11 +12,12 @@
 ||20bet26.com^
 ||283674-coinbase.com^
 ||286364-coinbase.com^
-||9281238712gh9.beer^
+||3399581-coinbase.com^
 ||a1-kraken.com^
 ||a2zapk.co^
 ||a2zapk.dev^
 ||account-instagram.vercel.app^
+||acltci.com^
 ||alibaba188.org^
 ||alibaba66.co^
 ||alibaba666.app^
@@ -27,7 +28,6 @@
 ||androidguias.com^
 ||ani-facebook.blogspot.com^
 ||annulation-amazon.com^
-||antimoney-laundering.org^
 ||apk-google.cn^
 ||app-binance.github.io^
 ||app-exodusweb.pages.dev^
@@ -43,11 +43,13 @@
 ||avlinfo.in^
 ||axm-amazon.com^
 ||bankofamerica-uscom.vercel.app^
+||bankofamericacanadastore.ph^
 ||bankofamericamailcompte.blogspot.com^
 ||barcelona-facebook.blogspot.com^
 ||barclays-bank.vercel.app^
 ||bbva-hiring-paperless.appspot.com^
 ||bbvalues.uk^
+||bbvasecurities.com^
 ||berbagi-facebook.blogspot.com^
 ||bet-facebook.blogspot.com^
 ||binance-blog.vercel.app^
@@ -68,6 +70,7 @@
 ||bnext.es^
 ||books-facebook.blogspot.com^
 ||brad-facebook.blogspot.com^
+||bradescosegurosop.com.br^
 ||buscarmi-icloud.app^
 ||business-dropbox.me^
 ||c-binance.github.io^
@@ -138,6 +141,7 @@
 ||email-update-comcast.weebly.com^
 ||ember-whatsapp.com^
 ||emmanueldegreatltd.com^
+||en-ledgre.pages.dev^
 ||epsilons.co^
 ||erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org^
 ||eu-facebook.blogspot.com^
@@ -311,9 +315,9 @@
 ||fedexbeta.com^
 ||feq-trezor-suite-app.typedream.app^
 ||file-whatsappn.hl.cn^
+||firstjob.me^
 ||forsakens-crew-teman-facebook.blogspot.com^
 ||foryour.review^
-||fr-spotify.com^
 ||free-facebook-page-likes.blogspot.com^
 ||fwh.is^
 ||gafiatechnologies.com^
@@ -443,6 +447,7 @@
 ||kraken-tor.co.com^
 ||kucoin-referral-code-pt.vercel.app^
 ||kucoin9.com^
+||kucoinievlosginie.godaddysites.com^
 ||kucoinlogin_us.godaddysites.com^
 ||kucoinloginaa.gitbook.io^
 ||kucoinloign.gitbook.io^
@@ -453,6 +458,7 @@
 ||ledger-live-wallet-start-conect-us-en.typedream.app^
 ||ledger-liveusa.zapier.app^
 ||ledger-wallet-start-cloud.typedream.app^
+||ledgerlive0.godaddysites.com^
 ||ledgerwalletrepair.com^
 ||ledgrelivapp--crome.typedream.app^
 ||leia-santander.vercel.app^
@@ -548,7 +554,6 @@
 ||news-revolut.com^
 ||noreply-icloud.app^
 ||nw-facebook.blogspot.com^
-||oferta65487.click^
 ||office365licensingsupport.com^
 ||online-facebook-privacy.blogspot.com^
 ||oortstorages.com^
@@ -564,6 +569,7 @@
 ||outlookindia.com^
 ||outlookmail.social^
 ||page-instagram.vercel.app^
+||panel-deploy-60bef09b.us-iad-10.linodeobjects.com^
 ||patelrudra.in^
 ||paykmc.com^
 ||paypal-logiin.blogspot.com^
@@ -581,6 +587,7 @@
 ||profil-facebook-saya.blogspot.com^
 ||proteccion-outlook2026.iceiy.com^
 ||ptai.in^
+||public-trexor.framer.website^
 ||quantum-flares.com^
 ||r-facebook.blogspot.com^
 ||rama-facebook.blogspot.com^
@@ -594,17 +601,12 @@
 ||republicanlibertycaucus.org^
 ||rev.it^
 ||roblox-login.vercel.app^
-||roblox.com.am^
-||roblox.com.bi^
-||roblox.com.bn^
 ||roblox.com.bo^
 ||roblox.com.bz^
 ||roblox.com.do^
 ||roblox.com.ee^
-||roblox.com.gr^
 ||roblox.com.ml^
 ||roblox.com.mu^
-||roblox.com.pt^
 ||rricrosoft-offices.org^
 ||ruddycruzc.github.io^
 ||s-facebook.blogspot.com^
@@ -624,7 +626,6 @@
 ||sigma-whatsapp.com^
 ||sign-in-to-xfinity-090.weebly.com^
 ||sign-in-to-xfinity-87653.weebly.com^
-||site-google-havan.com^
 ||sk-facebook.blogspot.com^
 ||spotify-client-beta.vercel.app^
 ||spotify-payment.click^
@@ -692,9 +693,9 @@
 ||webaccess-alert.com^
 ||webador.com^
 ||webpage-trezor-suite.typedream.app^
-||webstore.vn^
 ||weeblysite.com^
 ||wellsfargo-worl.vercel.app^
+||wellsfargogethelp.com^
 ||whatsapp-fast.vercel.app^
 ||whatsapp-iamsuyash.vercel.app^
 ||whatsapp-indonesia877.blogspot.com^
