@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 743
-# Updated: 2026-09-24T04:52:36Z
+# Entries: 737
+# Updated: 2026-09-24T11:47:10Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -10,6 +10,7 @@
 190842-coinbase.com
 2017-facebook.blogspot.com
 20bet26.com
+234942398g9hi.buzz
 283674-coinbase.com
 286364-coinbase.com
 3399581-coinbase.com
@@ -28,6 +29,7 @@ amazon-promos.shop
 androidguias.com
 ani-facebook.blogspot.com
 annulation-amazon.com
+antimoney-laundering.org
 apk-google.cn
 app-binance.github.io
 app-exodusweb.pages.dev
@@ -87,7 +89,6 @@ citrix-sharing.com
 click-facebook.blogspot.com
 cn-feed-whatsapp.com.cn
 cn-gui-whatsapp.com.cn
-cn-spotify.cn
 coinbase-event.vercel.app
 coinbase.com.lc
 coinbasebackoffice.exchange
@@ -122,6 +123,7 @@ docusign-server.github.io
 docusignfile-review-security-page--newstoolin.replit.app
 dothome.co.kr
 dpd-ie-edit.com
+dpd-ie.cloud
 dpd-ie.xin
 dpdi.xyz
 dpdn62.click
@@ -315,7 +317,6 @@ fedex-olive.vercel.app
 fedexbeta.com
 feq-trezor-suite-app.typedream.app
 file-whatsappn.hl.cn
-firstjob.me
 forsakens-crew-teman-facebook.blogspot.com
 foryour.review
 free-facebook-page-likes.blogspot.com
@@ -324,7 +325,6 @@ gafiatechnologies.com
 geotehnica.com
 ggzh-google.com.cn
 gloronyan.github.io
-gls-group.loan
 google-apk.com
 google1107.com
 google1208.com
@@ -338,7 +338,6 @@ googleepkay.com
 googleepway.com
 googlelogos.com
 googleoa.com
-googlepemy.com
 googleplaety.com
 googleplaiby.com
 googleplaydown.com
@@ -443,7 +442,6 @@ jj-facebook.blogspot.com
 jo-facebook.blogspot.com
 jwb-facebook.blogspot.com
 kauadosantos.github.io
-kenhoward.com
 kraken-tor.co.com
 kucoin-referral-code-pt.vercel.app
 kucoin9.com
@@ -580,7 +578,6 @@ paypal-signin.blogspot.com
 paypal3.vercel.app
 paypalcheckout.click
 paypalcorp.blogspot.com
-pc-spotify.cn
 pe-facebook.blogspot.com
 pl-oferta58296379.shop
 premio-instagram.com
@@ -645,7 +642,6 @@ support-instagram.github.io
 support-ledgerlive-eng.typedream.app
 support-ledgrcom-start-web.typedream.app
 support-netflix-signup.info
-swyftxfinancial.com
 synel99.github.io
 tara-facebook.blogspot.com
 taslimaenterprise.com
@@ -688,13 +684,11 @@ vwwv-icloud.com
 wave-whatsapp.com
 web-conect-us-ledger-live-wallet.typedream.app
 web-login-whatsapp.com
-web-spotify.cn
 web-trezor-io-start-us.vercel.app
 webaccess-alert.com
 webador.com
 webpage-trezor-suite.typedream.app
 weeblysite.com
-wellsfargo-worl.vercel.app
 wellsfargogethelp.com
 whatsapp-fast.vercel.app
 whatsapp-iamsuyash.vercel.app

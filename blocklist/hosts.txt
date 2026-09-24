@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 743
-# Updated: 2026-09-24T04:52:37Z
+# Entries: 737
+# Updated: 2026-09-24T11:47:11Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -10,6 +10,7 @@
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 20bet26.com
+0.0.0.0 234942398g9hi.buzz
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
 0.0.0.0 3399581-coinbase.com
@@ -28,6 +29,7 @@
 0.0.0.0 androidguias.com
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 annulation-amazon.com
+0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-exodusweb.pages.dev
@@ -87,7 +89,6 @@
 0.0.0.0 click-facebook.blogspot.com
 0.0.0.0 cn-feed-whatsapp.com.cn
 0.0.0.0 cn-gui-whatsapp.com.cn
-0.0.0.0 cn-spotify.cn
 0.0.0.0 coinbase-event.vercel.app
 0.0.0.0 coinbase.com.lc
 0.0.0.0 coinbasebackoffice.exchange
@@ -122,6 +123,7 @@
 0.0.0.0 docusignfile-review-security-page--newstoolin.replit.app
 0.0.0.0 dothome.co.kr
 0.0.0.0 dpd-ie-edit.com
+0.0.0.0 dpd-ie.cloud
 0.0.0.0 dpd-ie.xin
 0.0.0.0 dpdi.xyz
 0.0.0.0 dpdn62.click
@@ -315,7 +317,6 @@
 0.0.0.0 fedexbeta.com
 0.0.0.0 feq-trezor-suite-app.typedream.app
 0.0.0.0 file-whatsappn.hl.cn
-0.0.0.0 firstjob.me
 0.0.0.0 forsakens-crew-teman-facebook.blogspot.com
 0.0.0.0 foryour.review
 0.0.0.0 free-facebook-page-likes.blogspot.com
@@ -324,7 +325,6 @@
 0.0.0.0 geotehnica.com
 0.0.0.0 ggzh-google.com.cn
 0.0.0.0 gloronyan.github.io
-0.0.0.0 gls-group.loan
 0.0.0.0 google-apk.com
 0.0.0.0 google1107.com
 0.0.0.0 google1208.com
@@ -338,7 +338,6 @@
 0.0.0.0 googleepway.com
 0.0.0.0 googlelogos.com
 0.0.0.0 googleoa.com
-0.0.0.0 googlepemy.com
 0.0.0.0 googleplaety.com
 0.0.0.0 googleplaiby.com
 0.0.0.0 googleplaydown.com
@@ -443,7 +442,6 @@
 0.0.0.0 jo-facebook.blogspot.com
 0.0.0.0 jwb-facebook.blogspot.com
 0.0.0.0 kauadosantos.github.io
-0.0.0.0 kenhoward.com
 0.0.0.0 kraken-tor.co.com
 0.0.0.0 kucoin-referral-code-pt.vercel.app
 0.0.0.0 kucoin9.com
@@ -580,7 +578,6 @@
 0.0.0.0 paypal3.vercel.app
 0.0.0.0 paypalcheckout.click
 0.0.0.0 paypalcorp.blogspot.com
-0.0.0.0 pc-spotify.cn
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 pl-oferta58296379.shop
 0.0.0.0 premio-instagram.com
@@ -645,7 +642,6 @@
 0.0.0.0 support-ledgerlive-eng.typedream.app
 0.0.0.0 support-ledgrcom-start-web.typedream.app
 0.0.0.0 support-netflix-signup.info
-0.0.0.0 swyftxfinancial.com
 0.0.0.0 synel99.github.io
 0.0.0.0 tara-facebook.blogspot.com
 0.0.0.0 taslimaenterprise.com
@@ -688,13 +684,11 @@
 0.0.0.0 wave-whatsapp.com
 0.0.0.0 web-conect-us-ledger-live-wallet.typedream.app
 0.0.0.0 web-login-whatsapp.com
-0.0.0.0 web-spotify.cn
 0.0.0.0 web-trezor-io-start-us.vercel.app
 0.0.0.0 webaccess-alert.com
 0.0.0.0 webador.com
 0.0.0.0 webpage-trezor-suite.typedream.app
 0.0.0.0 weeblysite.com
-0.0.0.0 wellsfargo-worl.vercel.app
 0.0.0.0 wellsfargogethelp.com
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-iamsuyash.vercel.app
