@@ -1,29 +1,36 @@
 {
  "date": "2026-09-24",
- "updated": "2026-09-24T11:47:11Z",
+ "updated": "2026-09-24T17:12:27Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 17,
-  "removed": 22
+  "added": 24,
+  "removed": 25
  },
  "added": [
   "http://allegro.234942398g9hi.buzz",
   "http://bbvasecurities.com/bbva-securities/",
+  "http://comcast-seven.vercel.app",
+  "http://comcast2212.weebly.com",
   "http://en-ledgre.pages.dev/favicon.ico/",
   "http://kucoinievlosginie.godaddysites.com",
   "http://ledgerlive0.godaddysites.com",
+  "http://validar-micuenta-outlook.yzz.me",
+  "http://xfinityloginxfinity.weebly.com",
+  "http://xfinitymaillog.weebly.com",
+  "http://xfinityservicekey.weebly.com",
+  "http://xfinityuserverification.weebly.com",
   "https://3399581-coinbase.com",
   "https://73a2370016b7.bbsnr.paypal-login.antimoney-laundering.org",
   "https://bradescosegurosop.com.br",
   "https://cs46-ia2.paypal-update.antimoney-laundering.org",
   "https://dpd-ie.cloud",
+  "https://jt-facebook.blogspot.com/?m=1",
+  "https://kucoinlogenac.gitbook.io",
   "https://outlook.autodiscover.bankofamericacanadastore.ph",
   "https://panel-deploy-60bef09b.us-iad-10.linodeobjects.com/adobe-1790034626137.html",
-  "https://public-trexor.framer.website",
-  "https://roblox.com.do/users/386681976516/profile",
-  "https://roblox.com.ml/users/351652478556/profile",
-  "https://wellsfargogethelp.com",
+  "https://roblox.com.do/users/328787978241/profile",
+  "https://trezrr-sfe-looggin.godaddysites.com",
   "https://wildlands.acltci.com/login?method=signin&mode=secure&client_id=4765445b-32c6-49b0-83e6-1d93765276ca&privacy=on&sso_reload=true&redirect_urI=https%3A%2F%2Flogin.microsoftonline.com%2F"
  ],
  "removed": [
@@ -33,9 +40,11 @@
   "http://swyftxfinancial.com/docusign/legal/transcript/Y1zITgYEA4b",
   "http://wellsfargo-worl.vercel.app",
   "https://73a2370016b7.sncs.paypal-updates.antimoney-laundering.org",
+  "https://amazon.avlinfo.in",
   "https://cn-spotify.cn",
   "https://facebook.webstore.vn",
   "https://fr-spotify.com/683gds/recaptcha-verify.php",
+  "https://geotehnica.com/docusignreader",
   "https://gls-group.loan",
   "https://googlepemy.com",
   "https://kenhoward.com",
@@ -48,6 +57,7 @@
   "https://roblox.com.pt/games/123327375265176/1-Speed-Classic-Keyboard-Escape?privateServerLinkCode=99382535900423182128231632453729&game_id=123327375265176&game_name=1-Speed-Classic-Keyboard-Escape",
   "https://site-google-havan.com/produto/32812",
   "https://us3h4.paypal-support.antimoney-laundering.org",
-  "https://web-spotify.cn"
+  "https://web-spotify.cn",
+  "https://webpage-trezor-suite.typedream.app"
  ]
 }

@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 737
-! Updated: 2026-09-24T11:47:11Z
+! Entries: 740
+! Updated: 2026-09-24T17:12:27Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -42,7 +42,6 @@
 ||auth.properties^
 ||authorised-support.com^
 ||avaturefed.net^
-||avlinfo.in^
 ||axm-amazon.com^
 ||bankofamerica-uscom.vercel.app^
 ||bankofamericacanadastore.ph^
@@ -96,7 +95,9 @@
 ||coinbaseverify.vercel.app^
 ||collectableswall.ebaymclaren-austin.eventshouse.app^
 ||comcast-ebon.vercel.app^
+||comcast-seven.vercel.app^
 ||comcast2.vercel.app^
+||comcast2212.weebly.com^
 ||comcastcarebusiness.weebly.com^
 ||comcastinfoupdatesnow.weebly.com^
 ||comcastlog.weebly.com^
@@ -322,7 +323,6 @@
 ||free-facebook-page-likes.blogspot.com^
 ||fwh.is^
 ||gafiatechnologies.com^
-||geotehnica.com^
 ||ggzh-google.com.cn^
 ||gloronyan.github.io^
 ||google-apk.com^
@@ -440,12 +440,14 @@
 ||jayaram0550.github.io^
 ||jj-facebook.blogspot.com^
 ||jo-facebook.blogspot.com^
+||jt-facebook.blogspot.com^
 ||jwb-facebook.blogspot.com^
 ||kauadosantos.github.io^
 ||kraken-tor.co.com^
 ||kucoin-referral-code-pt.vercel.app^
 ||kucoin9.com^
 ||kucoinievlosginie.godaddysites.com^
+||kucoinlogenac.gitbook.io^
 ||kucoinlogin_us.godaddysites.com^
 ||kucoinloginaa.gitbook.io^
 ||kucoinloign.gitbook.io^
@@ -584,7 +586,6 @@
 ||profil-facebook-saya.blogspot.com^
 ||proteccion-outlook2026.iceiy.com^
 ||ptai.in^
-||public-trexor.framer.website^
 ||quantum-flares.com^
 ||r-facebook.blogspot.com^
 ||rama-facebook.blogspot.com^
@@ -602,7 +603,6 @@
 ||roblox.com.bz^
 ||roblox.com.do^
 ||roblox.com.ee^
-||roblox.com.ml^
 ||roblox.com.mu^
 ||rricrosoft-offices.org^
 ||ruddycruzc.github.io^
@@ -655,6 +655,7 @@
 ||trackingnumbers.org^
 ||trezor-login-us-auth-start.typedream.app^
 ||trezorguide.vercel.app^
+||trezrr-sfe-looggin.godaddysites.com^
 ||troubleshoots-google.com^
 ||trust-wallet-bnb.vercel.app^
 ||trust-wallet-contact.vercel.app^
@@ -687,9 +688,7 @@
 ||web-trezor-io-start-us.vercel.app^
 ||webaccess-alert.com^
 ||webador.com^
-||webpage-trezor-suite.typedream.app^
 ||weeblysite.com^
-||wellsfargogethelp.com^
 ||whatsapp-fast.vercel.app^
 ||whatsapp-iamsuyash.vercel.app^
 ||whatsapp-indonesia877.blogspot.com^
@@ -725,17 +724,21 @@
 ||xfinityconnectupgrade.weebly.com^
 ||xfinityis.weebly.com^
 ||xfinitylogin247.weebly.com^
+||xfinityloginxfinity.weebly.com^
 ||xfinitymail01.weebly.com^
 ||xfinitymail087.weebly.com^
 ||xfinitymailid.weebly.com^
+||xfinitymaillog.weebly.com^
 ||xfinitymailnow.weebly.com^
 ||xfinitynow.weebly.com^
+||xfinityservicekey.weebly.com^
 ||xfinityservices.vercel.app^
 ||xfinitysupportnow.weebly.com^
 ||xfinityteamslogin.weebly.com^
 ||xfinityteamsservice.weebly.com^
 ||xfinityttt.weebly.com^
 ||xfinityupdatesnow.weebly.com^
+||xfinityuserverification.weebly.com^
 ||yogufile.shop^
 ||yonataxi.at^
 ||yzz.me^

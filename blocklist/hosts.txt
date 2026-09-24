@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 737
-# Updated: 2026-09-24T11:47:11Z
+# Entries: 740
+# Updated: 2026-09-24T17:12:26Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -42,7 +42,6 @@
 0.0.0.0 auth.properties
 0.0.0.0 authorised-support.com
 0.0.0.0 avaturefed.net
-0.0.0.0 avlinfo.in
 0.0.0.0 axm-amazon.com
 0.0.0.0 bankofamerica-uscom.vercel.app
 0.0.0.0 bankofamericacanadastore.ph
@@ -96,7 +95,9 @@
 0.0.0.0 coinbaseverify.vercel.app
 0.0.0.0 collectableswall.ebaymclaren-austin.eventshouse.app
 0.0.0.0 comcast-ebon.vercel.app
+0.0.0.0 comcast-seven.vercel.app
 0.0.0.0 comcast2.vercel.app
+0.0.0.0 comcast2212.weebly.com
 0.0.0.0 comcastcarebusiness.weebly.com
 0.0.0.0 comcastinfoupdatesnow.weebly.com
 0.0.0.0 comcastlog.weebly.com
@@ -322,7 +323,6 @@
 0.0.0.0 free-facebook-page-likes.blogspot.com
 0.0.0.0 fwh.is
 0.0.0.0 gafiatechnologies.com
-0.0.0.0 geotehnica.com
 0.0.0.0 ggzh-google.com.cn
 0.0.0.0 gloronyan.github.io
 0.0.0.0 google-apk.com
@@ -440,12 +440,14 @@
 0.0.0.0 jayaram0550.github.io
 0.0.0.0 jj-facebook.blogspot.com
 0.0.0.0 jo-facebook.blogspot.com
+0.0.0.0 jt-facebook.blogspot.com
 0.0.0.0 jwb-facebook.blogspot.com
 0.0.0.0 kauadosantos.github.io
 0.0.0.0 kraken-tor.co.com
 0.0.0.0 kucoin-referral-code-pt.vercel.app
 0.0.0.0 kucoin9.com
 0.0.0.0 kucoinievlosginie.godaddysites.com
+0.0.0.0 kucoinlogenac.gitbook.io
 0.0.0.0 kucoinlogin_us.godaddysites.com
 0.0.0.0 kucoinloginaa.gitbook.io
 0.0.0.0 kucoinloign.gitbook.io
@@ -584,7 +586,6 @@
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 proteccion-outlook2026.iceiy.com
 0.0.0.0 ptai.in
-0.0.0.0 public-trexor.framer.website
 0.0.0.0 quantum-flares.com
 0.0.0.0 r-facebook.blogspot.com
 0.0.0.0 rama-facebook.blogspot.com
@@ -602,7 +603,6 @@
 0.0.0.0 roblox.com.bz
 0.0.0.0 roblox.com.do
 0.0.0.0 roblox.com.ee
-0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 rricrosoft-offices.org
 0.0.0.0 ruddycruzc.github.io
@@ -655,6 +655,7 @@
 0.0.0.0 trackingnumbers.org
 0.0.0.0 trezor-login-us-auth-start.typedream.app
 0.0.0.0 trezorguide.vercel.app
+0.0.0.0 trezrr-sfe-looggin.godaddysites.com
 0.0.0.0 troubleshoots-google.com
 0.0.0.0 trust-wallet-bnb.vercel.app
 0.0.0.0 trust-wallet-contact.vercel.app
@@ -687,9 +688,7 @@
 0.0.0.0 web-trezor-io-start-us.vercel.app
 0.0.0.0 webaccess-alert.com
 0.0.0.0 webador.com
-0.0.0.0 webpage-trezor-suite.typedream.app
 0.0.0.0 weeblysite.com
-0.0.0.0 wellsfargogethelp.com
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-iamsuyash.vercel.app
 0.0.0.0 whatsapp-indonesia877.blogspot.com
@@ -725,17 +724,21 @@
 0.0.0.0 xfinityconnectupgrade.weebly.com
 0.0.0.0 xfinityis.weebly.com
 0.0.0.0 xfinitylogin247.weebly.com
+0.0.0.0 xfinityloginxfinity.weebly.com
 0.0.0.0 xfinitymail01.weebly.com
 0.0.0.0 xfinitymail087.weebly.com
 0.0.0.0 xfinitymailid.weebly.com
+0.0.0.0 xfinitymaillog.weebly.com
 0.0.0.0 xfinitymailnow.weebly.com
 0.0.0.0 xfinitynow.weebly.com
+0.0.0.0 xfinityservicekey.weebly.com
 0.0.0.0 xfinityservices.vercel.app
 0.0.0.0 xfinitysupportnow.weebly.com
 0.0.0.0 xfinityteamslogin.weebly.com
 0.0.0.0 xfinityteamsservice.weebly.com
 0.0.0.0 xfinityttt.weebly.com
 0.0.0.0 xfinityupdatesnow.weebly.com
+0.0.0.0 xfinityuserverification.weebly.com
 0.0.0.0 yogufile.shop
 0.0.0.0 yonataxi.at
 0.0.0.0 yzz.me
