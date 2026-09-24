@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 740
-# Updated: 2026-09-24T17:12:26Z
+# Entries: 751
+# Updated: 2026-09-24T21:31:33Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -43,9 +43,13 @@
 0.0.0.0 authorised-support.com
 0.0.0.0 avaturefed.net
 0.0.0.0 axm-amazon.com
+0.0.0.0 bankofamerica-unauthorized.ph
 0.0.0.0 bankofamerica-uscom.vercel.app
 0.0.0.0 bankofamericacanadastore.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
+0.0.0.0 bankofamericamerchantservices.ph
+0.0.0.0 bankofamericana.ph
+0.0.0.0 bankofamericasecured.ph
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
 0.0.0.0 bbva-hiring-paperless.appspot.com
@@ -113,6 +117,7 @@
 0.0.0.0 ct.ws
 0.0.0.0 cz-facebook.blogspot.com
 0.0.0.0 daservglobal.com
+0.0.0.0 debt-bankofamerica.ph
 0.0.0.0 deluxxe.com.br
 0.0.0.0 desktop-ledgrecdn.wixstudio.com
 0.0.0.0 dhl-express-dev.firebaseapp.com
@@ -120,11 +125,13 @@
 0.0.0.0 dj-facebook.blogspot.com
 0.0.0.0 docs-google.com
 0.0.0.0 docs-trezor-app.pages.dev
+0.0.0.0 documentpartage.com
 0.0.0.0 docusign-server.github.io
 0.0.0.0 docusignfile-review-security-page--newstoolin.replit.app
 0.0.0.0 dothome.co.kr
 0.0.0.0 dpd-ie-edit.com
 0.0.0.0 dpd-ie.cloud
+0.0.0.0 dpd-ie.vip
 0.0.0.0 dpd-ie.xin
 0.0.0.0 dpdi.xyz
 0.0.0.0 dpdn62.click
@@ -323,6 +330,7 @@
 0.0.0.0 free-facebook-page-likes.blogspot.com
 0.0.0.0 fwh.is
 0.0.0.0 gafiatechnologies.com
+0.0.0.0 gameofamazon.com
 0.0.0.0 ggzh-google.com.cn
 0.0.0.0 gloronyan.github.io
 0.0.0.0 google-apk.com
@@ -365,6 +373,7 @@
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 info-facebook.blogspot.com
+0.0.0.0 ingdirect-accesoweb-login.com
 0.0.0.0 iniciamazon.com.br
 0.0.0.0 instagram-2-0-4p6f5s6nd-chibokaxavier.vercel.app
 0.0.0.0 instagram-2-blond.vercel.app
@@ -665,6 +674,7 @@
 0.0.0.0 trustwallet-login.blogspot.com
 0.0.0.0 trustwallet-secure-check.vercel.app
 0.0.0.0 trustwallet-tokentwtowner.vercel.app
+0.0.0.0 trustwalletcard.me
 0.0.0.0 trustwalletreport.vercel.app
 0.0.0.0 trustwalletsupport.dev
 0.0.0.0 twitterfav.com
@@ -739,6 +749,7 @@
 0.0.0.0 xfinityttt.weebly.com
 0.0.0.0 xfinityupdatesnow.weebly.com
 0.0.0.0 xfinityuserverification.weebly.com
+0.0.0.0 yakin-rank-google.pages.dev
 0.0.0.0 yogufile.shop
 0.0.0.0 yonataxi.at
 0.0.0.0 yzz.me

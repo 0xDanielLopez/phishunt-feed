@@ -1,10 +1,10 @@
 {
  "date": "2026-09-24",
- "updated": "2026-09-24T17:12:27Z",
+ "updated": "2026-09-24T21:31:34Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 24,
+  "added": 37,
   "removed": 25
  },
  "added": [
@@ -25,13 +25,26 @@
   "https://bradescosegurosop.com.br",
   "https://cs46-ia2.paypal-update.antimoney-laundering.org",
   "https://dpd-ie.cloud",
+  "https://dpd-ie.vip",
+  "https://gameofamazon.com",
+  "https://google.documentpartage.com",
+  "https://ingdirect-accesoweb-login.com",
   "https://jt-facebook.blogspot.com/?m=1",
   "https://kucoinlogenac.gitbook.io",
+  "https://mx.smtp.debt-bankofamerica.ph",
+  "https://outlook.autoconfig.bankofamericamerchantservices.ph",
   "https://outlook.autodiscover.bankofamericacanadastore.ph",
+  "https://outlook.autodiscover.debt-bankofamerica.ph",
   "https://panel-deploy-60bef09b.us-iad-10.linodeobjects.com/adobe-1790034626137.html",
+  "https://pop.mx.bankofamericasecured.ph",
+  "https://pop.outlook.bankofamerica-unauthorized.ph",
+  "https://pop.outlook.bankofamericana.ph",
   "https://roblox.com.do/users/328787978241/profile",
+  "https://thera.paypal-password.antimoney-laundering.org",
   "https://trezrr-sfe-looggin.godaddysites.com",
-  "https://wildlands.acltci.com/login?method=signin&mode=secure&client_id=4765445b-32c6-49b0-83e6-1d93765276ca&privacy=on&sso_reload=true&redirect_urI=https%3A%2F%2Flogin.microsoftonline.com%2F"
+  "https://trustwalletcard.me",
+  "https://wildlands.acltci.com/login?method=signin&mode=secure&client_id=4765445b-32c6-49b0-83e6-1d93765276ca&privacy=on&sso_reload=true&redirect_urI=https%3A%2F%2Flogin.microsoftonline.com%2F",
+  "https://yakin-rank-google.pages.dev"
  ],
  "removed": [
   "http://allegro.9281238712gh9.beer",

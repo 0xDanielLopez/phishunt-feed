@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 740
-# Updated: 2026-09-24T17:12:26Z
+# Entries: 751
+# Updated: 2026-09-24T21:31:32Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -43,9 +43,13 @@ auth.properties
 authorised-support.com
 avaturefed.net
 axm-amazon.com
+bankofamerica-unauthorized.ph
 bankofamerica-uscom.vercel.app
 bankofamericacanadastore.ph
 bankofamericamailcompte.blogspot.com
+bankofamericamerchantservices.ph
+bankofamericana.ph
+bankofamericasecured.ph
 barcelona-facebook.blogspot.com
 barclays-bank.vercel.app
 bbva-hiring-paperless.appspot.com
@@ -113,6 +117,7 @@ correosscri.cc
 ct.ws
 cz-facebook.blogspot.com
 daservglobal.com
+debt-bankofamerica.ph
 deluxxe.com.br
 desktop-ledgrecdn.wixstudio.com
 dhl-express-dev.firebaseapp.com
@@ -120,11 +125,13 @@ dir.com.my
 dj-facebook.blogspot.com
 docs-google.com
 docs-trezor-app.pages.dev
+documentpartage.com
 docusign-server.github.io
 docusignfile-review-security-page--newstoolin.replit.app
 dothome.co.kr
 dpd-ie-edit.com
 dpd-ie.cloud
+dpd-ie.vip
 dpd-ie.xin
 dpdi.xyz
 dpdn62.click
@@ -323,6 +330,7 @@ foryour.review
 free-facebook-page-likes.blogspot.com
 fwh.is
 gafiatechnologies.com
+gameofamazon.com
 ggzh-google.com.cn
 gloronyan.github.io
 google-apk.com
@@ -365,6 +373,7 @@ icloudnotify.help
 ideeo.mx
 ifotografix.co.uk
 info-facebook.blogspot.com
+ingdirect-accesoweb-login.com
 iniciamazon.com.br
 instagram-2-0-4p6f5s6nd-chibokaxavier.vercel.app
 instagram-2-blond.vercel.app
@@ -665,6 +674,7 @@ trustwallet-helpcenter.vercel.app
 trustwallet-login.blogspot.com
 trustwallet-secure-check.vercel.app
 trustwallet-tokentwtowner.vercel.app
+trustwalletcard.me
 trustwalletreport.vercel.app
 trustwalletsupport.dev
 twitterfav.com
@@ -739,6 +749,7 @@ xfinityteamsservice.weebly.com
 xfinityttt.weebly.com
 xfinityupdatesnow.weebly.com
 xfinityuserverification.weebly.com
+yakin-rank-google.pages.dev
 yogufile.shop
 yonataxi.at
 yzz.me
