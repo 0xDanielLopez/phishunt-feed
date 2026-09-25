@@ -1,5 +1,214 @@
 [
   {
+    "url": "https://kucoin-pochta-steamcommunity.ph",
+    "domain": "kucoin-pochta-steamcommunity.ph",
+    "company": "steam",
+    "date": "2026-09-25T19:05:17.920144+00:00",
+    "first_seen": "2026-09-25T19:05:17.920144+00:00",
+    "uuid": "aeba5f41-4c51-476d-9bd4-091b98db7e88",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "Let's Encrypt",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": true,
+    "top_signals": [],
+    "score": 0,
+    "verdict": "noise"
+  },
+  {
+    "url": "https://nl-spotify.com",
+    "domain": "nl-spotify.com",
+    "company": "spotify",
+    "date": "2026-09-25T17:26:58.429794+00:00",
+    "first_seen": "2026-09-25T17:26:58.429794+00:00",
+    "uuid": "27578071-06cb-4c92-aeb6-75dc1ecced7c",
+    "ip": "198.54.132.28",
+    "country": "Canada",
+    "asn": "11878",
+    "org": "tzulo, inc.",
+    "cert": "YR1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      },
+      {
+        "signal": "levenshtein_brand",
+        "label": "Brand typo",
+        "points": 1.3
+      }
+    ],
+    "score": 25,
+    "verdict": "low"
+  },
+  {
+    "url": "https://bankofamerica-ec.com",
+    "domain": "bankofamerica-ec.com",
+    "company": "bankofamerica",
+    "date": "2026-09-25T17:26:57.114478+00:00",
+    "first_seen": "2026-09-25T17:26:57.114478+00:00",
+    "uuid": "0f777017-b870-4b20-8e3e-117030a0f589",
+    "ip": "76.223.105.230",
+    "country": "United States",
+    "asn": "16509",
+    "org": "Amazon.com, Inc.",
+    "cert": "GoDaddy TLS Intermediate CA DV - R1v1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      }
+    ],
+    "score": 36,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://google.js.cn",
+    "domain": "google.js.cn",
+    "company": "google",
+    "date": "2026-09-25T17:26:56.391801+00:00",
+    "first_seen": "2026-09-25T17:26:56.391801+00:00",
+    "uuid": "a1ed6259-393f-4cc6-abdd-13b88b953144",
+    "ip": "38.95.75.43",
+    "country": "Hong Kong",
+    "asn": "979",
+    "org": "NetLab Global",
+    "cert": "YR2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 22,
+    "verdict": "low"
+  },
+  {
+    "url": "https://dpdi58.top",
+    "domain": "dpdi58.top",
+    "company": "dpd",
+    "date": "2026-09-25T17:26:55.875514+00:00",
+    "first_seen": "2026-09-25T17:26:55.875514+00:00",
+    "uuid": "67c38b54-091e-4fcf-b3b2-1773ad19321c",
+    "ip": "172.237.129.108",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 3.2
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      }
+    ],
+    "score": 29,
+    "verdict": "low"
+  },
+  {
     "url": "https://roblox.com.ml/users/141436606610/profile",
     "domain": "roblox.com.ml",
     "company": "roblox",

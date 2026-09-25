@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 742
-# Updated: 2026-09-25T17:12:25Z
+# Entries: 747
+# Updated: 2026-09-25T21:35:46Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -38,6 +38,7 @@
 0.0.0.0 authorised-support.com
 0.0.0.0 avaturefed.net
 0.0.0.0 axm-amazon.com
+0.0.0.0 bankofamerica-ec.com
 0.0.0.0 bankofamerica-uscom.vercel.app
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 barcelona-facebook.blogspot.com
@@ -123,6 +124,7 @@
 0.0.0.0 dpd-ie.vip
 0.0.0.0 dpd-ie.xin
 0.0.0.0 dpdi.xyz
+0.0.0.0 dpdi58.top
 0.0.0.0 dpdn62.click
 0.0.0.0 dpdr.live
 0.0.0.0 dpdr95.top
@@ -327,6 +329,7 @@
 0.0.0.0 ggzh-google.com.cn
 0.0.0.0 gloronyan.github.io
 0.0.0.0 google-apk.com
+0.0.0.0 google.js.cn
 0.0.0.0 google1107.com
 0.0.0.0 google1208.com
 0.0.0.0 google1302.com
@@ -442,6 +445,7 @@
 0.0.0.0 jwb-facebook.blogspot.com
 0.0.0.0 kauadosantos.github.io
 0.0.0.0 kraken-tor.co.com
+0.0.0.0 kucoin-pochta-steamcommunity.ph
 0.0.0.0 kucoin-referral-code-pt.vercel.app
 0.0.0.0 kucoin9.com
 0.0.0.0 kucoinlogenac.gitbook.io
@@ -548,6 +552,7 @@
 0.0.0.0 netflixy-bixy.vercel.app
 0.0.0.0 network-facebook.blogspot.com
 0.0.0.0 news-revolut.com
+0.0.0.0 nl-spotify.com
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 office365licensingsupport.com

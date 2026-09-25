@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 743
-# Updated: 2026-09-25T17:02:22Z
+# Entries: 747
+# Updated: 2026-09-25T21:35:46Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -38,6 +38,7 @@ auth.properties
 authorised-support.com
 avaturefed.net
 axm-amazon.com
+bankofamerica-ec.com
 bankofamerica-uscom.vercel.app
 bankofamericamailcompte.blogspot.com
 barcelona-facebook.blogspot.com
@@ -123,6 +124,7 @@ dpd-ie.cloud
 dpd-ie.vip
 dpd-ie.xin
 dpdi.xyz
+dpdi58.top
 dpdn62.click
 dpdr.live
 dpdr95.top
@@ -327,6 +329,7 @@ gameofamazon.com
 ggzh-google.com.cn
 gloronyan.github.io
 google-apk.com
+google.js.cn
 google1107.com
 google1208.com
 google1302.com
@@ -347,7 +350,6 @@ googleplrzy.com
 googleuserlogin.cam
 hantech.so
 hashnode.dev
-healthassistcarepro.com
 help-instagram.blogspot.com
 hofmemorabilia.ebaymclaren-austin.eventshouse.app
 home-facebook.blogspot.com
@@ -443,6 +445,7 @@ jt-facebook.blogspot.com
 jwb-facebook.blogspot.com
 kauadosantos.github.io
 kraken-tor.co.com
+kucoin-pochta-steamcommunity.ph
 kucoin-referral-code-pt.vercel.app
 kucoin9.com
 kucoinlogenac.gitbook.io
@@ -549,6 +552,7 @@ netflixvoid.org
 netflixy-bixy.vercel.app
 network-facebook.blogspot.com
 news-revolut.com
+nl-spotify.com
 noreply-icloud.app
 nw-facebook.blogspot.com
 office365licensingsupport.com

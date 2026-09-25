@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 742
-! Updated: 2026-09-25T17:12:25Z
+! Entries: 747
+! Updated: 2026-09-25T21:35:47Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -38,6 +38,7 @@
 ||authorised-support.com^
 ||avaturefed.net^
 ||axm-amazon.com^
+||bankofamerica-ec.com^
 ||bankofamerica-uscom.vercel.app^
 ||bankofamericamailcompte.blogspot.com^
 ||barcelona-facebook.blogspot.com^
@@ -123,6 +124,7 @@
 ||dpd-ie.vip^
 ||dpd-ie.xin^
 ||dpdi.xyz^
+||dpdi58.top^
 ||dpdn62.click^
 ||dpdr.live^
 ||dpdr95.top^
@@ -327,6 +329,7 @@
 ||ggzh-google.com.cn^
 ||gloronyan.github.io^
 ||google-apk.com^
+||google.js.cn^
 ||google1107.com^
 ||google1208.com^
 ||google1302.com^
@@ -442,6 +445,7 @@
 ||jwb-facebook.blogspot.com^
 ||kauadosantos.github.io^
 ||kraken-tor.co.com^
+||kucoin-pochta-steamcommunity.ph^
 ||kucoin-referral-code-pt.vercel.app^
 ||kucoin9.com^
 ||kucoinlogenac.gitbook.io^
@@ -548,6 +552,7 @@
 ||netflixy-bixy.vercel.app^
 ||network-facebook.blogspot.com^
 ||news-revolut.com^
+||nl-spotify.com^
 ||noreply-icloud.app^
 ||nw-facebook.blogspot.com^
 ||office365licensingsupport.com^
