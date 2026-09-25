@@ -1,24 +1,19 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 743
-# Updated: 2026-09-25T11:52:12Z
+# Entries: 742
+# Updated: 2026-09-25T17:12:25Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
 0.0.0.0 123-facebook.blogspot.com
-0.0.0.0 12319h485745g43f234.courses
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
-0.0.0.0 20bet26.com
-0.0.0.0 2398128312.courses
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
-0.0.0.0 31209h845.courses
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
-0.0.0.0 aashirm048-sudo.github.io
 0.0.0.0 account-instagram.vercel.app
 0.0.0.0 acltci.com
 0.0.0.0 alibaba188.org
@@ -49,7 +44,6 @@
 0.0.0.0 barclays-bank.vercel.app
 0.0.0.0 bbva-hiring-paperless.appspot.com
 0.0.0.0 bbvalues.uk
-0.0.0.0 bbvasecurities.com
 0.0.0.0 berbagi-facebook.blogspot.com
 0.0.0.0 bet-facebook.blogspot.com
 0.0.0.0 binance-blog.vercel.app
@@ -67,6 +61,7 @@
 0.0.0.0 binanceuz.co
 0.0.0.0 binancewallett.blogspot.com
 0.0.0.0 biowikiweb.com
+0.0.0.0 bkinterim.com
 0.0.0.0 bnext.es
 0.0.0.0 books-facebook.blogspot.com
 0.0.0.0 brad-facebook.blogspot.com
@@ -120,7 +115,6 @@
 0.0.0.0 dj-facebook.blogspot.com
 0.0.0.0 docs-google.com
 0.0.0.0 docs-trezor-app.pages.dev
-0.0.0.0 documentpartage.com
 0.0.0.0 docusign-server.github.io
 0.0.0.0 docusignfile-review-security-page--newstoolin.replit.app
 0.0.0.0 dothome.co.kr
@@ -192,6 +186,7 @@
 0.0.0.0 facebook-fb-com.blogspot.com
 0.0.0.0 facebook-find.blogspot.com
 0.0.0.0 facebook-five-gamma.vercel.app
+0.0.0.0 facebook-front-iota.vercel.app
 0.0.0.0 facebook-gamehacks.blogspot.com
 0.0.0.0 facebook-germany.blogspot.com
 0.0.0.0 facebook-groups-new.blogspot.com
@@ -242,7 +237,6 @@
 0.0.0.0 facebook-supports.blogspot.com
 0.0.0.0 facebook-system.blogspot.com
 0.0.0.0 facebook-theta.vercel.app
-0.0.0.0 facebook-trial.vercel.app
 0.0.0.0 facebook-trk.blogspot.com
 0.0.0.0 facebook-verification-system3.blogspot.com
 0.0.0.0 facebook-verification-system4.blogspot.com
@@ -271,6 +265,7 @@
 0.0.0.0 facebookhints.blogspot.com
 0.0.0.0 facebookk-k.vercel.app
 0.0.0.0 facebookk.blogspot.com
+0.0.0.0 facebookkerls.blogspot.com
 0.0.0.0 facebooklivepage.blogspot.com
 0.0.0.0 facebooklogin-page.blogspot.com
 0.0.0.0 facebooklogin01.blogspot.com
@@ -317,6 +312,7 @@
 0.0.0.0 facebookverifyyouraccount.blogspot.com
 0.0.0.0 facebookwebsite9.blogspot.com
 0.0.0.0 facebookzaman.blogspot.com
+0.0.0.0 fas123.top
 0.0.0.0 fedex-olive.vercel.app
 0.0.0.0 fedexbeta.com
 0.0.0.0 feq-trezor-suite-app.typedream.app
@@ -349,10 +345,8 @@
 0.0.0.0 googlepllry.com
 0.0.0.0 googleplrzy.com
 0.0.0.0 googleuserlogin.cam
-0.0.0.0 grupoimpaktu.ao
 0.0.0.0 hantech.so
 0.0.0.0 hashnode.dev
-0.0.0.0 healthassistcarepro.com
 0.0.0.0 help-instagram.blogspot.com
 0.0.0.0 hofmemorabilia.ebaymclaren-austin.eventshouse.app
 0.0.0.0 home-facebook.blogspot.com
@@ -413,7 +407,6 @@
 0.0.0.0 instagramaccounthacks.blogspot.com
 0.0.0.0 instagramchatsview999.blogspot.com
 0.0.0.0 instagramcheck.blogspot.com
-0.0.0.0 instagramcom001.github.io
 0.0.0.0 instagramcoverrbrasilinstagram.blogspot.com
 0.0.0.0 instagramfollowers146.blogspot.com
 0.0.0.0 instagramfollowers7894.blogspot.com
@@ -498,11 +491,13 @@
 0.0.0.0 metamask-launchpad.vercel.app
 0.0.0.0 metamask-login.vercel.app
 0.0.0.0 metamask-six.vercel.app
+0.0.0.0 metamask-us_a-loogiin.godaddysites.com
 0.0.0.0 metamask-wallet.vercel.app
 0.0.0.0 metamask-web.vercel.app
 0.0.0.0 metamask2-eight.vercel.app
 0.0.0.0 metamaskcasino.de
 0.0.0.0 metamaskchromeextensionn.blogspot.com
+0.0.0.0 metamaskeeogin.gitbook.io
 0.0.0.0 metamaskextensionnn.gitbook.io
 0.0.0.0 metamasklskog.gitbook.io
 0.0.0.0 metamaskrewards.com
@@ -515,7 +510,6 @@
 0.0.0.0 microsoft-se.us
 0.0.0.0 microsoft-sharepoint.fr
 0.0.0.0 microsoft-ssl.com
-0.0.0.0 microsoft.github.io
 0.0.0.0 microsoft0117.vercel.app
 0.0.0.0 microsoft365businessbasic.com
 0.0.0.0 microsoft365updates.com
@@ -597,15 +591,14 @@
 0.0.0.0 register-facebook.blogspot.com
 0.0.0.0 rekemonedasi-facebook.org
 0.0.0.0 renfe-sncf.com
-0.0.0.0 republicanlibertycaucus.org
 0.0.0.0 rev.it
 0.0.0.0 roblox-login.vercel.app
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bo
 0.0.0.0 roblox.com.bz
-0.0.0.0 roblox.com.do
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.gr
+0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 rricrosoft-offices.org
 0.0.0.0 ruddycruzc.github.io
@@ -623,8 +616,10 @@
 0.0.0.0 send-secure-trustwallet-usdt-bip20.vercel.app
 0.0.0.0 services-facebook.blogspot.com
 0.0.0.0 sigma-whatsapp.com
+0.0.0.0 sign-in-to-my-xfinity.square.site
 0.0.0.0 sign-in-to-xfinity-090.weebly.com
 0.0.0.0 sign-in-to-xfinity-87653.weebly.com
+0.0.0.0 sign-in-to-xfinity-updatee.weebly.com
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotify-payment.click
@@ -658,6 +653,7 @@
 0.0.0.0 trezoorr--thego.gitbook.io
 0.0.0.0 trezor-login-us-auth-start.typedream.app
 0.0.0.0 trezorguide.vercel.app
+0.0.0.0 trezoriostart-web.square.site
 0.0.0.0 trezrr-sfe-looggin.godaddysites.com
 0.0.0.0 troubleshoots-google.com
 0.0.0.0 trust-wallet-bnb.vercel.app
@@ -686,7 +682,6 @@
 0.0.0.0 vpn-update.org
 0.0.0.0 vpnuse.eu.org
 0.0.0.0 vwwv-icloud.com
-0.0.0.0 vwwv-roblox.co
 0.0.0.0 wave-whatsapp.com
 0.0.0.0 web-conect-us-ledger-live-wallet.typedream.app
 0.0.0.0 web-trezor-io-start-us.vercel.app
@@ -720,9 +715,13 @@
 0.0.0.0 xfinity001.weebly.com
 0.0.0.0 xfinity003.weebly.com
 0.0.0.0 xfinity009.weebly.com
+0.0.0.0 xfinity097.weebly.com
 0.0.0.0 xfinity101.duckdns.org
+0.0.0.0 xfinity105.weebly.com
+0.0.0.0 xfinity119.weebly.com
 0.0.0.0 xfinity2.vercel.app
 0.0.0.0 xfinity200212.weebly.com
+0.0.0.0 xfinitycomm.weebly.com
 0.0.0.0 xfinityconnectemail.weebly.com
 0.0.0.0 xfinityconnectonline.weebly.com
 0.0.0.0 xfinityconnectupgrade.weebly.com

@@ -1,24 +1,19 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 743
-! Updated: 2026-09-25T11:52:12Z
+! Entries: 742
+! Updated: 2026-09-25T17:12:25Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
 ! Community-reported phishing domains. Use at your own risk.
 
 ||123-facebook.blogspot.com^
-||12319h485745g43f234.courses^
 ||190842-coinbase.com^
 ||2017-facebook.blogspot.com^
-||20bet26.com^
-||2398128312.courses^
 ||283674-coinbase.com^
 ||286364-coinbase.com^
-||31209h845.courses^
 ||a1-kraken.com^
 ||a2zapk.co^
 ||a2zapk.dev^
-||aashirm048-sudo.github.io^
 ||account-instagram.vercel.app^
 ||acltci.com^
 ||alibaba188.org^
@@ -49,7 +44,6 @@
 ||barclays-bank.vercel.app^
 ||bbva-hiring-paperless.appspot.com^
 ||bbvalues.uk^
-||bbvasecurities.com^
 ||berbagi-facebook.blogspot.com^
 ||bet-facebook.blogspot.com^
 ||binance-blog.vercel.app^
@@ -67,6 +61,7 @@
 ||binanceuz.co^
 ||binancewallett.blogspot.com^
 ||biowikiweb.com^
+||bkinterim.com^
 ||bnext.es^
 ||books-facebook.blogspot.com^
 ||brad-facebook.blogspot.com^
@@ -120,7 +115,6 @@
 ||dj-facebook.blogspot.com^
 ||docs-google.com^
 ||docs-trezor-app.pages.dev^
-||documentpartage.com^
 ||docusign-server.github.io^
 ||docusignfile-review-security-page--newstoolin.replit.app^
 ||dothome.co.kr^
@@ -192,6 +186,7 @@
 ||facebook-fb-com.blogspot.com^
 ||facebook-find.blogspot.com^
 ||facebook-five-gamma.vercel.app^
+||facebook-front-iota.vercel.app^
 ||facebook-gamehacks.blogspot.com^
 ||facebook-germany.blogspot.com^
 ||facebook-groups-new.blogspot.com^
@@ -242,7 +237,6 @@
 ||facebook-supports.blogspot.com^
 ||facebook-system.blogspot.com^
 ||facebook-theta.vercel.app^
-||facebook-trial.vercel.app^
 ||facebook-trk.blogspot.com^
 ||facebook-verification-system3.blogspot.com^
 ||facebook-verification-system4.blogspot.com^
@@ -271,6 +265,7 @@
 ||facebookhints.blogspot.com^
 ||facebookk-k.vercel.app^
 ||facebookk.blogspot.com^
+||facebookkerls.blogspot.com^
 ||facebooklivepage.blogspot.com^
 ||facebooklogin-page.blogspot.com^
 ||facebooklogin01.blogspot.com^
@@ -317,6 +312,7 @@
 ||facebookverifyyouraccount.blogspot.com^
 ||facebookwebsite9.blogspot.com^
 ||facebookzaman.blogspot.com^
+||fas123.top^
 ||fedex-olive.vercel.app^
 ||fedexbeta.com^
 ||feq-trezor-suite-app.typedream.app^
@@ -349,10 +345,8 @@
 ||googlepllry.com^
 ||googleplrzy.com^
 ||googleuserlogin.cam^
-||grupoimpaktu.ao^
 ||hantech.so^
 ||hashnode.dev^
-||healthassistcarepro.com^
 ||help-instagram.blogspot.com^
 ||hofmemorabilia.ebaymclaren-austin.eventshouse.app^
 ||home-facebook.blogspot.com^
@@ -413,7 +407,6 @@
 ||instagramaccounthacks.blogspot.com^
 ||instagramchatsview999.blogspot.com^
 ||instagramcheck.blogspot.com^
-||instagramcom001.github.io^
 ||instagramcoverrbrasilinstagram.blogspot.com^
 ||instagramfollowers146.blogspot.com^
 ||instagramfollowers7894.blogspot.com^
@@ -498,11 +491,13 @@
 ||metamask-launchpad.vercel.app^
 ||metamask-login.vercel.app^
 ||metamask-six.vercel.app^
+||metamask-us_a-loogiin.godaddysites.com^
 ||metamask-wallet.vercel.app^
 ||metamask-web.vercel.app^
 ||metamask2-eight.vercel.app^
 ||metamaskcasino.de^
 ||metamaskchromeextensionn.blogspot.com^
+||metamaskeeogin.gitbook.io^
 ||metamaskextensionnn.gitbook.io^
 ||metamasklskog.gitbook.io^
 ||metamaskrewards.com^
@@ -515,7 +510,6 @@
 ||microsoft-se.us^
 ||microsoft-sharepoint.fr^
 ||microsoft-ssl.com^
-||microsoft.github.io^
 ||microsoft0117.vercel.app^
 ||microsoft365businessbasic.com^
 ||microsoft365updates.com^
@@ -597,15 +591,14 @@
 ||register-facebook.blogspot.com^
 ||rekemonedasi-facebook.org^
 ||renfe-sncf.com^
-||republicanlibertycaucus.org^
 ||rev.it^
 ||roblox-login.vercel.app^
 ||roblox.com.bi^
 ||roblox.com.bo^
 ||roblox.com.bz^
-||roblox.com.do^
 ||roblox.com.ee^
 ||roblox.com.gr^
+||roblox.com.ml^
 ||roblox.com.mu^
 ||rricrosoft-offices.org^
 ||ruddycruzc.github.io^
@@ -623,8 +616,10 @@
 ||send-secure-trustwallet-usdt-bip20.vercel.app^
 ||services-facebook.blogspot.com^
 ||sigma-whatsapp.com^
+||sign-in-to-my-xfinity.square.site^
 ||sign-in-to-xfinity-090.weebly.com^
 ||sign-in-to-xfinity-87653.weebly.com^
+||sign-in-to-xfinity-updatee.weebly.com^
 ||sk-facebook.blogspot.com^
 ||spotify-client-beta.vercel.app^
 ||spotify-payment.click^
@@ -658,6 +653,7 @@
 ||trezoorr--thego.gitbook.io^
 ||trezor-login-us-auth-start.typedream.app^
 ||trezorguide.vercel.app^
+||trezoriostart-web.square.site^
 ||trezrr-sfe-looggin.godaddysites.com^
 ||troubleshoots-google.com^
 ||trust-wallet-bnb.vercel.app^
@@ -686,7 +682,6 @@
 ||vpn-update.org^
 ||vpnuse.eu.org^
 ||vwwv-icloud.com^
-||vwwv-roblox.co^
 ||wave-whatsapp.com^
 ||web-conect-us-ledger-live-wallet.typedream.app^
 ||web-trezor-io-start-us.vercel.app^
@@ -720,9 +715,13 @@
 ||xfinity001.weebly.com^
 ||xfinity003.weebly.com^
 ||xfinity009.weebly.com^
+||xfinity097.weebly.com^
 ||xfinity101.duckdns.org^
+||xfinity105.weebly.com^
+||xfinity119.weebly.com^
 ||xfinity2.vercel.app^
 ||xfinity200212.weebly.com^
+||xfinitycomm.weebly.com^
 ||xfinityconnectemail.weebly.com^
 ||xfinityconnectonline.weebly.com^
 ||xfinityconnectupgrade.weebly.com^
