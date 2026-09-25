@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 748
-# Updated: 2026-09-25T04:58:52Z
+# Entries: 743
+# Updated: 2026-09-25T11:52:11Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -15,8 +15,6 @@
 283674-coinbase.com
 286364-coinbase.com
 31209h845.courses
-3399581-coinbase.com
-8877295-coinbase.com
 a1-kraken.com
 a2zapk.co
 a2zapk.dev
@@ -453,9 +451,7 @@ kauadosantos.github.io
 kraken-tor.co.com
 kucoin-referral-code-pt.vercel.app
 kucoin9.com
-kucoinievlosginie.godaddysites.com
 kucoinlogenac.gitbook.io
-kucoinlogin_us.godaddysites.com
 kucoinloginaa.gitbook.io
 kucoinloign.gitbook.io
 lateinos.com.br
@@ -464,7 +460,6 @@ ledger-live-download-sso-conect.typedream.app
 ledger-live-login-web.square.site
 ledger-live-wallet-start-conect-us-en.typedream.app
 ledger-liveusa.zapier.app
-ledger-wallet-start-cloud.typedream.app
 ledgerlive0.godaddysites.com
 ledgerwalletrepair.com
 ledgrelivapp--crome.typedream.app
@@ -489,6 +484,7 @@ m365-microsoft.com
 m4ntapaset.ink
 mail-xfinitylogin.weebly.com
 marycar.com.br
+mauihost.qpon
 mb-facebook.blogspot.com
 mclarencar.ebaymclaren-austin.eventshouse.app
 mclarenf1car.ebaymclaren-austin.eventshouse.app
@@ -550,7 +546,6 @@ netflix520.com
 netflix6.com
 netflixandchiffres.com
 netflixbymanoj.vercel.app
-netflixde.com
 netflixfeitoaqui.com.br
 netflixinfos.com
 netflixquebec.blogspot.com
@@ -584,7 +579,6 @@ paypal-password.blogspot.com
 paypal-refund.com
 paypal-secure.vercel.app
 paypal-signin.blogspot.com
-paypalcheckout.click
 paypalcorp.blogspot.com
 pe-facebook.blogspot.com
 pl-lokalna-ofeta95430458.sbs
@@ -699,6 +693,7 @@ web-trezor-io-start-us.vercel.app
 webaccess-alert.com
 webador.com
 weeblysite.com
+whatsapp-dp-images.in
 whatsapp-fast.vercel.app
 whatsapp-iamsuyash.vercel.app
 whatsapp-indonesia877.blogspot.com
