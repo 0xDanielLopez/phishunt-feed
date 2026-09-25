@@ -1,22 +1,26 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 751
-! Updated: 2026-09-24T21:31:34Z
+! Entries: 748
+! Updated: 2026-09-25T04:58:53Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
 ! Community-reported phishing domains. Use at your own risk.
 
 ||123-facebook.blogspot.com^
+||12319h485745g43f234.courses^
 ||190842-coinbase.com^
 ||2017-facebook.blogspot.com^
 ||20bet26.com^
-||234942398g9hi.buzz^
+||2398128312.courses^
 ||283674-coinbase.com^
 ||286364-coinbase.com^
+||31209h845.courses^
 ||3399581-coinbase.com^
+||8877295-coinbase.com^
 ||a1-kraken.com^
 ||a2zapk.co^
 ||a2zapk.dev^
+||aashirm048-sudo.github.io^
 ||account-instagram.vercel.app^
 ||acltci.com^
 ||alibaba188.org^
@@ -25,8 +29,6 @@
 ||alibaba66a.net^
 ||amazon-harshdeep.vercel.app^
 ||amazon-opfq.vercel.app^
-||amazon-promos.shop^
-||androidguias.com^
 ||ani-facebook.blogspot.com^
 ||annulation-amazon.com^
 ||antimoney-laundering.org^
@@ -43,13 +45,8 @@
 ||authorised-support.com^
 ||avaturefed.net^
 ||axm-amazon.com^
-||bankofamerica-unauthorized.ph^
 ||bankofamerica-uscom.vercel.app^
-||bankofamericacanadastore.ph^
 ||bankofamericamailcompte.blogspot.com^
-||bankofamericamerchantservices.ph^
-||bankofamericana.ph^
-||bankofamericasecured.ph^
 ||barcelona-facebook.blogspot.com^
 ||barclays-bank.vercel.app^
 ||bbva-hiring-paperless.appspot.com^
@@ -98,6 +95,7 @@
 ||coinbaseinvestors.ai^
 ||coinbaseverify.vercel.app^
 ||collectableswall.ebaymclaren-austin.eventshouse.app^
+||com.tg^
 ||comcast-ebon.vercel.app^
 ||comcast-seven.vercel.app^
 ||comcast2.vercel.app^
@@ -117,7 +115,6 @@
 ||ct.ws^
 ||cz-facebook.blogspot.com^
 ||daservglobal.com^
-||debt-bankofamerica.ph^
 ||deluxxe.com.br^
 ||desktop-ledgrecdn.wixstudio.com^
 ||dhl-express-dev.firebaseapp.com^
@@ -136,6 +133,7 @@
 ||dpdi.xyz^
 ||dpdn62.click^
 ||dpdr.live^
+||dpdr95.top^
 ||dropbox-online.at^
 ||dropbox-online.net^
 ||dropboxbiz.com^
@@ -325,6 +323,7 @@
 ||fedexbeta.com^
 ||feq-trezor-suite-app.typedream.app^
 ||file-whatsappn.hl.cn^
+||fitfur.qpon^
 ||forsakens-crew-teman-facebook.blogspot.com^
 ||foryour.review^
 ||free-facebook-page-likes.blogspot.com^
@@ -353,13 +352,13 @@
 ||googleplrzy.com^
 ||googleuserlogin.cam^
 ||grupoimpaktu.ao^
+||hantech.so^
 ||hashnode.dev^
 ||healthassistcarepro.com^
 ||help-instagram.blogspot.com^
 ||hofmemorabilia.ebaymclaren-austin.eventshouse.app^
 ||home-facebook.blogspot.com^
 ||home-ledgrreliveapp.typedream.app^
-||host-coinbase.com^
 ||hot-binance.com.cn^
 ||hotmail143.net^
 ||hsbc-sec.com^
@@ -441,7 +440,6 @@
 ||instagramusicabrasilinstagram.blogspot.com^
 ||internal-alerts.com^
 ||invreceiptslinkedin.com^
-||iqraashraf.dev^
 ||isha-dev.com^
 ||itau-com.vercel.app^
 ||itau-snowy.vercel.app^
@@ -564,6 +562,7 @@
 ||noreply-icloud.app^
 ||nw-facebook.blogspot.com^
 ||office365licensingsupport.com^
+||oneworldnetwork.com^
 ||online-facebook-privacy.blogspot.com^
 ||oortstorages.com^
 ||open-instagram.vercel.app^
@@ -578,7 +577,6 @@
 ||outlookindia.com^
 ||outlookmail.social^
 ||page-instagram.vercel.app^
-||panel-deploy-60bef09b.us-iad-10.linodeobjects.com^
 ||patelrudra.in^
 ||paykmc.com^
 ||paypal-logiin.blogspot.com^
@@ -586,14 +584,13 @@
 ||paypal-refund.com^
 ||paypal-secure.vercel.app^
 ||paypal-signin.blogspot.com^
-||paypal3.vercel.app^
 ||paypalcheckout.click^
 ||paypalcorp.blogspot.com^
 ||pe-facebook.blogspot.com^
+||pl-lokalna-ofeta95430458.sbs^
 ||pl-oferta58296379.shop^
 ||premio-instagram.com^
 ||profil-facebook-saya.blogspot.com^
-||proteccion-outlook2026.iceiy.com^
 ||ptai.in^
 ||quantum-flares.com^
 ||r-facebook.blogspot.com^
@@ -605,13 +602,16 @@
 ||reentrega-seur-envio.cloudaccess.host^
 ||register-facebook.blogspot.com^
 ||rekemonedasi-facebook.org^
+||renfe-sncf.com^
 ||republicanlibertycaucus.org^
 ||rev.it^
 ||roblox-login.vercel.app^
+||roblox.com.bi^
 ||roblox.com.bo^
 ||roblox.com.bz^
 ||roblox.com.do^
 ||roblox.com.ee^
+||roblox.com.gr^
 ||roblox.com.mu^
 ||rricrosoft-offices.org^
 ||ruddycruzc.github.io^
@@ -620,7 +620,6 @@
 ||samplel-ks6yxvur5-instagramm.vercel.app^
 ||santander-dev-week.vercel.app^
 ||santander-remaster-whats-fb.vercel.app^
-||santanderbank.shop^
 ||santanderbizum.com^
 ||santandercitas.com^
 ||saque-instagram.com^
@@ -641,7 +640,6 @@
 ||start-ledgerlive-com-web.typedream.app^
 ||start-ledgren.zapier.app^
 ||start-web-en-ledger-live-login.typedream.app^
-||steamcommunity-balanceworkshop.shop^
 ||steamcommunity.blog^
 ||steamcommunity.ing^
 ||steuerquimica.cl^
@@ -662,6 +660,8 @@
 ||todo--facebook.blogspot.com^
 ||tottattoo.com^
 ||trackingnumbers.org^
+||trezoio-aa-app.gitbook.io^
+||trezoorr--thego.gitbook.io^
 ||trezor-login-us-auth-start.typedream.app^
 ||trezorguide.vercel.app^
 ||trezrr-sfe-looggin.godaddysites.com^
@@ -692,9 +692,9 @@
 ||vpn-update.org^
 ||vpnuse.eu.org^
 ||vwwv-icloud.com^
+||vwwv-roblox.co^
 ||wave-whatsapp.com^
 ||web-conect-us-ledger-live-wallet.typedream.app^
-||web-login-whatsapp.com^
 ||web-trezor-io-start-us.vercel.app^
 ||webaccess-alert.com^
 ||webador.com^
@@ -709,7 +709,6 @@
 ||whatsappbrnoticias.blogspot.com^
 ||whatsappcampaign.online^
 ||whatsappfreewhatsapp.blogspot.com^
-||whatsappq.com^
 ||whatsappzoeiras.blogspot.com^
 ||windows-ledger-live.typedream.app^
 ||wooflers.com^
@@ -749,8 +748,6 @@
 ||xfinityttt.weebly.com^
 ||xfinityupdatesnow.weebly.com^
 ||xfinityuserverification.weebly.com^
-||yakin-rank-google.pages.dev^
-||yogufile.shop^
 ||yonataxi.at^
 ||yzz.me^
 ||z-facebook.blogspot.com^
