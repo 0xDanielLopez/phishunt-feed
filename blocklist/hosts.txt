@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 745
-# Updated: 2026-09-26T11:26:06Z
+# Entries: 754
+# Updated: 2026-09-26T16:24:29Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -12,6 +12,7 @@
 0.0.0.0 254615-coinbase.com
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
+0.0.0.0 2ccloud.com
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
@@ -41,7 +42,6 @@
 0.0.0.0 axm-amazon.com
 0.0.0.0 bankofamerica-uscom.vercel.app
 0.0.0.0 bankofamericamailcompte.blogspot.com
-0.0.0.0 bankofamericana.ph
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
 0.0.0.0 bbva-hiring-paperless.appspot.com
@@ -80,6 +80,7 @@
 0.0.0.0 ch-google.cc
 0.0.0.0 chatgpt0005.eu.org
 0.0.0.0 chatgptpl.com
+0.0.0.0 checkleaked.com
 0.0.0.0 citrix-sharing.com
 0.0.0.0 click-facebook.blogspot.com
 0.0.0.0 cn-feed-whatsapp.com.cn
@@ -107,6 +108,7 @@
 0.0.0.0 correoscri.cc
 0.0.0.0 correosiicr.cc
 0.0.0.0 correosscri.cc
+0.0.0.0 creyt.cl
 0.0.0.0 cross-bordere-commerce-ebay.top
 0.0.0.0 ct.ws
 0.0.0.0 cz-facebook.blogspot.com
@@ -368,6 +370,7 @@
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 info-facebook.blogspot.com
+0.0.0.0 info-trezorsuite.com
 0.0.0.0 ingdirect-accesoweb-login.com
 0.0.0.0 iniciamazon.com.br
 0.0.0.0 instagram-2-0-4p6f5s6nd-chibokaxavier.vercel.app
@@ -404,7 +407,6 @@
 0.0.0.0 instagram-users.blogspot.com
 0.0.0.0 instagram-usman-haider.vercel.app
 0.0.0.0 instagram-verifications.blogspot.com
-0.0.0.0 instagram-verify.dynv6.net
 0.0.0.0 instagram90sedition.vercel.app
 0.0.0.0 instagramaaps-code.github.io
 0.0.0.0 instagramaccount.info
@@ -453,7 +455,6 @@
 0.0.0.0 kucoinloginaa.gitbook.io
 0.0.0.0 kucoinloign.gitbook.io
 0.0.0.0 lateinos.com.br
-0.0.0.0 launchsuite-trezorsuite.com
 0.0.0.0 ledger-live-application.com
 0.0.0.0 ledger-live-download-sso-conect.typedream.app
 0.0.0.0 ledger-live-login-web.square.site
@@ -536,6 +537,8 @@
 0.0.0.0 mytemp.website
 0.0.0.0 nbpublic.com
 0.0.0.0 neda-facebook.blogspot.com
+0.0.0.0 neocities.org
+0.0.0.0 netflix-71f05.firebaseapp.com
 0.0.0.0 netflix-homepage-pi.vercel.app
 0.0.0.0 netflix-lake.vercel.app
 0.0.0.0 netflix-login.blogspot.com
@@ -589,6 +592,7 @@
 0.0.0.0 quantum-flares.com
 0.0.0.0 r-facebook.blogspot.com
 0.0.0.0 rama-facebook.blogspot.com
+0.0.0.0 ranmeng.org
 0.0.0.0 reactivar-microsoft-live.iceiy.com
 0.0.0.0 rec-netflix.com
 0.0.0.0 receiptslinkedin.com
@@ -599,13 +603,16 @@
 0.0.0.0 rev.it
 0.0.0.0 roblox-login.vercel.app
 0.0.0.0 roblox.com.bi
+0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bo
 0.0.0.0 roblox.com.bz
 0.0.0.0 roblox.com.do
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.gr
+0.0.0.0 roblox.com.kz
 0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
+0.0.0.0 roblox.com.pt
 0.0.0.0 rricrosoft-offices.org
 0.0.0.0 ruddycruzc.github.io
 0.0.0.0 s-facebook.blogspot.com
@@ -651,6 +658,7 @@
 0.0.0.0 tb-facebook.blogspot.com
 0.0.0.0 temporary.site
 0.0.0.0 test-facebook.blogspot.com
+0.0.0.0 theodore3.com
 0.0.0.0 therelayservice.com
 0.0.0.0 thomas-coinbase.com
 0.0.0.0 todo--facebook.blogspot.com
@@ -659,6 +667,7 @@
 0.0.0.0 trezor-login-us-auth-start.typedream.app
 0.0.0.0 trezorguide.vercel.app
 0.0.0.0 trezoriostart-web.square.site
+0.0.0.0 trezorrgoappup.gitbook.io
 0.0.0.0 trust-wallet-bnb.vercel.app
 0.0.0.0 trust-wallet-contact.vercel.app
 0.0.0.0 trust-wallet-customer-support-number.github.io

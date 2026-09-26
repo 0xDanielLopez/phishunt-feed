@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 745
-! Updated: 2026-09-26T11:26:07Z
+! Entries: 754
+! Updated: 2026-09-26T16:24:29Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -12,6 +12,7 @@
 ||254615-coinbase.com^
 ||283674-coinbase.com^
 ||286364-coinbase.com^
+||2ccloud.com^
 ||a1-kraken.com^
 ||a2zapk.co^
 ||a2zapk.dev^
@@ -41,7 +42,6 @@
 ||axm-amazon.com^
 ||bankofamerica-uscom.vercel.app^
 ||bankofamericamailcompte.blogspot.com^
-||bankofamericana.ph^
 ||barcelona-facebook.blogspot.com^
 ||barclays-bank.vercel.app^
 ||bbva-hiring-paperless.appspot.com^
@@ -80,6 +80,7 @@
 ||ch-google.cc^
 ||chatgpt0005.eu.org^
 ||chatgptpl.com^
+||checkleaked.com^
 ||citrix-sharing.com^
 ||click-facebook.blogspot.com^
 ||cn-feed-whatsapp.com.cn^
@@ -107,6 +108,7 @@
 ||correoscri.cc^
 ||correosiicr.cc^
 ||correosscri.cc^
+||creyt.cl^
 ||cross-bordere-commerce-ebay.top^
 ||ct.ws^
 ||cz-facebook.blogspot.com^
@@ -368,6 +370,7 @@
 ||ideeo.mx^
 ||ifotografix.co.uk^
 ||info-facebook.blogspot.com^
+||info-trezorsuite.com^
 ||ingdirect-accesoweb-login.com^
 ||iniciamazon.com.br^
 ||instagram-2-0-4p6f5s6nd-chibokaxavier.vercel.app^
@@ -404,7 +407,6 @@
 ||instagram-users.blogspot.com^
 ||instagram-usman-haider.vercel.app^
 ||instagram-verifications.blogspot.com^
-||instagram-verify.dynv6.net^
 ||instagram90sedition.vercel.app^
 ||instagramaaps-code.github.io^
 ||instagramaccount.info^
@@ -453,7 +455,6 @@
 ||kucoinloginaa.gitbook.io^
 ||kucoinloign.gitbook.io^
 ||lateinos.com.br^
-||launchsuite-trezorsuite.com^
 ||ledger-live-application.com^
 ||ledger-live-download-sso-conect.typedream.app^
 ||ledger-live-login-web.square.site^
@@ -536,6 +537,8 @@
 ||mytemp.website^
 ||nbpublic.com^
 ||neda-facebook.blogspot.com^
+||neocities.org^
+||netflix-71f05.firebaseapp.com^
 ||netflix-homepage-pi.vercel.app^
 ||netflix-lake.vercel.app^
 ||netflix-login.blogspot.com^
@@ -589,6 +592,7 @@
 ||quantum-flares.com^
 ||r-facebook.blogspot.com^
 ||rama-facebook.blogspot.com^
+||ranmeng.org^
 ||reactivar-microsoft-live.iceiy.com^
 ||rec-netflix.com^
 ||receiptslinkedin.com^
@@ -599,13 +603,16 @@
 ||rev.it^
 ||roblox-login.vercel.app^
 ||roblox.com.bi^
+||roblox.com.bn^
 ||roblox.com.bo^
 ||roblox.com.bz^
 ||roblox.com.do^
 ||roblox.com.ee^
 ||roblox.com.gr^
+||roblox.com.kz^
 ||roblox.com.ml^
 ||roblox.com.mu^
+||roblox.com.pt^
 ||rricrosoft-offices.org^
 ||ruddycruzc.github.io^
 ||s-facebook.blogspot.com^
@@ -651,6 +658,7 @@
 ||tb-facebook.blogspot.com^
 ||temporary.site^
 ||test-facebook.blogspot.com^
+||theodore3.com^
 ||therelayservice.com^
 ||thomas-coinbase.com^
 ||todo--facebook.blogspot.com^
@@ -659,6 +667,7 @@
 ||trezor-login-us-auth-start.typedream.app^
 ||trezorguide.vercel.app^
 ||trezoriostart-web.square.site^
+||trezorrgoappup.gitbook.io^
 ||trust-wallet-bnb.vercel.app^
 ||trust-wallet-contact.vercel.app^
 ||trust-wallet-customer-support-number.github.io^
