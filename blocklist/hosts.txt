@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 757
-# Updated: 2026-09-26T04:59:06Z
+# Entries: 745
+# Updated: 2026-09-26T11:26:06Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -9,6 +9,7 @@
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
+0.0.0.0 254615-coinbase.com
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
 0.0.0.0 a1-kraken.com
@@ -29,24 +30,18 @@
 0.0.0.0 app-exodusweb.pages.dev
 0.0.0.0 app-facebook.blogspot.com
 0.0.0.0 app81-facebook.blogspot.com
+0.0.0.0 appeal-coinbase.com
 0.0.0.0 apple-icloud.azurewebsites.net
 0.0.0.0 apple-verify.us
 0.0.0.0 assign-icloud.com
 0.0.0.0 asso-entrautres.fr
 0.0.0.0 auth.properties
 0.0.0.0 authorised-support.com
-0.0.0.0 autoconfig.pop.bankofamericana.ph
-0.0.0.0 autoconfig.smtp.bankofamericana.ph
-0.0.0.0 autodiscover.autoconfig.bankofamericana.ph
-0.0.0.0 autodiscover.autoconfig.bankofamericasecured.ph
-0.0.0.0 autodiscover.webmail.bankofamericana.ph
 0.0.0.0 avaturefed.net
 0.0.0.0 axm-amazon.com
-0.0.0.0 bankofamerica-ec.com
-0.0.0.0 bankofamerica-unauthorized.ph
 0.0.0.0 bankofamerica-uscom.vercel.app
-0.0.0.0 bankofamericacanadastore.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
+0.0.0.0 bankofamericana.ph
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
 0.0.0.0 bbva-hiring-paperless.appspot.com
@@ -112,10 +107,10 @@
 0.0.0.0 correoscri.cc
 0.0.0.0 correosiicr.cc
 0.0.0.0 correosscri.cc
+0.0.0.0 cross-bordere-commerce-ebay.top
 0.0.0.0 ct.ws
 0.0.0.0 cz-facebook.blogspot.com
 0.0.0.0 daservglobal.com
-0.0.0.0 debt-bankofamerica.ph
 0.0.0.0 deluxxe.com.br
 0.0.0.0 desktop-ledgrecdn.wixstudio.com
 0.0.0.0 dhl-express-dev.firebaseapp.com
@@ -127,6 +122,7 @@
 0.0.0.0 docusignfile-review-security-page--newstoolin.replit.app
 0.0.0.0 dothome.co.kr
 0.0.0.0 dpd-ie-edit.com
+0.0.0.0 dpd-ie-edit.vip
 0.0.0.0 dpd-ie.cloud
 0.0.0.0 dpd-ie.vip
 0.0.0.0 dpd-ie.xin
@@ -319,7 +315,6 @@
 0.0.0.0 facebookverifyyouraccount.blogspot.com
 0.0.0.0 facebookwebsite9.blogspot.com
 0.0.0.0 facebookzaman.blogspot.com
-0.0.0.0 fas123.top
 0.0.0.0 fedex-olive.vercel.app
 0.0.0.0 fedexbeta.com
 0.0.0.0 feq-trezor-suite-app.typedream.app
@@ -450,8 +445,8 @@
 0.0.0.0 jt-facebook.blogspot.com
 0.0.0.0 jwb-facebook.blogspot.com
 0.0.0.0 kauadosantos.github.io
+0.0.0.0 klassik-erh.de
 0.0.0.0 kraken-tor.co.com
-0.0.0.0 kucoin-pochta-steamcommunity.ph
 0.0.0.0 kucoin-referral-code-pt.vercel.app
 0.0.0.0 kucoin9.com
 0.0.0.0 kucoinlogenac.gitbook.io
@@ -487,8 +482,6 @@
 0.0.0.0 m365-microsoft.com
 0.0.0.0 m4ntapaset.ink
 0.0.0.0 mail-xfinitylogin.weebly.com
-0.0.0.0 mail.webmail.bankofamericana.ph
-0.0.0.0 mail.webmail.bankofamericasecured.ph
 0.0.0.0 marycar.com.br
 0.0.0.0 mauihost.qpon
 0.0.0.0 mb-facebook.blogspot.com
@@ -520,6 +513,7 @@
 0.0.0.0 mi-santander.com
 0.0.0.0 microsoft-0r.github.io
 0.0.0.0 microsoft-alpha.vercel.app
+0.0.0.0 microsoft-online.gr
 0.0.0.0 microsoft-se.us
 0.0.0.0 microsoft-sharepoint.fr
 0.0.0.0 microsoft-ssl.com
@@ -538,8 +532,6 @@
 0.0.0.0 more-ledgerlive-en.typedream.app
 0.0.0.0 movistar-recaudo-epayc.com
 0.0.0.0 munimventures.com
-0.0.0.0 mx.webmail.bankofamericana.ph
-0.0.0.0 mx.webmail.bankofamericasecured.ph
 0.0.0.0 my-facebook-blog.blogspot.com
 0.0.0.0 mytemp.website
 0.0.0.0 nbpublic.com
@@ -578,7 +570,6 @@
 0.0.0.0 orbit-whatsapp.com
 0.0.0.0 ossama-instagram.vercel.app
 0.0.0.0 outlook-office365.com
-0.0.0.0 outlook.pop.bankofamericasecured.ph
 0.0.0.0 outlookindia.com
 0.0.0.0 outlookmail.social
 0.0.0.0 page-instagram.vercel.app
@@ -636,8 +627,7 @@
 0.0.0.0 sign-in-to-xfinity-87653.weebly.com
 0.0.0.0 sign-in-to-xfinity-updatee.weebly.com
 0.0.0.0 sk-facebook.blogspot.com
-0.0.0.0 smtp.autoconfig.bankofamericasecured.ph
-0.0.0.0 smtp.pop.bankofamericasecured.ph
+0.0.0.0 source.zoom.us.tedx.dpdns.org
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotify-payment.click
 0.0.0.0 spotify-plus.com
@@ -666,8 +656,6 @@
 0.0.0.0 todo--facebook.blogspot.com
 0.0.0.0 tottattoo.com
 0.0.0.0 trackingnumbers.org
-0.0.0.0 trezoio-aa-app.gitbook.io
-0.0.0.0 trezoorr--thego.gitbook.io
 0.0.0.0 trezor-login-us-auth-start.typedream.app
 0.0.0.0 trezorguide.vercel.app
 0.0.0.0 trezoriostart-web.square.site
