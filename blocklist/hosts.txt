@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 754
-# Updated: 2026-09-26T16:24:29Z
+# Entries: 757
+# Updated: 2026-09-26T21:11:17Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -26,6 +26,7 @@
 0.0.0.0 amazon-opfq.vercel.app
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 annulation-amazon.com
+0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-exodusweb.pages.dev
@@ -41,6 +42,7 @@
 0.0.0.0 avaturefed.net
 0.0.0.0 axm-amazon.com
 0.0.0.0 bankofamerica-uscom.vercel.app
+0.0.0.0 bankofamericacanadastore.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
@@ -455,6 +457,7 @@
 0.0.0.0 kucoinloginaa.gitbook.io
 0.0.0.0 kucoinloign.gitbook.io
 0.0.0.0 lateinos.com.br
+0.0.0.0 launchsuite-trezorsuite.com
 0.0.0.0 ledger-live-application.com
 0.0.0.0 ledger-live-download-sso-conect.typedream.app
 0.0.0.0 ledger-live-login-web.square.site

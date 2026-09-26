@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 754
-# Updated: 2026-09-26T16:24:28Z
+# Entries: 757
+# Updated: 2026-09-26T21:11:16Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -26,6 +26,7 @@ amazon-harshdeep.vercel.app
 amazon-opfq.vercel.app
 ani-facebook.blogspot.com
 annulation-amazon.com
+antimoney-laundering.org
 apk-google.cn
 app-binance.github.io
 app-exodusweb.pages.dev
@@ -41,6 +42,7 @@ authorised-support.com
 avaturefed.net
 axm-amazon.com
 bankofamerica-uscom.vercel.app
+bankofamericacanadastore.ph
 bankofamericamailcompte.blogspot.com
 barcelona-facebook.blogspot.com
 barclays-bank.vercel.app
@@ -455,6 +457,7 @@ kucoinlogenac.gitbook.io
 kucoinloginaa.gitbook.io
 kucoinloign.gitbook.io
 lateinos.com.br
+launchsuite-trezorsuite.com
 ledger-live-application.com
 ledger-live-download-sso-conect.typedream.app
 ledger-live-login-web.square.site

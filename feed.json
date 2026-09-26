@@ -1,5 +1,193 @@
 [
   {
+    "url": "https://facebookqq.vip",
+    "domain": "facebookqq.vip",
+    "company": "facebook",
+    "date": "2026-09-26T18:53:40.736547+00:00",
+    "first_seen": "2026-09-14T13:13:13.336147+00:00",
+    "uuid": "64383138-f4b6-41b3-be24-d212e5c127fd",
+    "ip": "104.21.71.126",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "Let's Encrypt",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": true,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "urlscan_score",
+        "label": "urlscan.io",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "brand_in_screenshot_text",
+        "label": "Brand in screenshot",
+        "points": 4.1
+      }
+    ],
+    "score": 38,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://73a2370016b7.www.ijpress.account-paypal.antimoney-laundering.org",
+    "domain": "73a2370016b7.www.ijpress.account-paypal.antimoney-laundering.org",
+    "company": "paypal",
+    "date": "2026-09-26T17:25:53.037361+00:00",
+    "first_seen": "2026-09-26T17:25:53.037361+00:00",
+    "uuid": "e0f9d06a-48a0-440b-9f05-e4f3ccdba7d0",
+    "ip": "208.91.197.27",
+    "country": "United States",
+    "asn": "40034",
+    "org": "Confluence Networks Inc",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      },
+      {
+        "signal": "hsts_missing",
+        "label": "No HSTS header",
+        "points": 1.1
+      }
+    ],
+    "score": 21,
+    "verdict": "low"
+  },
+  {
+    "url": "https://outlook.webmail.bankofamericacanadastore.ph",
+    "domain": "outlook.webmail.bankofamericacanadastore.ph",
+    "company": "bankofamerica",
+    "date": "2026-09-26T17:25:47.708256+00:00",
+    "first_seen": "2026-09-26T17:25:47.708256+00:00",
+    "uuid": "67d5498d-2875-4d6c-bf99-809c8b00dbf4",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 3.4
+      }
+    ],
+    "score": 27,
+    "verdict": "low"
+  },
+  {
+    "url": "https://launchsuite-trezorsuite.com",
+    "domain": "launchsuite-trezorsuite.com",
+    "company": "trezor",
+    "date": "2026-09-26T17:25:46.056483+00:00",
+    "first_seen": "2026-09-26T17:25:46.056483+00:00",
+    "uuid": "a5f96f84-57fd-475e-b5b6-60e9cfefc9d2",
+    "ip": "185.111.111.157",
+    "country": "Germany",
+    "asn": "212238",
+    "org": "Datacamp Limited",
+    "cert": "YE1",
+    "malicious_google": false,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "openphish_score",
+        "label": "OpenPhish",
+        "points": 3.0
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 22,
+    "verdict": "low"
+  },
+  {
     "url": "http://roblox.com.ml/users/244578528651/profile/",
     "domain": "roblox.com.ml",
     "company": "roblox",
@@ -29231,53 +29419,6 @@
       }
     ],
     "score": 32,
-    "verdict": "medium"
-  },
-  {
-    "url": "https://facebookqq.vip",
-    "domain": "facebookqq.vip",
-    "company": "facebook",
-    "date": "2026-09-26T15:30:04.737305+00:00",
-    "first_seen": "2026-09-14T13:13:13.336147+00:00",
-    "uuid": "64383138-f4b6-41b3-be24-d212e5c127fd",
-    "ip": "104.21.71.126",
-    "country": "United States",
-    "asn": "13335",
-    "org": "Cloudflare, Inc.",
-    "cert": "Let's Encrypt",
-    "malicious_google": false,
-    "malicious_openphish": false,
-    "malicious_phishtank": false,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": true,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "urlscan_score",
-        "label": "urlscan.io",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_screenshot_text",
-        "label": "Brand in screenshot",
-        "points": 4.1
-      }
-    ],
-    "score": 38,
     "verdict": "medium"
   },
   {
