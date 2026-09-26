@@ -1,0 +1,53 @@
+{
+ "date": "2026-09-26",
+ "updated": "2026-09-26T04:59:07Z",
+ "source": "https://phishunt.io/feed.txt",
+ "license": "CC0-1.0",
+ "counts": {
+  "added": 28,
+  "removed": 11
+ },
+ "added": [
+  "https://autoconfig.pop.bankofamericana.ph",
+  "https://autoconfig.smtp.bankofamericana.ph",
+  "https://autodiscover.autoconfig.bankofamericana.ph",
+  "https://autodiscover.autoconfig.bankofamericasecured.ph",
+  "https://autodiscover.autoconfig.debt-bankofamerica.ph",
+  "https://autodiscover.webmail.bankofamericana.ph",
+  "https://icloudweb-ext860.click",
+  "https://launchsuite-trezorsuite.com/readblog",
+  "https://mail.autoconfig.bankofamerica-unauthorized.ph",
+  "https://mail.autoconfig.debt-bankofamerica.ph",
+  "https://mail.webmail.bankofamericana.ph",
+  "https://mail.webmail.bankofamericasecured.ph",
+  "https://mx.autoconfig.bankofamerica-unauthorized.ph",
+  "https://mx.outlook.bankofamericacanadastore.ph",
+  "https://mx.webmail.bankofamericana.ph",
+  "https://mx.webmail.bankofamericasecured.ph",
+  "https://outlook.autoconfig.debt-bankofamerica.ph",
+  "https://outlook.pop.bankofamericasecured.ph",
+  "https://pop.autoconfig.bankofamerica-unauthorized.ph",
+  "https://privacy-trezor.io",
+  "https://roblox.com.do/users/117249015220/profile",
+  "https://roblox.com.ml/users/143457657575/profile",
+  "https://smtp.autoconfig.bankofamerica-unauthorized.ph",
+  "https://smtp.autoconfig.bankofamericasecured.ph",
+  "https://smtp.outlook.bankofamericacanadastore.ph",
+  "https://smtp.pop.bankofamericasecured.ph",
+  "https://vr.znbbmwq.com/inv/Adobe_Installer.html",
+  "https://webmail.autoconfig.debt-bankofamerica.ph"
+ ],
+ "removed": [
+  "https://allegrolokalnie.pl-oferta58296379.shop",
+  "https://cs46-ia2.paypal-update.antimoney-laundering.org",
+  "https://dpdi58.top",
+  "https://ebay-dru.org",
+  "https://netflix-games.click",
+  "https://paypal-secure.vercel.app",
+  "https://reentrega-seur-envio.cloudaccess.host/seur2/msg.php",
+  "https://roblox.com.ml/users/141436606610/profile",
+  "https://trezrr-sfe-looggin.godaddysites.com",
+  "https://troubleshoots-google.com",
+  "https://www2-facebook.com"
+ ]
+}

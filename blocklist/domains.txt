@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 747
-# Updated: 2026-09-25T21:35:46Z
+# Entries: 757
+# Updated: 2026-09-26T04:59:06Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -24,7 +24,6 @@ amazon-harshdeep.vercel.app
 amazon-opfq.vercel.app
 ani-facebook.blogspot.com
 annulation-amazon.com
-antimoney-laundering.org
 apk-google.cn
 app-binance.github.io
 app-exodusweb.pages.dev
@@ -36,10 +35,17 @@ assign-icloud.com
 asso-entrautres.fr
 auth.properties
 authorised-support.com
+autoconfig.pop.bankofamericana.ph
+autoconfig.smtp.bankofamericana.ph
+autodiscover.autoconfig.bankofamericana.ph
+autodiscover.autoconfig.bankofamericasecured.ph
+autodiscover.webmail.bankofamericana.ph
 avaturefed.net
 axm-amazon.com
 bankofamerica-ec.com
+bankofamerica-unauthorized.ph
 bankofamerica-uscom.vercel.app
+bankofamericacanadastore.ph
 bankofamericamailcompte.blogspot.com
 barcelona-facebook.blogspot.com
 barclays-bank.vercel.app
@@ -109,6 +115,7 @@ correosscri.cc
 ct.ws
 cz-facebook.blogspot.com
 daservglobal.com
+debt-bankofamerica.ph
 deluxxe.com.br
 desktop-ledgrecdn.wixstudio.com
 dhl-express-dev.firebaseapp.com
@@ -124,7 +131,6 @@ dpd-ie.cloud
 dpd-ie.vip
 dpd-ie.xin
 dpdi.xyz
-dpdi58.top
 dpdn62.click
 dpdr.live
 dpdr95.top
@@ -132,7 +138,6 @@ dropbox-online.at
 dropbox-online.net
 dropboxbiz.com
 ebay-c.com
-ebay-dru.org
 ebay-phone-number.blogspot.com
 ebay-seller-center-managedpayments.vercel.app
 ebaymclaren-austin.eventshouse.app
@@ -364,6 +369,7 @@ iberdrolatrade.com
 icloud-asisten-official.com
 icloudgps-ios.com
 icloudnotify.help
+icloudweb-ext860.click
 ideeo.mx
 ifotografix.co.uk
 info-facebook.blogspot.com
@@ -452,6 +458,7 @@ kucoinlogenac.gitbook.io
 kucoinloginaa.gitbook.io
 kucoinloign.gitbook.io
 lateinos.com.br
+launchsuite-trezorsuite.com
 ledger-live-application.com
 ledger-live-download-sso-conect.typedream.app
 ledger-live-login-web.square.site
@@ -480,6 +487,8 @@ ly-facebook.blogspot.com
 m365-microsoft.com
 m4ntapaset.ink
 mail-xfinitylogin.weebly.com
+mail.webmail.bankofamericana.ph
+mail.webmail.bankofamericasecured.ph
 marycar.com.br
 mauihost.qpon
 mb-facebook.blogspot.com
@@ -529,11 +538,12 @@ mobile-google.cn
 more-ledgerlive-en.typedream.app
 movistar-recaudo-epayc.com
 munimventures.com
+mx.webmail.bankofamericana.ph
+mx.webmail.bankofamericasecured.ph
 my-facebook-blog.blogspot.com
 mytemp.website
 nbpublic.com
 neda-facebook.blogspot.com
-netflix-games.click
 netflix-homepage-pi.vercel.app
 netflix-lake.vercel.app
 netflix-login.blogspot.com
@@ -568,6 +578,7 @@ oraclecloud.com
 orbit-whatsapp.com
 ossama-instagram.vercel.app
 outlook-office365.com
+outlook.pop.bankofamericasecured.ph
 outlookindia.com
 outlookmail.social
 page-instagram.vercel.app
@@ -576,13 +587,12 @@ paykmc.com
 paypal-logiin.blogspot.com
 paypal-password.blogspot.com
 paypal-refund.com
-paypal-secure.vercel.app
 paypal-signin.blogspot.com
 paypalcorp.blogspot.com
 pe-facebook.blogspot.com
 pl-lokalna-ofeta95430458.sbs
-pl-oferta58296379.shop
 premio-instagram.com
+privacy-trezor.io
 profil-facebook-saya.blogspot.com
 ptai.in
 quantum-flares.com
@@ -592,7 +602,6 @@ reactivar-microsoft-live.iceiy.com
 rec-netflix.com
 receiptslinkedin.com
 recreate-instagrampage.vercel.app
-reentrega-seur-envio.cloudaccess.host
 register-facebook.blogspot.com
 rekemonedasi-facebook.org
 renfe-sncf.com
@@ -601,6 +610,7 @@ roblox-login.vercel.app
 roblox.com.bi
 roblox.com.bo
 roblox.com.bz
+roblox.com.do
 roblox.com.ee
 roblox.com.gr
 roblox.com.ml
@@ -626,6 +636,8 @@ sign-in-to-xfinity-090.weebly.com
 sign-in-to-xfinity-87653.weebly.com
 sign-in-to-xfinity-updatee.weebly.com
 sk-facebook.blogspot.com
+smtp.autoconfig.bankofamericasecured.ph
+smtp.pop.bankofamericasecured.ph
 spotify-client-beta.vercel.app
 spotify-payment.click
 spotify-plus.com
@@ -659,8 +671,6 @@ trezoorr--thego.gitbook.io
 trezor-login-us-auth-start.typedream.app
 trezorguide.vercel.app
 trezoriostart-web.square.site
-trezrr-sfe-looggin.godaddysites.com
-troubleshoots-google.com
 trust-wallet-bnb.vercel.app
 trust-wallet-contact.vercel.app
 trust-wallet-customer-support-number.github.io
@@ -711,7 +721,6 @@ www-app-google.com
 www-google.cn
 www-hk-google.com
 www-microsoft.com.cn
-www2-facebook.com
 wwww-linkedin.be
 x-comcast.weebly.com
 xfinity-mail-id.weebly.com
@@ -753,3 +762,4 @@ z-facebook.blogspot.com
 z-instagram.blogspot.com
 zeta-facebook.blogspot.com
 zkey0.com
+znbbmwq.com
