@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
 # Entries: 752
-# Updated: 2026-09-27T12:04:07Z
+# Updated: 2026-09-27T16:58:39Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -9,6 +9,9 @@
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 123012098543.lat
 0.0.0.0 12938120hhpo.lol
+0.0.0.0 12gg92701aaaa.cfd
+0.0.0.0 12gg92701bbbb.cfd
+0.0.0.0 12gg92701eeee.cfd
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 254615-coinbase.com
@@ -25,6 +28,7 @@
 0.0.0.0 alibaba666.app
 0.0.0.0 alibaba666.one
 0.0.0.0 alibaba66a.net
+0.0.0.0 amarulalodgewau.com
 0.0.0.0 amazon-harshdeep.vercel.app
 0.0.0.0 amazon-opfq.vercel.app
 0.0.0.0 ani-facebook.blogspot.com
@@ -337,7 +341,6 @@
 0.0.0.0 google77bd.com
 0.0.0.0 google88.bet
 0.0.0.0 googlebusiness.xyz
-0.0.0.0 googlee-bujangenamm.pages.dev
 0.0.0.0 googlee-playstors.vercel.app
 0.0.0.0 googleepkay.com
 0.0.0.0 googleepway.com
@@ -368,7 +371,6 @@
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 info-facebook.blogspot.com
-0.0.0.0 info-trezorsuite.com
 0.0.0.0 ingdirect-accesoweb-login.com
 0.0.0.0 iniciamazon.com.br
 0.0.0.0 instagram-2-0-4p6f5s6nd-chibokaxavier.vercel.app
@@ -448,12 +450,10 @@
 0.0.0.0 klassik-erh.de
 0.0.0.0 kraken-tor.co.com
 0.0.0.0 kucoin-referral-code-pt.vercel.app
-0.0.0.0 kucoin9.com
 0.0.0.0 kucoinlogenac.gitbook.io
 0.0.0.0 kucoinloginaa.gitbook.io
 0.0.0.0 kucoinloign.gitbook.io
 0.0.0.0 lateinos.com.br
-0.0.0.0 launchsuite-trezorsuite.com
 0.0.0.0 ledger-live-application.com
 0.0.0.0 ledger-live-download-sso-conect.typedream.app
 0.0.0.0 ledger-live-login-web.square.site
@@ -582,6 +582,7 @@
 0.0.0.0 paypalcorp.blogspot.com
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 pl-lokalna-ofeta95430458.sbs
+0.0.0.0 platform-coinbase.framer.website
 0.0.0.0 premio-instagram.com
 0.0.0.0 privacy-trezor.io
 0.0.0.0 profil-facebook-saya.blogspot.com
@@ -598,7 +599,6 @@
 0.0.0.0 renfe-sncf.com
 0.0.0.0 rev.it
 0.0.0.0 roblox-login.vercel.app
-0.0.0.0 roblox.com.am
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bo

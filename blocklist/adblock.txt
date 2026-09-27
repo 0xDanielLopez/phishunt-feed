@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
 ! Entries: 752
-! Updated: 2026-09-27T12:04:08Z
+! Updated: 2026-09-27T16:58:40Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -9,6 +9,9 @@
 ||123-facebook.blogspot.com^
 ||123012098543.lat^
 ||12938120hhpo.lol^
+||12gg92701aaaa.cfd^
+||12gg92701bbbb.cfd^
+||12gg92701eeee.cfd^
 ||190842-coinbase.com^
 ||2017-facebook.blogspot.com^
 ||254615-coinbase.com^
@@ -25,6 +28,7 @@
 ||alibaba666.app^
 ||alibaba666.one^
 ||alibaba66a.net^
+||amarulalodgewau.com^
 ||amazon-harshdeep.vercel.app^
 ||amazon-opfq.vercel.app^
 ||ani-facebook.blogspot.com^
@@ -337,7 +341,6 @@
 ||google77bd.com^
 ||google88.bet^
 ||googlebusiness.xyz^
-||googlee-bujangenamm.pages.dev^
 ||googlee-playstors.vercel.app^
 ||googleepkay.com^
 ||googleepway.com^
@@ -368,7 +371,6 @@
 ||ideeo.mx^
 ||ifotografix.co.uk^
 ||info-facebook.blogspot.com^
-||info-trezorsuite.com^
 ||ingdirect-accesoweb-login.com^
 ||iniciamazon.com.br^
 ||instagram-2-0-4p6f5s6nd-chibokaxavier.vercel.app^
@@ -448,12 +450,10 @@
 ||klassik-erh.de^
 ||kraken-tor.co.com^
 ||kucoin-referral-code-pt.vercel.app^
-||kucoin9.com^
 ||kucoinlogenac.gitbook.io^
 ||kucoinloginaa.gitbook.io^
 ||kucoinloign.gitbook.io^
 ||lateinos.com.br^
-||launchsuite-trezorsuite.com^
 ||ledger-live-application.com^
 ||ledger-live-download-sso-conect.typedream.app^
 ||ledger-live-login-web.square.site^
@@ -582,6 +582,7 @@
 ||paypalcorp.blogspot.com^
 ||pe-facebook.blogspot.com^
 ||pl-lokalna-ofeta95430458.sbs^
+||platform-coinbase.framer.website^
 ||premio-instagram.com^
 ||privacy-trezor.io^
 ||profil-facebook-saya.blogspot.com^
@@ -598,7 +599,6 @@
 ||renfe-sncf.com^
 ||rev.it^
 ||roblox-login.vercel.app^
-||roblox.com.am^
 ||roblox.com.bi^
 ||roblox.com.bn^
 ||roblox.com.bo^
