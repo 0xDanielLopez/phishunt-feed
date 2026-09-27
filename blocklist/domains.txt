@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 752
-# Updated: 2026-09-27T16:58:38Z
+# Entries: 763
+# Updated: 2026-09-27T21:21:25Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -23,6 +23,8 @@ a2zapk.co
 a2zapk.dev
 account-instagram.vercel.app
 acltci.com
+adobe-eiowfgrjjmgjrenjgkrnek.pages.dev
+adobe-iuewufnejkjewnfjmekjfnkej.pages.dev
 alibaba188.org
 alibaba66.co
 alibaba666.app
@@ -31,8 +33,10 @@ alibaba66a.net
 amarulalodgewau.com
 amazon-harshdeep.vercel.app
 amazon-opfq.vercel.app
+ampun-google-cl7.pages.dev
 ani-facebook.blogspot.com
 annulation-amazon.com
+antimoney-laundering.org
 apk-google.cn
 app-binance.github.io
 app-exodusweb.pages.dev
@@ -55,6 +59,7 @@ barcelona-facebook.blogspot.com
 barclays-bank.vercel.app
 bbva-hiring-paperless.appspot.com
 bbvalues.uk
+be-spotify.com
 berbagi-facebook.blogspot.com
 bet-facebook.blogspot.com
 binance-blog.vercel.app
@@ -94,6 +99,8 @@ citrix-sharing.com
 click-facebook.blogspot.com
 cn-feed-whatsapp.com.cn
 cn-gui-whatsapp.com.cn
+coinbase-desktopapp.live
+coinbase-event-2x.com
 coinbase-event.vercel.app
 coinbase.com.lc
 coinbaseinvestors.ai
@@ -322,6 +329,7 @@ facebookwebsite9.blogspot.com
 facebookzaman.blogspot.com
 fedex-olive.vercel.app
 fedexbeta.com
+fedexwp.com
 file-whatsappn.hl.cn
 fitfur.qpon
 forsakens-crew-teman-facebook.blogspot.com
@@ -355,6 +363,7 @@ googleuserlogin.cam
 hashnode.dev
 help-instagram.blogspot.com
 hofmemorabilia.ebaymclaren-austin.eventshouse.app
+holdings-coinbase.com
 home-facebook.blogspot.com
 home-ledgrreliveapp.typedream.app
 hot-binance.com.cn
@@ -455,6 +464,7 @@ kucoinloginaa.gitbook.io
 kucoinloign.gitbook.io
 lateinos.com.br
 ledger-live-application.com
+ledger-live-dessktop.pages.dev
 ledger-live-download-sso-conect.typedream.app
 ledger-live-login-web.square.site
 ledger-live-wallet-start-conect-us-en.typedream.app
@@ -632,6 +642,7 @@ sign-in-to-xfinity-87653.weebly.com
 sign-in-to-xfinity-updatee.weebly.com
 sk-facebook.blogspot.com
 source.zoom.us.tedx.dpdns.org
+spotify-8h8.pages.dev
 spotify-client-beta.vercel.app
 spotify-payment.click
 spotify-plus.com

@@ -1,10 +1,10 @@
 {
  "date": "2026-09-27",
- "updated": "2026-09-27T16:58:40Z",
+ "updated": "2026-09-27T21:21:26Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 21,
+  "added": 32,
   "removed": 22
  },
  "added": [
@@ -13,6 +13,9 @@
   "http://allegrolokalnie.oferta03948374.cfd",
   "http://allegrolokalnie.oferta847489347.cfd",
   "http://bankofamerica.xin",
+  "https://73a2370016b7.send.paypal-login.antimoney-laundering.org",
+  "https://adobe-eiowfgrjjmgjrenjgkrnek.pages.dev",
+  "https://adobe-iuewufnejkjewnfjmekjfnkej.pages.dev",
   "https://alibaba666.one",
   "https://allegro-lokalnie.12gg92701aaaa.cfd",
   "https://allegro.12gg92701aaaa.cfd",
@@ -22,11 +25,19 @@
   "https://allegrolokalne.12gg92701eeee.cfd",
   "https://allegrolokalnie.12gg92701eeee.cfd",
   "https://amarulalodgewau.com/Wetransfer2/clients/",
+  "https://ampun-google-cl7.pages.dev",
+  "https://be-spotify.com",
+  "https://coinbase-desktopapp.live",
+  "https://coinbase-event-2x.com",
   "https://coinbaseprologinv.gitbook.io",
+  "https://fedexwp.com",
+  "https://holdings-coinbase.com",
+  "https://ledger-live-dessktop.pages.dev",
   "https://outlook.autoconfig.bankofamerica-unauthorized.ph",
   "https://platform-coinbase.framer.website",
   "https://roblox.com.do/users/186279419962/profile",
   "https://roblox.com.ml/users/482714231118/profile",
+  "https://spotify-8h8.pages.dev",
   "https://totaltinting.com.au",
   "https://trezoorr--thego.gitbook.io/us"
  ],

@@ -1,5 +1,470 @@
 [
   {
+    "url": "https://ampun-google-cl7.pages.dev",
+    "domain": "ampun-google-cl7.pages.dev",
+    "company": "google",
+    "date": "2026-09-27T19:53:48.111468+00:00",
+    "first_seen": "2026-09-27T19:22:26.183584+00:00",
+    "uuid": "1d29ed0e-334a-4e5a-aac0-03d597a4ccff",
+    "ip": "188.114.97.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "Google Trust Services",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": true,
+    "top_signals": [],
+    "score": 0,
+    "verdict": "noise"
+  },
+  {
+    "url": "https://ledger-live-dessktop.pages.dev",
+    "domain": "ledger-live-dessktop.pages.dev",
+    "company": "ledger",
+    "date": "2026-09-27T19:11:41.991280+00:00",
+    "first_seen": "2026-09-27T19:11:41.991280+00:00",
+    "uuid": "81c5597b-ddbb-42c7-9bcc-268fa7442eb7",
+    "ip": "188.114.96.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "Google Trust Services",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": true,
+    "top_signals": [],
+    "score": 0,
+    "verdict": "noise"
+  },
+  {
+    "url": "https://73a2370016b7.send.paypal-login.antimoney-laundering.org",
+    "domain": "73a2370016b7.send.paypal-login.antimoney-laundering.org",
+    "company": "paypal",
+    "date": "2026-09-27T17:26:34.850122+00:00",
+    "first_seen": "2026-09-27T17:26:34.850122+00:00",
+    "uuid": "241d3520-f3ee-4bba-ae44-2fa95c51305c",
+    "ip": "208.91.197.27",
+    "country": "United States",
+    "asn": "40034",
+    "org": "Confluence Networks Inc",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      },
+      {
+        "signal": "hsts_missing",
+        "label": "No HSTS header",
+        "points": 1.1
+      }
+    ],
+    "score": 21,
+    "verdict": "low"
+  },
+  {
+    "url": "https://spotify-8h8.pages.dev",
+    "domain": "spotify-8h8.pages.dev",
+    "company": "spotify",
+    "date": "2026-09-27T17:26:29.470556+00:00",
+    "first_seen": "2026-09-27T17:26:29.470556+00:00",
+    "uuid": "c79b40dd-d19e-45cf-bace-d062398561e1",
+    "ip": "172.66.44.71",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      }
+    ],
+    "score": 32,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://holdings-coinbase.com",
+    "domain": "holdings-coinbase.com",
+    "company": "coinbase",
+    "date": "2026-09-27T17:26:28.938882+00:00",
+    "first_seen": "2026-09-27T17:26:28.938882+00:00",
+    "uuid": "dc42b131-9bd6-40c9-810f-f2f2ecdff51b",
+    "ip": "104.21.73.14",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "YE2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 1.8
+      }
+    ],
+    "score": 28,
+    "verdict": "low"
+  },
+  {
+    "url": "https://fedexwp.com",
+    "domain": "fedexwp.com",
+    "company": "fedex",
+    "date": "2026-09-27T17:26:27.783284+00:00",
+    "first_seen": "2026-09-27T17:26:27.783284+00:00",
+    "uuid": "fbdfbb62-f5ea-4d04-978f-5acff4c66ddd",
+    "ip": "154.23.175.6",
+    "country": "United States",
+    "asn": "8796",
+    "org": "FASTNET DATA INC",
+    "cert": "YE2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "levenshtein_brand",
+        "label": "Brand typo",
+        "points": 1.9
+      }
+    ],
+    "score": 25,
+    "verdict": "low"
+  },
+  {
+    "url": "https://coinbase-event-2x.com",
+    "domain": "coinbase-event-2x.com",
+    "company": "coinbase",
+    "date": "2026-09-27T17:26:26.910109+00:00",
+    "first_seen": "2026-09-27T17:26:26.910109+00:00",
+    "uuid": "4798869b-1050-491b-aebd-dbb5c4248db5",
+    "ip": "37.221.66.206",
+    "country": "Moldova",
+    "asn": "48753",
+    "org": "AVA HOST SRL",
+    "cert": "YR2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      }
+    ],
+    "score": 27,
+    "verdict": "low"
+  },
+  {
+    "url": "https://coinbase-desktopapp.live",
+    "domain": "coinbase-desktopapp.live",
+    "company": "coinbase",
+    "date": "2026-09-27T17:26:25.991053+00:00",
+    "first_seen": "2026-09-27T17:26:25.991053+00:00",
+    "uuid": "0999b1d7-606f-4872-b495-5c8691d12442",
+    "ip": "216.198.79.1",
+    "country": "United States",
+    "asn": "16509",
+    "org": "Amazon.com, Inc.",
+    "cert": "YR1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      }
+    ],
+    "score": 37,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://be-spotify.com",
+    "domain": "be-spotify.com",
+    "company": "spotify",
+    "date": "2026-09-27T17:26:25.179966+00:00",
+    "first_seen": "2026-09-27T17:26:25.179966+00:00",
+    "uuid": "01499f16-213a-42bf-8a69-32aba8178db5",
+    "ip": "198.54.132.28",
+    "country": "Canada",
+    "asn": "11878",
+    "org": "tzulo, inc.",
+    "cert": "YR2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 1.7
+      }
+    ],
+    "score": 28,
+    "verdict": "low"
+  },
+  {
+    "url": "https://adobe-eiowfgrjjmgjrenjgkrnek.pages.dev",
+    "domain": "adobe-eiowfgrjjmgjrenjgkrnek.pages.dev",
+    "company": "adobe",
+    "date": "2026-09-27T17:26:23.229743+00:00",
+    "first_seen": "2026-09-27T17:26:23.229743+00:00",
+    "uuid": "51eacda6-42de-4505-b3d0-f8c5971b6f5e",
+    "ip": "188.114.96.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 29,
+    "verdict": "low"
+  },
+  {
+    "url": "https://adobe-iuewufnejkjewnfjmekjfnkej.pages.dev",
+    "domain": "adobe-iuewufnejkjewnfjmekjfnkej.pages.dev",
+    "company": "adobe",
+    "date": "2026-09-27T17:26:22.664600+00:00",
+    "first_seen": "2026-09-27T17:26:22.664600+00:00",
+    "uuid": "f2301bc6-facf-41d3-86ab-f7772c0f34c2",
+    "ip": "172.66.47.149",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 25,
+    "verdict": "low"
+  },
+  {
     "url": "https://roblox.com.do/users/186279419962/profile",
     "domain": "roblox.com.do",
     "company": "roblox",
