@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 757
-# Updated: 2026-09-26T21:11:16Z
+# Entries: 752
+# Updated: 2026-09-27T05:19:36Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -26,7 +26,6 @@ amazon-harshdeep.vercel.app
 amazon-opfq.vercel.app
 ani-facebook.blogspot.com
 annulation-amazon.com
-antimoney-laundering.org
 apk-google.cn
 app-binance.github.io
 app-exodusweb.pages.dev
@@ -41,7 +40,9 @@ auth.properties
 authorised-support.com
 avaturefed.net
 axm-amazon.com
+bankofamerica-unauthorized.ph
 bankofamerica-uscom.vercel.app
+bankofamerica.xin
 bankofamericacanadastore.ph
 bankofamericamailcompte.blogspot.com
 barcelona-facebook.blogspot.com
@@ -89,8 +90,8 @@ cn-feed-whatsapp.com.cn
 cn-gui-whatsapp.com.cn
 coinbase-event.vercel.app
 coinbase.com.lc
-coinbasebackoffice.exchange
 coinbaseinvestors.ai
+coinbaseprologinv.gitbook.io
 coinbaseverify.vercel.app
 collectableswall.ebaymclaren-austin.eventshouse.app
 com.tg
@@ -125,11 +126,6 @@ docs-trezor-app.pages.dev
 docusign-server.github.io
 docusignfile-review-security-page--newstoolin.replit.app
 dothome.co.kr
-dpd-ie-edit.com
-dpd-ie-edit.vip
-dpd-ie.cloud
-dpd-ie.vip
-dpd-ie.xin
 dpdi.xyz
 dpdn62.click
 dpdr.live
@@ -321,7 +317,6 @@ facebookwebsite9.blogspot.com
 facebookzaman.blogspot.com
 fedex-olive.vercel.app
 fedexbeta.com
-feq-trezor-suite-app.typedream.app
 file-whatsappn.hl.cn
 fitfur.qpon
 forsakens-crew-teman-facebook.blogspot.com
@@ -352,7 +347,6 @@ googleplaydown.com
 googlepllry.com
 googleplrzy.com
 googleuserlogin.cam
-hantech.so
 hashnode.dev
 help-instagram.blogspot.com
 hofmemorabilia.ebaymclaren-austin.eventshouse.app
@@ -446,6 +440,7 @@ itauu.vercel.app
 jayaram0550.github.io
 jj-facebook.blogspot.com
 jo-facebook.blogspot.com
+jrhwks.ph
 jt-facebook.blogspot.com
 jwb-facebook.blogspot.com
 kauadosantos.github.io
@@ -540,7 +535,6 @@ my-facebook-blog.blogspot.com
 mytemp.website
 nbpublic.com
 neda-facebook.blogspot.com
-neocities.org
 netflix-71f05.firebaseapp.com
 netflix-homepage-pi.vercel.app
 netflix-lake.vercel.app
@@ -555,7 +549,6 @@ netflixbymanoj.vercel.app
 netflixfeitoaqui.com.br
 netflixinfos.com
 netflixquebec.blogspot.com
-netflixtunisie.com.tn
 netflixvoid.org
 netflixy-bixy.vercel.app
 network-facebook.blogspot.com
@@ -563,6 +556,7 @@ news-revolut.com
 nl-spotify.com
 noreply-icloud.app
 nw-facebook.blogspot.com
+oferta847489347.cfd
 office365licensingsupport.com
 oneworldnetwork.com
 online-facebook-privacy.blogspot.com
@@ -583,10 +577,11 @@ patelrudra.in
 paykmc.com
 paypal-logiin.blogspot.com
 paypal-password.blogspot.com
-paypal-refund.com
 paypal-signin.blogspot.com
 paypalcorp.blogspot.com
 pe-facebook.blogspot.com
+pl-0620556.icu
+pl-847pav5.sbs
 pl-lokalna-ofeta95430458.sbs
 premio-instagram.com
 privacy-trezor.io
@@ -595,7 +590,6 @@ ptai.in
 quantum-flares.com
 r-facebook.blogspot.com
 rama-facebook.blogspot.com
-ranmeng.org
 reactivar-microsoft-live.iceiy.com
 rec-netflix.com
 receiptslinkedin.com
@@ -605,6 +599,7 @@ rekemonedasi-facebook.org
 renfe-sncf.com
 rev.it
 roblox-login.vercel.app
+roblox.com.am
 roblox.com.bi
 roblox.com.bn
 roblox.com.bo
@@ -667,6 +662,7 @@ thomas-coinbase.com
 todo--facebook.blogspot.com
 tottattoo.com
 trackingnumbers.org
+trezoorr--thego.gitbook.io
 trezor-login-us-auth-start.typedream.app
 trezorguide.vercel.app
 trezoriostart-web.square.site
@@ -707,7 +703,6 @@ whatsapp-dp-images.in
 whatsapp-fast.vercel.app
 whatsapp-iamsuyash.vercel.app
 whatsapp-indonesia877.blogspot.com
-whatsapp-report.com
 whatsapp-verify.blogspot.com
 whatsapp7g.blogspot.com
 whatsappapk.org
