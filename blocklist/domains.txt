@@ -1,12 +1,14 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
 # Entries: 752
-# Updated: 2026-09-27T05:19:36Z
+# Updated: 2026-09-27T12:04:07Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
 123-facebook.blogspot.com
+123012098543.lat
+12938120hhpo.lol
 190842-coinbase.com
 2017-facebook.blogspot.com
 254615-coinbase.com
@@ -21,6 +23,7 @@ acltci.com
 alibaba188.org
 alibaba66.co
 alibaba666.app
+alibaba666.one
 alibaba66a.net
 amazon-harshdeep.vercel.app
 amazon-opfq.vercel.app
@@ -43,7 +46,6 @@ axm-amazon.com
 bankofamerica-unauthorized.ph
 bankofamerica-uscom.vercel.app
 bankofamerica.xin
-bankofamericacanadastore.ph
 bankofamericamailcompte.blogspot.com
 barcelona-facebook.blogspot.com
 barclays-bank.vercel.app
@@ -129,7 +131,6 @@ dothome.co.kr
 dpdi.xyz
 dpdn62.click
 dpdr.live
-dpdr95.top
 dropbox-online.at
 dropbox-online.net
 dropboxbiz.com
@@ -336,6 +337,7 @@ google1308.com
 google77bd.com
 google88.bet
 googlebusiness.xyz
+googlee-bujangenamm.pages.dev
 googlee-playstors.vercel.app
 googleepkay.com
 googleepway.com
@@ -440,7 +442,6 @@ itauu.vercel.app
 jayaram0550.github.io
 jj-facebook.blogspot.com
 jo-facebook.blogspot.com
-jrhwks.ph
 jt-facebook.blogspot.com
 jwb-facebook.blogspot.com
 kauadosantos.github.io
@@ -496,7 +497,6 @@ metamask-dev-dashboard-feat-remove-prora-consensys-ddffed67.vercel.app
 metamask-launchpad.vercel.app
 metamask-login.vercel.app
 metamask-six.vercel.app
-metamask-us_a-loogiin.godaddysites.com
 metamask-wallet.vercel.app
 metamask-web.vercel.app
 metamask2-eight.vercel.app
@@ -556,6 +556,7 @@ news-revolut.com
 nl-spotify.com
 noreply-icloud.app
 nw-facebook.blogspot.com
+oferta03948374.cfd
 oferta847489347.cfd
 office365licensingsupport.com
 oneworldnetwork.com
@@ -580,8 +581,6 @@ paypal-password.blogspot.com
 paypal-signin.blogspot.com
 paypalcorp.blogspot.com
 pe-facebook.blogspot.com
-pl-0620556.icu
-pl-847pav5.sbs
 pl-lokalna-ofeta95430458.sbs
 premio-instagram.com
 privacy-trezor.io
@@ -660,6 +659,7 @@ theodore3.com
 therelayservice.com
 thomas-coinbase.com
 todo--facebook.blogspot.com
+totaltinting.com.au
 tottattoo.com
 trackingnumbers.org
 trezoorr--thego.gitbook.io
