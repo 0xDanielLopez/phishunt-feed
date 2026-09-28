@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 763
-# Updated: 2026-09-27T21:21:25Z
+# Entries: 753
+# Updated: 2026-09-28T05:25:12Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -9,9 +9,7 @@
 123-facebook.blogspot.com
 123012098543.lat
 12938120hhpo.lol
-12gg92701aaaa.cfd
-12gg92701bbbb.cfd
-12gg92701eeee.cfd
+12989oho859.buzz
 190842-coinbase.com
 2017-facebook.blogspot.com
 254615-coinbase.com
@@ -23,8 +21,6 @@ a2zapk.co
 a2zapk.dev
 account-instagram.vercel.app
 acltci.com
-adobe-eiowfgrjjmgjrenjgkrnek.pages.dev
-adobe-iuewufnejkjewnfjmekjfnkej.pages.dev
 alibaba188.org
 alibaba66.co
 alibaba666.app
@@ -33,7 +29,6 @@ alibaba66a.net
 amarulalodgewau.com
 amazon-harshdeep.vercel.app
 amazon-opfq.vercel.app
-ampun-google-cl7.pages.dev
 ani-facebook.blogspot.com
 annulation-amazon.com
 antimoney-laundering.org
@@ -51,7 +46,6 @@ auth.properties
 authorised-support.com
 avaturefed.net
 axm-amazon.com
-bankofamerica-unauthorized.ph
 bankofamerica-uscom.vercel.app
 bankofamerica.xin
 bankofamericamailcompte.blogspot.com
@@ -150,7 +144,6 @@ ebay-phone-number.blogspot.com
 ebay-seller-center-managedpayments.vercel.app
 ebaymclaren-austin.eventshouse.app
 ebaymevip.com
-eddiesresidence.co.tz
 edgeone.dev
 email-microsoft.com
 email-update-comcast.weebly.com
@@ -271,6 +264,7 @@ facebookbfacebook.blogspot.com
 facebookbigeronline.blogspot.com
 facebookcomfacebook.blogspot.com
 facebookconfirm.blogspot.com
+facebookctf.vercel.app
 facebookcustomer-service.com
 facebookcustomersupportnumber25.blogspot.com
 facebookdatingonfacebook.blogspot.com
@@ -384,7 +378,6 @@ ingdirect-accesoweb-login.com
 iniciamazon.com.br
 instagram-2-0-4p6f5s6nd-chibokaxavier.vercel.app
 instagram-2-blond.vercel.app
-instagram-analytics.blogspot.com
 instagram-baittouts-login.blogspot.com
 instagram-cam.vercel.app
 instagram-change-password.blogspot.com
@@ -464,7 +457,6 @@ kucoinloginaa.gitbook.io
 kucoinloign.gitbook.io
 lateinos.com.br
 ledger-live-application.com
-ledger-live-dessktop.pages.dev
 ledger-live-download-sso-conect.typedream.app
 ledger-live-login-web.square.site
 ledger-live-wallet-start-conect-us-en.typedream.app
@@ -642,7 +634,6 @@ sign-in-to-xfinity-87653.weebly.com
 sign-in-to-xfinity-updatee.weebly.com
 sk-facebook.blogspot.com
 source.zoom.us.tedx.dpdns.org
-spotify-8h8.pages.dev
 spotify-client-beta.vercel.app
 spotify-payment.click
 spotify-plus.com
@@ -666,7 +657,6 @@ taslimaenterprise.com
 tb-facebook.blogspot.com
 temporary.site
 test-facebook.blogspot.com
-theodore3.com
 therelayservice.com
 thomas-coinbase.com
 todo--facebook.blogspot.com
@@ -678,6 +668,7 @@ trezor-login-us-auth-start.typedream.app
 trezorguide.vercel.app
 trezoriostart-web.square.site
 trezorrgoappup.gitbook.io
+trezrhiwanlt.gitbook.io
 trust-wallet-bnb.vercel.app
 trust-wallet-contact.vercel.app
 trust-wallet-customer-support-number.github.io
@@ -688,7 +679,6 @@ trustwallet-secure-check.vercel.app
 trustwallet-tokentwtowner.vercel.app
 trustwalletcard.me
 trustwalletreport.vercel.app
-trustwalletsupport.dev
 twitterfav.com
 updata.net.cn
 usacrazyseller.com

@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 763
-# Updated: 2026-09-27T21:21:25Z
+# Entries: 753
+# Updated: 2026-09-28T05:25:13Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -9,9 +9,7 @@
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 123012098543.lat
 0.0.0.0 12938120hhpo.lol
-0.0.0.0 12gg92701aaaa.cfd
-0.0.0.0 12gg92701bbbb.cfd
-0.0.0.0 12gg92701eeee.cfd
+0.0.0.0 12989oho859.buzz
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 254615-coinbase.com
@@ -23,8 +21,6 @@
 0.0.0.0 a2zapk.dev
 0.0.0.0 account-instagram.vercel.app
 0.0.0.0 acltci.com
-0.0.0.0 adobe-eiowfgrjjmgjrenjgkrnek.pages.dev
-0.0.0.0 adobe-iuewufnejkjewnfjmekjfnkej.pages.dev
 0.0.0.0 alibaba188.org
 0.0.0.0 alibaba66.co
 0.0.0.0 alibaba666.app
@@ -33,7 +29,6 @@
 0.0.0.0 amarulalodgewau.com
 0.0.0.0 amazon-harshdeep.vercel.app
 0.0.0.0 amazon-opfq.vercel.app
-0.0.0.0 ampun-google-cl7.pages.dev
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 annulation-amazon.com
 0.0.0.0 antimoney-laundering.org
@@ -51,7 +46,6 @@
 0.0.0.0 authorised-support.com
 0.0.0.0 avaturefed.net
 0.0.0.0 axm-amazon.com
-0.0.0.0 bankofamerica-unauthorized.ph
 0.0.0.0 bankofamerica-uscom.vercel.app
 0.0.0.0 bankofamerica.xin
 0.0.0.0 bankofamericamailcompte.blogspot.com
@@ -150,7 +144,6 @@
 0.0.0.0 ebay-seller-center-managedpayments.vercel.app
 0.0.0.0 ebaymclaren-austin.eventshouse.app
 0.0.0.0 ebaymevip.com
-0.0.0.0 eddiesresidence.co.tz
 0.0.0.0 edgeone.dev
 0.0.0.0 email-microsoft.com
 0.0.0.0 email-update-comcast.weebly.com
@@ -271,6 +264,7 @@
 0.0.0.0 facebookbigeronline.blogspot.com
 0.0.0.0 facebookcomfacebook.blogspot.com
 0.0.0.0 facebookconfirm.blogspot.com
+0.0.0.0 facebookctf.vercel.app
 0.0.0.0 facebookcustomer-service.com
 0.0.0.0 facebookcustomersupportnumber25.blogspot.com
 0.0.0.0 facebookdatingonfacebook.blogspot.com
@@ -384,7 +378,6 @@
 0.0.0.0 iniciamazon.com.br
 0.0.0.0 instagram-2-0-4p6f5s6nd-chibokaxavier.vercel.app
 0.0.0.0 instagram-2-blond.vercel.app
-0.0.0.0 instagram-analytics.blogspot.com
 0.0.0.0 instagram-baittouts-login.blogspot.com
 0.0.0.0 instagram-cam.vercel.app
 0.0.0.0 instagram-change-password.blogspot.com
@@ -464,7 +457,6 @@
 0.0.0.0 kucoinloign.gitbook.io
 0.0.0.0 lateinos.com.br
 0.0.0.0 ledger-live-application.com
-0.0.0.0 ledger-live-dessktop.pages.dev
 0.0.0.0 ledger-live-download-sso-conect.typedream.app
 0.0.0.0 ledger-live-login-web.square.site
 0.0.0.0 ledger-live-wallet-start-conect-us-en.typedream.app
@@ -642,7 +634,6 @@
 0.0.0.0 sign-in-to-xfinity-updatee.weebly.com
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 source.zoom.us.tedx.dpdns.org
-0.0.0.0 spotify-8h8.pages.dev
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotify-payment.click
 0.0.0.0 spotify-plus.com
@@ -666,7 +657,6 @@
 0.0.0.0 tb-facebook.blogspot.com
 0.0.0.0 temporary.site
 0.0.0.0 test-facebook.blogspot.com
-0.0.0.0 theodore3.com
 0.0.0.0 therelayservice.com
 0.0.0.0 thomas-coinbase.com
 0.0.0.0 todo--facebook.blogspot.com
@@ -678,6 +668,7 @@
 0.0.0.0 trezorguide.vercel.app
 0.0.0.0 trezoriostart-web.square.site
 0.0.0.0 trezorrgoappup.gitbook.io
+0.0.0.0 trezrhiwanlt.gitbook.io
 0.0.0.0 trust-wallet-bnb.vercel.app
 0.0.0.0 trust-wallet-contact.vercel.app
 0.0.0.0 trust-wallet-customer-support-number.github.io
@@ -688,7 +679,6 @@
 0.0.0.0 trustwallet-tokentwtowner.vercel.app
 0.0.0.0 trustwalletcard.me
 0.0.0.0 trustwalletreport.vercel.app
-0.0.0.0 trustwalletsupport.dev
 0.0.0.0 twitterfav.com
 0.0.0.0 updata.net.cn
 0.0.0.0 usacrazyseller.com
