@@ -1,21 +1,19 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 753
-# Updated: 2026-09-28T05:25:13Z
+# Entries: 761
+# Updated: 2026-09-28T13:56:49Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
 0.0.0.0 123-facebook.blogspot.com
-0.0.0.0 123012098543.lat
-0.0.0.0 12938120hhpo.lol
-0.0.0.0 12989oho859.buzz
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 254615-coinbase.com
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
 0.0.0.0 2ccloud.com
+0.0.0.0 524675-coinbase.com
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
@@ -26,9 +24,9 @@
 0.0.0.0 alibaba666.app
 0.0.0.0 alibaba666.one
 0.0.0.0 alibaba66a.net
-0.0.0.0 amarulalodgewau.com
 0.0.0.0 amazon-harshdeep.vercel.app
 0.0.0.0 amazon-opfq.vercel.app
+0.0.0.0 ancoradourohotel.com.br
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 annulation-amazon.com
 0.0.0.0 antimoney-laundering.org
@@ -47,7 +45,6 @@
 0.0.0.0 avaturefed.net
 0.0.0.0 axm-amazon.com
 0.0.0.0 bankofamerica-uscom.vercel.app
-0.0.0.0 bankofamerica.xin
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
@@ -113,13 +110,13 @@
 0.0.0.0 comcastseettings.weebly.com
 0.0.0.0 comcastsurvey.weebly.com
 0.0.0.0 comcastwebmailuser.weebly.com
+0.0.0.0 comcastxfinlty.weebly.com
 0.0.0.0 contentstack.com
 0.0.0.0 correosccl.cc
 0.0.0.0 correoscri.cc
 0.0.0.0 correosiicr.cc
 0.0.0.0 correosscri.cc
 0.0.0.0 creyt.cl
-0.0.0.0 cross-bordere-commerce-ebay.top
 0.0.0.0 ct.ws
 0.0.0.0 cz-facebook.blogspot.com
 0.0.0.0 daservglobal.com
@@ -150,6 +147,7 @@
 0.0.0.0 ember-whatsapp.com
 0.0.0.0 emmanueldegreatltd.com
 0.0.0.0 en-ledgre.pages.dev
+0.0.0.0 encontre-localizat.info
 0.0.0.0 epsilons.co
 0.0.0.0 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
 0.0.0.0 eu-facebook.blogspot.com
@@ -354,6 +352,7 @@
 0.0.0.0 googlepllry.com
 0.0.0.0 googleplrzy.com
 0.0.0.0 googleuserlogin.cam
+0.0.0.0 googleworks55.pages.dev
 0.0.0.0 hashnode.dev
 0.0.0.0 help-instagram.blogspot.com
 0.0.0.0 hofmemorabilia.ebaymclaren-austin.eventshouse.app
@@ -392,6 +391,7 @@
 0.0.0.0 instagram-inky.vercel.app
 0.0.0.0 instagram-instagram.blogspot.com
 0.0.0.0 instagram-jennifer.blogspot.com
+0.0.0.0 instagram-lilac-two.vercel.app
 0.0.0.0 instagram-login-page-theta.vercel.app
 0.0.0.0 instagram-login-page-two.vercel.app
 0.0.0.0 instagram-login-support.vercel.app
@@ -456,6 +456,7 @@
 0.0.0.0 kucoinloginaa.gitbook.io
 0.0.0.0 kucoinloign.gitbook.io
 0.0.0.0 lateinos.com.br
+0.0.0.0 ld-cloud-lsupport.com
 0.0.0.0 ledger-live-application.com
 0.0.0.0 ledger-live-download-sso-conect.typedream.app
 0.0.0.0 ledger-live-login-web.square.site
@@ -558,7 +559,6 @@
 0.0.0.0 nl-spotify.com
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
-0.0.0.0 oferta03948374.cfd
 0.0.0.0 oferta847489347.cfd
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 oneworldnetwork.com
@@ -566,6 +566,7 @@
 0.0.0.0 oortstorages.com
 0.0.0.0 open-instagram.vercel.app
 0.0.0.0 openai-coin.com
+0.0.0.0 opensea-io55.onrender.com
 0.0.0.0 opensea-six.vercel.app
 0.0.0.0 openseaproks007.vercel.app
 0.0.0.0 openseavxr.vercel.app
@@ -633,6 +634,9 @@
 0.0.0.0 sign-in-to-xfinity-87653.weebly.com
 0.0.0.0 sign-in-to-xfinity-updatee.weebly.com
 0.0.0.0 sk-facebook.blogspot.com
+0.0.0.0 sopport-service.app
+0.0.0.0 sopportcloud.com
+0.0.0.0 sopports-en.com
 0.0.0.0 source.zoom.us.tedx.dpdns.org
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotify-payment.click
@@ -660,6 +664,7 @@
 0.0.0.0 therelayservice.com
 0.0.0.0 thomas-coinbase.com
 0.0.0.0 todo--facebook.blogspot.com
+0.0.0.0 tolong-aku-kasih-aku-beras-google.pages.dev
 0.0.0.0 totaltinting.com.au
 0.0.0.0 tottattoo.com
 0.0.0.0 trackingnumbers.org
@@ -749,9 +754,12 @@
 0.0.0.0 xfinitysupportnow.weebly.com
 0.0.0.0 xfinityteamslogin.weebly.com
 0.0.0.0 xfinityteamsservice.weebly.com
+0.0.0.0 xfinitytomy.weebly.com
 0.0.0.0 xfinityttt.weebly.com
 0.0.0.0 xfinityupdatesnow.weebly.com
 0.0.0.0 xfinityuserverification.weebly.com
+0.0.0.0 xfinityverification25.weebly.com
+0.0.0.0 xfinitywebmail25.weebly.com
 0.0.0.0 yonataxi.at
 0.0.0.0 yzz.me
 0.0.0.0 z-facebook.blogspot.com

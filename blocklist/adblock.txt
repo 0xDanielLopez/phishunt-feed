@@ -1,21 +1,19 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 753
-! Updated: 2026-09-28T05:25:14Z
+! Entries: 761
+! Updated: 2026-09-28T13:56:50Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
 ! Community-reported phishing domains. Use at your own risk.
 
 ||123-facebook.blogspot.com^
-||123012098543.lat^
-||12938120hhpo.lol^
-||12989oho859.buzz^
 ||190842-coinbase.com^
 ||2017-facebook.blogspot.com^
 ||254615-coinbase.com^
 ||283674-coinbase.com^
 ||286364-coinbase.com^
 ||2ccloud.com^
+||524675-coinbase.com^
 ||a1-kraken.com^
 ||a2zapk.co^
 ||a2zapk.dev^
@@ -26,9 +24,9 @@
 ||alibaba666.app^
 ||alibaba666.one^
 ||alibaba66a.net^
-||amarulalodgewau.com^
 ||amazon-harshdeep.vercel.app^
 ||amazon-opfq.vercel.app^
+||ancoradourohotel.com.br^
 ||ani-facebook.blogspot.com^
 ||annulation-amazon.com^
 ||antimoney-laundering.org^
@@ -47,7 +45,6 @@
 ||avaturefed.net^
 ||axm-amazon.com^
 ||bankofamerica-uscom.vercel.app^
-||bankofamerica.xin^
 ||bankofamericamailcompte.blogspot.com^
 ||barcelona-facebook.blogspot.com^
 ||barclays-bank.vercel.app^
@@ -113,13 +110,13 @@
 ||comcastseettings.weebly.com^
 ||comcastsurvey.weebly.com^
 ||comcastwebmailuser.weebly.com^
+||comcastxfinlty.weebly.com^
 ||contentstack.com^
 ||correosccl.cc^
 ||correoscri.cc^
 ||correosiicr.cc^
 ||correosscri.cc^
 ||creyt.cl^
-||cross-bordere-commerce-ebay.top^
 ||ct.ws^
 ||cz-facebook.blogspot.com^
 ||daservglobal.com^
@@ -150,6 +147,7 @@
 ||ember-whatsapp.com^
 ||emmanueldegreatltd.com^
 ||en-ledgre.pages.dev^
+||encontre-localizat.info^
 ||epsilons.co^
 ||erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org^
 ||eu-facebook.blogspot.com^
@@ -354,6 +352,7 @@
 ||googlepllry.com^
 ||googleplrzy.com^
 ||googleuserlogin.cam^
+||googleworks55.pages.dev^
 ||hashnode.dev^
 ||help-instagram.blogspot.com^
 ||hofmemorabilia.ebaymclaren-austin.eventshouse.app^
@@ -392,6 +391,7 @@
 ||instagram-inky.vercel.app^
 ||instagram-instagram.blogspot.com^
 ||instagram-jennifer.blogspot.com^
+||instagram-lilac-two.vercel.app^
 ||instagram-login-page-theta.vercel.app^
 ||instagram-login-page-two.vercel.app^
 ||instagram-login-support.vercel.app^
@@ -456,6 +456,7 @@
 ||kucoinloginaa.gitbook.io^
 ||kucoinloign.gitbook.io^
 ||lateinos.com.br^
+||ld-cloud-lsupport.com^
 ||ledger-live-application.com^
 ||ledger-live-download-sso-conect.typedream.app^
 ||ledger-live-login-web.square.site^
@@ -558,7 +559,6 @@
 ||nl-spotify.com^
 ||noreply-icloud.app^
 ||nw-facebook.blogspot.com^
-||oferta03948374.cfd^
 ||oferta847489347.cfd^
 ||office365licensingsupport.com^
 ||oneworldnetwork.com^
@@ -566,6 +566,7 @@
 ||oortstorages.com^
 ||open-instagram.vercel.app^
 ||openai-coin.com^
+||opensea-io55.onrender.com^
 ||opensea-six.vercel.app^
 ||openseaproks007.vercel.app^
 ||openseavxr.vercel.app^
@@ -633,6 +634,9 @@
 ||sign-in-to-xfinity-87653.weebly.com^
 ||sign-in-to-xfinity-updatee.weebly.com^
 ||sk-facebook.blogspot.com^
+||sopport-service.app^
+||sopportcloud.com^
+||sopports-en.com^
 ||source.zoom.us.tedx.dpdns.org^
 ||spotify-client-beta.vercel.app^
 ||spotify-payment.click^
@@ -660,6 +664,7 @@
 ||therelayservice.com^
 ||thomas-coinbase.com^
 ||todo--facebook.blogspot.com^
+||tolong-aku-kasih-aku-beras-google.pages.dev^
 ||totaltinting.com.au^
 ||tottattoo.com^
 ||trackingnumbers.org^
@@ -749,9 +754,12 @@
 ||xfinitysupportnow.weebly.com^
 ||xfinityteamslogin.weebly.com^
 ||xfinityteamsservice.weebly.com^
+||xfinitytomy.weebly.com^
 ||xfinityttt.weebly.com^
 ||xfinityupdatesnow.weebly.com^
 ||xfinityuserverification.weebly.com^
+||xfinityverification25.weebly.com^
+||xfinitywebmail25.weebly.com^
 ||yonataxi.at^
 ||yzz.me^
 ||z-facebook.blogspot.com^
