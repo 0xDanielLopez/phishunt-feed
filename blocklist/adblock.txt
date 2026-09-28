@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 761
-! Updated: 2026-09-28T13:56:50Z
+! Entries: 759
+! Updated: 2026-09-28T23:17:13Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -14,11 +14,16 @@
 ||286364-coinbase.com^
 ||2ccloud.com^
 ||524675-coinbase.com^
+||73a2370016b7.dfw1.account-paypal.antimoney-laundering.org^
+||73a2370016b7.members29.paypal-signin.antimoney-laundering.org^
+||73a2370016b7.scm.paypal-support.antimoney-laundering.org^
+||73a2370016b7.uvishnu.paypal-support.antimoney-laundering.org^
 ||a1-kraken.com^
 ||a2zapk.co^
 ||a2zapk.dev^
 ||account-instagram.vercel.app^
 ||acltci.com^
+||adobe-owieljglewjngjnewjknkwje.pages.dev^
 ||alibaba188.org^
 ||alibaba66.co^
 ||alibaba666.app^
@@ -29,7 +34,6 @@
 ||ancoradourohotel.com.br^
 ||ani-facebook.blogspot.com^
 ||annulation-amazon.com^
-||antimoney-laundering.org^
 ||apk-google.cn^
 ||app-binance.github.io^
 ||app-exodusweb.pages.dev^
@@ -44,7 +48,6 @@
 ||authorised-support.com^
 ||avaturefed.net^
 ||axm-amazon.com^
-||bankofamerica-uscom.vercel.app^
 ||bankofamericamailcompte.blogspot.com^
 ||barcelona-facebook.blogspot.com^
 ||barclays-bank.vercel.app^
@@ -323,7 +326,6 @@
 ||fedexbeta.com^
 ||fedexwp.com^
 ||file-whatsappn.hl.cn^
-||fitfur.qpon^
 ||forsakens-crew-teman-facebook.blogspot.com^
 ||foryour.review^
 ||free-facebook-page-likes.blogspot.com^
@@ -339,6 +341,7 @@
 ||google1302.com^
 ||google1308.com^
 ||google77bd.com^
+||google88.app^
 ||google88.bet^
 ||googlebusiness.xyz^
 ||googlee-playstors.vercel.app^
@@ -352,7 +355,6 @@
 ||googlepllry.com^
 ||googleplrzy.com^
 ||googleuserlogin.cam^
-||googleworks55.pages.dev^
 ||hashnode.dev^
 ||help-instagram.blogspot.com^
 ||hofmemorabilia.ebaymclaren-austin.eventshouse.app^
@@ -462,7 +464,6 @@
 ||ledger-live-login-web.square.site^
 ||ledger-live-wallet-start-conect-us-en.typedream.app^
 ||ledger-liveusa.zapier.app^
-||ledgerlive0.godaddysites.com^
 ||ledgerwalletrepair.com^
 ||ledgrelivapp--crome.typedream.app^
 ||leia-santander.vercel.app^
@@ -515,6 +516,7 @@
 ||mi-santander.com^
 ||microsoft-0r.github.io^
 ||microsoft-alpha.vercel.app^
+||microsoft-office365.site^
 ||microsoft-online.gr^
 ||microsoft-se.us^
 ||microsoft-sharepoint.fr^
@@ -559,14 +561,12 @@
 ||nl-spotify.com^
 ||noreply-icloud.app^
 ||nw-facebook.blogspot.com^
-||oferta847489347.cfd^
 ||office365licensingsupport.com^
 ||oneworldnetwork.com^
 ||online-facebook-privacy.blogspot.com^
 ||oortstorages.com^
 ||open-instagram.vercel.app^
 ||openai-coin.com^
-||opensea-io55.onrender.com^
 ||opensea-six.vercel.app^
 ||openseaproks007.vercel.app^
 ||openseavxr.vercel.app^
@@ -577,14 +577,13 @@
 ||outlookindia.com^
 ||outlookmail.social^
 ||page-instagram.vercel.app^
-||patelrudra.in^
 ||paykmc.com^
 ||paypal-logiin.blogspot.com^
 ||paypal-password.blogspot.com^
+||paypal-sicherheit.shop^
 ||paypal-signin.blogspot.com^
 ||paypalcorp.blogspot.com^
 ||pe-facebook.blogspot.com^
-||pl-lokalna-ofeta95430458.sbs^
 ||platform-coinbase.framer.website^
 ||premio-instagram.com^
 ||privacy-trezor.io^
@@ -610,7 +609,6 @@
 ||roblox.com.ee^
 ||roblox.com.gr^
 ||roblox.com.kz^
-||roblox.com.ml^
 ||roblox.com.mu^
 ||roblox.com.pt^
 ||rricrosoft-offices.org^
@@ -628,6 +626,7 @@
 ||secutury-facebook.blogspot.com^
 ||send-secure-trustwallet-usdt-bip20.vercel.app^
 ||services-facebook.blogspot.com^
+||seureonline.shop^
 ||sigma-whatsapp.com^
 ||sign-in-to-my-xfinity.square.site^
 ||sign-in-to-xfinity-090.weebly.com^
@@ -636,7 +635,6 @@
 ||sk-facebook.blogspot.com^
 ||sopport-service.app^
 ||sopportcloud.com^
-||sopports-en.com^
 ||source.zoom.us.tedx.dpdns.org^
 ||spotify-client-beta.vercel.app^
 ||spotify-payment.click^
@@ -664,7 +662,6 @@
 ||therelayservice.com^
 ||thomas-coinbase.com^
 ||todo--facebook.blogspot.com^
-||tolong-aku-kasih-aku-beras-google.pages.dev^
 ||totaltinting.com.au^
 ||tottattoo.com^
 ||trackingnumbers.org^
@@ -697,6 +694,7 @@
 ||vodafone-on-line.it^
 ||vodafoneelevation.de^
 ||vpn-update.org^
+||vpn12.accounts-paypal.antimoney-laundering.org^
 ||vpnuse.eu.org^
 ||vwwv-icloud.com^
 ||wave-whatsapp.com^

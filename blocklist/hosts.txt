@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 761
-# Updated: 2026-09-28T13:56:49Z
+# Entries: 759
+# Updated: 2026-09-28T23:17:12Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -14,11 +14,16 @@
 0.0.0.0 286364-coinbase.com
 0.0.0.0 2ccloud.com
 0.0.0.0 524675-coinbase.com
+0.0.0.0 73a2370016b7.dfw1.account-paypal.antimoney-laundering.org
+0.0.0.0 73a2370016b7.members29.paypal-signin.antimoney-laundering.org
+0.0.0.0 73a2370016b7.scm.paypal-support.antimoney-laundering.org
+0.0.0.0 73a2370016b7.uvishnu.paypal-support.antimoney-laundering.org
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
 0.0.0.0 account-instagram.vercel.app
 0.0.0.0 acltci.com
+0.0.0.0 adobe-owieljglewjngjnewjknkwje.pages.dev
 0.0.0.0 alibaba188.org
 0.0.0.0 alibaba66.co
 0.0.0.0 alibaba666.app
@@ -29,7 +34,6 @@
 0.0.0.0 ancoradourohotel.com.br
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 annulation-amazon.com
-0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-exodusweb.pages.dev
@@ -44,7 +48,6 @@
 0.0.0.0 authorised-support.com
 0.0.0.0 avaturefed.net
 0.0.0.0 axm-amazon.com
-0.0.0.0 bankofamerica-uscom.vercel.app
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
@@ -323,7 +326,6 @@
 0.0.0.0 fedexbeta.com
 0.0.0.0 fedexwp.com
 0.0.0.0 file-whatsappn.hl.cn
-0.0.0.0 fitfur.qpon
 0.0.0.0 forsakens-crew-teman-facebook.blogspot.com
 0.0.0.0 foryour.review
 0.0.0.0 free-facebook-page-likes.blogspot.com
@@ -339,6 +341,7 @@
 0.0.0.0 google1302.com
 0.0.0.0 google1308.com
 0.0.0.0 google77bd.com
+0.0.0.0 google88.app
 0.0.0.0 google88.bet
 0.0.0.0 googlebusiness.xyz
 0.0.0.0 googlee-playstors.vercel.app
@@ -352,7 +355,6 @@
 0.0.0.0 googlepllry.com
 0.0.0.0 googleplrzy.com
 0.0.0.0 googleuserlogin.cam
-0.0.0.0 googleworks55.pages.dev
 0.0.0.0 hashnode.dev
 0.0.0.0 help-instagram.blogspot.com
 0.0.0.0 hofmemorabilia.ebaymclaren-austin.eventshouse.app
@@ -462,7 +464,6 @@
 0.0.0.0 ledger-live-login-web.square.site
 0.0.0.0 ledger-live-wallet-start-conect-us-en.typedream.app
 0.0.0.0 ledger-liveusa.zapier.app
-0.0.0.0 ledgerlive0.godaddysites.com
 0.0.0.0 ledgerwalletrepair.com
 0.0.0.0 ledgrelivapp--crome.typedream.app
 0.0.0.0 leia-santander.vercel.app
@@ -515,6 +516,7 @@
 0.0.0.0 mi-santander.com
 0.0.0.0 microsoft-0r.github.io
 0.0.0.0 microsoft-alpha.vercel.app
+0.0.0.0 microsoft-office365.site
 0.0.0.0 microsoft-online.gr
 0.0.0.0 microsoft-se.us
 0.0.0.0 microsoft-sharepoint.fr
@@ -559,14 +561,12 @@
 0.0.0.0 nl-spotify.com
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
-0.0.0.0 oferta847489347.cfd
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 oneworldnetwork.com
 0.0.0.0 online-facebook-privacy.blogspot.com
 0.0.0.0 oortstorages.com
 0.0.0.0 open-instagram.vercel.app
 0.0.0.0 openai-coin.com
-0.0.0.0 opensea-io55.onrender.com
 0.0.0.0 opensea-six.vercel.app
 0.0.0.0 openseaproks007.vercel.app
 0.0.0.0 openseavxr.vercel.app
@@ -577,14 +577,13 @@
 0.0.0.0 outlookindia.com
 0.0.0.0 outlookmail.social
 0.0.0.0 page-instagram.vercel.app
-0.0.0.0 patelrudra.in
 0.0.0.0 paykmc.com
 0.0.0.0 paypal-logiin.blogspot.com
 0.0.0.0 paypal-password.blogspot.com
+0.0.0.0 paypal-sicherheit.shop
 0.0.0.0 paypal-signin.blogspot.com
 0.0.0.0 paypalcorp.blogspot.com
 0.0.0.0 pe-facebook.blogspot.com
-0.0.0.0 pl-lokalna-ofeta95430458.sbs
 0.0.0.0 platform-coinbase.framer.website
 0.0.0.0 premio-instagram.com
 0.0.0.0 privacy-trezor.io
@@ -610,7 +609,6 @@
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.kz
-0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 rricrosoft-offices.org
@@ -628,6 +626,7 @@
 0.0.0.0 secutury-facebook.blogspot.com
 0.0.0.0 send-secure-trustwallet-usdt-bip20.vercel.app
 0.0.0.0 services-facebook.blogspot.com
+0.0.0.0 seureonline.shop
 0.0.0.0 sigma-whatsapp.com
 0.0.0.0 sign-in-to-my-xfinity.square.site
 0.0.0.0 sign-in-to-xfinity-090.weebly.com
@@ -636,7 +635,6 @@
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 sopport-service.app
 0.0.0.0 sopportcloud.com
-0.0.0.0 sopports-en.com
 0.0.0.0 source.zoom.us.tedx.dpdns.org
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotify-payment.click
@@ -664,7 +662,6 @@
 0.0.0.0 therelayservice.com
 0.0.0.0 thomas-coinbase.com
 0.0.0.0 todo--facebook.blogspot.com
-0.0.0.0 tolong-aku-kasih-aku-beras-google.pages.dev
 0.0.0.0 totaltinting.com.au
 0.0.0.0 tottattoo.com
 0.0.0.0 trackingnumbers.org
@@ -697,6 +694,7 @@
 0.0.0.0 vodafone-on-line.it
 0.0.0.0 vodafoneelevation.de
 0.0.0.0 vpn-update.org
+0.0.0.0 vpn12.accounts-paypal.antimoney-laundering.org
 0.0.0.0 vpnuse.eu.org
 0.0.0.0 vwwv-icloud.com
 0.0.0.0 wave-whatsapp.com
