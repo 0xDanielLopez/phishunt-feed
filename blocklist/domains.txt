@@ -1,24 +1,20 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 762
-# Updated: 2026-09-29T12:54:29Z
+# Entries: 763
+# Updated: 2026-09-29T22:15:57Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
+012995jkjkn.buzz
 123-facebook.blogspot.com
 190842-coinbase.com
 2017-facebook.blogspot.com
-254615-coinbase.com
+2349910hh.xyz
 283674-coinbase.com
 286364-coinbase.com
 2ccloud.com
 524675-coinbase.com
-73a2370016b7.dfw1.account-paypal.antimoney-laundering.org
-73a2370016b7.members29.paypal-signin.antimoney-laundering.org
-73a2370016b7.scm.paypal-support.antimoney-laundering.org
-73a2370016b7.uvishnu.paypal-support.antimoney-laundering.org
-73a2370016b7.zaikan2.account-paypal.antimoney-laundering.org
 a1-kraken.com
 a2zapk.co
 a2zapk.dev
@@ -27,6 +23,7 @@ acltci.com
 alibaba188.org
 alibaba66.co
 alibaba666.app
+alibaba666.live
 alibaba666.one
 alibaba66a.net
 amazon-harshdeep.vercel.app
@@ -34,12 +31,12 @@ amazon-opfq.vercel.app
 ancoradourohotel.com.br
 ani-facebook.blogspot.com
 annulation-amazon.com
+antimoney-laundering.org
 apk-google.cn
 app-binance.github.io
 app-exodusweb.pages.dev
 app-facebook.blogspot.com
 app81-facebook.blogspot.com
-appeal-coinbase.com
 apple-icloud.azurewebsites.net
 apple-verify.us
 assign-icloud.com
@@ -64,6 +61,7 @@ binance-red-packet.vercel.app
 binance-referral-code-btcbonus.vercel.app
 binance-register.blogspot.com
 binanceaa.com
+binancegate.com
 binanceii.com
 binancelivetrade.blogspot.com
 binancenn.com
@@ -81,7 +79,6 @@ business-dropbox.me
 c-binance.github.io
 cardpaysecurity.org
 carsscanned.ebaymclaren-austin.eventshouse.app
-case-binance.us
 cashapp-liart.vercel.app
 cashappps.com
 cfm-whatsapps.com
@@ -92,7 +89,6 @@ checkleaked.com
 citrix-sharing.com
 click-facebook.blogspot.com
 cn-feed-whatsapp.com.cn
-cn-gui-whatsapp.com.cn
 coinbase-desktopapp.live
 coinbase-event-2x.com
 coinbase-event.vercel.app
@@ -119,10 +115,12 @@ correosccl.cc
 correoscri.cc
 correosiicr.cc
 correosscri.cc
+correost.top
 creyt.cl
 ct.ws
 cz-facebook.blogspot.com
 daservglobal.com
+de5.net
 deluxxe.com.br
 desktop-ledgrecdn.wixstudio.com
 dhl-express-dev.firebaseapp.com
@@ -130,6 +128,7 @@ dir.com.my
 dj-facebook.blogspot.com
 docs-google.com
 docs-trezor-app.pages.dev
+documentspartage.com
 docusign-server.github.io
 dothome.co.kr
 dpdi.xyz
@@ -155,6 +154,7 @@ epsilons.co
 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
 eu-facebook.blogspot.com
 eu.cc
+evergreenfin.ltd
 ewlpnkrg.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 exclusive-openseamints.vercel.app
@@ -274,6 +274,7 @@ facebooke-login.blogspot.com
 facebookfakelogin.blogspot.com
 facebookfakepage.blogspot.com
 facebookhints.blogspot.com
+facebookhotysexyvideos.blogspot.com
 facebookk-k.vercel.app
 facebookk.blogspot.com
 facebookkerls.blogspot.com
@@ -323,8 +324,8 @@ facebookuserlogin.blogspot.com
 facebookverifyyouraccount.blogspot.com
 facebookwebsite9.blogspot.com
 facebookzaman.blogspot.com
-fedex-olive.vercel.app
 fedexbeta.com
+fedexsv.com
 fedexwp.com
 file-whatsappn.hl.cn
 forsakens-crew-teman-facebook.blogspot.com
@@ -369,11 +370,11 @@ hsbc-sec.com
 hsbccpersonalonlinebanking.com
 hsbctds.com
 hstn.me
+https-roblox.com
 iberdrolatrade.com
 icloud-asisten-official.com
 icloudnotify.help
 icloudweb-ext860.click
-id7456789599.cyou
 ideeo.mx
 ifotografix.co.uk
 info-facebook.blogspot.com
@@ -406,7 +407,6 @@ instagram-one-alpha.vercel.app
 instagram-open.blogspot.com
 instagram-reels-funny-every-viral-reels.github.io
 instagram-register.blogspot.com
-instagram-security-team.vercel.app
 instagram-ten-blond.vercel.app
 instagram-test.vercel.app
 instagram-tip.blogspot.com
@@ -446,12 +446,10 @@ invreceiptslinkedin.com
 isha-dev.com
 itau-com.vercel.app
 itau-snowy.vercel.app
-itauu.vercel.app
 jayaram0550.github.io
 jj-facebook.blogspot.com
 jo-facebook.blogspot.com
 jt-facebook.blogspot.com
-justina.com.do
 jwb-facebook.blogspot.com
 kauadosantos.github.io
 klassik-erh.de
@@ -466,7 +464,6 @@ ledger-live-application.com
 ledger-live-download-sso-conect.typedream.app
 ledger-live-login-web.square.site
 ledger-live-wallet-start-conect-us-en.typedream.app
-ledger-liveusa.zapier.app
 ledgerwalletrepair.com
 ledgrelivapp--crome.typedream.app
 leia-santander.vercel.app
@@ -482,7 +479,6 @@ login.rmdbwskx.santander.bimp-bot.duckdns.org
 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 loginfacebook-facebook.blogspot.com
 logowanie-facebook.vercel.app
-lokalna1.sbs
 love-facebook.blogspot.com
 lovefive-facebook.blogspot.com
 lovevivah.com
@@ -519,7 +515,6 @@ mhmr.ro
 mi-santander.com
 microsoft-0r.github.io
 microsoft-alpha.vercel.app
-microsoft-office365.site
 microsoft-online.gr
 microsoft-se.us
 microsoft-sharepoint.fr
@@ -566,6 +561,7 @@ noreply-icloud.app
 nr-23843ms2.sbs
 nw-facebook.blogspot.com
 office365licensingsupport.com
+ogloszenie48596918756.cyou
 oneworldnetwork.com
 online-facebook-privacy.blogspot.com
 oortstorages.com
@@ -574,7 +570,6 @@ openai-coin.com
 opensea-six.vercel.app
 openseaproks007.vercel.app
 openseavxr.vercel.app
-oraclecloud.com
 orbit-whatsapp.com
 ossama-instagram.vercel.app
 outlook-office365.com
@@ -584,13 +579,13 @@ page-instagram.vercel.app
 paykmc.com
 paypal-logiin.blogspot.com
 paypal-password.blogspot.com
-paypal-sicherheit.shop
 paypal-signin.blogspot.com
 paypalcorp.blogspot.com
 pe-facebook.blogspot.com
+phil-heron-zoomdrain-com-s-account.workers.dev
+pl-76751678378128635.top
 platform-coinbase.framer.website
 premio-instagram.com
-privacy-trezor.io
 profil-facebook-saya.blogspot.com
 ptai.in
 quantum-flares.com
@@ -626,7 +621,7 @@ santander-remaster-whats-fb.vercel.app
 santanderbizum.com
 santandercitas.com
 saque-instagram.com
-scm.paypal-support.antimoney-laundering.org
+search.er.in
 secure-dropbox.ist
 securedsupport-coinbase.com
 secutury-facebook.blogspot.com
@@ -638,12 +633,18 @@ sign-in-to-my-xfinity.square.site
 sign-in-to-xfinity-090.weebly.com
 sign-in-to-xfinity-87653.weebly.com
 sign-in-to-xfinity-updatee.weebly.com
+sioll.net
 sk-facebook.blogspot.com
+smallflyingarts.net
+smart-96232.cfd
+sopport-cloud.us
 sopportcloud.com
+sopports-net.us
 source.zoom.us.tedx.dpdns.org
 spotify-client-beta.vercel.app
 spotify-payment.click
 spotify-plus.com
+spr-400-5.buzz
 srpska-banka.com
 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 start-ledgerlive-com-web.typedream.app
@@ -654,10 +655,12 @@ steamcommunity.ing
 steuerquimica.cl
 su-facebook.blogspot.com
 sugar-outlook.com
+suportcloud.com
 support-instagram.github.io
 support-ledgerlive-eng.typedream.app
 support-ledgrcom-start-web.typedream.app
 support-netflix-signup.info
+supportecloud.info
 synel99.github.io
 tara-facebook.blogspot.com
 taslimaenterprise.com
@@ -667,7 +670,6 @@ test-facebook.blogspot.com
 therelayservice.com
 thomas-coinbase.com
 todo--facebook.blogspot.com
-totaltinting.com.au
 tottattoo.com
 trackingnumbers.org
 trezoorr--thego.gitbook.io
@@ -725,7 +727,6 @@ www-microsoft.com.cn
 wwww-linkedin.be
 x-comcast.weebly.com
 xfinity-mail-id.weebly.com
-xfinity-security-update.webflow.io
 xfinity-updateform.square.site
 xfinity-updateform.weebly.com
 xfinity001.weebly.com
