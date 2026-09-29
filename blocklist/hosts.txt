@@ -1,12 +1,11 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 767
-# Updated: 2026-09-29T05:45:03Z
+# Entries: 762
+# Updated: 2026-09-29T12:54:31Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
-0.0.0.0 0115.click
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
@@ -25,14 +24,12 @@
 0.0.0.0 a2zapk.dev
 0.0.0.0 account-instagram.vercel.app
 0.0.0.0 acltci.com
-0.0.0.0 adobe-owieljglewjngjnewjknkwje.pages.dev
 0.0.0.0 alibaba188.org
 0.0.0.0 alibaba66.co
 0.0.0.0 alibaba666.app
 0.0.0.0 alibaba666.one
 0.0.0.0 alibaba66a.net
 0.0.0.0 amazon-harshdeep.vercel.app
-0.0.0.0 amazon-maker-research.pages.dev
 0.0.0.0 amazon-opfq.vercel.app
 0.0.0.0 ancoradourohotel.com.br
 0.0.0.0 ani-facebook.blogspot.com
@@ -336,7 +333,6 @@
 0.0.0.0 fwh.is
 0.0.0.0 gafiatechnologies.com
 0.0.0.0 gameofamazon.com
-0.0.0.0 get-acrobat-adobe.pages.dev
 0.0.0.0 ggzh-google.com.cn
 0.0.0.0 gloronyan.github.io
 0.0.0.0 gls-groupptt.cfd
@@ -375,9 +371,9 @@
 0.0.0.0 hstn.me
 0.0.0.0 iberdrolatrade.com
 0.0.0.0 icloud-asisten-official.com
-0.0.0.0 icloudgps-ios.com
 0.0.0.0 icloudnotify.help
 0.0.0.0 icloudweb-ext860.click
+0.0.0.0 id7456789599.cyou
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 info-facebook.blogspot.com
@@ -486,6 +482,7 @@
 0.0.0.0 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 0.0.0.0 loginfacebook-facebook.blogspot.com
 0.0.0.0 logowanie-facebook.vercel.app
+0.0.0.0 lokalna1.sbs
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lovevivah.com
@@ -494,7 +491,6 @@
 0.0.0.0 m4ntapaset.ink
 0.0.0.0 mail-xfinitylogin.weebly.com
 0.0.0.0 marycar.com.br
-0.0.0.0 mauihost.qpon
 0.0.0.0 mb-facebook.blogspot.com
 0.0.0.0 mclarencar.ebaymclaren-austin.eventshouse.app
 0.0.0.0 mclarenf1car.ebaymclaren-austin.eventshouse.app
@@ -567,6 +563,7 @@
 0.0.0.0 news-revolut.com
 0.0.0.0 nl-spotify.com
 0.0.0.0 noreply-icloud.app
+0.0.0.0 nr-23843ms2.sbs
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 oneworldnetwork.com
@@ -690,7 +687,6 @@
 0.0.0.0 trustwalletreport.vercel.app
 0.0.0.0 twitterfav.com
 0.0.0.0 updata.net.cn
-0.0.0.0 usacrazyseller.com
 0.0.0.0 usdt-trustwallet-blockchain.vercel.app
 0.0.0.0 uspsaunitedworkforce.com
 0.0.0.0 uspsecuredlogs.com
@@ -701,7 +697,6 @@
 0.0.0.0 vodafone-on-line.it
 0.0.0.0 vodafoneelevation.de
 0.0.0.0 vpn-update.org
-0.0.0.0 vpn12.accounts-paypal.antimoney-laundering.org
 0.0.0.0 vpnuse.eu.org
 0.0.0.0 vwwv-icloud.com
 0.0.0.0 wave-whatsapp.com

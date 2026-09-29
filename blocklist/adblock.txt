@@ -1,12 +1,11 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 767
-! Updated: 2026-09-29T05:45:04Z
+! Entries: 762
+! Updated: 2026-09-29T12:54:32Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
 ! Community-reported phishing domains. Use at your own risk.
 
-||0115.click^
 ||123-facebook.blogspot.com^
 ||190842-coinbase.com^
 ||2017-facebook.blogspot.com^
@@ -25,14 +24,12 @@
 ||a2zapk.dev^
 ||account-instagram.vercel.app^
 ||acltci.com^
-||adobe-owieljglewjngjnewjknkwje.pages.dev^
 ||alibaba188.org^
 ||alibaba66.co^
 ||alibaba666.app^
 ||alibaba666.one^
 ||alibaba66a.net^
 ||amazon-harshdeep.vercel.app^
-||amazon-maker-research.pages.dev^
 ||amazon-opfq.vercel.app^
 ||ancoradourohotel.com.br^
 ||ani-facebook.blogspot.com^
@@ -336,7 +333,6 @@
 ||fwh.is^
 ||gafiatechnologies.com^
 ||gameofamazon.com^
-||get-acrobat-adobe.pages.dev^
 ||ggzh-google.com.cn^
 ||gloronyan.github.io^
 ||gls-groupptt.cfd^
@@ -375,9 +371,9 @@
 ||hstn.me^
 ||iberdrolatrade.com^
 ||icloud-asisten-official.com^
-||icloudgps-ios.com^
 ||icloudnotify.help^
 ||icloudweb-ext860.click^
+||id7456789599.cyou^
 ||ideeo.mx^
 ||ifotografix.co.uk^
 ||info-facebook.blogspot.com^
@@ -486,6 +482,7 @@
 ||login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org^
 ||loginfacebook-facebook.blogspot.com^
 ||logowanie-facebook.vercel.app^
+||lokalna1.sbs^
 ||love-facebook.blogspot.com^
 ||lovefive-facebook.blogspot.com^
 ||lovevivah.com^
@@ -494,7 +491,6 @@
 ||m4ntapaset.ink^
 ||mail-xfinitylogin.weebly.com^
 ||marycar.com.br^
-||mauihost.qpon^
 ||mb-facebook.blogspot.com^
 ||mclarencar.ebaymclaren-austin.eventshouse.app^
 ||mclarenf1car.ebaymclaren-austin.eventshouse.app^
@@ -567,6 +563,7 @@
 ||news-revolut.com^
 ||nl-spotify.com^
 ||noreply-icloud.app^
+||nr-23843ms2.sbs^
 ||nw-facebook.blogspot.com^
 ||office365licensingsupport.com^
 ||oneworldnetwork.com^
@@ -690,7 +687,6 @@
 ||trustwalletreport.vercel.app^
 ||twitterfav.com^
 ||updata.net.cn^
-||usacrazyseller.com^
 ||usdt-trustwallet-blockchain.vercel.app^
 ||uspsaunitedworkforce.com^
 ||uspsecuredlogs.com^
@@ -701,7 +697,6 @@
 ||vodafone-on-line.it^
 ||vodafoneelevation.de^
 ||vpn-update.org^
-||vpn12.accounts-paypal.antimoney-laundering.org^
 ||vpnuse.eu.org^
 ||vwwv-icloud.com^
 ||wave-whatsapp.com^
