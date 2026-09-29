@@ -1,11 +1,12 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 759
-# Updated: 2026-09-28T23:17:12Z
+# Entries: 767
+# Updated: 2026-09-29T05:45:03Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
+0.0.0.0 0115.click
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
@@ -18,6 +19,7 @@
 0.0.0.0 73a2370016b7.members29.paypal-signin.antimoney-laundering.org
 0.0.0.0 73a2370016b7.scm.paypal-support.antimoney-laundering.org
 0.0.0.0 73a2370016b7.uvishnu.paypal-support.antimoney-laundering.org
+0.0.0.0 73a2370016b7.zaikan2.account-paypal.antimoney-laundering.org
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
@@ -30,6 +32,7 @@
 0.0.0.0 alibaba666.one
 0.0.0.0 alibaba66a.net
 0.0.0.0 amazon-harshdeep.vercel.app
+0.0.0.0 amazon-maker-research.pages.dev
 0.0.0.0 amazon-opfq.vercel.app
 0.0.0.0 ancoradourohotel.com.br
 0.0.0.0 ani-facebook.blogspot.com
@@ -131,7 +134,6 @@
 0.0.0.0 docs-google.com
 0.0.0.0 docs-trezor-app.pages.dev
 0.0.0.0 docusign-server.github.io
-0.0.0.0 docusignfile-review-security-page--newstoolin.replit.app
 0.0.0.0 dothome.co.kr
 0.0.0.0 dpdi.xyz
 0.0.0.0 dpdn62.click
@@ -142,18 +144,20 @@
 0.0.0.0 ebay-c.com
 0.0.0.0 ebay-phone-number.blogspot.com
 0.0.0.0 ebay-seller-center-managedpayments.vercel.app
+0.0.0.0 ebayesho.com
 0.0.0.0 ebaymclaren-austin.eventshouse.app
 0.0.0.0 ebaymevip.com
 0.0.0.0 edgeone.dev
 0.0.0.0 email-microsoft.com
 0.0.0.0 email-update-comcast.weebly.com
 0.0.0.0 ember-whatsapp.com
+0.0.0.0 emilycaputi.github.io
 0.0.0.0 emmanueldegreatltd.com
 0.0.0.0 en-ledgre.pages.dev
-0.0.0.0 encontre-localizat.info
 0.0.0.0 epsilons.co
 0.0.0.0 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
 0.0.0.0 eu-facebook.blogspot.com
+0.0.0.0 eu.cc
 0.0.0.0 ewlpnkrg.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 0.0.0.0 ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 0.0.0.0 exclusive-openseamints.vercel.app
@@ -332,8 +336,10 @@
 0.0.0.0 fwh.is
 0.0.0.0 gafiatechnologies.com
 0.0.0.0 gameofamazon.com
+0.0.0.0 get-acrobat-adobe.pages.dev
 0.0.0.0 ggzh-google.com.cn
 0.0.0.0 gloronyan.github.io
+0.0.0.0 gls-groupptt.cfd
 0.0.0.0 google-apk.com
 0.0.0.0 google.js.cn
 0.0.0.0 google1107.com
@@ -449,6 +455,7 @@
 0.0.0.0 jj-facebook.blogspot.com
 0.0.0.0 jo-facebook.blogspot.com
 0.0.0.0 jt-facebook.blogspot.com
+0.0.0.0 justina.com.do
 0.0.0.0 jwb-facebook.blogspot.com
 0.0.0.0 kauadosantos.github.io
 0.0.0.0 klassik-erh.de
@@ -609,6 +616,7 @@
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.kz
+0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 rricrosoft-offices.org
@@ -621,6 +629,7 @@
 0.0.0.0 santanderbizum.com
 0.0.0.0 santandercitas.com
 0.0.0.0 saque-instagram.com
+0.0.0.0 scm.paypal-support.antimoney-laundering.org
 0.0.0.0 secure-dropbox.ist
 0.0.0.0 securedsupport-coinbase.com
 0.0.0.0 secutury-facebook.blogspot.com
@@ -633,7 +642,6 @@
 0.0.0.0 sign-in-to-xfinity-87653.weebly.com
 0.0.0.0 sign-in-to-xfinity-updatee.weebly.com
 0.0.0.0 sk-facebook.blogspot.com
-0.0.0.0 sopport-service.app
 0.0.0.0 sopportcloud.com
 0.0.0.0 source.zoom.us.tedx.dpdns.org
 0.0.0.0 spotify-client-beta.vercel.app
@@ -670,7 +678,6 @@
 0.0.0.0 trezorguide.vercel.app
 0.0.0.0 trezoriostart-web.square.site
 0.0.0.0 trezorrgoappup.gitbook.io
-0.0.0.0 trezrhiwanlt.gitbook.io
 0.0.0.0 trust-wallet-bnb.vercel.app
 0.0.0.0 trust-wallet-contact.vercel.app
 0.0.0.0 trust-wallet-customer-support-number.github.io
@@ -723,6 +730,7 @@
 0.0.0.0 wwww-linkedin.be
 0.0.0.0 x-comcast.weebly.com
 0.0.0.0 xfinity-mail-id.weebly.com
+0.0.0.0 xfinity-security-update.webflow.io
 0.0.0.0 xfinity-updateform.square.site
 0.0.0.0 xfinity-updateform.weebly.com
 0.0.0.0 xfinity001.weebly.com
@@ -756,7 +764,6 @@
 0.0.0.0 xfinityttt.weebly.com
 0.0.0.0 xfinityupdatesnow.weebly.com
 0.0.0.0 xfinityuserverification.weebly.com
-0.0.0.0 xfinityverification25.weebly.com
 0.0.0.0 xfinitywebmail25.weebly.com
 0.0.0.0 yonataxi.at
 0.0.0.0 yzz.me
@@ -765,3 +772,4 @@
 0.0.0.0 zeta-facebook.blogspot.com
 0.0.0.0 zkey0.com
 0.0.0.0 znbbmwq.com
+0.0.0.0 zya.me
