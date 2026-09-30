@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 763
-# Updated: 2026-09-30T05:33:39Z
+# Entries: 757
+# Updated: 2026-09-30T12:36:18Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -9,7 +9,6 @@
 123-facebook.blogspot.com
 190842-coinbase.com
 2017-facebook.blogspot.com
-2349910hh.xyz
 283674-coinbase.com
 286364-coinbase.com
 2ccloud.com
@@ -111,7 +110,6 @@ correosccl.cc
 correoscri.cc
 correosiicr.cc
 correosscri.cc
-correost.top
 creyt.cl
 ct.ws
 cvouab.com
@@ -354,7 +352,6 @@ googleplaiby.com
 googleplaydown.com
 googlepllry.com
 googleplrzy.com
-googleuserlogin.cam
 hashnode.dev
 help-instagram.blogspot.com
 hofmemorabilia.ebaymclaren-austin.eventshouse.app
@@ -377,6 +374,7 @@ ideeo.mx
 ifotografix.co.uk
 info-facebook.blogspot.com
 ingdirect-accesoweb-login.com
+ini-modal-chatgpt-ajakok.pages.dev
 iniciamazon.com.br
 instagram-2-0-4p6f5s6nd-chibokaxavier.vercel.app
 instagram-2-blond.vercel.app
@@ -562,7 +560,6 @@ noreply-icloud.app
 nr-23843ms2.sbs
 nw-facebook.blogspot.com
 office365licensingsupport.com
-onedrivefilesnow885.pages.dev
 oneworldnetwork.com
 online-facebook-privacy.blogspot.com
 oortstorages.com
@@ -604,7 +601,6 @@ roblox.com.bi
 roblox.com.bn
 roblox.com.bo
 roblox.com.bz
-roblox.com.do
 roblox.com.ee
 roblox.com.gr
 roblox.com.kz
@@ -638,7 +634,6 @@ sk-facebook.blogspot.com
 smallflyingarts.net
 smtp6-coinbase.com
 sopport-cloud.us
-sopportcloud.com
 sopports-net.us
 source.zoom.us.tedx.dpdns.org
 spotify-client-beta.vercel.app
@@ -723,7 +718,6 @@ wooflers.com
 www-app-google.com
 www-google.cn
 www-hk-google.com
-www-microsoft.com.cn
 wwww-linkedin.be
 x-comcast.weebly.com
 xfinity-mail-id.weebly.com

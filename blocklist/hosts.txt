@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 763
-# Updated: 2026-09-30T05:33:39Z
+# Entries: 757
+# Updated: 2026-09-30T12:36:19Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -9,7 +9,6 @@
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
-0.0.0.0 2349910hh.xyz
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
 0.0.0.0 2ccloud.com
@@ -111,7 +110,6 @@
 0.0.0.0 correoscri.cc
 0.0.0.0 correosiicr.cc
 0.0.0.0 correosscri.cc
-0.0.0.0 correost.top
 0.0.0.0 creyt.cl
 0.0.0.0 ct.ws
 0.0.0.0 cvouab.com
@@ -354,7 +352,6 @@
 0.0.0.0 googleplaydown.com
 0.0.0.0 googlepllry.com
 0.0.0.0 googleplrzy.com
-0.0.0.0 googleuserlogin.cam
 0.0.0.0 hashnode.dev
 0.0.0.0 help-instagram.blogspot.com
 0.0.0.0 hofmemorabilia.ebaymclaren-austin.eventshouse.app
@@ -377,6 +374,7 @@
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 info-facebook.blogspot.com
 0.0.0.0 ingdirect-accesoweb-login.com
+0.0.0.0 ini-modal-chatgpt-ajakok.pages.dev
 0.0.0.0 iniciamazon.com.br
 0.0.0.0 instagram-2-0-4p6f5s6nd-chibokaxavier.vercel.app
 0.0.0.0 instagram-2-blond.vercel.app
@@ -562,7 +560,6 @@
 0.0.0.0 nr-23843ms2.sbs
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 office365licensingsupport.com
-0.0.0.0 onedrivefilesnow885.pages.dev
 0.0.0.0 oneworldnetwork.com
 0.0.0.0 online-facebook-privacy.blogspot.com
 0.0.0.0 oortstorages.com
@@ -604,7 +601,6 @@
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bo
 0.0.0.0 roblox.com.bz
-0.0.0.0 roblox.com.do
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.kz
@@ -638,7 +634,6 @@
 0.0.0.0 smallflyingarts.net
 0.0.0.0 smtp6-coinbase.com
 0.0.0.0 sopport-cloud.us
-0.0.0.0 sopportcloud.com
 0.0.0.0 sopports-net.us
 0.0.0.0 source.zoom.us.tedx.dpdns.org
 0.0.0.0 spotify-client-beta.vercel.app
@@ -723,7 +718,6 @@
 0.0.0.0 www-app-google.com
 0.0.0.0 www-google.cn
 0.0.0.0 www-hk-google.com
-0.0.0.0 www-microsoft.com.cn
 0.0.0.0 wwww-linkedin.be
 0.0.0.0 x-comcast.weebly.com
 0.0.0.0 xfinity-mail-id.weebly.com
