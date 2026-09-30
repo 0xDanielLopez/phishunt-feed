@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 757
-! Updated: 2026-09-30T12:36:21Z
+! Entries: 731
+! Updated: 2026-09-30T22:16:53Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -24,11 +24,13 @@
 ||alibaba666.live^
 ||alibaba666.one^
 ||alibaba66a.net^
+||alibabarest.com^
 ||amazon-harshdeep.vercel.app^
 ||amazon-opfq.vercel.app^
 ||ancoradourohotel.com.br^
 ||ani-facebook.blogspot.com^
 ||annulation-amazon.com^
+||antimoney-laundering.org^
 ||apk-google.cn^
 ||app-binance.github.io^
 ||app-exodusweb.pages.dev^
@@ -38,7 +40,6 @@
 ||apple-verify.us^
 ||assign-icloud.com^
 ||asso-entrautres.fr^
-||audtfnaurth.com.es^
 ||auth.properties^
 ||authorised-support.com^
 ||avaturefed.net^
@@ -85,7 +86,6 @@
 ||citrix-sharing.com^
 ||click-facebook.blogspot.com^
 ||cn-feed-whatsapp.com.cn^
-||coinbase-desktopapp.live^
 ||coinbase-event.vercel.app^
 ||coinbase.com.lc^
 ||coinbaseinvestors.ai^
@@ -96,15 +96,10 @@
 ||comcast-ebon.vercel.app^
 ||comcast-seven.vercel.app^
 ||comcast2.vercel.app^
-||comcast2212.weebly.com^
 ||comcastcarebusiness.weebly.com^
 ||comcastinfoupdatesnow.weebly.com^
-||comcastlog.weebly.com^
-||comcastnetmail.weebly.com^
 ||comcastseettings.weebly.com^
-||comcastsurvey.weebly.com^
 ||comcastwebmailuser.weebly.com^
-||comcastxfinlty.weebly.com^
 ||contentstack.com^
 ||correosccl.cc^
 ||correoscri.cc^
@@ -230,6 +225,7 @@
 ||facebook-q.blogspot.com^
 ||facebook-qa.blogspot.com^
 ||facebook-rus.blogspot.com^
+||facebook-sa.blogspot.com^
 ||facebook-sage-tau.vercel.app^
 ||facebook-seks-27.blogspot.com^
 ||facebook-seks-30.blogspot.com^
@@ -252,7 +248,6 @@
 ||facebook-vn-com.blogspot.com^
 ||facebook-vn.blogspot.com^
 ||facebook-vu.blogspot.com^
-||facebook.net.tw^
 ||facebook1019key.blogspot.com^
 ||facebook7-facebook.blogspot.com^
 ||facebookaccountsmanager.blogspot.com^
@@ -373,8 +368,8 @@
 ||ideeo.mx^
 ||ifotografix.co.uk^
 ||info-facebook.blogspot.com^
+||infy.click^
 ||ingdirect-accesoweb-login.com^
-||ini-modal-chatgpt-ajakok.pages.dev^
 ||iniciamazon.com.br^
 ||instagram-2-0-4p6f5s6nd-chibokaxavier.vercel.app^
 ||instagram-2-blond.vercel.app^
@@ -456,7 +451,6 @@
 ||kucoinloginaa.gitbook.io^
 ||kucoinloign.gitbook.io^
 ||lateinos.com.br^
-||ld-cloud-lsupport.com^
 ||ledger-live-application.com^
 ||ledger-live-download-sso-conect.typedream.app^
 ||ledger-live-login-web.square.site^
@@ -476,6 +470,7 @@
 ||login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org^
 ||loginfacebook-facebook.blogspot.com^
 ||logowanie-facebook.vercel.app^
+||lokalne.sbs^
 ||love-facebook.blogspot.com^
 ||lovefive-facebook.blogspot.com^
 ||lovevivah.com^
@@ -581,17 +576,18 @@
 ||paypalcorp.blogspot.com^
 ||pe-facebook.blogspot.com^
 ||phil-heron-zoomdrain-com-s-account.workers.dev^
-||platform-coinbase.framer.website^
+||pl-05970225.icu^
 ||premio-instagram.com^
+||previewship.net^
 ||profil-facebook-saya.blogspot.com^
 ||ptai.in^
 ||quantum-flares.com^
 ||r-facebook.blogspot.com^
 ||rama-facebook.blogspot.com^
 ||reactivar-microsoft-live.iceiy.com^
-||rec-netflix.com^
 ||receiptslinkedin.com^
 ||recreate-instagrampage.vercel.app^
+||redirecthelp.com^
 ||register-facebook.blogspot.com^
 ||rekemonedasi-facebook.org^
 ||renfe-sncf.com^
@@ -601,6 +597,7 @@
 ||roblox.com.bn^
 ||roblox.com.bo^
 ||roblox.com.bz^
+||roblox.com.do^
 ||roblox.com.ee^
 ||roblox.com.gr^
 ||roblox.com.kz^
@@ -613,6 +610,7 @@
 ||sagers.com^
 ||samplel-ks6yxvur5-instagramm.vercel.app^
 ||santander-dev-week.vercel.app^
+||santander-remaster-whats-fb-kappa.vercel.app^
 ||santander-remaster-whats-fb.vercel.app^
 ||santanderbizum.com^
 ||santandercitas.com^
@@ -620,21 +618,14 @@
 ||search.er.in^
 ||secure-dropbox.ist^
 ||securedsupport-coinbase.com^
-||secutury-facebook.blogspot.com^
 ||send-secure-trustwallet-usdt-bip20.vercel.app^
 ||services-facebook.blogspot.com^
 ||seureonline.shop^
 ||sigma-whatsapp.com^
-||sign-in-to-my-xfinity.square.site^
-||sign-in-to-xfinity-090.weebly.com^
-||sign-in-to-xfinity-87653.weebly.com^
 ||sign-in-to-xfinity-updatee.weebly.com^
-||sioll.net^
 ||sk-facebook.blogspot.com^
 ||smallflyingarts.net^
 ||smtp6-coinbase.com^
-||sopport-cloud.us^
-||sopports-net.us^
 ||source.zoom.us.tedx.dpdns.org^
 ||spotify-client-beta.vercel.app^
 ||spotify-payment.click^
@@ -649,12 +640,10 @@
 ||steuerquimica.cl^
 ||su-facebook.blogspot.com^
 ||sugar-outlook.com^
-||suportcloud.com^
 ||support-instagram.github.io^
 ||support-ledgerlive-eng.typedream.app^
 ||support-ledgrcom-start-web.typedream.app^
 ||support-netflix-signup.info^
-||supportecloud.info^
 ||synel99.github.io^
 ||tara-facebook.blogspot.com^
 ||taslimaenterprise.com^
@@ -719,40 +708,25 @@
 ||www-google.cn^
 ||www-hk-google.com^
 ||wwww-linkedin.be^
-||x-comcast.weebly.com^
 ||xfinity-mail-id.weebly.com^
 ||xfinity-updateform.square.site^
 ||xfinity-updateform.weebly.com^
-||xfinity001.weebly.com^
-||xfinity003.weebly.com^
-||xfinity009.weebly.com^
 ||xfinity097.weebly.com^
 ||xfinity101.duckdns.org^
-||xfinity105.weebly.com^
 ||xfinity119.weebly.com^
 ||xfinity2.vercel.app^
 ||xfinity200212.weebly.com^
-||xfinitycomm.weebly.com^
-||xfinityconnectemail.weebly.com^
 ||xfinityconnectonline.weebly.com^
-||xfinityconnectupgrade.weebly.com^
 ||xfinityis.weebly.com^
 ||xfinitylogin247.weebly.com^
 ||xfinityloginxfinity.weebly.com^
 ||xfinitymail01.weebly.com^
 ||xfinitymail087.weebly.com^
-||xfinitymailid.weebly.com^
 ||xfinitymaillog.weebly.com^
-||xfinitymailnow.weebly.com^
-||xfinitynow.weebly.com^
 ||xfinityservicekey.weebly.com^
 ||xfinityservices.vercel.app^
 ||xfinitysupportnow.weebly.com^
 ||xfinityteamslogin.weebly.com^
-||xfinityteamsservice.weebly.com^
-||xfinitytomy.weebly.com^
-||xfinityttt.weebly.com^
-||xfinityupdatesnow.weebly.com^
 ||xfinityuserverification.weebly.com^
 ||xfinitywebmail25.weebly.com^
 ||yonataxi.at^
