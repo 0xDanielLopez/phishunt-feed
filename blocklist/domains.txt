@@ -1,12 +1,11 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
 # Entries: 763
-# Updated: 2026-09-29T22:15:57Z
+# Updated: 2026-09-30T05:33:39Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
-012995jkjkn.buzz
 123-facebook.blogspot.com
 190842-coinbase.com
 2017-facebook.blogspot.com
@@ -31,7 +30,6 @@ amazon-opfq.vercel.app
 ancoradourohotel.com.br
 ani-facebook.blogspot.com
 annulation-amazon.com
-antimoney-laundering.org
 apk-google.cn
 app-binance.github.io
 app-exodusweb.pages.dev
@@ -41,6 +39,7 @@ apple-icloud.azurewebsites.net
 apple-verify.us
 assign-icloud.com
 asso-entrautres.fr
+audtfnaurth.com.es
 auth.properties
 authorised-support.com
 avaturefed.net
@@ -61,7 +60,6 @@ binance-red-packet.vercel.app
 binance-referral-code-btcbonus.vercel.app
 binance-register.blogspot.com
 binanceaa.com
-binancegate.com
 binanceii.com
 binancelivetrade.blogspot.com
 binancenn.com
@@ -77,7 +75,6 @@ bradescosegurosop.com.br
 buscarmi-icloud.app
 business-dropbox.me
 c-binance.github.io
-cardpaysecurity.org
 carsscanned.ebaymclaren-austin.eventshouse.app
 cashapp-liart.vercel.app
 cashappps.com
@@ -90,7 +87,6 @@ citrix-sharing.com
 click-facebook.blogspot.com
 cn-feed-whatsapp.com.cn
 coinbase-desktopapp.live
-coinbase-event-2x.com
 coinbase-event.vercel.app
 coinbase.com.lc
 coinbaseinvestors.ai
@@ -118,6 +114,7 @@ correosscri.cc
 correost.top
 creyt.cl
 ct.ws
+cvouab.com
 cz-facebook.blogspot.com
 daservglobal.com
 de5.net
@@ -154,7 +151,6 @@ epsilons.co
 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
 eu-facebook.blogspot.com
 eu.cc
-evergreenfin.ltd
 ewlpnkrg.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 exclusive-openseamints.vercel.app
@@ -205,6 +201,7 @@ facebook-help-m.blogspot.com
 facebook-hr.blogspot.com
 facebook-in.blogspot.com
 facebook-int.blogspot.com
+facebook-juga.blogspot.com
 facebook-linkedin.blogspot.com
 facebook-links.blogspot.com
 facebook-logiin.vercel.app
@@ -374,6 +371,7 @@ https-roblox.com
 iberdrolatrade.com
 icloud-asisten-official.com
 icloudnotify.help
+icloudsuport.live
 icloudweb-ext860.click
 ideeo.mx
 ifotografix.co.uk
@@ -413,6 +411,7 @@ instagram-tip.blogspot.com
 instagram-users.blogspot.com
 instagram-usman-haider.vercel.app
 instagram-verifications.blogspot.com
+instagram157.github.io
 instagram90sedition.vercel.app
 instagramaaps-code.github.io
 instagramaccount.info
@@ -482,6 +481,7 @@ logowanie-facebook.vercel.app
 love-facebook.blogspot.com
 lovefive-facebook.blogspot.com
 lovevivah.com
+luxora.qpon
 ly-facebook.blogspot.com
 m365-microsoft.com
 m4ntapaset.ink
@@ -531,6 +531,7 @@ mirror-google.com
 misilabario.cl
 ml-facebook.blogspot.com
 mobile-google.cn
+moneyandriskinventory.com
 more-ledgerlive-en.typedream.app
 movistar-recaudo-epayc.com
 munimventures.com
@@ -561,7 +562,7 @@ noreply-icloud.app
 nr-23843ms2.sbs
 nw-facebook.blogspot.com
 office365licensingsupport.com
-ogloszenie48596918756.cyou
+onedrivefilesnow885.pages.dev
 oneworldnetwork.com
 online-facebook-privacy.blogspot.com
 oortstorages.com
@@ -583,7 +584,6 @@ paypal-signin.blogspot.com
 paypalcorp.blogspot.com
 pe-facebook.blogspot.com
 phil-heron-zoomdrain-com-s-account.workers.dev
-pl-76751678378128635.top
 platform-coinbase.framer.website
 premio-instagram.com
 profil-facebook-saya.blogspot.com
@@ -636,7 +636,7 @@ sign-in-to-xfinity-updatee.weebly.com
 sioll.net
 sk-facebook.blogspot.com
 smallflyingarts.net
-smart-96232.cfd
+smtp6-coinbase.com
 sopport-cloud.us
 sopportcloud.com
 sopports-net.us
@@ -644,7 +644,6 @@ source.zoom.us.tedx.dpdns.org
 spotify-client-beta.vercel.app
 spotify-payment.click
 spotify-plus.com
-spr-400-5.buzz
 srpska-banka.com
 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 start-ledgerlive-com-web.typedream.app
@@ -712,6 +711,7 @@ whatsapp-fast.vercel.app
 whatsapp-iamsuyash.vercel.app
 whatsapp-indonesia877.blogspot.com
 whatsapp-verify.blogspot.com
+whatsapp11-cnj.pages.dev
 whatsapp7g.blogspot.com
 whatsappapk.org
 whatsappbrnoticias.blogspot.com

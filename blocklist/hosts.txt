@@ -1,12 +1,11 @@
 # phishunt.io blocklist - hosts file format
 # Entries: 763
-# Updated: 2026-09-29T22:15:57Z
+# Updated: 2026-09-30T05:33:39Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
-0.0.0.0 012995jkjkn.buzz
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
@@ -31,7 +30,6 @@
 0.0.0.0 ancoradourohotel.com.br
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 annulation-amazon.com
-0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-exodusweb.pages.dev
@@ -41,6 +39,7 @@
 0.0.0.0 apple-verify.us
 0.0.0.0 assign-icloud.com
 0.0.0.0 asso-entrautres.fr
+0.0.0.0 audtfnaurth.com.es
 0.0.0.0 auth.properties
 0.0.0.0 authorised-support.com
 0.0.0.0 avaturefed.net
@@ -61,7 +60,6 @@
 0.0.0.0 binance-referral-code-btcbonus.vercel.app
 0.0.0.0 binance-register.blogspot.com
 0.0.0.0 binanceaa.com
-0.0.0.0 binancegate.com
 0.0.0.0 binanceii.com
 0.0.0.0 binancelivetrade.blogspot.com
 0.0.0.0 binancenn.com
@@ -77,7 +75,6 @@
 0.0.0.0 buscarmi-icloud.app
 0.0.0.0 business-dropbox.me
 0.0.0.0 c-binance.github.io
-0.0.0.0 cardpaysecurity.org
 0.0.0.0 carsscanned.ebaymclaren-austin.eventshouse.app
 0.0.0.0 cashapp-liart.vercel.app
 0.0.0.0 cashappps.com
@@ -90,7 +87,6 @@
 0.0.0.0 click-facebook.blogspot.com
 0.0.0.0 cn-feed-whatsapp.com.cn
 0.0.0.0 coinbase-desktopapp.live
-0.0.0.0 coinbase-event-2x.com
 0.0.0.0 coinbase-event.vercel.app
 0.0.0.0 coinbase.com.lc
 0.0.0.0 coinbaseinvestors.ai
@@ -118,6 +114,7 @@
 0.0.0.0 correost.top
 0.0.0.0 creyt.cl
 0.0.0.0 ct.ws
+0.0.0.0 cvouab.com
 0.0.0.0 cz-facebook.blogspot.com
 0.0.0.0 daservglobal.com
 0.0.0.0 de5.net
@@ -154,7 +151,6 @@
 0.0.0.0 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
 0.0.0.0 eu-facebook.blogspot.com
 0.0.0.0 eu.cc
-0.0.0.0 evergreenfin.ltd
 0.0.0.0 ewlpnkrg.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 0.0.0.0 ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 0.0.0.0 exclusive-openseamints.vercel.app
@@ -205,6 +201,7 @@
 0.0.0.0 facebook-hr.blogspot.com
 0.0.0.0 facebook-in.blogspot.com
 0.0.0.0 facebook-int.blogspot.com
+0.0.0.0 facebook-juga.blogspot.com
 0.0.0.0 facebook-linkedin.blogspot.com
 0.0.0.0 facebook-links.blogspot.com
 0.0.0.0 facebook-logiin.vercel.app
@@ -374,6 +371,7 @@
 0.0.0.0 iberdrolatrade.com
 0.0.0.0 icloud-asisten-official.com
 0.0.0.0 icloudnotify.help
+0.0.0.0 icloudsuport.live
 0.0.0.0 icloudweb-ext860.click
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
@@ -413,6 +411,7 @@
 0.0.0.0 instagram-users.blogspot.com
 0.0.0.0 instagram-usman-haider.vercel.app
 0.0.0.0 instagram-verifications.blogspot.com
+0.0.0.0 instagram157.github.io
 0.0.0.0 instagram90sedition.vercel.app
 0.0.0.0 instagramaaps-code.github.io
 0.0.0.0 instagramaccount.info
@@ -482,6 +481,7 @@
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lovevivah.com
+0.0.0.0 luxora.qpon
 0.0.0.0 ly-facebook.blogspot.com
 0.0.0.0 m365-microsoft.com
 0.0.0.0 m4ntapaset.ink
@@ -531,6 +531,7 @@
 0.0.0.0 misilabario.cl
 0.0.0.0 ml-facebook.blogspot.com
 0.0.0.0 mobile-google.cn
+0.0.0.0 moneyandriskinventory.com
 0.0.0.0 more-ledgerlive-en.typedream.app
 0.0.0.0 movistar-recaudo-epayc.com
 0.0.0.0 munimventures.com
@@ -561,7 +562,7 @@
 0.0.0.0 nr-23843ms2.sbs
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 office365licensingsupport.com
-0.0.0.0 ogloszenie48596918756.cyou
+0.0.0.0 onedrivefilesnow885.pages.dev
 0.0.0.0 oneworldnetwork.com
 0.0.0.0 online-facebook-privacy.blogspot.com
 0.0.0.0 oortstorages.com
@@ -583,7 +584,6 @@
 0.0.0.0 paypalcorp.blogspot.com
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 phil-heron-zoomdrain-com-s-account.workers.dev
-0.0.0.0 pl-76751678378128635.top
 0.0.0.0 platform-coinbase.framer.website
 0.0.0.0 premio-instagram.com
 0.0.0.0 profil-facebook-saya.blogspot.com
@@ -636,7 +636,7 @@
 0.0.0.0 sioll.net
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 smallflyingarts.net
-0.0.0.0 smart-96232.cfd
+0.0.0.0 smtp6-coinbase.com
 0.0.0.0 sopport-cloud.us
 0.0.0.0 sopportcloud.com
 0.0.0.0 sopports-net.us
@@ -644,7 +644,6 @@
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotify-payment.click
 0.0.0.0 spotify-plus.com
-0.0.0.0 spr-400-5.buzz
 0.0.0.0 srpska-banka.com
 0.0.0.0 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 0.0.0.0 start-ledgerlive-com-web.typedream.app
@@ -712,6 +711,7 @@
 0.0.0.0 whatsapp-iamsuyash.vercel.app
 0.0.0.0 whatsapp-indonesia877.blogspot.com
 0.0.0.0 whatsapp-verify.blogspot.com
+0.0.0.0 whatsapp11-cnj.pages.dev
 0.0.0.0 whatsapp7g.blogspot.com
 0.0.0.0 whatsappapk.org
 0.0.0.0 whatsappbrnoticias.blogspot.com
