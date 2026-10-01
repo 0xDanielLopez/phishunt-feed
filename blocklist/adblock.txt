@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 748
-! Updated: 2026-10-01T05:55:53Z
+! Entries: 753
+! Updated: 2026-10-01T13:17:06Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -13,9 +13,6 @@
 ||286364-coinbase.com^
 ||2ccloud.com^
 ||524675-coinbase.com^
-||73a2370016b7.apiwww.paypal-updates.antimoney-laundering.org^
-||73a2370016b7.kaok4f.paypal-verification.antimoney-laundering.org^
-||73a2370016b7.us.4on.paypal-verification.antimoney-laundering.org^
 ||a1-kraken.com^
 ||a2zapk.co^
 ||a2zapk.dev^
@@ -34,6 +31,7 @@
 ||ancoradourohotel.com.br^
 ||ani-facebook.blogspot.com^
 ||annulation-amazon.com^
+||antimoney-laundering.org^
 ||apk-google.cn^
 ||app-binance.github.io^
 ||app-exodusweb.pages.dev^
@@ -50,7 +48,6 @@
 ||bankofamericamailcompte.blogspot.com^
 ||barcelona-facebook.blogspot.com^
 ||barclays-bank.vercel.app^
-||bbsyntax.paypal-updates.antimoney-laundering.org^
 ||bbva-hiring-paperless.appspot.com^
 ||bbvalues.uk^
 ||be-spotify.com^
@@ -105,6 +102,8 @@
 ||comcastinfoupdatesnow.weebly.com^
 ||comcastseettings.weebly.com^
 ||comcastwebmailuser.weebly.com^
+||contaboserver.net^
+||contabostorage.com^
 ||contentstack.com^
 ||correosccl.cc^
 ||correoscri.cc^
@@ -126,6 +125,7 @@
 ||documentspartage.com^
 ||docusign-server.github.io^
 ||dothome.co.kr^
+||dpd-aupostgz.cam^
 ||dpdi.xyz^
 ||dpdn62.click^
 ||dpdr.live^
@@ -208,6 +208,7 @@
 ||facebook-login-facebook.blogspot.com^
 ||facebook-login-help.blogspot.com^
 ||facebook-login-it.blogspot.com^
+||facebook-login-login.blogspot.com^
 ||facebook-login-page-kappa.vercel.app^
 ||facebook-login-page.blogspot.com^
 ||facebook-login-pages.blogspot.com^
@@ -333,13 +334,13 @@
 ||ggzh-google.com.cn^
 ||gloronyan.github.io^
 ||gls-groupptt.cfd^
+||goo.su^
 ||google-apk.com^
 ||google.js.cn^
 ||google1107.com^
 ||google1208.com^
 ||google1302.com^
 ||google1308.com^
-||google77bd.com^
 ||google88.app^
 ||google88.bet^
 ||googlebusiness.xyz^
@@ -366,12 +367,10 @@
 ||hsbctds.com^
 ||hstn.me^
 ||https-roblox.com^
-||i.g7p.paypal-support.antimoney-laundering.org^
 ||iberdrolatrade.com^
 ||icloud-asisten-official.com^
 ||icloudmex-lost.com^
 ||icloudnotify.help^
-||icloudsuport.live^
 ||icloudweb-ext860.click^
 ||ideeo.mx^
 ||ifotografix.co.uk^
@@ -392,6 +391,7 @@
 ||instagram-five-gamma.vercel.app^
 ||instagram-followers-boost.vercel.app^
 ||instagram-frontpage.vercel.app^
+||instagram-ig-com.github.io^
 ||instagram-inky.vercel.app^
 ||instagram-instagram.blogspot.com^
 ||instagram-jennifer.blogspot.com^
@@ -488,7 +488,6 @@
 ||m365-microsoft.com^
 ||m4ntapaset.ink^
 ||mail-xfinitylogin.weebly.com^
-||mantena.paypal-password.antimoney-laundering.org^
 ||marycar.com.br^
 ||mb-facebook.blogspot.com^
 ||mclarencar.ebaymclaren-austin.eventshouse.app^
@@ -505,6 +504,7 @@
 ||metamask-six.vercel.app^
 ||metamask-wallet.vercel.app^
 ||metamask-web.vercel.app^
+||metamask.godaddysites.com^
 ||metamask2-eight.vercel.app^
 ||metamaskcasino.de^
 ||metamaskchromeextensionn.blogspot.com^
@@ -530,7 +530,6 @@
 ||microsoftsupportcenter.digital^
 ||microsoftuk.co^
 ||microsoftwordob.blogspot.com^
-||min83239120.buzz^
 ||mirror-google.com^
 ||misilabario.cl^
 ||ml-facebook.blogspot.com^
@@ -566,7 +565,6 @@
 ||noreply-icloud.app^
 ||nr-23843ms2.sbs^
 ||nw-facebook.blogspot.com^
-||ofertaa848394930.cfd^
 ||office365licensingsupport.com^
 ||oneworldnetwork.com^
 ||online-facebook-privacy.blogspot.com^
@@ -583,6 +581,7 @@
 ||outlookmail.social^
 ||page-instagram.vercel.app^
 ||paykmc.com^
+||paypal-identitaets.com^
 ||paypal-logiin.blogspot.com^
 ||paypal-password.blogspot.com^
 ||paypal-signin.blogspot.com^
@@ -590,12 +589,11 @@
 ||paypalcorp.blogspot.com^
 ||pe-facebook.blogspot.com^
 ||phil-heron-zoomdrain-com-s-account.workers.dev^
+||pl-0596235.icu^
 ||pl-05970225.icu^
 ||premio-instagram.com^
 ||previewship.net^
 ||profil-facebook-saya.blogspot.com^
-||prywan3823989hh.buzz^
-||prywantm4892928.cyou^
 ||ptai.in^
 ||quantum-flares.com^
 ||r-facebook.blogspot.com^
@@ -619,6 +617,8 @@
 ||roblox.com.ml^
 ||roblox.com.mu^
 ||roblox.com.pt^
+||robloxc.com.es^
+||ror8h742.help^
 ||rricrosoft-offices.org^
 ||ruddycruzc.github.io^
 ||s-facebook.blogspot.com^
@@ -632,6 +632,7 @@
 ||saque-instagram.com^
 ||search.er.in^
 ||secure-coinbase-com-sign-in.typedream.app^
+||secure-coinbase-wallet.pages.dev^
 ||secure-dropbox.ist^
 ||securedsupport-coinbase.com^
 ||send-secure-trustwallet-usdt-bip20.vercel.app^
@@ -658,6 +659,9 @@
 ||strutsupportsystems.com^
 ||su-facebook.blogspot.com^
 ||sugar-outlook.com^
+||suport-appcloud.us^
+||suportcloud-us.info^
+||support-encontrar2yx.us^
 ||support-instagram.github.io^
 ||support-ledgerlive-eng.typedream.app^
 ||support-ledgrcom-start-web.typedream.app^
@@ -707,6 +711,7 @@
 ||web-trezor-io-start-us.vercel.app^
 ||webaccess-alert.com^
 ||webador.com^
+||webmail-service-xfinity.vercel.app^
 ||weeblysite.com^
 ||whatsapp-dp-images.in^
 ||whatsapp-fast.vercel.app^
