@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 731
-! Updated: 2026-09-30T22:16:53Z
+! Entries: 748
+! Updated: 2026-10-01T05:55:53Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -13,11 +13,15 @@
 ||286364-coinbase.com^
 ||2ccloud.com^
 ||524675-coinbase.com^
+||73a2370016b7.apiwww.paypal-updates.antimoney-laundering.org^
+||73a2370016b7.kaok4f.paypal-verification.antimoney-laundering.org^
+||73a2370016b7.us.4on.paypal-verification.antimoney-laundering.org^
 ||a1-kraken.com^
 ||a2zapk.co^
 ||a2zapk.dev^
 ||account-instagram.vercel.app^
 ||acltci.com^
+||adobeexperience.com.br^
 ||alibaba188.org^
 ||alibaba66.co^
 ||alibaba666.app^
@@ -30,7 +34,6 @@
 ||ancoradourohotel.com.br^
 ||ani-facebook.blogspot.com^
 ||annulation-amazon.com^
-||antimoney-laundering.org^
 ||apk-google.cn^
 ||app-binance.github.io^
 ||app-exodusweb.pages.dev^
@@ -47,6 +50,7 @@
 ||bankofamericamailcompte.blogspot.com^
 ||barcelona-facebook.blogspot.com^
 ||barclays-bank.vercel.app^
+||bbsyntax.paypal-updates.antimoney-laundering.org^
 ||bbva-hiring-paperless.appspot.com^
 ||bbvalues.uk^
 ||be-spotify.com^
@@ -75,6 +79,7 @@
 ||buscarmi-icloud.app^
 ||business-dropbox.me^
 ||c-binance.github.io^
+||carladelcastillo.com^
 ||carsscanned.ebaymclaren-austin.eventshouse.app^
 ||cashapp-liart.vercel.app^
 ||cashappps.com^
@@ -139,6 +144,7 @@
 ||ember-whatsapp.com^
 ||emilycaputi.github.io^
 ||emmanueldegreatltd.com^
+||empowerbydxc.com^
 ||en-ledgre.pages.dev^
 ||epsilons.co^
 ||erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org^
@@ -360,8 +366,10 @@
 ||hsbctds.com^
 ||hstn.me^
 ||https-roblox.com^
+||i.g7p.paypal-support.antimoney-laundering.org^
 ||iberdrolatrade.com^
 ||icloud-asisten-official.com^
+||icloudmex-lost.com^
 ||icloudnotify.help^
 ||icloudsuport.live^
 ||icloudweb-ext860.click^
@@ -438,6 +446,7 @@
 ||isha-dev.com^
 ||itau-com.vercel.app^
 ||itau-snowy.vercel.app^
+||itlandfz.com^
 ||jayaram0550.github.io^
 ||jj-facebook.blogspot.com^
 ||jo-facebook.blogspot.com^
@@ -479,6 +488,7 @@
 ||m365-microsoft.com^
 ||m4ntapaset.ink^
 ||mail-xfinitylogin.weebly.com^
+||mantena.paypal-password.antimoney-laundering.org^
 ||marycar.com.br^
 ||mb-facebook.blogspot.com^
 ||mclarencar.ebaymclaren-austin.eventshouse.app^
@@ -520,9 +530,11 @@
 ||microsoftsupportcenter.digital^
 ||microsoftuk.co^
 ||microsoftwordob.blogspot.com^
+||min83239120.buzz^
 ||mirror-google.com^
 ||misilabario.cl^
 ||ml-facebook.blogspot.com^
+||mm.am^
 ||mobile-google.cn^
 ||moneyandriskinventory.com^
 ||more-ledgerlive-en.typedream.app^
@@ -550,10 +562,11 @@
 ||netflixy-bixy.vercel.app^
 ||network-facebook.blogspot.com^
 ||news-revolut.com^
-||nl-spotify.com^
+||nilehost.cloud^
 ||noreply-icloud.app^
 ||nr-23843ms2.sbs^
 ||nw-facebook.blogspot.com^
+||ofertaa848394930.cfd^
 ||office365licensingsupport.com^
 ||oneworldnetwork.com^
 ||online-facebook-privacy.blogspot.com^
@@ -573,6 +586,7 @@
 ||paypal-logiin.blogspot.com^
 ||paypal-password.blogspot.com^
 ||paypal-signin.blogspot.com^
+||paypalbbillingssupporttnumber.webflow.io^
 ||paypalcorp.blogspot.com^
 ||pe-facebook.blogspot.com^
 ||phil-heron-zoomdrain-com-s-account.workers.dev^
@@ -580,6 +594,8 @@
 ||premio-instagram.com^
 ||previewship.net^
 ||profil-facebook-saya.blogspot.com^
+||prywan3823989hh.buzz^
+||prywantm4892928.cyou^
 ||ptai.in^
 ||quantum-flares.com^
 ||r-facebook.blogspot.com^
@@ -597,7 +613,6 @@
 ||roblox.com.bn^
 ||roblox.com.bo^
 ||roblox.com.bz^
-||roblox.com.do^
 ||roblox.com.ee^
 ||roblox.com.gr^
 ||roblox.com.kz^
@@ -616,6 +631,7 @@
 ||santandercitas.com^
 ||saque-instagram.com^
 ||search.er.in^
+||secure-coinbase-com-sign-in.typedream.app^
 ||secure-dropbox.ist^
 ||securedsupport-coinbase.com^
 ||send-secure-trustwallet-usdt-bip20.vercel.app^
@@ -638,6 +654,8 @@
 ||steamcommunity.blog^
 ||steamcommunity.ing^
 ||steuerquimica.cl^
+||strab.org^
+||strutsupportsystems.com^
 ||su-facebook.blogspot.com^
 ||sugar-outlook.com^
 ||support-instagram.github.io^
@@ -717,7 +735,6 @@
 ||xfinity2.vercel.app^
 ||xfinity200212.weebly.com^
 ||xfinityconnectonline.weebly.com^
-||xfinityis.weebly.com^
 ||xfinitylogin247.weebly.com^
 ||xfinityloginxfinity.weebly.com^
 ||xfinitymail01.weebly.com^
