@@ -31,11 +31,11 @@ here, to keep this repo's history small.
 
 ## Richer / live access (canonical source: phishunt.io)
 
-- **REST API** — https://phishunt.io/api/v1/domains (paginated JSON; `?contains=`, `?tier=`). Carries `score`, `verdict` and `top_signals` per row: a heuristic 0-100 risk score with the signals that drove it, not a calibrated probability.
-- **STIX 2.1 bundle** — https://phishunt.io/stix/bundle.json — one `indicator` per detection, `confidence` derived from that row's own score.
-- **MCP server (for AI agents)** — https://mcp.phishunt.io/ — 11 tools: `check_domain`, `list_brand_phishings`, `get_recent_detections`, `get_brand_metadata`, `get_cert_metadata`, `search_phishings`, `analyze_url`, `analyze_url_deep`, `get_related_infrastructure`, `get_campaigns`, `get_campaign`
-- **Browse** — by [brand](https://phishunt.io/suspicious/), [TLS certificate](https://phishunt.io/cert/), [hosting](https://phishunt.io/statistics/)
-- **Docs** — https://phishunt.io/docs/ · **AI reference** — https://phishunt.io/llms-full.txt
+- **REST API** - https://phishunt.io/api/v1/domains (paginated JSON; `?contains=`, `?tier=`). Carries `score`, `verdict` and `top_signals` per row: a heuristic 0-100 risk score with the signals that drove it, not a calibrated probability.
+- **STIX 2.1 bundle** - https://phishunt.io/stix/bundle.json - one `indicator` per detection, `confidence` derived from that row's own score.
+- **MCP server (for AI agents)** - https://mcp.phishunt.io/ - 11 tools: `check_domain`, `list_brand_phishings`, `get_recent_detections`, `get_brand_metadata`, `get_cert_metadata`, `search_phishings`, `analyze_url`, `analyze_url_deep`, `get_related_infrastructure`, `get_campaigns`, `get_campaign`
+- **Browse** - by [brand](https://phishunt.io/suspicious/), [TLS certificate](https://phishunt.io/cert/), [hosting](https://phishunt.io/statistics/)
+- **Docs** - https://phishunt.io/docs/ · **AI reference** - https://phishunt.io/llms-full.txt
 
 ## Usage examples
 
