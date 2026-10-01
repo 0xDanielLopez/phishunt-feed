@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 753
-! Updated: 2026-10-01T13:17:06Z
+! Entries: 718
+! Updated: 2026-10-01T22:41:59Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -20,12 +20,6 @@
 ||acltci.com^
 ||adobeexperience.com.br^
 ||alibaba188.org^
-||alibaba66.co^
-||alibaba666.app^
-||alibaba666.live^
-||alibaba666.one^
-||alibaba66a.net^
-||alibabarest.com^
 ||amazon-harshdeep.vercel.app^
 ||amazon-opfq.vercel.app^
 ||ancoradourohotel.com.br^
@@ -83,8 +77,6 @@
 ||cfm-whatsapps.com^
 ||ch-google.cc^
 ||chatgpt0005.eu.org^
-||chatgptpl.com^
-||checkleaked.com^
 ||citrix-sharing.com^
 ||click-facebook.blogspot.com^
 ||cn-feed-whatsapp.com.cn^
@@ -104,7 +96,6 @@
 ||comcastwebmailuser.weebly.com^
 ||contaboserver.net^
 ||contabostorage.com^
-||contentstack.com^
 ||correosccl.cc^
 ||correoscri.cc^
 ||correosiicr.cc^
@@ -120,12 +111,13 @@
 ||dhl-express-dev.firebaseapp.com^
 ||dir.com.my^
 ||dj-facebook.blogspot.com^
+||dk-oferta8329.sbs^
 ||docs-google.com^
 ||docs-trezor-app.pages.dev^
 ||documentspartage.com^
 ||docusign-server.github.io^
 ||dothome.co.kr^
-||dpd-aupostgz.cam^
+||dpd-zbozi.shop^
 ||dpdi.xyz^
 ||dpdn62.click^
 ||dpdr.live^
@@ -140,9 +132,7 @@
 ||ebaymevip.com^
 ||edgeone.dev^
 ||email-microsoft.com^
-||email-update-comcast.weebly.com^
 ||ember-whatsapp.com^
-||emilycaputi.github.io^
 ||emmanueldegreatltd.com^
 ||empowerbydxc.com^
 ||en-ledgre.pages.dev^
@@ -308,7 +298,6 @@
 ||facebookpagemanagement.com^
 ||facebookpageslinkk.blogspot.com^
 ||facebookprofilelinks.blogspot.com^
-||facebookqq.vip^
 ||facebooksecure.blogspot.com^
 ||facebooksecurityhelp.blogspot.com^
 ||facebookshops.best^
@@ -330,10 +319,8 @@
 ||free-facebook-page-likes.blogspot.com^
 ||fwh.is^
 ||gafiatechnologies.com^
-||gameofamazon.com^
 ||ggzh-google.com.cn^
 ||gloronyan.github.io^
-||gls-groupptt.cfd^
 ||goo.su^
 ||google-apk.com^
 ||google.js.cn^
@@ -341,10 +328,7 @@
 ||google1208.com^
 ||google1302.com^
 ||google1308.com^
-||google88.app^
-||google88.bet^
 ||googlebusiness.xyz^
-||googlee-playstors.vercel.app^
 ||googleepkay.com^
 ||googleepway.com^
 ||googlelogos.com^
@@ -361,7 +345,6 @@
 ||home-facebook.blogspot.com^
 ||home-ledgrreliveapp.typedream.app^
 ||hot-binance.com.cn^
-||hotmail143.net^
 ||hsbc-sec.com^
 ||hsbccpersonalonlinebanking.com^
 ||hsbctds.com^
@@ -479,7 +462,6 @@
 ||login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org^
 ||loginfacebook-facebook.blogspot.com^
 ||logowanie-facebook.vercel.app^
-||lokalne.sbs^
 ||love-facebook.blogspot.com^
 ||lovefive-facebook.blogspot.com^
 ||lovevivah.com^
@@ -535,7 +517,6 @@
 ||ml-facebook.blogspot.com^
 ||mm.am^
 ||mobile-google.cn^
-||moneyandriskinventory.com^
 ||more-ledgerlive-en.typedream.app^
 ||movistar-recaudo-epayc.com^
 ||munimventures.com^
@@ -561,9 +542,7 @@
 ||netflixy-bixy.vercel.app^
 ||network-facebook.blogspot.com^
 ||news-revolut.com^
-||nilehost.cloud^
 ||noreply-icloud.app^
-||nr-23843ms2.sbs^
 ||nw-facebook.blogspot.com^
 ||office365licensingsupport.com^
 ||oneworldnetwork.com^
@@ -585,7 +564,6 @@
 ||paypal-logiin.blogspot.com^
 ||paypal-password.blogspot.com^
 ||paypal-signin.blogspot.com^
-||paypalbbillingssupporttnumber.webflow.io^
 ||paypalcorp.blogspot.com^
 ||pe-facebook.blogspot.com^
 ||phil-heron-zoomdrain-com-s-account.workers.dev^
@@ -603,7 +581,6 @@
 ||recreate-instagrampage.vercel.app^
 ||redirecthelp.com^
 ||register-facebook.blogspot.com^
-||rekemonedasi-facebook.org^
 ||renfe-sncf.com^
 ||rev.it^
 ||roblox-login.vercel.app^
@@ -614,11 +591,9 @@
 ||roblox.com.ee^
 ||roblox.com.gr^
 ||roblox.com.kz^
-||roblox.com.ml^
 ||roblox.com.mu^
 ||roblox.com.pt^
 ||robloxc.com.es^
-||ror8h742.help^
 ||rricrosoft-offices.org^
 ||ruddycruzc.github.io^
 ||s-facebook.blogspot.com^
@@ -643,7 +618,6 @@
 ||sk-facebook.blogspot.com^
 ||smallflyingarts.net^
 ||smtp6-coinbase.com^
-||source.zoom.us.tedx.dpdns.org^
 ||spotify-client-beta.vercel.app^
 ||spotify-payment.click^
 ||spotify-plus.com^
@@ -682,7 +656,6 @@
 ||trezorguide.vercel.app^
 ||trezoriostart-web.square.site^
 ||trezorrgoappup.gitbook.io^
-||trust-wallet-bnb.vercel.app^
 ||trust-wallet-contact.vercel.app^
 ||trust-wallet-customer-support-number.github.io^
 ||trust-wallet-liart.vercel.app^
@@ -691,8 +664,6 @@
 ||trustwallet-secure-check.vercel.app^
 ||trustwallet-tokentwtowner.vercel.app^
 ||trustwalletcard.me^
-||trustwalletreport.vercel.app^
-||twitterfav.com^
 ||updata.net.cn^
 ||usdt-trustwallet-blockchain.vercel.app^
 ||uspsaunitedworkforce.com^
@@ -702,7 +673,6 @@
 ||vi-facebook.blogspot.com^
 ||viewclass.com^
 ||vodafone-on-line.it^
-||vodafoneelevation.de^
 ||vpn-update.org^
 ||vpnuse.eu.org^
 ||vwwv-icloud.com^
@@ -717,7 +687,9 @@
 ||whatsapp-fast.vercel.app^
 ||whatsapp-iamsuyash.vercel.app^
 ||whatsapp-indonesia877.blogspot.com^
+||whatsapp-sex-girl.pages.dev^
 ||whatsapp-verify.blogspot.com^
+||whatsapp-wsweb.com^
 ||whatsapp11-cnj.pages.dev^
 ||whatsapp7g.blogspot.com^
 ||whatsappapk.org^
@@ -731,26 +703,19 @@
 ||www-google.cn^
 ||www-hk-google.com^
 ||wwww-linkedin.be^
-||xfinity-mail-id.weebly.com^
 ||xfinity-updateform.square.site^
 ||xfinity-updateform.weebly.com^
-||xfinity097.weebly.com^
 ||xfinity101.duckdns.org^
-||xfinity119.weebly.com^
 ||xfinity2.vercel.app^
 ||xfinity200212.weebly.com^
 ||xfinityconnectonline.weebly.com^
-||xfinitylogin247.weebly.com^
-||xfinityloginxfinity.weebly.com^
 ||xfinitymail01.weebly.com^
 ||xfinitymail087.weebly.com^
-||xfinitymaillog.weebly.com^
 ||xfinityservicekey.weebly.com^
 ||xfinityservices.vercel.app^
 ||xfinitysupportnow.weebly.com^
 ||xfinityteamslogin.weebly.com^
 ||xfinityuserverification.weebly.com^
-||xfinitywebmail25.weebly.com^
 ||yonataxi.at^
 ||yzz.me^
 ||z-facebook.blogspot.com^
