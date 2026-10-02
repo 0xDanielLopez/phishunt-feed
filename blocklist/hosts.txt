@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 724
-# Updated: 2026-10-02T05:38:36Z
+# Entries: 719
+# Updated: 2026-10-02T12:36:37Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -32,7 +32,6 @@
 0.0.0.0 app-facebook.blogspot.com
 0.0.0.0 app81-facebook.blogspot.com
 0.0.0.0 apple-icloud.azurewebsites.net
-0.0.0.0 apple-verify.us
 0.0.0.0 assign-icloud.com
 0.0.0.0 asso-entrautres.fr
 0.0.0.0 auth.properties
@@ -72,6 +71,7 @@
 0.0.0.0 buscarmi-icloud.app
 0.0.0.0 business-dropbox.me
 0.0.0.0 c-binance.github.io
+0.0.0.0 careers-openai.com
 0.0.0.0 carladelcastillo.com
 0.0.0.0 carsscanned.ebaymclaren-austin.eventshouse.app
 0.0.0.0 cashapp-liart.vercel.app
@@ -114,13 +114,11 @@
 0.0.0.0 dhl-express-dev.firebaseapp.com
 0.0.0.0 dir.com.my
 0.0.0.0 dj-facebook.blogspot.com
-0.0.0.0 dk-oferta8329.sbs
 0.0.0.0 docs-google.com
 0.0.0.0 docs-trezor-app.pages.dev
 0.0.0.0 documentspartage.com
 0.0.0.0 docusign-server.github.io
 0.0.0.0 dothome.co.kr
-0.0.0.0 dpd-zbozi.shop
 0.0.0.0 dpdi.xyz
 0.0.0.0 dpdn62.click
 0.0.0.0 dpdr.live
@@ -614,7 +612,6 @@
 0.0.0.0 saque-instagram.com
 0.0.0.0 search.er.in
 0.0.0.0 secure-coinbase-com-sign-in.typedream.app
-0.0.0.0 secure-coinbase-wallet.pages.dev
 0.0.0.0 secure-dropbox.ist
 0.0.0.0 securedsupport-coinbase.com
 0.0.0.0 send-secure-trustwallet-usdt-bip20.vercel.app
@@ -681,7 +678,6 @@
 0.0.0.0 vodafone-on-line.it
 0.0.0.0 vpn-update.org
 0.0.0.0 vpnuse.eu.org
-0.0.0.0 vwwv-icloud.com
 0.0.0.0 wave-whatsapp.com
 0.0.0.0 web-conect-us-ledger-live-wallet.typedream.app
 0.0.0.0 web-trezor-io-start-us.vercel.app
@@ -694,7 +690,6 @@
 0.0.0.0 whatsapp-iamsuyash.vercel.app
 0.0.0.0 whatsapp-indonesia877.blogspot.com
 0.0.0.0 whatsapp-verify.blogspot.com
-0.0.0.0 whatsapp-wsweb.com
 0.0.0.0 whatsapp11-cnj.pages.dev
 0.0.0.0 whatsapp7g.blogspot.com
 0.0.0.0 whatsappapk.org

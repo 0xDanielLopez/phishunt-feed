@@ -1,26 +1,33 @@
 {
  "date": "2026-10-02",
- "updated": "2026-10-02T05:38:36Z",
+ "updated": "2026-10-02T12:36:38Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
   "added": 10,
-  "removed": 2
+  "removed": 9
  },
  "added": [
+  "http://careers-openai.com",
   "http://comcast-2.vercel.app",
   "http://luxfab.luxe/Adobe_Installer.html",
-  "https://73a2370016b7.utoy.paypal-support.antimoney-laundering.org",
   "https://binance-og.com",
   "https://binance-web.com",
   "https://drive-icloud.com",
   "https://ledger-lives-download.io/?verified=1",
   "https://logindev1.stage.paypal.antimoney-laundering.org",
-  "https://roblox.com.do/users/295536197953/profile",
+  "https://roblox.com.do/games/920587237/Adopt-Me?privateServerLinkCode=846845820312983662072389535061",
   "https://whatsappz.web.id"
  ],
  "removed": [
+  "http://allegrolokalnie.dk-oferta8329.sbs",
+  "http://apple-verify.us/fGK",
+  "http://vwwv-icloud.com/?i=smc",
+  "https://73a2370016b7.kaok4f.paypal-verification.antimoney-laundering.org",
+  "https://dpd-zbozi.shop",
+  "https://secure-coinbase-wallet.pages.dev/login",
   "https://trust-wallet-liart.vercel.app",
-  "https://whatsapp-sex-girl.pages.dev"
+  "https://whatsapp-sex-girl.pages.dev",
+  "https://whatsapp-wsweb.com"
  ]
 }

@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 724
-# Updated: 2026-10-02T05:38:35Z
+# Entries: 719
+# Updated: 2026-10-02T12:36:36Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -32,7 +32,6 @@ app-exodusweb.pages.dev
 app-facebook.blogspot.com
 app81-facebook.blogspot.com
 apple-icloud.azurewebsites.net
-apple-verify.us
 assign-icloud.com
 asso-entrautres.fr
 auth.properties
@@ -72,6 +71,7 @@ bradescosegurosop.com.br
 buscarmi-icloud.app
 business-dropbox.me
 c-binance.github.io
+careers-openai.com
 carladelcastillo.com
 carsscanned.ebaymclaren-austin.eventshouse.app
 cashapp-liart.vercel.app
@@ -114,13 +114,11 @@ desktop-ledgrecdn.wixstudio.com
 dhl-express-dev.firebaseapp.com
 dir.com.my
 dj-facebook.blogspot.com
-dk-oferta8329.sbs
 docs-google.com
 docs-trezor-app.pages.dev
 documentspartage.com
 docusign-server.github.io
 dothome.co.kr
-dpd-zbozi.shop
 dpdi.xyz
 dpdn62.click
 dpdr.live
@@ -614,7 +612,6 @@ santandercitas.com
 saque-instagram.com
 search.er.in
 secure-coinbase-com-sign-in.typedream.app
-secure-coinbase-wallet.pages.dev
 secure-dropbox.ist
 securedsupport-coinbase.com
 send-secure-trustwallet-usdt-bip20.vercel.app
@@ -681,7 +678,6 @@ viewclass.com
 vodafone-on-line.it
 vpn-update.org
 vpnuse.eu.org
-vwwv-icloud.com
 wave-whatsapp.com
 web-conect-us-ledger-live-wallet.typedream.app
 web-trezor-io-start-us.vercel.app
@@ -694,7 +690,6 @@ whatsapp-fast.vercel.app
 whatsapp-iamsuyash.vercel.app
 whatsapp-indonesia877.blogspot.com
 whatsapp-verify.blogspot.com
-whatsapp-wsweb.com
 whatsapp11-cnj.pages.dev
 whatsapp7g.blogspot.com
 whatsappapk.org
