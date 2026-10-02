@@ -1,18 +1,22 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 719
-# Updated: 2026-10-02T12:36:36Z
+# Entries: 732
+# Updated: 2026-10-02T22:15:06Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
 123-facebook.blogspot.com
+1290hh59.help
 190842-coinbase.com
 2017-facebook.blogspot.com
 283674-coinbase.com
 286364-coinbase.com
 2ccloud.com
+3298128999h.beer
 524675-coinbase.com
+9291201ss.mom
+99983200.beer
 a1-kraken.com
 a2zapk.co
 a2zapk.dev
@@ -79,8 +83,8 @@ cashappps.com
 cfm-whatsapps.com
 ch-google.cc
 chatgpt0005.eu.org
-citrix-sharing.com
 click-facebook.blogspot.com
+cloud-ld-soporte.com
 cn-feed-whatsapp.com.cn
 coinbase-event.vercel.app
 coinbase.com.lc
@@ -151,11 +155,11 @@ faceb00klogin.blogspot.com
 faceb0k-facebook.blogspot.com
 facebok-facebook.blogspot.com
 facebook--br.blogspot.com
-facebook-0-facebook.blogspot.com
 facebook-2-0-dun.vercel.app
 facebook-2022.blogspot.com
 facebook-22.blogspot.com
 facebook-247-support.blogspot.com
+facebook-4.blogspot.com
 facebook-5645464.blogspot.com
 facebook-7.blogspot.com
 facebook-9.blogspot.com
@@ -321,10 +325,13 @@ foryour.review
 free-facebook-page-likes.blogspot.com
 fwh.is
 gafiatechnologies.com
+genaitech.dev
 ggzh-google.com.cn
+globalbroadband.org
 gloronyan.github.io
 goo.su
 google-apk.com
+google.jl.cn
 google.js.cn
 google1107.com
 google1208.com
@@ -346,6 +353,7 @@ hofmemorabilia.ebaymclaren-austin.eventshouse.app
 holdings-coinbase.com
 home-facebook.blogspot.com
 home-ledgrreliveapp.typedream.app
+hosweb.online
 hot-binance.com.cn
 hsbc-sec.com
 hsbccpersonalonlinebanking.com
@@ -370,6 +378,7 @@ instagram-cam.vercel.app
 instagram-change-password.blogspot.com
 instagram-chi-ten.vercel.app
 instagram-chi.vercel.app
+instagram-com-ig.github.io
 instagram-copy.vercel.app
 instagram-cyber.github.io
 instagram-fe.vercel.app
@@ -449,7 +458,7 @@ ledger-live-application.com
 ledger-live-download-sso-conect.typedream.app
 ledger-live-login-web.square.site
 ledger-live-wallet-start-conect-us-en.typedream.app
-ledger-lives-download.io
+ledgerlive-ledgers.us
 ledgerwalletrepair.com
 ledgrelivapp--crome.typedream.app
 leia-santander.vercel.app
@@ -492,7 +501,6 @@ metamask-wallet.vercel.app
 metamask-web.vercel.app
 metamask.godaddysites.com
 metamask2-eight.vercel.app
-metamaskcasino.de
 metamaskchromeextensionn.blogspot.com
 metamaskeeogin.gitbook.io
 metamaskextensionnn.gitbook.io
@@ -529,6 +537,7 @@ mytemp.website
 nbpublic.com
 neda-facebook.blogspot.com
 netflix-71f05.firebaseapp.com
+netflix-billing-update.com
 netflix-homepage-pi.vercel.app
 netflix-lake.vercel.app
 netflix-login.blogspot.com
@@ -548,6 +557,7 @@ network-facebook.blogspot.com
 news-revolut.com
 noreply-icloud.app
 nw-facebook.blogspot.com
+oferty24.sbs
 office365licensingsupport.com
 oneworldnetwork.com
 online-facebook-privacy.blogspot.com
@@ -564,23 +574,25 @@ outlookindia.com
 outlookmail.social
 page-instagram.vercel.app
 paykmc.com
-paypal-identitaets.com
 paypal-logiin.blogspot.com
 paypal-password.blogspot.com
 paypal-signin.blogspot.com
 paypalcorp.blogspot.com
 pe-facebook.blogspot.com
 phil-heron-zoomdrain-com-s-account.workers.dev
+piedrasdecolon.com.ar
 pl-0596235.icu
 pl-05970225.icu
 premio-instagram.com
 previewship.net
 profil-facebook-saya.blogspot.com
+pry38182ogu.lat
 ptai.in
 quantum-flares.com
 r-facebook.blogspot.com
 rama-facebook.blogspot.com
 reactivar-microsoft-live.iceiy.com
+real-facebook.blogspot.com
 receiptslinkedin.com
 recreate-instagrampage.vercel.app
 redirecthelp.com
@@ -592,7 +604,6 @@ roblox.com.bi
 roblox.com.bn
 roblox.com.bo
 roblox.com.bz
-roblox.com.do
 roblox.com.ee
 roblox.com.gr
 roblox.com.kz
@@ -625,8 +636,11 @@ smtp6-coinbase.com
 spotify-client-beta.vercel.app
 spotify-payment.click
 spotify-plus.com
+spotifymode.org
+spotifypremiumapk.pk
 srpska-banka.com
 sso-ledger-live-strt-ledger-support-cdn.typedream.app
+start-faq-en-trezr--public.typedream.app
 start-ledgerlive-com-web.typedream.app
 start-ledgren.zapier.app
 start-web-en-ledger-live-login.typedream.app
@@ -639,7 +653,6 @@ su-facebook.blogspot.com
 sugar-outlook.com
 suport-appcloud.us
 suportcloud-us.info
-support-encontrar2yx.us
 support-instagram.github.io
 support-ledgerlive-eng.typedream.app
 support-ledgrcom-start-web.typedream.app
@@ -676,7 +689,6 @@ verifytoken.com
 vi-facebook.blogspot.com
 viewclass.com
 vodafone-on-line.it
-vpn-update.org
 vpnuse.eu.org
 wave-whatsapp.com
 web-conect-us-ledger-live-wallet.typedream.app
@@ -712,6 +724,7 @@ xfinity200212.weebly.com
 xfinityconnectonline.weebly.com
 xfinitymail01.weebly.com
 xfinitymail087.weebly.com
+xfinityon.com
 xfinityservicekey.weebly.com
 xfinityservices.vercel.app
 xfinitysupportnow.weebly.com
