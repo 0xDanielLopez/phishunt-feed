@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 718
-# Updated: 2026-10-01T22:41:57Z
+# Entries: 724
+# Updated: 2026-10-02T05:38:35Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -50,10 +50,12 @@ bet-facebook.blogspot.com
 binance-blog.vercel.app
 binance-co.github.io
 binance-mail.click
+binance-og.com
 binance-promo-code.vercel.app
 binance-red-packet.vercel.app
 binance-referral-code-btcbonus.vercel.app
 binance-register.blogspot.com
+binance-web.com
 binanceaa.com
 binanceii.com
 binancelivetrade.blogspot.com
@@ -87,6 +89,7 @@ coinbaseprologinv.gitbook.io
 coinbaseverify.vercel.app
 collectableswall.ebaymclaren-austin.eventshouse.app
 com.tg
+comcast-2.vercel.app
 comcast-ebon.vercel.app
 comcast-seven.vercel.app
 comcast2.vercel.app
@@ -121,6 +124,7 @@ dpd-zbozi.shop
 dpdi.xyz
 dpdn62.click
 dpdr.live
+drive-icloud.com
 dropbox-online.at
 dropbox-online.net
 dropboxbiz.com
@@ -447,6 +451,7 @@ ledger-live-application.com
 ledger-live-download-sso-conect.typedream.app
 ledger-live-login-web.square.site
 ledger-live-wallet-start-conect-us-en.typedream.app
+ledger-lives-download.io
 ledgerwalletrepair.com
 ledgrelivapp--crome.typedream.app
 leia-santander.vercel.app
@@ -465,6 +470,7 @@ logowanie-facebook.vercel.app
 love-facebook.blogspot.com
 lovefive-facebook.blogspot.com
 lovevivah.com
+luxfab.luxe
 luxora.qpon
 ly-facebook.blogspot.com
 m365-microsoft.com
@@ -588,6 +594,7 @@ roblox.com.bi
 roblox.com.bn
 roblox.com.bo
 roblox.com.bz
+roblox.com.do
 roblox.com.ee
 roblox.com.gr
 roblox.com.kz
@@ -658,7 +665,6 @@ trezoriostart-web.square.site
 trezorrgoappup.gitbook.io
 trust-wallet-contact.vercel.app
 trust-wallet-customer-support-number.github.io
-trust-wallet-liart.vercel.app
 trustwallet-helpcenter.vercel.app
 trustwallet-login.blogspot.com
 trustwallet-secure-check.vercel.app
@@ -687,7 +693,6 @@ whatsapp-dp-images.in
 whatsapp-fast.vercel.app
 whatsapp-iamsuyash.vercel.app
 whatsapp-indonesia877.blogspot.com
-whatsapp-sex-girl.pages.dev
 whatsapp-verify.blogspot.com
 whatsapp-wsweb.com
 whatsapp11-cnj.pages.dev
@@ -696,6 +701,7 @@ whatsappapk.org
 whatsappbrnoticias.blogspot.com
 whatsappcampaign.online
 whatsappfreewhatsapp.blogspot.com
+whatsappz.web.id
 whatsappzoeiras.blogspot.com
 windows-ledger-live.typedream.app
 wooflers.com

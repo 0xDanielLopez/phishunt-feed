@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 718
-# Updated: 2026-10-01T22:41:58Z
+# Entries: 724
+# Updated: 2026-10-02T05:38:36Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -50,10 +50,12 @@
 0.0.0.0 binance-blog.vercel.app
 0.0.0.0 binance-co.github.io
 0.0.0.0 binance-mail.click
+0.0.0.0 binance-og.com
 0.0.0.0 binance-promo-code.vercel.app
 0.0.0.0 binance-red-packet.vercel.app
 0.0.0.0 binance-referral-code-btcbonus.vercel.app
 0.0.0.0 binance-register.blogspot.com
+0.0.0.0 binance-web.com
 0.0.0.0 binanceaa.com
 0.0.0.0 binanceii.com
 0.0.0.0 binancelivetrade.blogspot.com
@@ -87,6 +89,7 @@
 0.0.0.0 coinbaseverify.vercel.app
 0.0.0.0 collectableswall.ebaymclaren-austin.eventshouse.app
 0.0.0.0 com.tg
+0.0.0.0 comcast-2.vercel.app
 0.0.0.0 comcast-ebon.vercel.app
 0.0.0.0 comcast-seven.vercel.app
 0.0.0.0 comcast2.vercel.app
@@ -121,6 +124,7 @@
 0.0.0.0 dpdi.xyz
 0.0.0.0 dpdn62.click
 0.0.0.0 dpdr.live
+0.0.0.0 drive-icloud.com
 0.0.0.0 dropbox-online.at
 0.0.0.0 dropbox-online.net
 0.0.0.0 dropboxbiz.com
@@ -447,6 +451,7 @@
 0.0.0.0 ledger-live-download-sso-conect.typedream.app
 0.0.0.0 ledger-live-login-web.square.site
 0.0.0.0 ledger-live-wallet-start-conect-us-en.typedream.app
+0.0.0.0 ledger-lives-download.io
 0.0.0.0 ledgerwalletrepair.com
 0.0.0.0 ledgrelivapp--crome.typedream.app
 0.0.0.0 leia-santander.vercel.app
@@ -465,6 +470,7 @@
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lovevivah.com
+0.0.0.0 luxfab.luxe
 0.0.0.0 luxora.qpon
 0.0.0.0 ly-facebook.blogspot.com
 0.0.0.0 m365-microsoft.com
@@ -588,6 +594,7 @@
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bo
 0.0.0.0 roblox.com.bz
+0.0.0.0 roblox.com.do
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.kz
@@ -658,7 +665,6 @@
 0.0.0.0 trezorrgoappup.gitbook.io
 0.0.0.0 trust-wallet-contact.vercel.app
 0.0.0.0 trust-wallet-customer-support-number.github.io
-0.0.0.0 trust-wallet-liart.vercel.app
 0.0.0.0 trustwallet-helpcenter.vercel.app
 0.0.0.0 trustwallet-login.blogspot.com
 0.0.0.0 trustwallet-secure-check.vercel.app
@@ -687,7 +693,6 @@
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-iamsuyash.vercel.app
 0.0.0.0 whatsapp-indonesia877.blogspot.com
-0.0.0.0 whatsapp-sex-girl.pages.dev
 0.0.0.0 whatsapp-verify.blogspot.com
 0.0.0.0 whatsapp-wsweb.com
 0.0.0.0 whatsapp11-cnj.pages.dev
@@ -696,6 +701,7 @@
 0.0.0.0 whatsappbrnoticias.blogspot.com
 0.0.0.0 whatsappcampaign.online
 0.0.0.0 whatsappfreewhatsapp.blogspot.com
+0.0.0.0 whatsappz.web.id
 0.0.0.0 whatsappzoeiras.blogspot.com
 0.0.0.0 windows-ledger-live.typedream.app
 0.0.0.0 wooflers.com
