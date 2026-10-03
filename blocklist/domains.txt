@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 737
-# Updated: 2026-10-03T05:19:53Z
+# Entries: 736
+# Updated: 2026-10-03T11:42:06Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -26,6 +26,7 @@ a2zapk.dev
 account-instagram.vercel.app
 acltci.com
 adobeexperience.com.br
+agenciadlx.com.br
 alibaba188.org
 amazon-harshdeep.vercel.app
 amazon-opfq.vercel.app
@@ -502,7 +503,6 @@ metamask-login.vercel.app
 metamask-six.vercel.app
 metamask-wallet.vercel.app
 metamask-web.vercel.app
-metamask.godaddysites.com
 metamask2-eight.vercel.app
 metamaskcdn-navapp.framer.website
 metamaskchromeextensionn.blogspot.com
@@ -601,7 +601,6 @@ register-facebook.blogspot.com
 renfe-sncf.com
 rev.it
 roblox-login.vercel.app
-roblox.com.am
 roblox.com.bi
 roblox.com.bn
 roblox.com.bo
@@ -609,7 +608,6 @@ roblox.com.bz
 roblox.com.ee
 roblox.com.gr
 roblox.com.kz
-roblox.com.ml
 roblox.com.mu
 roblox.com.pt
 robloxc.com.es
@@ -696,6 +694,7 @@ viewclass.com
 vodafone-on-line.it
 vpnuse.eu.org
 wave-whatsapp.com
+waycobeauty.com
 web-conect-us-ledger-live-wallet.typedream.app
 web-trezor-io-start-us.vercel.app
 webaccess-alert.com

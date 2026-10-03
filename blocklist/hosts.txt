@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 737
-# Updated: 2026-10-03T05:19:54Z
+# Entries: 736
+# Updated: 2026-10-03T11:42:07Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -26,6 +26,7 @@
 0.0.0.0 account-instagram.vercel.app
 0.0.0.0 acltci.com
 0.0.0.0 adobeexperience.com.br
+0.0.0.0 agenciadlx.com.br
 0.0.0.0 alibaba188.org
 0.0.0.0 amazon-harshdeep.vercel.app
 0.0.0.0 amazon-opfq.vercel.app
@@ -502,7 +503,6 @@
 0.0.0.0 metamask-six.vercel.app
 0.0.0.0 metamask-wallet.vercel.app
 0.0.0.0 metamask-web.vercel.app
-0.0.0.0 metamask.godaddysites.com
 0.0.0.0 metamask2-eight.vercel.app
 0.0.0.0 metamaskcdn-navapp.framer.website
 0.0.0.0 metamaskchromeextensionn.blogspot.com
@@ -601,7 +601,6 @@
 0.0.0.0 renfe-sncf.com
 0.0.0.0 rev.it
 0.0.0.0 roblox-login.vercel.app
-0.0.0.0 roblox.com.am
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bo
@@ -609,7 +608,6 @@
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.kz
-0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 robloxc.com.es
@@ -696,6 +694,7 @@
 0.0.0.0 vodafone-on-line.it
 0.0.0.0 vpnuse.eu.org
 0.0.0.0 wave-whatsapp.com
+0.0.0.0 waycobeauty.com
 0.0.0.0 web-conect-us-ledger-live-wallet.typedream.app
 0.0.0.0 web-trezor-io-start-us.vercel.app
 0.0.0.0 webaccess-alert.com
