@@ -1,30 +1,25 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 736
-# Updated: 2026-10-03T11:42:07Z
+# Entries: 735
+# Updated: 2026-10-03T16:18:30Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
 0.0.0.0 123-facebook.blogspot.com
-0.0.0.0 12309h54.courses
-0.0.0.0 1290hh59.help
-0.0.0.0 1293891289hh.beer
-0.0.0.0 132-0129y58h.beer
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
 0.0.0.0 2ccloud.com
-0.0.0.0 3298128999h.beer
 0.0.0.0 524675-coinbase.com
 0.0.0.0 9232995-coinbase.com
-0.0.0.0 99983200.beer
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
 0.0.0.0 account-instagram.vercel.app
 0.0.0.0 acltci.com
+0.0.0.0 adityagarad556-pixel.github.io
 0.0.0.0 adobeexperience.com.br
 0.0.0.0 agenciadlx.com.br
 0.0.0.0 alibaba188.org
@@ -104,7 +99,6 @@
 0.0.0.0 comcastseettings.weebly.com
 0.0.0.0 comcastwebmailuser.weebly.com
 0.0.0.0 contaboserver.net
-0.0.0.0 contabostorage.com
 0.0.0.0 correosccl.cc
 0.0.0.0 correoscri.cc
 0.0.0.0 correosiicr.cc
@@ -382,6 +376,7 @@
 0.0.0.0 instagram-change-password.blogspot.com
 0.0.0.0 instagram-chi-ten.vercel.app
 0.0.0.0 instagram-chi.vercel.app
+0.0.0.0 instagram-com-ig.github.io
 0.0.0.0 instagram-copy.vercel.app
 0.0.0.0 instagram-cyber.github.io
 0.0.0.0 instagram-fe.vercel.app
@@ -627,6 +622,7 @@
 0.0.0.0 secure-dropbox.ist
 0.0.0.0 securedsupport-coinbase.com
 0.0.0.0 security-cloud-check.com
+0.0.0.0 sena-facebook.blogspot.com
 0.0.0.0 send-secure-trustwallet-usdt-bip20.vercel.app
 0.0.0.0 services-facebook.blogspot.com
 0.0.0.0 seureonline.shop
@@ -643,6 +639,7 @@
 0.0.0.0 squarespace.com
 0.0.0.0 srpska-banka.com
 0.0.0.0 sso-ledger-live-strt-ledger-support-cdn.typedream.app
+0.0.0.0 stardustottawa.com
 0.0.0.0 start-faq-en-trezr--public.typedream.app
 0.0.0.0 start-ledgerlive-com-web.typedream.app
 0.0.0.0 start-ledgren.zapier.app
@@ -661,6 +658,7 @@
 0.0.0.0 support-ledgrcom-start-web.typedream.app
 0.0.0.0 support-netflix-signup.info
 0.0.0.0 synel99.github.io
+0.0.0.0 tamil.bid
 0.0.0.0 tara-facebook.blogspot.com
 0.0.0.0 taslimaenterprise.com
 0.0.0.0 tb-facebook.blogspot.com
@@ -720,6 +718,7 @@
 0.0.0.0 www-google.cn
 0.0.0.0 www-hk-google.com
 0.0.0.0 wwww-linkedin.be
+0.0.0.0 x940b8a.lat
 0.0.0.0 xfinity-updateform.square.site
 0.0.0.0 xfinity-updateform.weebly.com
 0.0.0.0 xfinity101.duckdns.org

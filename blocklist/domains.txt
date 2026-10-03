@@ -1,30 +1,25 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 736
-# Updated: 2026-10-03T11:42:06Z
+# Entries: 735
+# Updated: 2026-10-03T16:18:29Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
 123-facebook.blogspot.com
-12309h54.courses
-1290hh59.help
-1293891289hh.beer
-132-0129y58h.beer
 190842-coinbase.com
 2017-facebook.blogspot.com
 283674-coinbase.com
 286364-coinbase.com
 2ccloud.com
-3298128999h.beer
 524675-coinbase.com
 9232995-coinbase.com
-99983200.beer
 a1-kraken.com
 a2zapk.co
 a2zapk.dev
 account-instagram.vercel.app
 acltci.com
+adityagarad556-pixel.github.io
 adobeexperience.com.br
 agenciadlx.com.br
 alibaba188.org
@@ -104,7 +99,6 @@ comcastinfoupdatesnow.weebly.com
 comcastseettings.weebly.com
 comcastwebmailuser.weebly.com
 contaboserver.net
-contabostorage.com
 correosccl.cc
 correoscri.cc
 correosiicr.cc
@@ -382,6 +376,7 @@ instagram-cam.vercel.app
 instagram-change-password.blogspot.com
 instagram-chi-ten.vercel.app
 instagram-chi.vercel.app
+instagram-com-ig.github.io
 instagram-copy.vercel.app
 instagram-cyber.github.io
 instagram-fe.vercel.app
@@ -627,6 +622,7 @@ secure-coinbase-com-sign-in.typedream.app
 secure-dropbox.ist
 securedsupport-coinbase.com
 security-cloud-check.com
+sena-facebook.blogspot.com
 send-secure-trustwallet-usdt-bip20.vercel.app
 services-facebook.blogspot.com
 seureonline.shop
@@ -643,6 +639,7 @@ spotifypremiumapk.pk
 squarespace.com
 srpska-banka.com
 sso-ledger-live-strt-ledger-support-cdn.typedream.app
+stardustottawa.com
 start-faq-en-trezr--public.typedream.app
 start-ledgerlive-com-web.typedream.app
 start-ledgren.zapier.app
@@ -661,6 +658,7 @@ support-ledgerlive-eng.typedream.app
 support-ledgrcom-start-web.typedream.app
 support-netflix-signup.info
 synel99.github.io
+tamil.bid
 tara-facebook.blogspot.com
 taslimaenterprise.com
 tb-facebook.blogspot.com
@@ -720,6 +718,7 @@ www-app-google.com
 www-google.cn
 www-hk-google.com
 wwww-linkedin.be
+x940b8a.lat
 xfinity-updateform.square.site
 xfinity-updateform.weebly.com
 xfinity101.duckdns.org
