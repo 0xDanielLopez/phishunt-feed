@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 735
-# Updated: 2026-10-03T16:18:30Z
+# Entries: 743
+# Updated: 2026-10-03T21:16:32Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -11,6 +11,7 @@
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
+0.0.0.0 291934128h9.beer
 0.0.0.0 2ccloud.com
 0.0.0.0 524675-coinbase.com
 0.0.0.0 9232995-coinbase.com
@@ -126,6 +127,7 @@
 0.0.0.0 dropbox-online.at
 0.0.0.0 dropbox-online.net
 0.0.0.0 dropboxbiz.com
+0.0.0.0 e-kup24.sbs
 0.0.0.0 ebay-c.com
 0.0.0.0 ebay-phone-number.blogspot.com
 0.0.0.0 ebay-seller-center-managedpayments.vercel.app
@@ -556,6 +558,7 @@
 0.0.0.0 news-revolut.com
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
+0.0.0.0 ofe90392.pics
 0.0.0.0 oferty24.sbs
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 oneworldnetwork.com
@@ -579,6 +582,7 @@
 0.0.0.0 paypalcorp.blogspot.com
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 phil-heron-zoomdrain-com-s-account.workers.dev
+0.0.0.0 pi-ofeta201737.shop
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 premio-instagram.com
 0.0.0.0 previewship.net
@@ -595,6 +599,7 @@
 0.0.0.0 register-facebook.blogspot.com
 0.0.0.0 renfe-sncf.com
 0.0.0.0 rev.it
+0.0.0.0 ro328h89.skin
 0.0.0.0 roblox-login.vercel.app
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
@@ -630,6 +635,7 @@
 0.0.0.0 sign-in-to-xfinity-updatee.weebly.com
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 smallflyingarts.net
+0.0.0.0 smtp5-coinbase.com
 0.0.0.0 smtp6-coinbase.com
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotify-payment.click
@@ -703,6 +709,7 @@
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-iamsuyash.vercel.app
 0.0.0.0 whatsapp-indonesia877.blogspot.com
+0.0.0.0 whatsapp-kingonlinebook-games.pages.dev
 0.0.0.0 whatsapp-verify.blogspot.com
 0.0.0.0 whatsapp11-cnj.pages.dev
 0.0.0.0 whatsapp7g.blogspot.com
@@ -710,6 +717,7 @@
 0.0.0.0 whatsappbrnoticias.blogspot.com
 0.0.0.0 whatsappcampaign.online
 0.0.0.0 whatsappfreewhatsapp.blogspot.com
+0.0.0.0 whatsappweb-ok.com
 0.0.0.0 whatsappz.web.id
 0.0.0.0 whatsappzoeiras.blogspot.com
 0.0.0.0 windows-ledger-live.typedream.app

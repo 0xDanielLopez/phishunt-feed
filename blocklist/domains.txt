@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 735
-# Updated: 2026-10-03T16:18:29Z
+# Entries: 743
+# Updated: 2026-10-03T21:16:31Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -11,6 +11,7 @@
 2017-facebook.blogspot.com
 283674-coinbase.com
 286364-coinbase.com
+291934128h9.beer
 2ccloud.com
 524675-coinbase.com
 9232995-coinbase.com
@@ -126,6 +127,7 @@ drive-icloud.com
 dropbox-online.at
 dropbox-online.net
 dropboxbiz.com
+e-kup24.sbs
 ebay-c.com
 ebay-phone-number.blogspot.com
 ebay-seller-center-managedpayments.vercel.app
@@ -556,6 +558,7 @@ network-facebook.blogspot.com
 news-revolut.com
 noreply-icloud.app
 nw-facebook.blogspot.com
+ofe90392.pics
 oferty24.sbs
 office365licensingsupport.com
 oneworldnetwork.com
@@ -579,6 +582,7 @@ paypal-signin.blogspot.com
 paypalcorp.blogspot.com
 pe-facebook.blogspot.com
 phil-heron-zoomdrain-com-s-account.workers.dev
+pi-ofeta201737.shop
 piedrasdecolon.com.ar
 premio-instagram.com
 previewship.net
@@ -595,6 +599,7 @@ redirecthelp.com
 register-facebook.blogspot.com
 renfe-sncf.com
 rev.it
+ro328h89.skin
 roblox-login.vercel.app
 roblox.com.bi
 roblox.com.bn
@@ -630,6 +635,7 @@ sigma-whatsapp.com
 sign-in-to-xfinity-updatee.weebly.com
 sk-facebook.blogspot.com
 smallflyingarts.net
+smtp5-coinbase.com
 smtp6-coinbase.com
 spotify-client-beta.vercel.app
 spotify-payment.click
@@ -703,6 +709,7 @@ whatsapp-dp-images.in
 whatsapp-fast.vercel.app
 whatsapp-iamsuyash.vercel.app
 whatsapp-indonesia877.blogspot.com
+whatsapp-kingonlinebook-games.pages.dev
 whatsapp-verify.blogspot.com
 whatsapp11-cnj.pages.dev
 whatsapp7g.blogspot.com
@@ -710,6 +717,7 @@ whatsappapk.org
 whatsappbrnoticias.blogspot.com
 whatsappcampaign.online
 whatsappfreewhatsapp.blogspot.com
+whatsappweb-ok.com
 whatsappz.web.id
 whatsappzoeiras.blogspot.com
 windows-ledger-live.typedream.app

@@ -1,13 +1,16 @@
 {
  "date": "2026-10-03",
- "updated": "2026-10-03T16:18:30Z",
+ "updated": "2026-10-03T21:16:32Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 18,
+  "added": 27,
   "removed": 15
  },
  "added": [
+  "http://allegro.291934128h9.beer",
+  "http://allegro.ofe90392.pics",
+  "http://allegro.ro328h89.skin",
   "http://allegrolokalnie.oferty24.sbs",
   "http://facebook-mx.blogspot.com",
   "http://karrasconsulting.net/instqll/adobe/index2.html",
@@ -15,17 +18,23 @@
   "https://accounts.google.com.waycobeauty.com",
   "https://adityagarad556-pixel.github.io/javascript-amazon-project",
   "https://agenciadlx.com.br",
+  "https://allegrolokalnie.e-kup24.sbs/jbl-partybox-710-stan-bardzo-d/35677",
+  "https://allegrolokalnie.pi-ofeta201737.shop/xbox-series-x-1tb-sprawny/88277",
   "https://allegrolokalnie.x940b8a.lat/oferta/id-6jluwcg0-Opony-205-55-R16-Debica-Frigo-Hp-2-Nowe---4-szt",
   "https://facebook-us.blogspot.com",
   "https://googlegnhcf.com",
   "https://instagram-com-ig.github.io/instagram-com.github.io/",
   "https://log-in-facebook.blogspot.com",
+  "https://lxa.account-paypal.antimoney-laundering.org",
   "https://metamaskcdn-navapp.framer.website",
   "https://outlook.security-cloud-check.com",
   "https://sena-facebook.blogspot.com",
+  "https://smtp5-coinbase.com",
   "https://stardustottawa.com/ok/aldom.html#phishing-dpdhl@dhl.com/",
   "https://startio-trexor.squarespace.com",
-  "https://whatsapp.tamil.bid"
+  "https://whatsapp-kingonlinebook-games.pages.dev",
+  "https://whatsapp.tamil.bid",
+  "https://whatsappweb-ok.com"
  ],
  "removed": [
   "http://allegro.1290hh59.help",

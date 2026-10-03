@@ -1,5 +1,475 @@
 [
   {
+    "url": "http://allegro.ofe90392.pics",
+    "domain": "allegro.ofe90392.pics",
+    "company": "allegro",
+    "date": "2026-10-03T21:01:13.155452+00:00",
+    "first_seen": "2026-10-03T21:01:13.155452+00:00",
+    "uuid": "929fd356-bb00-4b9c-82ff-8b900f94f063",
+    "ip": "188.114.96.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "YE2",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      }
+    ],
+    "score": 27,
+    "verdict": "low"
+  },
+  {
+    "url": "https://allegrolokalnie.pi-ofeta201737.shop/xbox-series-x-1tb-sprawny/88277",
+    "domain": "allegrolokalnie.pi-ofeta201737.shop",
+    "company": "allegro",
+    "date": "2026-10-03T20:01:12.812691+00:00",
+    "first_seen": "2026-10-03T20:01:12.812691+00:00",
+    "uuid": "a6a96e64-1292-4937-b28f-cfb80d07f52e",
+    "ip": "188.114.97.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "YE1",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      }
+    ],
+    "score": 30,
+    "verdict": "low"
+  },
+  {
+    "url": "http://allegro.ro328h89.skin",
+    "domain": "allegro.ro328h89.skin",
+    "company": "allegro",
+    "date": "2026-10-03T20:00:57.339706+00:00",
+    "first_seen": "2026-10-03T20:00:57.339706+00:00",
+    "uuid": "630055a4-a3d2-4177-808b-bf09f7977258",
+    "ip": "188.114.96.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "YE1",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      }
+    ],
+    "score": 27,
+    "verdict": "low"
+  },
+  {
+    "url": "http://roblox.com.kz/users/14085142931/profile/",
+    "domain": "roblox.com.kz",
+    "company": "roblox",
+    "date": "2026-10-03T18:46:37.092235+00:00",
+    "first_seen": "2026-09-26T13:05:13.257277+00:00",
+    "uuid": "d6261887-e8bc-4e5a-a674-6c0dd2935309",
+    "ip": "188.114.96.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "brand_in_screenshot_text",
+        "label": "Brand in screenshot",
+        "points": 4.1
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 35,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://smtp5-coinbase.com",
+    "domain": "smtp5-coinbase.com",
+    "company": "coinbase",
+    "date": "2026-10-03T17:25:17.542694+00:00",
+    "first_seen": "2026-10-03T17:25:17.542694+00:00",
+    "uuid": "b66bbfcb-435c-4231-acc1-87fa2caa4e99",
+    "ip": "172.236.104.43",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 3.0
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 24,
+    "verdict": "low"
+  },
+  {
+    "url": "https://lxa.account-paypal.antimoney-laundering.org",
+    "domain": "lxa.account-paypal.antimoney-laundering.org",
+    "company": "paypal",
+    "date": "2026-10-03T17:25:16.893914+00:00",
+    "first_seen": "2026-10-03T17:25:16.893914+00:00",
+    "uuid": "fcce1029-a418-4d1a-b1ef-ccbfa1343b40",
+    "ip": "208.91.197.27",
+    "country": "United States",
+    "asn": "40034",
+    "org": "Confluence Networks Inc",
+    "cert": "ZeroSSL ECC DV SSL CA 2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 1.7
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 23,
+    "verdict": "low"
+  },
+  {
+    "url": "https://whatsappweb-ok.com",
+    "domain": "whatsappweb-ok.com",
+    "company": "whatsapp",
+    "date": "2026-10-03T17:25:11.514728+00:00",
+    "first_seen": "2026-10-03T17:25:11.514728+00:00",
+    "uuid": "0f731afc-c8f6-4d14-aa2b-a2fad73172a5",
+    "ip": "188.114.96.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "YE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      }
+    ],
+    "score": 37,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://whatsapp-kingonlinebook-games.pages.dev",
+    "domain": "whatsapp-kingonlinebook-games.pages.dev",
+    "company": "whatsapp",
+    "date": "2026-10-03T17:25:07.552045+00:00",
+    "first_seen": "2026-10-03T17:25:07.552045+00:00",
+    "uuid": "72085036-f8e7-4c41-ae7f-005fb6559547",
+    "ip": "188.114.96.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      }
+    ],
+    "score": 29,
+    "verdict": "low"
+  },
+  {
+    "url": "https://allegrolokalnie.e-kup24.sbs/jbl-partybox-710-stan-bardzo-d/35677",
+    "domain": "allegrolokalnie.e-kup24.sbs",
+    "company": "allegro",
+    "date": "2026-10-03T17:01:19.021160+00:00",
+    "first_seen": "2026-10-03T17:01:19.021160+00:00",
+    "uuid": "360b00f7-588d-4aec-b8e7-baddc82ac6e3",
+    "ip": "104.21.78.60",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "YE1",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 1.4
+      }
+    ],
+    "score": 22,
+    "verdict": "low"
+  },
+  {
+    "url": "http://allegro.291934128h9.beer",
+    "domain": "allegro.291934128h9.beer",
+    "company": "allegro",
+    "date": "2026-10-03T17:01:07.879144+00:00",
+    "first_seen": "2026-10-03T17:01:07.879144+00:00",
+    "uuid": "90564b76-8ed8-4077-883b-398c81cfcc71",
+    "ip": "188.114.96.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "YE2",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      }
+    ],
+    "score": 27,
+    "verdict": "low"
+  },
+  {
     "url": "https://allegrolokalnie.x940b8a.lat/oferta/id-6jluwcg0-Opony-205-55-R16-Debica-Frigo-Hp-2-Nowe---4-szt",
     "domain": "allegrolokalnie.x940b8a.lat",
     "company": "allegro",
@@ -31675,53 +32145,6 @@
       }
     ],
     "score": 31,
-    "verdict": "medium"
-  },
-  {
-    "url": "http://roblox.com.kz/users/14085142931/profile/",
-    "domain": "roblox.com.kz",
-    "company": "roblox",
-    "date": "2026-10-03T15:30:08.377661+00:00",
-    "first_seen": "2026-09-26T13:05:13.257277+00:00",
-    "uuid": "d6261887-e8bc-4e5a-a674-6c0dd2935309",
-    "ip": "188.114.96.3",
-    "country": "United States",
-    "asn": "13335",
-    "org": "Cloudflare, Inc.",
-    "cert": "WE1",
-    "malicious_google": false,
-    "malicious_openphish": false,
-    "malicious_phishtank": true,
-    "malicious_tweetfeed": false,
-    "malicious_urlscan": false,
-    "top_signals": [
-      {
-        "signal": "kw_score_norm",
-        "label": "Keyword match",
-        "points": 5.3
-      },
-      {
-        "signal": "cluster_size",
-        "label": "Site cluster",
-        "points": 5.1
-      },
-      {
-        "signal": "brand_in_title",
-        "label": "Brand in title",
-        "points": 4.5
-      },
-      {
-        "signal": "brand_in_screenshot_text",
-        "label": "Brand in screenshot",
-        "points": 4.1
-      },
-      {
-        "signal": "ip_cluster",
-        "label": "Shared IP cluster",
-        "points": 3.4
-      }
-    ],
-    "score": 35,
     "verdict": "medium"
   },
   {
