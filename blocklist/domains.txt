@@ -1,13 +1,16 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 732
-# Updated: 2026-10-02T22:15:06Z
+# Entries: 737
+# Updated: 2026-10-03T05:19:53Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
 123-facebook.blogspot.com
+12309h54.courses
 1290hh59.help
+1293891289hh.beer
+132-0129y58h.beer
 190842-coinbase.com
 2017-facebook.blogspot.com
 283674-coinbase.com
@@ -15,7 +18,7 @@
 2ccloud.com
 3298128999h.beer
 524675-coinbase.com
-9291201ss.mom
+9232995-coinbase.com
 99983200.beer
 a1-kraken.com
 a2zapk.co
@@ -39,7 +42,6 @@ apple-icloud.azurewebsites.net
 assign-icloud.com
 asso-entrautres.fr
 auth.properties
-authorised-support.com
 avaturefed.net
 axm-amazon.com
 bankofamericamailcompte.blogspot.com
@@ -76,7 +78,6 @@ buscarmi-icloud.app
 business-dropbox.me
 c-binance.github.io
 careers-openai.com
-carladelcastillo.com
 carsscanned.ebaymclaren-austin.eventshouse.app
 cashapp-liart.vercel.app
 cashappps.com
@@ -215,6 +216,7 @@ facebook-login0.blogspot.com
 facebook-loging.blogspot.com
 facebook-logo.blogspot.com
 facebook-mark.blogspot.com
+facebook-mx.blogspot.com
 facebook-networks.blogspot.com
 facebook-new-security.blogspot.com
 facebook-ng.blogspot.com
@@ -242,6 +244,7 @@ facebook-supports.blogspot.com
 facebook-system.blogspot.com
 facebook-theta.vercel.app
 facebook-trk.blogspot.com
+facebook-us.blogspot.com
 facebook-verification-system3.blogspot.com
 facebook-verification-system4.blogspot.com
 facebook-verification-system5.blogspot.com
@@ -327,7 +330,6 @@ fwh.is
 gafiatechnologies.com
 genaitech.dev
 ggzh-google.com.cn
-globalbroadband.org
 gloronyan.github.io
 goo.su
 google-apk.com
@@ -340,6 +342,7 @@ google1308.com
 googlebusiness.xyz
 googleepkay.com
 googleepway.com
+googlegnhcf.com
 googlelogos.com
 googleoa.com
 googleplaety.com
@@ -378,14 +381,12 @@ instagram-cam.vercel.app
 instagram-change-password.blogspot.com
 instagram-chi-ten.vercel.app
 instagram-chi.vercel.app
-instagram-com-ig.github.io
 instagram-copy.vercel.app
 instagram-cyber.github.io
 instagram-fe.vercel.app
 instagram-five-gamma.vercel.app
 instagram-followers-boost.vercel.app
 instagram-frontpage.vercel.app
-instagram-ig-com.github.io
 instagram-inky.vercel.app
 instagram-instagram.blogspot.com
 instagram-jennifer.blogspot.com
@@ -446,6 +447,7 @@ jj-facebook.blogspot.com
 jo-facebook.blogspot.com
 jt-facebook.blogspot.com
 jwb-facebook.blogspot.com
+karrasconsulting.net
 kauadosantos.github.io
 klassik-erh.de
 kraken-tor.co.com
@@ -465,6 +467,7 @@ leia-santander.vercel.app
 lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
 lobologisticgroup.com.mx
 lobster-cloud.com
+log-in-facebook.blogspot.com
 login-facebook-facebook.blogspot.com
 login-facebookaccount.blogspot.com
 login-my-facebook.blogspot.com
@@ -501,6 +504,7 @@ metamask-wallet.vercel.app
 metamask-web.vercel.app
 metamask.godaddysites.com
 metamask2-eight.vercel.app
+metamaskcdn-navapp.framer.website
 metamaskchromeextensionn.blogspot.com
 metamaskeeogin.gitbook.io
 metamaskextensionnn.gitbook.io
@@ -581,12 +585,9 @@ paypalcorp.blogspot.com
 pe-facebook.blogspot.com
 phil-heron-zoomdrain-com-s-account.workers.dev
 piedrasdecolon.com.ar
-pl-0596235.icu
-pl-05970225.icu
 premio-instagram.com
 previewship.net
 profil-facebook-saya.blogspot.com
-pry38182ogu.lat
 ptai.in
 quantum-flares.com
 r-facebook.blogspot.com
@@ -600,6 +601,7 @@ register-facebook.blogspot.com
 renfe-sncf.com
 rev.it
 roblox-login.vercel.app
+roblox.com.am
 roblox.com.bi
 roblox.com.bn
 roblox.com.bo
@@ -607,6 +609,7 @@ roblox.com.bz
 roblox.com.ee
 roblox.com.gr
 roblox.com.kz
+roblox.com.ml
 roblox.com.mu
 roblox.com.pt
 robloxc.com.es
@@ -625,6 +628,7 @@ search.er.in
 secure-coinbase-com-sign-in.typedream.app
 secure-dropbox.ist
 securedsupport-coinbase.com
+security-cloud-check.com
 send-secure-trustwallet-usdt-bip20.vercel.app
 services-facebook.blogspot.com
 seureonline.shop
@@ -638,6 +642,7 @@ spotify-payment.click
 spotify-plus.com
 spotifymode.org
 spotifypremiumapk.pk
+squarespace.com
 srpska-banka.com
 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 start-faq-en-trezr--public.typedream.app

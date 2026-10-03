@@ -1,13 +1,16 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 732
-# Updated: 2026-10-02T22:15:07Z
+# Entries: 737
+# Updated: 2026-10-03T05:19:54Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
 0.0.0.0 123-facebook.blogspot.com
+0.0.0.0 12309h54.courses
 0.0.0.0 1290hh59.help
+0.0.0.0 1293891289hh.beer
+0.0.0.0 132-0129y58h.beer
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 283674-coinbase.com
@@ -15,7 +18,7 @@
 0.0.0.0 2ccloud.com
 0.0.0.0 3298128999h.beer
 0.0.0.0 524675-coinbase.com
-0.0.0.0 9291201ss.mom
+0.0.0.0 9232995-coinbase.com
 0.0.0.0 99983200.beer
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
@@ -39,7 +42,6 @@
 0.0.0.0 assign-icloud.com
 0.0.0.0 asso-entrautres.fr
 0.0.0.0 auth.properties
-0.0.0.0 authorised-support.com
 0.0.0.0 avaturefed.net
 0.0.0.0 axm-amazon.com
 0.0.0.0 bankofamericamailcompte.blogspot.com
@@ -76,7 +78,6 @@
 0.0.0.0 business-dropbox.me
 0.0.0.0 c-binance.github.io
 0.0.0.0 careers-openai.com
-0.0.0.0 carladelcastillo.com
 0.0.0.0 carsscanned.ebaymclaren-austin.eventshouse.app
 0.0.0.0 cashapp-liart.vercel.app
 0.0.0.0 cashappps.com
@@ -215,6 +216,7 @@
 0.0.0.0 facebook-loging.blogspot.com
 0.0.0.0 facebook-logo.blogspot.com
 0.0.0.0 facebook-mark.blogspot.com
+0.0.0.0 facebook-mx.blogspot.com
 0.0.0.0 facebook-networks.blogspot.com
 0.0.0.0 facebook-new-security.blogspot.com
 0.0.0.0 facebook-ng.blogspot.com
@@ -242,6 +244,7 @@
 0.0.0.0 facebook-system.blogspot.com
 0.0.0.0 facebook-theta.vercel.app
 0.0.0.0 facebook-trk.blogspot.com
+0.0.0.0 facebook-us.blogspot.com
 0.0.0.0 facebook-verification-system3.blogspot.com
 0.0.0.0 facebook-verification-system4.blogspot.com
 0.0.0.0 facebook-verification-system5.blogspot.com
@@ -327,7 +330,6 @@
 0.0.0.0 gafiatechnologies.com
 0.0.0.0 genaitech.dev
 0.0.0.0 ggzh-google.com.cn
-0.0.0.0 globalbroadband.org
 0.0.0.0 gloronyan.github.io
 0.0.0.0 goo.su
 0.0.0.0 google-apk.com
@@ -340,6 +342,7 @@
 0.0.0.0 googlebusiness.xyz
 0.0.0.0 googleepkay.com
 0.0.0.0 googleepway.com
+0.0.0.0 googlegnhcf.com
 0.0.0.0 googlelogos.com
 0.0.0.0 googleoa.com
 0.0.0.0 googleplaety.com
@@ -378,14 +381,12 @@
 0.0.0.0 instagram-change-password.blogspot.com
 0.0.0.0 instagram-chi-ten.vercel.app
 0.0.0.0 instagram-chi.vercel.app
-0.0.0.0 instagram-com-ig.github.io
 0.0.0.0 instagram-copy.vercel.app
 0.0.0.0 instagram-cyber.github.io
 0.0.0.0 instagram-fe.vercel.app
 0.0.0.0 instagram-five-gamma.vercel.app
 0.0.0.0 instagram-followers-boost.vercel.app
 0.0.0.0 instagram-frontpage.vercel.app
-0.0.0.0 instagram-ig-com.github.io
 0.0.0.0 instagram-inky.vercel.app
 0.0.0.0 instagram-instagram.blogspot.com
 0.0.0.0 instagram-jennifer.blogspot.com
@@ -446,6 +447,7 @@
 0.0.0.0 jo-facebook.blogspot.com
 0.0.0.0 jt-facebook.blogspot.com
 0.0.0.0 jwb-facebook.blogspot.com
+0.0.0.0 karrasconsulting.net
 0.0.0.0 kauadosantos.github.io
 0.0.0.0 klassik-erh.de
 0.0.0.0 kraken-tor.co.com
@@ -465,6 +467,7 @@
 0.0.0.0 lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
 0.0.0.0 lobologisticgroup.com.mx
 0.0.0.0 lobster-cloud.com
+0.0.0.0 log-in-facebook.blogspot.com
 0.0.0.0 login-facebook-facebook.blogspot.com
 0.0.0.0 login-facebookaccount.blogspot.com
 0.0.0.0 login-my-facebook.blogspot.com
@@ -501,6 +504,7 @@
 0.0.0.0 metamask-web.vercel.app
 0.0.0.0 metamask.godaddysites.com
 0.0.0.0 metamask2-eight.vercel.app
+0.0.0.0 metamaskcdn-navapp.framer.website
 0.0.0.0 metamaskchromeextensionn.blogspot.com
 0.0.0.0 metamaskeeogin.gitbook.io
 0.0.0.0 metamaskextensionnn.gitbook.io
@@ -581,12 +585,9 @@
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 phil-heron-zoomdrain-com-s-account.workers.dev
 0.0.0.0 piedrasdecolon.com.ar
-0.0.0.0 pl-0596235.icu
-0.0.0.0 pl-05970225.icu
 0.0.0.0 premio-instagram.com
 0.0.0.0 previewship.net
 0.0.0.0 profil-facebook-saya.blogspot.com
-0.0.0.0 pry38182ogu.lat
 0.0.0.0 ptai.in
 0.0.0.0 quantum-flares.com
 0.0.0.0 r-facebook.blogspot.com
@@ -600,6 +601,7 @@
 0.0.0.0 renfe-sncf.com
 0.0.0.0 rev.it
 0.0.0.0 roblox-login.vercel.app
+0.0.0.0 roblox.com.am
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bo
@@ -607,6 +609,7 @@
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.kz
+0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 robloxc.com.es
@@ -625,6 +628,7 @@
 0.0.0.0 secure-coinbase-com-sign-in.typedream.app
 0.0.0.0 secure-dropbox.ist
 0.0.0.0 securedsupport-coinbase.com
+0.0.0.0 security-cloud-check.com
 0.0.0.0 send-secure-trustwallet-usdt-bip20.vercel.app
 0.0.0.0 services-facebook.blogspot.com
 0.0.0.0 seureonline.shop
@@ -638,6 +642,7 @@
 0.0.0.0 spotify-plus.com
 0.0.0.0 spotifymode.org
 0.0.0.0 spotifypremiumapk.pk
+0.0.0.0 squarespace.com
 0.0.0.0 srpska-banka.com
 0.0.0.0 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 0.0.0.0 start-faq-en-trezr--public.typedream.app
