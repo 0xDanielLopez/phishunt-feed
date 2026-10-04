@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 752
-! Updated: 2026-10-04T12:23:47Z
+! Entries: 761
+! Updated: 2026-10-04T21:26:35Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -14,7 +14,6 @@
 ||286364-coinbase.com^
 ||291934128h9.beer^
 ||2ccloud.com^
-||3482384-coinbase.com^
 ||524675-coinbase.com^
 ||a1-kraken.com^
 ||a2zapk.co^
@@ -108,9 +107,9 @@
 ||creyt.cl^
 ||crypto-binance-guide.pages.dev^
 ||ct.ws^
-||cvouab.com^
 ||cz-facebook.blogspot.com^
 ||daservglobal.com^
+||de-paypal-sec.com^
 ||de5.net^
 ||deluxxe.com.br^
 ||desktop-ledgrecdn.wixstudio.com^
@@ -124,6 +123,7 @@
 ||dpdi.xyz^
 ||dpdn62.click^
 ||dpdr.live^
+||dpduk.dev^
 ||drive-icloud.com^
 ||dropbox-online.at^
 ||dropbox-online.net^
@@ -132,6 +132,7 @@
 ||ebay-c.com^
 ||ebay-phone-number.blogspot.com^
 ||ebay-seller-center-managedpayments.vercel.app^
+||ebay5678.vip^
 ||ebayesho.com^
 ||ebaymclaren-austin.eventshouse.app^
 ||ebaymevip.com^
@@ -328,6 +329,7 @@
 ||genaitech.dev^
 ||ggzh-google.com.cn^
 ||gloronyan.github.io^
+||glovonetwork.com^
 ||google-apk.com^
 ||google.jl.cn^
 ||google.js.cn^
@@ -335,6 +337,7 @@
 ||google1208.com^
 ||google1302.com^
 ||google1308.com^
+||google2play.com^
 ||googlebusiness.xyz^
 ||googleepkay.com^
 ||googleepway.com^
@@ -365,6 +368,7 @@
 ||icloud-ubication.com^
 ||icloudmex-lost.com^
 ||icloudnotify.help^
+||icloudphone.help^
 ||icloudweb-ext860.click^
 ||ideeo.mx^
 ||ifotografix.co.uk^
@@ -388,7 +392,6 @@
 ||instagram-followers-boost.vercel.app^
 ||instagram-frontpage.vercel.app^
 ||instagram-inky.vercel.app^
-||instagram-instagram.blogspot.com^
 ||instagram-jennifer.blogspot.com^
 ||instagram-lilac-two.vercel.app^
 ||instagram-login-page-theta.vercel.app^
@@ -562,7 +565,6 @@
 ||noreply-icloud.app^
 ||nw-facebook.blogspot.com^
 ||ofe90392.pics^
-||oferta90162322.icu^
 ||oferty24.sbs^
 ||office365licensingsupport.com^
 ||oneworldnetwork.com^
@@ -587,7 +589,6 @@
 ||paypalcorp.blogspot.com^
 ||pe-facebook.blogspot.com^
 ||phil-heron-zoomdrain-com-s-account.workers.dev^
-||pi-ofeta201737.shop^
 ||piedrasdecolon.com.ar^
 ||po77bu3.skin^
 ||premio-instagram.com^
@@ -612,9 +613,11 @@
 ||roblox.com.bn^
 ||roblox.com.bo^
 ||roblox.com.bz^
+||roblox.com.do^
 ||roblox.com.ee^
 ||roblox.com.gr^
 ||roblox.com.kz^
+||roblox.com.ml^
 ||roblox.com.mu^
 ||roblox.com.pt^
 ||robloxc.com.es^
@@ -633,6 +636,7 @@
 ||secure-coinbase-com-sign-in.typedream.app^
 ||secure-dropbox.ist^
 ||securedsupport-coinbase.com^
+||security-appleid.com^
 ||security-cloud-check.com^
 ||sena-facebook.blogspot.com^
 ||send-secure-trustwallet-usdt-bip20.vercel.app^
@@ -648,7 +652,7 @@
 ||smtp6-coinbase.com^
 ||spotify-client-beta.vercel.app^
 ||spotify-payment.click^
-||spotify-plus.com^
+||spotifylite.online^
 ||spotifymode.org^
 ||spotifypremiumapk.pk^
 ||spotifypremiumz.net^
@@ -685,6 +689,7 @@
 ||todo--facebook.blogspot.com^
 ||tottattoo.com^
 ||trackingnumbers.org^
+||trezoo-iostt-en.framer.media^
 ||trezoorr--thego.gitbook.io^
 ||trezor-login-us-auth-start.typedream.app^
 ||trezorguide.vercel.app^
@@ -702,6 +707,7 @@
 ||usdt-trustwallet-blockchain.vercel.app^
 ||uspsaunitedworkforce.com^
 ||uspsecuredlogs.com^
+||uspssmartparcellocker.tech^
 ||v0-instagram-accounts.vercel.app^
 ||verifytoken.com^
 ||vi-facebook.blogspot.com^
@@ -728,6 +734,7 @@
 ||whatsappcampaign.online^
 ||whatsappfreewhatsapp.blogspot.com^
 ||whatsappweb-ok.com^
+||whatsappwebred.blogspot.com^
 ||whatsappz.web.id^
 ||whatsappzoeiras.blogspot.com^
 ||windows-ledger-live.typedream.app^
@@ -736,6 +743,7 @@
 ||www-google.cn^
 ||www-hk-google.com^
 ||wwww-linkedin.be^
+||xfinity-maillogin.weebly.com^
 ||xfinity-updateform.square.site^
 ||xfinity-updateform.weebly.com^
 ||xfinity101.duckdns.org^
@@ -757,4 +765,5 @@
 ||zeta-facebook.blogspot.com^
 ||zkey0.com^
 ||znbbmwq.com^
+||zsoon.eu^
 ||zya.me^

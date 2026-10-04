@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 752
-# Updated: 2026-10-04T12:23:47Z
+# Entries: 761
+# Updated: 2026-10-04T21:26:35Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -14,7 +14,6 @@
 0.0.0.0 286364-coinbase.com
 0.0.0.0 291934128h9.beer
 0.0.0.0 2ccloud.com
-0.0.0.0 3482384-coinbase.com
 0.0.0.0 524675-coinbase.com
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
@@ -108,9 +107,9 @@
 0.0.0.0 creyt.cl
 0.0.0.0 crypto-binance-guide.pages.dev
 0.0.0.0 ct.ws
-0.0.0.0 cvouab.com
 0.0.0.0 cz-facebook.blogspot.com
 0.0.0.0 daservglobal.com
+0.0.0.0 de-paypal-sec.com
 0.0.0.0 de5.net
 0.0.0.0 deluxxe.com.br
 0.0.0.0 desktop-ledgrecdn.wixstudio.com
@@ -124,6 +123,7 @@
 0.0.0.0 dpdi.xyz
 0.0.0.0 dpdn62.click
 0.0.0.0 dpdr.live
+0.0.0.0 dpduk.dev
 0.0.0.0 drive-icloud.com
 0.0.0.0 dropbox-online.at
 0.0.0.0 dropbox-online.net
@@ -132,6 +132,7 @@
 0.0.0.0 ebay-c.com
 0.0.0.0 ebay-phone-number.blogspot.com
 0.0.0.0 ebay-seller-center-managedpayments.vercel.app
+0.0.0.0 ebay5678.vip
 0.0.0.0 ebayesho.com
 0.0.0.0 ebaymclaren-austin.eventshouse.app
 0.0.0.0 ebaymevip.com
@@ -328,6 +329,7 @@
 0.0.0.0 genaitech.dev
 0.0.0.0 ggzh-google.com.cn
 0.0.0.0 gloronyan.github.io
+0.0.0.0 glovonetwork.com
 0.0.0.0 google-apk.com
 0.0.0.0 google.jl.cn
 0.0.0.0 google.js.cn
@@ -335,6 +337,7 @@
 0.0.0.0 google1208.com
 0.0.0.0 google1302.com
 0.0.0.0 google1308.com
+0.0.0.0 google2play.com
 0.0.0.0 googlebusiness.xyz
 0.0.0.0 googleepkay.com
 0.0.0.0 googleepway.com
@@ -365,6 +368,7 @@
 0.0.0.0 icloud-ubication.com
 0.0.0.0 icloudmex-lost.com
 0.0.0.0 icloudnotify.help
+0.0.0.0 icloudphone.help
 0.0.0.0 icloudweb-ext860.click
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
@@ -388,7 +392,6 @@
 0.0.0.0 instagram-followers-boost.vercel.app
 0.0.0.0 instagram-frontpage.vercel.app
 0.0.0.0 instagram-inky.vercel.app
-0.0.0.0 instagram-instagram.blogspot.com
 0.0.0.0 instagram-jennifer.blogspot.com
 0.0.0.0 instagram-lilac-two.vercel.app
 0.0.0.0 instagram-login-page-theta.vercel.app
@@ -562,7 +565,6 @@
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 ofe90392.pics
-0.0.0.0 oferta90162322.icu
 0.0.0.0 oferty24.sbs
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 oneworldnetwork.com
@@ -587,7 +589,6 @@
 0.0.0.0 paypalcorp.blogspot.com
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 phil-heron-zoomdrain-com-s-account.workers.dev
-0.0.0.0 pi-ofeta201737.shop
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 po77bu3.skin
 0.0.0.0 premio-instagram.com
@@ -612,9 +613,11 @@
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bo
 0.0.0.0 roblox.com.bz
+0.0.0.0 roblox.com.do
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.kz
+0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 robloxc.com.es
@@ -633,6 +636,7 @@
 0.0.0.0 secure-coinbase-com-sign-in.typedream.app
 0.0.0.0 secure-dropbox.ist
 0.0.0.0 securedsupport-coinbase.com
+0.0.0.0 security-appleid.com
 0.0.0.0 security-cloud-check.com
 0.0.0.0 sena-facebook.blogspot.com
 0.0.0.0 send-secure-trustwallet-usdt-bip20.vercel.app
@@ -648,7 +652,7 @@
 0.0.0.0 smtp6-coinbase.com
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotify-payment.click
-0.0.0.0 spotify-plus.com
+0.0.0.0 spotifylite.online
 0.0.0.0 spotifymode.org
 0.0.0.0 spotifypremiumapk.pk
 0.0.0.0 spotifypremiumz.net
@@ -685,6 +689,7 @@
 0.0.0.0 todo--facebook.blogspot.com
 0.0.0.0 tottattoo.com
 0.0.0.0 trackingnumbers.org
+0.0.0.0 trezoo-iostt-en.framer.media
 0.0.0.0 trezoorr--thego.gitbook.io
 0.0.0.0 trezor-login-us-auth-start.typedream.app
 0.0.0.0 trezorguide.vercel.app
@@ -702,6 +707,7 @@
 0.0.0.0 usdt-trustwallet-blockchain.vercel.app
 0.0.0.0 uspsaunitedworkforce.com
 0.0.0.0 uspsecuredlogs.com
+0.0.0.0 uspssmartparcellocker.tech
 0.0.0.0 v0-instagram-accounts.vercel.app
 0.0.0.0 verifytoken.com
 0.0.0.0 vi-facebook.blogspot.com
@@ -728,6 +734,7 @@
 0.0.0.0 whatsappcampaign.online
 0.0.0.0 whatsappfreewhatsapp.blogspot.com
 0.0.0.0 whatsappweb-ok.com
+0.0.0.0 whatsappwebred.blogspot.com
 0.0.0.0 whatsappz.web.id
 0.0.0.0 whatsappzoeiras.blogspot.com
 0.0.0.0 windows-ledger-live.typedream.app
@@ -736,6 +743,7 @@
 0.0.0.0 www-google.cn
 0.0.0.0 www-hk-google.com
 0.0.0.0 wwww-linkedin.be
+0.0.0.0 xfinity-maillogin.weebly.com
 0.0.0.0 xfinity-updateform.square.site
 0.0.0.0 xfinity-updateform.weebly.com
 0.0.0.0 xfinity101.duckdns.org
@@ -757,4 +765,5 @@
 0.0.0.0 zeta-facebook.blogspot.com
 0.0.0.0 zkey0.com
 0.0.0.0 znbbmwq.com
+0.0.0.0 zsoon.eu
 0.0.0.0 zya.me
