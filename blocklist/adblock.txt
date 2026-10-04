@@ -1,11 +1,12 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 743
-! Updated: 2026-10-03T21:16:32Z
+! Entries: 753
+! Updated: 2026-10-04T05:54:37Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
 ! Community-reported phishing domains. Use at your own risk.
 
+||0132919hpho5i.skin^
 ||123-facebook.blogspot.com^
 ||190842-coinbase.com^
 ||2017-facebook.blogspot.com^
@@ -13,8 +14,8 @@
 ||286364-coinbase.com^
 ||291934128h9.beer^
 ||2ccloud.com^
+||3482384-coinbase.com^
 ||524675-coinbase.com^
-||9232995-coinbase.com^
 ||a1-kraken.com^
 ||a2zapk.co^
 ||a2zapk.dev^
@@ -24,6 +25,7 @@
 ||adobeexperience.com.br^
 ||agenciadlx.com.br^
 ||alibaba188.org^
+||alibabaexclusifyx.com^
 ||amazon-harshdeep.vercel.app^
 ||amazon-opfq.vercel.app^
 ||ancoradourohotel.com.br^
@@ -66,7 +68,6 @@
 ||binanceuz.co^
 ||binancewallett.blogspot.com^
 ||biowikiweb.com^
-||bkinterim.com^
 ||bnext.es^
 ||books-facebook.blogspot.com^
 ||brad-facebook.blogspot.com^
@@ -74,6 +75,7 @@
 ||buscarmi-icloud.app^
 ||business-dropbox.me^
 ||c-binance.github.io^
+||canalpuntosafe.com^
 ||careers-openai.com^
 ||carsscanned.ebaymclaren-austin.eventshouse.app^
 ||cashapp-liart.vercel.app^
@@ -99,12 +101,12 @@
 ||comcastinfoupdatesnow.weebly.com^
 ||comcastseettings.weebly.com^
 ||comcastwebmailuser.weebly.com^
-||contaboserver.net^
 ||correosccl.cc^
 ||correoscri.cc^
 ||correosiicr.cc^
 ||correosscri.cc^
 ||creyt.cl^
+||crypto-binance-guide.pages.dev^
 ||ct.ws^
 ||cvouab.com^
 ||cz-facebook.blogspot.com^
@@ -308,7 +310,6 @@
 ||facebooksecurityhelp.blogspot.com^
 ||facebookshops.best^
 ||facebooksociallink.blogspot.com^
-||facebooksuporteolaine.blogspot.com^
 ||facebookteamhelp.blogspot.com^
 ||facebooktechnicalsupportnumber123.blogspot.com^
 ||facebookuseraccount.blogspot.com^
@@ -328,7 +329,6 @@
 ||genaitech.dev^
 ||ggzh-google.com.cn^
 ||gloronyan.github.io^
-||goo.su^
 ||google-apk.com^
 ||google.jl.cn^
 ||google.js.cn^
@@ -347,6 +347,7 @@
 ||googleplaydown.com^
 ||googlepllry.com^
 ||googleplrzy.com^
+||googlereni-bidding-notification.com^
 ||hashnode.dev^
 ||help-instagram.blogspot.com^
 ||hofmemorabilia.ebaymclaren-austin.eventshouse.app^
@@ -362,6 +363,7 @@
 ||https-roblox.com^
 ||iberdrolatrade.com^
 ||icloud-asisten-official.com^
+||icloud-ubication.com^
 ||icloudmex-lost.com^
 ||icloudnotify.help^
 ||icloudweb-ext860.click^
@@ -379,6 +381,7 @@
 ||instagram-chi-ten.vercel.app^
 ||instagram-chi.vercel.app^
 ||instagram-com-ig.github.io^
+||instagram-comig.github.io^
 ||instagram-copy.vercel.app^
 ||instagram-cyber.github.io^
 ||instagram-fe.vercel.app^
@@ -395,6 +398,7 @@
 ||instagram-login-user.blogspot.com^
 ||instagram-mu-rosy.vercel.app^
 ||instagram-new-version.vercel.app^
+||instagram-nu-six.vercel.app^
 ||instagram-one-alpha.vercel.app^
 ||instagram-open.blogspot.com^
 ||instagram-reels-funny-every-viral-reels.github.io^
@@ -448,6 +452,7 @@
 ||karrasconsulting.net^
 ||kauadosantos.github.io^
 ||klassik-erh.de^
+||kraken-foundation-cc.pages.dev^
 ||kraken-tor.co.com^
 ||kucoin-referral-code-pt.vercel.app^
 ||kucoinlogenac.gitbook.io^
@@ -501,7 +506,6 @@
 ||metamask-wallet.vercel.app^
 ||metamask-web.vercel.app^
 ||metamask2-eight.vercel.app^
-||metamaskcdn-navapp.framer.website^
 ||metamaskchromeextensionn.blogspot.com^
 ||metamaskeeogin.gitbook.io^
 ||metamaskextensionnn.gitbook.io^
@@ -535,6 +539,7 @@
 ||munimventures.com^
 ||my-facebook-blog.blogspot.com^
 ||mytemp.website^
+||naturgygp.com^
 ||nbpublic.com^
 ||neda-facebook.blogspot.com^
 ||netflix-71f05.firebaseapp.com^
@@ -579,11 +584,13 @@
 ||paypal-logiin.blogspot.com^
 ||paypal-password.blogspot.com^
 ||paypal-signin.blogspot.com^
+||paypal-transactions.sbs^
 ||paypalcorp.blogspot.com^
 ||pe-facebook.blogspot.com^
 ||phil-heron-zoomdrain-com-s-account.workers.dev^
 ||pi-ofeta201737.shop^
 ||piedrasdecolon.com.ar^
+||po77bu3.skin^
 ||premio-instagram.com^
 ||previewship.net^
 ||profil-facebook-saya.blogspot.com^
@@ -599,6 +606,7 @@
 ||register-facebook.blogspot.com^
 ||renfe-sncf.com^
 ||rev.it^
+||review-docusign-document.top^
 ||ro328h89.skin^
 ||roblox-login.vercel.app^
 ||roblox.com.bi^
@@ -631,8 +639,10 @@
 ||send-secure-trustwallet-usdt-bip20.vercel.app^
 ||services-facebook.blogspot.com^
 ||seureonline.shop^
+||shopweb.com.vn^
 ||sigma-whatsapp.com^
 ||sign-in-to-xfinity-updatee.weebly.com^
+||siran21877h9.beer^
 ||sk-facebook.blogspot.com^
 ||smallflyingarts.net^
 ||smtp5-coinbase.com^
@@ -642,6 +652,7 @@
 ||spotify-plus.com^
 ||spotifymode.org^
 ||spotifypremiumapk.pk^
+||spotifypremiumz.net^
 ||squarespace.com^
 ||srpska-banka.com^
 ||sso-ledger-live-strt-ledger-support-cdn.typedream.app^
@@ -682,6 +693,7 @@
 ||trezorrgoappup.gitbook.io^
 ||trust-wallet-contact.vercel.app^
 ||trust-wallet-customer-support-number.github.io^
+||trust-wallet-login.vercel.app^
 ||trustwallet-helpcenter.vercel.app^
 ||trustwallet-login.blogspot.com^
 ||trustwallet-secure-check.vercel.app^
@@ -709,7 +721,6 @@
 ||whatsapp-fast.vercel.app^
 ||whatsapp-iamsuyash.vercel.app^
 ||whatsapp-indonesia877.blogspot.com^
-||whatsapp-kingonlinebook-games.pages.dev^
 ||whatsapp-verify.blogspot.com^
 ||whatsapp11-cnj.pages.dev^
 ||whatsapp7g.blogspot.com^
@@ -726,7 +737,6 @@
 ||www-google.cn^
 ||www-hk-google.com^
 ||wwww-linkedin.be^
-||x940b8a.lat^
 ||xfinity-updateform.square.site^
 ||xfinity-updateform.weebly.com^
 ||xfinity101.duckdns.org^
