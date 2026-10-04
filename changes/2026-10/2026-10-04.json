@@ -1,15 +1,17 @@
 {
  "date": "2026-10-04",
- "updated": "2026-10-04T05:54:37Z",
+ "updated": "2026-10-04T12:23:47Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
   "added": 21,
-  "removed": 11
+  "removed": 15
  },
  "added": [
   "http://allegro.0132919hpho5i.skin",
   "http://allegro.po77bu3.skin",
+  "http://allegrolokalnie.oferta90162322.icu/oferta/sprzedam-golebnik-zadbany/22404",
+  "http://facebook.shopweb.com.vn",
   "http://paypal-transactions.sbs",
   "http://review-docusign-document.top",
   "http://santander.canalpuntosafe.com",
@@ -17,12 +19,10 @@
   "https://alibabaexclusifyx.com",
   "https://allegro.siran21877h9.beer",
   "https://crypto-binance-guide.pages.dev/en/terms/",
-  "https://facebook.shopweb.com.vn",
   "https://googlereni-bidding-notification.com",
   "https://icloud-ubication.com",
   "https://instagram-comig.github.io",
   "https://instagram-nu-six.vercel.app",
-  "https://kraken-foundation-cc.pages.dev",
   "https://naturgygp.com",
   "https://roblox.com.mu/users/1848864673/profile",
   "https://spotifypremiumz.net",
@@ -36,11 +36,15 @@
   "https://allegrolokalnie.x940b8a.lat/oferta/id-6jluwcg0-Opony-205-55-R16-Debica-Frigo-Hp-2-Nowe---4-szt",
   "https://docusign.bkinterim.com",
   "https://goo.su/SEUR2026",
+  "https://google.documentspartage.com",
   "https://icgfyqwgtd.account-paypal.antimoney-laundering.org",
+  "https://ledger-live-application.com",
   "https://lxa.account-paypal.antimoney-laundering.org",
+  "https://mail.ledger-live-application.com",
   "https://metamaskcdn-navapp.framer.website",
   "https://roblox.com.mu/communities/3330747117/Robux-Giveaway-Group",
   "https://vmi3623046.contaboserver.net/Entrega/Entrega/seur/msg.php",
+  "https://webmail.ledger-live-application.com",
   "https://whatsapp-kingonlinebook-games.pages.dev"
  ]
 }
