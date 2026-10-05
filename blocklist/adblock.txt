@@ -1,12 +1,11 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
 ! Entries: 761
-! Updated: 2026-10-04T21:26:35Z
+! Updated: 2026-10-05T05:41:57Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
 ! Community-reported phishing domains. Use at your own risk.
 
-||0132919hpho5i.skin^
 ||123-facebook.blogspot.com^
 ||190842-coinbase.com^
 ||2017-facebook.blogspot.com^
@@ -22,6 +21,7 @@
 ||acltci.com^
 ||adityagarad556-pixel.github.io^
 ||adobeexperience.com.br^
+||adobesign.org^
 ||agenciadlx.com.br^
 ||alibaba188.org^
 ||alibabaexclusifyx.com^
@@ -87,6 +87,7 @@
 ||cn-feed-whatsapp.com.cn^
 ||coinbase-event.vercel.app^
 ||coinbase.com.lc^
+||coinbase66.com^
 ||coinbaseinvestors.ai^
 ||coinbaseprologinv.gitbook.io^
 ||coinbaseverify.vercel.app^
@@ -142,6 +143,7 @@
 ||emmanueldegreatltd.com^
 ||empowerbydxc.com^
 ||en-ledgre.pages.dev^
+||enhancedconfiguration.app^
 ||epsilons.co^
 ||erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org^
 ||eu-facebook.blogspot.com^
@@ -349,14 +351,12 @@
 ||googleplaydown.com^
 ||googlepllry.com^
 ||googleplrzy.com^
-||googlereni-bidding-notification.com^
 ||hashnode.dev^
 ||help-instagram.blogspot.com^
 ||hofmemorabilia.ebaymclaren-austin.eventshouse.app^
 ||holdings-coinbase.com^
 ||home-facebook.blogspot.com^
 ||home-ledgrreliveapp.typedream.app^
-||hosweb.online^
 ||hot-binance.com.cn^
 ||hsbc-sec.com^
 ||hsbccpersonalonlinebanking.com^
@@ -445,7 +445,6 @@
 ||isha-dev.com^
 ||itau-com.vercel.app^
 ||itau-snowy.vercel.app^
-||itlandfz.com^
 ||jayaram0550.github.io^
 ||jj-facebook.blogspot.com^
 ||jo-facebook.blogspot.com^
@@ -468,6 +467,7 @@
 ||ledgerwalletrepair.com^
 ||ledgrelivapp--crome.typedream.app^
 ||leia-santander.vercel.app^
+||linkedin-antanim.vercel.app^
 ||lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org^
 ||lobologisticgroup.com.mx^
 ||lobster-cloud.com^
@@ -484,6 +484,7 @@
 ||love-facebook.blogspot.com^
 ||lovefive-facebook.blogspot.com^
 ||lovevivah.com^
+||luq-binance.com.cn^
 ||luxfab.luxe^
 ||luxora.qpon^
 ||ly-facebook.blogspot.com^
@@ -545,9 +546,11 @@
 ||neda-facebook.blogspot.com^
 ||netflix-71f05.firebaseapp.com^
 ||netflix-billing-update.com^
+||netflix-casino-es.es^
 ||netflix-homepage-pi.vercel.app^
 ||netflix-lake.vercel.app^
 ||netflix-login.blogspot.com^
+||netflix-online.it^
 ||netflix-two-mu.vercel.app^
 ||netflix-web-site-three.vercel.app^
 ||netflix.surf^
@@ -555,16 +558,17 @@
 ||netflix6.com^
 ||netflixandchiffres.com^
 ||netflixbymanoj.vercel.app^
+||netflixcasino1320.com^
 ||netflixfeitoaqui.com.br^
 ||netflixinfos.com^
 ||netflixquebec.blogspot.com^
+||netflixurl.github.io^
 ||netflixvoid.org^
 ||netflixy-bixy.vercel.app^
 ||network-facebook.blogspot.com^
 ||news-revolut.com^
 ||noreply-icloud.app^
 ||nw-facebook.blogspot.com^
-||ofe90392.pics^
 ||oferty24.sbs^
 ||office365licensingsupport.com^
 ||oneworldnetwork.com^
@@ -585,17 +589,14 @@
 ||paypal-logiin.blogspot.com^
 ||paypal-password.blogspot.com^
 ||paypal-signin.blogspot.com^
-||paypal-transactions.sbs^
 ||paypalcorp.blogspot.com^
 ||pe-facebook.blogspot.com^
 ||phil-heron-zoomdrain-com-s-account.workers.dev^
 ||piedrasdecolon.com.ar^
-||po77bu3.skin^
 ||premio-instagram.com^
 ||previewship.net^
 ||profil-facebook-saya.blogspot.com^
 ||ptai.in^
-||quantum-flares.com^
 ||r-facebook.blogspot.com^
 ||rama-facebook.blogspot.com^
 ||reactivar-microsoft-live.iceiy.com^
@@ -607,7 +608,6 @@
 ||renfe-sncf.com^
 ||rev.it^
 ||review-docusign-document.top^
-||ro328h89.skin^
 ||roblox-login.vercel.app^
 ||roblox.com.bi^
 ||roblox.com.bn^
@@ -637,11 +637,11 @@
 ||secure-dropbox.ist^
 ||securedsupport-coinbase.com^
 ||security-appleid.com^
-||security-cloud-check.com^
 ||sena-facebook.blogspot.com^
 ||send-secure-trustwallet-usdt-bip20.vercel.app^
 ||services-facebook.blogspot.com^
 ||seureonline.shop^
+||share-files-onedrive.com^
 ||shopweb.com.vn^
 ||sigma-whatsapp.com^
 ||sign-in-to-xfinity-updatee.weebly.com^
@@ -665,6 +665,7 @@
 ||start-ledgren.zapier.app^
 ||start-web-en-ledger-live-login.typedream.app^
 ||steamcommunity.blog^
+||steamcommunity.click^
 ||steamcommunity.ing^
 ||steuerquimica.cl^
 ||strab.org^
@@ -702,7 +703,6 @@
 ||trustwallet-login.blogspot.com^
 ||trustwallet-secure-check.vercel.app^
 ||trustwallet-tokentwtowner.vercel.app^
-||trustwalletcard.me^
 ||updata.net.cn^
 ||usdt-trustwallet-blockchain.vercel.app^
 ||uspsaunitedworkforce.com^
@@ -712,6 +712,7 @@
 ||verifytoken.com^
 ||vi-facebook.blogspot.com^
 ||viewclass.com^
+||vinted-technologies.live^
 ||vodafone-on-line.it^
 ||vpnuse.eu.org^
 ||wave-whatsapp.com^
@@ -735,7 +736,6 @@
 ||whatsappfreewhatsapp.blogspot.com^
 ||whatsappweb-ok.com^
 ||whatsappwebred.blogspot.com^
-||whatsappz.web.id^
 ||whatsappzoeiras.blogspot.com^
 ||windows-ledger-live.typedream.app^
 ||wooflers.com^
