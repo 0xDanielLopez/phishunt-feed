@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 761
-# Updated: 2026-10-05T05:41:55Z
+# Entries: 753
+# Updated: 2026-10-05T14:41:38Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -87,12 +87,12 @@ cloud-ld-soporte.com
 cn-feed-whatsapp.com.cn
 coinbase-event.vercel.app
 coinbase.com.lc
-coinbase66.com
 coinbaseinvestors.ai
 coinbaseprologinv.gitbook.io
 coinbaseverify.vercel.app
 collectableswall.ebaymclaren-austin.eventshouse.app
 com.tg
+comcast-2-iota.vercel.app
 comcast-2.vercel.app
 comcast-ebon.vercel.app
 comcast-seven.vercel.app
@@ -311,6 +311,7 @@ facebookprofilelinks.blogspot.com
 facebooksecure.blogspot.com
 facebooksecurityhelp.blogspot.com
 facebookshops.best
+facebookslogins.blogspot.com
 facebooksociallink.blogspot.com
 facebookteamhelp.blogspot.com
 facebooktechnicalsupportnumber123.blogspot.com
@@ -319,7 +320,6 @@ facebookuserlogin.blogspot.com
 facebookverifyyouraccount.blogspot.com
 facebookwebsite9.blogspot.com
 facebookzaman.blogspot.com
-fedexbeta.com
 fedexsv.com
 fedexwp.com
 file-whatsappn.hl.cn
@@ -328,7 +328,6 @@ foryour.review
 free-facebook-page-likes.blogspot.com
 fwh.is
 gafiatechnologies.com
-genaitech.dev
 ggzh-google.com.cn
 gloronyan.github.io
 glovonetwork.com
@@ -368,7 +367,6 @@ icloud-asisten-official.com
 icloud-ubication.com
 icloudmex-lost.com
 icloudnotify.help
-icloudphone.help
 icloudweb-ext860.click
 ideeo.mx
 ifotografix.co.uk
@@ -541,7 +539,6 @@ movistar-recaudo-epayc.com
 munimventures.com
 my-facebook-blog.blogspot.com
 mytemp.website
-naturgygp.com
 nbpublic.com
 neda-facebook.blogspot.com
 netflix-71f05.firebaseapp.com
@@ -558,7 +555,6 @@ netflix520.com
 netflix6.com
 netflixandchiffres.com
 netflixbymanoj.vercel.app
-netflixcasino1320.com
 netflixfeitoaqui.com.br
 netflixinfos.com
 netflixquebec.blogspot.com
@@ -613,7 +609,6 @@ roblox.com.bi
 roblox.com.bn
 roblox.com.bo
 roblox.com.bz
-roblox.com.do
 roblox.com.ee
 roblox.com.gr
 roblox.com.kz
@@ -641,11 +636,9 @@ sena-facebook.blogspot.com
 send-secure-trustwallet-usdt-bip20.vercel.app
 services-facebook.blogspot.com
 seureonline.shop
-share-files-onedrive.com
 shopweb.com.vn
 sigma-whatsapp.com
 sign-in-to-xfinity-updatee.weebly.com
-siran21877h9.beer
 sk-facebook.blogspot.com
 smallflyingarts.net
 smtp5-coinbase.com
@@ -660,7 +653,6 @@ squarespace.com
 srpska-banka.com
 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 stardustottawa.com
-start-faq-en-trezr--public.typedream.app
 start-ledgerlive-com-web.typedream.app
 start-ledgren.zapier.app
 start-web-en-ledger-live-login.typedream.app
@@ -672,7 +664,6 @@ strab.org
 strutsupportsystems.com
 su-facebook.blogspot.com
 sugar-outlook.com
-suport-appcloud.us
 suportcloud-us.info
 support-instagram.github.io
 support-ledgerlive-eng.typedream.app
@@ -723,6 +714,7 @@ webaccess-alert.com
 webador.com
 webmail-service-xfinity.vercel.app
 weeblysite.com
+wetransfer-smoky.vercel.app
 whatsapp-dp-images.in
 whatsapp-fast.vercel.app
 whatsapp-iamsuyash.vercel.app

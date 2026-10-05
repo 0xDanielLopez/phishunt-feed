@@ -1,20 +1,20 @@
 {
  "date": "2026-10-05",
- "updated": "2026-10-05T05:41:57Z",
+ "updated": "2026-10-05T14:41:40Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 23,
-  "removed": 15
+  "added": 22,
+  "removed": 23
  },
  "added": [
+  "http://comcast-2-iota.vercel.app",
   "http://netflixurl.github.io",
-  "http://share-files-onedrive.com",
   "https://adobesign.org",
   "https://app.luq-binance.com.cn",
   "https://ba.luq-binance.com.cn",
-  "https://coinbase66.com",
   "https://enhancedconfiguration.app",
+  "https://facebookslogins.blogspot.com/?m=1",
   "https://html.luq-binance.com.cn",
   "https://linkedin-antanim.vercel.app/login",
   "https://luq-binance.com.cn",
@@ -23,13 +23,12 @@
   "https://mobile.luq-binance.com.cn",
   "https://netflix-casino-es.es",
   "https://netflix-online.it",
-  "https://netflixcasino1320.com",
-  "https://roblox.com.do/users/219365587173/profile",
-  "https://roblox.com.ml/users/464414580239/profile",
+  "https://roblox.com.ml/users/489377411112/profile",
   "https://steamcommunity.click/workshop/83781293",
   "https://userv207.account-paypal.antimoney-laundering.org",
   "https://vinted-technologies.live",
   "https://wap.luq-binance.com.cn",
+  "https://wetransfer-smoky.vercel.app/#mirensys@f91b7a73195f98d78e426e2bef4f4056457a.net",
   "https://zh.luq-binance.com.cn"
  ],
  "removed": [
@@ -38,15 +37,23 @@
   "http://allegro.po77bu3.skin",
   "http://allegro.ro328h89.skin",
   "http://paypal-transactions.sbs",
+  "http://suport-appcloud.us/icloud-archivos/code2022esp.php",
+  "https://allegro.siran21877h9.beer",
   "https://facebook.hosweb.online",
+  "https://fedexbeta.com",
+  "https://genaitech.dev/response/docusignportalll.html",
   "https://googlereni-bidding-notification.com",
+  "https://icloudphone.help",
   "https://m.facebook.itlandfz.com",
+  "https://naturgygp.com",
   "https://outlook.security-cloud-check.com",
   "https://quantum-flares.com",
   "https://roblox.com.do/games/139410450104051/Chat-with-AI-Emiko?privateServerLinkCode=745660741441292497554846389664",
   "https://roblox.com.ml/games/2753915549/Blox-Fruits?privateServerLinkCode=356478297142760686281833142632",
+  "https://start-faq-en-trezr--public.typedream.app/en-us",
   "https://trustwalletcard.me",
   "https://usweb13217.paypal-password.antimoney-laundering.org",
-  "https://whatsappz.web.id"
+  "https://whatsappz.web.id",
+  "https://wwos-services.paypal-login.antimoney-laundering.org"
  ]
 }

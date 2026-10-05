@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 761
-# Updated: 2026-10-05T05:41:56Z
+# Entries: 753
+# Updated: 2026-10-05T14:41:39Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -87,12 +87,12 @@
 0.0.0.0 cn-feed-whatsapp.com.cn
 0.0.0.0 coinbase-event.vercel.app
 0.0.0.0 coinbase.com.lc
-0.0.0.0 coinbase66.com
 0.0.0.0 coinbaseinvestors.ai
 0.0.0.0 coinbaseprologinv.gitbook.io
 0.0.0.0 coinbaseverify.vercel.app
 0.0.0.0 collectableswall.ebaymclaren-austin.eventshouse.app
 0.0.0.0 com.tg
+0.0.0.0 comcast-2-iota.vercel.app
 0.0.0.0 comcast-2.vercel.app
 0.0.0.0 comcast-ebon.vercel.app
 0.0.0.0 comcast-seven.vercel.app
@@ -311,6 +311,7 @@
 0.0.0.0 facebooksecure.blogspot.com
 0.0.0.0 facebooksecurityhelp.blogspot.com
 0.0.0.0 facebookshops.best
+0.0.0.0 facebookslogins.blogspot.com
 0.0.0.0 facebooksociallink.blogspot.com
 0.0.0.0 facebookteamhelp.blogspot.com
 0.0.0.0 facebooktechnicalsupportnumber123.blogspot.com
@@ -319,7 +320,6 @@
 0.0.0.0 facebookverifyyouraccount.blogspot.com
 0.0.0.0 facebookwebsite9.blogspot.com
 0.0.0.0 facebookzaman.blogspot.com
-0.0.0.0 fedexbeta.com
 0.0.0.0 fedexsv.com
 0.0.0.0 fedexwp.com
 0.0.0.0 file-whatsappn.hl.cn
@@ -328,7 +328,6 @@
 0.0.0.0 free-facebook-page-likes.blogspot.com
 0.0.0.0 fwh.is
 0.0.0.0 gafiatechnologies.com
-0.0.0.0 genaitech.dev
 0.0.0.0 ggzh-google.com.cn
 0.0.0.0 gloronyan.github.io
 0.0.0.0 glovonetwork.com
@@ -368,7 +367,6 @@
 0.0.0.0 icloud-ubication.com
 0.0.0.0 icloudmex-lost.com
 0.0.0.0 icloudnotify.help
-0.0.0.0 icloudphone.help
 0.0.0.0 icloudweb-ext860.click
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
@@ -541,7 +539,6 @@
 0.0.0.0 munimventures.com
 0.0.0.0 my-facebook-blog.blogspot.com
 0.0.0.0 mytemp.website
-0.0.0.0 naturgygp.com
 0.0.0.0 nbpublic.com
 0.0.0.0 neda-facebook.blogspot.com
 0.0.0.0 netflix-71f05.firebaseapp.com
@@ -558,7 +555,6 @@
 0.0.0.0 netflix6.com
 0.0.0.0 netflixandchiffres.com
 0.0.0.0 netflixbymanoj.vercel.app
-0.0.0.0 netflixcasino1320.com
 0.0.0.0 netflixfeitoaqui.com.br
 0.0.0.0 netflixinfos.com
 0.0.0.0 netflixquebec.blogspot.com
@@ -613,7 +609,6 @@
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bo
 0.0.0.0 roblox.com.bz
-0.0.0.0 roblox.com.do
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.kz
@@ -641,11 +636,9 @@
 0.0.0.0 send-secure-trustwallet-usdt-bip20.vercel.app
 0.0.0.0 services-facebook.blogspot.com
 0.0.0.0 seureonline.shop
-0.0.0.0 share-files-onedrive.com
 0.0.0.0 shopweb.com.vn
 0.0.0.0 sigma-whatsapp.com
 0.0.0.0 sign-in-to-xfinity-updatee.weebly.com
-0.0.0.0 siran21877h9.beer
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 smallflyingarts.net
 0.0.0.0 smtp5-coinbase.com
@@ -660,7 +653,6 @@
 0.0.0.0 srpska-banka.com
 0.0.0.0 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 0.0.0.0 stardustottawa.com
-0.0.0.0 start-faq-en-trezr--public.typedream.app
 0.0.0.0 start-ledgerlive-com-web.typedream.app
 0.0.0.0 start-ledgren.zapier.app
 0.0.0.0 start-web-en-ledger-live-login.typedream.app
@@ -672,7 +664,6 @@
 0.0.0.0 strutsupportsystems.com
 0.0.0.0 su-facebook.blogspot.com
 0.0.0.0 sugar-outlook.com
-0.0.0.0 suport-appcloud.us
 0.0.0.0 suportcloud-us.info
 0.0.0.0 support-instagram.github.io
 0.0.0.0 support-ledgerlive-eng.typedream.app
@@ -723,6 +714,7 @@
 0.0.0.0 webador.com
 0.0.0.0 webmail-service-xfinity.vercel.app
 0.0.0.0 weeblysite.com
+0.0.0.0 wetransfer-smoky.vercel.app
 0.0.0.0 whatsapp-dp-images.in
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-iamsuyash.vercel.app
