@@ -1,41 +1,39 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 765
-! Updated: 2026-10-06T06:22:04Z
+! Entries: 753
+! Updated: 2026-10-06T18:22:48Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
 ! Community-reported phishing domains. Use at your own risk.
 
-||0123918hoh.forum^
-||021098.forum^
-||04319210h0.forum^
-||1200h8h.click^
+||04329390h.click^
 ||123-facebook.blogspot.com^
-||123090h9i45381.beer^
 ||190842-coinbase.com^
-||1923812899.forum^
 ||2017-facebook.blogspot.com^
-||21939120g-hgo5.click^
-||283674-coinbase.com^
 ||286364-coinbase.com^
 ||2ccloud.com^
-||410120-h094.casa^
+||3569734.lol^
 ||506494-kraken.com^
-||524675-coinbase.com^
-||912894590h.forum^
-||98210g0o89.click^
+||7546054.lol^
+||8465875.lol^
+||923568325.sbs^
+||9237657235.cfd^
+||9823758235.sbs^
+||a-computer-in-google-docs.pages.dev^
 ||a1-kraken.com^
 ||a2zapk.co^
 ||a2zapk.dev^
 ||account-instagram.vercel.app^
 ||acltci.com^
 ||adityagarad556-pixel.github.io^
+||adobedelcielo.com^
 ||adobeexperience.com.br^
 ||adobesign.org^
 ||agenciadlx.com.br^
 ||ahomeintheamazon.com^
 ||alibaba188.org^
 ||alibabaexclusifyx.com^
+||alibabatextilebd.com^
 ||amazon-harshdeep.vercel.app^
 ||amazon-opfq.vercel.app^
 ||ancoradourohotel.com.br^
@@ -61,7 +59,6 @@
 ||berbagi-facebook.blogspot.com^
 ||bercel.app^
 ||bet-facebook.blogspot.com^
-||binance-blog.vercel.app^
 ||binance-co.github.io^
 ||binance-mail.click^
 ||binance-og.com^
@@ -113,7 +110,6 @@
 ||correosiicr.cc^
 ||correosscri.cc^
 ||creyt.cl^
-||crypto-binance-guide.pages.dev^
 ||ct.ws^
 ||cz-facebook.blogspot.com^
 ||daservglobal.com^
@@ -317,7 +313,6 @@
 ||facebooksecure.blogspot.com^
 ||facebooksecurityhelp.blogspot.com^
 ||facebookshops.best^
-||facebookslogins.blogspot.com^
 ||facebooksociallink.blogspot.com^
 ||facebookteamhelp.blogspot.com^
 ||facebooktechnicalsupportnumber123.blogspot.com^
@@ -329,6 +324,7 @@
 ||fedexsv.com^
 ||fedexwp.com^
 ||fercel.app^
+||file-share-document-2026-08-26-0nedrive.cloud^
 ||file-whatsappn.hl.cn^
 ||forsakens-crew-teman-facebook.blogspot.com^
 ||foryour.review^
@@ -406,7 +402,6 @@
 ||instagram-login-page-theta.vercel.app^
 ||instagram-login-page-two.vercel.app^
 ||instagram-login-support.vercel.app^
-||instagram-login-user.blogspot.com^
 ||instagram-mu-rosy.vercel.app^
 ||instagram-new-version.vercel.app^
 ||instagram-nu-six.vercel.app^
@@ -497,7 +492,6 @@
 ||ly-facebook.blogspot.com^
 ||m365-microsoft.com^
 ||m4ntapaset.ink^
-||mail-xfinitylogin.weebly.com^
 ||marycar.com.br^
 ||mb-facebook.blogspot.com^
 ||mclarencar.ebaymclaren-austin.eventshouse.app^
@@ -536,7 +530,6 @@
 ||microsoft365updates.com^
 ||microsoftjk.eu.org^
 ||microsoftoffice-o365.com^
-||microsoftsupportcenter.digital^
 ||microsoftuk.co^
 ||microsoftwordob.blogspot.com^
 ||mirror-google.com^
@@ -575,7 +568,6 @@
 ||news-revolut.com^
 ||noreply-icloud.app^
 ||nw-facebook.blogspot.com^
-||ofe-120499.click^
 ||office365licensingsupport.com^
 ||online-facebook-privacy.blogspot.com^
 ||oortstorages.com^
@@ -598,11 +590,11 @@
 ||pe-facebook.blogspot.com^
 ||phil-heron-zoomdrain-com-s-account.workers.dev^
 ||piedrasdecolon.com.ar^
+||pl-bh5k.sbs^
 ||play-roblox.com^
 ||premio-instagram.com^
 ||previewship.net^
 ||profil-facebook-saya.blogspot.com^
-||prw81289h.casa^
 ||ptai.in^
 ||r-facebook.blogspot.com^
 ||rama-facebook.blogspot.com^
@@ -615,15 +607,14 @@
 ||renfe-sncf.com^
 ||rev.it^
 ||roblox-login.vercel.app^
-||roblox.com.bi^
 ||roblox.com.bn^
 ||roblox.com.bo^
-||roblox.com.bz^
 ||roblox.com.ee^
 ||roblox.com.gr^
 ||roblox.com.kz^
 ||roblox.com.mu^
 ||roblox.com.pt^
+||roblox.rw^
 ||robloxc.com.es^
 ||rricrosoft-offices.org^
 ||ruddycruzc.github.io^
@@ -636,13 +627,13 @@
 ||santanderbizum.com^
 ||santandercitas.com^
 ||saque-instagram.com^
-||sarn83271299hh9.click^
 ||search.er.in^
 ||secure-coinbase-com-sign-in.typedream.app^
 ||secure-dropbox.ist^
 ||securedsupport-coinbase.com^
 ||secureserver.net^
 ||security-appleid.com^
+||seg-social.vip^
 ||sena-facebook.blogspot.com^
 ||send-secure-trustwallet-usdt-bip20.vercel.app^
 ||services-facebook.blogspot.com^
@@ -652,11 +643,8 @@
 ||sign-in-to-xfinity-updatee.weebly.com^
 ||sk-facebook.blogspot.com^
 ||smallflyingarts.net^
-||smar8u32781299.forum^
-||smar93928912h-54.click^
 ||smtp5-coinbase.com^
 ||smtp6-coinbase.com^
-||sp5389910.click^
 ||spotify-client-beta.vercel.app^
 ||spotify-payment.click^
 ||spotifylite.online^
@@ -678,6 +666,7 @@
 ||su-facebook.blogspot.com^
 ||sugar-outlook.com^
 ||suiteapp-trezrr.wixstudio.com^
+||support-apple.wiki^
 ||support-instagram.github.io^
 ||support-ledgerlive-eng.typedream.app^
 ||support-ledgrcom-start-web.typedream.app^
@@ -705,6 +694,8 @@
 ||trustwallet-login.blogspot.com^
 ||trustwallet-secure-check.vercel.app^
 ||trustwallet-tokentwtowner.vercel.app^
+||trustwalletindia-beta.vercel.app^
+||twitter12.com^
 ||updata.net.cn^
 ||usdt-trustwallet-blockchain.vercel.app^
 ||uspsaunitedworkforce.com^
@@ -741,7 +732,6 @@
 ||whatsappwebred.blogspot.com^
 ||whatsappzoeiras.blogspot.com^
 ||windows-ledger-live.typedream.app^
-||wmq8390100.casa^
 ||wooflers.com^
 ||www-app-google.com^
 ||www-google.cn^
@@ -759,9 +749,7 @@
 ||xfinityon.com^
 ||xfinityservicekey.weebly.com^
 ||xfinityservices.vercel.app^
-||xfinitysupportnow.weebly.com^
 ||xfinityteamslogin.weebly.com^
-||xfinityuserverification.weebly.com^
 ||yonataxi.at^
 ||yzz.me^
 ||z-facebook.blogspot.com^

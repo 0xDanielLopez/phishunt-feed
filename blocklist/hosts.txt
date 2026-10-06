@@ -1,41 +1,39 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 765
-# Updated: 2026-10-06T06:22:04Z
+# Entries: 753
+# Updated: 2026-10-06T18:22:47Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
-0.0.0.0 0123918hoh.forum
-0.0.0.0 021098.forum
-0.0.0.0 04319210h0.forum
-0.0.0.0 1200h8h.click
+0.0.0.0 04329390h.click
 0.0.0.0 123-facebook.blogspot.com
-0.0.0.0 123090h9i45381.beer
 0.0.0.0 190842-coinbase.com
-0.0.0.0 1923812899.forum
 0.0.0.0 2017-facebook.blogspot.com
-0.0.0.0 21939120g-hgo5.click
-0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
 0.0.0.0 2ccloud.com
-0.0.0.0 410120-h094.casa
+0.0.0.0 3569734.lol
 0.0.0.0 506494-kraken.com
-0.0.0.0 524675-coinbase.com
-0.0.0.0 912894590h.forum
-0.0.0.0 98210g0o89.click
+0.0.0.0 7546054.lol
+0.0.0.0 8465875.lol
+0.0.0.0 923568325.sbs
+0.0.0.0 9237657235.cfd
+0.0.0.0 9823758235.sbs
+0.0.0.0 a-computer-in-google-docs.pages.dev
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
 0.0.0.0 account-instagram.vercel.app
 0.0.0.0 acltci.com
 0.0.0.0 adityagarad556-pixel.github.io
+0.0.0.0 adobedelcielo.com
 0.0.0.0 adobeexperience.com.br
 0.0.0.0 adobesign.org
 0.0.0.0 agenciadlx.com.br
 0.0.0.0 ahomeintheamazon.com
 0.0.0.0 alibaba188.org
 0.0.0.0 alibabaexclusifyx.com
+0.0.0.0 alibabatextilebd.com
 0.0.0.0 amazon-harshdeep.vercel.app
 0.0.0.0 amazon-opfq.vercel.app
 0.0.0.0 ancoradourohotel.com.br
@@ -61,7 +59,6 @@
 0.0.0.0 berbagi-facebook.blogspot.com
 0.0.0.0 bercel.app
 0.0.0.0 bet-facebook.blogspot.com
-0.0.0.0 binance-blog.vercel.app
 0.0.0.0 binance-co.github.io
 0.0.0.0 binance-mail.click
 0.0.0.0 binance-og.com
@@ -113,7 +110,6 @@
 0.0.0.0 correosiicr.cc
 0.0.0.0 correosscri.cc
 0.0.0.0 creyt.cl
-0.0.0.0 crypto-binance-guide.pages.dev
 0.0.0.0 ct.ws
 0.0.0.0 cz-facebook.blogspot.com
 0.0.0.0 daservglobal.com
@@ -317,7 +313,6 @@
 0.0.0.0 facebooksecure.blogspot.com
 0.0.0.0 facebooksecurityhelp.blogspot.com
 0.0.0.0 facebookshops.best
-0.0.0.0 facebookslogins.blogspot.com
 0.0.0.0 facebooksociallink.blogspot.com
 0.0.0.0 facebookteamhelp.blogspot.com
 0.0.0.0 facebooktechnicalsupportnumber123.blogspot.com
@@ -329,6 +324,7 @@
 0.0.0.0 fedexsv.com
 0.0.0.0 fedexwp.com
 0.0.0.0 fercel.app
+0.0.0.0 file-share-document-2026-08-26-0nedrive.cloud
 0.0.0.0 file-whatsappn.hl.cn
 0.0.0.0 forsakens-crew-teman-facebook.blogspot.com
 0.0.0.0 foryour.review
@@ -406,7 +402,6 @@
 0.0.0.0 instagram-login-page-theta.vercel.app
 0.0.0.0 instagram-login-page-two.vercel.app
 0.0.0.0 instagram-login-support.vercel.app
-0.0.0.0 instagram-login-user.blogspot.com
 0.0.0.0 instagram-mu-rosy.vercel.app
 0.0.0.0 instagram-new-version.vercel.app
 0.0.0.0 instagram-nu-six.vercel.app
@@ -497,7 +492,6 @@
 0.0.0.0 ly-facebook.blogspot.com
 0.0.0.0 m365-microsoft.com
 0.0.0.0 m4ntapaset.ink
-0.0.0.0 mail-xfinitylogin.weebly.com
 0.0.0.0 marycar.com.br
 0.0.0.0 mb-facebook.blogspot.com
 0.0.0.0 mclarencar.ebaymclaren-austin.eventshouse.app
@@ -536,7 +530,6 @@
 0.0.0.0 microsoft365updates.com
 0.0.0.0 microsoftjk.eu.org
 0.0.0.0 microsoftoffice-o365.com
-0.0.0.0 microsoftsupportcenter.digital
 0.0.0.0 microsoftuk.co
 0.0.0.0 microsoftwordob.blogspot.com
 0.0.0.0 mirror-google.com
@@ -575,7 +568,6 @@
 0.0.0.0 news-revolut.com
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
-0.0.0.0 ofe-120499.click
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 online-facebook-privacy.blogspot.com
 0.0.0.0 oortstorages.com
@@ -598,11 +590,11 @@
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 phil-heron-zoomdrain-com-s-account.workers.dev
 0.0.0.0 piedrasdecolon.com.ar
+0.0.0.0 pl-bh5k.sbs
 0.0.0.0 play-roblox.com
 0.0.0.0 premio-instagram.com
 0.0.0.0 previewship.net
 0.0.0.0 profil-facebook-saya.blogspot.com
-0.0.0.0 prw81289h.casa
 0.0.0.0 ptai.in
 0.0.0.0 r-facebook.blogspot.com
 0.0.0.0 rama-facebook.blogspot.com
@@ -615,15 +607,14 @@
 0.0.0.0 renfe-sncf.com
 0.0.0.0 rev.it
 0.0.0.0 roblox-login.vercel.app
-0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bo
-0.0.0.0 roblox.com.bz
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.kz
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
+0.0.0.0 roblox.rw
 0.0.0.0 robloxc.com.es
 0.0.0.0 rricrosoft-offices.org
 0.0.0.0 ruddycruzc.github.io
@@ -636,13 +627,13 @@
 0.0.0.0 santanderbizum.com
 0.0.0.0 santandercitas.com
 0.0.0.0 saque-instagram.com
-0.0.0.0 sarn83271299hh9.click
 0.0.0.0 search.er.in
 0.0.0.0 secure-coinbase-com-sign-in.typedream.app
 0.0.0.0 secure-dropbox.ist
 0.0.0.0 securedsupport-coinbase.com
 0.0.0.0 secureserver.net
 0.0.0.0 security-appleid.com
+0.0.0.0 seg-social.vip
 0.0.0.0 sena-facebook.blogspot.com
 0.0.0.0 send-secure-trustwallet-usdt-bip20.vercel.app
 0.0.0.0 services-facebook.blogspot.com
@@ -652,11 +643,8 @@
 0.0.0.0 sign-in-to-xfinity-updatee.weebly.com
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 smallflyingarts.net
-0.0.0.0 smar8u32781299.forum
-0.0.0.0 smar93928912h-54.click
 0.0.0.0 smtp5-coinbase.com
 0.0.0.0 smtp6-coinbase.com
-0.0.0.0 sp5389910.click
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotify-payment.click
 0.0.0.0 spotifylite.online
@@ -678,6 +666,7 @@
 0.0.0.0 su-facebook.blogspot.com
 0.0.0.0 sugar-outlook.com
 0.0.0.0 suiteapp-trezrr.wixstudio.com
+0.0.0.0 support-apple.wiki
 0.0.0.0 support-instagram.github.io
 0.0.0.0 support-ledgerlive-eng.typedream.app
 0.0.0.0 support-ledgrcom-start-web.typedream.app
@@ -705,6 +694,8 @@
 0.0.0.0 trustwallet-login.blogspot.com
 0.0.0.0 trustwallet-secure-check.vercel.app
 0.0.0.0 trustwallet-tokentwtowner.vercel.app
+0.0.0.0 trustwalletindia-beta.vercel.app
+0.0.0.0 twitter12.com
 0.0.0.0 updata.net.cn
 0.0.0.0 usdt-trustwallet-blockchain.vercel.app
 0.0.0.0 uspsaunitedworkforce.com
@@ -741,7 +732,6 @@
 0.0.0.0 whatsappwebred.blogspot.com
 0.0.0.0 whatsappzoeiras.blogspot.com
 0.0.0.0 windows-ledger-live.typedream.app
-0.0.0.0 wmq8390100.casa
 0.0.0.0 wooflers.com
 0.0.0.0 www-app-google.com
 0.0.0.0 www-google.cn
@@ -759,9 +749,7 @@
 0.0.0.0 xfinityon.com
 0.0.0.0 xfinityservicekey.weebly.com
 0.0.0.0 xfinityservices.vercel.app
-0.0.0.0 xfinitysupportnow.weebly.com
 0.0.0.0 xfinityteamslogin.weebly.com
-0.0.0.0 xfinityuserverification.weebly.com
 0.0.0.0 yonataxi.at
 0.0.0.0 yzz.me
 0.0.0.0 z-facebook.blogspot.com
