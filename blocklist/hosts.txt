@@ -1,18 +1,25 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 753
-# Updated: 2026-10-05T14:41:39Z
+# Entries: 759
+# Updated: 2026-10-06T00:03:59Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
+0.0.0.0 0123918hoh.forum
+0.0.0.0 021098.forum
+0.0.0.0 04319210h0.forum
+0.0.0.0 1200h8h.click
 0.0.0.0 123-facebook.blogspot.com
+0.0.0.0 123090h9i45381.beer
+0.0.0.0 130826.ngrok.app
 0.0.0.0 190842-coinbase.com
+0.0.0.0 1923812899.forum
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 283674-coinbase.com
 0.0.0.0 286364-coinbase.com
-0.0.0.0 291934128h9.beer
 0.0.0.0 2ccloud.com
+0.0.0.0 410120-h094.casa
 0.0.0.0 524675-coinbase.com
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
@@ -23,6 +30,7 @@
 0.0.0.0 adobeexperience.com.br
 0.0.0.0 adobesign.org
 0.0.0.0 agenciadlx.com.br
+0.0.0.0 ahomeintheamazon.com
 0.0.0.0 alibaba188.org
 0.0.0.0 alibabaexclusifyx.com
 0.0.0.0 amazon-harshdeep.vercel.app
@@ -39,7 +47,6 @@
 0.0.0.0 apple-icloud.azurewebsites.net
 0.0.0.0 assign-icloud.com
 0.0.0.0 asso-entrautres.fr
-0.0.0.0 auth.properties
 0.0.0.0 avaturefed.net
 0.0.0.0 axm-amazon.com
 0.0.0.0 bankofamericamailcompte.blogspot.com
@@ -74,7 +81,6 @@
 0.0.0.0 buscarmi-icloud.app
 0.0.0.0 business-dropbox.me
 0.0.0.0 c-binance.github.io
-0.0.0.0 canalpuntosafe.com
 0.0.0.0 careers-openai.com
 0.0.0.0 carsscanned.ebaymclaren-austin.eventshouse.app
 0.0.0.0 cashapp-liart.vercel.app
@@ -91,7 +97,6 @@
 0.0.0.0 coinbaseprologinv.gitbook.io
 0.0.0.0 coinbaseverify.vercel.app
 0.0.0.0 collectableswall.ebaymclaren-austin.eventshouse.app
-0.0.0.0 com.tg
 0.0.0.0 comcast-2-iota.vercel.app
 0.0.0.0 comcast-2.vercel.app
 0.0.0.0 comcast-ebon.vercel.app
@@ -129,7 +134,6 @@
 0.0.0.0 dropbox-online.at
 0.0.0.0 dropbox-online.net
 0.0.0.0 dropboxbiz.com
-0.0.0.0 e-kup24.sbs
 0.0.0.0 ebay-c.com
 0.0.0.0 ebay-phone-number.blogspot.com
 0.0.0.0 ebay-seller-center-managedpayments.vercel.app
@@ -362,13 +366,13 @@
 0.0.0.0 hsbctds.com
 0.0.0.0 hstn.me
 0.0.0.0 https-roblox.com
-0.0.0.0 iberdrolatrade.com
 0.0.0.0 icloud-asisten-official.com
 0.0.0.0 icloud-ubication.com
 0.0.0.0 icloudmex-lost.com
 0.0.0.0 icloudnotify.help
 0.0.0.0 icloudweb-ext860.click
 0.0.0.0 ideeo.mx
+0.0.0.0 ife8239h0.casa
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 info-facebook.blogspot.com
 0.0.0.0 infy.click
@@ -448,7 +452,6 @@
 0.0.0.0 jo-facebook.blogspot.com
 0.0.0.0 jt-facebook.blogspot.com
 0.0.0.0 jwb-facebook.blogspot.com
-0.0.0.0 karrasconsulting.net
 0.0.0.0 kauadosantos.github.io
 0.0.0.0 klassik-erh.de
 0.0.0.0 kraken-tor.co.com
@@ -461,7 +464,6 @@
 0.0.0.0 ledger-live-download-sso-conect.typedream.app
 0.0.0.0 ledger-live-login-web.square.site
 0.0.0.0 ledger-live-wallet-start-conect-us-en.typedream.app
-0.0.0.0 ledgerlive-ledgers.us
 0.0.0.0 ledgerwalletrepair.com
 0.0.0.0 ledgrelivapp--crome.typedream.app
 0.0.0.0 leia-santander.vercel.app
@@ -565,9 +567,11 @@
 0.0.0.0 news-revolut.com
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
-0.0.0.0 oferty24.sbs
+0.0.0.0 oferta-smart.sbs
+0.0.0.0 oferta9435022.sbs
+0.0.0.0 oferty-smart.lol
 0.0.0.0 office365licensingsupport.com
-0.0.0.0 oneworldnetwork.com
+0.0.0.0 ofie8123910h.beer
 0.0.0.0 online-facebook-privacy.blogspot.com
 0.0.0.0 oortstorages.com
 0.0.0.0 open-instagram.vercel.app
@@ -589,9 +593,11 @@
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 phil-heron-zoomdrain-com-s-account.workers.dev
 0.0.0.0 piedrasdecolon.com.ar
+0.0.0.0 pr7812819.casa
 0.0.0.0 premio-instagram.com
 0.0.0.0 previewship.net
 0.0.0.0 profil-facebook-saya.blogspot.com
+0.0.0.0 prw81289h.casa
 0.0.0.0 ptai.in
 0.0.0.0 r-facebook.blogspot.com
 0.0.0.0 rama-facebook.blogspot.com
@@ -603,7 +609,6 @@
 0.0.0.0 register-facebook.blogspot.com
 0.0.0.0 renfe-sncf.com
 0.0.0.0 rev.it
-0.0.0.0 review-docusign-document.top
 0.0.0.0 roblox-login.vercel.app
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
@@ -612,13 +617,13 @@
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.kz
-0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 robloxc.com.es
 0.0.0.0 rricrosoft-offices.org
 0.0.0.0 ruddycruzc.github.io
 0.0.0.0 s-facebook.blogspot.com
+0.0.0.0 s921384128421.casa
 0.0.0.0 sagers.com
 0.0.0.0 samplel-ks6yxvur5-instagramm.vercel.app
 0.0.0.0 santander-dev-week.vercel.app
@@ -631,6 +636,7 @@
 0.0.0.0 secure-coinbase-com-sign-in.typedream.app
 0.0.0.0 secure-dropbox.ist
 0.0.0.0 securedsupport-coinbase.com
+0.0.0.0 secureserver.net
 0.0.0.0 security-appleid.com
 0.0.0.0 sena-facebook.blogspot.com
 0.0.0.0 send-secure-trustwallet-usdt-bip20.vercel.app
@@ -641,6 +647,7 @@
 0.0.0.0 sign-in-to-xfinity-updatee.weebly.com
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 smallflyingarts.net
+0.0.0.0 smar8u32781299.forum
 0.0.0.0 smtp5-coinbase.com
 0.0.0.0 smtp6-coinbase.com
 0.0.0.0 spotify-client-beta.vercel.app
@@ -657,13 +664,13 @@
 0.0.0.0 start-ledgren.zapier.app
 0.0.0.0 start-web-en-ledger-live-login.typedream.app
 0.0.0.0 steamcommunity.blog
-0.0.0.0 steamcommunity.click
 0.0.0.0 steamcommunity.ing
 0.0.0.0 steuerquimica.cl
 0.0.0.0 strab.org
 0.0.0.0 strutsupportsystems.com
 0.0.0.0 su-facebook.blogspot.com
 0.0.0.0 sugar-outlook.com
+0.0.0.0 suiteapp-trezrr.wixstudio.com
 0.0.0.0 suportcloud-us.info
 0.0.0.0 support-instagram.github.io
 0.0.0.0 support-ledgerlive-eng.typedream.app
@@ -681,13 +688,11 @@
 0.0.0.0 todo--facebook.blogspot.com
 0.0.0.0 tottattoo.com
 0.0.0.0 trackingnumbers.org
-0.0.0.0 trezoo-iostt-en.framer.media
 0.0.0.0 trezoorr--thego.gitbook.io
 0.0.0.0 trezor-login-us-auth-start.typedream.app
 0.0.0.0 trezorguide.vercel.app
 0.0.0.0 trezoriostart-web.square.site
 0.0.0.0 trezorrgoappup.gitbook.io
-0.0.0.0 trust-wallet-contact.vercel.app
 0.0.0.0 trust-wallet-customer-support-number.github.io
 0.0.0.0 trust-wallet-login.vercel.app
 0.0.0.0 trustwallet-helpcenter.vercel.app
@@ -700,6 +705,7 @@
 0.0.0.0 uspsecuredlogs.com
 0.0.0.0 uspssmartparcellocker.tech
 0.0.0.0 v0-instagram-accounts.vercel.app
+0.0.0.0 venmo-usr.my.id
 0.0.0.0 verifytoken.com
 0.0.0.0 vi-facebook.blogspot.com
 0.0.0.0 viewclass.com
@@ -726,10 +732,10 @@
 0.0.0.0 whatsappbrnoticias.blogspot.com
 0.0.0.0 whatsappcampaign.online
 0.0.0.0 whatsappfreewhatsapp.blogspot.com
-0.0.0.0 whatsappweb-ok.com
 0.0.0.0 whatsappwebred.blogspot.com
 0.0.0.0 whatsappzoeiras.blogspot.com
 0.0.0.0 windows-ledger-live.typedream.app
+0.0.0.0 wmq8390100.casa
 0.0.0.0 wooflers.com
 0.0.0.0 www-app-google.com
 0.0.0.0 www-google.cn
