@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 759
-! Updated: 2026-10-06T00:03:59Z
+! Entries: 765
+! Updated: 2026-10-06T06:22:04Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -12,15 +12,18 @@
 ||1200h8h.click^
 ||123-facebook.blogspot.com^
 ||123090h9i45381.beer^
-||130826.ngrok.app^
 ||190842-coinbase.com^
 ||1923812899.forum^
 ||2017-facebook.blogspot.com^
+||21939120g-hgo5.click^
 ||283674-coinbase.com^
 ||286364-coinbase.com^
 ||2ccloud.com^
 ||410120-h094.casa^
+||506494-kraken.com^
 ||524675-coinbase.com^
+||912894590h.forum^
+||98210g0o89.click^
 ||a1-kraken.com^
 ||a2zapk.co^
 ||a2zapk.dev^
@@ -56,6 +59,7 @@
 ||bbvalues.uk^
 ||be-spotify.com^
 ||berbagi-facebook.blogspot.com^
+||bercel.app^
 ||bet-facebook.blogspot.com^
 ||binance-blog.vercel.app^
 ||binance-co.github.io^
@@ -89,7 +93,6 @@
 ||ch-google.cc^
 ||chatgpt0005.eu.org^
 ||click-facebook.blogspot.com^
-||cloud-ld-soporte.com^
 ||cn-feed-whatsapp.com.cn^
 ||coinbase-event.vercel.app^
 ||coinbase.com.lc^
@@ -102,7 +105,6 @@
 ||comcast-ebon.vercel.app^
 ||comcast-seven.vercel.app^
 ||comcast2.vercel.app^
-||comcastcarebusiness.weebly.com^
 ||comcastinfoupdatesnow.weebly.com^
 ||comcastseettings.weebly.com^
 ||comcastwebmailuser.weebly.com^
@@ -326,12 +328,14 @@
 ||facebookzaman.blogspot.com^
 ||fedexsv.com^
 ||fedexwp.com^
+||fercel.app^
 ||file-whatsappn.hl.cn^
 ||forsakens-crew-teman-facebook.blogspot.com^
 ||foryour.review^
 ||free-facebook-page-likes.blogspot.com^
 ||fwh.is^
 ||gafiatechnologies.com^
+||gercel.app^
 ||ggzh-google.com.cn^
 ||gloronyan.github.io^
 ||glovonetwork.com^
@@ -356,6 +360,7 @@
 ||googleplrzy.com^
 ||hashnode.dev^
 ||help-instagram.blogspot.com^
+||hnxledu.com^
 ||hofmemorabilia.ebaymclaren-austin.eventshouse.app^
 ||holdings-coinbase.com^
 ||home-facebook.blogspot.com^
@@ -372,7 +377,6 @@
 ||icloudnotify.help^
 ||icloudweb-ext860.click^
 ||ideeo.mx^
-||ife8239h0.casa^
 ||ifotografix.co.uk^
 ||info-facebook.blogspot.com^
 ||infy.click^
@@ -380,7 +384,9 @@
 ||iniciamazon.com.br^
 ||instagram-2-0-4p6f5s6nd-chibokaxavier.vercel.app^
 ||instagram-2-blond.vercel.app^
+||instagram-account-free-follower.vercel.app^
 ||instagram-baittouts-login.blogspot.com^
+||instagram-blush.vercel.app^
 ||instagram-cam.vercel.app^
 ||instagram-change-password.blogspot.com^
 ||instagram-chi-ten.vercel.app^
@@ -394,6 +400,7 @@
 ||instagram-followers-boost.vercel.app^
 ||instagram-frontpage.vercel.app^
 ||instagram-inky.vercel.app^
+||instagram-itng.vercel.app^
 ||instagram-jennifer.blogspot.com^
 ||instagram-lilac-two.vercel.app^
 ||instagram-login-page-theta.vercel.app^
@@ -502,6 +509,7 @@
 ||metamask-ai-agent.vercel.app^
 ||metamask-connect.vercel.app^
 ||metamask-dev-dashboard-feat-remove-prora-consensys-ddffed67.vercel.app^
+||metamask-docs-git-cursor-fix-banner-c-960a25-consensys-ddffed67.vercel.app^
 ||metamask-launchpad.vercel.app^
 ||metamask-login.vercel.app^
 ||metamask-six.vercel.app^
@@ -567,11 +575,8 @@
 ||news-revolut.com^
 ||noreply-icloud.app^
 ||nw-facebook.blogspot.com^
-||oferta-smart.sbs^
-||oferta9435022.sbs^
-||oferty-smart.lol^
+||ofe-120499.click^
 ||office365licensingsupport.com^
-||ofie8123910h.beer^
 ||online-facebook-privacy.blogspot.com^
 ||oortstorages.com^
 ||open-instagram.vercel.app^
@@ -593,7 +598,7 @@
 ||pe-facebook.blogspot.com^
 ||phil-heron-zoomdrain-com-s-account.workers.dev^
 ||piedrasdecolon.com.ar^
-||pr7812819.casa^
+||play-roblox.com^
 ||premio-instagram.com^
 ||previewship.net^
 ||profil-facebook-saya.blogspot.com^
@@ -623,7 +628,6 @@
 ||rricrosoft-offices.org^
 ||ruddycruzc.github.io^
 ||s-facebook.blogspot.com^
-||s921384128421.casa^
 ||sagers.com^
 ||samplel-ks6yxvur5-instagramm.vercel.app^
 ||santander-dev-week.vercel.app^
@@ -632,6 +636,7 @@
 ||santanderbizum.com^
 ||santandercitas.com^
 ||saque-instagram.com^
+||sarn83271299hh9.click^
 ||search.er.in^
 ||secure-coinbase-com-sign-in.typedream.app^
 ||secure-dropbox.ist^
@@ -648,8 +653,10 @@
 ||sk-facebook.blogspot.com^
 ||smallflyingarts.net^
 ||smar8u32781299.forum^
+||smar93928912h-54.click^
 ||smtp5-coinbase.com^
 ||smtp6-coinbase.com^
+||sp5389910.click^
 ||spotify-client-beta.vercel.app^
 ||spotify-payment.click^
 ||spotifylite.online^
@@ -671,7 +678,6 @@
 ||su-facebook.blogspot.com^
 ||sugar-outlook.com^
 ||suiteapp-trezrr.wixstudio.com^
-||suportcloud-us.info^
 ||support-instagram.github.io^
 ||support-ledgerlive-eng.typedream.app^
 ||support-ledgrcom-start-web.typedream.app^
