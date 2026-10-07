@@ -1,24 +1,21 @@
 {
  "date": "2026-10-07",
- "updated": "2026-10-07T13:25:39Z",
+ "updated": "2026-10-07T23:05:52Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 16,
-  "removed": 28
+  "added": 13,
+  "removed": 30
  },
  "added": [
-  "http://accounts-google-signin.duckdns.org",
   "http://allegro.1231302h.pl",
   "http://allegro.esmart-oferta.sbs",
-  "http://allegro.orwa73291hh.pics",
-  "http://allegro.smar2829.casa",
-  "http://allegrolokalnie.esmart-oferta.sbs",
-  "http://xfinity.eventivite.link",
   "https://1286524.us23.myftpupload.com/Paypal-dede2k25/Paypal-de0-w029430/paypalde2k25/auth/login.php",
+  "https://73a2370016b7.newhkg.paypal-login.antimoney-laundering.org",
   "https://account-icloud.cquup.com/login/",
   "https://exodus-desktop-mobile-wallet.github.io/.github",
   "https://ftw.alibaba99.com",
+  "https://googlecontacts.email",
   "https://roblox.com.bi/games/125479550217058/vivid-memory-cozy-house-showcaseRP?privateServerLinkCode=29345276426732758372287653021292",
   "https://trustwallet-team-support.github.io/Trust/",
   "https://verifyaccount-google.com",
@@ -39,6 +36,8 @@
   "https://allegrolokalnie.7546054.lol",
   "https://allegrolokalnie.923568325.sbs",
   "https://allegrolokalnie.9823758235.sbs",
+  "https://allegrolokalnie.pl-bh5k.sbs/ipad-11-wersja-czip-a16/11800",
+  "https://app-exodusweb.pages.dev/%22%3EExodus",
   "https://app.venmo-usr.my.id",
   "https://ebay5678.vip",
   "https://mail.app.venmo-usr.my.id",

@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 743
-# Updated: 2026-10-07T13:25:38Z
+# Entries: 738
+# Updated: 2026-10-07T23:04:39Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -17,7 +17,6 @@ a1-kraken.com
 a2zapk.co
 a2zapk.dev
 account-instagram.vercel.app
-accounts-google-signin.duckdns.org
 acltci.com
 adobedelcielo.com
 adobeexperience.com.br
@@ -35,7 +34,6 @@ annulation-amazon.com
 antimoney-laundering.org
 apk-google.cn
 app-binance.github.io
-app-exodusweb.pages.dev
 app-facebook.blogspot.com
 app81-facebook.blogspot.com
 apple-icloud.azurewebsites.net
@@ -143,7 +141,6 @@ erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot
 esmart-oferta.sbs
 eu-facebook.blogspot.com
 eu.cc
-eventivite.link
 ewlpnkrg.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 exclusive-openseamints.vercel.app
@@ -339,6 +336,7 @@ google1302.com
 google1308.com
 google2play.com
 googlebusiness.xyz
+googlecontacts.email
 googleepkay.com
 googleepway.com
 googlegnhcf.com
@@ -568,7 +566,6 @@ opensea-six.vercel.app
 openseaproks007.vercel.app
 openseavxr.vercel.app
 orbit-whatsapp.com
-orwa73291hh.pics
 ossama-instagram.vercel.app
 outlookindia.com
 outlookmail.social
@@ -581,7 +578,6 @@ paypalcorp.blogspot.com
 pe-facebook.blogspot.com
 phil-heron-zoomdrain-com-s-account.workers.dev
 piedrasdecolon.com.ar
-pl-bh5k.sbs
 premio-instagram.com
 previewship.net
 profil-facebook-saya.blogspot.com
@@ -633,7 +629,6 @@ sigma-whatsapp.com
 sign-in-to-xfinity-updatee.weebly.com
 sk-facebook.blogspot.com
 smallflyingarts.net
-smar2829.casa
 smtp6-coinbase.com
 spotify-client-beta.vercel.app
 spotify-payment.click

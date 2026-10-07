@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 743
-# Updated: 2026-10-07T13:25:39Z
+# Entries: 738
+# Updated: 2026-10-07T23:05:51Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -17,7 +17,6 @@
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
 0.0.0.0 account-instagram.vercel.app
-0.0.0.0 accounts-google-signin.duckdns.org
 0.0.0.0 acltci.com
 0.0.0.0 adobedelcielo.com
 0.0.0.0 adobeexperience.com.br
@@ -35,7 +34,6 @@
 0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
-0.0.0.0 app-exodusweb.pages.dev
 0.0.0.0 app-facebook.blogspot.com
 0.0.0.0 app81-facebook.blogspot.com
 0.0.0.0 apple-icloud.azurewebsites.net
@@ -143,7 +141,6 @@
 0.0.0.0 esmart-oferta.sbs
 0.0.0.0 eu-facebook.blogspot.com
 0.0.0.0 eu.cc
-0.0.0.0 eventivite.link
 0.0.0.0 ewlpnkrg.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 0.0.0.0 ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 0.0.0.0 exclusive-openseamints.vercel.app
@@ -339,6 +336,7 @@
 0.0.0.0 google1308.com
 0.0.0.0 google2play.com
 0.0.0.0 googlebusiness.xyz
+0.0.0.0 googlecontacts.email
 0.0.0.0 googleepkay.com
 0.0.0.0 googleepway.com
 0.0.0.0 googlegnhcf.com
@@ -568,7 +566,6 @@
 0.0.0.0 openseaproks007.vercel.app
 0.0.0.0 openseavxr.vercel.app
 0.0.0.0 orbit-whatsapp.com
-0.0.0.0 orwa73291hh.pics
 0.0.0.0 ossama-instagram.vercel.app
 0.0.0.0 outlookindia.com
 0.0.0.0 outlookmail.social
@@ -581,7 +578,6 @@
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 phil-heron-zoomdrain-com-s-account.workers.dev
 0.0.0.0 piedrasdecolon.com.ar
-0.0.0.0 pl-bh5k.sbs
 0.0.0.0 premio-instagram.com
 0.0.0.0 previewship.net
 0.0.0.0 profil-facebook-saya.blogspot.com
@@ -633,7 +629,6 @@
 0.0.0.0 sign-in-to-xfinity-updatee.weebly.com
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 smallflyingarts.net
-0.0.0.0 smar2829.casa
 0.0.0.0 smtp6-coinbase.com
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotify-payment.click
