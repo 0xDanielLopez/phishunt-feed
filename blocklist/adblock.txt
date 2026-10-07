@@ -1,12 +1,11 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 746
-! Updated: 2026-10-07T06:01:47Z
+! Entries: 743
+! Updated: 2026-10-07T13:25:39Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
 ! Community-reported phishing domains. Use at your own risk.
 
-||04329390h.click^
 ||123-facebook.blogspot.com^
 ||1231302h.pl^
 ||190842-coinbase.com^
@@ -22,7 +21,6 @@
 ||acltci.com^
 ||adobedelcielo.com^
 ||adobeexperience.com.br^
-||adobesign.org^
 ||agenciadlx.com.br^
 ||ahomeintheamazon.com^
 ||alibaba188.org^
@@ -104,6 +102,7 @@
 ||correoscri.cc^
 ||correosiicr.cc^
 ||correosscri.cc^
+||cquup.com^
 ||creyt.cl^
 ||ct.ws^
 ||cz-facebook.blogspot.com^
@@ -130,7 +129,6 @@
 ||ebay-c.com^
 ||ebay-phone-number.blogspot.com^
 ||ebay-seller-center-managedpayments.vercel.app^
-||ebay5678.vip^
 ||ebayesho.com^
 ||ebaymclaren-austin.eventshouse.app^
 ||ebaymevip.com^
@@ -142,8 +140,10 @@
 ||enhancedconfiguration.app^
 ||epsilons.co^
 ||erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org^
+||esmart-oferta.sbs^
 ||eu-facebook.blogspot.com^
 ||eu.cc^
+||eventivite.link^
 ||ewlpnkrg.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org^
 ||ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org^
 ||exclusive-openseamints.vercel.app^
@@ -351,7 +351,6 @@
 ||googleplrzy.com^
 ||hashnode.dev^
 ||help-instagram.blogspot.com^
-||hnxledu.com^
 ||hofmemorabilia.ebaymclaren-austin.eventshouse.app^
 ||holdings-coinbase.com^
 ||home-facebook.blogspot.com^
@@ -534,6 +533,7 @@
 ||movistar-recaudo-epayc.com^
 ||munimventures.com^
 ||my-facebook-blog.blogspot.com^
+||myftpupload.com^
 ||mytemp.website^
 ||nbpublic.com^
 ||neda-facebook.blogspot.com^
@@ -634,7 +634,6 @@
 ||sk-facebook.blogspot.com^
 ||smallflyingarts.net^
 ||smar2829.casa^
-||smtp5-coinbase.com^
 ||smtp6-coinbase.com^
 ||spotify-client-beta.vercel.app^
 ||spotify-payment.click^
@@ -657,7 +656,6 @@
 ||su-facebook.blogspot.com^
 ||sugar-outlook.com^
 ||suiteapp-trezrr.wixstudio.com^
-||support-apple.wiki^
 ||support-instagram.github.io^
 ||support-ledgerlive-eng.typedream.app^
 ||support-ledgrcom-start-web.typedream.app^
@@ -732,7 +730,6 @@
 ||xfinity-maillogin.weebly.com^
 ||xfinity-updateform.square.site^
 ||xfinity-updateform.weebly.com^
-||xfinity101.duckdns.org^
 ||xfinity2.vercel.app^
 ||xfinity200212.weebly.com^
 ||xfinityconnectonline.weebly.com^
