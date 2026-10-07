@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 753
-# Updated: 2026-10-06T18:22:43Z
+# Entries: 746
+# Updated: 2026-10-07T06:01:46Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -8,30 +8,25 @@
 
 04329390h.click
 123-facebook.blogspot.com
+1231302h.pl
 190842-coinbase.com
 2017-facebook.blogspot.com
 286364-coinbase.com
 2ccloud.com
-3569734.lol
 506494-kraken.com
-7546054.lol
-8465875.lol
-923568325.sbs
-9237657235.cfd
-9823758235.sbs
-a-computer-in-google-docs.pages.dev
 a1-kraken.com
 a2zapk.co
 a2zapk.dev
 account-instagram.vercel.app
+accounts-google-signin.duckdns.org
 acltci.com
-adityagarad556-pixel.github.io
 adobedelcielo.com
 adobeexperience.com.br
 adobesign.org
 agenciadlx.com.br
 ahomeintheamazon.com
 alibaba188.org
+alibaba99.com
 alibabaexclusifyx.com
 alibabatextilebd.com
 amazon-harshdeep.vercel.app
@@ -143,7 +138,6 @@ edgeone.dev
 email-microsoft.com
 ember-whatsapp.com
 emmanueldegreatltd.com
-empowerbydxc.com
 en-ledgre.pages.dev
 enhancedconfiguration.app
 epsilons.co
@@ -153,6 +147,7 @@ eu.cc
 ewlpnkrg.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 exclusive-openseamints.vercel.app
+exodus-desktop-mobile-wallet.github.io
 exodus-wallet.global.ssl.fastly.net
 exoduswallethelpcenter.vercel.app
 faceb00klogin.blogspot.com
@@ -502,8 +497,6 @@ meet-googlee7823629056.pages.dev
 meme-facebook.blogspot.com
 metamask-ai-agent.vercel.app
 metamask-connect.vercel.app
-metamask-dev-dashboard-feat-remove-prora-consensys-ddffed67.vercel.app
-metamask-docs-git-cursor-fix-banner-c-960a25-consensys-ddffed67.vercel.app
 metamask-launchpad.vercel.app
 metamask-login.vercel.app
 metamask-six.vercel.app
@@ -561,7 +554,6 @@ netflixbymanoj.vercel.app
 netflixfeitoaqui.com.br
 netflixinfos.com
 netflixquebec.blogspot.com
-netflixurl.github.io
 netflixvoid.org
 netflixy-bixy.vercel.app
 network-facebook.blogspot.com
@@ -569,7 +561,6 @@ news-revolut.com
 noreply-icloud.app
 nw-facebook.blogspot.com
 office365licensingsupport.com
-online-facebook-privacy.blogspot.com
 oortstorages.com
 open-instagram.vercel.app
 openai-coin.com
@@ -577,8 +568,8 @@ opensea-six.vercel.app
 openseaproks007.vercel.app
 openseavxr.vercel.app
 orbit-whatsapp.com
+orwa73291hh.pics
 ossama-instagram.vercel.app
-outlook-office365.com
 outlookindia.com
 outlookmail.social
 page-instagram.vercel.app
@@ -591,7 +582,6 @@ pe-facebook.blogspot.com
 phil-heron-zoomdrain-com-s-account.workers.dev
 piedrasdecolon.com.ar
 pl-bh5k.sbs
-play-roblox.com
 premio-instagram.com
 previewship.net
 profil-facebook-saya.blogspot.com
@@ -607,6 +597,7 @@ register-facebook.blogspot.com
 renfe-sncf.com
 rev.it
 roblox-login.vercel.app
+roblox.com.bi
 roblox.com.bn
 roblox.com.bo
 roblox.com.ee
@@ -633,7 +624,6 @@ secure-dropbox.ist
 securedsupport-coinbase.com
 secureserver.net
 security-appleid.com
-seg-social.vip
 sena-facebook.blogspot.com
 send-secure-trustwallet-usdt-bip20.vercel.app
 services-facebook.blogspot.com
@@ -643,6 +633,7 @@ sigma-whatsapp.com
 sign-in-to-xfinity-updatee.weebly.com
 sk-facebook.blogspot.com
 smallflyingarts.net
+smar2829.casa
 smtp5-coinbase.com
 smtp6-coinbase.com
 spotify-client-beta.vercel.app
@@ -693,16 +684,16 @@ trust-wallet-login.vercel.app
 trustwallet-helpcenter.vercel.app
 trustwallet-login.blogspot.com
 trustwallet-secure-check.vercel.app
+trustwallet-team-support.github.io
 trustwallet-tokentwtowner.vercel.app
 trustwalletindia-beta.vercel.app
-twitter12.com
 updata.net.cn
 usdt-trustwallet-blockchain.vercel.app
 uspsaunitedworkforce.com
 uspsecuredlogs.com
 uspssmartparcellocker.tech
 v0-instagram-accounts.vercel.app
-venmo-usr.my.id
+verifyaccount-google.com
 verifytoken.com
 vi-facebook.blogspot.com
 viewclass.com
@@ -731,6 +722,7 @@ whatsappcampaign.online
 whatsappfreewhatsapp.blogspot.com
 whatsappwebred.blogspot.com
 whatsappzoeiras.blogspot.com
+wi-rr.com
 windows-ledger-live.typedream.app
 wooflers.com
 www-app-google.com
@@ -754,6 +746,7 @@ yonataxi.at
 yzz.me
 z-facebook.blogspot.com
 z-instagram.blogspot.com
+zelleactive.shop
 zeta-facebook.blogspot.com
 zkey0.com
 znbbmwq.com

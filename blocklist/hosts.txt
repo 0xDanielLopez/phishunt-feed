@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 753
-# Updated: 2026-10-06T18:22:47Z
+# Entries: 746
+# Updated: 2026-10-07T06:01:47Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -8,30 +8,25 @@
 
 0.0.0.0 04329390h.click
 0.0.0.0 123-facebook.blogspot.com
+0.0.0.0 1231302h.pl
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 286364-coinbase.com
 0.0.0.0 2ccloud.com
-0.0.0.0 3569734.lol
 0.0.0.0 506494-kraken.com
-0.0.0.0 7546054.lol
-0.0.0.0 8465875.lol
-0.0.0.0 923568325.sbs
-0.0.0.0 9237657235.cfd
-0.0.0.0 9823758235.sbs
-0.0.0.0 a-computer-in-google-docs.pages.dev
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
 0.0.0.0 account-instagram.vercel.app
+0.0.0.0 accounts-google-signin.duckdns.org
 0.0.0.0 acltci.com
-0.0.0.0 adityagarad556-pixel.github.io
 0.0.0.0 adobedelcielo.com
 0.0.0.0 adobeexperience.com.br
 0.0.0.0 adobesign.org
 0.0.0.0 agenciadlx.com.br
 0.0.0.0 ahomeintheamazon.com
 0.0.0.0 alibaba188.org
+0.0.0.0 alibaba99.com
 0.0.0.0 alibabaexclusifyx.com
 0.0.0.0 alibabatextilebd.com
 0.0.0.0 amazon-harshdeep.vercel.app
@@ -143,7 +138,6 @@
 0.0.0.0 email-microsoft.com
 0.0.0.0 ember-whatsapp.com
 0.0.0.0 emmanueldegreatltd.com
-0.0.0.0 empowerbydxc.com
 0.0.0.0 en-ledgre.pages.dev
 0.0.0.0 enhancedconfiguration.app
 0.0.0.0 epsilons.co
@@ -153,6 +147,7 @@
 0.0.0.0 ewlpnkrg.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 0.0.0.0 ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 0.0.0.0 exclusive-openseamints.vercel.app
+0.0.0.0 exodus-desktop-mobile-wallet.github.io
 0.0.0.0 exodus-wallet.global.ssl.fastly.net
 0.0.0.0 exoduswallethelpcenter.vercel.app
 0.0.0.0 faceb00klogin.blogspot.com
@@ -502,8 +497,6 @@
 0.0.0.0 meme-facebook.blogspot.com
 0.0.0.0 metamask-ai-agent.vercel.app
 0.0.0.0 metamask-connect.vercel.app
-0.0.0.0 metamask-dev-dashboard-feat-remove-prora-consensys-ddffed67.vercel.app
-0.0.0.0 metamask-docs-git-cursor-fix-banner-c-960a25-consensys-ddffed67.vercel.app
 0.0.0.0 metamask-launchpad.vercel.app
 0.0.0.0 metamask-login.vercel.app
 0.0.0.0 metamask-six.vercel.app
@@ -561,7 +554,6 @@
 0.0.0.0 netflixfeitoaqui.com.br
 0.0.0.0 netflixinfos.com
 0.0.0.0 netflixquebec.blogspot.com
-0.0.0.0 netflixurl.github.io
 0.0.0.0 netflixvoid.org
 0.0.0.0 netflixy-bixy.vercel.app
 0.0.0.0 network-facebook.blogspot.com
@@ -569,7 +561,6 @@
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 office365licensingsupport.com
-0.0.0.0 online-facebook-privacy.blogspot.com
 0.0.0.0 oortstorages.com
 0.0.0.0 open-instagram.vercel.app
 0.0.0.0 openai-coin.com
@@ -577,8 +568,8 @@
 0.0.0.0 openseaproks007.vercel.app
 0.0.0.0 openseavxr.vercel.app
 0.0.0.0 orbit-whatsapp.com
+0.0.0.0 orwa73291hh.pics
 0.0.0.0 ossama-instagram.vercel.app
-0.0.0.0 outlook-office365.com
 0.0.0.0 outlookindia.com
 0.0.0.0 outlookmail.social
 0.0.0.0 page-instagram.vercel.app
@@ -591,7 +582,6 @@
 0.0.0.0 phil-heron-zoomdrain-com-s-account.workers.dev
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 pl-bh5k.sbs
-0.0.0.0 play-roblox.com
 0.0.0.0 premio-instagram.com
 0.0.0.0 previewship.net
 0.0.0.0 profil-facebook-saya.blogspot.com
@@ -607,6 +597,7 @@
 0.0.0.0 renfe-sncf.com
 0.0.0.0 rev.it
 0.0.0.0 roblox-login.vercel.app
+0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bo
 0.0.0.0 roblox.com.ee
@@ -633,7 +624,6 @@
 0.0.0.0 securedsupport-coinbase.com
 0.0.0.0 secureserver.net
 0.0.0.0 security-appleid.com
-0.0.0.0 seg-social.vip
 0.0.0.0 sena-facebook.blogspot.com
 0.0.0.0 send-secure-trustwallet-usdt-bip20.vercel.app
 0.0.0.0 services-facebook.blogspot.com
@@ -643,6 +633,7 @@
 0.0.0.0 sign-in-to-xfinity-updatee.weebly.com
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 smallflyingarts.net
+0.0.0.0 smar2829.casa
 0.0.0.0 smtp5-coinbase.com
 0.0.0.0 smtp6-coinbase.com
 0.0.0.0 spotify-client-beta.vercel.app
@@ -693,16 +684,16 @@
 0.0.0.0 trustwallet-helpcenter.vercel.app
 0.0.0.0 trustwallet-login.blogspot.com
 0.0.0.0 trustwallet-secure-check.vercel.app
+0.0.0.0 trustwallet-team-support.github.io
 0.0.0.0 trustwallet-tokentwtowner.vercel.app
 0.0.0.0 trustwalletindia-beta.vercel.app
-0.0.0.0 twitter12.com
 0.0.0.0 updata.net.cn
 0.0.0.0 usdt-trustwallet-blockchain.vercel.app
 0.0.0.0 uspsaunitedworkforce.com
 0.0.0.0 uspsecuredlogs.com
 0.0.0.0 uspssmartparcellocker.tech
 0.0.0.0 v0-instagram-accounts.vercel.app
-0.0.0.0 venmo-usr.my.id
+0.0.0.0 verifyaccount-google.com
 0.0.0.0 verifytoken.com
 0.0.0.0 vi-facebook.blogspot.com
 0.0.0.0 viewclass.com
@@ -731,6 +722,7 @@
 0.0.0.0 whatsappfreewhatsapp.blogspot.com
 0.0.0.0 whatsappwebred.blogspot.com
 0.0.0.0 whatsappzoeiras.blogspot.com
+0.0.0.0 wi-rr.com
 0.0.0.0 windows-ledger-live.typedream.app
 0.0.0.0 wooflers.com
 0.0.0.0 www-app-google.com
@@ -754,6 +746,7 @@
 0.0.0.0 yzz.me
 0.0.0.0 z-facebook.blogspot.com
 0.0.0.0 z-instagram.blogspot.com
+0.0.0.0 zelleactive.shop
 0.0.0.0 zeta-facebook.blogspot.com
 0.0.0.0 zkey0.com
 0.0.0.0 znbbmwq.com
