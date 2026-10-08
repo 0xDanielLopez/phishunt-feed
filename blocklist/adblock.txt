@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 740
-! Updated: 2026-10-08T06:05:48Z
+! Entries: 739
+! Updated: 2026-10-08T13:31:09Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -10,7 +10,6 @@
 ||1231302h.pl^
 ||190842-coinbase.com^
 ||2017-facebook.blogspot.com^
-||286364-coinbase.com^
 ||2ccloud.com^
 ||506494-kraken.com^
 ||a1-kraken.com^
@@ -126,7 +125,6 @@
 ||dropbox-online.net^
 ||dropboxbiz.com^
 ||ebay-c.com^
-||ebay-phone-number.blogspot.com^
 ||ebay-seller-center-managedpayments.vercel.app^
 ||ebayesho.com^
 ||ebaymclaren-austin.eventshouse.app^
@@ -440,6 +438,7 @@
 ||instagramusicabrasilinstagram.blogspot.com^
 ||internal-alerts.com^
 ||invreceiptslinkedin.com^
+||io-trezrn-eng.pages.dev^
 ||isha-dev.com^
 ||itau-com.vercel.app^
 ||itau-snowy.vercel.app^
@@ -481,7 +480,6 @@
 ||love-facebook.blogspot.com^
 ||lovefive-facebook.blogspot.com^
 ||lovevivah.com^
-||luq-binance.com.cn^
 ||luxora.qpon^
 ||ly-facebook.blogspot.com^
 ||m365-microsoft.com^
@@ -659,6 +657,7 @@
 ||support-ledgrcom-start-web.typedream.app^
 ||support-netflix-signup.info^
 ||synel99.github.io^
+||tail017acc.ts.net^
 ||tamil.bid^
 ||tara-facebook.blogspot.com^
 ||taslimaenterprise.com^

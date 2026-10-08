@@ -1,23 +1,36 @@
 {
  "date": "2026-10-08",
- "updated": "2026-10-08T06:05:48Z",
+ "updated": "2026-10-08T13:31:09Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 6,
-  "removed": 3
+  "added": 8,
+  "removed": 14
  },
  "added": [
   "http://www-apple.support/?i=tpk",
   "https://admin-internal.ahomeintheamazon.com",
   "https://binance-tr-cekilis.com",
   "https://exodus-docs.pages.dev",
+  "https://googleplay.tail017acc.ts.net/d/506aa4934ca560966f744d759712de8f",
+  "https://io-trezrn-eng.pages.dev/smart78",
   "https://jyothycirrussaviation.com/include/adobe1/adobe",
   "https://roblox.com.ml/users/344781036312/profile"
  ],
  "removed": [
+  "http://ebay-phone-number.blogspot.com",
   "http://luxfab.luxe/Adobe_Installer.html",
   "http://xfinityteamslogin.weebly.com",
-  "https://wetransfer-smoky.vercel.app/#mirensys@f91b7a73195f98d78e426e2bef4f4056457a.net"
+  "https://286364-coinbase.com",
+  "https://73a2370016b7.newhkg.paypal-login.antimoney-laundering.org",
+  "https://app.luq-binance.com.cn",
+  "https://ba.luq-binance.com.cn",
+  "https://html.luq-binance.com.cn",
+  "https://luq-binance.com.cn",
+  "https://m.luq-binance.com.cn",
+  "https://mobile.luq-binance.com.cn",
+  "https://wap.luq-binance.com.cn",
+  "https://wetransfer-smoky.vercel.app/#mirensys@f91b7a73195f98d78e426e2bef4f4056457a.net",
+  "https://zh.luq-binance.com.cn"
  ]
 }

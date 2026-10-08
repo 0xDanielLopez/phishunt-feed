@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 740
-# Updated: 2026-10-08T06:05:48Z
+# Entries: 739
+# Updated: 2026-10-08T13:31:08Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -10,7 +10,6 @@
 0.0.0.0 1231302h.pl
 0.0.0.0 190842-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
-0.0.0.0 286364-coinbase.com
 0.0.0.0 2ccloud.com
 0.0.0.0 506494-kraken.com
 0.0.0.0 a1-kraken.com
@@ -126,7 +125,6 @@
 0.0.0.0 dropbox-online.net
 0.0.0.0 dropboxbiz.com
 0.0.0.0 ebay-c.com
-0.0.0.0 ebay-phone-number.blogspot.com
 0.0.0.0 ebay-seller-center-managedpayments.vercel.app
 0.0.0.0 ebayesho.com
 0.0.0.0 ebaymclaren-austin.eventshouse.app
@@ -440,6 +438,7 @@
 0.0.0.0 instagramusicabrasilinstagram.blogspot.com
 0.0.0.0 internal-alerts.com
 0.0.0.0 invreceiptslinkedin.com
+0.0.0.0 io-trezrn-eng.pages.dev
 0.0.0.0 isha-dev.com
 0.0.0.0 itau-com.vercel.app
 0.0.0.0 itau-snowy.vercel.app
@@ -481,7 +480,6 @@
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lovevivah.com
-0.0.0.0 luq-binance.com.cn
 0.0.0.0 luxora.qpon
 0.0.0.0 ly-facebook.blogspot.com
 0.0.0.0 m365-microsoft.com
@@ -659,6 +657,7 @@
 0.0.0.0 support-ledgrcom-start-web.typedream.app
 0.0.0.0 support-netflix-signup.info
 0.0.0.0 synel99.github.io
+0.0.0.0 tail017acc.ts.net
 0.0.0.0 tamil.bid
 0.0.0.0 tara-facebook.blogspot.com
 0.0.0.0 taslimaenterprise.com
