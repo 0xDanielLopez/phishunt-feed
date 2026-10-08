@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 738
-# Updated: 2026-10-07T23:05:51Z
+# Entries: 740
+# Updated: 2026-10-08T06:05:48Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -57,6 +57,7 @@
 0.0.0.0 binance-red-packet.vercel.app
 0.0.0.0 binance-referral-code-btcbonus.vercel.app
 0.0.0.0 binance-register.blogspot.com
+0.0.0.0 binance-tr-cekilis.com
 0.0.0.0 binance-web.com
 0.0.0.0 binanceaa.com
 0.0.0.0 binanceii.com
@@ -145,6 +146,7 @@
 0.0.0.0 ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 0.0.0.0 exclusive-openseamints.vercel.app
 0.0.0.0 exodus-desktop-mobile-wallet.github.io
+0.0.0.0 exodus-docs.pages.dev
 0.0.0.0 exodus-wallet.global.ssl.fastly.net
 0.0.0.0 exoduswallethelpcenter.vercel.app
 0.0.0.0 faceb00klogin.blogspot.com
@@ -446,6 +448,7 @@
 0.0.0.0 jo-facebook.blogspot.com
 0.0.0.0 jt-facebook.blogspot.com
 0.0.0.0 jwb-facebook.blogspot.com
+0.0.0.0 jyothycirrussaviation.com
 0.0.0.0 kauadosantos.github.io
 0.0.0.0 klassik-erh.de
 0.0.0.0 kraken-tor.co.com
@@ -479,7 +482,6 @@
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lovevivah.com
 0.0.0.0 luq-binance.com.cn
-0.0.0.0 luxfab.luxe
 0.0.0.0 luxora.qpon
 0.0.0.0 ly-facebook.blogspot.com
 0.0.0.0 m365-microsoft.com
@@ -599,6 +601,7 @@
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.kz
+0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 roblox.rw
@@ -701,7 +704,6 @@
 0.0.0.0 webador.com
 0.0.0.0 webmail-service-xfinity.vercel.app
 0.0.0.0 weeblysite.com
-0.0.0.0 wetransfer-smoky.vercel.app
 0.0.0.0 whatsapp-dp-images.in
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-iamsuyash.vercel.app
@@ -719,6 +721,7 @@
 0.0.0.0 windows-ledger-live.typedream.app
 0.0.0.0 wooflers.com
 0.0.0.0 www-app-google.com
+0.0.0.0 www-apple.support
 0.0.0.0 www-google.cn
 0.0.0.0 www-hk-google.com
 0.0.0.0 wwww-linkedin.be
@@ -733,7 +736,6 @@
 0.0.0.0 xfinityon.com
 0.0.0.0 xfinityservicekey.weebly.com
 0.0.0.0 xfinityservices.vercel.app
-0.0.0.0 xfinityteamslogin.weebly.com
 0.0.0.0 yonataxi.at
 0.0.0.0 yzz.me
 0.0.0.0 z-facebook.blogspot.com

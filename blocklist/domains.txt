@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 738
-# Updated: 2026-10-07T23:04:39Z
+# Entries: 740
+# Updated: 2026-10-08T06:05:38Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -57,6 +57,7 @@ binance-promo-code.vercel.app
 binance-red-packet.vercel.app
 binance-referral-code-btcbonus.vercel.app
 binance-register.blogspot.com
+binance-tr-cekilis.com
 binance-web.com
 binanceaa.com
 binanceii.com
@@ -145,6 +146,7 @@ ewlpnkrg.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 exclusive-openseamints.vercel.app
 exodus-desktop-mobile-wallet.github.io
+exodus-docs.pages.dev
 exodus-wallet.global.ssl.fastly.net
 exoduswallethelpcenter.vercel.app
 faceb00klogin.blogspot.com
@@ -446,6 +448,7 @@ jj-facebook.blogspot.com
 jo-facebook.blogspot.com
 jt-facebook.blogspot.com
 jwb-facebook.blogspot.com
+jyothycirrussaviation.com
 kauadosantos.github.io
 klassik-erh.de
 kraken-tor.co.com
@@ -479,7 +482,6 @@ love-facebook.blogspot.com
 lovefive-facebook.blogspot.com
 lovevivah.com
 luq-binance.com.cn
-luxfab.luxe
 luxora.qpon
 ly-facebook.blogspot.com
 m365-microsoft.com
@@ -599,6 +601,7 @@ roblox.com.bo
 roblox.com.ee
 roblox.com.gr
 roblox.com.kz
+roblox.com.ml
 roblox.com.mu
 roblox.com.pt
 roblox.rw
@@ -701,7 +704,6 @@ webaccess-alert.com
 webador.com
 webmail-service-xfinity.vercel.app
 weeblysite.com
-wetransfer-smoky.vercel.app
 whatsapp-dp-images.in
 whatsapp-fast.vercel.app
 whatsapp-iamsuyash.vercel.app
@@ -719,6 +721,7 @@ wi-rr.com
 windows-ledger-live.typedream.app
 wooflers.com
 www-app-google.com
+www-apple.support
 www-google.cn
 www-hk-google.com
 wwww-linkedin.be
@@ -733,7 +736,6 @@ xfinitymail087.weebly.com
 xfinityon.com
 xfinityservicekey.weebly.com
 xfinityservices.vercel.app
-xfinityteamslogin.weebly.com
 yonataxi.at
 yzz.me
 z-facebook.blogspot.com

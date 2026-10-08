@@ -1,0 +1,23 @@
+{
+ "date": "2026-10-08",
+ "updated": "2026-10-08T06:05:48Z",
+ "source": "https://phishunt.io/feed.txt",
+ "license": "CC0-1.0",
+ "counts": {
+  "added": 6,
+  "removed": 3
+ },
+ "added": [
+  "http://www-apple.support/?i=tpk",
+  "https://admin-internal.ahomeintheamazon.com",
+  "https://binance-tr-cekilis.com",
+  "https://exodus-docs.pages.dev",
+  "https://jyothycirrussaviation.com/include/adobe1/adobe",
+  "https://roblox.com.ml/users/344781036312/profile"
+ ],
+ "removed": [
+  "http://luxfab.luxe/Adobe_Installer.html",
+  "http://xfinityteamslogin.weebly.com",
+  "https://wetransfer-smoky.vercel.app/#mirensys@f91b7a73195f98d78e426e2bef4f4056457a.net"
+ ]
+}
