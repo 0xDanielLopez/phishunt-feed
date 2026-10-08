@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 739
-# Updated: 2026-10-08T13:31:08Z
+# Entries: 733
+# Updated: 2026-10-08T23:21:36Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -8,10 +8,9 @@
 
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 1231302h.pl
-0.0.0.0 190842-coinbase.com
+0.0.0.0 1789503-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 2ccloud.com
-0.0.0.0 506494-kraken.com
 0.0.0.0 a1-kraken.com
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
@@ -30,7 +29,6 @@
 0.0.0.0 ancoradourohotel.com.br
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 annulation-amazon.com
-0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-facebook.blogspot.com
@@ -83,7 +81,6 @@
 0.0.0.0 click-facebook.blogspot.com
 0.0.0.0 cn-feed-whatsapp.com.cn
 0.0.0.0 coinbase-event.vercel.app
-0.0.0.0 coinbase.com.lc
 0.0.0.0 coinbaseinvestors.ai
 0.0.0.0 coinbaseprologinv.gitbook.io
 0.0.0.0 coinbaseverify.vercel.app
@@ -100,7 +97,6 @@
 0.0.0.0 correoscri.cc
 0.0.0.0 correosiicr.cc
 0.0.0.0 correosscri.cc
-0.0.0.0 cquup.com
 0.0.0.0 creyt.cl
 0.0.0.0 ct.ws
 0.0.0.0 cz-facebook.blogspot.com
@@ -116,9 +112,7 @@
 0.0.0.0 docs-trezor-app.pages.dev
 0.0.0.0 docusign-server.github.io
 0.0.0.0 dothome.co.kr
-0.0.0.0 dpdi.xyz
 0.0.0.0 dpdn62.click
-0.0.0.0 dpdr.live
 0.0.0.0 dpduk.dev
 0.0.0.0 drive-icloud.com
 0.0.0.0 dropbox-online.at
@@ -176,7 +170,6 @@
 0.0.0.0 facebook-di.blogspot.com
 0.0.0.0 facebook-do.blogspot.com
 0.0.0.0 facebook-eu.blogspot.com
-0.0.0.0 facebook-facebook.blogspot.com
 0.0.0.0 facebook-facebook1.blogspot.com
 0.0.0.0 facebook-fansdanssapage.blogspot.com
 0.0.0.0 facebook-faq.se
@@ -340,7 +333,9 @@
 0.0.0.0 googleepkay.com
 0.0.0.0 googleepway.com
 0.0.0.0 googlegnhcf.com
+0.0.0.0 googlehogxe.com
 0.0.0.0 googlelogos.com
+0.0.0.0 googlenewsgh.com
 0.0.0.0 googleoa.com
 0.0.0.0 googleplaety.com
 0.0.0.0 googleplaiby.com
@@ -475,7 +470,6 @@
 0.0.0.0 login-page-instagram.vercel.app
 0.0.0.0 login.rmdbwskx.santander.bimp-bot.duckdns.org
 0.0.0.0 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
-0.0.0.0 loginfacebook-facebook.blogspot.com
 0.0.0.0 logowanie-facebook.vercel.app
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
@@ -531,12 +525,10 @@
 0.0.0.0 movistar-recaudo-epayc.com
 0.0.0.0 munimventures.com
 0.0.0.0 my-facebook-blog.blogspot.com
-0.0.0.0 myftpupload.com
 0.0.0.0 mytemp.website
 0.0.0.0 nbpublic.com
 0.0.0.0 neda-facebook.blogspot.com
 0.0.0.0 netflix-71f05.firebaseapp.com
-0.0.0.0 netflix-billing-update.com
 0.0.0.0 netflix-casino-es.es
 0.0.0.0 netflix-homepage-pi.vercel.app
 0.0.0.0 netflix-lake.vercel.app
@@ -556,6 +548,7 @@
 0.0.0.0 netflixy-bixy.vercel.app
 0.0.0.0 network-facebook.blogspot.com
 0.0.0.0 news-revolut.com
+0.0.0.0 no-spotify.com
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 office365licensingsupport.com
@@ -569,6 +562,7 @@
 0.0.0.0 ossama-instagram.vercel.app
 0.0.0.0 outlookindia.com
 0.0.0.0 outlookmail.social
+0.0.0.0 outlooksstoragefileonlinky.digital
 0.0.0.0 page-instagram.vercel.app
 0.0.0.0 paykmc.com
 0.0.0.0 paypal-logiin.blogspot.com
@@ -590,7 +584,6 @@
 0.0.0.0 recreate-instagrampage.vercel.app
 0.0.0.0 redirecthelp.com
 0.0.0.0 register-facebook.blogspot.com
-0.0.0.0 renfe-sncf.com
 0.0.0.0 rev.it
 0.0.0.0 roblox-login.vercel.app
 0.0.0.0 roblox.com.bi
@@ -599,7 +592,6 @@
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.kz
-0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 roblox.rw
@@ -688,6 +680,7 @@
 0.0.0.0 uspsecuredlogs.com
 0.0.0.0 uspssmartparcellocker.tech
 0.0.0.0 v0-instagram-accounts.vercel.app
+0.0.0.0 ve-whatsapp.com
 0.0.0.0 verifyaccount-google.com
 0.0.0.0 verifytoken.com
 0.0.0.0 vi-facebook.blogspot.com
@@ -708,6 +701,7 @@
 0.0.0.0 whatsapp-iamsuyash.vercel.app
 0.0.0.0 whatsapp-indonesia877.blogspot.com
 0.0.0.0 whatsapp-verify.blogspot.com
+0.0.0.0 whatsapp-wep.com
 0.0.0.0 whatsapp11-cnj.pages.dev
 0.0.0.0 whatsapp7g.blogspot.com
 0.0.0.0 whatsappapk.org

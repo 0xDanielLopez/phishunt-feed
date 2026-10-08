@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 739
-# Updated: 2026-10-08T13:31:07Z
+# Entries: 733
+# Updated: 2026-10-08T23:21:36Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -8,10 +8,9 @@
 
 123-facebook.blogspot.com
 1231302h.pl
-190842-coinbase.com
+1789503-coinbase.com
 2017-facebook.blogspot.com
 2ccloud.com
-506494-kraken.com
 a1-kraken.com
 a2zapk.co
 a2zapk.dev
@@ -30,7 +29,6 @@ amazon-opfq.vercel.app
 ancoradourohotel.com.br
 ani-facebook.blogspot.com
 annulation-amazon.com
-antimoney-laundering.org
 apk-google.cn
 app-binance.github.io
 app-facebook.blogspot.com
@@ -83,7 +81,6 @@ chatgpt0005.eu.org
 click-facebook.blogspot.com
 cn-feed-whatsapp.com.cn
 coinbase-event.vercel.app
-coinbase.com.lc
 coinbaseinvestors.ai
 coinbaseprologinv.gitbook.io
 coinbaseverify.vercel.app
@@ -100,7 +97,6 @@ correosccl.cc
 correoscri.cc
 correosiicr.cc
 correosscri.cc
-cquup.com
 creyt.cl
 ct.ws
 cz-facebook.blogspot.com
@@ -116,9 +112,7 @@ docs-google.com
 docs-trezor-app.pages.dev
 docusign-server.github.io
 dothome.co.kr
-dpdi.xyz
 dpdn62.click
-dpdr.live
 dpduk.dev
 drive-icloud.com
 dropbox-online.at
@@ -176,7 +170,6 @@ facebook-developers.blogspot.com
 facebook-di.blogspot.com
 facebook-do.blogspot.com
 facebook-eu.blogspot.com
-facebook-facebook.blogspot.com
 facebook-facebook1.blogspot.com
 facebook-fansdanssapage.blogspot.com
 facebook-faq.se
@@ -340,7 +333,9 @@ googlecontacts.email
 googleepkay.com
 googleepway.com
 googlegnhcf.com
+googlehogxe.com
 googlelogos.com
+googlenewsgh.com
 googleoa.com
 googleplaety.com
 googleplaiby.com
@@ -475,7 +470,6 @@ login-page-instagram.blogspot.com
 login-page-instagram.vercel.app
 login.rmdbwskx.santander.bimp-bot.duckdns.org
 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
-loginfacebook-facebook.blogspot.com
 logowanie-facebook.vercel.app
 love-facebook.blogspot.com
 lovefive-facebook.blogspot.com
@@ -531,12 +525,10 @@ more-ledgerlive-en.typedream.app
 movistar-recaudo-epayc.com
 munimventures.com
 my-facebook-blog.blogspot.com
-myftpupload.com
 mytemp.website
 nbpublic.com
 neda-facebook.blogspot.com
 netflix-71f05.firebaseapp.com
-netflix-billing-update.com
 netflix-casino-es.es
 netflix-homepage-pi.vercel.app
 netflix-lake.vercel.app
@@ -556,6 +548,7 @@ netflixvoid.org
 netflixy-bixy.vercel.app
 network-facebook.blogspot.com
 news-revolut.com
+no-spotify.com
 noreply-icloud.app
 nw-facebook.blogspot.com
 office365licensingsupport.com
@@ -569,6 +562,7 @@ orbit-whatsapp.com
 ossama-instagram.vercel.app
 outlookindia.com
 outlookmail.social
+outlooksstoragefileonlinky.digital
 page-instagram.vercel.app
 paykmc.com
 paypal-logiin.blogspot.com
@@ -590,7 +584,6 @@ receiptslinkedin.com
 recreate-instagrampage.vercel.app
 redirecthelp.com
 register-facebook.blogspot.com
-renfe-sncf.com
 rev.it
 roblox-login.vercel.app
 roblox.com.bi
@@ -599,7 +592,6 @@ roblox.com.bo
 roblox.com.ee
 roblox.com.gr
 roblox.com.kz
-roblox.com.ml
 roblox.com.mu
 roblox.com.pt
 roblox.rw
@@ -688,6 +680,7 @@ uspsaunitedworkforce.com
 uspsecuredlogs.com
 uspssmartparcellocker.tech
 v0-instagram-accounts.vercel.app
+ve-whatsapp.com
 verifyaccount-google.com
 verifytoken.com
 vi-facebook.blogspot.com
@@ -708,6 +701,7 @@ whatsapp-fast.vercel.app
 whatsapp-iamsuyash.vercel.app
 whatsapp-indonesia877.blogspot.com
 whatsapp-verify.blogspot.com
+whatsapp-wep.com
 whatsapp11-cnj.pages.dev
 whatsapp7g.blogspot.com
 whatsappapk.org
