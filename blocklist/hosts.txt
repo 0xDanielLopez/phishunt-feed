@@ -1,16 +1,17 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 740
-# Updated: 2026-10-09T13:18:37Z
+# Entries: 739
+# Updated: 2026-10-09T22:39:06Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
 0.0.0.0 123-facebook.blogspot.com
-0.0.0.0 1231302h.pl
+0.0.0.0 12312940.pl
 0.0.0.0 1789503-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 2ccloud.com
+0.0.0.0 30rids7129.help
 0.0.0.0 921390h.pl
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
@@ -107,6 +108,7 @@
 0.0.0.0 deluxxe.com.br
 0.0.0.0 desktop-ledgrecdn.wixstudio.com
 0.0.0.0 dhl-express-dev.firebaseapp.com
+0.0.0.0 dig82391.buzz
 0.0.0.0 dir.com.my
 0.0.0.0 dj-facebook.blogspot.com
 0.0.0.0 docs-google.com
@@ -114,7 +116,6 @@
 0.0.0.0 docusign-server.github.io
 0.0.0.0 dothome.co.kr
 0.0.0.0 dpdie.live
-0.0.0.0 dpdn62.click
 0.0.0.0 dpduk.dev
 0.0.0.0 drive-icloud.com
 0.0.0.0 dropbox-online.at
@@ -122,7 +123,6 @@
 0.0.0.0 dropboxbiz.com
 0.0.0.0 ebay-c.com
 0.0.0.0 ebay-seller-center-managedpayments.vercel.app
-0.0.0.0 ebayesho.com
 0.0.0.0 ebaymclaren-austin.eventshouse.app
 0.0.0.0 ebaymevip.com
 0.0.0.0 edgeone.dev
@@ -133,7 +133,6 @@
 0.0.0.0 enhancedconfiguration.app
 0.0.0.0 epsilons.co
 0.0.0.0 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
-0.0.0.0 esmart-oferta.sbs
 0.0.0.0 eu-facebook.blogspot.com
 0.0.0.0 eu.cc
 0.0.0.0 ewlpnkrg.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
@@ -310,7 +309,6 @@
 0.0.0.0 fedexsv.com
 0.0.0.0 fedexwp.com
 0.0.0.0 fercel.app
-0.0.0.0 file-share-document-2026-08-26-0nedrive.cloud
 0.0.0.0 file-whatsappn.hl.cn
 0.0.0.0 forsakens-crew-teman-facebook.blogspot.com
 0.0.0.0 foryour.review
@@ -318,10 +316,12 @@
 0.0.0.0 fwh.is
 0.0.0.0 gafiatechnologies.com
 0.0.0.0 gercel.app
+0.0.0.0 gestioncompte.com
 0.0.0.0 ggzh-google.com.cn
 0.0.0.0 gloronyan.github.io
 0.0.0.0 glovonetwork.com
 0.0.0.0 google-apk.com
+0.0.0.0 google-play-store.duckdns.org
 0.0.0.0 google.jl.cn
 0.0.0.0 google.js.cn
 0.0.0.0 google1107.com
@@ -357,6 +357,7 @@
 0.0.0.0 https-roblox.com
 0.0.0.0 icloud-asisten-official.com
 0.0.0.0 icloud-ubication.com
+0.0.0.0 icloudmapsfind.help
 0.0.0.0 icloudmex-lost.com
 0.0.0.0 icloudnotify.help
 0.0.0.0 icloudweb-ext860.click
@@ -447,6 +448,7 @@
 0.0.0.0 kauadosantos.github.io
 0.0.0.0 klassik-erh.de
 0.0.0.0 kraken-tor.co.com
+0.0.0.0 kraken.homes
 0.0.0.0 kucoin-referral-code-pt.vercel.app
 0.0.0.0 kucoinlogenac.gitbook.io
 0.0.0.0 kucoinloginaa.gitbook.io
@@ -553,6 +555,7 @@
 0.0.0.0 no-spotify.com
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
+0.0.0.0 oferta-846202548.cfd
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 oortstorages.com
 0.0.0.0 open-instagram.vercel.app
@@ -575,7 +578,6 @@
 0.0.0.0 phil-heron-zoomdrain-com-s-account.workers.dev
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 premio-instagram.com
-0.0.0.0 previewship.net
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 ptai.in
 0.0.0.0 r-facebook.blogspot.com
@@ -595,7 +597,6 @@
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.kz
-0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 roblox.rw
@@ -616,13 +617,11 @@
 0.0.0.0 secure-dropbox.ist
 0.0.0.0 securedsupport-coinbase.com
 0.0.0.0 secureserver.net
-0.0.0.0 security-appleid.com
 0.0.0.0 sena-facebook.blogspot.com
 0.0.0.0 send-secure-trustwallet-usdt-bip20.vercel.app
 0.0.0.0 services-facebook.blogspot.com
 0.0.0.0 seureonline.shop
 0.0.0.0 shopweb.com.vn
-0.0.0.0 si-com.sbs
 0.0.0.0 sigma-whatsapp.com
 0.0.0.0 sign-in-to-xfinity-updatee.weebly.com
 0.0.0.0 sk-facebook.blogspot.com
@@ -683,7 +682,6 @@
 0.0.0.0 usdt-trustwallet-blockchain.vercel.app
 0.0.0.0 uspsaunitedworkforce.com
 0.0.0.0 uspsecuredlogs.com
-0.0.0.0 uspss.pages.dev
 0.0.0.0 uspssmartparcellocker.tech
 0.0.0.0 v0-instagram-accounts.vercel.app
 0.0.0.0 ve-whatsapp.com
@@ -702,6 +700,7 @@
 0.0.0.0 webador.com
 0.0.0.0 webmail-service-xfinity.vercel.app
 0.0.0.0 weeblysite.com
+0.0.0.0 wellsfargobank.fyi
 0.0.0.0 whatsapp-dp-images.in
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-iamsuyash.vercel.app

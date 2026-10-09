@@ -1,16 +1,17 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 740
-# Updated: 2026-10-09T13:12:31Z
+# Entries: 739
+# Updated: 2026-10-09T22:39:05Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
 123-facebook.blogspot.com
-1231302h.pl
+12312940.pl
 1789503-coinbase.com
 2017-facebook.blogspot.com
 2ccloud.com
+30rids7129.help
 921390h.pl
 a2zapk.co
 a2zapk.dev
@@ -107,6 +108,7 @@ de5.net
 deluxxe.com.br
 desktop-ledgrecdn.wixstudio.com
 dhl-express-dev.firebaseapp.com
+dig82391.buzz
 dir.com.my
 dj-facebook.blogspot.com
 docs-google.com
@@ -114,7 +116,6 @@ docs-trezor-app.pages.dev
 docusign-server.github.io
 dothome.co.kr
 dpdie.live
-dpdn62.click
 dpduk.dev
 drive-icloud.com
 dropbox-online.at
@@ -122,7 +123,6 @@ dropbox-online.net
 dropboxbiz.com
 ebay-c.com
 ebay-seller-center-managedpayments.vercel.app
-ebayesho.com
 ebaymclaren-austin.eventshouse.app
 ebaymevip.com
 edgeone.dev
@@ -133,7 +133,6 @@ en-ledgre.pages.dev
 enhancedconfiguration.app
 epsilons.co
 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
-esmart-oferta.sbs
 eu-facebook.blogspot.com
 eu.cc
 ewlpnkrg.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
@@ -310,7 +309,6 @@ facebookzaman.blogspot.com
 fedexsv.com
 fedexwp.com
 fercel.app
-file-share-document-2026-08-26-0nedrive.cloud
 file-whatsappn.hl.cn
 forsakens-crew-teman-facebook.blogspot.com
 foryour.review
@@ -318,10 +316,12 @@ free-facebook-page-likes.blogspot.com
 fwh.is
 gafiatechnologies.com
 gercel.app
+gestioncompte.com
 ggzh-google.com.cn
 gloronyan.github.io
 glovonetwork.com
 google-apk.com
+google-play-store.duckdns.org
 google.jl.cn
 google.js.cn
 google1107.com
@@ -357,6 +357,7 @@ hstn.me
 https-roblox.com
 icloud-asisten-official.com
 icloud-ubication.com
+icloudmapsfind.help
 icloudmex-lost.com
 icloudnotify.help
 icloudweb-ext860.click
@@ -447,6 +448,7 @@ jyothycirrussaviation.com
 kauadosantos.github.io
 klassik-erh.de
 kraken-tor.co.com
+kraken.homes
 kucoin-referral-code-pt.vercel.app
 kucoinlogenac.gitbook.io
 kucoinloginaa.gitbook.io
@@ -553,6 +555,7 @@ nicolidmaiac.github.io
 no-spotify.com
 noreply-icloud.app
 nw-facebook.blogspot.com
+oferta-846202548.cfd
 office365licensingsupport.com
 oortstorages.com
 open-instagram.vercel.app
@@ -575,7 +578,6 @@ pe-facebook.blogspot.com
 phil-heron-zoomdrain-com-s-account.workers.dev
 piedrasdecolon.com.ar
 premio-instagram.com
-previewship.net
 profil-facebook-saya.blogspot.com
 ptai.in
 r-facebook.blogspot.com
@@ -595,7 +597,6 @@ roblox.com.bo
 roblox.com.ee
 roblox.com.gr
 roblox.com.kz
-roblox.com.ml
 roblox.com.mu
 roblox.com.pt
 roblox.rw
@@ -616,13 +617,11 @@ secure-coinbase-com-sign-in.typedream.app
 secure-dropbox.ist
 securedsupport-coinbase.com
 secureserver.net
-security-appleid.com
 sena-facebook.blogspot.com
 send-secure-trustwallet-usdt-bip20.vercel.app
 services-facebook.blogspot.com
 seureonline.shop
 shopweb.com.vn
-si-com.sbs
 sigma-whatsapp.com
 sign-in-to-xfinity-updatee.weebly.com
 sk-facebook.blogspot.com
@@ -683,7 +682,6 @@ updata.net.cn
 usdt-trustwallet-blockchain.vercel.app
 uspsaunitedworkforce.com
 uspsecuredlogs.com
-uspss.pages.dev
 uspssmartparcellocker.tech
 v0-instagram-accounts.vercel.app
 ve-whatsapp.com
@@ -702,6 +700,7 @@ webaccess-alert.com
 webador.com
 webmail-service-xfinity.vercel.app
 weeblysite.com
+wellsfargobank.fyi
 whatsapp-dp-images.in
 whatsapp-fast.vercel.app
 whatsapp-iamsuyash.vercel.app
