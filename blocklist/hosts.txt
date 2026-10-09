@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
 # Entries: 740
-# Updated: 2026-10-09T06:10:15Z
+# Updated: 2026-10-09T13:18:37Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -11,7 +11,7 @@
 0.0.0.0 1789503-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 2ccloud.com
-0.0.0.0 a1-kraken.com
+0.0.0.0 921390h.pl
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
 0.0.0.0 account-instagram.vercel.app
@@ -367,7 +367,6 @@
 0.0.0.0 infy.click
 0.0.0.0 ingdirect-accesoweb-login.com
 0.0.0.0 iniciamazon.com.br
-0.0.0.0 instagram-2-0-4p6f5s6nd-chibokaxavier.vercel.app
 0.0.0.0 instagram-2-blond.vercel.app
 0.0.0.0 instagram-account-free-follower.vercel.app
 0.0.0.0 instagram-baittouts-login.blogspot.com
@@ -447,7 +446,6 @@
 0.0.0.0 jyothycirrussaviation.com
 0.0.0.0 kauadosantos.github.io
 0.0.0.0 klassik-erh.de
-0.0.0.0 kraken-site-dark-net.pages.dev
 0.0.0.0 kraken-tor.co.com
 0.0.0.0 kucoin-referral-code-pt.vercel.app
 0.0.0.0 kucoinlogenac.gitbook.io
@@ -458,7 +456,6 @@
 0.0.0.0 ledger-live-download-sso-conect.typedream.app
 0.0.0.0 ledger-live-login-web.square.site
 0.0.0.0 ledger-live-wallet-start-conect-us-en.typedream.app
-0.0.0.0 ledgerwalletrepair.com
 0.0.0.0 ledgrelivapp--crome.typedream.app
 0.0.0.0 leia-santander.vercel.app
 0.0.0.0 linkedin-antanim.vercel.app
@@ -547,10 +544,12 @@
 0.0.0.0 netflixfeitoaqui.com.br
 0.0.0.0 netflixinfos.com
 0.0.0.0 netflixquebec.blogspot.com
+0.0.0.0 netflixseries.com
 0.0.0.0 netflixvoid.org
 0.0.0.0 netflixy-bixy.vercel.app
 0.0.0.0 network-facebook.blogspot.com
 0.0.0.0 news-revolut.com
+0.0.0.0 nicolidmaiac.github.io
 0.0.0.0 no-spotify.com
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
@@ -623,6 +622,7 @@
 0.0.0.0 services-facebook.blogspot.com
 0.0.0.0 seureonline.shop
 0.0.0.0 shopweb.com.vn
+0.0.0.0 si-com.sbs
 0.0.0.0 sigma-whatsapp.com
 0.0.0.0 sign-in-to-xfinity-updatee.weebly.com
 0.0.0.0 sk-facebook.blogspot.com

@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
 # Entries: 740
-# Updated: 2026-10-09T06:09:28Z
+# Updated: 2026-10-09T13:12:31Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -11,7 +11,7 @@
 1789503-coinbase.com
 2017-facebook.blogspot.com
 2ccloud.com
-a1-kraken.com
+921390h.pl
 a2zapk.co
 a2zapk.dev
 account-instagram.vercel.app
@@ -367,7 +367,6 @@ info-facebook.blogspot.com
 infy.click
 ingdirect-accesoweb-login.com
 iniciamazon.com.br
-instagram-2-0-4p6f5s6nd-chibokaxavier.vercel.app
 instagram-2-blond.vercel.app
 instagram-account-free-follower.vercel.app
 instagram-baittouts-login.blogspot.com
@@ -447,7 +446,6 @@ jwb-facebook.blogspot.com
 jyothycirrussaviation.com
 kauadosantos.github.io
 klassik-erh.de
-kraken-site-dark-net.pages.dev
 kraken-tor.co.com
 kucoin-referral-code-pt.vercel.app
 kucoinlogenac.gitbook.io
@@ -458,7 +456,6 @@ ledger-live-application.com
 ledger-live-download-sso-conect.typedream.app
 ledger-live-login-web.square.site
 ledger-live-wallet-start-conect-us-en.typedream.app
-ledgerwalletrepair.com
 ledgrelivapp--crome.typedream.app
 leia-santander.vercel.app
 linkedin-antanim.vercel.app
@@ -547,10 +544,12 @@ netflixbymanoj.vercel.app
 netflixfeitoaqui.com.br
 netflixinfos.com
 netflixquebec.blogspot.com
+netflixseries.com
 netflixvoid.org
 netflixy-bixy.vercel.app
 network-facebook.blogspot.com
 news-revolut.com
+nicolidmaiac.github.io
 no-spotify.com
 noreply-icloud.app
 nw-facebook.blogspot.com
@@ -623,6 +622,7 @@ send-secure-trustwallet-usdt-bip20.vercel.app
 services-facebook.blogspot.com
 seureonline.shop
 shopweb.com.vn
+si-com.sbs
 sigma-whatsapp.com
 sign-in-to-xfinity-updatee.weebly.com
 sk-facebook.blogspot.com
