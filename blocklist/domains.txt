@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 733
-# Updated: 2026-10-08T23:21:36Z
+# Entries: 740
+# Updated: 2026-10-09T06:09:28Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -72,6 +72,7 @@ buscarmi-icloud.app
 business-dropbox.me
 c-binance.github.io
 careers-openai.com
+careritacenters.com
 carsscanned.ebaymclaren-austin.eventshouse.app
 cashapp-liart.vercel.app
 cashappps.com
@@ -112,6 +113,7 @@ docs-google.com
 docs-trezor-app.pages.dev
 docusign-server.github.io
 dothome.co.kr
+dpdie.live
 dpdn62.click
 dpduk.dev
 drive-icloud.com
@@ -138,7 +140,6 @@ ewlpnkrg.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 exclusive-openseamints.vercel.app
 exodus-desktop-mobile-wallet.github.io
-exodus-docs.pages.dev
 exodus-wallet.global.ssl.fastly.net
 exoduswallethelpcenter.vercel.app
 faceb00klogin.blogspot.com
@@ -361,6 +362,7 @@ icloudnotify.help
 icloudweb-ext860.click
 ideeo.mx
 ifotografix.co.uk
+info-eng-ledgerlive-learn.typedream.app
 info-facebook.blogspot.com
 infy.click
 ingdirect-accesoweb-login.com
@@ -445,6 +447,7 @@ jwb-facebook.blogspot.com
 jyothycirrussaviation.com
 kauadosantos.github.io
 klassik-erh.de
+kraken-site-dark-net.pages.dev
 kraken-tor.co.com
 kucoin-referral-code-pt.vercel.app
 kucoinlogenac.gitbook.io
@@ -586,12 +589,14 @@ redirecthelp.com
 register-facebook.blogspot.com
 rev.it
 roblox-login.vercel.app
+roblox.com.am
 roblox.com.bi
 roblox.com.bn
 roblox.com.bo
 roblox.com.ee
 roblox.com.gr
 roblox.com.kz
+roblox.com.ml
 roblox.com.mu
 roblox.com.pt
 roblox.rw
@@ -636,6 +641,7 @@ stardustottawa.com
 start-ledgerlive-com-web.typedream.app
 start-ledgren.zapier.app
 start-web-en-ledger-live-login.typedream.app
+starts-trezo-eng.pages.dev
 steamcommunity.blog
 steamcommunity.ing
 steuerquimica.cl
@@ -649,7 +655,6 @@ support-ledgerlive-eng.typedream.app
 support-ledgrcom-start-web.typedream.app
 support-netflix-signup.info
 synel99.github.io
-tail017acc.ts.net
 tamil.bid
 tara-facebook.blogspot.com
 taslimaenterprise.com
@@ -678,6 +683,7 @@ updata.net.cn
 usdt-trustwallet-blockchain.vercel.app
 uspsaunitedworkforce.com
 uspsecuredlogs.com
+uspss.pages.dev
 uspssmartparcellocker.tech
 v0-instagram-accounts.vercel.app
 ve-whatsapp.com
@@ -733,6 +739,7 @@ yonataxi.at
 yzz.me
 z-facebook.blogspot.com
 z-instagram.blogspot.com
+zayarhtet007.github.io
 zelleactive.shop
 zeta-facebook.blogspot.com
 zkey0.com

@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 733
-# Updated: 2026-10-08T23:21:36Z
+# Entries: 740
+# Updated: 2026-10-09T06:10:15Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -72,6 +72,7 @@
 0.0.0.0 business-dropbox.me
 0.0.0.0 c-binance.github.io
 0.0.0.0 careers-openai.com
+0.0.0.0 careritacenters.com
 0.0.0.0 carsscanned.ebaymclaren-austin.eventshouse.app
 0.0.0.0 cashapp-liart.vercel.app
 0.0.0.0 cashappps.com
@@ -112,6 +113,7 @@
 0.0.0.0 docs-trezor-app.pages.dev
 0.0.0.0 docusign-server.github.io
 0.0.0.0 dothome.co.kr
+0.0.0.0 dpdie.live
 0.0.0.0 dpdn62.click
 0.0.0.0 dpduk.dev
 0.0.0.0 drive-icloud.com
@@ -138,7 +140,6 @@
 0.0.0.0 ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 0.0.0.0 exclusive-openseamints.vercel.app
 0.0.0.0 exodus-desktop-mobile-wallet.github.io
-0.0.0.0 exodus-docs.pages.dev
 0.0.0.0 exodus-wallet.global.ssl.fastly.net
 0.0.0.0 exoduswallethelpcenter.vercel.app
 0.0.0.0 faceb00klogin.blogspot.com
@@ -361,6 +362,7 @@
 0.0.0.0 icloudweb-ext860.click
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
+0.0.0.0 info-eng-ledgerlive-learn.typedream.app
 0.0.0.0 info-facebook.blogspot.com
 0.0.0.0 infy.click
 0.0.0.0 ingdirect-accesoweb-login.com
@@ -445,6 +447,7 @@
 0.0.0.0 jyothycirrussaviation.com
 0.0.0.0 kauadosantos.github.io
 0.0.0.0 klassik-erh.de
+0.0.0.0 kraken-site-dark-net.pages.dev
 0.0.0.0 kraken-tor.co.com
 0.0.0.0 kucoin-referral-code-pt.vercel.app
 0.0.0.0 kucoinlogenac.gitbook.io
@@ -586,12 +589,14 @@
 0.0.0.0 register-facebook.blogspot.com
 0.0.0.0 rev.it
 0.0.0.0 roblox-login.vercel.app
+0.0.0.0 roblox.com.am
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bo
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.kz
+0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 roblox.rw
@@ -636,6 +641,7 @@
 0.0.0.0 start-ledgerlive-com-web.typedream.app
 0.0.0.0 start-ledgren.zapier.app
 0.0.0.0 start-web-en-ledger-live-login.typedream.app
+0.0.0.0 starts-trezo-eng.pages.dev
 0.0.0.0 steamcommunity.blog
 0.0.0.0 steamcommunity.ing
 0.0.0.0 steuerquimica.cl
@@ -649,7 +655,6 @@
 0.0.0.0 support-ledgrcom-start-web.typedream.app
 0.0.0.0 support-netflix-signup.info
 0.0.0.0 synel99.github.io
-0.0.0.0 tail017acc.ts.net
 0.0.0.0 tamil.bid
 0.0.0.0 tara-facebook.blogspot.com
 0.0.0.0 taslimaenterprise.com
@@ -678,6 +683,7 @@
 0.0.0.0 usdt-trustwallet-blockchain.vercel.app
 0.0.0.0 uspsaunitedworkforce.com
 0.0.0.0 uspsecuredlogs.com
+0.0.0.0 uspss.pages.dev
 0.0.0.0 uspssmartparcellocker.tech
 0.0.0.0 v0-instagram-accounts.vercel.app
 0.0.0.0 ve-whatsapp.com
@@ -733,6 +739,7 @@
 0.0.0.0 yzz.me
 0.0.0.0 z-facebook.blogspot.com
 0.0.0.0 z-instagram.blogspot.com
+0.0.0.0 zayarhtet007.github.io
 0.0.0.0 zelleactive.shop
 0.0.0.0 zeta-facebook.blogspot.com
 0.0.0.0 zkey0.com
