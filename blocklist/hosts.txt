@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 739
-# Updated: 2026-10-09T22:39:06Z
+# Entries: 780
+# Updated: 2026-10-10T05:53:51Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -9,13 +9,13 @@
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 12312940.pl
 0.0.0.0 1789503-coinbase.com
+0.0.0.0 1yz.com
 0.0.0.0 2017-facebook.blogspot.com
-0.0.0.0 2ccloud.com
-0.0.0.0 30rids7129.help
 0.0.0.0 921390h.pl
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
 0.0.0.0 account-instagram.vercel.app
+0.0.0.0 account.webwindos-whatsapp.com.cn
 0.0.0.0 acltci.com
 0.0.0.0 adobedelcielo.com
 0.0.0.0 adobeexperience.com.br
@@ -28,6 +28,7 @@
 0.0.0.0 amazon-harshdeep.vercel.app
 0.0.0.0 amazon-opfq.vercel.app
 0.0.0.0 ancoradourohotel.com.br
+0.0.0.0 android.webwindos-whatsapp.com.cn
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 annulation-amazon.com
 0.0.0.0 apk-google.cn
@@ -37,8 +38,11 @@
 0.0.0.0 apple-icloud.azurewebsites.net
 0.0.0.0 assign-icloud.com
 0.0.0.0 asso-entrautres.fr
+0.0.0.0 auth-trezor-cdn-io.gitbook.io
 0.0.0.0 avaturefed.net
 0.0.0.0 axm-amazon.com
+0.0.0.0 b12sites.com
+0.0.0.0 backup.webwindos-whatsapp.com.cn
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
@@ -80,6 +84,7 @@
 0.0.0.0 cfm-whatsapps.com
 0.0.0.0 ch-google.cc
 0.0.0.0 chatgpt0005.eu.org
+0.0.0.0 checkleaked.cc
 0.0.0.0 click-facebook.blogspot.com
 0.0.0.0 cn-feed-whatsapp.com.cn
 0.0.0.0 coinbase-event.vercel.app
@@ -87,6 +92,7 @@
 0.0.0.0 coinbaseprologinv.gitbook.io
 0.0.0.0 coinbaseverify.vercel.app
 0.0.0.0 collectableswall.ebaymclaren-austin.eventshouse.app
+0.0.0.0 com-microsoftonline-ondrive.ca
 0.0.0.0 comcast-2-iota.vercel.app
 0.0.0.0 comcast-2.vercel.app
 0.0.0.0 comcast-ebon.vercel.app
@@ -107,14 +113,18 @@
 0.0.0.0 de5.net
 0.0.0.0 deluxxe.com.br
 0.0.0.0 desktop-ledgrecdn.wixstudio.com
+0.0.0.0 desktop.webwindos-whatsapp.com.cn
+0.0.0.0 developer.webwindos-whatsapp.com.cn
 0.0.0.0 dhl-express-dev.firebaseapp.com
 0.0.0.0 dig82391.buzz
 0.0.0.0 dir.com.my
 0.0.0.0 dj-facebook.blogspot.com
 0.0.0.0 docs-google.com
 0.0.0.0 docs-trezor-app.pages.dev
+0.0.0.0 docs.webwindos-whatsapp.com.cn
 0.0.0.0 docusign-server.github.io
 0.0.0.0 dothome.co.kr
+0.0.0.0 download.webwindos-whatsapp.com.cn
 0.0.0.0 dpdie.live
 0.0.0.0 dpduk.dev
 0.0.0.0 drive-icloud.com
@@ -306,6 +316,7 @@
 0.0.0.0 facebookverifyyouraccount.blogspot.com
 0.0.0.0 facebookwebsite9.blogspot.com
 0.0.0.0 facebookzaman.blogspot.com
+0.0.0.0 faq.webwindos-whatsapp.com.cn
 0.0.0.0 fedexsv.com
 0.0.0.0 fedexwp.com
 0.0.0.0 fercel.app
@@ -343,8 +354,12 @@
 0.0.0.0 googleplaydown.com
 0.0.0.0 googlepllry.com
 0.0.0.0 googleplrzy.com
+0.0.0.0 group.webwindos-whatsapp.com.cn
+0.0.0.0 guide.webwindos-whatsapp.com.cn
+0.0.0.0 hadikeikei.ir
 0.0.0.0 hashnode.dev
 0.0.0.0 help-instagram.blogspot.com
+0.0.0.0 history.webwindos-whatsapp.com.cn
 0.0.0.0 hofmemorabilia.ebaymclaren-austin.eventshouse.app
 0.0.0.0 holdings-coinbase.com
 0.0.0.0 home-facebook.blogspot.com
@@ -436,6 +451,7 @@
 0.0.0.0 internal-alerts.com
 0.0.0.0 invreceiptslinkedin.com
 0.0.0.0 io-trezrn-eng.pages.dev
+0.0.0.0 ios.webwindos-whatsapp.com.cn
 0.0.0.0 isha-dev.com
 0.0.0.0 itau-com.vercel.app
 0.0.0.0 itau-snowy.vercel.app
@@ -472,6 +488,7 @@
 0.0.0.0 login-page-instagram.vercel.app
 0.0.0.0 login.rmdbwskx.santander.bimp-bot.duckdns.org
 0.0.0.0 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
+0.0.0.0 login.webwindos-whatsapp.com.cn
 0.0.0.0 logowanie-facebook.vercel.app
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
@@ -480,7 +497,6 @@
 0.0.0.0 ly-facebook.blogspot.com
 0.0.0.0 m365-microsoft.com
 0.0.0.0 m4ntapaset.ink
-0.0.0.0 marycar.com.br
 0.0.0.0 mb-facebook.blogspot.com
 0.0.0.0 mclarencar.ebaymclaren-austin.eventshouse.app
 0.0.0.0 mclarenf1car.ebaymclaren-austin.eventshouse.app
@@ -488,6 +504,7 @@
 0.0.0.0 meet-googlee7563454656.pages.dev
 0.0.0.0 meet-googlee7823629056.pages.dev
 0.0.0.0 meme-facebook.blogspot.com
+0.0.0.0 message.webwindos-whatsapp.com.cn
 0.0.0.0 metamask-ai-agent.vercel.app
 0.0.0.0 metamask-connect.vercel.app
 0.0.0.0 metamask-launchpad.vercel.app
@@ -536,6 +553,7 @@
 0.0.0.0 netflix-lake.vercel.app
 0.0.0.0 netflix-login.blogspot.com
 0.0.0.0 netflix-online.it
+0.0.0.0 netflix-slot.cz
 0.0.0.0 netflix-two-mu.vercel.app
 0.0.0.0 netflix-web-site-three.vercel.app
 0.0.0.0 netflix.surf
@@ -551,6 +569,7 @@
 0.0.0.0 netflixy-bixy.vercel.app
 0.0.0.0 network-facebook.blogspot.com
 0.0.0.0 news-revolut.com
+0.0.0.0 news.webwindos-whatsapp.com.cn
 0.0.0.0 nicolidmaiac.github.io
 0.0.0.0 no-spotify.com
 0.0.0.0 noreply-icloud.app
@@ -569,16 +588,21 @@
 0.0.0.0 outlookmail.social
 0.0.0.0 outlooksstoragefileonlinky.digital
 0.0.0.0 page-instagram.vercel.app
+0.0.0.0 password.webwindos-whatsapp.com.cn
 0.0.0.0 paykmc.com
 0.0.0.0 paypal-logiin.blogspot.com
 0.0.0.0 paypal-password.blogspot.com
 0.0.0.0 paypal-signin.blogspot.com
 0.0.0.0 paypalcorp.blogspot.com
+0.0.0.0 pc.webwindos-whatsapp.com.cn
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 phil-heron-zoomdrain-com-s-account.workers.dev
 0.0.0.0 piedrasdecolon.com.ar
+0.0.0.0 platnosci840239.sbs
 0.0.0.0 premio-instagram.com
+0.0.0.0 privacy.webwindos-whatsapp.com.cn
 0.0.0.0 profil-facebook-saya.blogspot.com
+0.0.0.0 profile.webwindos-whatsapp.com.cn
 0.0.0.0 ptai.in
 0.0.0.0 r-facebook.blogspot.com
 0.0.0.0 rama-facebook.blogspot.com
@@ -588,9 +612,10 @@
 0.0.0.0 recreate-instagrampage.vercel.app
 0.0.0.0 redirecthelp.com
 0.0.0.0 register-facebook.blogspot.com
+0.0.0.0 register.webwindos-whatsapp.com.cn
+0.0.0.0 restore.webwindos-whatsapp.com.cn
 0.0.0.0 rev.it
 0.0.0.0 roblox-login.vercel.app
-0.0.0.0 roblox.com.am
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bo
@@ -617,13 +642,16 @@
 0.0.0.0 secure-dropbox.ist
 0.0.0.0 securedsupport-coinbase.com
 0.0.0.0 secureserver.net
+0.0.0.0 security.webwindos-whatsapp.com.cn
 0.0.0.0 sena-facebook.blogspot.com
 0.0.0.0 send-secure-trustwallet-usdt-bip20.vercel.app
 0.0.0.0 services-facebook.blogspot.com
+0.0.0.0 setup.webwindos-whatsapp.com.cn
 0.0.0.0 seureonline.shop
 0.0.0.0 shopweb.com.vn
 0.0.0.0 sigma-whatsapp.com
 0.0.0.0 sign-in-to-xfinity-updatee.weebly.com
+0.0.0.0 signin.webwindos-whatsapp.com.cn
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 smallflyingarts.net
 0.0.0.0 smtp6-coinbase.com
@@ -635,12 +663,14 @@
 0.0.0.0 spotifypremiumz.net
 0.0.0.0 squarespace.com
 0.0.0.0 srpska-banka.com
+0.0.0.0 ssl.webwindos-whatsapp.com.cn
 0.0.0.0 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 0.0.0.0 stardustottawa.com
+0.0.0.0 start-io-login-trezr-cdn.typedream.app
 0.0.0.0 start-ledgerlive-com-web.typedream.app
 0.0.0.0 start-ledgren.zapier.app
 0.0.0.0 start-web-en-ledger-live-login.typedream.app
-0.0.0.0 starts-trezo-eng.pages.dev
+0.0.0.0 static.webwindos-whatsapp.com.cn
 0.0.0.0 steamcommunity.blog
 0.0.0.0 steamcommunity.ing
 0.0.0.0 steuerquimica.cl
@@ -653,16 +683,20 @@
 0.0.0.0 support-ledgerlive-eng.typedream.app
 0.0.0.0 support-ledgrcom-start-web.typedream.app
 0.0.0.0 support-netflix-signup.info
+0.0.0.0 sync.webwindos-whatsapp.com.cn
 0.0.0.0 synel99.github.io
 0.0.0.0 tamil.bid
 0.0.0.0 tara-facebook.blogspot.com
 0.0.0.0 taslimaenterprise.com
 0.0.0.0 tb-facebook.blogspot.com
 0.0.0.0 temporary.site
+0.0.0.0 terms.webwindos-whatsapp.com.cn
 0.0.0.0 test-facebook.blogspot.com
 0.0.0.0 therelayservice.com
 0.0.0.0 thomas-coinbase.com
+0.0.0.0 tips.webwindos-whatsapp.com.cn
 0.0.0.0 todo--facebook.blogspot.com
+0.0.0.0 toooo-tooo-trezor.gitbook.io
 0.0.0.0 tottattoo.com
 0.0.0.0 trackingnumbers.org
 0.0.0.0 trezoorr--thego.gitbook.io
@@ -678,13 +712,16 @@
 0.0.0.0 trustwallet-team-support.github.io
 0.0.0.0 trustwallet-tokentwtowner.vercel.app
 0.0.0.0 trustwalletindia-beta.vercel.app
+0.0.0.0 two-step.webwindos-whatsapp.com.cn
 0.0.0.0 updata.net.cn
 0.0.0.0 usdt-trustwallet-blockchain.vercel.app
 0.0.0.0 uspsaunitedworkforce.com
 0.0.0.0 uspsecuredlogs.com
+0.0.0.0 uspss.pages.dev
 0.0.0.0 uspssmartparcellocker.tech
 0.0.0.0 v0-instagram-accounts.vercel.app
 0.0.0.0 ve-whatsapp.com
+0.0.0.0 verify.webwindos-whatsapp.com.cn
 0.0.0.0 verifyaccount-google.com
 0.0.0.0 verifytoken.com
 0.0.0.0 vi-facebook.blogspot.com
@@ -692,13 +729,16 @@
 0.0.0.0 vinted-technologies.live
 0.0.0.0 vodafone-on-line.it
 0.0.0.0 vpnuse.eu.org
+0.0.0.0 wan-whatsapp.com
 0.0.0.0 wave-whatsapp.com
 0.0.0.0 waycobeauty.com
 0.0.0.0 web-conect-us-ledger-live-wallet.typedream.app
 0.0.0.0 web-trezor-io-start-us.vercel.app
+0.0.0.0 web86-whatsapp.com.cn
 0.0.0.0 webaccess-alert.com
 0.0.0.0 webador.com
 0.0.0.0 webmail-service-xfinity.vercel.app
+0.0.0.0 webwin-whatsapp.com.cn
 0.0.0.0 weeblysite.com
 0.0.0.0 wellsfargobank.fyi
 0.0.0.0 whatsapp-dp-images.in
@@ -717,6 +757,7 @@
 0.0.0.0 whatsappzoeiras.blogspot.com
 0.0.0.0 wi-rr.com
 0.0.0.0 windows-ledger-live.typedream.app
+0.0.0.0 windows.webwindos-whatsapp.com.cn
 0.0.0.0 wooflers.com
 0.0.0.0 www-app-google.com
 0.0.0.0 www-apple.support

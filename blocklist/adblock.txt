@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 739
-! Updated: 2026-10-09T22:39:06Z
+! Entries: 780
+! Updated: 2026-10-10T05:53:52Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -9,13 +9,13 @@
 ||123-facebook.blogspot.com^
 ||12312940.pl^
 ||1789503-coinbase.com^
+||1yz.com^
 ||2017-facebook.blogspot.com^
-||2ccloud.com^
-||30rids7129.help^
 ||921390h.pl^
 ||a2zapk.co^
 ||a2zapk.dev^
 ||account-instagram.vercel.app^
+||account.webwindos-whatsapp.com.cn^
 ||acltci.com^
 ||adobedelcielo.com^
 ||adobeexperience.com.br^
@@ -28,6 +28,7 @@
 ||amazon-harshdeep.vercel.app^
 ||amazon-opfq.vercel.app^
 ||ancoradourohotel.com.br^
+||android.webwindos-whatsapp.com.cn^
 ||ani-facebook.blogspot.com^
 ||annulation-amazon.com^
 ||apk-google.cn^
@@ -37,8 +38,11 @@
 ||apple-icloud.azurewebsites.net^
 ||assign-icloud.com^
 ||asso-entrautres.fr^
+||auth-trezor-cdn-io.gitbook.io^
 ||avaturefed.net^
 ||axm-amazon.com^
+||b12sites.com^
+||backup.webwindos-whatsapp.com.cn^
 ||bankofamericamailcompte.blogspot.com^
 ||barcelona-facebook.blogspot.com^
 ||barclays-bank.vercel.app^
@@ -80,6 +84,7 @@
 ||cfm-whatsapps.com^
 ||ch-google.cc^
 ||chatgpt0005.eu.org^
+||checkleaked.cc^
 ||click-facebook.blogspot.com^
 ||cn-feed-whatsapp.com.cn^
 ||coinbase-event.vercel.app^
@@ -87,6 +92,7 @@
 ||coinbaseprologinv.gitbook.io^
 ||coinbaseverify.vercel.app^
 ||collectableswall.ebaymclaren-austin.eventshouse.app^
+||com-microsoftonline-ondrive.ca^
 ||comcast-2-iota.vercel.app^
 ||comcast-2.vercel.app^
 ||comcast-ebon.vercel.app^
@@ -107,14 +113,18 @@
 ||de5.net^
 ||deluxxe.com.br^
 ||desktop-ledgrecdn.wixstudio.com^
+||desktop.webwindos-whatsapp.com.cn^
+||developer.webwindos-whatsapp.com.cn^
 ||dhl-express-dev.firebaseapp.com^
 ||dig82391.buzz^
 ||dir.com.my^
 ||dj-facebook.blogspot.com^
 ||docs-google.com^
 ||docs-trezor-app.pages.dev^
+||docs.webwindos-whatsapp.com.cn^
 ||docusign-server.github.io^
 ||dothome.co.kr^
+||download.webwindos-whatsapp.com.cn^
 ||dpdie.live^
 ||dpduk.dev^
 ||drive-icloud.com^
@@ -306,6 +316,7 @@
 ||facebookverifyyouraccount.blogspot.com^
 ||facebookwebsite9.blogspot.com^
 ||facebookzaman.blogspot.com^
+||faq.webwindos-whatsapp.com.cn^
 ||fedexsv.com^
 ||fedexwp.com^
 ||fercel.app^
@@ -343,8 +354,12 @@
 ||googleplaydown.com^
 ||googlepllry.com^
 ||googleplrzy.com^
+||group.webwindos-whatsapp.com.cn^
+||guide.webwindos-whatsapp.com.cn^
+||hadikeikei.ir^
 ||hashnode.dev^
 ||help-instagram.blogspot.com^
+||history.webwindos-whatsapp.com.cn^
 ||hofmemorabilia.ebaymclaren-austin.eventshouse.app^
 ||holdings-coinbase.com^
 ||home-facebook.blogspot.com^
@@ -436,6 +451,7 @@
 ||internal-alerts.com^
 ||invreceiptslinkedin.com^
 ||io-trezrn-eng.pages.dev^
+||ios.webwindos-whatsapp.com.cn^
 ||isha-dev.com^
 ||itau-com.vercel.app^
 ||itau-snowy.vercel.app^
@@ -472,6 +488,7 @@
 ||login-page-instagram.vercel.app^
 ||login.rmdbwskx.santander.bimp-bot.duckdns.org^
 ||login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org^
+||login.webwindos-whatsapp.com.cn^
 ||logowanie-facebook.vercel.app^
 ||love-facebook.blogspot.com^
 ||lovefive-facebook.blogspot.com^
@@ -480,7 +497,6 @@
 ||ly-facebook.blogspot.com^
 ||m365-microsoft.com^
 ||m4ntapaset.ink^
-||marycar.com.br^
 ||mb-facebook.blogspot.com^
 ||mclarencar.ebaymclaren-austin.eventshouse.app^
 ||mclarenf1car.ebaymclaren-austin.eventshouse.app^
@@ -488,6 +504,7 @@
 ||meet-googlee7563454656.pages.dev^
 ||meet-googlee7823629056.pages.dev^
 ||meme-facebook.blogspot.com^
+||message.webwindos-whatsapp.com.cn^
 ||metamask-ai-agent.vercel.app^
 ||metamask-connect.vercel.app^
 ||metamask-launchpad.vercel.app^
@@ -536,6 +553,7 @@
 ||netflix-lake.vercel.app^
 ||netflix-login.blogspot.com^
 ||netflix-online.it^
+||netflix-slot.cz^
 ||netflix-two-mu.vercel.app^
 ||netflix-web-site-three.vercel.app^
 ||netflix.surf^
@@ -551,6 +569,7 @@
 ||netflixy-bixy.vercel.app^
 ||network-facebook.blogspot.com^
 ||news-revolut.com^
+||news.webwindos-whatsapp.com.cn^
 ||nicolidmaiac.github.io^
 ||no-spotify.com^
 ||noreply-icloud.app^
@@ -569,16 +588,21 @@
 ||outlookmail.social^
 ||outlooksstoragefileonlinky.digital^
 ||page-instagram.vercel.app^
+||password.webwindos-whatsapp.com.cn^
 ||paykmc.com^
 ||paypal-logiin.blogspot.com^
 ||paypal-password.blogspot.com^
 ||paypal-signin.blogspot.com^
 ||paypalcorp.blogspot.com^
+||pc.webwindos-whatsapp.com.cn^
 ||pe-facebook.blogspot.com^
 ||phil-heron-zoomdrain-com-s-account.workers.dev^
 ||piedrasdecolon.com.ar^
+||platnosci840239.sbs^
 ||premio-instagram.com^
+||privacy.webwindos-whatsapp.com.cn^
 ||profil-facebook-saya.blogspot.com^
+||profile.webwindos-whatsapp.com.cn^
 ||ptai.in^
 ||r-facebook.blogspot.com^
 ||rama-facebook.blogspot.com^
@@ -588,9 +612,10 @@
 ||recreate-instagrampage.vercel.app^
 ||redirecthelp.com^
 ||register-facebook.blogspot.com^
+||register.webwindos-whatsapp.com.cn^
+||restore.webwindos-whatsapp.com.cn^
 ||rev.it^
 ||roblox-login.vercel.app^
-||roblox.com.am^
 ||roblox.com.bi^
 ||roblox.com.bn^
 ||roblox.com.bo^
@@ -617,13 +642,16 @@
 ||secure-dropbox.ist^
 ||securedsupport-coinbase.com^
 ||secureserver.net^
+||security.webwindos-whatsapp.com.cn^
 ||sena-facebook.blogspot.com^
 ||send-secure-trustwallet-usdt-bip20.vercel.app^
 ||services-facebook.blogspot.com^
+||setup.webwindos-whatsapp.com.cn^
 ||seureonline.shop^
 ||shopweb.com.vn^
 ||sigma-whatsapp.com^
 ||sign-in-to-xfinity-updatee.weebly.com^
+||signin.webwindos-whatsapp.com.cn^
 ||sk-facebook.blogspot.com^
 ||smallflyingarts.net^
 ||smtp6-coinbase.com^
@@ -635,12 +663,14 @@
 ||spotifypremiumz.net^
 ||squarespace.com^
 ||srpska-banka.com^
+||ssl.webwindos-whatsapp.com.cn^
 ||sso-ledger-live-strt-ledger-support-cdn.typedream.app^
 ||stardustottawa.com^
+||start-io-login-trezr-cdn.typedream.app^
 ||start-ledgerlive-com-web.typedream.app^
 ||start-ledgren.zapier.app^
 ||start-web-en-ledger-live-login.typedream.app^
-||starts-trezo-eng.pages.dev^
+||static.webwindos-whatsapp.com.cn^
 ||steamcommunity.blog^
 ||steamcommunity.ing^
 ||steuerquimica.cl^
@@ -653,16 +683,20 @@
 ||support-ledgerlive-eng.typedream.app^
 ||support-ledgrcom-start-web.typedream.app^
 ||support-netflix-signup.info^
+||sync.webwindos-whatsapp.com.cn^
 ||synel99.github.io^
 ||tamil.bid^
 ||tara-facebook.blogspot.com^
 ||taslimaenterprise.com^
 ||tb-facebook.blogspot.com^
 ||temporary.site^
+||terms.webwindos-whatsapp.com.cn^
 ||test-facebook.blogspot.com^
 ||therelayservice.com^
 ||thomas-coinbase.com^
+||tips.webwindos-whatsapp.com.cn^
 ||todo--facebook.blogspot.com^
+||toooo-tooo-trezor.gitbook.io^
 ||tottattoo.com^
 ||trackingnumbers.org^
 ||trezoorr--thego.gitbook.io^
@@ -678,13 +712,16 @@
 ||trustwallet-team-support.github.io^
 ||trustwallet-tokentwtowner.vercel.app^
 ||trustwalletindia-beta.vercel.app^
+||two-step.webwindos-whatsapp.com.cn^
 ||updata.net.cn^
 ||usdt-trustwallet-blockchain.vercel.app^
 ||uspsaunitedworkforce.com^
 ||uspsecuredlogs.com^
+||uspss.pages.dev^
 ||uspssmartparcellocker.tech^
 ||v0-instagram-accounts.vercel.app^
 ||ve-whatsapp.com^
+||verify.webwindos-whatsapp.com.cn^
 ||verifyaccount-google.com^
 ||verifytoken.com^
 ||vi-facebook.blogspot.com^
@@ -692,13 +729,16 @@
 ||vinted-technologies.live^
 ||vodafone-on-line.it^
 ||vpnuse.eu.org^
+||wan-whatsapp.com^
 ||wave-whatsapp.com^
 ||waycobeauty.com^
 ||web-conect-us-ledger-live-wallet.typedream.app^
 ||web-trezor-io-start-us.vercel.app^
+||web86-whatsapp.com.cn^
 ||webaccess-alert.com^
 ||webador.com^
 ||webmail-service-xfinity.vercel.app^
+||webwin-whatsapp.com.cn^
 ||weeblysite.com^
 ||wellsfargobank.fyi^
 ||whatsapp-dp-images.in^
@@ -717,6 +757,7 @@
 ||whatsappzoeiras.blogspot.com^
 ||wi-rr.com^
 ||windows-ledger-live.typedream.app^
+||windows.webwindos-whatsapp.com.cn^
 ||wooflers.com^
 ||www-app-google.com^
 ||www-apple.support^
