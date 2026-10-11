@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 731
-# Updated: 2026-10-10T21:45:44Z
+# Entries: 736
+# Updated: 2026-10-11T05:48:21Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -14,10 +14,12 @@
 0.0.0.0 921390h.pl
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
+0.0.0.0 acceso.me
 0.0.0.0 account-instagram.vercel.app
 0.0.0.0 acltci.com
 0.0.0.0 adobedelcielo.com
 0.0.0.0 adobeexperience.com.br
+0.0.0.0 adobeinstaller-virid.vercel.app
 0.0.0.0 agenciadlx.com.br
 0.0.0.0 ahomeintheamazon.com
 0.0.0.0 alibaba188.org
@@ -28,7 +30,6 @@
 0.0.0.0 amazon-opfq.vercel.app
 0.0.0.0 ancoradourohotel.com.br
 0.0.0.0 ani-facebook.blogspot.com
-0.0.0.0 annulation-amazon.com
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-facebook.blogspot.com
@@ -48,6 +49,7 @@
 0.0.0.0 berbagi-facebook.blogspot.com
 0.0.0.0 bercel.app
 0.0.0.0 bet-facebook.blogspot.com
+0.0.0.0 binance-account-login.vercel.app
 0.0.0.0 binance-co.github.io
 0.0.0.0 binance-mail.click
 0.0.0.0 binance-og.com
@@ -81,7 +83,6 @@
 0.0.0.0 chatgpt0005.eu.org
 0.0.0.0 checkleaked.cc
 0.0.0.0 click-facebook.blogspot.com
-0.0.0.0 cloud-trezr-io-strt-us.framer.ai
 0.0.0.0 cn-feed-whatsapp.com.cn
 0.0.0.0 coinbase-event.vercel.app
 0.0.0.0 coinbaseinvestors.ai
@@ -132,9 +133,10 @@
 0.0.0.0 ember-whatsapp.com
 0.0.0.0 emmanueldegreatltd.com
 0.0.0.0 en-ledgre.pages.dev
-0.0.0.0 en-trezor-io-start-setup.framer.ai
 0.0.0.0 enhancedconfiguration.app
+0.0.0.0 ensuite-trexor.square.site
 0.0.0.0 epsilons.co
+0.0.0.0 erc-trust-wallet.vercel.app
 0.0.0.0 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
 0.0.0.0 eu-facebook.blogspot.com
 0.0.0.0 eu.cc
@@ -143,6 +145,7 @@
 0.0.0.0 exclusive-openseamints.vercel.app
 0.0.0.0 exodus-desktop-mobile-wallet.github.io
 0.0.0.0 exodus-wallet.global.ssl.fastly.net
+0.0.0.0 exoduswalletcc.pages.dev
 0.0.0.0 exoduswallethelpcenter.vercel.app
 0.0.0.0 faceb00klogin.blogspot.com
 0.0.0.0 faceb0k-facebook.blogspot.com
@@ -319,7 +322,6 @@
 0.0.0.0 googlecontacts.email
 0.0.0.0 googleepkay.com
 0.0.0.0 googleepway.com
-0.0.0.0 googlegnhcf.com
 0.0.0.0 googlehogxe.com
 0.0.0.0 googlelogos.com
 0.0.0.0 googlenewsgh.com
@@ -339,7 +341,6 @@
 0.0.0.0 hsbc-sec.com
 0.0.0.0 hsbctds.com
 0.0.0.0 hstn.me
-0.0.0.0 https-roblox.com
 0.0.0.0 hub-trezrsuiteapp--in.gitbook.io
 0.0.0.0 icloud-asisten-official.com
 0.0.0.0 icloud-ubication.com
@@ -350,6 +351,7 @@
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 info-eng-ledgerlive-learn.typedream.app
 0.0.0.0 info-facebook.blogspot.com
+0.0.0.0 information-trezor-bridge.godaddysites.com
 0.0.0.0 infy.click
 0.0.0.0 ingdirect-accesoweb-login.com
 0.0.0.0 iniciamazon.com.br
@@ -455,7 +457,6 @@
 0.0.0.0 login.rmdbwskx.santander.bimp-bot.duckdns.org
 0.0.0.0 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 0.0.0.0 logowanie-facebook.vercel.app
-0.0.0.0 lokalna-7998.sbs
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lovevivah.com
@@ -508,6 +509,7 @@
 0.0.0.0 mobile-google.cn
 0.0.0.0 more-ledgerlive-en.typedream.app
 0.0.0.0 movistar-recaudo-epayc.com
+0.0.0.0 mrm-client.com
 0.0.0.0 munimventures.com
 0.0.0.0 my-facebook-blog.blogspot.com
 0.0.0.0 mytemp.website
@@ -542,6 +544,7 @@
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 oferta-846202548.cfd
 0.0.0.0 office365licensingsupport.com
+0.0.0.0 onedrive-4-nine.vercel.app
 0.0.0.0 oortstorages.com
 0.0.0.0 open-instagram.vercel.app
 0.0.0.0 openai-coin.com
@@ -582,6 +585,7 @@
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.kz
+0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.pt
 0.0.0.0 roblox.rw
@@ -610,6 +614,7 @@
 0.0.0.0 shopweb.com.vn
 0.0.0.0 sigma-whatsapp.com
 0.0.0.0 sign-in-to-xfinity-updatee.weebly.com
+0.0.0.0 signin-adobe-x4ou12j0f7c-3d031dfa-9ygwqx748489-4a60f031a-b62a.vercel.app
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 smallflyingarts.net
 0.0.0.0 smart-oferty24.sbs
@@ -622,7 +627,7 @@
 0.0.0.0 squarespace.com
 0.0.0.0 srpska-banka.com
 0.0.0.0 sso-ledger-live-strt-ledger-support-cdn.typedream.app
-0.0.0.0 stardustottawa.com
+0.0.0.0 sso-trezor-io-start-cdn.typedream.app
 0.0.0.0 start-io-login-trezr-cdn.typedream.app
 0.0.0.0 start-ledgerlive-com-web.typedream.app
 0.0.0.0 start-ledgren.zapier.app
@@ -672,6 +677,7 @@
 0.0.0.0 trustwalletindia-beta.vercel.app
 0.0.0.0 updata.net.cn
 0.0.0.0 usdt-trustwallet-blockchain.vercel.app
+0.0.0.0 userhub-coinbase.com
 0.0.0.0 uspsaunitedworkforce.com
 0.0.0.0 uspsecuredlogs.com
 0.0.0.0 uspss.pages.dev
@@ -686,10 +692,10 @@
 0.0.0.0 vodafone-on-line.it
 0.0.0.0 vpnuse.eu.org
 0.0.0.0 wan-whatsapp.com
+0.0.0.0 wasmer.app
 0.0.0.0 wave-whatsapp.com
 0.0.0.0 waycobeauty.com
 0.0.0.0 web-conect-us-ledger-live-wallet.typedream.app
-0.0.0.0 web-iostrt-trezr-cloud.framer.ai
 0.0.0.0 web-trezor--bridge.typedream.app
 0.0.0.0 web-trezor-io-start-us.vercel.app
 0.0.0.0 webaccess-alert.com
@@ -725,7 +731,6 @@
 0.0.0.0 xfinityon.com
 0.0.0.0 xfinityservicekey.weebly.com
 0.0.0.0 xfinityservices.vercel.app
-0.0.0.0 y8p0f2.sbs
 0.0.0.0 yonataxi.at
 0.0.0.0 yzz.me
 0.0.0.0 z-facebook.blogspot.com

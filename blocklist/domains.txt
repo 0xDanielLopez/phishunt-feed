@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 731
-# Updated: 2026-10-10T21:34:17Z
+# Entries: 736
+# Updated: 2026-10-11T05:46:08Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -14,10 +14,12 @@
 921390h.pl
 a2zapk.co
 a2zapk.dev
+acceso.me
 account-instagram.vercel.app
 acltci.com
 adobedelcielo.com
 adobeexperience.com.br
+adobeinstaller-virid.vercel.app
 agenciadlx.com.br
 ahomeintheamazon.com
 alibaba188.org
@@ -28,7 +30,6 @@ amazon-harshdeep.vercel.app
 amazon-opfq.vercel.app
 ancoradourohotel.com.br
 ani-facebook.blogspot.com
-annulation-amazon.com
 apk-google.cn
 app-binance.github.io
 app-facebook.blogspot.com
@@ -48,6 +49,7 @@ be-spotify.com
 berbagi-facebook.blogspot.com
 bercel.app
 bet-facebook.blogspot.com
+binance-account-login.vercel.app
 binance-co.github.io
 binance-mail.click
 binance-og.com
@@ -81,7 +83,6 @@ ch-google.cc
 chatgpt0005.eu.org
 checkleaked.cc
 click-facebook.blogspot.com
-cloud-trezr-io-strt-us.framer.ai
 cn-feed-whatsapp.com.cn
 coinbase-event.vercel.app
 coinbaseinvestors.ai
@@ -132,9 +133,10 @@ email-microsoft.com
 ember-whatsapp.com
 emmanueldegreatltd.com
 en-ledgre.pages.dev
-en-trezor-io-start-setup.framer.ai
 enhancedconfiguration.app
+ensuite-trexor.square.site
 epsilons.co
+erc-trust-wallet.vercel.app
 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
 eu-facebook.blogspot.com
 eu.cc
@@ -143,6 +145,7 @@ ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 exclusive-openseamints.vercel.app
 exodus-desktop-mobile-wallet.github.io
 exodus-wallet.global.ssl.fastly.net
+exoduswalletcc.pages.dev
 exoduswallethelpcenter.vercel.app
 faceb00klogin.blogspot.com
 faceb0k-facebook.blogspot.com
@@ -319,7 +322,6 @@ googlebusiness.xyz
 googlecontacts.email
 googleepkay.com
 googleepway.com
-googlegnhcf.com
 googlehogxe.com
 googlelogos.com
 googlenewsgh.com
@@ -339,7 +341,6 @@ hot-binance.com.cn
 hsbc-sec.com
 hsbctds.com
 hstn.me
-https-roblox.com
 hub-trezrsuiteapp--in.gitbook.io
 icloud-asisten-official.com
 icloud-ubication.com
@@ -350,6 +351,7 @@ ideeo.mx
 ifotografix.co.uk
 info-eng-ledgerlive-learn.typedream.app
 info-facebook.blogspot.com
+information-trezor-bridge.godaddysites.com
 infy.click
 ingdirect-accesoweb-login.com
 iniciamazon.com.br
@@ -455,7 +457,6 @@ login-page-instagram.vercel.app
 login.rmdbwskx.santander.bimp-bot.duckdns.org
 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 logowanie-facebook.vercel.app
-lokalna-7998.sbs
 love-facebook.blogspot.com
 lovefive-facebook.blogspot.com
 lovevivah.com
@@ -508,6 +509,7 @@ mm.am
 mobile-google.cn
 more-ledgerlive-en.typedream.app
 movistar-recaudo-epayc.com
+mrm-client.com
 munimventures.com
 my-facebook-blog.blogspot.com
 mytemp.website
@@ -542,6 +544,7 @@ noreply-icloud.app
 nw-facebook.blogspot.com
 oferta-846202548.cfd
 office365licensingsupport.com
+onedrive-4-nine.vercel.app
 oortstorages.com
 open-instagram.vercel.app
 openai-coin.com
@@ -582,6 +585,7 @@ roblox.com.bo
 roblox.com.ee
 roblox.com.gr
 roblox.com.kz
+roblox.com.ml
 roblox.com.mu
 roblox.com.pt
 roblox.rw
@@ -610,6 +614,7 @@ shopping-shop.jp
 shopweb.com.vn
 sigma-whatsapp.com
 sign-in-to-xfinity-updatee.weebly.com
+signin-adobe-x4ou12j0f7c-3d031dfa-9ygwqx748489-4a60f031a-b62a.vercel.app
 sk-facebook.blogspot.com
 smallflyingarts.net
 smart-oferty24.sbs
@@ -622,7 +627,7 @@ spotifypremiumz.net
 squarespace.com
 srpska-banka.com
 sso-ledger-live-strt-ledger-support-cdn.typedream.app
-stardustottawa.com
+sso-trezor-io-start-cdn.typedream.app
 start-io-login-trezr-cdn.typedream.app
 start-ledgerlive-com-web.typedream.app
 start-ledgren.zapier.app
@@ -672,6 +677,7 @@ trustwallet-tokentwtowner.vercel.app
 trustwalletindia-beta.vercel.app
 updata.net.cn
 usdt-trustwallet-blockchain.vercel.app
+userhub-coinbase.com
 uspsaunitedworkforce.com
 uspsecuredlogs.com
 uspss.pages.dev
@@ -686,10 +692,10 @@ vinted-technologies.live
 vodafone-on-line.it
 vpnuse.eu.org
 wan-whatsapp.com
+wasmer.app
 wave-whatsapp.com
 waycobeauty.com
 web-conect-us-ledger-live-wallet.typedream.app
-web-iostrt-trezr-cloud.framer.ai
 web-trezor--bridge.typedream.app
 web-trezor-io-start-us.vercel.app
 webaccess-alert.com
@@ -725,7 +731,6 @@ xfinitymail087.weebly.com
 xfinityon.com
 xfinityservicekey.weebly.com
 xfinityservices.vercel.app
-y8p0f2.sbs
 yonataxi.at
 yzz.me
 z-facebook.blogspot.com

@@ -1,0 +1,37 @@
+{
+ "date": "2026-10-11",
+ "updated": "2026-10-11T05:48:22Z",
+ "source": "https://phishunt.io/feed.txt",
+ "license": "CC0-1.0",
+ "counts": {
+  "added": 14,
+  "removed": 9
+ },
+ "added": [
+  "http://ensuite-trexor.square.site",
+  "http://erc-trust-wallet.vercel.app",
+  "http://information-trezor-bridge.godaddysites.com",
+  "http://sso-trezor-io-start-cdn.typedream.app",
+  "http://trezr-bridgee-sso.wasmer.app",
+  "http://userhub-coinbase.com",
+  "http://www.roblox.com.ml/users/389278381342/profile",
+  "https://adobeinstaller-virid.vercel.app",
+  "https://binance-account-login.vercel.app",
+  "https://exoduswalletcc.pages.dev/%22%3EExodus",
+  "https://onedrive-4-nine.vercel.app",
+  "https://signin-adobe-x4ou12j0f7c-3d031dfa-9ygwqx748489-4a60f031a-b62a.vercel.app",
+  "https://whatsapp.acceso.me",
+  "https://www-deliverthewin-wpe-stage.usps.mrm-client.com/research-center/political-planning-tool/#/question/1"
+ ],
+ "removed": [
+  "http://allegrolokalnie.y8p0f2.sbs",
+  "http://cloud-trezr-io-strt-us.framer.ai",
+  "http://en-trezor-io-start-setup.framer.ai",
+  "http://https-roblox.com/login?returnUrl=1961065750",
+  "http://web-iostrt-trezr-cloud.framer.ai",
+  "https://allegrolokalnie.lokalna-7998.sbs/2026-kukirin-g2-master-750-z%C5%82-/10184",
+  "https://annulation-amazon.com",
+  "https://googlegnhcf.com",
+  "https://stardustottawa.com/ok/aldom.html#phishing-dpdhl@dhl.com/"
+ ]
+}
