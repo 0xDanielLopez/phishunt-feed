@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 736
-# Updated: 2026-10-11T05:48:21Z
+# Entries: 726
+# Updated: 2026-10-11T12:51:39Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -16,7 +16,6 @@
 0.0.0.0 a2zapk.dev
 0.0.0.0 acceso.me
 0.0.0.0 account-instagram.vercel.app
-0.0.0.0 acltci.com
 0.0.0.0 adobedelcielo.com
 0.0.0.0 adobeexperience.com.br
 0.0.0.0 adobeinstaller-virid.vercel.app
@@ -136,7 +135,6 @@
 0.0.0.0 enhancedconfiguration.app
 0.0.0.0 ensuite-trexor.square.site
 0.0.0.0 epsilons.co
-0.0.0.0 erc-trust-wallet.vercel.app
 0.0.0.0 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
 0.0.0.0 eu-facebook.blogspot.com
 0.0.0.0 eu.cc
@@ -322,7 +320,6 @@
 0.0.0.0 googlecontacts.email
 0.0.0.0 googleepkay.com
 0.0.0.0 googleepway.com
-0.0.0.0 googlehogxe.com
 0.0.0.0 googlelogos.com
 0.0.0.0 googlenewsgh.com
 0.0.0.0 googleoa.com
@@ -341,7 +338,6 @@
 0.0.0.0 hsbc-sec.com
 0.0.0.0 hsbctds.com
 0.0.0.0 hstn.me
-0.0.0.0 hub-trezrsuiteapp--in.gitbook.io
 0.0.0.0 icloud-asisten-official.com
 0.0.0.0 icloud-ubication.com
 0.0.0.0 icloudmex-lost.com
@@ -566,7 +562,6 @@
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 phil-heron-zoomdrain-com-s-account.workers.dev
 0.0.0.0 piedrasdecolon.com.ar
-0.0.0.0 platnosci840239.sbs
 0.0.0.0 premio-instagram.com
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 ptai.in
@@ -593,7 +588,6 @@
 0.0.0.0 rricrosoft-offices.org
 0.0.0.0 ruddycruzc.github.io
 0.0.0.0 s-facebook.blogspot.com
-0.0.0.0 safe-trezor-io-start.typedream.app
 0.0.0.0 sagers.com
 0.0.0.0 samplel-ks6yxvur5-instagramm.vercel.app
 0.0.0.0 santander-dev-week.vercel.app
@@ -614,10 +608,8 @@
 0.0.0.0 shopweb.com.vn
 0.0.0.0 sigma-whatsapp.com
 0.0.0.0 sign-in-to-xfinity-updatee.weebly.com
-0.0.0.0 signin-adobe-x4ou12j0f7c-3d031dfa-9ygwqx748489-4a60f031a-b62a.vercel.app
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 smallflyingarts.net
-0.0.0.0 smart-oferty24.sbs
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotify-payment.click
 0.0.0.0 spotifylite.online
@@ -627,7 +619,6 @@
 0.0.0.0 squarespace.com
 0.0.0.0 srpska-banka.com
 0.0.0.0 sso-ledger-live-strt-ledger-support-cdn.typedream.app
-0.0.0.0 sso-trezor-io-start-cdn.typedream.app
 0.0.0.0 start-io-login-trezr-cdn.typedream.app
 0.0.0.0 start-ledgerlive-com-web.typedream.app
 0.0.0.0 start-ledgren.zapier.app
@@ -696,7 +687,6 @@
 0.0.0.0 wave-whatsapp.com
 0.0.0.0 waycobeauty.com
 0.0.0.0 web-conect-us-ledger-live-wallet.typedream.app
-0.0.0.0 web-trezor--bridge.typedream.app
 0.0.0.0 web-trezor-io-start-us.vercel.app
 0.0.0.0 webaccess-alert.com
 0.0.0.0 webador.com

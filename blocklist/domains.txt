@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 736
-# Updated: 2026-10-11T05:46:08Z
+# Entries: 726
+# Updated: 2026-10-11T12:46:09Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -16,7 +16,6 @@ a2zapk.co
 a2zapk.dev
 acceso.me
 account-instagram.vercel.app
-acltci.com
 adobedelcielo.com
 adobeexperience.com.br
 adobeinstaller-virid.vercel.app
@@ -136,7 +135,6 @@ en-ledgre.pages.dev
 enhancedconfiguration.app
 ensuite-trexor.square.site
 epsilons.co
-erc-trust-wallet.vercel.app
 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
 eu-facebook.blogspot.com
 eu.cc
@@ -322,7 +320,6 @@ googlebusiness.xyz
 googlecontacts.email
 googleepkay.com
 googleepway.com
-googlehogxe.com
 googlelogos.com
 googlenewsgh.com
 googleoa.com
@@ -341,7 +338,6 @@ hot-binance.com.cn
 hsbc-sec.com
 hsbctds.com
 hstn.me
-hub-trezrsuiteapp--in.gitbook.io
 icloud-asisten-official.com
 icloud-ubication.com
 icloudmex-lost.com
@@ -566,7 +562,6 @@ paypalcorp.blogspot.com
 pe-facebook.blogspot.com
 phil-heron-zoomdrain-com-s-account.workers.dev
 piedrasdecolon.com.ar
-platnosci840239.sbs
 premio-instagram.com
 profil-facebook-saya.blogspot.com
 ptai.in
@@ -593,7 +588,6 @@ robloxc.com.es
 rricrosoft-offices.org
 ruddycruzc.github.io
 s-facebook.blogspot.com
-safe-trezor-io-start.typedream.app
 sagers.com
 samplel-ks6yxvur5-instagramm.vercel.app
 santander-dev-week.vercel.app
@@ -614,10 +608,8 @@ shopping-shop.jp
 shopweb.com.vn
 sigma-whatsapp.com
 sign-in-to-xfinity-updatee.weebly.com
-signin-adobe-x4ou12j0f7c-3d031dfa-9ygwqx748489-4a60f031a-b62a.vercel.app
 sk-facebook.blogspot.com
 smallflyingarts.net
-smart-oferty24.sbs
 spotify-client-beta.vercel.app
 spotify-payment.click
 spotifylite.online
@@ -627,7 +619,6 @@ spotifypremiumz.net
 squarespace.com
 srpska-banka.com
 sso-ledger-live-strt-ledger-support-cdn.typedream.app
-sso-trezor-io-start-cdn.typedream.app
 start-io-login-trezr-cdn.typedream.app
 start-ledgerlive-com-web.typedream.app
 start-ledgren.zapier.app
@@ -696,7 +687,6 @@ wasmer.app
 wave-whatsapp.com
 waycobeauty.com
 web-conect-us-ledger-live-wallet.typedream.app
-web-trezor--bridge.typedream.app
 web-trezor-io-start-us.vercel.app
 webaccess-alert.com
 webador.com
