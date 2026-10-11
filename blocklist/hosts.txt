@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 726
-# Updated: 2026-10-11T12:51:39Z
+# Entries: 725
+# Updated: 2026-10-11T21:58:43Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -11,16 +11,15 @@
 0.0.0.0 1789503-coinbase.com
 0.0.0.0 1yz.com
 0.0.0.0 2017-facebook.blogspot.com
+0.0.0.0 583912.top
 0.0.0.0 921390h.pl
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
-0.0.0.0 acceso.me
 0.0.0.0 account-instagram.vercel.app
 0.0.0.0 adobedelcielo.com
 0.0.0.0 adobeexperience.com.br
 0.0.0.0 adobeinstaller-virid.vercel.app
 0.0.0.0 agenciadlx.com.br
-0.0.0.0 ahomeintheamazon.com
 0.0.0.0 alibaba188.org
 0.0.0.0 alibaba99.com
 0.0.0.0 alibabaexclusifyx.com
@@ -143,6 +142,7 @@
 0.0.0.0 exclusive-openseamints.vercel.app
 0.0.0.0 exodus-desktop-mobile-wallet.github.io
 0.0.0.0 exodus-wallet.global.ssl.fastly.net
+0.0.0.0 exodusathleticclub.com
 0.0.0.0 exoduswalletcc.pages.dev
 0.0.0.0 exoduswallethelpcenter.vercel.app
 0.0.0.0 faceb00klogin.blogspot.com
@@ -320,6 +320,7 @@
 0.0.0.0 googlecontacts.email
 0.0.0.0 googleepkay.com
 0.0.0.0 googleepway.com
+0.0.0.0 googlel0gin.netlify.app
 0.0.0.0 googlelogos.com
 0.0.0.0 googlenewsgh.com
 0.0.0.0 googleoa.com
@@ -341,6 +342,7 @@
 0.0.0.0 icloud-asisten-official.com
 0.0.0.0 icloud-ubication.com
 0.0.0.0 icloudmex-lost.com
+0.0.0.0 icloudmydevice.help
 0.0.0.0 icloudnotify.help
 0.0.0.0 icloudweb-ext860.click
 0.0.0.0 ideeo.mx
@@ -427,7 +429,6 @@
 0.0.0.0 jyothycirrussaviation.com
 0.0.0.0 kauadosantos.github.io
 0.0.0.0 klassik-erh.de
-0.0.0.0 kraken-job.com
 0.0.0.0 kraken-tor.co.com
 0.0.0.0 kraken.homes
 0.0.0.0 kucoin-referral-code-pt.vercel.app
@@ -481,6 +482,7 @@
 0.0.0.0 metamaskextensionnn.gitbook.io
 0.0.0.0 metamasklskog.gitbook.io
 0.0.0.0 metamaskrewards.com
+0.0.0.0 metamaskuxlogen.gitbook.io
 0.0.0.0 metamaskwallett.blogspot.com
 0.0.0.0 mexicocentral-01.azurewebsites.net
 0.0.0.0 mhmr.ro
@@ -496,6 +498,8 @@
 0.0.0.0 microsoft365updates.com
 0.0.0.0 microsoftjk.eu.org
 0.0.0.0 microsoftoffice-o365.com
+0.0.0.0 microsoftpl.biz.pl
+0.0.0.0 microsoftsupportcenter.digital
 0.0.0.0 microsoftuk.co
 0.0.0.0 microsoftwordob.blogspot.com
 0.0.0.0 mirror-google.com
@@ -506,19 +510,15 @@
 0.0.0.0 more-ledgerlive-en.typedream.app
 0.0.0.0 movistar-recaudo-epayc.com
 0.0.0.0 mrm-client.com
-0.0.0.0 munimventures.com
 0.0.0.0 my-facebook-blog.blogspot.com
 0.0.0.0 mytemp.website
+0.0.0.0 namastespa.ca
 0.0.0.0 nbpublic.com
 0.0.0.0 neda-facebook.blogspot.com
 0.0.0.0 netflix-71f05.firebaseapp.com
-0.0.0.0 netflix-casino-es.es
 0.0.0.0 netflix-homepage-pi.vercel.app
 0.0.0.0 netflix-lake.vercel.app
-0.0.0.0 netflix-online.es
-0.0.0.0 netflix-online.it
 0.0.0.0 netflix-recovery.com
-0.0.0.0 netflix-slot.cz
 0.0.0.0 netflix-two-mu.vercel.app
 0.0.0.0 netflix-web-site-three.vercel.app
 0.0.0.0 netflix.surf
@@ -526,6 +526,7 @@
 0.0.0.0 netflix6.com
 0.0.0.0 netflixandchiffres.com
 0.0.0.0 netflixbymanoj.vercel.app
+0.0.0.0 netflixcol.vercel.app
 0.0.0.0 netflixfeitoaqui.com.br
 0.0.0.0 netflixinfos.com
 0.0.0.0 netflixquebec.blogspot.com
@@ -533,12 +534,12 @@
 0.0.0.0 netflixvoid.org
 0.0.0.0 netflixy-bixy.vercel.app
 0.0.0.0 network-facebook.blogspot.com
-0.0.0.0 news-revolut.com
 0.0.0.0 nicolidmaiac.github.io
 0.0.0.0 no-spotify.com
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 oferta-846202548.cfd
+0.0.0.0 oferta-9375834.cfd
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 onedrive-4-nine.vercel.app
 0.0.0.0 oortstorages.com
@@ -552,7 +553,6 @@
 0.0.0.0 outlook-serv-coral.vercel.app
 0.0.0.0 outlookindia.com
 0.0.0.0 outlookmail.social
-0.0.0.0 outlooksstoragefileonlinky.digital
 0.0.0.0 page-instagram.vercel.app
 0.0.0.0 paykmc.com
 0.0.0.0 paypal-logiin.blogspot.com
@@ -564,6 +564,7 @@
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 premio-instagram.com
 0.0.0.0 profil-facebook-saya.blogspot.com
+0.0.0.0 promorange.co.uk
 0.0.0.0 ptai.in
 0.0.0.0 r-facebook.blogspot.com
 0.0.0.0 rama-facebook.blogspot.com
@@ -644,10 +645,10 @@
 0.0.0.0 tb-facebook.blogspot.com
 0.0.0.0 temporary.site
 0.0.0.0 test-facebook.blogspot.com
+0.0.0.0 theamazon.vercel.app
 0.0.0.0 therelayservice.com
 0.0.0.0 thomas-coinbase.com
 0.0.0.0 toooo-tooo-trezor.gitbook.io
-0.0.0.0 tottattoo.com
 0.0.0.0 trackingnumbers.org
 0.0.0.0 trezoorr--thego.gitbook.io
 0.0.0.0 trezor--brioge--help.gitbook.io
@@ -655,7 +656,6 @@
 0.0.0.0 trezor-login-guide.square.site
 0.0.0.0 trezor-login-us-auth-start.typedream.app
 0.0.0.0 trezorguide.vercel.app
-0.0.0.0 trezorio-xearn.gitbook.io
 0.0.0.0 trezoriostart-web.square.site
 0.0.0.0 trezorrgoappup.gitbook.io
 0.0.0.0 trust-wallet-customer-support-number.github.io
@@ -729,6 +729,5 @@
 0.0.0.0 zelleactive.shop
 0.0.0.0 zeta-facebook.blogspot.com
 0.0.0.0 zkey0.com
-0.0.0.0 znbbmwq.com
 0.0.0.0 zsoon.eu
 0.0.0.0 zya.me

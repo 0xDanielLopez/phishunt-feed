@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 726
-! Updated: 2026-10-11T12:51:39Z
+! Entries: 725
+! Updated: 2026-10-11T21:58:44Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -11,16 +11,15 @@
 ||1789503-coinbase.com^
 ||1yz.com^
 ||2017-facebook.blogspot.com^
+||583912.top^
 ||921390h.pl^
 ||a2zapk.co^
 ||a2zapk.dev^
-||acceso.me^
 ||account-instagram.vercel.app^
 ||adobedelcielo.com^
 ||adobeexperience.com.br^
 ||adobeinstaller-virid.vercel.app^
 ||agenciadlx.com.br^
-||ahomeintheamazon.com^
 ||alibaba188.org^
 ||alibaba99.com^
 ||alibabaexclusifyx.com^
@@ -143,6 +142,7 @@
 ||exclusive-openseamints.vercel.app^
 ||exodus-desktop-mobile-wallet.github.io^
 ||exodus-wallet.global.ssl.fastly.net^
+||exodusathleticclub.com^
 ||exoduswalletcc.pages.dev^
 ||exoduswallethelpcenter.vercel.app^
 ||faceb00klogin.blogspot.com^
@@ -320,6 +320,7 @@
 ||googlecontacts.email^
 ||googleepkay.com^
 ||googleepway.com^
+||googlel0gin.netlify.app^
 ||googlelogos.com^
 ||googlenewsgh.com^
 ||googleoa.com^
@@ -341,6 +342,7 @@
 ||icloud-asisten-official.com^
 ||icloud-ubication.com^
 ||icloudmex-lost.com^
+||icloudmydevice.help^
 ||icloudnotify.help^
 ||icloudweb-ext860.click^
 ||ideeo.mx^
@@ -427,7 +429,6 @@
 ||jyothycirrussaviation.com^
 ||kauadosantos.github.io^
 ||klassik-erh.de^
-||kraken-job.com^
 ||kraken-tor.co.com^
 ||kraken.homes^
 ||kucoin-referral-code-pt.vercel.app^
@@ -481,6 +482,7 @@
 ||metamaskextensionnn.gitbook.io^
 ||metamasklskog.gitbook.io^
 ||metamaskrewards.com^
+||metamaskuxlogen.gitbook.io^
 ||metamaskwallett.blogspot.com^
 ||mexicocentral-01.azurewebsites.net^
 ||mhmr.ro^
@@ -496,6 +498,8 @@
 ||microsoft365updates.com^
 ||microsoftjk.eu.org^
 ||microsoftoffice-o365.com^
+||microsoftpl.biz.pl^
+||microsoftsupportcenter.digital^
 ||microsoftuk.co^
 ||microsoftwordob.blogspot.com^
 ||mirror-google.com^
@@ -506,19 +510,15 @@
 ||more-ledgerlive-en.typedream.app^
 ||movistar-recaudo-epayc.com^
 ||mrm-client.com^
-||munimventures.com^
 ||my-facebook-blog.blogspot.com^
 ||mytemp.website^
+||namastespa.ca^
 ||nbpublic.com^
 ||neda-facebook.blogspot.com^
 ||netflix-71f05.firebaseapp.com^
-||netflix-casino-es.es^
 ||netflix-homepage-pi.vercel.app^
 ||netflix-lake.vercel.app^
-||netflix-online.es^
-||netflix-online.it^
 ||netflix-recovery.com^
-||netflix-slot.cz^
 ||netflix-two-mu.vercel.app^
 ||netflix-web-site-three.vercel.app^
 ||netflix.surf^
@@ -526,6 +526,7 @@
 ||netflix6.com^
 ||netflixandchiffres.com^
 ||netflixbymanoj.vercel.app^
+||netflixcol.vercel.app^
 ||netflixfeitoaqui.com.br^
 ||netflixinfos.com^
 ||netflixquebec.blogspot.com^
@@ -533,12 +534,12 @@
 ||netflixvoid.org^
 ||netflixy-bixy.vercel.app^
 ||network-facebook.blogspot.com^
-||news-revolut.com^
 ||nicolidmaiac.github.io^
 ||no-spotify.com^
 ||noreply-icloud.app^
 ||nw-facebook.blogspot.com^
 ||oferta-846202548.cfd^
+||oferta-9375834.cfd^
 ||office365licensingsupport.com^
 ||onedrive-4-nine.vercel.app^
 ||oortstorages.com^
@@ -552,7 +553,6 @@
 ||outlook-serv-coral.vercel.app^
 ||outlookindia.com^
 ||outlookmail.social^
-||outlooksstoragefileonlinky.digital^
 ||page-instagram.vercel.app^
 ||paykmc.com^
 ||paypal-logiin.blogspot.com^
@@ -564,6 +564,7 @@
 ||piedrasdecolon.com.ar^
 ||premio-instagram.com^
 ||profil-facebook-saya.blogspot.com^
+||promorange.co.uk^
 ||ptai.in^
 ||r-facebook.blogspot.com^
 ||rama-facebook.blogspot.com^
@@ -644,10 +645,10 @@
 ||tb-facebook.blogspot.com^
 ||temporary.site^
 ||test-facebook.blogspot.com^
+||theamazon.vercel.app^
 ||therelayservice.com^
 ||thomas-coinbase.com^
 ||toooo-tooo-trezor.gitbook.io^
-||tottattoo.com^
 ||trackingnumbers.org^
 ||trezoorr--thego.gitbook.io^
 ||trezor--brioge--help.gitbook.io^
@@ -655,7 +656,6 @@
 ||trezor-login-guide.square.site^
 ||trezor-login-us-auth-start.typedream.app^
 ||trezorguide.vercel.app^
-||trezorio-xearn.gitbook.io^
 ||trezoriostart-web.square.site^
 ||trezorrgoappup.gitbook.io^
 ||trust-wallet-customer-support-number.github.io^
@@ -729,6 +729,5 @@
 ||zelleactive.shop^
 ||zeta-facebook.blogspot.com^
 ||zkey0.com^
-||znbbmwq.com^
 ||zsoon.eu^
 ||zya.me^
