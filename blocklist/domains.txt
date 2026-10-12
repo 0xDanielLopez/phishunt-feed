@@ -1,17 +1,23 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 728
-# Updated: 2026-10-12T05:59:40Z
+# Entries: 735
+# Updated: 2026-10-12T15:27:28Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
+0182345.com
+078565.top
 123-facebook.blogspot.com
 12312940.pl
 1789503-coinbase.com
 1yz.com
 2017-facebook.blogspot.com
+57162055.shop
 6618328-coinbase.com
+768360.cc
+789365.cc
+8335758.xyz
 921390h.pl
 a2zapk.co
 a2zapk.dev
@@ -38,6 +44,7 @@ asso-entrautres.fr
 auth-trezor-cdn-io.gitbook.io
 avaturefed.net
 axm-amazon.com
+backblazeb2.com
 bankofamericamailcompte.blogspot.com
 barcelona-facebook.blogspot.com
 barclays-bank.vercel.app
@@ -111,6 +118,7 @@ deluxxe.com.br
 desktop-ledgrecdn.wixstudio.com
 dhl-express-dev.firebaseapp.com
 dir.com.my
+discoveryloft.com
 dj-facebook.blogspot.com
 docs-google.com
 docs-trezor-app.pages.dev
@@ -319,6 +327,7 @@ googlebusiness.xyz
 googlecontacts.email
 googleepkay.com
 googleepway.com
+googlekalender.de
 googlel0gin.netlify.app
 googlelogos.com
 googlenewsgh.com
@@ -428,7 +437,6 @@ jo-facebook.blogspot.com
 jwb-facebook.blogspot.com
 jyothycirrussaviation.com
 kauadosantos.github.io
-klassik-erh.de
 kraken-tor.co.com
 kucoin-referral-code-pt.vercel.app
 kucoinlogenac.gitbook.io
@@ -485,7 +493,6 @@ metamaskrewards.com
 metamaskuxlogen.gitbook.io
 metamaskwallett.blogspot.com
 mexicocentral-01.azurewebsites.net
-mhmr.ro
 mi-santander.com
 microsoft-0r.github.io
 microsoft-alpha.vercel.app
@@ -505,17 +512,16 @@ microsoftwordob.blogspot.com
 mirror-google.com
 misilabario.cl
 ml-facebook.blogspot.com
-mm.am
 mobile-google.cn
 more-ledgerlive-en.typedream.app
 movistar-recaudo-epayc.com
-mrm-client.com
 my-facebook-blog.blogspot.com
 mytemp.website
 namastespa.ca
 nbpublic.com
 neda-facebook.blogspot.com
 netflix-71f05.firebaseapp.com
+netflix-colombia.vercel.app
 netflix-coral-zeta.vercel.app
 netflix-homepage-pi.vercel.app
 netflix-lake.vercel.app
@@ -534,14 +540,12 @@ netflixquebec.blogspot.com
 netflixvoid.org
 netflixy-bixy.vercel.app
 network-facebook.blogspot.com
-nicolidmaiac.github.io
 no-spotify.com
 noreply-icloud.app
-nr-32843sm23.sbs
 nw-facebook.blogspot.com
 oferta-846202548.cfd
-oferta-9375834.cfd
 office365licensingsupport.com
+ok77666.cc
 onedrive-4-nine.vercel.app
 oortstorages.com
 open-instagram.vercel.app
@@ -583,6 +587,7 @@ roblox.com.bo
 roblox.com.ee
 roblox.com.gr
 roblox.com.kz
+roblox.com.ml
 roblox.com.mu
 roblox.com.mw
 roblox.com.pt
@@ -691,10 +696,12 @@ wave-whatsapp.com
 waycobeauty.com
 web-conect-us-ledger-live-wallet.typedream.app
 web-trezor-io-start-us.vercel.app
+web1click.com
 webaccess-alert.com
 webador.com
 webmail-service-xfinity.vercel.app
 weeblysite.com
+welcome-trezr-suite.square.site
 wellsfargobank.fyi
 whatsapp-dp-images.in
 whatsapp-fast.vercel.app
@@ -718,6 +725,7 @@ xfinity-updateform.square.site
 xfinity-updateform.weebly.com
 xfinity2.vercel.app
 xfinity200212.weebly.com
+xfinitybroadbandnetwork.weebly.com
 xfinityconnectonline.weebly.com
 xfinitymail01.weebly.com
 xfinitymail087.weebly.com
@@ -728,7 +736,6 @@ yonataxi.at
 yzz.me
 z-facebook.blogspot.com
 z-instagram.blogspot.com
-zayarhtet007.github.io
 zelleactive.shop
 zeta-facebook.blogspot.com
 zkey0.com
