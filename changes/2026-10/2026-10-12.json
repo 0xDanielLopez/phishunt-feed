@@ -1,0 +1,29 @@
+{
+ "date": "2026-10-12",
+ "updated": "2026-10-12T05:59:42Z",
+ "source": "https://phishunt.io/feed.txt",
+ "license": "CC0-1.0",
+ "counts": {
+  "added": 9,
+  "removed": 6
+ },
+ "added": [
+  "http://allegrolokalnie.nr-32843sm23.sbs",
+  "http://microsoft.marchesi.mx",
+  "https://6618328-coinbase.com",
+  "https://mail.intomahost2.com/port/paypal/auth/login.php",
+  "https://netflix-coral-zeta.vercel.app",
+  "https://outlookportal.framer.ai",
+  "https://roblox.com.mw/games/2753915549/blox-fruits?privateServerLinkCode=09727819132951108065407166112894",
+  "https://spotifyprimiumapk.com",
+  "https://srv6-coinbase.com"
+ ],
+ "removed": [
+  "http://www.roblox.com.ml/users/389278381342/profile",
+  "https://allegrolokalnie.583912.top/oferta/aparat-canon-powershot-g7x-mark-ii/71504",
+  "https://enhancedconfiguration.app",
+  "https://kk.kraken.homes",
+  "https://netflixseries.com",
+  "https://spotify-payment.click"
+ ]
+}

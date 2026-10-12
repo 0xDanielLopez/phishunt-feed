@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 725
-# Updated: 2026-10-11T21:58:43Z
+# Entries: 728
+# Updated: 2026-10-12T05:59:41Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -11,7 +11,7 @@
 0.0.0.0 1789503-coinbase.com
 0.0.0.0 1yz.com
 0.0.0.0 2017-facebook.blogspot.com
-0.0.0.0 583912.top
+0.0.0.0 6618328-coinbase.com
 0.0.0.0 921390h.pl
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
@@ -131,7 +131,6 @@
 0.0.0.0 ember-whatsapp.com
 0.0.0.0 emmanueldegreatltd.com
 0.0.0.0 en-ledgre.pages.dev
-0.0.0.0 enhancedconfiguration.app
 0.0.0.0 ensuite-trexor.square.site
 0.0.0.0 epsilons.co
 0.0.0.0 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
@@ -417,6 +416,7 @@
 0.0.0.0 instagramunblockedd.vercel.app
 0.0.0.0 instagramusicabrasilinstagram.blogspot.com
 0.0.0.0 internal-alerts.com
+0.0.0.0 intomahost2.com
 0.0.0.0 invreceiptslinkedin.com
 0.0.0.0 io-trezrn-eng.pages.dev
 0.0.0.0 isha-dev.com
@@ -430,7 +430,6 @@
 0.0.0.0 kauadosantos.github.io
 0.0.0.0 klassik-erh.de
 0.0.0.0 kraken-tor.co.com
-0.0.0.0 kraken.homes
 0.0.0.0 kucoin-referral-code-pt.vercel.app
 0.0.0.0 kucoinlogenac.gitbook.io
 0.0.0.0 kucoinloginaa.gitbook.io
@@ -462,6 +461,7 @@
 0.0.0.0 m-facebooks.vn
 0.0.0.0 m365-microsoft.com
 0.0.0.0 m4ntapaset.ink
+0.0.0.0 marchesi.mx
 0.0.0.0 mb-facebook.blogspot.com
 0.0.0.0 mclarencar.ebaymclaren-austin.eventshouse.app
 0.0.0.0 mclarenf1car.ebaymclaren-austin.eventshouse.app
@@ -516,6 +516,7 @@
 0.0.0.0 nbpublic.com
 0.0.0.0 neda-facebook.blogspot.com
 0.0.0.0 netflix-71f05.firebaseapp.com
+0.0.0.0 netflix-coral-zeta.vercel.app
 0.0.0.0 netflix-homepage-pi.vercel.app
 0.0.0.0 netflix-lake.vercel.app
 0.0.0.0 netflix-recovery.com
@@ -530,13 +531,13 @@
 0.0.0.0 netflixfeitoaqui.com.br
 0.0.0.0 netflixinfos.com
 0.0.0.0 netflixquebec.blogspot.com
-0.0.0.0 netflixseries.com
 0.0.0.0 netflixvoid.org
 0.0.0.0 netflixy-bixy.vercel.app
 0.0.0.0 network-facebook.blogspot.com
 0.0.0.0 nicolidmaiac.github.io
 0.0.0.0 no-spotify.com
 0.0.0.0 noreply-icloud.app
+0.0.0.0 nr-32843sm23.sbs
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 oferta-846202548.cfd
 0.0.0.0 oferta-9375834.cfd
@@ -553,6 +554,7 @@
 0.0.0.0 outlook-serv-coral.vercel.app
 0.0.0.0 outlookindia.com
 0.0.0.0 outlookmail.social
+0.0.0.0 outlookportal.framer.ai
 0.0.0.0 page-instagram.vercel.app
 0.0.0.0 paykmc.com
 0.0.0.0 paypal-logiin.blogspot.com
@@ -581,8 +583,8 @@
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.kz
-0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
+0.0.0.0 roblox.com.mw
 0.0.0.0 roblox.com.pt
 0.0.0.0 roblox.rw
 0.0.0.0 robloxc.com.es
@@ -612,13 +614,14 @@
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 smallflyingarts.net
 0.0.0.0 spotify-client-beta.vercel.app
-0.0.0.0 spotify-payment.click
 0.0.0.0 spotifylite.online
 0.0.0.0 spotifymode.org
 0.0.0.0 spotifypremiumapk.pk
 0.0.0.0 spotifypremiumz.net
+0.0.0.0 spotifyprimiumapk.com
 0.0.0.0 squarespace.com
 0.0.0.0 srpska-banka.com
+0.0.0.0 srv6-coinbase.com
 0.0.0.0 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 0.0.0.0 start-io-login-trezr-cdn.typedream.app
 0.0.0.0 start-ledgerlive-com-web.typedream.app

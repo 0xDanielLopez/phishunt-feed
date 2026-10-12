@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 725
-! Updated: 2026-10-11T21:58:44Z
+! Entries: 728
+! Updated: 2026-10-12T05:59:42Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -11,7 +11,7 @@
 ||1789503-coinbase.com^
 ||1yz.com^
 ||2017-facebook.blogspot.com^
-||583912.top^
+||6618328-coinbase.com^
 ||921390h.pl^
 ||a2zapk.co^
 ||a2zapk.dev^
@@ -131,7 +131,6 @@
 ||ember-whatsapp.com^
 ||emmanueldegreatltd.com^
 ||en-ledgre.pages.dev^
-||enhancedconfiguration.app^
 ||ensuite-trexor.square.site^
 ||epsilons.co^
 ||erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org^
@@ -417,6 +416,7 @@
 ||instagramunblockedd.vercel.app^
 ||instagramusicabrasilinstagram.blogspot.com^
 ||internal-alerts.com^
+||intomahost2.com^
 ||invreceiptslinkedin.com^
 ||io-trezrn-eng.pages.dev^
 ||isha-dev.com^
@@ -430,7 +430,6 @@
 ||kauadosantos.github.io^
 ||klassik-erh.de^
 ||kraken-tor.co.com^
-||kraken.homes^
 ||kucoin-referral-code-pt.vercel.app^
 ||kucoinlogenac.gitbook.io^
 ||kucoinloginaa.gitbook.io^
@@ -462,6 +461,7 @@
 ||m-facebooks.vn^
 ||m365-microsoft.com^
 ||m4ntapaset.ink^
+||marchesi.mx^
 ||mb-facebook.blogspot.com^
 ||mclarencar.ebaymclaren-austin.eventshouse.app^
 ||mclarenf1car.ebaymclaren-austin.eventshouse.app^
@@ -516,6 +516,7 @@
 ||nbpublic.com^
 ||neda-facebook.blogspot.com^
 ||netflix-71f05.firebaseapp.com^
+||netflix-coral-zeta.vercel.app^
 ||netflix-homepage-pi.vercel.app^
 ||netflix-lake.vercel.app^
 ||netflix-recovery.com^
@@ -530,13 +531,13 @@
 ||netflixfeitoaqui.com.br^
 ||netflixinfos.com^
 ||netflixquebec.blogspot.com^
-||netflixseries.com^
 ||netflixvoid.org^
 ||netflixy-bixy.vercel.app^
 ||network-facebook.blogspot.com^
 ||nicolidmaiac.github.io^
 ||no-spotify.com^
 ||noreply-icloud.app^
+||nr-32843sm23.sbs^
 ||nw-facebook.blogspot.com^
 ||oferta-846202548.cfd^
 ||oferta-9375834.cfd^
@@ -553,6 +554,7 @@
 ||outlook-serv-coral.vercel.app^
 ||outlookindia.com^
 ||outlookmail.social^
+||outlookportal.framer.ai^
 ||page-instagram.vercel.app^
 ||paykmc.com^
 ||paypal-logiin.blogspot.com^
@@ -581,8 +583,8 @@
 ||roblox.com.ee^
 ||roblox.com.gr^
 ||roblox.com.kz^
-||roblox.com.ml^
 ||roblox.com.mu^
+||roblox.com.mw^
 ||roblox.com.pt^
 ||roblox.rw^
 ||robloxc.com.es^
@@ -612,13 +614,14 @@
 ||sk-facebook.blogspot.com^
 ||smallflyingarts.net^
 ||spotify-client-beta.vercel.app^
-||spotify-payment.click^
 ||spotifylite.online^
 ||spotifymode.org^
 ||spotifypremiumapk.pk^
 ||spotifypremiumz.net^
+||spotifyprimiumapk.com^
 ||squarespace.com^
 ||srpska-banka.com^
+||srv6-coinbase.com^
 ||sso-ledger-live-strt-ledger-support-cdn.typedream.app^
 ||start-io-login-trezr-cdn.typedream.app^
 ||start-ledgerlive-com-web.typedream.app^
