@@ -1,17 +1,20 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 727
-! Updated: 2026-10-13T14:13:11Z
+! Entries: 731
+! Updated: 2026-10-13T22:45:39Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
 ! Community-reported phishing domains. Use at your own risk.
 
+||105427.cc^
+||1056804.com^
 ||123-facebook.blogspot.com^
 ||12312940.pl^
 ||1789503-coinbase.com^
-||1yz.com^
 ||2017-facebook.blogspot.com^
+||3899118.com^
 ||57162055.shop^
+||8078794.cc^
 ||921390h.pl^
 ||a2zapk.co^
 ||a2zapk.dev^
@@ -130,7 +133,6 @@
 ||edgeone.dev^
 ||email-microsoft.com^
 ||ember-whatsapp.com^
-||emmanueldegreatltd.com^
 ||en-ledgre.pages.dev^
 ||ensuite-trexor.square.site^
 ||epsilons.co^
@@ -307,8 +309,6 @@
 ||gloronyan.github.io^
 ||glovonetwork.com^
 ||google-apk.com^
-||google.jl.cn^
-||google.js.cn^
 ||google1107.com^
 ||google1208.com^
 ||google1302.com^
@@ -328,6 +328,7 @@
 ||googleplaydown.com^
 ||googlepllry.com^
 ||googleplrzy.com^
+||googleservices761.pages.dev^
 ||hashnode.dev^
 ||help-instagram.blogspot.com^
 ||hofmemorabilia.ebaymclaren-austin.eventshouse.app^
@@ -343,6 +344,7 @@
 ||icloudmydevice.help^
 ||icloudnotify.help^
 ||icloudweb-ext860.click^
+||id-gj8fjh2kz.rest^
 ||ideeo.mx^
 ||ifotografix.co.uk^
 ||info-eng-ledgerlive-learn.typedream.app^
@@ -409,6 +411,7 @@
 ||instagramloginpage111.blogspot.com^
 ||instagramloginpassword.blogspot.com^
 ||instagramrecovery.blogspot.com^
+||instagramsecuriity.com^
 ||instagramsnp.blogspot.com^
 ||instagramsupportverify.blogspot.com^
 ||instagramunblockedd.vercel.app^
@@ -433,6 +436,7 @@
 ||kucoinlogenac.gitbook.io^
 ||kucoinloginaa.gitbook.io^
 ||kucoinloign.gitbook.io^
+||kup-teraz-62761851.pl^
 ||ledger-live-application.com^
 ||ledger-live-download-sso-conect.typedream.app^
 ||ledger-live-login-web.square.site^
@@ -481,7 +485,6 @@
 ||metamaskrewards.com^
 ||metamaskuxlogen.gitbook.io^
 ||metamaskwallett.blogspot.com^
-||mexicocentral-01.azurewebsites.net^
 ||mi-santander.com^
 ||microsoft-0r.github.io^
 ||microsoft-alpha.vercel.app^
@@ -529,6 +532,7 @@
 ||netflixfeitoaqui.com.br^
 ||netflixgpt-react.vercel.app^
 ||netflixinfos.com^
+||netflixprime.com^
 ||netflixquebec.blogspot.com^
 ||netflixvoid.org^
 ||netflixy-bixy.vercel.app^
@@ -537,6 +541,7 @@
 ||no-spotify.com^
 ||noreply-icloud.app^
 ||nw-facebook.blogspot.com^
+||oferta7214664155432.cfd^
 ||office365licensingsupport.com^
 ||onedrive-4-nine.vercel.app^
 ||oortstorages.com^
@@ -628,7 +633,6 @@
 ||steamcommunity.blog^
 ||steamcommunity.ing^
 ||steuerquimica.cl^
-||strab.org^
 ||strutsupportsystems.com^
 ||su-facebook.blogspot.com^
 ||sugar-outlook.com^
