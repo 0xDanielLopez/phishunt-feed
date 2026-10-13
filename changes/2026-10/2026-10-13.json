@@ -1,18 +1,34 @@
 {
  "date": "2026-10-13",
- "updated": "2026-10-13T00:41:04Z",
+ "updated": "2026-10-13T14:13:12Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 5,
-  "removed": 21
+  "added": 21,
+  "removed": 29
  },
  "added": [
-  "https://bankofamerica-secure-info.ph",
+  "http://netflix-cop.vercel.app",
+  "http://netflixgpt-react.vercel.app",
+  "http://seur.pass-cargo.com",
+  "https://celltrust.microsoftcrmportals.com",
+  "https://daydreamsonpaper.com",
+  "https://facebook-secure-my-account.brothersexpeditions.com",
+  "https://io-en-trezo.square.site",
+  "https://io-trezo-secure.square.site",
   "https://localisation-icloud.click",
+  "https://microsoft.citrix-sharing.com",
   "https://netflix-soporte.com",
+  "https://netflixapp.com",
   "https://new-phrase-metamask.com",
-  "https://roblox.com.ml/users/385463815080/profile"
+  "https://page-kucoin-en-us.typedream.app/en-us",
+  "https://santander-newbusiness.es/Web/#/login/access",
+  "https://secure-webs-kucoin-en.typedream.app/en-us",
+  "https://start-io-trezo.b12sites.com",
+  "https://trezo-enus.b12sites.com",
+  "https://uk-facebook.blogspot.com",
+  "https://whatsappgroup.vercel.app",
+  "https://ww-facebook.blogspot.com"
  ],
  "removed": [
   "http://allegro-lokalnie.078565.top",
@@ -23,6 +39,7 @@
   "http://allegrolokalnie.oferta-846202548.cfd/oferta/2020-przyczepa-podlodziowa-neptun-do-5m/48819?fbclid=iwy2xjawu1ydblehrua2flbqixmabwzg9mawjyawqrmencsupttzfqzvlndjvctuxzcnrjbmfwcf9pzbaymjiwmzkxnzg4mjawodkyaaeeyjvieyvkbnwxfgwdl7ptvxv0lbn7hq-xpwyl71pvymmpvrzxbcrwlsl2vto_aem_zjyxeqhejsdaq66bxqdn8a",
   "http://careritacenters.com/online-newdocumentn8739793874746299287377100002983/docusign/",
   "http://coinbaseinvestors.ai",
+  "http://information-trezor-bridge.godaddysites.com",
   "http://microsoft.marchesi.mx",
   "http://strt-officl-trezor.zapier.app",
   "https://6618328-coinbase.com",
@@ -31,10 +48,17 @@
   "https://binance-web.com",
   "https://cn-hsbc.foryour.review",
   "https://f005.backblazeb2.com/file/xfinitywaerupport/SignintoXfinity.html",
+  "https://facebook-di.blogspot.com/?m=1",
+  "https://icloud-ubication.com",
+  "https://ledger-live-wallet-start-conect-us-en.typedream.app",
   "https://lovevivah.com/share.google/mBkQTp6sXnaun5YIb",
+  "https://mail.icloud-ubication.com",
+  "https://namastespa.ca/everybin/outlook.html",
   "https://outlookportal.framer.ai",
+  "https://paypal-signin.blogspot.com",
   "https://roblox.com.ml/users/207142205713/profile",
   "https://wan-whatsapp.com",
+  "https://wellsfargobank.fyi",
   "https://wi-rr.com"
  ]
 }

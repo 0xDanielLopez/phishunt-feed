@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 719
-! Updated: 2026-10-13T00:41:04Z
+! Entries: 727
+! Updated: 2026-10-13T14:13:11Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -38,7 +38,7 @@
 ||auth-trezor-cdn-io.gitbook.io^
 ||avaturefed.net^
 ||axm-amazon.com^
-||bankofamerica-secure-info.ph^
+||b12sites.com^
 ||bankofamericamailcompte.blogspot.com^
 ||barcelona-facebook.blogspot.com^
 ||barclays-bank.vercel.app^
@@ -67,6 +67,7 @@
 ||bnext.es^
 ||brad-facebook.blogspot.com^
 ||bradescosegurosop.com.br^
+||brothersexpeditions.com^
 ||buscarmi-icloud.app^
 ||business-dropbox.me^
 ||c-binance.github.io^
@@ -78,6 +79,7 @@
 ||ch-google.cc^
 ||chatgpt0005.eu.org^
 ||checkleaked.cc^
+||citrix-sharing.com^
 ||click-facebook.blogspot.com^
 ||cn-feed-whatsapp.com.cn^
 ||coinbase-event.vercel.app^
@@ -102,6 +104,7 @@
 ||ct.ws^
 ||cz-facebook.blogspot.com^
 ||daservglobal.com^
+||daydreamsonpaper.com^
 ||de-paypal-sec.com^
 ||de5.net^
 ||deluxxe.com.br^
@@ -165,7 +168,6 @@
 ||facebook-channel.blogspot.com^
 ||facebook-community.blogspot.com^
 ||facebook-developers.blogspot.com^
-||facebook-di.blogspot.com^
 ||facebook-do.blogspot.com^
 ||facebook-eu.blogspot.com^
 ||facebook-facebook1.blogspot.com^
@@ -337,7 +339,6 @@
 ||hsbctds.com^
 ||hstn.me^
 ||icloud-asisten-official.com^
-||icloud-ubication.com^
 ||icloudmex-lost.com^
 ||icloudmydevice.help^
 ||icloudnotify.help^
@@ -346,7 +347,6 @@
 ||ifotografix.co.uk^
 ||info-eng-ledgerlive-learn.typedream.app^
 ||info-facebook.blogspot.com^
-||information-trezor-bridge.godaddysites.com^
 ||infy.click^
 ||ingdirect-accesoweb-login.com^
 ||iniciamazon.com.br^
@@ -416,6 +416,8 @@
 ||internal-alerts.com^
 ||intomahost2.com^
 ||invreceiptslinkedin.com^
+||io-en-trezo.square.site^
+||io-trezo-secure.square.site^
 ||io-trezrn-eng.pages.dev^
 ||isha-dev.com^
 ||itau-com.vercel.app^
@@ -434,7 +436,6 @@
 ||ledger-live-application.com^
 ||ledger-live-download-sso-conect.typedream.app^
 ||ledger-live-login-web.square.site^
-||ledger-live-wallet-start-conect-us-en.typedream.app^
 ||ledgrelivapp--crome.typedream.app^
 ||leia-santander.vercel.app^
 ||linkedin-antanim.vercel.app^
@@ -491,6 +492,7 @@
 ||microsoft0117.vercel.app^
 ||microsoft365businessbasic.com^
 ||microsoft365updates.com^
+||microsoftcrmportals.com^
 ||microsoftjk.eu.org^
 ||microsoftoffice-o365.com^
 ||microsoftpl.biz.pl^
@@ -505,11 +507,11 @@
 ||movistar-recaudo-epayc.com^
 ||my-facebook-blog.blogspot.com^
 ||mytemp.website^
-||namastespa.ca^
 ||nbpublic.com^
 ||neda-facebook.blogspot.com^
 ||netflix-71f05.firebaseapp.com^
 ||netflix-colombia.vercel.app^
+||netflix-cop.vercel.app^
 ||netflix-coral-zeta.vercel.app^
 ||netflix-homepage-pi.vercel.app^
 ||netflix-lake.vercel.app^
@@ -521,9 +523,11 @@
 ||netflix520.com^
 ||netflix6.com^
 ||netflixandchiffres.com^
+||netflixapp.com^
 ||netflixbymanoj.vercel.app^
 ||netflixcol.vercel.app^
 ||netflixfeitoaqui.com.br^
+||netflixgpt-react.vercel.app^
 ||netflixinfos.com^
 ||netflixquebec.blogspot.com^
 ||netflixvoid.org^
@@ -547,10 +551,11 @@
 ||outlookindia.com^
 ||outlookmail.social^
 ||page-instagram.vercel.app^
+||page-kucoin-en-us.typedream.app^
+||pass-cargo.com^
 ||paykmc.com^
 ||paypal-logiin.blogspot.com^
 ||paypal-password.blogspot.com^
-||paypal-signin.blogspot.com^
 ||paypalcorp.blogspot.com^
 ||pe-facebook.blogspot.com^
 ||phil-heron-zoomdrain-com-s-account.workers.dev^
@@ -574,7 +579,6 @@
 ||roblox.com.ee^
 ||roblox.com.gr^
 ||roblox.com.kz^
-||roblox.com.ml^
 ||roblox.com.mu^
 ||roblox.com.mw^
 ||roblox.com.pt^
@@ -586,6 +590,7 @@
 ||sagers.com^
 ||samplel-ks6yxvur5-instagramm.vercel.app^
 ||santander-dev-week.vercel.app^
+||santander-newbusiness.es^
 ||santander-remaster-whats-fb-kappa.vercel.app^
 ||santander-remaster-whats-fb.vercel.app^
 ||santanderbizum.com^
@@ -594,6 +599,7 @@
 ||search.er.in^
 ||secure-coinbase-com-sign-in.typedream.app^
 ||secure-dropbox.ist^
+||secure-webs-kucoin-en.typedream.app^
 ||securedsupport-coinbase.com^
 ||secureserver.net^
 ||send-secure-trustwallet-usdt-bip20.vercel.app^
@@ -660,6 +666,7 @@
 ||trustwallet-team-support.github.io^
 ||trustwallet-tokentwtowner.vercel.app^
 ||trustwalletindia-beta.vercel.app^
+||uk-facebook.blogspot.com^
 ||updata.net.cn^
 ||usdt-trustwallet-blockchain.vercel.app^
 ||userhub-coinbase.com^
@@ -687,7 +694,6 @@
 ||webmail-service-xfinity.vercel.app^
 ||weeblysite.com^
 ||welcome-trezr-suite.square.site^
-||wellsfargobank.fyi^
 ||whatsapp-dp-images.in^
 ||whatsapp-fast.vercel.app^
 ||whatsapp-iamsuyash.vercel.app^
@@ -697,8 +703,10 @@
 ||whatsappapk.org^
 ||whatsappcampaign.online^
 ||whatsappfreewhatsapp.blogspot.com^
+||whatsappgroup.vercel.app^
 ||windows-ledger-live.typedream.app^
 ||wooflers.com^
+||ww-facebook.blogspot.com^
 ||www-app-google.com^
 ||www-apple.support^
 ||www-google.cn^
