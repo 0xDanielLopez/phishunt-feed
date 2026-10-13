@@ -1,23 +1,17 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 735
-# Updated: 2026-10-12T15:27:28Z
+# Entries: 719
+# Updated: 2026-10-13T00:26:44Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
-0182345.com
-078565.top
 123-facebook.blogspot.com
 12312940.pl
 1789503-coinbase.com
 1yz.com
 2017-facebook.blogspot.com
 57162055.shop
-6618328-coinbase.com
-768360.cc
-789365.cc
-8335758.xyz
 921390h.pl
 a2zapk.co
 a2zapk.dev
@@ -44,7 +38,7 @@ asso-entrautres.fr
 auth-trezor-cdn-io.gitbook.io
 avaturefed.net
 axm-amazon.com
-backblazeb2.com
+bankofamerica-secure-info.ph
 bankofamericamailcompte.blogspot.com
 barcelona-facebook.blogspot.com
 barclays-bank.vercel.app
@@ -57,13 +51,11 @@ bet-facebook.blogspot.com
 binance-account-login.vercel.app
 binance-co.github.io
 binance-mail.click
-binance-og.com
 binance-promo-code.vercel.app
 binance-red-packet.vercel.app
 binance-referral-code-btcbonus.vercel.app
 binance-register.blogspot.com
 binance-tr-cekilis.com
-binance-web.com
 binanceaa.com
 binanceii.com
 binancelivetrade.blogspot.com
@@ -79,7 +71,6 @@ buscarmi-icloud.app
 business-dropbox.me
 c-binance.github.io
 careers-openai.com
-careritacenters.com
 carsscanned.ebaymclaren-austin.eventshouse.app
 cashapp-liart.vercel.app
 cashappps.com
@@ -90,7 +81,6 @@ checkleaked.cc
 click-facebook.blogspot.com
 cn-feed-whatsapp.com.cn
 coinbase-event.vercel.app
-coinbaseinvestors.ai
 coinbaseprologinv.gitbook.io
 coinbaseverify.vercel.app
 collectableswall.ebaymclaren-austin.eventshouse.app
@@ -307,7 +297,6 @@ fedexwp.com
 fercel.app
 file-whatsappn.hl.cn
 forsakens-crew-teman-facebook.blogspot.com
-foryour.review
 free-facebook-page-likes.blogspot.com
 fwh.is
 gafiatechnologies.com
@@ -453,6 +442,7 @@ lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
 lnk.ink
 lobologisticgroup.com.mx
 lobster-cloud.com
+localisation-icloud.click
 login-facebook-facebook.blogspot.com
 login-facebookaccount.blogspot.com
 login-my-facebook.blogspot.com
@@ -463,13 +453,11 @@ login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 logowanie-facebook.vercel.app
 love-facebook.blogspot.com
 lovefive-facebook.blogspot.com
-lovevivah.com
 luxora.qpon
 ly-facebook.blogspot.com
 m-facebooks.vn
 m365-microsoft.com
 m4ntapaset.ink
-marchesi.mx
 mb-facebook.blogspot.com
 mclarencar.ebaymclaren-austin.eventshouse.app
 mclarenf1car.ebaymclaren-austin.eventshouse.app
@@ -526,6 +514,7 @@ netflix-coral-zeta.vercel.app
 netflix-homepage-pi.vercel.app
 netflix-lake.vercel.app
 netflix-recovery.com
+netflix-soporte.com
 netflix-two-mu.vercel.app
 netflix-web-site-three.vercel.app
 netflix.surf
@@ -540,12 +529,11 @@ netflixquebec.blogspot.com
 netflixvoid.org
 netflixy-bixy.vercel.app
 network-facebook.blogspot.com
+new-phrase-metamask.com
 no-spotify.com
 noreply-icloud.app
 nw-facebook.blogspot.com
-oferta-846202548.cfd
 office365licensingsupport.com
-ok77666.cc
 onedrive-4-nine.vercel.app
 oortstorages.com
 open-instagram.vercel.app
@@ -558,7 +546,6 @@ ossama-instagram.vercel.app
 outlook-serv-coral.vercel.app
 outlookindia.com
 outlookmail.social
-outlookportal.framer.ai
 page-instagram.vercel.app
 paykmc.com
 paypal-logiin.blogspot.com
@@ -636,7 +623,6 @@ steamcommunity.blog
 steamcommunity.ing
 steuerquimica.cl
 strab.org
-strt-officl-trezor.zapier.app
 strutsupportsystems.com
 su-facebook.blogspot.com
 sugar-outlook.com
@@ -690,7 +676,6 @@ viewclass.com
 vinted-technologies.live
 vodafone-on-line.it
 vpnuse.eu.org
-wan-whatsapp.com
 wasmer.app
 wave-whatsapp.com
 waycobeauty.com
@@ -712,7 +697,6 @@ whatsapp11-cnj.pages.dev
 whatsappapk.org
 whatsappcampaign.online
 whatsappfreewhatsapp.blogspot.com
-wi-rr.com
 windows-ledger-live.typedream.app
 wooflers.com
 www-app-google.com

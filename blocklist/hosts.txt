@@ -1,23 +1,17 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 735
-# Updated: 2026-10-12T15:27:29Z
+# Entries: 719
+# Updated: 2026-10-13T00:41:04Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
-0.0.0.0 0182345.com
-0.0.0.0 078565.top
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 12312940.pl
 0.0.0.0 1789503-coinbase.com
 0.0.0.0 1yz.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 57162055.shop
-0.0.0.0 6618328-coinbase.com
-0.0.0.0 768360.cc
-0.0.0.0 789365.cc
-0.0.0.0 8335758.xyz
 0.0.0.0 921390h.pl
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
@@ -44,7 +38,7 @@
 0.0.0.0 auth-trezor-cdn-io.gitbook.io
 0.0.0.0 avaturefed.net
 0.0.0.0 axm-amazon.com
-0.0.0.0 backblazeb2.com
+0.0.0.0 bankofamerica-secure-info.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
@@ -57,13 +51,11 @@
 0.0.0.0 binance-account-login.vercel.app
 0.0.0.0 binance-co.github.io
 0.0.0.0 binance-mail.click
-0.0.0.0 binance-og.com
 0.0.0.0 binance-promo-code.vercel.app
 0.0.0.0 binance-red-packet.vercel.app
 0.0.0.0 binance-referral-code-btcbonus.vercel.app
 0.0.0.0 binance-register.blogspot.com
 0.0.0.0 binance-tr-cekilis.com
-0.0.0.0 binance-web.com
 0.0.0.0 binanceaa.com
 0.0.0.0 binanceii.com
 0.0.0.0 binancelivetrade.blogspot.com
@@ -79,7 +71,6 @@
 0.0.0.0 business-dropbox.me
 0.0.0.0 c-binance.github.io
 0.0.0.0 careers-openai.com
-0.0.0.0 careritacenters.com
 0.0.0.0 carsscanned.ebaymclaren-austin.eventshouse.app
 0.0.0.0 cashapp-liart.vercel.app
 0.0.0.0 cashappps.com
@@ -90,7 +81,6 @@
 0.0.0.0 click-facebook.blogspot.com
 0.0.0.0 cn-feed-whatsapp.com.cn
 0.0.0.0 coinbase-event.vercel.app
-0.0.0.0 coinbaseinvestors.ai
 0.0.0.0 coinbaseprologinv.gitbook.io
 0.0.0.0 coinbaseverify.vercel.app
 0.0.0.0 collectableswall.ebaymclaren-austin.eventshouse.app
@@ -307,7 +297,6 @@
 0.0.0.0 fercel.app
 0.0.0.0 file-whatsappn.hl.cn
 0.0.0.0 forsakens-crew-teman-facebook.blogspot.com
-0.0.0.0 foryour.review
 0.0.0.0 free-facebook-page-likes.blogspot.com
 0.0.0.0 fwh.is
 0.0.0.0 gafiatechnologies.com
@@ -453,6 +442,7 @@
 0.0.0.0 lnk.ink
 0.0.0.0 lobologisticgroup.com.mx
 0.0.0.0 lobster-cloud.com
+0.0.0.0 localisation-icloud.click
 0.0.0.0 login-facebook-facebook.blogspot.com
 0.0.0.0 login-facebookaccount.blogspot.com
 0.0.0.0 login-my-facebook.blogspot.com
@@ -463,13 +453,11 @@
 0.0.0.0 logowanie-facebook.vercel.app
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
-0.0.0.0 lovevivah.com
 0.0.0.0 luxora.qpon
 0.0.0.0 ly-facebook.blogspot.com
 0.0.0.0 m-facebooks.vn
 0.0.0.0 m365-microsoft.com
 0.0.0.0 m4ntapaset.ink
-0.0.0.0 marchesi.mx
 0.0.0.0 mb-facebook.blogspot.com
 0.0.0.0 mclarencar.ebaymclaren-austin.eventshouse.app
 0.0.0.0 mclarenf1car.ebaymclaren-austin.eventshouse.app
@@ -526,6 +514,7 @@
 0.0.0.0 netflix-homepage-pi.vercel.app
 0.0.0.0 netflix-lake.vercel.app
 0.0.0.0 netflix-recovery.com
+0.0.0.0 netflix-soporte.com
 0.0.0.0 netflix-two-mu.vercel.app
 0.0.0.0 netflix-web-site-three.vercel.app
 0.0.0.0 netflix.surf
@@ -540,12 +529,11 @@
 0.0.0.0 netflixvoid.org
 0.0.0.0 netflixy-bixy.vercel.app
 0.0.0.0 network-facebook.blogspot.com
+0.0.0.0 new-phrase-metamask.com
 0.0.0.0 no-spotify.com
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
-0.0.0.0 oferta-846202548.cfd
 0.0.0.0 office365licensingsupport.com
-0.0.0.0 ok77666.cc
 0.0.0.0 onedrive-4-nine.vercel.app
 0.0.0.0 oortstorages.com
 0.0.0.0 open-instagram.vercel.app
@@ -558,7 +546,6 @@
 0.0.0.0 outlook-serv-coral.vercel.app
 0.0.0.0 outlookindia.com
 0.0.0.0 outlookmail.social
-0.0.0.0 outlookportal.framer.ai
 0.0.0.0 page-instagram.vercel.app
 0.0.0.0 paykmc.com
 0.0.0.0 paypal-logiin.blogspot.com
@@ -636,7 +623,6 @@
 0.0.0.0 steamcommunity.ing
 0.0.0.0 steuerquimica.cl
 0.0.0.0 strab.org
-0.0.0.0 strt-officl-trezor.zapier.app
 0.0.0.0 strutsupportsystems.com
 0.0.0.0 su-facebook.blogspot.com
 0.0.0.0 sugar-outlook.com
@@ -690,7 +676,6 @@
 0.0.0.0 vinted-technologies.live
 0.0.0.0 vodafone-on-line.it
 0.0.0.0 vpnuse.eu.org
-0.0.0.0 wan-whatsapp.com
 0.0.0.0 wasmer.app
 0.0.0.0 wave-whatsapp.com
 0.0.0.0 waycobeauty.com
@@ -712,7 +697,6 @@
 0.0.0.0 whatsappapk.org
 0.0.0.0 whatsappcampaign.online
 0.0.0.0 whatsappfreewhatsapp.blogspot.com
-0.0.0.0 wi-rr.com
 0.0.0.0 windows-ledger-live.typedream.app
 0.0.0.0 wooflers.com
 0.0.0.0 www-app-google.com
