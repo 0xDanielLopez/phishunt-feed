@@ -1,11 +1,12 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 731
-# Updated: 2026-10-13T22:36:19Z
+# Entries: 739
+# Updated: 2026-10-14T04:54:58Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
+0365-microsoft.gitbook.io
 105427.cc
 1056804.com
 123-facebook.blogspot.com
@@ -35,16 +36,17 @@ apk-google.cn
 app-binance.github.io
 app-facebook.blogspot.com
 app81-facebook.blogspot.com
-apple-icloud.azurewebsites.net
 assign-icloud.com
 asso-entrautres.fr
 auth-trezor-cdn-io.gitbook.io
+auth.properties
 avaturefed.net
 axm-amazon.com
 b12sites.com
 bankofamericamailcompte.blogspot.com
 barcelona-facebook.blogspot.com
 barclays-bank.vercel.app
+base-ledgerlive-eng.pages.dev
 bbva-hiring-paperless.appspot.com
 bbvalues.uk
 be-spotify.com
@@ -116,6 +118,7 @@ dhl-express-dev.firebaseapp.com
 dir.com.my
 discoveryloft.com
 dj-facebook.blogspot.com
+doboski.top
 docs-google.com
 docs-trezor-app.pages.dev
 docusign-server.github.io
@@ -299,12 +302,12 @@ facebookwebsite9.blogspot.com
 fedexsv.com
 fedexwp.com
 fercel.app
-file-whatsappn.hl.cn
 forsakens-crew-teman-facebook.blogspot.com
 free-facebook-page-likes.blogspot.com
 fwh.is
 gafiatechnologies.com
 gercel.app
+get-acrobat-adobe.pages.dev
 ggzh-google.com.cn
 gloronyan.github.io
 glovonetwork.com
@@ -328,7 +331,6 @@ googleplaiby.com
 googleplaydown.com
 googlepllry.com
 googleplrzy.com
-googleservices761.pages.dev
 hashnode.dev
 help-instagram.blogspot.com
 hofmemorabilia.ebaymclaren-austin.eventshouse.app
@@ -340,6 +342,7 @@ hsbc-sec.com
 hsbctds.com
 hstn.me
 icloud-asisten-official.com
+icloud-location.info
 icloudmex-lost.com
 icloudmydevice.help
 icloudnotify.help
@@ -411,7 +414,6 @@ instagramlogin99.blogspot.com
 instagramloginpage111.blogspot.com
 instagramloginpassword.blogspot.com
 instagramrecovery.blogspot.com
-instagramsecuriity.com
 instagramsnp.blogspot.com
 instagramsupportverify.blogspot.com
 instagramunblockedd.vercel.app
@@ -456,6 +458,7 @@ login-page-instagram.vercel.app
 login.rmdbwskx.santander.bimp-bot.duckdns.org
 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 logowanie-facebook.vercel.app
+lokalna-ofera02001021023442.shop
 love-facebook.blogspot.com
 lovefive-facebook.blogspot.com
 luxora.qpon
@@ -472,6 +475,7 @@ meet-googlee7823629056.pages.dev
 meme-facebook.blogspot.com
 metamask-ai-agent.vercel.app
 metamask-connect.vercel.app
+metamask-docs-ldkp21iks-consensys-ddffed67.vercel.app
 metamask-launchpad.vercel.app
 metamask-login.vercel.app
 metamask-six.vercel.app
@@ -519,7 +523,6 @@ netflix-coral-zeta.vercel.app
 netflix-homepage-pi.vercel.app
 netflix-lake.vercel.app
 netflix-recovery.com
-netflix-soporte.com
 netflix-two-mu.vercel.app
 netflix-web-site-three.vercel.app
 netflix.surf
@@ -541,7 +544,7 @@ new-phrase-metamask.com
 no-spotify.com
 noreply-icloud.app
 nw-facebook.blogspot.com
-oferta7214664155432.cfd
+oferta-873124.cfd
 office365licensingsupport.com
 onedrive-4-nine.vercel.app
 oortstorages.com
@@ -565,6 +568,8 @@ paypalcorp.blogspot.com
 pe-facebook.blogspot.com
 phil-heron-zoomdrain-com-s-account.workers.dev
 piedrasdecolon.com.ar
+pl-oferta012403.sbs
+pl059180.sbs
 premio-instagram.com
 profil-facebook-saya.blogspot.com
 promorange.co.uk
@@ -578,12 +583,14 @@ redirecthelp.com
 register-facebook.blogspot.com
 rev.it
 roblox-login.vercel.app
+roblox.com.am
 roblox.com.bi
 roblox.com.bn
 roblox.com.bo
 roblox.com.ee
 roblox.com.gr
 roblox.com.kz
+roblox.com.ml
 roblox.com.mu
 roblox.com.mw
 roblox.com.pt
@@ -710,6 +717,7 @@ whatsappfreewhatsapp.blogspot.com
 whatsappgroup.vercel.app
 windows-ledger-live.typedream.app
 wooflers.com
+work-en-ledgre.pages.dev
 ww-facebook.blogspot.com
 www-app-google.com
 www-apple.support
