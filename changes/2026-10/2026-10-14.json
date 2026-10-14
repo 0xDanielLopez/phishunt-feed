@@ -1,11 +1,11 @@
 {
  "date": "2026-10-14",
- "updated": "2026-10-14T04:55:00Z",
+ "updated": "2026-10-14T11:53:53Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 15,
-  "removed": 6
+  "added": 19,
+  "removed": 14
  },
  "added": [
   "http://allegro.lokalna-ofera02001021023442.shop",
@@ -14,22 +14,34 @@
   "http://allegrolokalnie.oferta-873124.cfd/logowanie/74872",
   "http://allegrolokalnie.pl-oferta012403.sbs",
   "https://0365-microsoft.gitbook.io",
+  "https://alerta-appleid.info",
+  "https://allegrolokalnie.lokalna-ofera02001021023442.shop",
+  "https://allegrolokalnie.pl059180.sbs",
+  "https://appleinc-support.info",
   "https://auth.properties/E.K7TNFIWMOeb1jA?/microsoftonline/mailbox/upgrade",
-  "https://base-ledgerlive-eng.pages.dev",
+  "https://bankofamerica-secure-identity.ph",
   "https://doboski.top/adobe%20detect/adobe/",
+  "https://gestorweb.cl",
   "https://get-acrobat-adobe.pages.dev/favicon.ico",
+  "https://google.documentsharing.fr",
   "https://icloud-location.info",
   "https://metamask-docs-ldkp21iks-consensys-ddffed67.vercel.app",
-  "https://roblox.com.am/users/254411258667/profile",
-  "https://roblox.com.ml/users/237433448311/profile",
-  "https://work-en-ledgre.pages.dev"
+  "https://roblox.com.am/users/475418373470/profile"
  ],
  "removed": [
   "http://apple-icloud.azurewebsites.net",
   "http://file-whatsappn.hl.cn/wordpress-6.8.3-pt_BR/wordpress/wp-content/themes/twentytwentythree/patterns/footer-default.php",
+  "http://start-io-login-trezr-cdn.typedream.app",
+  "http://tart-faq-en--trezr.typedream.app",
+  "https://allegrolokalnie.id-gj8fjh2kz.rest/zestaw-narz%C4%99dzi-dewalt-combo-k/60931",
   "https://allegrolokalnie.oferta7214664155432.cfd",
+  "https://facebook-secure-my-account.brothersexpeditions.com",
   "https://googleservices761.pages.dev",
   "https://instagramsecuriity.com",
-  "https://netflix-soporte.com"
+  "https://netflix-soporte.com",
+  "https://new-phrase-metamask.com",
+  "https://sign-in-to-xfinity-webmail-108277.weeblysite.com",
+  "https://trezoriostart-web.square.site",
+  "https://xfinity-maillogin.weebly.com/index"
  ]
 }

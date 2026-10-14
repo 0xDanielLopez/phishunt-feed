@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 739
-! Updated: 2026-10-14T04:54:59Z
+! Entries: 733
+! Updated: 2026-10-14T11:53:52Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -24,6 +24,7 @@
 ||adobeexperience.com.br^
 ||adobeinstaller-virid.vercel.app^
 ||agenciadlx.com.br^
+||alerta-appleid.info^
 ||alibaba188.org^
 ||alibaba99.com^
 ||alibabaexclusifyx.com^
@@ -36,6 +37,7 @@
 ||app-binance.github.io^
 ||app-facebook.blogspot.com^
 ||app81-facebook.blogspot.com^
+||appleinc-support.info^
 ||assign-icloud.com^
 ||asso-entrautres.fr^
 ||auth-trezor-cdn-io.gitbook.io^
@@ -43,10 +45,10 @@
 ||avaturefed.net^
 ||axm-amazon.com^
 ||b12sites.com^
+||bankofamerica-secure-identity.ph^
 ||bankofamericamailcompte.blogspot.com^
 ||barcelona-facebook.blogspot.com^
 ||barclays-bank.vercel.app^
-||base-ledgerlive-eng.pages.dev^
 ||bbva-hiring-paperless.appspot.com^
 ||bbvalues.uk^
 ||be-spotify.com^
@@ -72,7 +74,6 @@
 ||bnext.es^
 ||brad-facebook.blogspot.com^
 ||bradescosegurosop.com.br^
-||brothersexpeditions.com^
 ||buscarmi-icloud.app^
 ||business-dropbox.me^
 ||c-binance.github.io^
@@ -121,6 +122,7 @@
 ||doboski.top^
 ||docs-google.com^
 ||docs-trezor-app.pages.dev^
+||documentsharing.fr^
 ||docusign-server.github.io^
 ||dothome.co.kr^
 ||dpdie.live^
@@ -307,6 +309,7 @@
 ||fwh.is^
 ||gafiatechnologies.com^
 ||gercel.app^
+||gestorweb.cl^
 ||get-acrobat-adobe.pages.dev^
 ||ggzh-google.com.cn^
 ||gloronyan.github.io^
@@ -347,7 +350,6 @@
 ||icloudmydevice.help^
 ||icloudnotify.help^
 ||icloudweb-ext860.click^
-||id-gj8fjh2kz.rest^
 ||ideeo.mx^
 ||ifotografix.co.uk^
 ||info-eng-ledgerlive-learn.typedream.app^
@@ -540,7 +542,6 @@
 ||netflixvoid.org^
 ||netflixy-bixy.vercel.app^
 ||network-facebook.blogspot.com^
-||new-phrase-metamask.com^
 ||no-spotify.com^
 ||noreply-icloud.app^
 ||nw-facebook.blogspot.com^
@@ -590,7 +591,6 @@
 ||roblox.com.ee^
 ||roblox.com.gr^
 ||roblox.com.kz^
-||roblox.com.ml^
 ||roblox.com.mu^
 ||roblox.com.mw^
 ||roblox.com.pt^
@@ -633,7 +633,6 @@
 ||srpska-banka.com^
 ||srv6-coinbase.com^
 ||sso-ledger-live-strt-ledger-support-cdn.typedream.app^
-||start-io-login-trezr-cdn.typedream.app^
 ||start-ledgerlive-com-web.typedream.app^
 ||start-ledgren.zapier.app^
 ||start-web-en-ledger-live-login.typedream.app^
@@ -651,7 +650,6 @@
 ||synel99.github.io^
 ||tamil.bid^
 ||tara-facebook.blogspot.com^
-||tart-faq-en--trezr.typedream.app^
 ||taslimaenterprise.com^
 ||tb-facebook.blogspot.com^
 ||temporary.site^
@@ -667,7 +665,6 @@
 ||trezor-login-guide.square.site^
 ||trezor-login-us-auth-start.typedream.app^
 ||trezorguide.vercel.app^
-||trezoriostart-web.square.site^
 ||trezorrgoappup.gitbook.io^
 ||trust-wallet-customer-support-number.github.io^
 ||trust-wallet-login.vercel.app^
@@ -703,7 +700,6 @@
 ||webaccess-alert.com^
 ||webador.com^
 ||webmail-service-xfinity.vercel.app^
-||weeblysite.com^
 ||welcome-trezr-suite.square.site^
 ||whatsapp-dp-images.in^
 ||whatsapp-fast.vercel.app^
@@ -717,14 +713,12 @@
 ||whatsappgroup.vercel.app^
 ||windows-ledger-live.typedream.app^
 ||wooflers.com^
-||work-en-ledgre.pages.dev^
 ||ww-facebook.blogspot.com^
 ||www-app-google.com^
 ||www-apple.support^
 ||www-google.cn^
 ||www-hk-google.com^
 ||wwww-linkedin.be^
-||xfinity-maillogin.weebly.com^
 ||xfinity-updateform.square.site^
 ||xfinity-updateform.weebly.com^
 ||xfinity2.vercel.app^
