@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 730
-! Updated: 2026-10-14T17:11:14Z
+! Entries: 734
+! Updated: 2026-10-14T21:41:40Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -13,6 +13,7 @@
 ||1789503-coinbase.com^
 ||2017-facebook.blogspot.com^
 ||57162055.shop^
+||912398h45.mom^
 ||921390h.pl^
 ||a2zapk.co^
 ||a2zapk.dev^
@@ -37,11 +38,10 @@
 ||appleinc-support.info^
 ||assign-icloud.com^
 ||asso-entrautres.fr^
-||auth-trezor-cdn-io.gitbook.io^
 ||auth.properties^
 ||avaturefed.net^
 ||axm-amazon.com^
-||b12sites.com^
+||bankofamerica-secure-verification-email.ph^
 ||bankofamericamailcompte.blogspot.com^
 ||barcelona-facebook.blogspot.com^
 ||barclays-bank.vercel.app^
@@ -72,7 +72,6 @@
 ||bradescosegurosop.com.br^
 ||buscarmi-icloud.app^
 ||business-dropbox.me^
-||c-binance.github.io^
 ||careers-openai.com^
 ||carsscanned.ebaymclaren-austin.eventshouse.app^
 ||cashapp-liart.vercel.app^
@@ -119,7 +118,7 @@
 ||docs-google.com^
 ||docs-trezor-app.pages.dev^
 ||documentsharing.fr^
-||docusign-server.github.io^
+||docusign.one^
 ||dothome.co.kr^
 ||dpdie.live^
 ||dpduk.dev^
@@ -297,6 +296,7 @@
 ||facebookuserlogin.blogspot.com^
 ||facebookverifyyouraccount.blogspot.com^
 ||facebookwebsite9.blogspot.com^
+||fedexcargo.delivery^
 ||fedexsv.com^
 ||fedexwp.com^
 ||fercel.app^
@@ -311,6 +311,7 @@
 ||gloronyan.github.io^
 ||glovonetwork.com^
 ||google-apk.com^
+||google.com.py^
 ||google1107.com^
 ||google1208.com^
 ||google1302.com^
@@ -320,6 +321,7 @@
 ||googlecontacts.email^
 ||googleepkay.com^
 ||googleepway.com^
+||googleio.sbs^
 ||googlekalender.de^
 ||googlel0gin.netlify.app^
 ||googlelogos.com^
@@ -534,7 +536,6 @@
 ||netflixfeitoaqui.com.br^
 ||netflixgpt-react.vercel.app^
 ||netflixinfos.com^
-||netflixprime.com^
 ||netflixquebec.blogspot.com^
 ||netflixvoid.org^
 ||netflixy-bixy.vercel.app^
@@ -544,6 +545,9 @@
 ||nw-facebook.blogspot.com^
 ||oferta75740593022.sbs^
 ||ofertaa7843273429.cfd^
+||ofertaa84304369324.cfd^
+||ofertaa902544206543.cfd^
+||ofertaa94839403229.cfd^
 ||office365licensingsupport.com^
 ||onedrive-4-nine.vercel.app^
 ||oortstorages.com^
@@ -568,6 +572,7 @@
 ||phil-heron-zoomdrain-com-s-account.workers.dev^
 ||piedrasdecolon.com.ar^
 ||pl-oferta012403.sbs^
+||pl-oferta1079277805.icu^
 ||pl059180.sbs^
 ||premio-instagram.com^
 ||profil-facebook-saya.blogspot.com^
@@ -588,7 +593,6 @@
 ||roblox.com.bo^
 ||roblox.com.ee^
 ||roblox.com.gr^
-||roblox.com.kz^
 ||roblox.com.mu^
 ||roblox.com.mw^
 ||roblox.com.pt^
@@ -645,7 +649,6 @@
 ||support-ledgerlive-eng.typedream.app^
 ||support-ledgrcom-start-web.typedream.app^
 ||support-netflix-signup.info^
-||synel99.github.io^
 ||tamil.bid^
 ||tara-facebook.blogspot.com^
 ||taslimaenterprise.com^
@@ -657,6 +660,7 @@
 ||thomas-coinbase.com^
 ||toooo-tooo-trezor.gitbook.io^
 ||trackingnumbers.org^
+||trakc3821912jj6.casa^
 ||trezoorr--thego.gitbook.io^
 ||trezor--brioge--help.gitbook.io^
 ||trezor-brige.square.site^

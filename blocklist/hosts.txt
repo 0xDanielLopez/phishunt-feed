@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 729
-# Updated: 2026-10-14T17:01:49Z
+# Entries: 734
+# Updated: 2026-10-14T21:41:40Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -13,6 +13,7 @@
 0.0.0.0 1789503-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 57162055.shop
+0.0.0.0 912398h45.mom
 0.0.0.0 921390h.pl
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
@@ -37,11 +38,10 @@
 0.0.0.0 appleinc-support.info
 0.0.0.0 assign-icloud.com
 0.0.0.0 asso-entrautres.fr
-0.0.0.0 auth-trezor-cdn-io.gitbook.io
 0.0.0.0 auth.properties
 0.0.0.0 avaturefed.net
 0.0.0.0 axm-amazon.com
-0.0.0.0 b12sites.com
+0.0.0.0 bankofamerica-secure-verification-email.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
@@ -72,7 +72,6 @@
 0.0.0.0 bradescosegurosop.com.br
 0.0.0.0 buscarmi-icloud.app
 0.0.0.0 business-dropbox.me
-0.0.0.0 c-binance.github.io
 0.0.0.0 careers-openai.com
 0.0.0.0 carsscanned.ebaymclaren-austin.eventshouse.app
 0.0.0.0 cashapp-liart.vercel.app
@@ -119,7 +118,7 @@
 0.0.0.0 docs-google.com
 0.0.0.0 docs-trezor-app.pages.dev
 0.0.0.0 documentsharing.fr
-0.0.0.0 docusign-server.github.io
+0.0.0.0 docusign.one
 0.0.0.0 dothome.co.kr
 0.0.0.0 dpdie.live
 0.0.0.0 dpduk.dev
@@ -297,6 +296,7 @@
 0.0.0.0 facebookuserlogin.blogspot.com
 0.0.0.0 facebookverifyyouraccount.blogspot.com
 0.0.0.0 facebookwebsite9.blogspot.com
+0.0.0.0 fedexcargo.delivery
 0.0.0.0 fedexsv.com
 0.0.0.0 fedexwp.com
 0.0.0.0 fercel.app
@@ -311,6 +311,7 @@
 0.0.0.0 gloronyan.github.io
 0.0.0.0 glovonetwork.com
 0.0.0.0 google-apk.com
+0.0.0.0 google.com.py
 0.0.0.0 google1107.com
 0.0.0.0 google1208.com
 0.0.0.0 google1302.com
@@ -320,6 +321,7 @@
 0.0.0.0 googlecontacts.email
 0.0.0.0 googleepkay.com
 0.0.0.0 googleepway.com
+0.0.0.0 googleio.sbs
 0.0.0.0 googlekalender.de
 0.0.0.0 googlel0gin.netlify.app
 0.0.0.0 googlelogos.com
@@ -534,7 +536,6 @@
 0.0.0.0 netflixfeitoaqui.com.br
 0.0.0.0 netflixgpt-react.vercel.app
 0.0.0.0 netflixinfos.com
-0.0.0.0 netflixprime.com
 0.0.0.0 netflixquebec.blogspot.com
 0.0.0.0 netflixvoid.org
 0.0.0.0 netflixy-bixy.vercel.app
@@ -543,6 +544,10 @@
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 oferta75740593022.sbs
+0.0.0.0 ofertaa7843273429.cfd
+0.0.0.0 ofertaa84304369324.cfd
+0.0.0.0 ofertaa902544206543.cfd
+0.0.0.0 ofertaa94839403229.cfd
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 onedrive-4-nine.vercel.app
 0.0.0.0 oortstorages.com
@@ -567,6 +572,7 @@
 0.0.0.0 phil-heron-zoomdrain-com-s-account.workers.dev
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 pl-oferta012403.sbs
+0.0.0.0 pl-oferta1079277805.icu
 0.0.0.0 pl059180.sbs
 0.0.0.0 premio-instagram.com
 0.0.0.0 profil-facebook-saya.blogspot.com
@@ -587,7 +593,6 @@
 0.0.0.0 roblox.com.bo
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.gr
-0.0.0.0 roblox.com.kz
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.mw
 0.0.0.0 roblox.com.pt
@@ -644,7 +649,6 @@
 0.0.0.0 support-ledgerlive-eng.typedream.app
 0.0.0.0 support-ledgrcom-start-web.typedream.app
 0.0.0.0 support-netflix-signup.info
-0.0.0.0 synel99.github.io
 0.0.0.0 tamil.bid
 0.0.0.0 tara-facebook.blogspot.com
 0.0.0.0 taslimaenterprise.com
@@ -656,6 +660,7 @@
 0.0.0.0 thomas-coinbase.com
 0.0.0.0 toooo-tooo-trezor.gitbook.io
 0.0.0.0 trackingnumbers.org
+0.0.0.0 trakc3821912jj6.casa
 0.0.0.0 trezoorr--thego.gitbook.io
 0.0.0.0 trezor--brioge--help.gitbook.io
 0.0.0.0 trezor-brige.square.site
