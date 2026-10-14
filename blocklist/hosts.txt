@@ -1,21 +1,18 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 733
-# Updated: 2026-10-14T11:53:51Z
+# Entries: 729
+# Updated: 2026-10-14T17:01:49Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
 0.0.0.0 0365-microsoft.gitbook.io
-0.0.0.0 105427.cc
 0.0.0.0 1056804.com
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 12312940.pl
 0.0.0.0 1789503-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
-0.0.0.0 3899118.com
 0.0.0.0 57162055.shop
-0.0.0.0 8078794.cc
 0.0.0.0 921390h.pl
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
@@ -45,7 +42,6 @@
 0.0.0.0 avaturefed.net
 0.0.0.0 axm-amazon.com
 0.0.0.0 b12sites.com
-0.0.0.0 bankofamerica-secure-identity.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
@@ -88,6 +84,7 @@
 0.0.0.0 citrix-sharing.com
 0.0.0.0 click-facebook.blogspot.com
 0.0.0.0 cn-feed-whatsapp.com.cn
+0.0.0.0 coinbase-connetct.vercel.app
 0.0.0.0 coinbase-event.vercel.app
 0.0.0.0 coinbaseprologinv.gitbook.io
 0.0.0.0 coinbaseverify.vercel.app
@@ -119,7 +116,6 @@
 0.0.0.0 dir.com.my
 0.0.0.0 discoveryloft.com
 0.0.0.0 dj-facebook.blogspot.com
-0.0.0.0 doboski.top
 0.0.0.0 docs-google.com
 0.0.0.0 docs-trezor-app.pages.dev
 0.0.0.0 documentsharing.fr
@@ -351,6 +347,7 @@
 0.0.0.0 icloudnotify.help
 0.0.0.0 icloudweb-ext860.click
 0.0.0.0 ideeo.mx
+0.0.0.0 if3729210h85.click
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 info-eng-ledgerlive-learn.typedream.app
 0.0.0.0 info-facebook.blogspot.com
@@ -375,6 +372,7 @@
 0.0.0.0 instagram-frontpage.vercel.app
 0.0.0.0 instagram-inky.vercel.app
 0.0.0.0 instagram-itng.vercel.app
+0.0.0.0 instagram-j088mh6ry-harsh3294.vercel.app
 0.0.0.0 instagram-jennifer.blogspot.com
 0.0.0.0 instagram-lilac-two.vercel.app
 0.0.0.0 instagram-login-page-theta.vercel.app
@@ -503,7 +501,6 @@
 0.0.0.0 microsoft365updates.com
 0.0.0.0 microsoftcrmportals.com
 0.0.0.0 microsoftjk.eu.org
-0.0.0.0 microsoftoffice-o365.com
 0.0.0.0 microsoftpl.biz.pl
 0.0.0.0 microsoftsupportcenter.digital
 0.0.0.0 microsoftuk.co
@@ -545,7 +542,7 @@
 0.0.0.0 no-spotify.com
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nw-facebook.blogspot.com
-0.0.0.0 oferta-873124.cfd
+0.0.0.0 oferta75740593022.sbs
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 onedrive-4-nine.vercel.app
 0.0.0.0 oortstorages.com
@@ -696,7 +693,6 @@
 0.0.0.0 waycobeauty.com
 0.0.0.0 web-conect-us-ledger-live-wallet.typedream.app
 0.0.0.0 web-trezor-io-start-us.vercel.app
-0.0.0.0 web1click.com
 0.0.0.0 webaccess-alert.com
 0.0.0.0 webador.com
 0.0.0.0 webmail-service-xfinity.vercel.app

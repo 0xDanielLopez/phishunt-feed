@@ -1,21 +1,18 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 733
-# Updated: 2026-10-14T11:42:46Z
+# Entries: 730
+# Updated: 2026-10-14T17:06:06Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
 0365-microsoft.gitbook.io
-105427.cc
 1056804.com
 123-facebook.blogspot.com
 12312940.pl
 1789503-coinbase.com
 2017-facebook.blogspot.com
-3899118.com
 57162055.shop
-8078794.cc
 921390h.pl
 a2zapk.co
 a2zapk.dev
@@ -45,7 +42,6 @@ auth.properties
 avaturefed.net
 axm-amazon.com
 b12sites.com
-bankofamerica-secure-identity.ph
 bankofamericamailcompte.blogspot.com
 barcelona-facebook.blogspot.com
 barclays-bank.vercel.app
@@ -88,6 +84,7 @@ checkleaked.cc
 citrix-sharing.com
 click-facebook.blogspot.com
 cn-feed-whatsapp.com.cn
+coinbase-connetct.vercel.app
 coinbase-event.vercel.app
 coinbaseprologinv.gitbook.io
 coinbaseverify.vercel.app
@@ -119,7 +116,6 @@ dhl-express-dev.firebaseapp.com
 dir.com.my
 discoveryloft.com
 dj-facebook.blogspot.com
-doboski.top
 docs-google.com
 docs-trezor-app.pages.dev
 documentsharing.fr
@@ -351,6 +347,7 @@ icloudmydevice.help
 icloudnotify.help
 icloudweb-ext860.click
 ideeo.mx
+if3729210h85.click
 ifotografix.co.uk
 info-eng-ledgerlive-learn.typedream.app
 info-facebook.blogspot.com
@@ -375,6 +372,7 @@ instagram-followers-boost.vercel.app
 instagram-frontpage.vercel.app
 instagram-inky.vercel.app
 instagram-itng.vercel.app
+instagram-j088mh6ry-harsh3294.vercel.app
 instagram-jennifer.blogspot.com
 instagram-lilac-two.vercel.app
 instagram-login-page-theta.vercel.app
@@ -503,7 +501,6 @@ microsoft365businessbasic.com
 microsoft365updates.com
 microsoftcrmportals.com
 microsoftjk.eu.org
-microsoftoffice-o365.com
 microsoftpl.biz.pl
 microsoftsupportcenter.digital
 microsoftuk.co
@@ -545,7 +542,8 @@ network-facebook.blogspot.com
 no-spotify.com
 noreply-icloud.app
 nw-facebook.blogspot.com
-oferta-873124.cfd
+oferta75740593022.sbs
+ofertaa7843273429.cfd
 office365licensingsupport.com
 onedrive-4-nine.vercel.app
 oortstorages.com
@@ -696,7 +694,6 @@ wave-whatsapp.com
 waycobeauty.com
 web-conect-us-ledger-live-wallet.typedream.app
 web-trezor-io-start-us.vercel.app
-web1click.com
 webaccess-alert.com
 webador.com
 webmail-service-xfinity.vercel.app
