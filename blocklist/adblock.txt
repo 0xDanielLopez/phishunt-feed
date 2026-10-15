@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
 ! Entries: 732
-! Updated: 2026-10-15T11:30:51Z
+! Updated: 2026-10-15T17:02:07Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -41,6 +41,7 @@
 ||avaturefed.net^
 ||axm-amazon.com^
 ||bankofamerica-secure-verification-email.ph^
+||bankofamericadirectservices.com^
 ||bankofamericalivesupport.com^
 ||bankofamericamailcompte.blogspot.com^
 ||barcelona-facebook.blogspot.com^
@@ -97,6 +98,7 @@
 ||comcast2.vercel.app^
 ||comcastinfoupdatesnow.weebly.com^
 ||comcastwebmailuser.weebly.com^
+||contaboserver.net^
 ||correosccl.cc^
 ||correoscri.cc^
 ||correosiicr.cc^
@@ -133,6 +135,7 @@
 ||edgeone.dev^
 ||email-microsoft.com^
 ||ember-whatsapp.com^
+||en--help-trezor-wallet-cdn-en.typedream.app^
 ||en-ledgre.pages.dev^
 ||ensuite-trexor.square.site^
 ||epsilons.co^
@@ -310,8 +313,8 @@
 ||ghtmxpfauthideia3consult.us-sea-1.linodeobjects.com^
 ||gloronyan.github.io^
 ||glovonetwork.com^
+||goo.su^
 ||google-apk.com^
-||google.com.py^
 ||google1107.com^
 ||google1208.com^
 ||google1302.com^
@@ -540,10 +543,8 @@
 ||network-facebook.blogspot.com^
 ||no-spotify.com^
 ||noreply-icloud.app^
-||nr-03sn234s.sbs^
 ||nw-facebook.blogspot.com^
 ||oferta05928492759240.cfd^
-||oferta614264265622.cfd^
 ||office365licensingsupport.com^
 ||onedrive-4-nine.vercel.app^
 ||oortstorages.com^
@@ -570,6 +571,7 @@
 ||piedrasdecolon.com.ar^
 ||pl-oferta012403.sbs^
 ||pl-oferta1079277805.icu^
+||pl-oferta2615701.click^
 ||premio-instagram.com^
 ||profil-facebook-saya.blogspot.com^
 ||promorange.co.uk^
@@ -588,7 +590,6 @@
 ||roblox.com.bo^
 ||roblox.com.ee^
 ||roblox.com.gr^
-||roblox.com.ml^
 ||roblox.com.mu^
 ||roblox.com.mw^
 ||roblox.com.pt^
@@ -600,7 +601,6 @@
 ||sagers.com^
 ||samplel-ks6yxvur5-instagramm.vercel.app^
 ||santander-dev-week.vercel.app^
-||santander-newbusiness.es^
 ||santander-remaster-whats-fb-kappa.vercel.app^
 ||santander-remaster-whats-fb.vercel.app^
 ||santanderbizum.com^
@@ -623,6 +623,7 @@
 ||smallflyingarts.net^
 ||soilmatengineers.com^
 ||soydanielc.github.io^
+||spoitiy007.github.io^
 ||spotify-client-beta.vercel.app^
 ||spotifylite.online^
 ||spotifymode.org^
@@ -672,7 +673,6 @@
 ||trustwallet-team-support.github.io^
 ||trustwallet-tokentwtowner.vercel.app^
 ||trustwalletindia-beta.vercel.app^
-||trustwalletsendingpage.netlify.app^
 ||uk-facebook.blogspot.com^
 ||updata.net.cn^
 ||us02-web-zoom.us^
@@ -702,11 +702,11 @@
 ||webador.com^
 ||webmail-service-xfinity.vercel.app^
 ||welcome-trezr-suite.square.site^
+||wetransfer-1.vercel.app^
 ||whatsapp-dp-images.in^
 ||whatsapp-fast.vercel.app^
 ||whatsapp-iamsuyash.vercel.app^
 ||whatsapp-verify.blogspot.com^
-||whatsapp-wep.com^
 ||whatsapp11-cnj.pages.dev^
 ||whatsappapk.org^
 ||whatsappcampaign.online^

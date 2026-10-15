@@ -1,30 +1,33 @@
 {
  "date": "2026-10-15",
- "updated": "2026-10-15T11:30:51Z",
+ "updated": "2026-10-15T17:02:07Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 17,
-  "removed": 21
+  "added": 20,
+  "removed": 24
  },
  "added": [
-  "http://allegrolokalnie.nr-03sn234s.sbs",
-  "http://allegrolokalnie.oferta614264265622.cfd",
   "http://bluesoftsdocrks.com/Docusign/page/",
-  "http://trustwalletsendingpage.netlify.app",
+  "http://en--help-trezor-wallet-cdn-en.typedream.app",
+  "http://spoitiy007.github.io/Spoitiy-Netflix",
   "http://us02-web-zoom.us",
   "http://us03-web-zoom.us",
   "http://us06-web-zoom.us",
   "http://us07-web-zoom.us",
+  "http://wetransfer-1.vercel.app",
   "https://allegrolokalnie.oferta05928492759240.cfd/oferta/kukirin-g2-master-2x2000w-100-km-przebiegu-gwarancja-15-roku-jak-nowa/VYzWQgAt",
+  "https://allegrolokalnie.pl-oferta2615701.click",
+  "https://bankofamericadirectservices.com",
   "https://bankofamericalivesupport.com",
   "https://ghtmxpfauthideia3consult.us-sea-1.linodeobjects.com/onedrive-notify-1791849349676.html",
+  "https://goo.su/seur-26",
   "https://homeloans-wellsfargo-com.sbx.pgsdemo.com/mortgage/az/tempe/brenda-c-chafino-garcia",
   "https://https--www--roblox.com/login?returnUrl=1717572407",
   "https://rj.cultueco.co.uk",
-  "https://roblox.com.ml/users/459448652568/profile",
   "https://soilmatengineers.com",
-  "https://soydanielc.github.io/accounts.google.com/"
+  "https://soydanielc.github.io/accounts.google.com/",
+  "https://vmi3656654.contaboserver.net/Entrega/Entrega/seur/msg.php"
  ],
  "removed": [
   "http://allegro.912398h45.mom",
@@ -44,9 +47,12 @@
   "https://allegrolokalnie.ofertaa94839403229.cfd",
   "https://allegrolokalnie.pl059180.sbs",
   "https://correoscom.website",
+  "https://google.com.py/share.google?q=l5ippNr219sVsLftF",
   "https://googleio.sbs",
   "https://mail.correoscom.website",
   "https://roblox.com.am/users/475418373470/profile",
-  "https://startio-trexor.squarespace.com"
+  "https://santander-newbusiness.es/Web/#/login/access",
+  "https://startio-trexor.squarespace.com",
+  "https://whatsapp-wep.com"
  ]
 }

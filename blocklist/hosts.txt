@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
 # Entries: 732
-# Updated: 2026-10-15T11:30:49Z
+# Updated: 2026-10-15T17:02:06Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -41,6 +41,7 @@
 0.0.0.0 avaturefed.net
 0.0.0.0 axm-amazon.com
 0.0.0.0 bankofamerica-secure-verification-email.ph
+0.0.0.0 bankofamericadirectservices.com
 0.0.0.0 bankofamericalivesupport.com
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 barcelona-facebook.blogspot.com
@@ -97,6 +98,7 @@
 0.0.0.0 comcast2.vercel.app
 0.0.0.0 comcastinfoupdatesnow.weebly.com
 0.0.0.0 comcastwebmailuser.weebly.com
+0.0.0.0 contaboserver.net
 0.0.0.0 correosccl.cc
 0.0.0.0 correoscri.cc
 0.0.0.0 correosiicr.cc
@@ -133,6 +135,7 @@
 0.0.0.0 edgeone.dev
 0.0.0.0 email-microsoft.com
 0.0.0.0 ember-whatsapp.com
+0.0.0.0 en--help-trezor-wallet-cdn-en.typedream.app
 0.0.0.0 en-ledgre.pages.dev
 0.0.0.0 ensuite-trexor.square.site
 0.0.0.0 epsilons.co
@@ -310,8 +313,8 @@
 0.0.0.0 ghtmxpfauthideia3consult.us-sea-1.linodeobjects.com
 0.0.0.0 gloronyan.github.io
 0.0.0.0 glovonetwork.com
+0.0.0.0 goo.su
 0.0.0.0 google-apk.com
-0.0.0.0 google.com.py
 0.0.0.0 google1107.com
 0.0.0.0 google1208.com
 0.0.0.0 google1302.com
@@ -540,10 +543,8 @@
 0.0.0.0 network-facebook.blogspot.com
 0.0.0.0 no-spotify.com
 0.0.0.0 noreply-icloud.app
-0.0.0.0 nr-03sn234s.sbs
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 oferta05928492759240.cfd
-0.0.0.0 oferta614264265622.cfd
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 onedrive-4-nine.vercel.app
 0.0.0.0 oortstorages.com
@@ -570,6 +571,7 @@
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 pl-oferta012403.sbs
 0.0.0.0 pl-oferta1079277805.icu
+0.0.0.0 pl-oferta2615701.click
 0.0.0.0 premio-instagram.com
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 promorange.co.uk
@@ -588,7 +590,6 @@
 0.0.0.0 roblox.com.bo
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.gr
-0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.mw
 0.0.0.0 roblox.com.pt
@@ -600,7 +601,6 @@
 0.0.0.0 sagers.com
 0.0.0.0 samplel-ks6yxvur5-instagramm.vercel.app
 0.0.0.0 santander-dev-week.vercel.app
-0.0.0.0 santander-newbusiness.es
 0.0.0.0 santander-remaster-whats-fb-kappa.vercel.app
 0.0.0.0 santander-remaster-whats-fb.vercel.app
 0.0.0.0 santanderbizum.com
@@ -623,6 +623,7 @@
 0.0.0.0 smallflyingarts.net
 0.0.0.0 soilmatengineers.com
 0.0.0.0 soydanielc.github.io
+0.0.0.0 spoitiy007.github.io
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotifylite.online
 0.0.0.0 spotifymode.org
@@ -672,7 +673,6 @@
 0.0.0.0 trustwallet-team-support.github.io
 0.0.0.0 trustwallet-tokentwtowner.vercel.app
 0.0.0.0 trustwalletindia-beta.vercel.app
-0.0.0.0 trustwalletsendingpage.netlify.app
 0.0.0.0 uk-facebook.blogspot.com
 0.0.0.0 updata.net.cn
 0.0.0.0 us02-web-zoom.us
@@ -702,11 +702,11 @@
 0.0.0.0 webador.com
 0.0.0.0 webmail-service-xfinity.vercel.app
 0.0.0.0 welcome-trezr-suite.square.site
+0.0.0.0 wetransfer-1.vercel.app
 0.0.0.0 whatsapp-dp-images.in
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-iamsuyash.vercel.app
 0.0.0.0 whatsapp-verify.blogspot.com
-0.0.0.0 whatsapp-wep.com
 0.0.0.0 whatsapp11-cnj.pages.dev
 0.0.0.0 whatsappapk.org
 0.0.0.0 whatsappcampaign.online
