@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 732
-! Updated: 2026-10-15T17:02:07Z
+! Entries: 731
+! Updated: 2026-10-15T21:23:37Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -41,7 +41,6 @@
 ||avaturefed.net^
 ||axm-amazon.com^
 ||bankofamerica-secure-verification-email.ph^
-||bankofamericadirectservices.com^
 ||bankofamericalivesupport.com^
 ||bankofamericamailcompte.blogspot.com^
 ||barcelona-facebook.blogspot.com^
@@ -68,7 +67,6 @@
 ||binanceuz.co^
 ||binancewallett.blogspot.com^
 ||biowikiweb.com^
-||bluesoftsdocrks.com^
 ||bnext.es^
 ||brad-facebook.blogspot.com^
 ||bradescosegurosop.com.br^
@@ -102,7 +100,6 @@
 ||correosccl.cc^
 ||correoscri.cc^
 ||correosiicr.cc^
-||correosscri.cc^
 ||creyt.cl^
 ||ct.ws^
 ||cultueco.co.uk^
@@ -334,6 +331,7 @@
 ||googleplaydown.com^
 ||googlepllry.com^
 ||googleplrzy.com^
+||googlestore.cc^
 ||hashnode.dev^
 ||help-instagram.blogspot.com^
 ||hofmemorabilia.ebaymclaren-austin.eventshouse.app^
@@ -344,9 +342,9 @@
 ||hsbc-sec.com^
 ||hsbctds.com^
 ||hstn.me^
-||https--www--roblox.com^
 ||icloud-asisten-official.com^
 ||icloud-location.info^
+||icloudevicesmap.help^
 ||icloudmex-lost.com^
 ||icloudmydevice.help^
 ||icloudnotify.help^
@@ -590,6 +588,7 @@
 ||roblox.com.bo^
 ||roblox.com.ee^
 ||roblox.com.gr^
+||roblox.com.in^
 ||roblox.com.mu^
 ||roblox.com.mw^
 ||roblox.com.pt^
