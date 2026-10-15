@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 738
-! Updated: 2026-10-15T04:40:35Z
+! Entries: 732
+! Updated: 2026-10-15T11:30:51Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -13,7 +13,6 @@
 ||1789503-coinbase.com^
 ||2017-facebook.blogspot.com^
 ||57162055.shop^
-||91238312910g.mom^
 ||921390h.pl^
 ||a2zapk.co^
 ||a2zapk.dev^
@@ -97,7 +96,6 @@
 ||comcast-seven.vercel.app^
 ||comcast2.vercel.app^
 ||comcastinfoupdatesnow.weebly.com^
-||comcastseettings.weebly.com^
 ||comcastwebmailuser.weebly.com^
 ||correosccl.cc^
 ||correoscri.cc^
@@ -105,6 +103,7 @@
 ||correosscri.cc^
 ||creyt.cl^
 ||ct.ws^
+||cultueco.co.uk^
 ||cz-facebook.blogspot.com^
 ||daservglobal.com^
 ||daydreamsonpaper.com^
@@ -350,7 +349,6 @@
 ||icloudnotify.help^
 ||icloudweb-ext860.click^
 ||ideeo.mx^
-||if3729210h85.click^
 ||ifotografix.co.uk^
 ||info-eng-ledgerlive-learn.typedream.app^
 ||info-facebook.blogspot.com^
@@ -544,11 +542,10 @@
 ||noreply-icloud.app^
 ||nr-03sn234s.sbs^
 ||nw-facebook.blogspot.com^
+||oferta05928492759240.cfd^
 ||oferta614264265622.cfd^
-||ofertaa94839403229.cfd^
 ||office365licensingsupport.com^
 ||onedrive-4-nine.vercel.app^
-||onl1ne-whatsapp.pages.dev^
 ||oortstorages.com^
 ||open-instagram.vercel.app^
 ||openai-coin.com^
@@ -624,6 +621,7 @@
 ||sign-in-to-xfinity-updatee.weebly.com^
 ||sk-facebook.blogspot.com^
 ||smallflyingarts.net^
+||soilmatengineers.com^
 ||soydanielc.github.io^
 ||spotify-client-beta.vercel.app^
 ||spotifylite.online^
@@ -631,7 +629,6 @@
 ||spotifypremiumapk.pk^
 ||spotifypremiumz.net^
 ||spotifyprimiumapk.com^
-||squarespace.com^
 ||srpska-banka.com^
 ||srv6-coinbase.com^
 ||sso-ledger-live-strt-ledger-support-cdn.typedream.app^
@@ -683,7 +680,6 @@
 ||us06-web-zoom.us^
 ||us07-web-zoom.us^
 ||usdt-trustwallet-blockchain.vercel.app^
-||userhub-coinbase.com^
 ||uspsaunitedworkforce.com^
 ||uspsecuredlogs.com^
 ||uspss.pages.dev^
@@ -727,11 +723,9 @@
 ||xfinity-updateform.square.site^
 ||xfinity-updateform.weebly.com^
 ||xfinity2.vercel.app^
-||xfinity200212.weebly.com^
 ||xfinitybroadbandnetwork.weebly.com^
 ||xfinityconnectonline.weebly.com^
 ||xfinitymail01.weebly.com^
-||xfinitymail087.weebly.com^
 ||xfinityon.com^
 ||xfinityservicekey.weebly.com^
 ||xfinityservices.vercel.app^

@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 738
-# Updated: 2026-10-15T04:40:34Z
+# Entries: 732
+# Updated: 2026-10-15T11:30:49Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -13,7 +13,6 @@
 0.0.0.0 1789503-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 57162055.shop
-0.0.0.0 91238312910g.mom
 0.0.0.0 921390h.pl
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
@@ -97,7 +96,6 @@
 0.0.0.0 comcast-seven.vercel.app
 0.0.0.0 comcast2.vercel.app
 0.0.0.0 comcastinfoupdatesnow.weebly.com
-0.0.0.0 comcastseettings.weebly.com
 0.0.0.0 comcastwebmailuser.weebly.com
 0.0.0.0 correosccl.cc
 0.0.0.0 correoscri.cc
@@ -105,6 +103,7 @@
 0.0.0.0 correosscri.cc
 0.0.0.0 creyt.cl
 0.0.0.0 ct.ws
+0.0.0.0 cultueco.co.uk
 0.0.0.0 cz-facebook.blogspot.com
 0.0.0.0 daservglobal.com
 0.0.0.0 daydreamsonpaper.com
@@ -350,7 +349,6 @@
 0.0.0.0 icloudnotify.help
 0.0.0.0 icloudweb-ext860.click
 0.0.0.0 ideeo.mx
-0.0.0.0 if3729210h85.click
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 info-eng-ledgerlive-learn.typedream.app
 0.0.0.0 info-facebook.blogspot.com
@@ -544,11 +542,10 @@
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nr-03sn234s.sbs
 0.0.0.0 nw-facebook.blogspot.com
+0.0.0.0 oferta05928492759240.cfd
 0.0.0.0 oferta614264265622.cfd
-0.0.0.0 ofertaa94839403229.cfd
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 onedrive-4-nine.vercel.app
-0.0.0.0 onl1ne-whatsapp.pages.dev
 0.0.0.0 oortstorages.com
 0.0.0.0 open-instagram.vercel.app
 0.0.0.0 openai-coin.com
@@ -624,6 +621,7 @@
 0.0.0.0 sign-in-to-xfinity-updatee.weebly.com
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 smallflyingarts.net
+0.0.0.0 soilmatengineers.com
 0.0.0.0 soydanielc.github.io
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotifylite.online
@@ -631,7 +629,6 @@
 0.0.0.0 spotifypremiumapk.pk
 0.0.0.0 spotifypremiumz.net
 0.0.0.0 spotifyprimiumapk.com
-0.0.0.0 squarespace.com
 0.0.0.0 srpska-banka.com
 0.0.0.0 srv6-coinbase.com
 0.0.0.0 sso-ledger-live-strt-ledger-support-cdn.typedream.app
@@ -683,7 +680,6 @@
 0.0.0.0 us06-web-zoom.us
 0.0.0.0 us07-web-zoom.us
 0.0.0.0 usdt-trustwallet-blockchain.vercel.app
-0.0.0.0 userhub-coinbase.com
 0.0.0.0 uspsaunitedworkforce.com
 0.0.0.0 uspsecuredlogs.com
 0.0.0.0 uspss.pages.dev
@@ -727,11 +723,9 @@
 0.0.0.0 xfinity-updateform.square.site
 0.0.0.0 xfinity-updateform.weebly.com
 0.0.0.0 xfinity2.vercel.app
-0.0.0.0 xfinity200212.weebly.com
 0.0.0.0 xfinitybroadbandnetwork.weebly.com
 0.0.0.0 xfinityconnectonline.weebly.com
 0.0.0.0 xfinitymail01.weebly.com
-0.0.0.0 xfinitymail087.weebly.com
 0.0.0.0 xfinityon.com
 0.0.0.0 xfinityservicekey.weebly.com
 0.0.0.0 xfinityservices.vercel.app
