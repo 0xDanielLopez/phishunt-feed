@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 734
-# Updated: 2026-10-14T21:41:40Z
+# Entries: 738
+# Updated: 2026-10-15T04:40:34Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -13,7 +13,7 @@
 0.0.0.0 1789503-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 57162055.shop
-0.0.0.0 912398h45.mom
+0.0.0.0 91238312910g.mom
 0.0.0.0 921390h.pl
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
@@ -42,6 +42,7 @@
 0.0.0.0 avaturefed.net
 0.0.0.0 axm-amazon.com
 0.0.0.0 bankofamerica-secure-verification-email.ph
+0.0.0.0 bankofamericalivesupport.com
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
@@ -67,6 +68,7 @@
 0.0.0.0 binanceuz.co
 0.0.0.0 binancewallett.blogspot.com
 0.0.0.0 biowikiweb.com
+0.0.0.0 bluesoftsdocrks.com
 0.0.0.0 bnext.es
 0.0.0.0 brad-facebook.blogspot.com
 0.0.0.0 bradescosegurosop.com.br
@@ -98,7 +100,6 @@
 0.0.0.0 comcastseettings.weebly.com
 0.0.0.0 comcastwebmailuser.weebly.com
 0.0.0.0 correosccl.cc
-0.0.0.0 correoscom.website
 0.0.0.0 correoscri.cc
 0.0.0.0 correosiicr.cc
 0.0.0.0 correosscri.cc
@@ -202,7 +203,6 @@
 0.0.0.0 facebook-login0.blogspot.com
 0.0.0.0 facebook-logo.blogspot.com
 0.0.0.0 facebook-mark.blogspot.com
-0.0.0.0 facebook-networks.blogspot.com
 0.0.0.0 facebook-new-security.blogspot.com
 0.0.0.0 facebook-ng.blogspot.com
 0.0.0.0 facebook-notification.blogspot.com
@@ -308,6 +308,7 @@
 0.0.0.0 gestorweb.cl
 0.0.0.0 get-acrobat-adobe.pages.dev
 0.0.0.0 ggzh-google.com.cn
+0.0.0.0 ghtmxpfauthideia3consult.us-sea-1.linodeobjects.com
 0.0.0.0 gloronyan.github.io
 0.0.0.0 glovonetwork.com
 0.0.0.0 google-apk.com
@@ -321,7 +322,6 @@
 0.0.0.0 googlecontacts.email
 0.0.0.0 googleepkay.com
 0.0.0.0 googleepway.com
-0.0.0.0 googleio.sbs
 0.0.0.0 googlekalender.de
 0.0.0.0 googlel0gin.netlify.app
 0.0.0.0 googlelogos.com
@@ -342,6 +342,7 @@
 0.0.0.0 hsbc-sec.com
 0.0.0.0 hsbctds.com
 0.0.0.0 hstn.me
+0.0.0.0 https--www--roblox.com
 0.0.0.0 icloud-asisten-official.com
 0.0.0.0 icloud-location.info
 0.0.0.0 icloudmex-lost.com
@@ -440,7 +441,6 @@
 0.0.0.0 kucoinlogenac.gitbook.io
 0.0.0.0 kucoinloginaa.gitbook.io
 0.0.0.0 kucoinloign.gitbook.io
-0.0.0.0 kup-teraz-62761851.pl
 0.0.0.0 ledger-live-application.com
 0.0.0.0 ledger-live-download-sso-conect.typedream.app
 0.0.0.0 ledger-live-login-web.square.site
@@ -542,14 +542,13 @@
 0.0.0.0 network-facebook.blogspot.com
 0.0.0.0 no-spotify.com
 0.0.0.0 noreply-icloud.app
+0.0.0.0 nr-03sn234s.sbs
 0.0.0.0 nw-facebook.blogspot.com
-0.0.0.0 oferta75740593022.sbs
-0.0.0.0 ofertaa7843273429.cfd
-0.0.0.0 ofertaa84304369324.cfd
-0.0.0.0 ofertaa902544206543.cfd
+0.0.0.0 oferta614264265622.cfd
 0.0.0.0 ofertaa94839403229.cfd
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 onedrive-4-nine.vercel.app
+0.0.0.0 onl1ne-whatsapp.pages.dev
 0.0.0.0 oortstorages.com
 0.0.0.0 open-instagram.vercel.app
 0.0.0.0 openai-coin.com
@@ -569,11 +568,11 @@
 0.0.0.0 paypal-password.blogspot.com
 0.0.0.0 paypalcorp.blogspot.com
 0.0.0.0 pe-facebook.blogspot.com
+0.0.0.0 pgsdemo.com
 0.0.0.0 phil-heron-zoomdrain-com-s-account.workers.dev
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 pl-oferta012403.sbs
 0.0.0.0 pl-oferta1079277805.icu
-0.0.0.0 pl059180.sbs
 0.0.0.0 premio-instagram.com
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 promorange.co.uk
@@ -587,12 +586,12 @@
 0.0.0.0 register-facebook.blogspot.com
 0.0.0.0 rev.it
 0.0.0.0 roblox-login.vercel.app
-0.0.0.0 roblox.com.am
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bo
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.gr
+0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.mw
 0.0.0.0 roblox.com.pt
@@ -625,6 +624,7 @@
 0.0.0.0 sign-in-to-xfinity-updatee.weebly.com
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 smallflyingarts.net
+0.0.0.0 soydanielc.github.io
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotifylite.online
 0.0.0.0 spotifymode.org
@@ -660,7 +660,6 @@
 0.0.0.0 thomas-coinbase.com
 0.0.0.0 toooo-tooo-trezor.gitbook.io
 0.0.0.0 trackingnumbers.org
-0.0.0.0 trakc3821912jj6.casa
 0.0.0.0 trezoorr--thego.gitbook.io
 0.0.0.0 trezor--brioge--help.gitbook.io
 0.0.0.0 trezor-brige.square.site
@@ -676,8 +675,13 @@
 0.0.0.0 trustwallet-team-support.github.io
 0.0.0.0 trustwallet-tokentwtowner.vercel.app
 0.0.0.0 trustwalletindia-beta.vercel.app
+0.0.0.0 trustwalletsendingpage.netlify.app
 0.0.0.0 uk-facebook.blogspot.com
 0.0.0.0 updata.net.cn
+0.0.0.0 us02-web-zoom.us
+0.0.0.0 us03-web-zoom.us
+0.0.0.0 us06-web-zoom.us
+0.0.0.0 us07-web-zoom.us
 0.0.0.0 usdt-trustwallet-blockchain.vercel.app
 0.0.0.0 userhub-coinbase.com
 0.0.0.0 uspsaunitedworkforce.com

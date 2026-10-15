@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 734
-# Updated: 2026-10-14T21:41:39Z
+# Entries: 738
+# Updated: 2026-10-15T04:40:34Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -13,7 +13,7 @@
 1789503-coinbase.com
 2017-facebook.blogspot.com
 57162055.shop
-912398h45.mom
+91238312910g.mom
 921390h.pl
 a2zapk.co
 a2zapk.dev
@@ -42,6 +42,7 @@ auth.properties
 avaturefed.net
 axm-amazon.com
 bankofamerica-secure-verification-email.ph
+bankofamericalivesupport.com
 bankofamericamailcompte.blogspot.com
 barcelona-facebook.blogspot.com
 barclays-bank.vercel.app
@@ -67,6 +68,7 @@ binancereferralid.github.io
 binanceuz.co
 binancewallett.blogspot.com
 biowikiweb.com
+bluesoftsdocrks.com
 bnext.es
 brad-facebook.blogspot.com
 bradescosegurosop.com.br
@@ -98,7 +100,6 @@ comcastinfoupdatesnow.weebly.com
 comcastseettings.weebly.com
 comcastwebmailuser.weebly.com
 correosccl.cc
-correoscom.website
 correoscri.cc
 correosiicr.cc
 correosscri.cc
@@ -202,7 +203,6 @@ facebook-login.vercel.app
 facebook-login0.blogspot.com
 facebook-logo.blogspot.com
 facebook-mark.blogspot.com
-facebook-networks.blogspot.com
 facebook-new-security.blogspot.com
 facebook-ng.blogspot.com
 facebook-notification.blogspot.com
@@ -308,6 +308,7 @@ gercel.app
 gestorweb.cl
 get-acrobat-adobe.pages.dev
 ggzh-google.com.cn
+ghtmxpfauthideia3consult.us-sea-1.linodeobjects.com
 gloronyan.github.io
 glovonetwork.com
 google-apk.com
@@ -321,7 +322,6 @@ googlebusiness.xyz
 googlecontacts.email
 googleepkay.com
 googleepway.com
-googleio.sbs
 googlekalender.de
 googlel0gin.netlify.app
 googlelogos.com
@@ -342,6 +342,7 @@ hot-binance.com.cn
 hsbc-sec.com
 hsbctds.com
 hstn.me
+https--www--roblox.com
 icloud-asisten-official.com
 icloud-location.info
 icloudmex-lost.com
@@ -440,7 +441,6 @@ kucoin-referral-code-pt.vercel.app
 kucoinlogenac.gitbook.io
 kucoinloginaa.gitbook.io
 kucoinloign.gitbook.io
-kup-teraz-62761851.pl
 ledger-live-application.com
 ledger-live-download-sso-conect.typedream.app
 ledger-live-login-web.square.site
@@ -542,14 +542,13 @@ netflixy-bixy.vercel.app
 network-facebook.blogspot.com
 no-spotify.com
 noreply-icloud.app
+nr-03sn234s.sbs
 nw-facebook.blogspot.com
-oferta75740593022.sbs
-ofertaa7843273429.cfd
-ofertaa84304369324.cfd
-ofertaa902544206543.cfd
+oferta614264265622.cfd
 ofertaa94839403229.cfd
 office365licensingsupport.com
 onedrive-4-nine.vercel.app
+onl1ne-whatsapp.pages.dev
 oortstorages.com
 open-instagram.vercel.app
 openai-coin.com
@@ -569,11 +568,11 @@ paypal-logiin.blogspot.com
 paypal-password.blogspot.com
 paypalcorp.blogspot.com
 pe-facebook.blogspot.com
+pgsdemo.com
 phil-heron-zoomdrain-com-s-account.workers.dev
 piedrasdecolon.com.ar
 pl-oferta012403.sbs
 pl-oferta1079277805.icu
-pl059180.sbs
 premio-instagram.com
 profil-facebook-saya.blogspot.com
 promorange.co.uk
@@ -587,12 +586,12 @@ redirecthelp.com
 register-facebook.blogspot.com
 rev.it
 roblox-login.vercel.app
-roblox.com.am
 roblox.com.bi
 roblox.com.bn
 roblox.com.bo
 roblox.com.ee
 roblox.com.gr
+roblox.com.ml
 roblox.com.mu
 roblox.com.mw
 roblox.com.pt
@@ -625,6 +624,7 @@ sigma-whatsapp.com
 sign-in-to-xfinity-updatee.weebly.com
 sk-facebook.blogspot.com
 smallflyingarts.net
+soydanielc.github.io
 spotify-client-beta.vercel.app
 spotifylite.online
 spotifymode.org
@@ -660,7 +660,6 @@ therelayservice.com
 thomas-coinbase.com
 toooo-tooo-trezor.gitbook.io
 trackingnumbers.org
-trakc3821912jj6.casa
 trezoorr--thego.gitbook.io
 trezor--brioge--help.gitbook.io
 trezor-brige.square.site
@@ -676,8 +675,13 @@ trustwallet-secure-check.vercel.app
 trustwallet-team-support.github.io
 trustwallet-tokentwtowner.vercel.app
 trustwalletindia-beta.vercel.app
+trustwalletsendingpage.netlify.app
 uk-facebook.blogspot.com
 updata.net.cn
+us02-web-zoom.us
+us03-web-zoom.us
+us06-web-zoom.us
+us07-web-zoom.us
 usdt-trustwallet-blockchain.vercel.app
 userhub-coinbase.com
 uspsaunitedworkforce.com
