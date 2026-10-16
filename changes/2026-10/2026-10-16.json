@@ -1,0 +1,39 @@
+{
+ "date": "2026-10-16",
+ "updated": "2026-10-16T04:33:06Z",
+ "source": "https://phishunt.io/feed.txt",
+ "license": "CC0-1.0",
+ "counts": {
+  "added": 18,
+  "removed": 7
+ },
+ "added": [
+  "http://401283-outlookmailbox-00012-validate.weebly.com",
+  "http://comcast-3-2.vercel.app",
+  "http://comcast-3-3.vercel.app",
+  "http://comcast-3.vercel.app",
+  "http://desktop-ledger-live-crypto-wallet.typedream.app",
+  "http://kucoinlogisafe.webflow.io",
+  "http://metamask-docs-4q672pqsp-consensys-ddffed67.vercel.app/services",
+  "http://net-kucoin-com-login.typedream.app",
+  "http://sso-coinbase-com-cdn-x--auth.typedream.app",
+  "http://todo--facebook.blogspot.com",
+  "https://coinbase.am.in",
+  "https://facebooks.com.vn/100-de-tinh-hoa?a&amp%3Bl",
+  "https://https-wwwv-roblox.co/login?returnUrl=1165039450",
+  "https://netflixverify.github.io/review/",
+  "https://nhhydraulik.co.in/secure/Adobe_Installer.html",
+  "https://roblox.com.ml/users/327905892343/profile",
+  "https://usps-server.serv00.net",
+  "https://wellsfargovantagedesk.com"
+ ],
+ "removed": [
+  "http://allegro.921390h.pl",
+  "https://allegrolokalnie.oferta05928492759240.cfd/oferta/kukirin-g2-master-2x2000w-100-km-przebiegu-gwarancja-15-roku-jak-nowa/VYzWQgAt",
+  "https://facebook-vn.blogspot.com/?m=1",
+  "https://ghtmxpfauthideia3consult.us-sea-1.linodeobjects.com/onedrive-notify-1791849349676.html",
+  "https://hotmail.com-desenrolabrasil481475208@176.189.202.64.host.secureserver.net/desenrola/",
+  "https://icloud-asisten-official.com",
+  "https://instagram-verifications.blogspot.com/?m=1"
+ ]
+}

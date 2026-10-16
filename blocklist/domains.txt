@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 731
-# Updated: 2026-10-15T21:22:51Z
+# Entries: 743
+# Updated: 2026-10-16T04:33:04Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -12,8 +12,8 @@
 12312940.pl
 1789503-coinbase.com
 2017-facebook.blogspot.com
+401283-outlookmailbox-00012-validate.weebly.com
 57162055.shop
-921390h.pl
 a2zapk.co
 a2zapk.dev
 account-instagram.vercel.app
@@ -85,12 +85,16 @@ click-facebook.blogspot.com
 cn-feed-whatsapp.com.cn
 coinbase-connetct.vercel.app
 coinbase-event.vercel.app
+coinbase.am.in
 coinbaseprologinv.gitbook.io
 coinbaseverify.vercel.app
 collectableswall.ebaymclaren-austin.eventshouse.app
 com-microsoftonline-ondrive.ca
 comcast-2-iota.vercel.app
 comcast-2.vercel.app
+comcast-3-2.vercel.app
+comcast-3-3.vercel.app
+comcast-3.vercel.app
 comcast-ebon.vercel.app
 comcast-seven.vercel.app
 comcast2.vercel.app
@@ -109,6 +113,7 @@ daydreamsonpaper.com
 de-paypal-sec.com
 de5.net
 deluxxe.com.br
+desktop-ledger-live-crypto-wallet.typedream.app
 desktop-ledgrecdn.wixstudio.com
 dhl-express-dev.firebaseapp.com
 dir.com.my
@@ -233,7 +238,6 @@ facebook-verify.blogspot.com
 facebook-video-share.blogspot.com
 facebook-visitantes.blogspot.com
 facebook-vn-com.blogspot.com
-facebook-vn.blogspot.com
 facebook-vu.blogspot.com
 facebook1019key.blogspot.com
 facebook7-facebook.blogspot.com
@@ -285,6 +289,7 @@ facebooknenys.blogspot.com
 facebookpagemanagement.com
 facebookpageslinkk.blogspot.com
 facebookprofilelinks.blogspot.com
+facebooks.com.vn
 facebooksecure.blogspot.com
 facebooksecurityhelp.blogspot.com
 facebookshops.best
@@ -307,7 +312,6 @@ gercel.app
 gestorweb.cl
 get-acrobat-adobe.pages.dev
 ggzh-google.com.cn
-ghtmxpfauthideia3consult.us-sea-1.linodeobjects.com
 gloronyan.github.io
 glovonetwork.com
 goo.su
@@ -342,7 +346,7 @@ hot-binance.com.cn
 hsbc-sec.com
 hsbctds.com
 hstn.me
-icloud-asisten-official.com
+https-wwwv-roblox.co
 icloud-location.info
 icloudevicesmap.help
 icloudmex-lost.com
@@ -392,7 +396,6 @@ instagram-test.vercel.app
 instagram-tip.blogspot.com
 instagram-users.blogspot.com
 instagram-usman-haider.vercel.app
-instagram-verifications.blogspot.com
 instagram157.github.io
 instagram90sedition.vercel.app
 instagramaaps-code.github.io
@@ -439,6 +442,7 @@ kraken-tor.co.com
 kucoin-referral-code-pt.vercel.app
 kucoinlogenac.gitbook.io
 kucoinloginaa.gitbook.io
+kucoinlogisafe.webflow.io
 kucoinloign.gitbook.io
 ledger-live-application.com
 ledger-live-download-sso-conect.typedream.app
@@ -476,6 +480,7 @@ meet-googlee7823629056.pages.dev
 meme-facebook.blogspot.com
 metamask-ai-agent.vercel.app
 metamask-connect.vercel.app
+metamask-docs-4q672pqsp-consensys-ddffed67.vercel.app
 metamask-docs-ldkp21iks-consensys-ddffed67.vercel.app
 metamask-launchpad.vercel.app
 metamask-login.vercel.app
@@ -516,6 +521,7 @@ my-facebook-blog.blogspot.com
 mytemp.website
 nbpublic.com
 neda-facebook.blogspot.com
+net-kucoin-com-login.typedream.app
 netflix-71f05.firebaseapp.com
 netflix-colombia.vercel.app
 netflix-cop.vercel.app
@@ -536,13 +542,14 @@ netflixfeitoaqui.com.br
 netflixgpt-react.vercel.app
 netflixinfos.com
 netflixquebec.blogspot.com
+netflixverify.github.io
 netflixvoid.org
 netflixy-bixy.vercel.app
 network-facebook.blogspot.com
+nhhydraulik.co.in
 no-spotify.com
 noreply-icloud.app
 nw-facebook.blogspot.com
-oferta05928492759240.cfd
 office365licensingsupport.com
 onedrive-4-nine.vercel.app
 oortstorages.com
@@ -589,6 +596,7 @@ roblox.com.bo
 roblox.com.ee
 roblox.com.gr
 roblox.com.in
+roblox.com.ml
 roblox.com.mu
 roblox.com.mw
 roblox.com.pt
@@ -612,6 +620,7 @@ secure-webs-kucoin-en.typedream.app
 securedsupport-coinbase.com
 secureserver.net
 send-secure-trustwallet-usdt-bip20.vercel.app
+serv00.net
 services-facebook.blogspot.com
 seureonline.shop
 shopping-shop.jp
@@ -631,6 +640,7 @@ spotifypremiumz.net
 spotifyprimiumapk.com
 srpska-banka.com
 srv6-coinbase.com
+sso-coinbase-com-cdn-x--auth.typedream.app
 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 start-ledgerlive-com-web.typedream.app
 start-ledgren.zapier.app
@@ -655,6 +665,7 @@ test-facebook.blogspot.com
 theamazon.vercel.app
 therelayservice.com
 thomas-coinbase.com
+todo--facebook.blogspot.com
 toooo-tooo-trezor.gitbook.io
 trackingnumbers.org
 trezoorr--thego.gitbook.io
@@ -701,6 +712,7 @@ webaccess-alert.com
 webador.com
 webmail-service-xfinity.vercel.app
 welcome-trezr-suite.square.site
+wellsfargovantagedesk.com
 wetransfer-1.vercel.app
 whatsapp-dp-images.in
 whatsapp-fast.vercel.app
