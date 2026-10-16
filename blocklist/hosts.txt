@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 733
-# Updated: 2026-10-16T11:25:42Z
+# Entries: 735
+# Updated: 2026-10-16T16:40:10Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -39,6 +39,7 @@
 0.0.0.0 auth.properties
 0.0.0.0 avaturefed.net
 0.0.0.0 axm-amazon.com
+0.0.0.0 backblazeb2.com
 0.0.0.0 bankofamericalivesupport.com
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 barcelona-facebook.blogspot.com
@@ -103,12 +104,12 @@
 0.0.0.0 ct.ws
 0.0.0.0 cultueco.co.uk
 0.0.0.0 cz-facebook.blogspot.com
+0.0.0.0 danielnegru.com
 0.0.0.0 daservglobal.com
 0.0.0.0 daydreamsonpaper.com
 0.0.0.0 de-paypal-sec.com
 0.0.0.0 de5.net
 0.0.0.0 deluxxe.com.br
-0.0.0.0 desktop-ledger-live-crypto-wallet.typedream.app
 0.0.0.0 desktop-ledgrecdn.wixstudio.com
 0.0.0.0 dhl-express-dev.firebaseapp.com
 0.0.0.0 dir.com.my
@@ -133,7 +134,7 @@
 0.0.0.0 edgeone.dev
 0.0.0.0 email-microsoft.com
 0.0.0.0 ember-whatsapp.com
-0.0.0.0 en--help-trezor-wallet-cdn-en.typedream.app
+0.0.0.0 en-home-trezore.pages.dev
 0.0.0.0 en-ledgre.pages.dev
 0.0.0.0 ensuite-trexor.square.site
 0.0.0.0 epsilons.co
@@ -344,7 +345,6 @@
 0.0.0.0 hstn.me
 0.0.0.0 https-wwwv-roblox.co
 0.0.0.0 icloud-location.info
-0.0.0.0 icloudevicesmap.help
 0.0.0.0 icloudmex-lost.com
 0.0.0.0 icloudmydevice.help
 0.0.0.0 icloudnotify.help
@@ -420,11 +420,11 @@
 0.0.0.0 instagramunblockedd.vercel.app
 0.0.0.0 instagramusicabrasilinstagram.blogspot.com
 0.0.0.0 internal-alerts.com
-0.0.0.0 intomahost2.com
 0.0.0.0 invreceiptslinkedin.com
 0.0.0.0 io-en-trezo.square.site
 0.0.0.0 io-trezo-secure.square.site
 0.0.0.0 io-trezrn-eng.pages.dev
+0.0.0.0 iostart-trezrioapps.framer.website
 0.0.0.0 isha-dev.com
 0.0.0.0 itau-com.vercel.app
 0.0.0.0 itau-snowy.vercel.app
@@ -439,15 +439,17 @@
 0.0.0.0 kucoinlogenac.gitbook.io
 0.0.0.0 kucoinloginaa.gitbook.io
 0.0.0.0 kucoinlogisafe.webflow.io
+0.0.0.0 kucoinlognz.gitbook.io
 0.0.0.0 kucoinloign.gitbook.io
+0.0.0.0 laptopsupdate.com
 0.0.0.0 ledger-live-application.com
 0.0.0.0 ledger-live-download-sso-conect.typedream.app
 0.0.0.0 ledger-live-login-web.square.site
+0.0.0.0 ledger-live-wallet-cloud-us-web.typedream.app
 0.0.0.0 ledgrelivapp--crome.typedream.app
 0.0.0.0 leia-santander.vercel.app
 0.0.0.0 linkedin-antanim.vercel.app
 0.0.0.0 lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
-0.0.0.0 lnk.ink
 0.0.0.0 lobologisticgroup.com.mx
 0.0.0.0 lobster-cloud.com
 0.0.0.0 localisation-icloud.click
@@ -473,6 +475,7 @@
 0.0.0.0 meet-googlee46347975696.pages.dev
 0.0.0.0 meet-googlee7563454656.pages.dev
 0.0.0.0 meet-googlee7823629056.pages.dev
+0.0.0.0 melvingoodman7507.github.io
 0.0.0.0 meme-facebook.blogspot.com
 0.0.0.0 metamask-ai-agent.vercel.app
 0.0.0.0 metamask-connect.vercel.app
@@ -517,7 +520,6 @@
 0.0.0.0 mytemp.website
 0.0.0.0 nbpublic.com
 0.0.0.0 neda-facebook.blogspot.com
-0.0.0.0 net-kucoin-com-login.typedream.app
 0.0.0.0 netflix-71f05.firebaseapp.com
 0.0.0.0 netflix-colombia.vercel.app
 0.0.0.0 netflix-cop.vercel.app
@@ -525,6 +527,7 @@
 0.0.0.0 netflix-homepage-pi.vercel.app
 0.0.0.0 netflix-lake.vercel.app
 0.0.0.0 netflix-recovery.com
+0.0.0.0 netflix-sandy-alpha.vercel.app
 0.0.0.0 netflix-two-mu.vercel.app
 0.0.0.0 netflix-web-site-three.vercel.app
 0.0.0.0 netflix.surf
@@ -571,7 +574,6 @@
 0.0.0.0 phil-heron-zoomdrain-com-s-account.workers.dev
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 pl-oferta012403.sbs
-0.0.0.0 pl-oferta1079277805.icu
 0.0.0.0 pl-oferta2615701.click
 0.0.0.0 premio-instagram.com
 0.0.0.0 profil-facebook-saya.blogspot.com
@@ -585,6 +587,7 @@
 0.0.0.0 redirecthelp.com
 0.0.0.0 register-facebook.blogspot.com
 0.0.0.0 rev.it
+0.0.0.0 riverai7z.com
 0.0.0.0 roblox-login.vercel.app
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
@@ -592,7 +595,6 @@
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.in
-0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mu
 0.0.0.0 roblox.com.mw
 0.0.0.0 roblox.com.pt
@@ -694,6 +696,8 @@
 0.0.0.0 verifytoken.com
 0.0.0.0 viewclass.com
 0.0.0.0 vinted-technologies.live
+0.0.0.0 vodafone-business-berlin.de
+0.0.0.0 vodafone-business-berlin.store
 0.0.0.0 vodafone-on-line.it
 0.0.0.0 vpnuse.eu.org
 0.0.0.0 wasmer.app
@@ -705,7 +709,6 @@
 0.0.0.0 webador.com
 0.0.0.0 webmail-service-xfinity.vercel.app
 0.0.0.0 welcome-trezr-suite.square.site
-0.0.0.0 wellsfargovantagedesk.com
 0.0.0.0 wetransfer-1.vercel.app
 0.0.0.0 whatsapp-dp-images.in
 0.0.0.0 whatsapp-fast.vercel.app
@@ -720,7 +723,6 @@
 0.0.0.0 wooflers.com
 0.0.0.0 ww-facebook.blogspot.com
 0.0.0.0 www-app-google.com
-0.0.0.0 www-apple.support
 0.0.0.0 www-google.cn
 0.0.0.0 www-hk-google.com
 0.0.0.0 wwww-linkedin.be

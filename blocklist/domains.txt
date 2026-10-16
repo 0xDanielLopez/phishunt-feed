@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 733
-# Updated: 2026-10-16T11:25:42Z
+# Entries: 735
+# Updated: 2026-10-16T16:37:21Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -39,6 +39,7 @@ asso-entrautres.fr
 auth.properties
 avaturefed.net
 axm-amazon.com
+backblazeb2.com
 bankofamericalivesupport.com
 bankofamericamailcompte.blogspot.com
 barcelona-facebook.blogspot.com
@@ -103,12 +104,12 @@ creyt.cl
 ct.ws
 cultueco.co.uk
 cz-facebook.blogspot.com
+danielnegru.com
 daservglobal.com
 daydreamsonpaper.com
 de-paypal-sec.com
 de5.net
 deluxxe.com.br
-desktop-ledger-live-crypto-wallet.typedream.app
 desktop-ledgrecdn.wixstudio.com
 dhl-express-dev.firebaseapp.com
 dir.com.my
@@ -133,7 +134,7 @@ ebaymevip.com
 edgeone.dev
 email-microsoft.com
 ember-whatsapp.com
-en--help-trezor-wallet-cdn-en.typedream.app
+en-home-trezore.pages.dev
 en-ledgre.pages.dev
 ensuite-trexor.square.site
 epsilons.co
@@ -344,7 +345,6 @@ hsbctds.com
 hstn.me
 https-wwwv-roblox.co
 icloud-location.info
-icloudevicesmap.help
 icloudmex-lost.com
 icloudmydevice.help
 icloudnotify.help
@@ -420,11 +420,11 @@ instagramsupportverify.blogspot.com
 instagramunblockedd.vercel.app
 instagramusicabrasilinstagram.blogspot.com
 internal-alerts.com
-intomahost2.com
 invreceiptslinkedin.com
 io-en-trezo.square.site
 io-trezo-secure.square.site
 io-trezrn-eng.pages.dev
+iostart-trezrioapps.framer.website
 isha-dev.com
 itau-com.vercel.app
 itau-snowy.vercel.app
@@ -439,15 +439,17 @@ kucoin-referral-code-pt.vercel.app
 kucoinlogenac.gitbook.io
 kucoinloginaa.gitbook.io
 kucoinlogisafe.webflow.io
+kucoinlognz.gitbook.io
 kucoinloign.gitbook.io
+laptopsupdate.com
 ledger-live-application.com
 ledger-live-download-sso-conect.typedream.app
 ledger-live-login-web.square.site
+ledger-live-wallet-cloud-us-web.typedream.app
 ledgrelivapp--crome.typedream.app
 leia-santander.vercel.app
 linkedin-antanim.vercel.app
 lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
-lnk.ink
 lobologisticgroup.com.mx
 lobster-cloud.com
 localisation-icloud.click
@@ -473,6 +475,7 @@ mclarenf1car.ebaymclaren-austin.eventshouse.app
 meet-googlee46347975696.pages.dev
 meet-googlee7563454656.pages.dev
 meet-googlee7823629056.pages.dev
+melvingoodman7507.github.io
 meme-facebook.blogspot.com
 metamask-ai-agent.vercel.app
 metamask-connect.vercel.app
@@ -517,7 +520,6 @@ my-facebook-blog.blogspot.com
 mytemp.website
 nbpublic.com
 neda-facebook.blogspot.com
-net-kucoin-com-login.typedream.app
 netflix-71f05.firebaseapp.com
 netflix-colombia.vercel.app
 netflix-cop.vercel.app
@@ -525,6 +527,7 @@ netflix-coral-zeta.vercel.app
 netflix-homepage-pi.vercel.app
 netflix-lake.vercel.app
 netflix-recovery.com
+netflix-sandy-alpha.vercel.app
 netflix-two-mu.vercel.app
 netflix-web-site-three.vercel.app
 netflix.surf
@@ -571,7 +574,6 @@ pgsdemo.com
 phil-heron-zoomdrain-com-s-account.workers.dev
 piedrasdecolon.com.ar
 pl-oferta012403.sbs
-pl-oferta1079277805.icu
 pl-oferta2615701.click
 premio-instagram.com
 profil-facebook-saya.blogspot.com
@@ -585,6 +587,7 @@ recreate-instagrampage.vercel.app
 redirecthelp.com
 register-facebook.blogspot.com
 rev.it
+riverai7z.com
 roblox-login.vercel.app
 roblox.com.bi
 roblox.com.bn
@@ -592,7 +595,6 @@ roblox.com.bo
 roblox.com.ee
 roblox.com.gr
 roblox.com.in
-roblox.com.ml
 roblox.com.mu
 roblox.com.mw
 roblox.com.pt
@@ -694,6 +696,8 @@ verifyaccount-google.com
 verifytoken.com
 viewclass.com
 vinted-technologies.live
+vodafone-business-berlin.de
+vodafone-business-berlin.store
 vodafone-on-line.it
 vpnuse.eu.org
 wasmer.app
@@ -705,7 +709,6 @@ webaccess-alert.com
 webador.com
 webmail-service-xfinity.vercel.app
 welcome-trezr-suite.square.site
-wellsfargovantagedesk.com
 wetransfer-1.vercel.app
 whatsapp-dp-images.in
 whatsapp-fast.vercel.app
@@ -720,7 +723,6 @@ windows-ledger-live.typedream.app
 wooflers.com
 ww-facebook.blogspot.com
 www-app-google.com
-www-apple.support
 www-google.cn
 www-hk-google.com
 wwww-linkedin.be
