@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 735
-# Updated: 2026-10-16T16:40:10Z
+# Entries: 730
+# Updated: 2026-10-16T21:09:38Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -14,8 +14,11 @@
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 401283-outlookmailbox-00012-validate.weebly.com
 0.0.0.0 57162055.shop
+0.0.0.0 58121.top
+0.0.0.0 812319h54h54.forum
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
+0.0.0.0 account-google-com-pdfdeocumentresd.cfd
 0.0.0.0 account-instagram.vercel.app
 0.0.0.0 adobedelcielo.com
 0.0.0.0 adobeexperience.com.br
@@ -39,8 +42,6 @@
 0.0.0.0 auth.properties
 0.0.0.0 avaturefed.net
 0.0.0.0 axm-amazon.com
-0.0.0.0 backblazeb2.com
-0.0.0.0 bankofamericalivesupport.com
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
@@ -70,7 +71,6 @@
 0.0.0.0 bradescosegurosop.com.br
 0.0.0.0 buscarmi-icloud.app
 0.0.0.0 business-dropbox.me
-0.0.0.0 careers-openai.com
 0.0.0.0 carsscanned.ebaymclaren-austin.eventshouse.app
 0.0.0.0 cashapp-liart.vercel.app
 0.0.0.0 cashappps.com
@@ -102,6 +102,7 @@
 0.0.0.0 correosiicr.cc
 0.0.0.0 creyt.cl
 0.0.0.0 ct.ws
+0.0.0.0 cuenta-bbva.com
 0.0.0.0 cultueco.co.uk
 0.0.0.0 cz-facebook.blogspot.com
 0.0.0.0 danielnegru.com
@@ -297,6 +298,7 @@
 0.0.0.0 facebookuserlogin.blogspot.com
 0.0.0.0 facebookverifyyouraccount.blogspot.com
 0.0.0.0 facebookwebsite9.blogspot.com
+0.0.0.0 fedexblack.com
 0.0.0.0 fedexcargo.delivery
 0.0.0.0 fedexsv.com
 0.0.0.0 fedexwp.com
@@ -343,7 +345,6 @@
 0.0.0.0 hsbc-sec.com
 0.0.0.0 hsbctds.com
 0.0.0.0 hstn.me
-0.0.0.0 https-wwwv-roblox.co
 0.0.0.0 icloud-location.info
 0.0.0.0 icloudmex-lost.com
 0.0.0.0 icloudmydevice.help
@@ -441,7 +442,6 @@
 0.0.0.0 kucoinlogisafe.webflow.io
 0.0.0.0 kucoinlognz.gitbook.io
 0.0.0.0 kucoinloign.gitbook.io
-0.0.0.0 laptopsupdate.com
 0.0.0.0 ledger-live-application.com
 0.0.0.0 ledger-live-download-sso-conect.typedream.app
 0.0.0.0 ledger-live-login-web.square.site
@@ -573,7 +573,6 @@
 0.0.0.0 pgsdemo.com
 0.0.0.0 phil-heron-zoomdrain-com-s-account.workers.dev
 0.0.0.0 piedrasdecolon.com.ar
-0.0.0.0 pl-oferta012403.sbs
 0.0.0.0 pl-oferta2615701.click
 0.0.0.0 premio-instagram.com
 0.0.0.0 profil-facebook-saya.blogspot.com
@@ -681,10 +680,6 @@
 0.0.0.0 trustwalletindia-beta.vercel.app
 0.0.0.0 uk-facebook.blogspot.com
 0.0.0.0 updata.net.cn
-0.0.0.0 us02-web-zoom.us
-0.0.0.0 us03-web-zoom.us
-0.0.0.0 us06-web-zoom.us
-0.0.0.0 us07-web-zoom.us
 0.0.0.0 usdt-trustwallet-blockchain.vercel.app
 0.0.0.0 uspsaunitedworkforce.com
 0.0.0.0 uspsecuredlogs.com

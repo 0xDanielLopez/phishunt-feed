@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 735
-# Updated: 2026-10-16T16:37:21Z
+# Entries: 730
+# Updated: 2026-10-16T21:09:38Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -14,8 +14,11 @@
 2017-facebook.blogspot.com
 401283-outlookmailbox-00012-validate.weebly.com
 57162055.shop
+58121.top
+812319h54h54.forum
 a2zapk.co
 a2zapk.dev
+account-google-com-pdfdeocumentresd.cfd
 account-instagram.vercel.app
 adobedelcielo.com
 adobeexperience.com.br
@@ -39,8 +42,6 @@ asso-entrautres.fr
 auth.properties
 avaturefed.net
 axm-amazon.com
-backblazeb2.com
-bankofamericalivesupport.com
 bankofamericamailcompte.blogspot.com
 barcelona-facebook.blogspot.com
 barclays-bank.vercel.app
@@ -70,7 +71,6 @@ brad-facebook.blogspot.com
 bradescosegurosop.com.br
 buscarmi-icloud.app
 business-dropbox.me
-careers-openai.com
 carsscanned.ebaymclaren-austin.eventshouse.app
 cashapp-liart.vercel.app
 cashappps.com
@@ -102,6 +102,7 @@ correoscri.cc
 correosiicr.cc
 creyt.cl
 ct.ws
+cuenta-bbva.com
 cultueco.co.uk
 cz-facebook.blogspot.com
 danielnegru.com
@@ -297,6 +298,7 @@ facebookuseraccount.blogspot.com
 facebookuserlogin.blogspot.com
 facebookverifyyouraccount.blogspot.com
 facebookwebsite9.blogspot.com
+fedexblack.com
 fedexcargo.delivery
 fedexsv.com
 fedexwp.com
@@ -343,7 +345,6 @@ hot-binance.com.cn
 hsbc-sec.com
 hsbctds.com
 hstn.me
-https-wwwv-roblox.co
 icloud-location.info
 icloudmex-lost.com
 icloudmydevice.help
@@ -441,7 +442,6 @@ kucoinloginaa.gitbook.io
 kucoinlogisafe.webflow.io
 kucoinlognz.gitbook.io
 kucoinloign.gitbook.io
-laptopsupdate.com
 ledger-live-application.com
 ledger-live-download-sso-conect.typedream.app
 ledger-live-login-web.square.site
@@ -573,7 +573,6 @@ pe-facebook.blogspot.com
 pgsdemo.com
 phil-heron-zoomdrain-com-s-account.workers.dev
 piedrasdecolon.com.ar
-pl-oferta012403.sbs
 pl-oferta2615701.click
 premio-instagram.com
 profil-facebook-saya.blogspot.com
@@ -681,10 +680,6 @@ trustwallet-tokentwtowner.vercel.app
 trustwalletindia-beta.vercel.app
 uk-facebook.blogspot.com
 updata.net.cn
-us02-web-zoom.us
-us03-web-zoom.us
-us06-web-zoom.us
-us07-web-zoom.us
 usdt-trustwallet-blockchain.vercel.app
 uspsaunitedworkforce.com
 uspsecuredlogs.com
