@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 743
-# Updated: 2026-10-16T04:33:05Z
+# Entries: 733
+# Updated: 2026-10-16T11:25:42Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -25,7 +25,6 @@
 0.0.0.0 alibaba188.org
 0.0.0.0 alibaba99.com
 0.0.0.0 alibabaexclusifyx.com
-0.0.0.0 alibabatextilebd.com
 0.0.0.0 amazon-harshdeep.vercel.app
 0.0.0.0 amazon-opfq.vercel.app
 0.0.0.0 ancoradourohotel.com.br
@@ -40,7 +39,6 @@
 0.0.0.0 auth.properties
 0.0.0.0 avaturefed.net
 0.0.0.0 axm-amazon.com
-0.0.0.0 bankofamerica-secure-verification-email.ph
 0.0.0.0 bankofamericalivesupport.com
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 barcelona-facebook.blogspot.com
@@ -59,7 +57,6 @@
 0.0.0.0 binance-referral-code-btcbonus.vercel.app
 0.0.0.0 binance-register.blogspot.com
 0.0.0.0 binance-tr-cekilis.com
-0.0.0.0 binanceaa.com
 0.0.0.0 binanceii.com
 0.0.0.0 binancelivetrade.blogspot.com
 0.0.0.0 binancenn.com
@@ -98,8 +95,6 @@
 0.0.0.0 comcast-ebon.vercel.app
 0.0.0.0 comcast-seven.vercel.app
 0.0.0.0 comcast2.vercel.app
-0.0.0.0 comcastinfoupdatesnow.weebly.com
-0.0.0.0 comcastwebmailuser.weebly.com
 0.0.0.0 contaboserver.net
 0.0.0.0 correosccl.cc
 0.0.0.0 correoscri.cc
@@ -121,6 +116,7 @@
 0.0.0.0 dj-facebook.blogspot.com
 0.0.0.0 docs-google.com
 0.0.0.0 docs-trezor-app.pages.dev
+0.0.0.0 docsewallet.com
 0.0.0.0 documentsharing.fr
 0.0.0.0 docusign.one
 0.0.0.0 dothome.co.kr
@@ -626,7 +622,6 @@
 0.0.0.0 shopping-shop.jp
 0.0.0.0 shopweb.com.vn
 0.0.0.0 sigma-whatsapp.com
-0.0.0.0 sign-in-to-xfinity-updatee.weebly.com
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 smallflyingarts.net
 0.0.0.0 soilmatengineers.com
@@ -640,7 +635,6 @@
 0.0.0.0 spotifyprimiumapk.com
 0.0.0.0 srpska-banka.com
 0.0.0.0 srv6-coinbase.com
-0.0.0.0 sso-coinbase-com-cdn-x--auth.typedream.app
 0.0.0.0 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 0.0.0.0 start-ledgerlive-com-web.typedream.app
 0.0.0.0 start-ledgren.zapier.app
@@ -696,7 +690,6 @@
 0.0.0.0 uspssmartparcellocker.tech
 0.0.0.0 v0-exodus-wallet-app.vercel.app
 0.0.0.0 v0-instagram-accounts.vercel.app
-0.0.0.0 ve-whatsapp.com
 0.0.0.0 verifyaccount-google.com
 0.0.0.0 verifytoken.com
 0.0.0.0 viewclass.com
@@ -731,11 +724,8 @@
 0.0.0.0 www-google.cn
 0.0.0.0 www-hk-google.com
 0.0.0.0 wwww-linkedin.be
-0.0.0.0 xfinity-updateform.square.site
-0.0.0.0 xfinity-updateform.weebly.com
 0.0.0.0 xfinity2.vercel.app
 0.0.0.0 xfinitybroadbandnetwork.weebly.com
-0.0.0.0 xfinityconnectonline.weebly.com
 0.0.0.0 xfinitymail01.weebly.com
 0.0.0.0 xfinityon.com
 0.0.0.0 xfinityservicekey.weebly.com

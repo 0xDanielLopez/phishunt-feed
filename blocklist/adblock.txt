@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 743
-! Updated: 2026-10-16T04:33:06Z
+! Entries: 733
+! Updated: 2026-10-16T11:25:43Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -25,7 +25,6 @@
 ||alibaba188.org^
 ||alibaba99.com^
 ||alibabaexclusifyx.com^
-||alibabatextilebd.com^
 ||amazon-harshdeep.vercel.app^
 ||amazon-opfq.vercel.app^
 ||ancoradourohotel.com.br^
@@ -40,7 +39,6 @@
 ||auth.properties^
 ||avaturefed.net^
 ||axm-amazon.com^
-||bankofamerica-secure-verification-email.ph^
 ||bankofamericalivesupport.com^
 ||bankofamericamailcompte.blogspot.com^
 ||barcelona-facebook.blogspot.com^
@@ -59,7 +57,6 @@
 ||binance-referral-code-btcbonus.vercel.app^
 ||binance-register.blogspot.com^
 ||binance-tr-cekilis.com^
-||binanceaa.com^
 ||binanceii.com^
 ||binancelivetrade.blogspot.com^
 ||binancenn.com^
@@ -98,8 +95,6 @@
 ||comcast-ebon.vercel.app^
 ||comcast-seven.vercel.app^
 ||comcast2.vercel.app^
-||comcastinfoupdatesnow.weebly.com^
-||comcastwebmailuser.weebly.com^
 ||contaboserver.net^
 ||correosccl.cc^
 ||correoscri.cc^
@@ -121,6 +116,7 @@
 ||dj-facebook.blogspot.com^
 ||docs-google.com^
 ||docs-trezor-app.pages.dev^
+||docsewallet.com^
 ||documentsharing.fr^
 ||docusign.one^
 ||dothome.co.kr^
@@ -626,7 +622,6 @@
 ||shopping-shop.jp^
 ||shopweb.com.vn^
 ||sigma-whatsapp.com^
-||sign-in-to-xfinity-updatee.weebly.com^
 ||sk-facebook.blogspot.com^
 ||smallflyingarts.net^
 ||soilmatengineers.com^
@@ -640,7 +635,6 @@
 ||spotifyprimiumapk.com^
 ||srpska-banka.com^
 ||srv6-coinbase.com^
-||sso-coinbase-com-cdn-x--auth.typedream.app^
 ||sso-ledger-live-strt-ledger-support-cdn.typedream.app^
 ||start-ledgerlive-com-web.typedream.app^
 ||start-ledgren.zapier.app^
@@ -696,7 +690,6 @@
 ||uspssmartparcellocker.tech^
 ||v0-exodus-wallet-app.vercel.app^
 ||v0-instagram-accounts.vercel.app^
-||ve-whatsapp.com^
 ||verifyaccount-google.com^
 ||verifytoken.com^
 ||viewclass.com^
@@ -731,11 +724,8 @@
 ||www-google.cn^
 ||www-hk-google.com^
 ||wwww-linkedin.be^
-||xfinity-updateform.square.site^
-||xfinity-updateform.weebly.com^
 ||xfinity2.vercel.app^
 ||xfinitybroadbandnetwork.weebly.com^
-||xfinityconnectonline.weebly.com^
 ||xfinitymail01.weebly.com^
 ||xfinityon.com^
 ||xfinityservicekey.weebly.com^
