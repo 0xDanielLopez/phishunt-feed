@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 740
-# Updated: 2026-10-17T18:02:55Z
+# Entries: 731
+# Updated: 2026-10-17T20:37:09Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -382,7 +382,6 @@
 0.0.0.0 instagram-frontpage.vercel.app
 0.0.0.0 instagram-inky.vercel.app
 0.0.0.0 instagram-itng.vercel.app
-0.0.0.0 instagram-j088mh6ry-harsh3294.vercel.app
 0.0.0.0 instagram-jennifer.blogspot.com
 0.0.0.0 instagram-lilac-two.vercel.app
 0.0.0.0 instagram-login-page-theta.vercel.app
@@ -480,13 +479,10 @@
 0.0.0.0 meet-googlee46347975696.pages.dev
 0.0.0.0 meet-googlee7563454656.pages.dev
 0.0.0.0 meet-googlee7823629056.pages.dev
-0.0.0.0 melvingoodman7507.github.io
 0.0.0.0 meme-facebook.blogspot.com
 0.0.0.0 metamask-30.gitbook.io
 0.0.0.0 metamask-ai-agent.vercel.app
 0.0.0.0 metamask-connect.vercel.app
-0.0.0.0 metamask-docs-4q672pqsp-consensys-ddffed67.vercel.app
-0.0.0.0 metamask-docs-ldkp21iks-consensys-ddffed67.vercel.app
 0.0.0.0 metamask-launchpad.vercel.app
 0.0.0.0 metamask-login.vercel.app
 0.0.0.0 metamask-six.vercel.app
@@ -511,7 +507,6 @@
 0.0.0.0 microsoft365businessbasic.com
 0.0.0.0 microsoft365updates.com
 0.0.0.0 microsoftauth.sbs
-0.0.0.0 microsoftcrmportals.com
 0.0.0.0 microsoftjk.eu.org
 0.0.0.0 microsoftpl.biz.pl
 0.0.0.0 microsoftsupportcenter.digital
@@ -577,7 +572,6 @@
 0.0.0.0 paypal-password.blogspot.com
 0.0.0.0 paypalcorp.blogspot.com
 0.0.0.0 pe-facebook.blogspot.com
-0.0.0.0 pgsdemo.com
 0.0.0.0 phil-heron-zoomdrain-com-s-account.workers.dev
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 plxnm2814.mom
@@ -633,11 +627,9 @@
 0.0.0.0 smar9128h045h45.beer
 0.0.0.0 soilmatengineers.com
 0.0.0.0 soydanielc.github.io
-0.0.0.0 spoitiy007.github.io
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotifylite.online
 0.0.0.0 spotifymode.org
-0.0.0.0 spotifymusic-myapp.netlify.app
 0.0.0.0 spotifypremiumapk.pk
 0.0.0.0 spotifypremiumz.net
 0.0.0.0 spotifyprimiumapk.com
@@ -668,7 +660,6 @@
 0.0.0.0 therelayservice.com
 0.0.0.0 thomas-coinbase.com
 0.0.0.0 ticket-fedex.com
-0.0.0.0 todo--facebook.blogspot.com
 0.0.0.0 toooo-tooo-trezor.gitbook.io
 0.0.0.0 trackingnumbers.org
 0.0.0.0 trezoorr--thego.gitbook.io

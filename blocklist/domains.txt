@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 740
-# Updated: 2026-10-17T18:02:50Z
+# Entries: 731
+# Updated: 2026-10-17T20:23:01Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -382,7 +382,6 @@ instagram-followers-boost.vercel.app
 instagram-frontpage.vercel.app
 instagram-inky.vercel.app
 instagram-itng.vercel.app
-instagram-j088mh6ry-harsh3294.vercel.app
 instagram-jennifer.blogspot.com
 instagram-lilac-two.vercel.app
 instagram-login-page-theta.vercel.app
@@ -480,13 +479,10 @@ mclarenf1car.ebaymclaren-austin.eventshouse.app
 meet-googlee46347975696.pages.dev
 meet-googlee7563454656.pages.dev
 meet-googlee7823629056.pages.dev
-melvingoodman7507.github.io
 meme-facebook.blogspot.com
 metamask-30.gitbook.io
 metamask-ai-agent.vercel.app
 metamask-connect.vercel.app
-metamask-docs-4q672pqsp-consensys-ddffed67.vercel.app
-metamask-docs-ldkp21iks-consensys-ddffed67.vercel.app
 metamask-launchpad.vercel.app
 metamask-login.vercel.app
 metamask-six.vercel.app
@@ -511,7 +507,6 @@ microsoft0117.vercel.app
 microsoft365businessbasic.com
 microsoft365updates.com
 microsoftauth.sbs
-microsoftcrmportals.com
 microsoftjk.eu.org
 microsoftpl.biz.pl
 microsoftsupportcenter.digital
@@ -577,7 +572,6 @@ paypal-logiin.blogspot.com
 paypal-password.blogspot.com
 paypalcorp.blogspot.com
 pe-facebook.blogspot.com
-pgsdemo.com
 phil-heron-zoomdrain-com-s-account.workers.dev
 piedrasdecolon.com.ar
 plxnm2814.mom
@@ -633,11 +627,9 @@ smallflyingarts.net
 smar9128h045h45.beer
 soilmatengineers.com
 soydanielc.github.io
-spoitiy007.github.io
 spotify-client-beta.vercel.app
 spotifylite.online
 spotifymode.org
-spotifymusic-myapp.netlify.app
 spotifypremiumapk.pk
 spotifypremiumz.net
 spotifyprimiumapk.com
@@ -668,7 +660,6 @@ theamazon.vercel.app
 therelayservice.com
 thomas-coinbase.com
 ticket-fedex.com
-todo--facebook.blogspot.com
 toooo-tooo-trezor.gitbook.io
 trackingnumbers.org
 trezoorr--thego.gitbook.io
