@@ -1,10 +1,10 @@
 {
  "date": "2026-10-17",
- "updated": "2026-10-17T15:36:40Z",
+ "updated": "2026-10-17T18:02:56Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 28,
+  "added": 39,
   "removed": 18
  },
  "added": [
@@ -17,6 +17,8 @@
   "http://spotifymusic-myapp.netlify.app",
   "http://test-test-google-test.netlify.app",
   "https://adim.life",
+  "https://adobepdfbook.com",
+  "https://adobesensedrive.space",
   "https://allegro.123019jh86j.help",
   "https://allegro.1230945h.forum",
   "https://allegro.123123g5h4.casa",
@@ -25,16 +27,25 @@
   "https://allegro.9384012f5g.help",
   "https://allegro.smar9128h045h45.beer",
   "https://allegrolokalnie.plxnm2814.mom/samsung-galaxy-z-fold-7-512-gb/95406",
+  "https://bankofamerica-secure-platform.ph",
   "https://bankofamerica-secure-verification-alert.ph",
+  "https://bankofamericaautoloans.ph",
   "https://bankofamericaoversight.ph",
   "https://f005.backblazeb2.com/file/yttyytg/xfinityyyy.comcky.html",
   "https://googleadsgdoubleclicks.net",
+  "https://googleauthorization.com",
+  "https://googleppy.com",
+  "https://googles6yf.com",
+  "https://googlet0np.com",
   "https://mail.account-payment.netflix.20-172-202-170.cpanel.site",
   "https://metamask-30.gitbook.io",
+  "https://microsoftauth.sbs",
   "https://outlook-login.github.io/Validar",
   "https://roblox.com.bz/users/5324142924/profile",
+  "https://ticket-fedex.com",
   "https://trezor.pt",
   "https://vodafone-business-berlin.com",
+  "https://wellsfargo-secure-login.beauty",
   "https://www.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-125-38.cpanel.site"
  ],
  "removed": [

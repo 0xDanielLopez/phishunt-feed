@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
 # Entries: 740
-# Updated: 2026-10-17T15:32:59Z
+# Updated: 2026-10-17T18:02:50Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -9,13 +9,8 @@
 0365-microsoft.gitbook.io
 1056804.com
 123-facebook.blogspot.com
-123019jh86j.help
-1230945h.forum
-123123g5h4.casa
 12312940.pl
-1234819hj6jh.forum
 123990h45-45.casa
-12h845o546j.forum
 1789503-coinbase.com
 2017-facebook.blogspot.com
 401283-outlookmailbox-00012-validate.weebly.com
@@ -28,6 +23,8 @@ adim.life
 adobedelcielo.com
 adobeexperience.com.br
 adobeinstaller-virid.vercel.app
+adobepdfbook.com
+adobesensedrive.space
 agenciadlx.com.br
 alerta-appleid.info
 alibaba188.org
@@ -48,6 +45,7 @@ auth.properties
 avaturefed.net
 axm-amazon.com
 backblazeb2.com
+bankofamerica-secure-platform.ph
 bankofamerica-secure-verification-alert.ph
 bankofamericamailcompte.blogspot.com
 bankofamericaoversight.ph
@@ -115,7 +113,6 @@ cultueco.co.uk
 cz-facebook.blogspot.com
 danielnegru.com
 daservglobal.com
-daydreamsonpaper.com
 de-paypal-sec.com
 de5.net
 deluxxe.com.br
@@ -126,7 +123,6 @@ discoveryloft.com
 dj-facebook.blogspot.com
 docs-google.com
 docs-trezor-app.pages.dev
-docsewallet.com
 documentsharing.fr
 docusign.one
 dothome.co.kr
@@ -327,6 +323,7 @@ google1302.com
 google1308.com
 google2play.com
 googleadsgdoubleclicks.net
+googleauthorization.com
 googlebusiness.xyz
 googlecontacts.email
 googleepkay.com
@@ -341,7 +338,10 @@ googleplaiby.com
 googleplaydown.com
 googlepllry.com
 googleplrzy.com
+googleppy.com
+googles6yf.com
 googlestore.cc
+googlet0np.com
 hashnode.dev
 help-instagram.blogspot.com
 hofmemorabilia.ebaymclaren-austin.eventshouse.app
@@ -467,7 +467,6 @@ login-page-instagram.vercel.app
 login.rmdbwskx.santander.bimp-bot.duckdns.org
 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 logowanie-facebook.vercel.app
-lokalna-ofera02001021023442.shop
 love-facebook.blogspot.com
 lovefive-facebook.blogspot.com
 luxora.qpon
@@ -511,6 +510,7 @@ microsoft-ssl.com
 microsoft0117.vercel.app
 microsoft365businessbasic.com
 microsoft365updates.com
+microsoftauth.sbs
 microsoftcrmportals.com
 microsoftjk.eu.org
 microsoftpl.biz.pl
@@ -657,7 +657,6 @@ suiteapp-trezrr.wixstudio.com
 support-instagram.github.io
 support-ledgerlive-eng.typedream.app
 support-ledgrcom-start-web.typedream.app
-support-netflix-signup.info
 tamil.bid
 tara-facebook.blogspot.com
 taslimaenterprise.com
@@ -668,6 +667,7 @@ test-test-google-test.netlify.app
 theamazon.vercel.app
 therelayservice.com
 thomas-coinbase.com
+ticket-fedex.com
 todo--facebook.blogspot.com
 toooo-tooo-trezor.gitbook.io
 trackingnumbers.org
@@ -714,6 +714,7 @@ webaccess-alert.com
 webador.com
 webmail-service-xfinity.vercel.app
 welcome-trezr-suite.square.site
+wellsfargo-secure-login.beauty
 wetransfer-1.vercel.app
 whatsapp-dp-images.in
 whatsapp-fast.vercel.app
@@ -737,7 +738,6 @@ xfinityon.com
 xfinityservicekey.weebly.com
 xfinityservices.vercel.app
 yonataxi.at
-yp49v128x1.forum
 yzz.me
 z-facebook.blogspot.com
 z-instagram.blogspot.com

@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
 # Entries: 740
-# Updated: 2026-10-17T15:36:39Z
+# Updated: 2026-10-17T18:02:55Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -9,13 +9,8 @@
 0.0.0.0 0365-microsoft.gitbook.io
 0.0.0.0 1056804.com
 0.0.0.0 123-facebook.blogspot.com
-0.0.0.0 123019jh86j.help
-0.0.0.0 1230945h.forum
-0.0.0.0 123123g5h4.casa
 0.0.0.0 12312940.pl
-0.0.0.0 1234819hj6jh.forum
 0.0.0.0 123990h45-45.casa
-0.0.0.0 12h845o546j.forum
 0.0.0.0 1789503-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 401283-outlookmailbox-00012-validate.weebly.com
@@ -28,6 +23,8 @@
 0.0.0.0 adobedelcielo.com
 0.0.0.0 adobeexperience.com.br
 0.0.0.0 adobeinstaller-virid.vercel.app
+0.0.0.0 adobepdfbook.com
+0.0.0.0 adobesensedrive.space
 0.0.0.0 agenciadlx.com.br
 0.0.0.0 alerta-appleid.info
 0.0.0.0 alibaba188.org
@@ -48,6 +45,7 @@
 0.0.0.0 avaturefed.net
 0.0.0.0 axm-amazon.com
 0.0.0.0 backblazeb2.com
+0.0.0.0 bankofamerica-secure-platform.ph
 0.0.0.0 bankofamerica-secure-verification-alert.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 bankofamericaoversight.ph
@@ -115,7 +113,6 @@
 0.0.0.0 cz-facebook.blogspot.com
 0.0.0.0 danielnegru.com
 0.0.0.0 daservglobal.com
-0.0.0.0 daydreamsonpaper.com
 0.0.0.0 de-paypal-sec.com
 0.0.0.0 de5.net
 0.0.0.0 deluxxe.com.br
@@ -126,7 +123,6 @@
 0.0.0.0 dj-facebook.blogspot.com
 0.0.0.0 docs-google.com
 0.0.0.0 docs-trezor-app.pages.dev
-0.0.0.0 docsewallet.com
 0.0.0.0 documentsharing.fr
 0.0.0.0 docusign.one
 0.0.0.0 dothome.co.kr
@@ -327,6 +323,7 @@
 0.0.0.0 google1308.com
 0.0.0.0 google2play.com
 0.0.0.0 googleadsgdoubleclicks.net
+0.0.0.0 googleauthorization.com
 0.0.0.0 googlebusiness.xyz
 0.0.0.0 googlecontacts.email
 0.0.0.0 googleepkay.com
@@ -341,7 +338,10 @@
 0.0.0.0 googleplaydown.com
 0.0.0.0 googlepllry.com
 0.0.0.0 googleplrzy.com
+0.0.0.0 googleppy.com
+0.0.0.0 googles6yf.com
 0.0.0.0 googlestore.cc
+0.0.0.0 googlet0np.com
 0.0.0.0 hashnode.dev
 0.0.0.0 help-instagram.blogspot.com
 0.0.0.0 hofmemorabilia.ebaymclaren-austin.eventshouse.app
@@ -467,7 +467,6 @@
 0.0.0.0 login.rmdbwskx.santander.bimp-bot.duckdns.org
 0.0.0.0 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 0.0.0.0 logowanie-facebook.vercel.app
-0.0.0.0 lokalna-ofera02001021023442.shop
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 luxora.qpon
@@ -511,6 +510,7 @@
 0.0.0.0 microsoft0117.vercel.app
 0.0.0.0 microsoft365businessbasic.com
 0.0.0.0 microsoft365updates.com
+0.0.0.0 microsoftauth.sbs
 0.0.0.0 microsoftcrmportals.com
 0.0.0.0 microsoftjk.eu.org
 0.0.0.0 microsoftpl.biz.pl
@@ -657,7 +657,6 @@
 0.0.0.0 support-instagram.github.io
 0.0.0.0 support-ledgerlive-eng.typedream.app
 0.0.0.0 support-ledgrcom-start-web.typedream.app
-0.0.0.0 support-netflix-signup.info
 0.0.0.0 tamil.bid
 0.0.0.0 tara-facebook.blogspot.com
 0.0.0.0 taslimaenterprise.com
@@ -668,6 +667,7 @@
 0.0.0.0 theamazon.vercel.app
 0.0.0.0 therelayservice.com
 0.0.0.0 thomas-coinbase.com
+0.0.0.0 ticket-fedex.com
 0.0.0.0 todo--facebook.blogspot.com
 0.0.0.0 toooo-tooo-trezor.gitbook.io
 0.0.0.0 trackingnumbers.org
@@ -714,6 +714,7 @@
 0.0.0.0 webador.com
 0.0.0.0 webmail-service-xfinity.vercel.app
 0.0.0.0 welcome-trezr-suite.square.site
+0.0.0.0 wellsfargo-secure-login.beauty
 0.0.0.0 wetransfer-1.vercel.app
 0.0.0.0 whatsapp-dp-images.in
 0.0.0.0 whatsapp-fast.vercel.app
@@ -737,7 +738,6 @@
 0.0.0.0 xfinityservicekey.weebly.com
 0.0.0.0 xfinityservices.vercel.app
 0.0.0.0 yonataxi.at
-0.0.0.0 yp49v128x1.forum
 0.0.0.0 yzz.me
 0.0.0.0 z-facebook.blogspot.com
 0.0.0.0 z-instagram.blogspot.com
