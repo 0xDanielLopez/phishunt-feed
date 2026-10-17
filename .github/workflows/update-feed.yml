@@ -23,7 +23,7 @@ env:
 
 jobs:
   update:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04  # pin: ubuntu-latest migra a 26.04 del 19-10 al 19-11; quitar cuando se valide 26.04
     steps:
       - uses: actions/checkout@v4
 
