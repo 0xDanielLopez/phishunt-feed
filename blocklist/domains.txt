@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 736
-# Updated: 2026-10-17T10:31:43Z
+# Entries: 740
+# Updated: 2026-10-17T15:32:59Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -89,6 +89,7 @@ checkleaked.cc
 citrix-sharing.com
 click-facebook.blogspot.com
 cn-feed-whatsapp.com.cn
+co-conect-ledger-live-wallet.typedream.app
 coinbase-connetct.vercel.app
 coinbase-event.vercel.app
 coinbase.am.in
@@ -343,7 +344,6 @@ googleplrzy.com
 googlestore.cc
 hashnode.dev
 help-instagram.blogspot.com
-hipercromo.com.br
 hofmemorabilia.ebaymclaren-austin.eventshouse.app
 holdings-coinbase.com
 home-facebook.blogspot.com
@@ -447,6 +447,7 @@ kucoinloginaa.gitbook.io
 kucoinlognz.gitbook.io
 kucoinloign.gitbook.io
 ledger-live-application.com
+ledger-live-donload-web.typedream.app
 ledger-live-download-sso-conect.typedream.app
 ledger-live-login-web.square.site
 ledger-live-wallet-cloud-us-web.typedream.app
@@ -564,6 +565,7 @@ openseaproks007.vercel.app
 openseavxr.vercel.app
 orbit-whatsapp.com
 ossama-instagram.vercel.app
+outlook-login.github.io
 outlook-serv-coral.vercel.app
 outlookindia.com
 outlookmail.social
@@ -578,6 +580,7 @@ pe-facebook.blogspot.com
 pgsdemo.com
 phil-heron-zoomdrain-com-s-account.workers.dev
 piedrasdecolon.com.ar
+plxnm2814.mom
 premio-instagram.com
 profil-facebook-saya.blogspot.com
 promorange.co.uk
@@ -590,7 +593,6 @@ recreate-instagrampage.vercel.app
 redirecthelp.com
 register-facebook.blogspot.com
 rev.it
-riverai7z.com
 roblox-login.vercel.app
 roblox.com.bi
 roblox.com.bn
@@ -662,6 +664,7 @@ taslimaenterprise.com
 tb-facebook.blogspot.com
 temporary.site
 test-facebook.blogspot.com
+test-test-google-test.netlify.app
 theamazon.vercel.app
 therelayservice.com
 thomas-coinbase.com
@@ -697,6 +700,7 @@ verifyaccount-google.com
 verifytoken.com
 viewclass.com
 vinted-technologies.live
+vodafone-business-berlin.com
 vodafone-business-berlin.de
 vodafone-business-berlin.store
 vodafone-on-line.it

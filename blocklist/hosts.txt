@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 736
-# Updated: 2026-10-17T10:45:51Z
+# Entries: 740
+# Updated: 2026-10-17T15:36:39Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -89,6 +89,7 @@
 0.0.0.0 citrix-sharing.com
 0.0.0.0 click-facebook.blogspot.com
 0.0.0.0 cn-feed-whatsapp.com.cn
+0.0.0.0 co-conect-ledger-live-wallet.typedream.app
 0.0.0.0 coinbase-connetct.vercel.app
 0.0.0.0 coinbase-event.vercel.app
 0.0.0.0 coinbase.am.in
@@ -343,7 +344,6 @@
 0.0.0.0 googlestore.cc
 0.0.0.0 hashnode.dev
 0.0.0.0 help-instagram.blogspot.com
-0.0.0.0 hipercromo.com.br
 0.0.0.0 hofmemorabilia.ebaymclaren-austin.eventshouse.app
 0.0.0.0 holdings-coinbase.com
 0.0.0.0 home-facebook.blogspot.com
@@ -447,6 +447,7 @@
 0.0.0.0 kucoinlognz.gitbook.io
 0.0.0.0 kucoinloign.gitbook.io
 0.0.0.0 ledger-live-application.com
+0.0.0.0 ledger-live-donload-web.typedream.app
 0.0.0.0 ledger-live-download-sso-conect.typedream.app
 0.0.0.0 ledger-live-login-web.square.site
 0.0.0.0 ledger-live-wallet-cloud-us-web.typedream.app
@@ -564,6 +565,7 @@
 0.0.0.0 openseavxr.vercel.app
 0.0.0.0 orbit-whatsapp.com
 0.0.0.0 ossama-instagram.vercel.app
+0.0.0.0 outlook-login.github.io
 0.0.0.0 outlook-serv-coral.vercel.app
 0.0.0.0 outlookindia.com
 0.0.0.0 outlookmail.social
@@ -578,6 +580,7 @@
 0.0.0.0 pgsdemo.com
 0.0.0.0 phil-heron-zoomdrain-com-s-account.workers.dev
 0.0.0.0 piedrasdecolon.com.ar
+0.0.0.0 plxnm2814.mom
 0.0.0.0 premio-instagram.com
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 promorange.co.uk
@@ -590,7 +593,6 @@
 0.0.0.0 redirecthelp.com
 0.0.0.0 register-facebook.blogspot.com
 0.0.0.0 rev.it
-0.0.0.0 riverai7z.com
 0.0.0.0 roblox-login.vercel.app
 0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bn
@@ -662,6 +664,7 @@
 0.0.0.0 tb-facebook.blogspot.com
 0.0.0.0 temporary.site
 0.0.0.0 test-facebook.blogspot.com
+0.0.0.0 test-test-google-test.netlify.app
 0.0.0.0 theamazon.vercel.app
 0.0.0.0 therelayservice.com
 0.0.0.0 thomas-coinbase.com
@@ -697,6 +700,7 @@
 0.0.0.0 verifytoken.com
 0.0.0.0 viewclass.com
 0.0.0.0 vinted-technologies.live
+0.0.0.0 vodafone-business-berlin.com
 0.0.0.0 vodafone-business-berlin.de
 0.0.0.0 vodafone-business-berlin.store
 0.0.0.0 vodafone-on-line.it
