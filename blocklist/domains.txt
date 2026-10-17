@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 730
-# Updated: 2026-10-16T21:09:38Z
+# Entries: 737
+# Updated: 2026-10-17T04:27:55Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -9,16 +9,18 @@
 0365-microsoft.gitbook.io
 1056804.com
 123-facebook.blogspot.com
+123019jh86j.help
+1230945h.forum
+123123g5h4.casa
 12312940.pl
+1234819hj6jh.forum
+12h845o546j.forum
 1789503-coinbase.com
 2017-facebook.blogspot.com
 401283-outlookmailbox-00012-validate.weebly.com
 57162055.shop
-58121.top
-812319h54h54.forum
 a2zapk.co
 a2zapk.dev
-account-google-com-pdfdeocumentresd.cfd
 account-instagram.vercel.app
 adobedelcielo.com
 adobeexperience.com.br
@@ -30,6 +32,7 @@ alibaba99.com
 alibabaexclusifyx.com
 amazon-harshdeep.vercel.app
 amazon-opfq.vercel.app
+amazon-play.com
 ancoradourohotel.com.br
 ani-facebook.blogspot.com
 apk-google.cn
@@ -42,7 +45,12 @@ asso-entrautres.fr
 auth.properties
 avaturefed.net
 axm-amazon.com
+backblazeb2.com
+bankofamerica-secure-customerservice.ph
+bankofamerica-secure-resources.ph
+bankofamerica-secure-verification-alert.ph
 bankofamericamailcompte.blogspot.com
+bankofamericaoversight.ph
 barcelona-facebook.blogspot.com
 barclays-bank.vercel.app
 bbva-hiring-paperless.appspot.com
@@ -96,13 +104,12 @@ comcast-3.vercel.app
 comcast-ebon.vercel.app
 comcast-seven.vercel.app
 comcast2.vercel.app
-contaboserver.net
 correosccl.cc
 correoscri.cc
 correosiicr.cc
+cpanel.site
 creyt.cl
 ct.ws
-cuenta-bbva.com
 cultueco.co.uk
 cz-facebook.blogspot.com
 danielnegru.com
@@ -309,11 +316,9 @@ fwh.is
 gafiatechnologies.com
 gercel.app
 gestorweb.cl
-get-acrobat-adobe.pages.dev
 ggzh-google.com.cn
 gloronyan.github.io
 glovonetwork.com
-goo.su
 google-apk.com
 google1107.com
 google1208.com
@@ -337,6 +342,7 @@ googleplrzy.com
 googlestore.cc
 hashnode.dev
 help-instagram.blogspot.com
+hipercromo.com.br
 hofmemorabilia.ebaymclaren-austin.eventshouse.app
 holdings-coinbase.com
 home-facebook.blogspot.com
@@ -415,7 +421,6 @@ instagramlogin77.blogspot.com
 instagramlogin99.blogspot.com
 instagramloginpage111.blogspot.com
 instagramloginpassword.blogspot.com
-instagramrecovery.blogspot.com
 instagramsnp.blogspot.com
 instagramsupportverify.blogspot.com
 instagramunblockedd.vercel.app
@@ -425,7 +430,6 @@ invreceiptslinkedin.com
 io-en-trezo.square.site
 io-trezo-secure.square.site
 io-trezrn-eng.pages.dev
-iostart-trezrioapps.framer.website
 isha-dev.com
 itau-com.vercel.app
 itau-snowy.vercel.app
@@ -446,6 +450,7 @@ ledger-live-application.com
 ledger-live-download-sso-conect.typedream.app
 ledger-live-login-web.square.site
 ledger-live-wallet-cloud-us-web.typedream.app
+ledgerlive-us-learn.typedream.app
 ledgrelivapp--crome.typedream.app
 leia-santander.vercel.app
 linkedin-antanim.vercel.app
@@ -477,6 +482,7 @@ meet-googlee7563454656.pages.dev
 meet-googlee7823629056.pages.dev
 melvingoodman7507.github.io
 meme-facebook.blogspot.com
+metamask-30.gitbook.io
 metamask-ai-agent.vercel.app
 metamask-connect.vercel.app
 metamask-docs-4q672pqsp-consensys-ddffed67.vercel.app
@@ -573,7 +579,6 @@ pe-facebook.blogspot.com
 pgsdemo.com
 phil-heron-zoomdrain-com-s-account.workers.dev
 piedrasdecolon.com.ar
-pl-oferta2615701.click
 premio-instagram.com
 profil-facebook-saya.blogspot.com
 promorange.co.uk
@@ -591,10 +596,10 @@ roblox-login.vercel.app
 roblox.com.bi
 roblox.com.bn
 roblox.com.bo
+roblox.com.bz
 roblox.com.ee
 roblox.com.gr
-roblox.com.in
-roblox.com.mu
+roblox.com.ml
 roblox.com.mw
 roblox.com.pt
 roblox.rw
@@ -613,7 +618,6 @@ saque-instagram.com
 search.er.in
 secure-coinbase-com-sign-in.typedream.app
 secure-dropbox.ist
-secure-webs-kucoin-en.typedream.app
 securedsupport-coinbase.com
 secureserver.net
 send-secure-trustwallet-usdt-bip20.vercel.app
@@ -631,6 +635,7 @@ spoitiy007.github.io
 spotify-client-beta.vercel.app
 spotifylite.online
 spotifymode.org
+spotifymusic-myapp.netlify.app
 spotifypremiumapk.pk
 spotifypremiumz.net
 spotifyprimiumapk.com
@@ -668,6 +673,7 @@ trezor--brioge--help.gitbook.io
 trezor-brige.square.site
 trezor-login-guide.square.site
 trezor-login-us-auth-start.typedream.app
+trezor.pt
 trezorguide.vercel.app
 trezorrgoappup.gitbook.io
 trust-wallet-customer-support-number.github.io
@@ -728,6 +734,7 @@ xfinityon.com
 xfinityservicekey.weebly.com
 xfinityservices.vercel.app
 yonataxi.at
+yp49v128x1.forum
 yzz.me
 z-facebook.blogspot.com
 z-instagram.blogspot.com
