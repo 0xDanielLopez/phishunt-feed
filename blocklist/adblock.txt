@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 737
-! Updated: 2026-10-17T04:27:56Z
+! Entries: 736
+! Updated: 2026-10-17T10:45:52Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -14,14 +14,17 @@
 ||123123g5h4.casa^
 ||12312940.pl^
 ||1234819hj6jh.forum^
+||123990h45-45.casa^
 ||12h845o546j.forum^
 ||1789503-coinbase.com^
 ||2017-facebook.blogspot.com^
 ||401283-outlookmailbox-00012-validate.weebly.com^
 ||57162055.shop^
+||9384012f5g.help^
 ||a2zapk.co^
 ||a2zapk.dev^
 ||account-instagram.vercel.app^
+||adim.life^
 ||adobedelcielo.com^
 ||adobeexperience.com.br^
 ||adobeinstaller-virid.vercel.app^
@@ -32,7 +35,6 @@
 ||alibabaexclusifyx.com^
 ||amazon-harshdeep.vercel.app^
 ||amazon-opfq.vercel.app^
-||amazon-play.com^
 ||ancoradourohotel.com.br^
 ||ani-facebook.blogspot.com^
 ||apk-google.cn^
@@ -46,8 +48,6 @@
 ||avaturefed.net^
 ||axm-amazon.com^
 ||backblazeb2.com^
-||bankofamerica-secure-customerservice.ph^
-||bankofamerica-secure-resources.ph^
 ||bankofamerica-secure-verification-alert.ph^
 ||bankofamericamailcompte.blogspot.com^
 ||bankofamericaoversight.ph^
@@ -325,6 +325,7 @@
 ||google1302.com^
 ||google1308.com^
 ||google2play.com^
+||googleadsgdoubleclicks.net^
 ||googlebusiness.xyz^
 ||googlecontacts.email^
 ||googleepkay.com^
@@ -443,7 +444,6 @@
 ||kucoin-referral-code-pt.vercel.app^
 ||kucoinlogenac.gitbook.io^
 ||kucoinloginaa.gitbook.io^
-||kucoinlogisafe.webflow.io^
 ||kucoinlognz.gitbook.io^
 ||kucoinloign.gitbook.io^
 ||ledger-live-application.com^
@@ -517,7 +517,6 @@
 ||microsoftuk.co^
 ||microsoftwordob.blogspot.com^
 ||mirror-google.com^
-||misilabario.cl^
 ||ml-facebook.blogspot.com^
 ||mobile-google.cn^
 ||more-ledgerlive-en.typedream.app^
@@ -629,6 +628,7 @@
 ||sigma-whatsapp.com^
 ||sk-facebook.blogspot.com^
 ||smallflyingarts.net^
+||smar9128h045h45.beer^
 ||soilmatengineers.com^
 ||soydanielc.github.io^
 ||spoitiy007.github.io^
@@ -729,7 +729,6 @@
 ||wwww-linkedin.be^
 ||xfinity2.vercel.app^
 ||xfinitybroadbandnetwork.weebly.com^
-||xfinitymail01.weebly.com^
 ||xfinityon.com^
 ||xfinityservicekey.weebly.com^
 ||xfinityservices.vercel.app^

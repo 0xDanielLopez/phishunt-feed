@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 737
-# Updated: 2026-10-17T04:27:56Z
+# Entries: 736
+# Updated: 2026-10-17T10:45:51Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -14,14 +14,17 @@
 0.0.0.0 123123g5h4.casa
 0.0.0.0 12312940.pl
 0.0.0.0 1234819hj6jh.forum
+0.0.0.0 123990h45-45.casa
 0.0.0.0 12h845o546j.forum
 0.0.0.0 1789503-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 401283-outlookmailbox-00012-validate.weebly.com
 0.0.0.0 57162055.shop
+0.0.0.0 9384012f5g.help
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
 0.0.0.0 account-instagram.vercel.app
+0.0.0.0 adim.life
 0.0.0.0 adobedelcielo.com
 0.0.0.0 adobeexperience.com.br
 0.0.0.0 adobeinstaller-virid.vercel.app
@@ -32,7 +35,6 @@
 0.0.0.0 alibabaexclusifyx.com
 0.0.0.0 amazon-harshdeep.vercel.app
 0.0.0.0 amazon-opfq.vercel.app
-0.0.0.0 amazon-play.com
 0.0.0.0 ancoradourohotel.com.br
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 apk-google.cn
@@ -46,8 +48,6 @@
 0.0.0.0 avaturefed.net
 0.0.0.0 axm-amazon.com
 0.0.0.0 backblazeb2.com
-0.0.0.0 bankofamerica-secure-customerservice.ph
-0.0.0.0 bankofamerica-secure-resources.ph
 0.0.0.0 bankofamerica-secure-verification-alert.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 bankofamericaoversight.ph
@@ -325,6 +325,7 @@
 0.0.0.0 google1302.com
 0.0.0.0 google1308.com
 0.0.0.0 google2play.com
+0.0.0.0 googleadsgdoubleclicks.net
 0.0.0.0 googlebusiness.xyz
 0.0.0.0 googlecontacts.email
 0.0.0.0 googleepkay.com
@@ -443,7 +444,6 @@
 0.0.0.0 kucoin-referral-code-pt.vercel.app
 0.0.0.0 kucoinlogenac.gitbook.io
 0.0.0.0 kucoinloginaa.gitbook.io
-0.0.0.0 kucoinlogisafe.webflow.io
 0.0.0.0 kucoinlognz.gitbook.io
 0.0.0.0 kucoinloign.gitbook.io
 0.0.0.0 ledger-live-application.com
@@ -517,7 +517,6 @@
 0.0.0.0 microsoftuk.co
 0.0.0.0 microsoftwordob.blogspot.com
 0.0.0.0 mirror-google.com
-0.0.0.0 misilabario.cl
 0.0.0.0 ml-facebook.blogspot.com
 0.0.0.0 mobile-google.cn
 0.0.0.0 more-ledgerlive-en.typedream.app
@@ -629,6 +628,7 @@
 0.0.0.0 sigma-whatsapp.com
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 smallflyingarts.net
+0.0.0.0 smar9128h045h45.beer
 0.0.0.0 soilmatengineers.com
 0.0.0.0 soydanielc.github.io
 0.0.0.0 spoitiy007.github.io
@@ -729,7 +729,6 @@
 0.0.0.0 wwww-linkedin.be
 0.0.0.0 xfinity2.vercel.app
 0.0.0.0 xfinitybroadbandnetwork.weebly.com
-0.0.0.0 xfinitymail01.weebly.com
 0.0.0.0 xfinityon.com
 0.0.0.0 xfinityservicekey.weebly.com
 0.0.0.0 xfinityservices.vercel.app
