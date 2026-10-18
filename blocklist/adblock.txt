@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 731
-! Updated: 2026-10-17T20:37:10Z
+! Entries: 730
+! Updated: 2026-10-18T04:35:28Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -10,12 +10,12 @@
 ||1056804.com^
 ||123-facebook.blogspot.com^
 ||12312940.pl^
-||123990h45-45.casa^
+||1290h9ikk4fgj.pics^
 ||1789503-coinbase.com^
 ||2017-facebook.blogspot.com^
 ||401283-outlookmailbox-00012-validate.weebly.com^
 ||57162055.shop^
-||9384012f5g.help^
+||882028364740474749474749474.com^
 ||a2zapk.co^
 ||a2zapk.dev^
 ||account-instagram.vercel.app^
@@ -23,17 +23,17 @@
 ||adobedelcielo.com^
 ||adobeexperience.com.br^
 ||adobeinstaller-virid.vercel.app^
-||adobepdfbook.com^
-||adobesensedrive.space^
 ||agenciadlx.com.br^
 ||alerta-appleid.info^
 ||alibaba188.org^
 ||alibaba99.com^
 ||alibabaexclusifyx.com^
+||amazon-ai.org^
 ||amazon-harshdeep.vercel.app^
 ||amazon-opfq.vercel.app^
 ||ancoradourohotel.com.br^
 ||ani-facebook.blogspot.com^
+||anthropic.build^
 ||apk-google.cn^
 ||app-binance.github.io^
 ||app-facebook.blogspot.com^
@@ -46,9 +46,7 @@
 ||axm-amazon.com^
 ||backblazeb2.com^
 ||bankofamerica-secure-platform.ph^
-||bankofamerica-secure-verification-alert.ph^
 ||bankofamericamailcompte.blogspot.com^
-||bankofamericaoversight.ph^
 ||barcelona-facebook.blogspot.com^
 ||barclays-bank.vercel.app^
 ||bbva-hiring-paperless.appspot.com^
@@ -73,6 +71,7 @@
 ||binancewallett.blogspot.com^
 ||biowikiweb.com^
 ||bnext.es^
+||bothmarcus37.github.io^
 ||brad-facebook.blogspot.com^
 ||bradescosegurosop.com.br^
 ||buscarmi-icloud.app^
@@ -87,7 +86,6 @@
 ||citrix-sharing.com^
 ||click-facebook.blogspot.com^
 ||cn-feed-whatsapp.com.cn^
-||co-conect-ledger-live-wallet.typedream.app^
 ||coinbase-connetct.vercel.app^
 ||coinbase-event.vercel.app^
 ||coinbase.am.in^
@@ -302,6 +300,7 @@
 ||facebookuserlogin.blogspot.com^
 ||facebookverifyyouraccount.blogspot.com^
 ||facebookwebsite9.blogspot.com^
+||faq-trezrio.pages.dev^
 ||fedexblack.com^
 ||fedexcargo.delivery^
 ||fedexsv.com^
@@ -322,7 +321,6 @@
 ||google1302.com^
 ||google1308.com^
 ||google2play.com^
-||googleadsgdoubleclicks.net^
 ||googleauthorization.com^
 ||googlebusiness.xyz^
 ||googlecontacts.email^
@@ -342,6 +340,7 @@
 ||googles6yf.com^
 ||googlestore.cc^
 ||googlet0np.com^
+||googley8rb.com^
 ||hashnode.dev^
 ||help-instagram.blogspot.com^
 ||hofmemorabilia.ebaymclaren-austin.eventshouse.app^
@@ -354,8 +353,6 @@
 ||hstn.me^
 ||icloud-location.info^
 ||icloudmex-lost.com^
-||icloudmydevice.help^
-||icloudnotify.help^
 ||icloudweb-ext860.click^
 ||ideeo.mx^
 ||ifotografix.co.uk^
@@ -443,14 +440,11 @@
 ||kucoin-referral-code-pt.vercel.app^
 ||kucoinlogenac.gitbook.io^
 ||kucoinloginaa.gitbook.io^
-||kucoinlognz.gitbook.io^
 ||kucoinloign.gitbook.io^
 ||ledger-live-application.com^
-||ledger-live-donload-web.typedream.app^
 ||ledger-live-download-sso-conect.typedream.app^
 ||ledger-live-login-web.square.site^
 ||ledger-live-wallet-cloud-us-web.typedream.app^
-||ledgerlive-us-learn.typedream.app^
 ||ledgrelivapp--crome.typedream.app^
 ||leia-santander.vercel.app^
 ||linkedin-antanim.vercel.app^
@@ -506,7 +500,6 @@
 ||microsoft0117.vercel.app^
 ||microsoft365businessbasic.com^
 ||microsoft365updates.com^
-||microsoftauth.sbs^
 ||microsoftjk.eu.org^
 ||microsoftpl.biz.pl^
 ||microsoftsupportcenter.digital^
@@ -542,13 +535,13 @@
 ||netflixgpt-react.vercel.app^
 ||netflixinfos.com^
 ||netflixquebec.blogspot.com^
-||netflixverify.github.io^
 ||netflixvoid.org^
 ||netflixy-bixy.vercel.app^
 ||network-facebook.blogspot.com^
 ||nhhydraulik.co.in^
 ||no-spotify.com^
 ||noreply-icloud.app^
+||nr-28szj234.sbs^
 ||nw-facebook.blogspot.com^
 ||office365licensingsupport.com^
 ||onedrive-4-nine.vercel.app^
@@ -569,9 +562,12 @@
 ||pass-cargo.com^
 ||paykmc.com^
 ||paypal-logiin.blogspot.com^
+||paypal-net.ph^
 ||paypal-password.blogspot.com^
+||paypal-rewards-daily.pages.dev^
 ||paypalcorp.blogspot.com^
 ||pe-facebook.blogspot.com^
+||peputragroup.com^
 ||phil-heron-zoomdrain-com-s-account.workers.dev^
 ||piedrasdecolon.com.ar^
 ||plxnm2814.mom^
@@ -588,11 +584,13 @@
 ||register-facebook.blogspot.com^
 ||rev.it^
 ||roblox-login.vercel.app^
+||roblox.com.am^
 ||roblox.com.bi^
 ||roblox.com.bn^
 ||roblox.com.bo^
 ||roblox.com.bz^
 ||roblox.com.ee^
+||roblox.com.et^
 ||roblox.com.gr^
 ||roblox.com.ml^
 ||roblox.com.mw^
@@ -615,6 +613,7 @@
 ||secure-dropbox.ist^
 ||securedsupport-coinbase.com^
 ||secureserver.net^
+||send-money-cashapp.com^
 ||send-secure-trustwallet-usdt-bip20.vercel.app^
 ||serv00.net^
 ||services-facebook.blogspot.com^
@@ -624,9 +623,7 @@
 ||sigma-whatsapp.com^
 ||sk-facebook.blogspot.com^
 ||smallflyingarts.net^
-||smar9128h045h45.beer^
 ||soilmatengineers.com^
-||soydanielc.github.io^
 ||spotify-client-beta.vercel.app^
 ||spotifylite.online^
 ||spotifymode.org^
@@ -665,11 +662,13 @@
 ||trezoorr--thego.gitbook.io^
 ||trezor--brioge--help.gitbook.io^
 ||trezor-brige.square.site^
+||trezor-hardware-login.square.site^
 ||trezor-login-guide.square.site^
 ||trezor-login-us-auth-start.typedream.app^
 ||trezor.pt^
 ||trezorguide.vercel.app^
 ||trezorrgoappup.gitbook.io^
+||trezrorostartz.gitbook.io^
 ||trust-wallet-customer-support-number.github.io^
 ||trust-wallet-login.vercel.app^
 ||trustwallet-helpcenter.vercel.app^
@@ -690,6 +689,7 @@
 ||verifyaccount-google.com^
 ||verifytoken.com^
 ||viewclass.com^
+||vinted-check.com^
 ||vinted-technologies.live^
 ||vodafone-business-berlin.com^
 ||vodafone-business-berlin.de^
@@ -732,7 +732,6 @@
 ||yzz.me^
 ||z-facebook.blogspot.com^
 ||z-instagram.blogspot.com^
-||zelleactive.shop^
 ||zeta-facebook.blogspot.com^
 ||zkey0.com^
 ||zsoon.eu^
