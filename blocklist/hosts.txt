@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 730
-# Updated: 2026-10-18T11:06:48Z
+# Entries: 723
+# Updated: 2026-10-18T15:52:50Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -33,7 +33,6 @@
 0.0.0.0 amazon-opfq.vercel.app
 0.0.0.0 ancoradourohotel.com.br
 0.0.0.0 ani-facebook.blogspot.com
-0.0.0.0 anthropic.build
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-facebook.blogspot.com
@@ -41,10 +40,8 @@
 0.0.0.0 appleinc-support.info
 0.0.0.0 assign-icloud.com
 0.0.0.0 asso-entrautres.fr
-0.0.0.0 auth.properties
 0.0.0.0 avaturefed.net
 0.0.0.0 axm-amazon.com
-0.0.0.0 backblazeb2.com
 0.0.0.0 bankofamerica-secure-platform.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 barcelona-facebook.blogspot.com
@@ -75,7 +72,6 @@
 0.0.0.0 brad-facebook.blogspot.com
 0.0.0.0 bradescosegurosop.com.br
 0.0.0.0 buscarmi-icloud.app
-0.0.0.0 business-dropbox.me
 0.0.0.0 carsscanned.ebaymclaren-austin.eventshouse.app
 0.0.0.0 cashapp-liart.vercel.app
 0.0.0.0 cashappps.com
@@ -84,6 +80,7 @@
 0.0.0.0 chatgpt0005.eu.org
 0.0.0.0 checkleaked.cc
 0.0.0.0 citrix-sharing.com
+0.0.0.0 ckupteraz.top
 0.0.0.0 click-facebook.blogspot.com
 0.0.0.0 cn-feed-whatsapp.com.cn
 0.0.0.0 coinbase-connetct.vercel.app
@@ -111,6 +108,7 @@
 0.0.0.0 cz-facebook.blogspot.com
 0.0.0.0 danielnegru.com
 0.0.0.0 daservglobal.com
+0.0.0.0 dayoadeyemo.com
 0.0.0.0 de-paypal-sec.com
 0.0.0.0 de5.net
 0.0.0.0 deluxxe.com.br
@@ -129,8 +127,6 @@
 0.0.0.0 dpduk.dev
 0.0.0.0 drive-icloud.com
 0.0.0.0 dropbox-online.at
-0.0.0.0 dropbox-online.net
-0.0.0.0 dropboxbiz.com
 0.0.0.0 ebay-c.com
 0.0.0.0 ebay-seller-center-managedpayments.vercel.app
 0.0.0.0 ebaymclaren-austin.eventshouse.app
@@ -253,7 +249,6 @@
 0.0.0.0 facebookdatingonfacebook.blogspot.com
 0.0.0.0 facebooke-login.blogspot.com
 0.0.0.0 facebookfakelogin.blogspot.com
-0.0.0.0 facebookfakepage.blogspot.com
 0.0.0.0 facebookhints.blogspot.com
 0.0.0.0 facebookk-k.vercel.app
 0.0.0.0 facebookk.blogspot.com
@@ -323,12 +318,10 @@
 0.0.0.0 google1302.com
 0.0.0.0 google1308.com
 0.0.0.0 google2play.com
-0.0.0.0 googleauthorization.com
 0.0.0.0 googlebusiness.xyz
 0.0.0.0 googlecontacts.email
 0.0.0.0 googleepkay.com
 0.0.0.0 googleepway.com
-0.0.0.0 googlekalender.de
 0.0.0.0 googlel0gin.netlify.app
 0.0.0.0 googlelogos.com
 0.0.0.0 googlenewsgh.com
@@ -464,7 +457,6 @@
 0.0.0.0 logowanie-facebook.vercel.app
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
-0.0.0.0 luxora.qpon
 0.0.0.0 ly-facebook.blogspot.com
 0.0.0.0 m-facebooks.vn
 0.0.0.0 m365-microsoft.com
@@ -496,7 +488,6 @@
 0.0.0.0 microsoft-0r.github.io
 0.0.0.0 microsoft-alpha.vercel.app
 0.0.0.0 microsoft-online.gr
-0.0.0.0 microsoft-se.us
 0.0.0.0 microsoft-sharepoint.fr
 0.0.0.0 microsoft-ssl.com
 0.0.0.0 microsoft0117.vercel.app
@@ -505,7 +496,6 @@
 0.0.0.0 microsoftjk.eu.org
 0.0.0.0 microsoftpl.biz.pl
 0.0.0.0 microsoftsupportcenter.digital
-0.0.0.0 microsoftuk.co
 0.0.0.0 microsoftwordob.blogspot.com
 0.0.0.0 mirror-google.com
 0.0.0.0 ml-facebook.blogspot.com
@@ -643,6 +633,7 @@
 0.0.0.0 strutsupportsystems.com
 0.0.0.0 su-facebook.blogspot.com
 0.0.0.0 sugar-outlook.com
+0.0.0.0 suite-app-docs-trezr.typedream.app
 0.0.0.0 suiteapp-trezrr.wixstudio.com
 0.0.0.0 support-instagram.github.io
 0.0.0.0 support-ledgerlive-eng.typedream.app
@@ -725,9 +716,11 @@
 0.0.0.0 wwww-linkedin.be
 0.0.0.0 xfinity2.vercel.app
 0.0.0.0 xfinitybroadbandnetwork.weebly.com
+0.0.0.0 xfinitymanagementsocialservice.weebly.com
 0.0.0.0 xfinityon.com
 0.0.0.0 xfinityservicekey.weebly.com
 0.0.0.0 xfinityservices.vercel.app
+0.0.0.0 yahoologin6700.blogspot.com
 0.0.0.0 yonataxi.at
 0.0.0.0 yzz.me
 0.0.0.0 z-facebook.blogspot.com

@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 730
-! Updated: 2026-10-18T11:06:49Z
+! Entries: 723
+! Updated: 2026-10-18T15:52:51Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -33,7 +33,6 @@
 ||amazon-opfq.vercel.app^
 ||ancoradourohotel.com.br^
 ||ani-facebook.blogspot.com^
-||anthropic.build^
 ||apk-google.cn^
 ||app-binance.github.io^
 ||app-facebook.blogspot.com^
@@ -41,10 +40,8 @@
 ||appleinc-support.info^
 ||assign-icloud.com^
 ||asso-entrautres.fr^
-||auth.properties^
 ||avaturefed.net^
 ||axm-amazon.com^
-||backblazeb2.com^
 ||bankofamerica-secure-platform.ph^
 ||bankofamericamailcompte.blogspot.com^
 ||barcelona-facebook.blogspot.com^
@@ -75,7 +72,6 @@
 ||brad-facebook.blogspot.com^
 ||bradescosegurosop.com.br^
 ||buscarmi-icloud.app^
-||business-dropbox.me^
 ||carsscanned.ebaymclaren-austin.eventshouse.app^
 ||cashapp-liart.vercel.app^
 ||cashappps.com^
@@ -84,6 +80,7 @@
 ||chatgpt0005.eu.org^
 ||checkleaked.cc^
 ||citrix-sharing.com^
+||ckupteraz.top^
 ||click-facebook.blogspot.com^
 ||cn-feed-whatsapp.com.cn^
 ||coinbase-connetct.vercel.app^
@@ -111,6 +108,7 @@
 ||cz-facebook.blogspot.com^
 ||danielnegru.com^
 ||daservglobal.com^
+||dayoadeyemo.com^
 ||de-paypal-sec.com^
 ||de5.net^
 ||deluxxe.com.br^
@@ -129,8 +127,6 @@
 ||dpduk.dev^
 ||drive-icloud.com^
 ||dropbox-online.at^
-||dropbox-online.net^
-||dropboxbiz.com^
 ||ebay-c.com^
 ||ebay-seller-center-managedpayments.vercel.app^
 ||ebaymclaren-austin.eventshouse.app^
@@ -253,7 +249,6 @@
 ||facebookdatingonfacebook.blogspot.com^
 ||facebooke-login.blogspot.com^
 ||facebookfakelogin.blogspot.com^
-||facebookfakepage.blogspot.com^
 ||facebookhints.blogspot.com^
 ||facebookk-k.vercel.app^
 ||facebookk.blogspot.com^
@@ -323,12 +318,10 @@
 ||google1302.com^
 ||google1308.com^
 ||google2play.com^
-||googleauthorization.com^
 ||googlebusiness.xyz^
 ||googlecontacts.email^
 ||googleepkay.com^
 ||googleepway.com^
-||googlekalender.de^
 ||googlel0gin.netlify.app^
 ||googlelogos.com^
 ||googlenewsgh.com^
@@ -464,7 +457,6 @@
 ||logowanie-facebook.vercel.app^
 ||love-facebook.blogspot.com^
 ||lovefive-facebook.blogspot.com^
-||luxora.qpon^
 ||ly-facebook.blogspot.com^
 ||m-facebooks.vn^
 ||m365-microsoft.com^
@@ -496,7 +488,6 @@
 ||microsoft-0r.github.io^
 ||microsoft-alpha.vercel.app^
 ||microsoft-online.gr^
-||microsoft-se.us^
 ||microsoft-sharepoint.fr^
 ||microsoft-ssl.com^
 ||microsoft0117.vercel.app^
@@ -505,7 +496,6 @@
 ||microsoftjk.eu.org^
 ||microsoftpl.biz.pl^
 ||microsoftsupportcenter.digital^
-||microsoftuk.co^
 ||microsoftwordob.blogspot.com^
 ||mirror-google.com^
 ||ml-facebook.blogspot.com^
@@ -643,6 +633,7 @@
 ||strutsupportsystems.com^
 ||su-facebook.blogspot.com^
 ||sugar-outlook.com^
+||suite-app-docs-trezr.typedream.app^
 ||suiteapp-trezrr.wixstudio.com^
 ||support-instagram.github.io^
 ||support-ledgerlive-eng.typedream.app^
@@ -725,9 +716,11 @@
 ||wwww-linkedin.be^
 ||xfinity2.vercel.app^
 ||xfinitybroadbandnetwork.weebly.com^
+||xfinitymanagementsocialservice.weebly.com^
 ||xfinityon.com^
 ||xfinityservicekey.weebly.com^
 ||xfinityservices.vercel.app^
+||yahoologin6700.blogspot.com^
 ||yonataxi.at^
 ||yzz.me^
 ||z-facebook.blogspot.com^
