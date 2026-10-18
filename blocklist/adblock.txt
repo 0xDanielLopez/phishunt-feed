@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
 ! Entries: 730
-! Updated: 2026-10-18T04:35:28Z
+! Updated: 2026-10-18T11:06:49Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -124,6 +124,7 @@
 ||documentsharing.fr^
 ||docusign.one^
 ||dothome.co.kr^
+||dpd-malvexa.click^
 ||dpdie.live^
 ||dpduk.dev^
 ||drive-icloud.com^
@@ -316,6 +317,7 @@
 ||gloronyan.github.io^
 ||glovonetwork.com^
 ||google-apk.com^
+||google-live-maps.com^
 ||google1107.com^
 ||google1208.com^
 ||google1302.com^
@@ -344,13 +346,13 @@
 ||hashnode.dev^
 ||help-instagram.blogspot.com^
 ||hofmemorabilia.ebaymclaren-austin.eventshouse.app^
-||holdings-coinbase.com^
 ||home-facebook.blogspot.com^
 ||home-ledgrreliveapp.typedream.app^
 ||hot-binance.com.cn^
 ||hsbc-sec.com^
 ||hsbctds.com^
 ||hstn.me^
+||i45ohj568f23.help^
 ||icloud-location.info^
 ||icloudmex-lost.com^
 ||icloudweb-ext860.click^
@@ -551,6 +553,7 @@
 ||opensea-six.vercel.app^
 ||openseaproks007.vercel.app^
 ||openseavxr.vercel.app^
+||opry453823h.homes^
 ||orbit-whatsapp.com^
 ||ossama-instagram.vercel.app^
 ||outlook-login.github.io^
@@ -564,13 +567,11 @@
 ||paypal-logiin.blogspot.com^
 ||paypal-net.ph^
 ||paypal-password.blogspot.com^
-||paypal-rewards-daily.pages.dev^
 ||paypalcorp.blogspot.com^
 ||pe-facebook.blogspot.com^
 ||peputragroup.com^
 ||phil-heron-zoomdrain-com-s-account.workers.dev^
 ||piedrasdecolon.com.ar^
-||plxnm2814.mom^
 ||premio-instagram.com^
 ||profil-facebook-saya.blogspot.com^
 ||promorange.co.uk^
@@ -689,7 +690,6 @@
 ||verifyaccount-google.com^
 ||verifytoken.com^
 ||viewclass.com^
-||vinted-check.com^
 ||vinted-technologies.live^
 ||vodafone-business-berlin.com^
 ||vodafone-business-berlin.de^

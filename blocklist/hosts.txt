@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
 # Entries: 730
-# Updated: 2026-10-18T04:35:28Z
+# Updated: 2026-10-18T11:06:48Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -124,6 +124,7 @@
 0.0.0.0 documentsharing.fr
 0.0.0.0 docusign.one
 0.0.0.0 dothome.co.kr
+0.0.0.0 dpd-malvexa.click
 0.0.0.0 dpdie.live
 0.0.0.0 dpduk.dev
 0.0.0.0 drive-icloud.com
@@ -316,6 +317,7 @@
 0.0.0.0 gloronyan.github.io
 0.0.0.0 glovonetwork.com
 0.0.0.0 google-apk.com
+0.0.0.0 google-live-maps.com
 0.0.0.0 google1107.com
 0.0.0.0 google1208.com
 0.0.0.0 google1302.com
@@ -344,13 +346,13 @@
 0.0.0.0 hashnode.dev
 0.0.0.0 help-instagram.blogspot.com
 0.0.0.0 hofmemorabilia.ebaymclaren-austin.eventshouse.app
-0.0.0.0 holdings-coinbase.com
 0.0.0.0 home-facebook.blogspot.com
 0.0.0.0 home-ledgrreliveapp.typedream.app
 0.0.0.0 hot-binance.com.cn
 0.0.0.0 hsbc-sec.com
 0.0.0.0 hsbctds.com
 0.0.0.0 hstn.me
+0.0.0.0 i45ohj568f23.help
 0.0.0.0 icloud-location.info
 0.0.0.0 icloudmex-lost.com
 0.0.0.0 icloudweb-ext860.click
@@ -551,6 +553,7 @@
 0.0.0.0 opensea-six.vercel.app
 0.0.0.0 openseaproks007.vercel.app
 0.0.0.0 openseavxr.vercel.app
+0.0.0.0 opry453823h.homes
 0.0.0.0 orbit-whatsapp.com
 0.0.0.0 ossama-instagram.vercel.app
 0.0.0.0 outlook-login.github.io
@@ -564,13 +567,11 @@
 0.0.0.0 paypal-logiin.blogspot.com
 0.0.0.0 paypal-net.ph
 0.0.0.0 paypal-password.blogspot.com
-0.0.0.0 paypal-rewards-daily.pages.dev
 0.0.0.0 paypalcorp.blogspot.com
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 peputragroup.com
 0.0.0.0 phil-heron-zoomdrain-com-s-account.workers.dev
 0.0.0.0 piedrasdecolon.com.ar
-0.0.0.0 plxnm2814.mom
 0.0.0.0 premio-instagram.com
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 promorange.co.uk
@@ -689,7 +690,6 @@
 0.0.0.0 verifyaccount-google.com
 0.0.0.0 verifytoken.com
 0.0.0.0 viewclass.com
-0.0.0.0 vinted-check.com
 0.0.0.0 vinted-technologies.live
 0.0.0.0 vodafone-business-berlin.com
 0.0.0.0 vodafone-business-berlin.de
