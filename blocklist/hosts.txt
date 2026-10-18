@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 723
-# Updated: 2026-10-18T15:52:50Z
+# Entries: 736
+# Updated: 2026-10-18T20:44:51Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -20,6 +20,7 @@
 0.0.0.0 a2zapk.dev
 0.0.0.0 account-instagram.vercel.app
 0.0.0.0 adim.life
+0.0.0.0 adobe-onlinedocument.top
 0.0.0.0 adobedelcielo.com
 0.0.0.0 adobeexperience.com.br
 0.0.0.0 adobeinstaller-virid.vercel.app
@@ -33,6 +34,7 @@
 0.0.0.0 amazon-opfq.vercel.app
 0.0.0.0 ancoradourohotel.com.br
 0.0.0.0 ani-facebook.blogspot.com
+0.0.0.0 antimoney-laundering.org
 0.0.0.0 apk-google.cn
 0.0.0.0 app-binance.github.io
 0.0.0.0 app-facebook.blogspot.com
@@ -43,7 +45,9 @@
 0.0.0.0 avaturefed.net
 0.0.0.0 axm-amazon.com
 0.0.0.0 bankofamerica-secure-platform.ph
+0.0.0.0 bankofamerica-secure-setup.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
+0.0.0.0 bankofamericapregnancydiscriminationcase.ph
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
 0.0.0.0 bbva-hiring-paperless.appspot.com
@@ -80,7 +84,6 @@
 0.0.0.0 chatgpt0005.eu.org
 0.0.0.0 checkleaked.cc
 0.0.0.0 citrix-sharing.com
-0.0.0.0 ckupteraz.top
 0.0.0.0 click-facebook.blogspot.com
 0.0.0.0 cn-feed-whatsapp.com.cn
 0.0.0.0 coinbase-connetct.vercel.app
@@ -98,6 +101,7 @@
 0.0.0.0 comcast-ebon.vercel.app
 0.0.0.0 comcast-seven.vercel.app
 0.0.0.0 comcast2.vercel.app
+0.0.0.0 correos-reprogramar.com
 0.0.0.0 correosccl.cc
 0.0.0.0 correoscri.cc
 0.0.0.0 correosiicr.cc
@@ -122,6 +126,7 @@
 0.0.0.0 documentsharing.fr
 0.0.0.0 docusign.one
 0.0.0.0 dothome.co.kr
+0.0.0.0 dpd-calviro.click
 0.0.0.0 dpd-malvexa.click
 0.0.0.0 dpdie.live
 0.0.0.0 dpduk.dev
@@ -130,6 +135,7 @@
 0.0.0.0 ebay-c.com
 0.0.0.0 ebay-seller-center-managedpayments.vercel.app
 0.0.0.0 ebaymclaren-austin.eventshouse.app
+0.0.0.0 ebaymediagmdi.com
 0.0.0.0 ebaymevip.com
 0.0.0.0 edgeone.dev
 0.0.0.0 email-microsoft.com
@@ -348,7 +354,9 @@
 0.0.0.0 i45ohj568f23.help
 0.0.0.0 icloud-location.info
 0.0.0.0 icloudmex-lost.com
+0.0.0.0 icloudmyreports.help
 0.0.0.0 icloudweb-ext860.click
+0.0.0.0 id83n7fdn9263ng97f733e.rest
 0.0.0.0 ideeo.mx
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 info-eng-ledgerlive-learn.typedream.app
@@ -431,6 +439,7 @@
 0.0.0.0 jwb-facebook.blogspot.com
 0.0.0.0 jyothycirrussaviation.com
 0.0.0.0 kauadosantos.github.io
+0.0.0.0 kraken-darknetsite-com.pages.dev
 0.0.0.0 kraken-tor.co.com
 0.0.0.0 kucoin-referral-code-pt.vercel.app
 0.0.0.0 kucoinlogenac.gitbook.io
@@ -562,6 +571,7 @@
 0.0.0.0 peputragroup.com
 0.0.0.0 phil-heron-zoomdrain-com-s-account.workers.dev
 0.0.0.0 piedrasdecolon.com.ar
+0.0.0.0 pr-tms-google-2.pages.dev
 0.0.0.0 premio-instagram.com
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 promorange.co.uk
@@ -591,6 +601,7 @@
 0.0.0.0 rricrosoft-offices.org
 0.0.0.0 ruddycruzc.github.io
 0.0.0.0 s-facebook.blogspot.com
+0.0.0.0 safe-whatsapp.com
 0.0.0.0 sagers.com
 0.0.0.0 samplel-ks6yxvur5-instagramm.vercel.app
 0.0.0.0 santander-dev-week.vercel.app
@@ -618,6 +629,7 @@
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotifylite.online
 0.0.0.0 spotifymode.org
+0.0.0.0 spotifymusic.loginto.me
 0.0.0.0 spotifypremiumapk.pk
 0.0.0.0 spotifypremiumz.net
 0.0.0.0 spotifyprimiumapk.com
@@ -660,7 +672,6 @@
 0.0.0.0 trezor.pt
 0.0.0.0 trezorguide.vercel.app
 0.0.0.0 trezorrgoappup.gitbook.io
-0.0.0.0 trezrorostartz.gitbook.io
 0.0.0.0 trust-wallet-customer-support-number.github.io
 0.0.0.0 trust-wallet-login.vercel.app
 0.0.0.0 trustwallet-helpcenter.vercel.app
@@ -681,6 +692,7 @@
 0.0.0.0 verifyaccount-google.com
 0.0.0.0 verifytoken.com
 0.0.0.0 viewclass.com
+0.0.0.0 vinted-check.com
 0.0.0.0 vinted-technologies.live
 0.0.0.0 vodafone-business-berlin.com
 0.0.0.0 vodafone-business-berlin.de
@@ -707,6 +719,7 @@
 0.0.0.0 whatsappcampaign.online
 0.0.0.0 whatsappfreewhatsapp.blogspot.com
 0.0.0.0 whatsappgroup.vercel.app
+0.0.0.0 whatsappplinkcxgg.pages.dev
 0.0.0.0 windows-ledger-live.typedream.app
 0.0.0.0 wooflers.com
 0.0.0.0 ww-facebook.blogspot.com

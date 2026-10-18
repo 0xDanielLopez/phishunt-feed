@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 723
-# Updated: 2026-10-18T15:52:49Z
+# Entries: 736
+# Updated: 2026-10-18T20:44:50Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -20,6 +20,7 @@ a2zapk.co
 a2zapk.dev
 account-instagram.vercel.app
 adim.life
+adobe-onlinedocument.top
 adobedelcielo.com
 adobeexperience.com.br
 adobeinstaller-virid.vercel.app
@@ -33,6 +34,7 @@ amazon-harshdeep.vercel.app
 amazon-opfq.vercel.app
 ancoradourohotel.com.br
 ani-facebook.blogspot.com
+antimoney-laundering.org
 apk-google.cn
 app-binance.github.io
 app-facebook.blogspot.com
@@ -43,7 +45,9 @@ asso-entrautres.fr
 avaturefed.net
 axm-amazon.com
 bankofamerica-secure-platform.ph
+bankofamerica-secure-setup.ph
 bankofamericamailcompte.blogspot.com
+bankofamericapregnancydiscriminationcase.ph
 barcelona-facebook.blogspot.com
 barclays-bank.vercel.app
 bbva-hiring-paperless.appspot.com
@@ -80,7 +84,6 @@ ch-google.cc
 chatgpt0005.eu.org
 checkleaked.cc
 citrix-sharing.com
-ckupteraz.top
 click-facebook.blogspot.com
 cn-feed-whatsapp.com.cn
 coinbase-connetct.vercel.app
@@ -98,6 +101,7 @@ comcast-3.vercel.app
 comcast-ebon.vercel.app
 comcast-seven.vercel.app
 comcast2.vercel.app
+correos-reprogramar.com
 correosccl.cc
 correoscri.cc
 correosiicr.cc
@@ -122,6 +126,7 @@ docs-trezor-app.pages.dev
 documentsharing.fr
 docusign.one
 dothome.co.kr
+dpd-calviro.click
 dpd-malvexa.click
 dpdie.live
 dpduk.dev
@@ -130,6 +135,7 @@ dropbox-online.at
 ebay-c.com
 ebay-seller-center-managedpayments.vercel.app
 ebaymclaren-austin.eventshouse.app
+ebaymediagmdi.com
 ebaymevip.com
 edgeone.dev
 email-microsoft.com
@@ -348,7 +354,9 @@ hstn.me
 i45ohj568f23.help
 icloud-location.info
 icloudmex-lost.com
+icloudmyreports.help
 icloudweb-ext860.click
+id83n7fdn9263ng97f733e.rest
 ideeo.mx
 ifotografix.co.uk
 info-eng-ledgerlive-learn.typedream.app
@@ -431,6 +439,7 @@ jo-facebook.blogspot.com
 jwb-facebook.blogspot.com
 jyothycirrussaviation.com
 kauadosantos.github.io
+kraken-darknetsite-com.pages.dev
 kraken-tor.co.com
 kucoin-referral-code-pt.vercel.app
 kucoinlogenac.gitbook.io
@@ -562,6 +571,7 @@ pe-facebook.blogspot.com
 peputragroup.com
 phil-heron-zoomdrain-com-s-account.workers.dev
 piedrasdecolon.com.ar
+pr-tms-google-2.pages.dev
 premio-instagram.com
 profil-facebook-saya.blogspot.com
 promorange.co.uk
@@ -591,6 +601,7 @@ robloxc.com.es
 rricrosoft-offices.org
 ruddycruzc.github.io
 s-facebook.blogspot.com
+safe-whatsapp.com
 sagers.com
 samplel-ks6yxvur5-instagramm.vercel.app
 santander-dev-week.vercel.app
@@ -618,6 +629,7 @@ soilmatengineers.com
 spotify-client-beta.vercel.app
 spotifylite.online
 spotifymode.org
+spotifymusic.loginto.me
 spotifypremiumapk.pk
 spotifypremiumz.net
 spotifyprimiumapk.com
@@ -660,7 +672,6 @@ trezor-login-us-auth-start.typedream.app
 trezor.pt
 trezorguide.vercel.app
 trezorrgoappup.gitbook.io
-trezrorostartz.gitbook.io
 trust-wallet-customer-support-number.github.io
 trust-wallet-login.vercel.app
 trustwallet-helpcenter.vercel.app
@@ -681,6 +692,7 @@ v0-instagram-accounts.vercel.app
 verifyaccount-google.com
 verifytoken.com
 viewclass.com
+vinted-check.com
 vinted-technologies.live
 vodafone-business-berlin.com
 vodafone-business-berlin.de
@@ -707,6 +719,7 @@ whatsappapk.org
 whatsappcampaign.online
 whatsappfreewhatsapp.blogspot.com
 whatsappgroup.vercel.app
+whatsappplinkcxgg.pages.dev
 windows-ledger-live.typedream.app
 wooflers.com
 ww-facebook.blogspot.com
