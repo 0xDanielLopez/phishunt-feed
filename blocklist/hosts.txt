@@ -1,25 +1,30 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 749
-# Updated: 2026-10-19T13:18:56Z
+# Entries: 769
+# Updated: 2026-10-19T22:21:45Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
 0.0.0.0 0365-microsoft.gitbook.io
+0.0.0.0 058127.click
 0.0.0.0 1056804.com
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 12312940.pl
 0.0.0.0 1789503-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
+0.0.0.0 2430j506.forum
+0.0.0.0 24h-tte.top
 0.0.0.0 30509j56.forum
 0.0.0.0 401283-outlookmailbox-00012-validate.weebly.com
 0.0.0.0 57162055.shop
+0.0.0.0 812378167348362.rest
 0.0.0.0 882028364740474749474749474.com
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
 0.0.0.0 account-instagram.vercel.app
 0.0.0.0 adim.life
+0.0.0.0 adobe-photoshop-crack.com
 0.0.0.0 adobeexperience.com.br
 0.0.0.0 adobeinstaller-virid.vercel.app
 0.0.0.0 agenciadlx.com.br
@@ -42,6 +47,7 @@
 0.0.0.0 axm-amazon.com
 0.0.0.0 bankofamerica-loginweb.com.ph
 0.0.0.0 bankofamerica-secure-policy.ph
+0.0.0.0 bankofamerica-tx.com
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 bankofamericamymortgage.ph
 0.0.0.0 bankofamericawealth.ph
@@ -87,6 +93,8 @@
 0.0.0.0 cn-feed-whatsapp.com.cn
 0.0.0.0 coinbase-connetct.vercel.app
 0.0.0.0 coinbase-event.vercel.app
+0.0.0.0 coinbase-passive-income.com
+0.0.0.0 coinbase-pro-tax.pages.dev
 0.0.0.0 coinbase.am.in
 0.0.0.0 coinbaseprologinv.gitbook.io
 0.0.0.0 coinbaseverify.vercel.app
@@ -102,6 +110,7 @@
 0.0.0.0 comcast2.vercel.app
 0.0.0.0 comomypal-securityserver.netflixconfirmation.net1fc.smtp.test.bimp-bot.duckdns.org
 0.0.0.0 correosccl.cc
+0.0.0.0 correoscostarica.cyou
 0.0.0.0 correoscri.cc
 0.0.0.0 correosiicr.cc
 0.0.0.0 cpanel.site
@@ -124,6 +133,7 @@
 0.0.0.0 documentsharing.fr
 0.0.0.0 docusign.one
 0.0.0.0 dothome.co.kr
+0.0.0.0 download-bbva.top
 0.0.0.0 dpd-bexnaro.com
 0.0.0.0 dpd-calviro.click
 0.0.0.0 dpd-malvexa.click
@@ -328,6 +338,7 @@
 0.0.0.0 googlecontacts.email
 0.0.0.0 googleepkay.com
 0.0.0.0 googleepway.com
+0.0.0.0 googleg1rs.com
 0.0.0.0 googlel0gin.netlify.app
 0.0.0.0 googlelogos.com
 0.0.0.0 googlenewsgh.com
@@ -549,6 +560,7 @@
 0.0.0.0 nr-23894sm23.sbs
 0.0.0.0 nr-28szj234.sbs
 0.0.0.0 nw-facebook.blogspot.com
+0.0.0.0 oferta85937885.cfd
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 onedrive-4-nine.vercel.app
 0.0.0.0 oortstorages.com
@@ -572,13 +584,20 @@
 0.0.0.0 paypalcorp.blogspot.com
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 peputragroup.com
+0.0.0.0 perplexity-beta-ads.com
 0.0.0.0 phil-heron-zoomdrain-com-s-account.workers.dev
 0.0.0.0 piedrasdecolon.com.ar
+0.0.0.0 pl-oferta-69375923484.top
 0.0.0.0 pl-oferta16214571.shop
-0.0.0.0 pl-oferta813.cfd
+0.0.0.0 pl-oferta65244.sbs
+0.0.0.0 pl-oferta6645234444.cfd
+0.0.0.0 pl-oferta892371.sbs
+0.0.0.0 pl-oferta895301.sbs
 0.0.0.0 pl-oferta9922.cfd
 0.0.0.0 pl-wuz9h.sbs
+0.0.0.0 pl209381232jx2317vzx-218713.shop
 0.0.0.0 platform-kraken.cc
+0.0.0.0 portal-seg-social-gob.quest
 0.0.0.0 pozycjanr5453234213.sbs
 0.0.0.0 premio-instagram.com
 0.0.0.0 profil-facebook-saya.blogspot.com
@@ -622,6 +641,7 @@
 0.0.0.0 santanderbizum.com
 0.0.0.0 santandercitas.com
 0.0.0.0 saque-instagram.com
+0.0.0.0 satanderconsumers.ca
 0.0.0.0 search.er.in
 0.0.0.0 secure-coinbase-com-sign-in.typedream.app
 0.0.0.0 secure-dropbox.ist
@@ -631,7 +651,9 @@
 0.0.0.0 send-secure-trustwallet-usdt-bip20.vercel.app
 0.0.0.0 serv00.net
 0.0.0.0 services-facebook.blogspot.com
+0.0.0.0 seur-es.site
 0.0.0.0 seureonline.shop
+0.0.0.0 sg-spotify.com
 0.0.0.0 shopping-shop.jp
 0.0.0.0 shopweb.com.vn
 0.0.0.0 sigma-whatsapp.com
@@ -643,7 +665,6 @@
 0.0.0.0 spotifylite.online
 0.0.0.0 spotifymodapp.com.in
 0.0.0.0 spotifymode.org
-0.0.0.0 spotifymusic.loginto.me
 0.0.0.0 spotifypremiumapk.pk
 0.0.0.0 spotifypremiumz.net
 0.0.0.0 spotifyprimiumapk.com
@@ -673,7 +694,6 @@
 0.0.0.0 therelayservice.com
 0.0.0.0 thomas-coinbase.com
 0.0.0.0 ticket-fedex.com
-0.0.0.0 toooo-tooo-trezor.gitbook.io
 0.0.0.0 trackingnumbers.org
 0.0.0.0 trezoorr--thego.gitbook.io
 0.0.0.0 trezor-brige.square.site
@@ -702,11 +722,11 @@
 0.0.0.0 uspstracking.fun
 0.0.0.0 v0-exodus-wallet-app.vercel.app
 0.0.0.0 v0-instagram-accounts.vercel.app
+0.0.0.0 verificatie-bankofamerica.ph
 0.0.0.0 verifyaccount-google.com
 0.0.0.0 verifytoken.com
 0.0.0.0 viewclass.com
 0.0.0.0 vinted-check.com
-0.0.0.0 vinted-order45356.com
 0.0.0.0 vinted-technologies.live
 0.0.0.0 vodafone-business-berlin.de
 0.0.0.0 vodafone-business-berlin.store

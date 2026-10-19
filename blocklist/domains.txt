@@ -1,25 +1,30 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 749
-# Updated: 2026-10-19T13:14:10Z
+# Entries: 769
+# Updated: 2026-10-19T22:21:44Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
 0365-microsoft.gitbook.io
+058127.click
 1056804.com
 123-facebook.blogspot.com
 12312940.pl
 1789503-coinbase.com
 2017-facebook.blogspot.com
+2430j506.forum
+24h-tte.top
 30509j56.forum
 401283-outlookmailbox-00012-validate.weebly.com
 57162055.shop
+812378167348362.rest
 882028364740474749474749474.com
 a2zapk.co
 a2zapk.dev
 account-instagram.vercel.app
 adim.life
+adobe-photoshop-crack.com
 adobeexperience.com.br
 adobeinstaller-virid.vercel.app
 agenciadlx.com.br
@@ -42,6 +47,7 @@ avaturefed.net
 axm-amazon.com
 bankofamerica-loginweb.com.ph
 bankofamerica-secure-policy.ph
+bankofamerica-tx.com
 bankofamericamailcompte.blogspot.com
 bankofamericamymortgage.ph
 bankofamericawealth.ph
@@ -87,6 +93,8 @@ click-facebook.blogspot.com
 cn-feed-whatsapp.com.cn
 coinbase-connetct.vercel.app
 coinbase-event.vercel.app
+coinbase-passive-income.com
+coinbase-pro-tax.pages.dev
 coinbase.am.in
 coinbaseprologinv.gitbook.io
 coinbaseverify.vercel.app
@@ -102,6 +110,7 @@ comcast-seven.vercel.app
 comcast2.vercel.app
 comomypal-securityserver.netflixconfirmation.net1fc.smtp.test.bimp-bot.duckdns.org
 correosccl.cc
+correoscostarica.cyou
 correoscri.cc
 correosiicr.cc
 cpanel.site
@@ -124,6 +133,7 @@ docs-trezor-app.pages.dev
 documentsharing.fr
 docusign.one
 dothome.co.kr
+download-bbva.top
 dpd-bexnaro.com
 dpd-calviro.click
 dpd-malvexa.click
@@ -328,6 +338,7 @@ googlebusiness.xyz
 googlecontacts.email
 googleepkay.com
 googleepway.com
+googleg1rs.com
 googlel0gin.netlify.app
 googlelogos.com
 googlenewsgh.com
@@ -549,6 +560,7 @@ noreply-icloud.app
 nr-23894sm23.sbs
 nr-28szj234.sbs
 nw-facebook.blogspot.com
+oferta85937885.cfd
 office365licensingsupport.com
 onedrive-4-nine.vercel.app
 oortstorages.com
@@ -572,13 +584,20 @@ paypal-password.blogspot.com
 paypalcorp.blogspot.com
 pe-facebook.blogspot.com
 peputragroup.com
+perplexity-beta-ads.com
 phil-heron-zoomdrain-com-s-account.workers.dev
 piedrasdecolon.com.ar
+pl-oferta-69375923484.top
 pl-oferta16214571.shop
-pl-oferta813.cfd
+pl-oferta65244.sbs
+pl-oferta6645234444.cfd
+pl-oferta892371.sbs
+pl-oferta895301.sbs
 pl-oferta9922.cfd
 pl-wuz9h.sbs
+pl209381232jx2317vzx-218713.shop
 platform-kraken.cc
+portal-seg-social-gob.quest
 pozycjanr5453234213.sbs
 premio-instagram.com
 profil-facebook-saya.blogspot.com
@@ -622,6 +641,7 @@ santander-remaster-whats-fb.vercel.app
 santanderbizum.com
 santandercitas.com
 saque-instagram.com
+satanderconsumers.ca
 search.er.in
 secure-coinbase-com-sign-in.typedream.app
 secure-dropbox.ist
@@ -631,7 +651,9 @@ send-money-cashapp.com
 send-secure-trustwallet-usdt-bip20.vercel.app
 serv00.net
 services-facebook.blogspot.com
+seur-es.site
 seureonline.shop
+sg-spotify.com
 shopping-shop.jp
 shopweb.com.vn
 sigma-whatsapp.com
@@ -643,7 +665,6 @@ spotify-client-beta.vercel.app
 spotifylite.online
 spotifymodapp.com.in
 spotifymode.org
-spotifymusic.loginto.me
 spotifypremiumapk.pk
 spotifypremiumz.net
 spotifyprimiumapk.com
@@ -673,7 +694,6 @@ theamazon.vercel.app
 therelayservice.com
 thomas-coinbase.com
 ticket-fedex.com
-toooo-tooo-trezor.gitbook.io
 trackingnumbers.org
 trezoorr--thego.gitbook.io
 trezor-brige.square.site
@@ -702,11 +722,11 @@ uspssmartparcellocker.tech
 uspstracking.fun
 v0-exodus-wallet-app.vercel.app
 v0-instagram-accounts.vercel.app
+verificatie-bankofamerica.ph
 verifyaccount-google.com
 verifytoken.com
 viewclass.com
 vinted-check.com
-vinted-order45356.com
 vinted-technologies.live
 vodafone-business-berlin.de
 vodafone-business-berlin.store
