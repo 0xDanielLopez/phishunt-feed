@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 754
-# Updated: 2026-10-19T04:33:00Z
+# Entries: 749
+# Updated: 2026-10-19T13:14:10Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -10,21 +10,16 @@
 1056804.com
 123-facebook.blogspot.com
 12312940.pl
-123998h459h45.forum
-1290h9ikk4fgj.pics
 1789503-coinbase.com
 2017-facebook.blogspot.com
+30509j56.forum
 401283-outlookmailbox-00012-validate.weebly.com
-518787512.lat
 57162055.shop
 882028364740474749474749474.com
 a2zapk.co
 a2zapk.dev
 account-instagram.vercel.app
 adim.life
-adobe-kughahhfibvwekwzxoezczgj.pages.dev
-adobe-onlinedocument.top
-adobedelcielo.com
 adobeexperience.com.br
 adobeinstaller-virid.vercel.app
 agenciadlx.com.br
@@ -45,14 +40,13 @@ assign-icloud.com
 asso-entrautres.fr
 avaturefed.net
 axm-amazon.com
-bankofamerica-secure-setup.ph
-bankofamerica12383.ph
+bankofamerica-loginweb.com.ph
+bankofamerica-secure-policy.ph
 bankofamericamailcompte.blogspot.com
-bankofamericamanage.ph
-bankofamericapaymentalert.ph
+bankofamericamymortgage.ph
+bankofamericawealth.ph
 barcelona-facebook.blogspot.com
 barclays-bank.vercel.app
-bbva-hiring-paperless.appspot.com
 bbvalues.uk
 be-spotify.com
 berbagi-facebook.blogspot.com
@@ -106,7 +100,7 @@ comcast-3.vercel.app
 comcast-ebon.vercel.app
 comcast-seven.vercel.app
 comcast2.vercel.app
-correos-reprogramar.com
+comomypal-securityserver.netflixconfirmation.net1fc.smtp.test.bimp-bot.duckdns.org
 correosccl.cc
 correoscri.cc
 correosiicr.cc
@@ -121,7 +115,6 @@ dayoadeyemo.com
 de-paypal-sec.com
 de5.net
 deluxxe.com.br
-desktop-ledgrecdn.wixstudio.com
 dhl-express-dev.firebaseapp.com
 dir.com.my
 discoveryloft.com
@@ -131,6 +124,7 @@ docs-trezor-app.pages.dev
 documentsharing.fr
 docusign.one
 dothome.co.kr
+dpd-bexnaro.com
 dpd-calviro.click
 dpd-malvexa.click
 dpd-ravlimo.com
@@ -157,7 +151,6 @@ eu.cc
 ewlpnkrg.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 exclusive-openseamints.vercel.app
-exodus-desktop-mobile-wallet.github.io
 exodus-wallet.global.ssl.fastly.net
 exodusathleticclub.com
 exoduswalletcc.pages.dev
@@ -257,7 +250,6 @@ facebookbfacebook.blogspot.com
 facebookbigeronline.blogspot.com
 facebookcomfacebook.blogspot.com
 facebookctf.vercel.app
-facebookcustomer-service.com
 facebookcustomersupportnumber25.blogspot.com
 facebookdatingonfacebook.blogspot.com
 facebooke-login.blogspot.com
@@ -315,7 +307,6 @@ fedexcargo.delivery
 fedexsv.com
 fedexwp.com
 fercel.app
-filestorage-adobedrive.top
 forsakens-crew-teman-facebook.blogspot.com
 free-facebook-page-likes.blogspot.com
 fwh.is
@@ -327,6 +318,7 @@ gloronyan.github.io
 glovonetwork.com
 google-apk.com
 google-live-maps.com
+google.com.py
 google1107.com
 google1208.com
 google1302.com
@@ -359,10 +351,8 @@ hot-binance.com.cn
 hsbc-sec.com
 hsbctds.com
 hstn.me
-i45ohj568f23.help
 icloud-location.info
 icloudmex-lost.com
-icloudmyreports.help
 icloudweb-ext860.click
 ideeo.mx
 ifotografix.co.uk
@@ -433,7 +423,6 @@ instagramsnp.blogspot.com
 instagramsupportverify.blogspot.com
 instagramunblockedd.vercel.app
 instagramusicabrasilinstagram.blogspot.com
-interac-googlepllry-singpass.com.ph
 internal-alerts.com
 invreceiptslinkedin.com
 io-en-trezo.square.site
@@ -442,30 +431,33 @@ io-trezrn-eng.pages.dev
 isha-dev.com
 itau-com.vercel.app
 itau-snowy.vercel.app
+itauingreso.com
+itaupersonnalitenegocios.ph
 jayaram0550.github.io
 jj-facebook.blogspot.com
 jo-facebook.blogspot.com
 jwb-facebook.blogspot.com
 jyothycirrussaviation.com
 kauadosantos.github.io
-kraken-darknet-to.pages.dev
 kraken-tor.co.com
 kucoin-referral-code-pt.vercel.app
+kucoinblock.com
 kucoinlogenac.gitbook.io
 kucoinloginaa.gitbook.io
 kucoinloign.gitbook.io
 ledger-live-application.com
+ledger-live-download-auth-co.typedream.app
 ledger-live-download-sso-conect.typedream.app
 ledger-live-login-web.square.site
 ledger-live-wallet-cloud-us-web.typedream.app
 ledgrelivapp--crome.typedream.app
 leia-santander.vercel.app
 lib-iscpolobcu.org
+linkedin-alerts.com
 linkedin-antanim.vercel.app
 lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
 lobologisticgroup.com.mx
 lobster-cloud.com
-localisation-icloud.click
 login-facebook-facebook.blogspot.com
 login-facebookaccount.blogspot.com
 login-my-facebook.blogspot.com
@@ -488,7 +480,6 @@ meet-googlee46347975696.pages.dev
 meet-googlee7563454656.pages.dev
 meet-googlee7823629056.pages.dev
 meme-facebook.blogspot.com
-metamask-30.gitbook.io
 metamask-ai-agent.vercel.app
 metamask-connect.vercel.app
 metamask-launchpad.vercel.app
@@ -532,6 +523,7 @@ netflix-colombia.vercel.app
 netflix-cop.vercel.app
 netflix-coral-zeta.vercel.app
 netflix-homepage-pi.vercel.app
+netflix-infos.com
 netflix-lake.vercel.app
 netflix-recovery.com
 netflix-sandy-alpha.vercel.app
@@ -565,7 +557,6 @@ openai-coin.com
 opensea-six.vercel.app
 openseaproks007.vercel.app
 openseavxr.vercel.app
-opry453823h.homes
 orbit-whatsapp.com
 ossama-instagram.vercel.app
 outlook-login.github.io
@@ -577,7 +568,6 @@ page-kucoin-en-us.typedream.app
 pass-cargo.com
 paykmc.com
 paypal-logiin.blogspot.com
-paypal-net.ph
 paypal-password.blogspot.com
 paypalcorp.blogspot.com
 pe-facebook.blogspot.com
@@ -587,11 +577,13 @@ piedrasdecolon.com.ar
 pl-oferta16214571.shop
 pl-oferta813.cfd
 pl-oferta9922.cfd
+pl-wuz9h.sbs
 platform-kraken.cc
 pozycjanr5453234213.sbs
 premio-instagram.com
 profil-facebook-saya.blogspot.com
 promorange.co.uk
+prwan845b45g.casa
 ptai.in
 r-facebook.blogspot.com
 rama-facebook.blogspot.com
@@ -623,6 +615,7 @@ s-facebook.blogspot.com
 safe-whatsapp.com
 sagers.com
 samplel-ks6yxvur5-instagramm.vercel.app
+santander-br.netlify.app
 santander-dev-week.vercel.app
 santander-remaster-whats-fb-kappa.vercel.app
 santander-remaster-whats-fb.vercel.app
@@ -648,6 +641,7 @@ smartzakup24.sbs
 soilmatengineers.com
 spotify-client-beta.vercel.app
 spotifylite.online
+spotifymodapp.com.in
 spotifymode.org
 spotifymusic.loginto.me
 spotifypremiumapk.pk
@@ -662,11 +656,9 @@ start-web-en-ledger-live-login.typedream.app
 steamcommunity.blog
 steamcommunity.ing
 steuerquimica.cl
-strutsupportsystems.com
 su-facebook.blogspot.com
 sugar-outlook.com
 suite-app-docs-trezr.typedream.app
-suiteapp-trezrr.wixstudio.com
 support-instagram.github.io
 support-ledgerlive-eng.typedream.app
 support-ledgrcom-start-web.typedream.app
@@ -690,6 +682,7 @@ trezor-login-guide.square.site
 trezor-login-us-auth-start.typedream.app
 trezor.pt
 trezorguide.vercel.app
+trezoridfgstaartt.gitbook.io
 trezorrgoappup.gitbook.io
 trust-wallet-customer-support-number.github.io
 trust-wallet-login.vercel.app
@@ -706,14 +699,15 @@ uspsaunitedworkforce.com
 uspsecuredlogs.com
 uspss.pages.dev
 uspssmartparcellocker.tech
+uspstracking.fun
 v0-exodus-wallet-app.vercel.app
 v0-instagram-accounts.vercel.app
 verifyaccount-google.com
 verifytoken.com
 viewclass.com
 vinted-check.com
+vinted-order45356.com
 vinted-technologies.live
-vodafone-business-berlin.com
 vodafone-business-berlin.de
 vodafone-business-berlin.store
 vodafone-on-line.it
@@ -724,12 +718,12 @@ waycobeauty.com
 web-conect-us-ledger-live-wallet.typedream.app
 web-trezor-io-start-us.vercel.app
 webaccess-alert.com
-webador.com
 webmail-service-xfinity.vercel.app
 welcome-trezr-suite.square.site
 wetransfer-1.vercel.app
 whatsapp-dp-images.in
 whatsapp-fast.vercel.app
+whatsapp-gruppo-connect.com
 whatsapp-iamsuyash.vercel.app
 whatsapp-verify.blogspot.com
 whatsapp11-cnj.pages.dev
@@ -755,6 +749,7 @@ yonataxi.at
 yzz.me
 z-facebook.blogspot.com
 z-instagram.blogspot.com
+zaltiel.com.do
 zeta-facebook.blogspot.com
 zho-google.cn
 zkey0.com
