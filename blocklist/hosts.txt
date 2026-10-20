@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 760
-# Updated: 2026-10-20T04:52:20Z
+# Entries: 774
+# Updated: 2026-10-20T11:38:31Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -16,6 +16,7 @@
 0.0.0.0 2430j506.forum
 0.0.0.0 24h-2002wwq.top
 0.0.0.0 401283-outlookmailbox-00012-validate.weebly.com
+0.0.0.0 4787155.lat
 0.0.0.0 57162055.shop
 0.0.0.0 812378167348362.rest
 0.0.0.0 882028364740474749474749474.com
@@ -23,6 +24,7 @@
 0.0.0.0 a2zapk.dev
 0.0.0.0 account-instagram.vercel.app
 0.0.0.0 adim.life
+0.0.0.0 adobe-coswdhnqqggmxltzlrdswunb.pages.dev
 0.0.0.0 adobe-photoshop-crack.com
 0.0.0.0 adobeexperience.com.br
 0.0.0.0 adobeinstaller-virid.vercel.app
@@ -44,9 +46,17 @@
 0.0.0.0 asso-entrautres.fr
 0.0.0.0 avaturefed.net
 0.0.0.0 axm-amazon.com
+0.0.0.0 bankofamerica-secure-account-service.ph
+0.0.0.0 bankofamerica-secure-cardupdate.ph
+0.0.0.0 bankofamerica-secure-operator.ph
+0.0.0.0 bankofamerica-secure-session.ph
+0.0.0.0 bankofamerica-secure-updatetransaction.ph
 0.0.0.0 bankofamerica-tx.com
+0.0.0.0 bankofamericacashback.ph
+0.0.0.0 bankofamericalosangelesbankinghelpcenter.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 bankofamericamymortgage.ph
+0.0.0.0 bankofamericasmartcenter.ph
 0.0.0.0 bankofamericawealth.ph
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
@@ -71,6 +81,7 @@
 0.0.0.0 biowikiweb.com
 0.0.0.0 bnext.es
 0.0.0.0 bothmarcus37.github.io
+0.0.0.0 botsea.club
 0.0.0.0 brad-facebook.blogspot.com
 0.0.0.0 bradescosegurosop.com.br
 0.0.0.0 buscarmi-icloud.app
@@ -139,7 +150,6 @@
 0.0.0.0 dpduk.dev
 0.0.0.0 drive-icloud.com
 0.0.0.0 dropbox-online.at
-0.0.0.0 eagle-facebook-test-20261019.pages.dev
 0.0.0.0 ebay-c.com
 0.0.0.0 ebay-seller-center-managedpayments.vercel.app
 0.0.0.0 ebaymclaren-austin.eventshouse.app
@@ -311,6 +321,7 @@
 0.0.0.0 faq-trezrio.pages.dev
 0.0.0.0 fedexblack.com
 0.0.0.0 fedexcargo.delivery
+0.0.0.0 fedexsuppoter.org
 0.0.0.0 fedexsv.com
 0.0.0.0 fedexwp.com
 0.0.0.0 fercel.app
@@ -503,8 +514,10 @@
 0.0.0.0 metamasklskog.gitbook.io
 0.0.0.0 metamaskrewards.com
 0.0.0.0 metamaskuxlogen.gitbook.io
+0.0.0.0 metamaskwallet.to
 0.0.0.0 metamaskwallett.blogspot.com
 0.0.0.0 mi-santander.com
+0.0.0.0 michaeltenzer.com
 0.0.0.0 microsoft-0r.github.io
 0.0.0.0 microsoft-alpha.vercel.app
 0.0.0.0 microsoft-online.gr
@@ -577,6 +590,7 @@
 0.0.0.0 paypal-logiin.blogspot.com
 0.0.0.0 paypal-password.blogspot.com
 0.0.0.0 paypalcorp.blogspot.com
+0.0.0.0 paypalmoneyfree.com
 0.0.0.0 pe-facebook.blogspot.com
 0.0.0.0 peputragroup.com
 0.0.0.0 perplexity-beta-ads.com
@@ -649,7 +663,6 @@
 0.0.0.0 sg-spotify.com
 0.0.0.0 shopping-shop.jp
 0.0.0.0 shopweb.com.vn
-0.0.0.0 shyvins.com
 0.0.0.0 sigma-whatsapp.com
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 smallflyingarts.net
@@ -665,6 +678,7 @@
 0.0.0.0 srv6-coinbase.com
 0.0.0.0 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 0.0.0.0 start-ledgerlive-com-web.typedream.app
+0.0.0.0 start-ledgerlive.pages.dev
 0.0.0.0 start-ledgren.zapier.app
 0.0.0.0 start-web-en-ledger-live-login.typedream.app
 0.0.0.0 steamcommunity.blog
@@ -678,7 +692,6 @@
 0.0.0.0 support-ledgrcom-start-web.typedream.app
 0.0.0.0 tamil.bid
 0.0.0.0 tara-facebook.blogspot.com
-0.0.0.0 taslimaenterprise.com
 0.0.0.0 tb-facebook.blogspot.com
 0.0.0.0 temporary.site
 0.0.0.0 test-facebook.blogspot.com
@@ -690,6 +703,7 @@
 0.0.0.0 trackingnumbers.org
 0.0.0.0 trezoorr--thego.gitbook.io
 0.0.0.0 trezor-brige.square.site
+0.0.0.0 trezor-eo-startd.pages.dev
 0.0.0.0 trezor-hardware-login.square.site
 0.0.0.0 trezor-login-guide.square.site
 0.0.0.0 trezor-login-us-auth-start.typedream.app

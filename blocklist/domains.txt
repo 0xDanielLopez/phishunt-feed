@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 760
-# Updated: 2026-10-20T04:46:22Z
+# Entries: 774
+# Updated: 2026-10-20T11:38:30Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -16,6 +16,7 @@
 2430j506.forum
 24h-2002wwq.top
 401283-outlookmailbox-00012-validate.weebly.com
+4787155.lat
 57162055.shop
 812378167348362.rest
 882028364740474749474749474.com
@@ -23,6 +24,7 @@ a2zapk.co
 a2zapk.dev
 account-instagram.vercel.app
 adim.life
+adobe-coswdhnqqggmxltzlrdswunb.pages.dev
 adobe-photoshop-crack.com
 adobeexperience.com.br
 adobeinstaller-virid.vercel.app
@@ -44,9 +46,17 @@ assign-icloud.com
 asso-entrautres.fr
 avaturefed.net
 axm-amazon.com
+bankofamerica-secure-account-service.ph
+bankofamerica-secure-cardupdate.ph
+bankofamerica-secure-operator.ph
+bankofamerica-secure-session.ph
+bankofamerica-secure-updatetransaction.ph
 bankofamerica-tx.com
+bankofamericacashback.ph
+bankofamericalosangelesbankinghelpcenter.ph
 bankofamericamailcompte.blogspot.com
 bankofamericamymortgage.ph
+bankofamericasmartcenter.ph
 bankofamericawealth.ph
 barcelona-facebook.blogspot.com
 barclays-bank.vercel.app
@@ -71,6 +81,7 @@ binancewallett.blogspot.com
 biowikiweb.com
 bnext.es
 bothmarcus37.github.io
+botsea.club
 brad-facebook.blogspot.com
 bradescosegurosop.com.br
 buscarmi-icloud.app
@@ -139,7 +150,6 @@ dpdie.live
 dpduk.dev
 drive-icloud.com
 dropbox-online.at
-eagle-facebook-test-20261019.pages.dev
 ebay-c.com
 ebay-seller-center-managedpayments.vercel.app
 ebaymclaren-austin.eventshouse.app
@@ -311,6 +321,7 @@ facebookwebsite9.blogspot.com
 faq-trezrio.pages.dev
 fedexblack.com
 fedexcargo.delivery
+fedexsuppoter.org
 fedexsv.com
 fedexwp.com
 fercel.app
@@ -503,8 +514,10 @@ metamaskirstelkmgt.cyou
 metamasklskog.gitbook.io
 metamaskrewards.com
 metamaskuxlogen.gitbook.io
+metamaskwallet.to
 metamaskwallett.blogspot.com
 mi-santander.com
+michaeltenzer.com
 microsoft-0r.github.io
 microsoft-alpha.vercel.app
 microsoft-online.gr
@@ -577,6 +590,7 @@ paykmc.com
 paypal-logiin.blogspot.com
 paypal-password.blogspot.com
 paypalcorp.blogspot.com
+paypalmoneyfree.com
 pe-facebook.blogspot.com
 peputragroup.com
 perplexity-beta-ads.com
@@ -649,7 +663,6 @@ seureonline.shop
 sg-spotify.com
 shopping-shop.jp
 shopweb.com.vn
-shyvins.com
 sigma-whatsapp.com
 sk-facebook.blogspot.com
 smallflyingarts.net
@@ -665,6 +678,7 @@ srpska-banka.com
 srv6-coinbase.com
 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 start-ledgerlive-com-web.typedream.app
+start-ledgerlive.pages.dev
 start-ledgren.zapier.app
 start-web-en-ledger-live-login.typedream.app
 steamcommunity.blog
@@ -678,7 +692,6 @@ support-ledgerlive-eng.typedream.app
 support-ledgrcom-start-web.typedream.app
 tamil.bid
 tara-facebook.blogspot.com
-taslimaenterprise.com
 tb-facebook.blogspot.com
 temporary.site
 test-facebook.blogspot.com
@@ -690,6 +703,7 @@ ticket-fedex.com
 trackingnumbers.org
 trezoorr--thego.gitbook.io
 trezor-brige.square.site
+trezor-eo-startd.pages.dev
 trezor-hardware-login.square.site
 trezor-login-guide.square.site
 trezor-login-us-auth-start.typedream.app

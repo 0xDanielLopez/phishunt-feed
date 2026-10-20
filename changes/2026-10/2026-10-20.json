@@ -1,20 +1,35 @@
 {
  "date": "2026-10-20",
- "updated": "2026-10-20T04:52:20Z",
+ "updated": "2026-10-20T11:38:32Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 8,
-  "removed": 17
+  "added": 23,
+  "removed": 18
  },
  "added": [
   "http://allegrolokalnie.pl823jx09z2304jy381.shop",
   "http://dow-nload-ledger-live--doc.typedream.app",
+  "https://accounts.google.com.michaeltenzer.com",
+  "https://adobe-coswdhnqqggmxltzlrdswunb.pages.dev",
   "https://allegrolokalnie.24h-2002wwq.top",
+  "https://allegrolokalnie.4787155.lat",
   "https://allegrolokalnie.pl-86253827354717436352.shop",
+  "https://bankofamerica-secure-account-service.ph",
+  "https://bankofamerica-secure-cardupdate.ph",
+  "https://bankofamerica-secure-operator.ph",
+  "https://bankofamerica-secure-session.ph",
+  "https://bankofamerica-secure-updatetransaction.ph",
+  "https://bankofamericacashback.ph",
+  "https://bankofamericalosangelesbankinghelpcenter.ph",
+  "https://bankofamericasmartcenter.ph",
+  "https://botsea.club",
   "https://chatgptlink.pro",
-  "https://eagle-facebook-test-20261019.pages.dev",
-  "https://sucursal-correosgocr-login.shyvins.com",
+  "https://home.fedexsuppoter.org",
+  "https://metamaskwallet.to",
+  "https://paypalmoneyfree.com",
+  "https://start-ledgerlive.pages.dev",
+  "https://trezor-eo-startd.pages.dev",
   "https://zxexxnym.bradesco.support.zaka25.duckdns.org"
  ],
  "removed": [
@@ -33,6 +48,7 @@
   "https://docusign.one",
   "https://netflix-infos.com",
   "https://netflixinfos.com",
+  "https://taslimaenterprise.com/adobe/",
   "https://trezoridfgstaartt.gitbook.io",
   "https://uspstracking.fun"
  ]
