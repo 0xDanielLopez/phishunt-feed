@@ -1,30 +1,27 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 774
-# Updated: 2026-10-20T11:38:30Z
+# Entries: 770
+# Updated: 2026-10-20T17:08:14Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
-0365-microsoft.gitbook.io
-058127.click
 1056804.com
 123-facebook.blogspot.com
 12312940.pl
 1789503-coinbase.com
 2017-facebook.blogspot.com
-2430j506.forum
 24h-2002wwq.top
 401283-outlookmailbox-00012-validate.weebly.com
 4787155.lat
 57162055.shop
 812378167348362.rest
 882028364740474749474749474.com
+918372-icloud.com
 a2zapk.co
 a2zapk.dev
 account-instagram.vercel.app
 adim.life
-adobe-coswdhnqqggmxltzlrdswunb.pages.dev
 adobe-photoshop-crack.com
 adobeexperience.com.br
 adobeinstaller-virid.vercel.app
@@ -42,6 +39,7 @@ app-binance.github.io
 app-facebook.blogspot.com
 app81-facebook.blogspot.com
 appleinc-support.info
+arogyayogshala.com
 assign-icloud.com
 asso-entrautres.fr
 avaturefed.net
@@ -49,14 +47,12 @@ axm-amazon.com
 bankofamerica-secure-account-service.ph
 bankofamerica-secure-cardupdate.ph
 bankofamerica-secure-operator.ph
-bankofamerica-secure-session.ph
 bankofamerica-secure-updatetransaction.ph
 bankofamerica-tx.com
 bankofamericacashback.ph
 bankofamericalosangelesbankinghelpcenter.ph
 bankofamericamailcompte.blogspot.com
 bankofamericamymortgage.ph
-bankofamericasmartcenter.ph
 bankofamericawealth.ph
 barcelona-facebook.blogspot.com
 barclays-bank.vercel.app
@@ -178,6 +174,7 @@ facebok-facebook.blogspot.com
 facebook--br.blogspot.com
 facebook-2-0-dun.vercel.app
 facebook-2022.blogspot.com
+facebook-2025.blogspot.com
 facebook-22.blogspot.com
 facebook-247-support.blogspot.com
 facebook-5645464.blogspot.com
@@ -319,6 +316,7 @@ facebookuserlogin.blogspot.com
 facebookverifyyouraccount.blogspot.com
 facebookwebsite9.blogspot.com
 faq-trezrio.pages.dev
+fatima-hanif-2108.github.io
 fedexblack.com
 fedexcargo.delivery
 fedexsuppoter.org
@@ -561,6 +559,7 @@ netflixgpt-react.vercel.app
 netflixquebec.blogspot.com
 netflixvoid.org
 netflixy-bixy.vercel.app
+netflixzap.com
 network-facebook.blogspot.com
 nhhydraulik.co.in
 no-spotify.com
@@ -601,10 +600,10 @@ pl-oferta-69375923484.top
 pl-oferta16214571.shop
 pl-oferta65244.sbs
 pl-oferta6645234444.cfd
-pl-oferta892371.sbs
 pl-oferta9922.cfd
 pl209381232jx2317vzx-218713.shop
 pl823jx09z2304jy381.shop
+plastkon.cc
 platform-kraken.cc
 portal-seg-social-gob.quest
 pozycjanr5453234213.sbs
@@ -629,6 +628,7 @@ roblox.com.bz
 roblox.com.ee
 roblox.com.et
 roblox.com.gr
+roblox.com.kz
 roblox.com.ml
 roblox.com.mw
 roblox.com.pt
@@ -660,7 +660,6 @@ serv00.net
 services-facebook.blogspot.com
 seur-es.site
 seureonline.shop
-sg-spotify.com
 shopping-shop.jp
 shopweb.com.vn
 sigma-whatsapp.com
@@ -678,9 +677,7 @@ srpska-banka.com
 srv6-coinbase.com
 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 start-ledgerlive-com-web.typedream.app
-start-ledgerlive.pages.dev
 start-ledgren.zapier.app
-start-web-en-ledger-live-login.typedream.app
 steamcommunity.blog
 steamcommunity.ing
 steuerquimica.cl
@@ -695,7 +692,6 @@ tara-facebook.blogspot.com
 tb-facebook.blogspot.com
 temporary.site
 test-facebook.blogspot.com
-test-test-google-test.netlify.app
 theamazon.vercel.app
 therelayservice.com
 thomas-coinbase.com
@@ -720,6 +716,7 @@ trustwallet-tokentwtowner.vercel.app
 trustwalletindia-beta.vercel.app
 uk-facebook.blogspot.com
 updata.net.cn
+us--ledger-live-crypto-cdn-en.typedream.app
 usdt-trustwallet-blockchain.vercel.app
 uspsaunitedworkforce.com
 uspsecuredlogs.com
@@ -730,7 +727,6 @@ v0-instagram-accounts.vercel.app
 verifyaccount-google.com
 verifytoken.com
 viewclass.com
-vinted-check.com
 vinted-technologies.live
 vodafone-business-berlin.de
 vodafone-business-berlin.store

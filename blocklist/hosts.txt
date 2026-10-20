@@ -1,30 +1,27 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 774
-# Updated: 2026-10-20T11:38:31Z
+# Entries: 770
+# Updated: 2026-10-20T17:08:14Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
-0.0.0.0 0365-microsoft.gitbook.io
-0.0.0.0 058127.click
 0.0.0.0 1056804.com
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 12312940.pl
 0.0.0.0 1789503-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
-0.0.0.0 2430j506.forum
 0.0.0.0 24h-2002wwq.top
 0.0.0.0 401283-outlookmailbox-00012-validate.weebly.com
 0.0.0.0 4787155.lat
 0.0.0.0 57162055.shop
 0.0.0.0 812378167348362.rest
 0.0.0.0 882028364740474749474749474.com
+0.0.0.0 918372-icloud.com
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
 0.0.0.0 account-instagram.vercel.app
 0.0.0.0 adim.life
-0.0.0.0 adobe-coswdhnqqggmxltzlrdswunb.pages.dev
 0.0.0.0 adobe-photoshop-crack.com
 0.0.0.0 adobeexperience.com.br
 0.0.0.0 adobeinstaller-virid.vercel.app
@@ -42,6 +39,7 @@
 0.0.0.0 app-facebook.blogspot.com
 0.0.0.0 app81-facebook.blogspot.com
 0.0.0.0 appleinc-support.info
+0.0.0.0 arogyayogshala.com
 0.0.0.0 assign-icloud.com
 0.0.0.0 asso-entrautres.fr
 0.0.0.0 avaturefed.net
@@ -49,14 +47,12 @@
 0.0.0.0 bankofamerica-secure-account-service.ph
 0.0.0.0 bankofamerica-secure-cardupdate.ph
 0.0.0.0 bankofamerica-secure-operator.ph
-0.0.0.0 bankofamerica-secure-session.ph
 0.0.0.0 bankofamerica-secure-updatetransaction.ph
 0.0.0.0 bankofamerica-tx.com
 0.0.0.0 bankofamericacashback.ph
 0.0.0.0 bankofamericalosangelesbankinghelpcenter.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 bankofamericamymortgage.ph
-0.0.0.0 bankofamericasmartcenter.ph
 0.0.0.0 bankofamericawealth.ph
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
@@ -178,6 +174,7 @@
 0.0.0.0 facebook--br.blogspot.com
 0.0.0.0 facebook-2-0-dun.vercel.app
 0.0.0.0 facebook-2022.blogspot.com
+0.0.0.0 facebook-2025.blogspot.com
 0.0.0.0 facebook-22.blogspot.com
 0.0.0.0 facebook-247-support.blogspot.com
 0.0.0.0 facebook-5645464.blogspot.com
@@ -319,6 +316,7 @@
 0.0.0.0 facebookverifyyouraccount.blogspot.com
 0.0.0.0 facebookwebsite9.blogspot.com
 0.0.0.0 faq-trezrio.pages.dev
+0.0.0.0 fatima-hanif-2108.github.io
 0.0.0.0 fedexblack.com
 0.0.0.0 fedexcargo.delivery
 0.0.0.0 fedexsuppoter.org
@@ -561,6 +559,7 @@
 0.0.0.0 netflixquebec.blogspot.com
 0.0.0.0 netflixvoid.org
 0.0.0.0 netflixy-bixy.vercel.app
+0.0.0.0 netflixzap.com
 0.0.0.0 network-facebook.blogspot.com
 0.0.0.0 nhhydraulik.co.in
 0.0.0.0 no-spotify.com
@@ -601,10 +600,10 @@
 0.0.0.0 pl-oferta16214571.shop
 0.0.0.0 pl-oferta65244.sbs
 0.0.0.0 pl-oferta6645234444.cfd
-0.0.0.0 pl-oferta892371.sbs
 0.0.0.0 pl-oferta9922.cfd
 0.0.0.0 pl209381232jx2317vzx-218713.shop
 0.0.0.0 pl823jx09z2304jy381.shop
+0.0.0.0 plastkon.cc
 0.0.0.0 platform-kraken.cc
 0.0.0.0 portal-seg-social-gob.quest
 0.0.0.0 pozycjanr5453234213.sbs
@@ -629,6 +628,7 @@
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.et
 0.0.0.0 roblox.com.gr
+0.0.0.0 roblox.com.kz
 0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.mw
 0.0.0.0 roblox.com.pt
@@ -660,7 +660,6 @@
 0.0.0.0 services-facebook.blogspot.com
 0.0.0.0 seur-es.site
 0.0.0.0 seureonline.shop
-0.0.0.0 sg-spotify.com
 0.0.0.0 shopping-shop.jp
 0.0.0.0 shopweb.com.vn
 0.0.0.0 sigma-whatsapp.com
@@ -678,9 +677,7 @@
 0.0.0.0 srv6-coinbase.com
 0.0.0.0 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 0.0.0.0 start-ledgerlive-com-web.typedream.app
-0.0.0.0 start-ledgerlive.pages.dev
 0.0.0.0 start-ledgren.zapier.app
-0.0.0.0 start-web-en-ledger-live-login.typedream.app
 0.0.0.0 steamcommunity.blog
 0.0.0.0 steamcommunity.ing
 0.0.0.0 steuerquimica.cl
@@ -695,7 +692,6 @@
 0.0.0.0 tb-facebook.blogspot.com
 0.0.0.0 temporary.site
 0.0.0.0 test-facebook.blogspot.com
-0.0.0.0 test-test-google-test.netlify.app
 0.0.0.0 theamazon.vercel.app
 0.0.0.0 therelayservice.com
 0.0.0.0 thomas-coinbase.com
@@ -720,6 +716,7 @@
 0.0.0.0 trustwalletindia-beta.vercel.app
 0.0.0.0 uk-facebook.blogspot.com
 0.0.0.0 updata.net.cn
+0.0.0.0 us--ledger-live-crypto-cdn-en.typedream.app
 0.0.0.0 usdt-trustwallet-blockchain.vercel.app
 0.0.0.0 uspsaunitedworkforce.com
 0.0.0.0 uspsecuredlogs.com
@@ -730,7 +727,6 @@
 0.0.0.0 verifyaccount-google.com
 0.0.0.0 verifytoken.com
 0.0.0.0 viewclass.com
-0.0.0.0 vinted-check.com
 0.0.0.0 vinted-technologies.live
 0.0.0.0 vodafone-business-berlin.de
 0.0.0.0 vodafone-business-berlin.store
