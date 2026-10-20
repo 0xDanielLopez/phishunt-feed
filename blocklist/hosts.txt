@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 769
-# Updated: 2026-10-19T22:21:45Z
+# Entries: 760
+# Updated: 2026-10-20T04:52:20Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -14,8 +14,7 @@
 0.0.0.0 1789503-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 2430j506.forum
-0.0.0.0 24h-tte.top
-0.0.0.0 30509j56.forum
+0.0.0.0 24h-2002wwq.top
 0.0.0.0 401283-outlookmailbox-00012-validate.weebly.com
 0.0.0.0 57162055.shop
 0.0.0.0 812378167348362.rest
@@ -45,8 +44,6 @@
 0.0.0.0 asso-entrautres.fr
 0.0.0.0 avaturefed.net
 0.0.0.0 axm-amazon.com
-0.0.0.0 bankofamerica-loginweb.com.ph
-0.0.0.0 bankofamerica-secure-policy.ph
 0.0.0.0 bankofamerica-tx.com
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 bankofamericamymortgage.ph
@@ -58,7 +55,6 @@
 0.0.0.0 berbagi-facebook.blogspot.com
 0.0.0.0 bercel.app
 0.0.0.0 bet-facebook.blogspot.com
-0.0.0.0 binance-account-login.vercel.app
 0.0.0.0 binance-co.github.io
 0.0.0.0 binance-mail.click
 0.0.0.0 binance-promo-code.vercel.app
@@ -84,6 +80,7 @@
 0.0.0.0 cfm-whatsapps.com
 0.0.0.0 ch-google.cc
 0.0.0.0 chatgpt0005.eu.org
+0.0.0.0 chatgptlink.pro
 0.0.0.0 checkleaked.cc
 0.0.0.0 chrome-google.cc
 0.0.0.0 chs-google.cn
@@ -94,7 +91,6 @@
 0.0.0.0 coinbase-connetct.vercel.app
 0.0.0.0 coinbase-event.vercel.app
 0.0.0.0 coinbase-passive-income.com
-0.0.0.0 coinbase-pro-tax.pages.dev
 0.0.0.0 coinbase.am.in
 0.0.0.0 coinbaseprologinv.gitbook.io
 0.0.0.0 coinbaseverify.vercel.app
@@ -131,8 +127,8 @@
 0.0.0.0 docs-google.com
 0.0.0.0 docs-trezor-app.pages.dev
 0.0.0.0 documentsharing.fr
-0.0.0.0 docusign.one
 0.0.0.0 dothome.co.kr
+0.0.0.0 dow-nload-ledger-live--doc.typedream.app
 0.0.0.0 download-bbva.top
 0.0.0.0 dpd-bexnaro.com
 0.0.0.0 dpd-calviro.click
@@ -143,6 +139,7 @@
 0.0.0.0 dpduk.dev
 0.0.0.0 drive-icloud.com
 0.0.0.0 dropbox-online.at
+0.0.0.0 eagle-facebook-test-20261019.pages.dev
 0.0.0.0 ebay-c.com
 0.0.0.0 ebay-seller-center-managedpayments.vercel.app
 0.0.0.0 ebaymclaren-austin.eventshouse.app
@@ -534,7 +531,6 @@
 0.0.0.0 netflix-cop.vercel.app
 0.0.0.0 netflix-coral-zeta.vercel.app
 0.0.0.0 netflix-homepage-pi.vercel.app
-0.0.0.0 netflix-infos.com
 0.0.0.0 netflix-lake.vercel.app
 0.0.0.0 netflix-recovery.com
 0.0.0.0 netflix-sandy-alpha.vercel.app
@@ -549,7 +545,6 @@
 0.0.0.0 netflixcol.vercel.app
 0.0.0.0 netflixfeitoaqui.com.br
 0.0.0.0 netflixgpt-react.vercel.app
-0.0.0.0 netflixinfos.com
 0.0.0.0 netflixquebec.blogspot.com
 0.0.0.0 netflixvoid.org
 0.0.0.0 netflixy-bixy.vercel.app
@@ -587,22 +582,21 @@
 0.0.0.0 perplexity-beta-ads.com
 0.0.0.0 phil-heron-zoomdrain-com-s-account.workers.dev
 0.0.0.0 piedrasdecolon.com.ar
+0.0.0.0 pl-86253827354717436352.shop
 0.0.0.0 pl-oferta-69375923484.top
 0.0.0.0 pl-oferta16214571.shop
 0.0.0.0 pl-oferta65244.sbs
 0.0.0.0 pl-oferta6645234444.cfd
 0.0.0.0 pl-oferta892371.sbs
-0.0.0.0 pl-oferta895301.sbs
 0.0.0.0 pl-oferta9922.cfd
-0.0.0.0 pl-wuz9h.sbs
 0.0.0.0 pl209381232jx2317vzx-218713.shop
+0.0.0.0 pl823jx09z2304jy381.shop
 0.0.0.0 platform-kraken.cc
 0.0.0.0 portal-seg-social-gob.quest
 0.0.0.0 pozycjanr5453234213.sbs
 0.0.0.0 premio-instagram.com
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 promorange.co.uk
-0.0.0.0 prwan845b45g.casa
 0.0.0.0 ptai.in
 0.0.0.0 r-facebook.blogspot.com
 0.0.0.0 rama-facebook.blogspot.com
@@ -628,7 +622,6 @@
 0.0.0.0 roblox.rw
 0.0.0.0 robloxc.com.es
 0.0.0.0 rricrosoft-offices.org
-0.0.0.0 rt-1981.top
 0.0.0.0 ruddycruzc.github.io
 0.0.0.0 s-facebook.blogspot.com
 0.0.0.0 safe-whatsapp.com
@@ -656,10 +649,10 @@
 0.0.0.0 sg-spotify.com
 0.0.0.0 shopping-shop.jp
 0.0.0.0 shopweb.com.vn
+0.0.0.0 shyvins.com
 0.0.0.0 sigma-whatsapp.com
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 smallflyingarts.net
-0.0.0.0 smartzakup24.sbs
 0.0.0.0 soilmatengineers.com
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotifylite.online
@@ -702,7 +695,6 @@
 0.0.0.0 trezor-login-us-auth-start.typedream.app
 0.0.0.0 trezor.pt
 0.0.0.0 trezorguide.vercel.app
-0.0.0.0 trezoridfgstaartt.gitbook.io
 0.0.0.0 trezorrgoappup.gitbook.io
 0.0.0.0 trust-wallet-customer-support-number.github.io
 0.0.0.0 trust-wallet-login.vercel.app
@@ -719,10 +711,8 @@
 0.0.0.0 uspsecuredlogs.com
 0.0.0.0 uspss.pages.dev
 0.0.0.0 uspssmartparcellocker.tech
-0.0.0.0 uspstracking.fun
 0.0.0.0 v0-exodus-wallet-app.vercel.app
 0.0.0.0 v0-instagram-accounts.vercel.app
-0.0.0.0 verificatie-bankofamerica.ph
 0.0.0.0 verifyaccount-google.com
 0.0.0.0 verifytoken.com
 0.0.0.0 viewclass.com
@@ -769,6 +759,7 @@
 0.0.0.0 yzz.me
 0.0.0.0 z-facebook.blogspot.com
 0.0.0.0 z-instagram.blogspot.com
+0.0.0.0 zaka25.duckdns.org
 0.0.0.0 zaltiel.com.do
 0.0.0.0 zeta-facebook.blogspot.com
 0.0.0.0 zho-google.cn

@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 769
-# Updated: 2026-10-19T22:21:44Z
+# Entries: 760
+# Updated: 2026-10-20T04:46:22Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -14,8 +14,7 @@
 1789503-coinbase.com
 2017-facebook.blogspot.com
 2430j506.forum
-24h-tte.top
-30509j56.forum
+24h-2002wwq.top
 401283-outlookmailbox-00012-validate.weebly.com
 57162055.shop
 812378167348362.rest
@@ -45,8 +44,6 @@ assign-icloud.com
 asso-entrautres.fr
 avaturefed.net
 axm-amazon.com
-bankofamerica-loginweb.com.ph
-bankofamerica-secure-policy.ph
 bankofamerica-tx.com
 bankofamericamailcompte.blogspot.com
 bankofamericamymortgage.ph
@@ -58,7 +55,6 @@ be-spotify.com
 berbagi-facebook.blogspot.com
 bercel.app
 bet-facebook.blogspot.com
-binance-account-login.vercel.app
 binance-co.github.io
 binance-mail.click
 binance-promo-code.vercel.app
@@ -84,6 +80,7 @@ cashappps.com
 cfm-whatsapps.com
 ch-google.cc
 chatgpt0005.eu.org
+chatgptlink.pro
 checkleaked.cc
 chrome-google.cc
 chs-google.cn
@@ -94,7 +91,6 @@ cn-feed-whatsapp.com.cn
 coinbase-connetct.vercel.app
 coinbase-event.vercel.app
 coinbase-passive-income.com
-coinbase-pro-tax.pages.dev
 coinbase.am.in
 coinbaseprologinv.gitbook.io
 coinbaseverify.vercel.app
@@ -131,8 +127,8 @@ dj-facebook.blogspot.com
 docs-google.com
 docs-trezor-app.pages.dev
 documentsharing.fr
-docusign.one
 dothome.co.kr
+dow-nload-ledger-live--doc.typedream.app
 download-bbva.top
 dpd-bexnaro.com
 dpd-calviro.click
@@ -143,6 +139,7 @@ dpdie.live
 dpduk.dev
 drive-icloud.com
 dropbox-online.at
+eagle-facebook-test-20261019.pages.dev
 ebay-c.com
 ebay-seller-center-managedpayments.vercel.app
 ebaymclaren-austin.eventshouse.app
@@ -534,7 +531,6 @@ netflix-colombia.vercel.app
 netflix-cop.vercel.app
 netflix-coral-zeta.vercel.app
 netflix-homepage-pi.vercel.app
-netflix-infos.com
 netflix-lake.vercel.app
 netflix-recovery.com
 netflix-sandy-alpha.vercel.app
@@ -549,7 +545,6 @@ netflixbymanoj.vercel.app
 netflixcol.vercel.app
 netflixfeitoaqui.com.br
 netflixgpt-react.vercel.app
-netflixinfos.com
 netflixquebec.blogspot.com
 netflixvoid.org
 netflixy-bixy.vercel.app
@@ -587,22 +582,21 @@ peputragroup.com
 perplexity-beta-ads.com
 phil-heron-zoomdrain-com-s-account.workers.dev
 piedrasdecolon.com.ar
+pl-86253827354717436352.shop
 pl-oferta-69375923484.top
 pl-oferta16214571.shop
 pl-oferta65244.sbs
 pl-oferta6645234444.cfd
 pl-oferta892371.sbs
-pl-oferta895301.sbs
 pl-oferta9922.cfd
-pl-wuz9h.sbs
 pl209381232jx2317vzx-218713.shop
+pl823jx09z2304jy381.shop
 platform-kraken.cc
 portal-seg-social-gob.quest
 pozycjanr5453234213.sbs
 premio-instagram.com
 profil-facebook-saya.blogspot.com
 promorange.co.uk
-prwan845b45g.casa
 ptai.in
 r-facebook.blogspot.com
 rama-facebook.blogspot.com
@@ -628,7 +622,6 @@ roblox.fo
 roblox.rw
 robloxc.com.es
 rricrosoft-offices.org
-rt-1981.top
 ruddycruzc.github.io
 s-facebook.blogspot.com
 safe-whatsapp.com
@@ -656,10 +649,10 @@ seureonline.shop
 sg-spotify.com
 shopping-shop.jp
 shopweb.com.vn
+shyvins.com
 sigma-whatsapp.com
 sk-facebook.blogspot.com
 smallflyingarts.net
-smartzakup24.sbs
 soilmatengineers.com
 spotify-client-beta.vercel.app
 spotifylite.online
@@ -702,7 +695,6 @@ trezor-login-guide.square.site
 trezor-login-us-auth-start.typedream.app
 trezor.pt
 trezorguide.vercel.app
-trezoridfgstaartt.gitbook.io
 trezorrgoappup.gitbook.io
 trust-wallet-customer-support-number.github.io
 trust-wallet-login.vercel.app
@@ -719,10 +711,8 @@ uspsaunitedworkforce.com
 uspsecuredlogs.com
 uspss.pages.dev
 uspssmartparcellocker.tech
-uspstracking.fun
 v0-exodus-wallet-app.vercel.app
 v0-instagram-accounts.vercel.app
-verificatie-bankofamerica.ph
 verifyaccount-google.com
 verifytoken.com
 viewclass.com
@@ -769,6 +759,7 @@ yonataxi.at
 yzz.me
 z-facebook.blogspot.com
 z-instagram.blogspot.com
+zaka25.duckdns.org
 zaltiel.com.do
 zeta-facebook.blogspot.com
 zho-google.cn
