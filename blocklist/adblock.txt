@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 770
-! Updated: 2026-10-20T17:08:15Z
+! Entries: 803
+! Updated: 2026-10-20T21:37:53Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -13,46 +13,71 @@
 ||2017-facebook.blogspot.com^
 ||24h-2002wwq.top^
 ||401283-outlookmailbox-00012-validate.weebly.com^
-||4787155.lat^
 ||57162055.shop^
 ||812378167348362.rest^
 ||882028364740474749474749474.com^
-||918372-icloud.com^
 ||a2zapk.co^
 ||a2zapk.dev^
+||abkweb-whatsapp.com^
 ||account-instagram.vercel.app^
+||action-whatsapp.com^
 ||adim.life^
+||adobe-hjdvkivfibceozksgwznvcvo.pages.dev^
+||adobe-pewfimjowenfjewnlfmeklw.pages.dev^
 ||adobe-photoshop-crack.com^
-||adobeexperience.com.br^
 ||adobeinstaller-virid.vercel.app^
 ||agenciadlx.com.br^
+||aggregator-whatsapp.com^
+||airbnbb.de^
+||ajz-whatsapp.com^
+||akb-whatsapp.com^
+||akc-whatsapp.com^
+||akd-whatsapp.com^
+||ake-whatsapp.com^
+||akf-whatsapp.com^
+||ala-whatsapp.com^
+||alb-whatsapp.com^
+||alc-whatsapp.com^
+||ald-whatsapp.com^
+||ale-whatsapp.com^
 ||alerta-appleid.info^
+||alf-whatsapp.com^
 ||alibaba188.org^
 ||alibaba99.com^
 ||alibabaexclusifyx.com^
+||ama-whatsapp.com^
 ||amazon-harshdeep.vercel.app^
 ||amazon-opfq.vercel.app^
+||amb-whatsapp.com^
 ||ancoradourohotel.com.br^
 ||ani-facebook.blogspot.com^
 ||apk-google.cn^
 ||app-binance.github.io^
 ||app-facebook.blogspot.com^
 ||app81-facebook.blogspot.com^
+||appl-itau.com.ph^
 ||appleinc-support.info^
 ||arogyayogshala.com^
 ||assign-icloud.com^
 ||asso-entrautres.fr^
 ||avaturefed.net^
 ||axm-amazon.com^
+||bankofamerica-com-welcome0upgrade-info-system-login.ph^
+||bankofamerica-register.ph^
 ||bankofamerica-secure-account-service.ph^
+||bankofamerica-secure-assistant.ph^
 ||bankofamerica-secure-cardupdate.ph^
 ||bankofamerica-secure-operator.ph^
+||bankofamerica-secure-transaction.ph^
+||bankofamerica-secure-transfer.ph^
 ||bankofamerica-secure-updatetransaction.ph^
 ||bankofamerica-tx.com^
-||bankofamericacashback.ph^
-||bankofamericalosangelesbankinghelpcenter.ph^
+||bankofamericaconflictmediationalliance.ph^
 ||bankofamericamailcompte.blogspot.com^
 ||bankofamericamymortgage.ph^
+||bankofamericapaymentcomfirmation.ph^
+||bankofamericaretirement.ph^
+||bankofamericasavingsaccounts.ph^
 ||bankofamericawealth.ph^
 ||barcelona-facebook.blogspot.com^
 ||barclays-bank.vercel.app^
@@ -94,6 +119,8 @@
 ||cisco-adobe.com^
 ||citrix-sharing.com^
 ||click-facebook.blogspot.com^
+||cloudapi-whatsapp.com^
+||clouddns-whatsapp.com^
 ||cn-feed-whatsapp.com.cn^
 ||coinbase-connetct.vercel.app^
 ||coinbase-event.vercel.app^
@@ -118,6 +145,7 @@
 ||correosiicr.cc^
 ||cpanel.site^
 ||creyt.cl^
+||crx-bankofamerica.ph^
 ||ct.ws^
 ||cultueco.co.uk^
 ||cz-facebook.blogspot.com^
@@ -127,6 +155,7 @@
 ||de-paypal-sec.com^
 ||de5.net^
 ||deluxxe.com.br^
+||dhcpnode-whatsapp.com^
 ||dhl-express-dev.firebaseapp.com^
 ||dir.com.my^
 ||discoveryloft.com^
@@ -165,7 +194,6 @@
 ||ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org^
 ||exclusive-openseamints.vercel.app^
 ||exodus-wallet.global.ssl.fastly.net^
-||exodusathleticclub.com^
 ||exoduswalletcc.pages.dev^
 ||exoduswallethelpcenter.vercel.app^
 ||faceb00klogin.blogspot.com^
@@ -377,6 +405,7 @@
 ||info-facebook.blogspot.com^
 ||infy.click^
 ||ingdirect-accesoweb-login.com^
+||ingdirect-clienteweb-login.com^
 ||iniciamazon.com.br^
 ||instagram-2-blond.vercel.app^
 ||instagram-account-free-follower.vercel.app^
@@ -493,6 +522,8 @@
 ||mb-facebook.blogspot.com^
 ||mclarencar.ebaymclaren-austin.eventshouse.app^
 ||mclarenf1car.ebaymclaren-austin.eventshouse.app^
+||meet-google.cyou^
+||meet-google.live^
 ||meet-googlee46347975696.pages.dev^
 ||meet-googlee7563454656.pages.dev^
 ||meet-googlee7823629056.pages.dev^
@@ -516,7 +547,6 @@
 ||metamaskwallett.blogspot.com^
 ||mi-santander.com^
 ||michaeltenzer.com^
-||microsoft-0r.github.io^
 ||microsoft-alpha.vercel.app^
 ||microsoft-online.gr^
 ||microsoft-sharepoint.fr^
@@ -524,6 +554,7 @@
 ||microsoft0117.vercel.app^
 ||microsoft365businessbasic.com^
 ||microsoft365updates.com^
+||microsoftcloudverification.com^
 ||microsoftjk.eu.org^
 ||microsoftpl.biz.pl^
 ||microsoftsupportcenter.digital^
@@ -567,9 +598,9 @@
 ||nr-23894sm23.sbs^
 ||nr-28szj234.sbs^
 ||nw-facebook.blogspot.com^
-||oferta85937885.cfd^
 ||office365licensingsupport.com^
 ||onedrive-4-nine.vercel.app^
+||online-bankofamerica-com.ph^
 ||oortstorages.com^
 ||open-instagram.vercel.app^
 ||openai-coin.com^
@@ -596,7 +627,6 @@
 ||phil-heron-zoomdrain-com-s-account.workers.dev^
 ||piedrasdecolon.com.ar^
 ||pl-86253827354717436352.shop^
-||pl-oferta-69375923484.top^
 ||pl-oferta16214571.shop^
 ||pl-oferta65244.sbs^
 ||pl-oferta6645234444.cfd^
@@ -605,11 +635,9 @@
 ||pl823jx09z2304jy381.shop^
 ||plastkon.cc^
 ||platform-kraken.cc^
-||portal-seg-social-gob.quest^
 ||pozycjanr5453234213.sbs^
 ||premio-instagram.com^
 ||profil-facebook-saya.blogspot.com^
-||promorange.co.uk^
 ||ptai.in^
 ||r-facebook.blogspot.com^
 ||rama-facebook.blogspot.com^
@@ -619,6 +647,7 @@
 ||redirecthelp.com^
 ||register-facebook.blogspot.com^
 ||rev.it^
+||review-bankofamerica.ph^
 ||roblox-login.vercel.app^
 ||roblox.com.am^
 ||roblox.com.bi^
@@ -639,12 +668,15 @@
 ||ruddycruzc.github.io^
 ||s-facebook.blogspot.com^
 ||safe-whatsapp.com^
+||safelink-protected.workers.dev^
 ||sagers.com^
 ||samplel-ks6yxvur5-instagramm.vercel.app^
 ||santander-br.netlify.app^
 ||santander-dev-week.vercel.app^
 ||santander-remaster-whats-fb-kappa.vercel.app^
 ||santander-remaster-whats-fb.vercel.app^
+||santander-serfin.com^
+||santander-usuarios.com^
 ||santanderbizum.com^
 ||santandercitas.com^
 ||saque-instagram.com^
@@ -724,6 +756,7 @@
 ||uspssmartparcellocker.tech^
 ||v0-exodus-wallet-app.vercel.app^
 ||v0-instagram-accounts.vercel.app^
+||verify-bankofamerica-17.ph^
 ||verifyaccount-google.com^
 ||verifytoken.com^
 ||viewclass.com^
@@ -738,6 +771,7 @@
 ||web-conect-us-ledger-live-wallet.typedream.app^
 ||web-trezor-io-start-us.vercel.app^
 ||webaccess-alert.com^
+||webedge-whatsapp.com^
 ||webmail-service-xfinity.vercel.app^
 ||welcome-trezr-suite.square.site^
 ||wetransfer-1.vercel.app^
@@ -764,7 +798,6 @@
 ||xfinityon.com^
 ||xfinityservicekey.weebly.com^
 ||xfinityservices.vercel.app^
-||yahoologin6700.blogspot.com^
 ||yonataxi.at^
 ||yzz.me^
 ||z-facebook.blogspot.com^
