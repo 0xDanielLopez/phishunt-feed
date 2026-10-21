@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 1348
-# Updated: 2026-10-21T11:40:34Z
+# Entries: 1357
+# Updated: 2026-10-21T17:13:31Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -11,9 +11,12 @@
 12312940.pl
 1789503-coinbase.com
 2017-facebook.blogspot.com
+238129j76.casa
 401283-outlookmailbox-00012-validate.weebly.com
-57162055.shop
+7236532852.cfd
+8238572385.sbs
 882028364740474749474749474.com
+923975235.cfd
 a2zapk.co
 a2zapk.dev
 abkweb-whatsapp.com
@@ -23,6 +26,7 @@ action-whatsapp.com
 adim.life
 adobe-photoshop-crack.com
 adobeinstaller-virid.vercel.app
+advanceamazon.com
 agenciadlx.com.br
 aggregator-whatsapp.com
 airbnbb.de
@@ -108,6 +112,7 @@ bankofamerica-tx.com
 bankofamericamailcompte.blogspot.com
 barcelona-facebook.blogspot.com
 barclays-bank.vercel.app
+barclaysiportalgetsupport.com
 bbvalues.uk
 be-spotify.com
 beginapps-trezorcdn.framer.website
@@ -608,13 +613,14 @@ fastwebpro-whatsapp.com
 fatima-hanif-2108.github.io
 fedexblack.com
 fedexcargo.delivery
-fedexsuppoter.org
 fedexsv.com
 fedexwp.com
 fenxiang-whatsapp.com
 fercel.app
 fhnweb-whatsapp.com
 firewall-whatsapp.com
+fisio8-fisioterapia-sabadellcom-6416.site.tb-hosting.com
+fisioterapia-sabadell.com
 flame-whatsapp.com
 format-whatsapp.com
 forsakens-crew-teman-facebook.blogspot.com
@@ -739,6 +745,7 @@ instagram-jennifer.blogspot.com
 instagram-lilac-two.vercel.app
 instagram-login-page-theta.vercel.app
 instagram-login-page-two.vercel.app
+instagram-login-pi-seven.vercel.app
 instagram-login-support.vercel.app
 instagram-mu-rosy.vercel.app
 instagram-new-version.vercel.app
@@ -793,7 +800,6 @@ ivory-whatsapp.com
 jayaram0550.github.io
 jj-facebook.blogspot.com
 jo-facebook.blogspot.com
-join-my-group-whatsapp-2us.pages.dev
 joker-whatsapp.com
 jqsweb-whatsapp.com
 jwb-facebook.blogspot.com
@@ -1001,6 +1007,7 @@ opsnode-whatsapp.com
 orbit-whatsapp.com
 orchestrator-whatsapp.com
 ossama-instagram.vercel.app
+outlook-ashy.vercel.app
 outlook-login.github.io
 outlook-serv-coral.vercel.app
 outlook-silk-nine.vercel.app
@@ -1105,7 +1112,6 @@ secureserver.net
 see-whatsapp.com
 send-money-cashapp.com
 send-secure-trustwallet-usdt-bip20.vercel.app
-serv00.net
 server-whatsapp.com
 serverapi-whatsapp.com
 servercdn-whatsapp.com
@@ -1126,6 +1132,7 @@ shopping-shop.jp
 shopweb.com.vn
 sigma-whatsapp.com
 signal-whatsapp.com
+signin-adobe-x4or12j0f7c-8ai1df0w9ygwqx748489-4a60f031a-b62a.vercel.app
 sk-facebook.blogspot.com
 smallflyingarts.net
 smbweb-whatsapp.com
@@ -1328,6 +1335,7 @@ whatsappapk.org
 whatsappcampaign.online
 whatsappfreewhatsapp.blogspot.com
 whatsappgroup.vercel.app
+whatsappo-ten.vercel.app
 windows-ledger-live.typedream.app
 wooflers.com
 ww-facebook.blogspot.com
@@ -1344,6 +1352,7 @@ xfinityservicekey.weebly.com
 xfinityservices.vercel.app
 yahoo-9game.com.cn
 yonataxi.at
+yourwebs.app
 yzz.me
 z-facebook.blogspot.com
 z-instagram.blogspot.com

@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 1348
-# Updated: 2026-10-21T11:50:26Z
+# Entries: 1357
+# Updated: 2026-10-21T17:13:32Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -11,9 +11,12 @@
 0.0.0.0 12312940.pl
 0.0.0.0 1789503-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
+0.0.0.0 238129j76.casa
 0.0.0.0 401283-outlookmailbox-00012-validate.weebly.com
-0.0.0.0 57162055.shop
+0.0.0.0 7236532852.cfd
+0.0.0.0 8238572385.sbs
 0.0.0.0 882028364740474749474749474.com
+0.0.0.0 923975235.cfd
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
 0.0.0.0 abkweb-whatsapp.com
@@ -23,6 +26,7 @@
 0.0.0.0 adim.life
 0.0.0.0 adobe-photoshop-crack.com
 0.0.0.0 adobeinstaller-virid.vercel.app
+0.0.0.0 advanceamazon.com
 0.0.0.0 agenciadlx.com.br
 0.0.0.0 aggregator-whatsapp.com
 0.0.0.0 airbnbb.de
@@ -108,6 +112,7 @@
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
+0.0.0.0 barclaysiportalgetsupport.com
 0.0.0.0 bbvalues.uk
 0.0.0.0 be-spotify.com
 0.0.0.0 beginapps-trezorcdn.framer.website
@@ -608,13 +613,14 @@
 0.0.0.0 fatima-hanif-2108.github.io
 0.0.0.0 fedexblack.com
 0.0.0.0 fedexcargo.delivery
-0.0.0.0 fedexsuppoter.org
 0.0.0.0 fedexsv.com
 0.0.0.0 fedexwp.com
 0.0.0.0 fenxiang-whatsapp.com
 0.0.0.0 fercel.app
 0.0.0.0 fhnweb-whatsapp.com
 0.0.0.0 firewall-whatsapp.com
+0.0.0.0 fisio8-fisioterapia-sabadellcom-6416.site.tb-hosting.com
+0.0.0.0 fisioterapia-sabadell.com
 0.0.0.0 flame-whatsapp.com
 0.0.0.0 format-whatsapp.com
 0.0.0.0 forsakens-crew-teman-facebook.blogspot.com
@@ -739,6 +745,7 @@
 0.0.0.0 instagram-lilac-two.vercel.app
 0.0.0.0 instagram-login-page-theta.vercel.app
 0.0.0.0 instagram-login-page-two.vercel.app
+0.0.0.0 instagram-login-pi-seven.vercel.app
 0.0.0.0 instagram-login-support.vercel.app
 0.0.0.0 instagram-mu-rosy.vercel.app
 0.0.0.0 instagram-new-version.vercel.app
@@ -793,7 +800,6 @@
 0.0.0.0 jayaram0550.github.io
 0.0.0.0 jj-facebook.blogspot.com
 0.0.0.0 jo-facebook.blogspot.com
-0.0.0.0 join-my-group-whatsapp-2us.pages.dev
 0.0.0.0 joker-whatsapp.com
 0.0.0.0 jqsweb-whatsapp.com
 0.0.0.0 jwb-facebook.blogspot.com
@@ -1001,6 +1007,7 @@
 0.0.0.0 orbit-whatsapp.com
 0.0.0.0 orchestrator-whatsapp.com
 0.0.0.0 ossama-instagram.vercel.app
+0.0.0.0 outlook-ashy.vercel.app
 0.0.0.0 outlook-login.github.io
 0.0.0.0 outlook-serv-coral.vercel.app
 0.0.0.0 outlook-silk-nine.vercel.app
@@ -1105,7 +1112,6 @@
 0.0.0.0 see-whatsapp.com
 0.0.0.0 send-money-cashapp.com
 0.0.0.0 send-secure-trustwallet-usdt-bip20.vercel.app
-0.0.0.0 serv00.net
 0.0.0.0 server-whatsapp.com
 0.0.0.0 serverapi-whatsapp.com
 0.0.0.0 servercdn-whatsapp.com
@@ -1126,6 +1132,7 @@
 0.0.0.0 shopweb.com.vn
 0.0.0.0 sigma-whatsapp.com
 0.0.0.0 signal-whatsapp.com
+0.0.0.0 signin-adobe-x4or12j0f7c-8ai1df0w9ygwqx748489-4a60f031a-b62a.vercel.app
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 smallflyingarts.net
 0.0.0.0 smbweb-whatsapp.com
@@ -1328,6 +1335,7 @@
 0.0.0.0 whatsappcampaign.online
 0.0.0.0 whatsappfreewhatsapp.blogspot.com
 0.0.0.0 whatsappgroup.vercel.app
+0.0.0.0 whatsappo-ten.vercel.app
 0.0.0.0 windows-ledger-live.typedream.app
 0.0.0.0 wooflers.com
 0.0.0.0 ww-facebook.blogspot.com
@@ -1344,6 +1352,7 @@
 0.0.0.0 xfinityservices.vercel.app
 0.0.0.0 yahoo-9game.com.cn
 0.0.0.0 yonataxi.at
+0.0.0.0 yourwebs.app
 0.0.0.0 yzz.me
 0.0.0.0 z-facebook.blogspot.com
 0.0.0.0 z-instagram.blogspot.com
