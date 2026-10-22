@@ -1,11 +1,12 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 1323
-# Updated: 2026-10-22T04:48:18Z
+# Entries: 1328
+# Updated: 2026-10-22T11:54:10Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
+0.0.0.0 0312098h45.forum
 0.0.0.0 1056804.com
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 12312940.pl
@@ -32,7 +33,7 @@
 0.0.0.0 adim.life
 0.0.0.0 admin.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 0.0.0.0 adobe-photoshop-crack.com
-0.0.0.0 adobe-rnoiminxugzppoxcultnuyrc.pages.dev
+0.0.0.0 adobe-zkzqiofsmuxlkpfpdgdexqzj.pages.dev
 0.0.0.0 adobeinstaller-virid.vercel.app
 0.0.0.0 advanceamazon.com
 0.0.0.0 agenciadlx.com.br
@@ -102,7 +103,7 @@
 0.0.0.0 appnode-whatsapp.com
 0.0.0.0 appops-whatsapp.com
 0.0.0.0 appsec-whatsapp.com
-0.0.0.0 arogyayogshala.com
+0.0.0.0 asoferta.sbs
 0.0.0.0 assign-icloud.com
 0.0.0.0 asso-entrautres.fr
 0.0.0.0 async-whatsapp.com
@@ -115,6 +116,7 @@
 0.0.0.0 await-whatsapp.com
 0.0.0.0 axm-amazon.com
 0.0.0.0 backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
+0.0.0.0 bankofamerica-secure-issue.ph
 0.0.0.0 bankofamerica-tx.com
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 barcelona-facebook.blogspot.com
@@ -138,6 +140,7 @@
 0.0.0.0 binancelivetrade.blogspot.com
 0.0.0.0 binancenn.com
 0.0.0.0 binancereferralid.github.io
+0.0.0.0 binancetoptrade.live
 0.0.0.0 binanceuz.co
 0.0.0.0 binancewallett.blogspot.com
 0.0.0.0 biowikiweb.com
@@ -296,6 +299,7 @@
 0.0.0.0 cdnedge-whatsapp.com
 0.0.0.0 cdnmail-whatsapp.com
 0.0.0.0 cdnnet-whatsapp.com
+0.0.0.0 cert-bankofamerica.ph
 0.0.0.0 cfm-whatsapps.com
 0.0.0.0 ch-google.cc
 0.0.0.0 charm-whatsapp.com
@@ -595,6 +599,7 @@
 0.0.0.0 facebookwebsite9.blogspot.com
 0.0.0.0 faq-trezrio.pages.dev
 0.0.0.0 fatima-hanif-2108.github.io
+0.0.0.0 fe1239h50.help
 0.0.0.0 fedexblack.com
 0.0.0.0 fedexcargo.delivery
 0.0.0.0 fedexsv.com
@@ -614,7 +619,6 @@
 0.0.0.0 gercel.app
 0.0.0.0 gestorweb.cl
 0.0.0.0 get-googlemeet.com
-0.0.0.0 get-ledgerlive-desktop-us.pages.dev
 0.0.0.0 ggzh-google.com.cn
 0.0.0.0 giant-whatsapp.com
 0.0.0.0 gitnode-whatsapp.com
@@ -653,6 +657,7 @@
 0.0.0.0 hashnode.dev
 0.0.0.0 help-instagram.blogspot.com
 0.0.0.0 help-kraken-com-eng.square.site
+0.0.0.0 hmwscusw.bradesco.support.zaka25.duckdns.org
 0.0.0.0 hofmemorabilia.ebaymclaren-austin.eventshouse.app
 0.0.0.0 home-facebook.blogspot.com
 0.0.0.0 home-ledgrreliveapp.typedream.app
@@ -674,7 +679,6 @@
 0.0.0.0 hubpro-whatsapp.com
 0.0.0.0 hubrun-whatsapp.com
 0.0.0.0 hubset-whatsapp.com
-0.0.0.0 icloud-location.info
 0.0.0.0 icloud-mapsviews.help
 0.0.0.0 icloudweb-ext860.click
 0.0.0.0 ideeo.mx
@@ -821,12 +825,14 @@
 0.0.0.0 login-page-instagram.blogspot.com
 0.0.0.0 login-page-instagram.vercel.app
 0.0.0.0 login.rmdbwskx.santander.bimp-bot.duckdns.org
+0.0.0.0 login.wccheck-346e1e56-a.yfcowbetawww.santander.bimp-bot.duckdns.org
 0.0.0.0 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 0.0.0.0 logowanie-facebook.vercel.app
 0.0.0.0 lookup-whatsapp.com
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lpfweb-whatsapp.com
+0.0.0.0 lucycoleman.org
 0.0.0.0 ly-facebook.blogspot.com
 0.0.0.0 m-facebooks.vn
 0.0.0.0 m365-microsoft.com
@@ -877,6 +883,7 @@
 0.0.0.0 metrics-whatsapp.com
 0.0.0.0 mi-santander.com
 0.0.0.0 michaeltenzer.com
+0.0.0.0 microsoft-africa.org
 0.0.0.0 microsoft-alpha.vercel.app
 0.0.0.0 microsoft-onedrive.org
 0.0.0.0 microsoft-online.gr
@@ -972,7 +979,6 @@
 0.0.0.0 opsnode-whatsapp.com
 0.0.0.0 orbit-whatsapp.com
 0.0.0.0 orchestrator-whatsapp.com
-0.0.0.0 order-app.me
 0.0.0.0 orygozcb.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
 0.0.0.0 ossama-instagram.vercel.app
 0.0.0.0 outlook-ashy.vercel.app
@@ -994,7 +1000,6 @@
 0.0.0.0 peputragroup.com
 0.0.0.0 perplexity-beta-ads.com
 0.0.0.0 phil-heron-zoomdrain-com-s-account.workers.dev
-0.0.0.0 pi-udostepniona83745.lol
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 pipe-whatsapp.com
 0.0.0.0 pl-oferta793345.cfd
@@ -1079,7 +1084,6 @@
 0.0.0.0 send-secure-trustwallet-usdt-bip20.vercel.app
 0.0.0.0 serverapi-whatsapp.com
 0.0.0.0 servercdn-whatsapp.com
-0.0.0.0 service-ledgre-live.pages.dev
 0.0.0.0 services-facebook.blogspot.com
 0.0.0.0 sessionapi-whatsapp.com
 0.0.0.0 sessioncdn-whatsapp.com
@@ -1097,7 +1101,6 @@
 0.0.0.0 shopweb.com.vn
 0.0.0.0 sigma-whatsapp.com
 0.0.0.0 signal-whatsapp.com
-0.0.0.0 signin-adobe-x4or12j0f7c-8ai1df0w9ygwqx748489-4a60f031a-b62a.vercel.app
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 slickomega.sbs
 0.0.0.0 smallflyingarts.net
@@ -1273,6 +1276,7 @@
 0.0.0.0 webmaxpro-whatsapp.com
 0.0.0.0 webopen-whatsapp.com
 0.0.0.0 webpagepro-whatsapp.com
+0.0.0.0 webpath-whatsapp.com
 0.0.0.0 webportalpro-whatsapp.com
 0.0.0.0 webqueue-whatsapp.com
 0.0.0.0 webruntime-whatsapp.com
@@ -1290,6 +1294,7 @@
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-gruppo-connect.com
 0.0.0.0 whatsapp-iamsuyash.vercel.app
+0.0.0.0 whatsapp-sex.pages.dev
 0.0.0.0 whatsapp-verify.blogspot.com
 0.0.0.0 whatsapp11-cnj.pages.dev
 0.0.0.0 whatsappai.cam
