@@ -1,22 +1,18 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 1295
-# Updated: 2026-10-22T17:11:31Z
+# Entries: 1290
+# Updated: 2026-10-22T21:32:20Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
-0312098h45.forum
 1056804.com
 123-facebook.blogspot.com
 12312940.pl
 1789503-coinbase.com
 2017-facebook.blogspot.com
-230910h45945.forum
-23784236237363.rest
 24h-9393x1.top
 401283-outlookmailbox-00012-validate.weebly.com
-712461246129124.rest
 8129h045h.casa
 882028364740474749474749474.com
 a2zapk.co
@@ -68,6 +64,7 @@ ang-whatsapp.com
 anh-whatsapp.com
 ani-facebook.blogspot.com
 anj-whatsapp.com
+antimoney-laundering.org
 apibox-whatsapp.com
 apicloud-whatsapp.com
 apidev-whatsapp.com
@@ -81,7 +78,6 @@ apinode-whatsapp.com
 apiops-whatsapp.com
 apisys-whatsapp.com
 apk-google.cn
-app-binance.github.io
 app-facebook.blogspot.com
 app-openbank.com
 app81-facebook.blogspot.com
@@ -95,7 +91,6 @@ appnet-whatsapp.com
 appnode-whatsapp.com
 appops-whatsapp.com
 appsec-whatsapp.com
-asoferta.sbs
 assign-icloud.com
 asso-entrautres.fr
 async-whatsapp.com
@@ -108,6 +103,8 @@ await-whatsapp.com
 axm-amazon.com
 backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 bankofamerica-secure-issue.ph
+bankofamerica-secure-updateemail.ph
+bankofamerica-secure-user.ph
 bankofamerica-tx.com
 bankofamericamailcompte.blogspot.com
 barcelona-facebook.blogspot.com
@@ -235,6 +232,7 @@ boxset-whatsapp.com
 boxuse-whatsapp.com
 bqdbgybl.bradesco.www.support.zaka25.duckdns.org
 brad-facebook.blogspot.com
+bradescopj.app
 bradescosegurosop.com.br
 branch-whatsapp.com
 bryweb-whatsapp.com
@@ -327,7 +325,6 @@ comcast-3.vercel.app
 comcast-ebon.vercel.app
 comcast-seven.vercel.app
 comcast2.vercel.app
-comcastmaileroauthes.weebly.com
 command-whatsapp.com
 commit-whatsapp.com
 comomypal-securityserver.netflixconfirmation.net1fc.smtp.test.bimp-bot.duckdns.org
@@ -399,6 +396,7 @@ dpd-calviro.click
 dpd-malvexa.click
 dpd-ravlimo.com
 dpd-telvora.com
+dpdei.top
 dpdie.live
 dpduk.dev
 drift-whatsapp.com
@@ -618,7 +616,6 @@ googlebusiness.xyz
 googlecontacts.email
 googleepkay.com
 googleepway.com
-googleg1rs.com
 googlel01.com
 googlel0gin.netlify.app
 googlelogos.com
@@ -651,7 +648,6 @@ hostpush-whatsapp.com
 hot-binance.com.cn
 hoylldhd.bradesco.support.zaka25.duckdns.org
 hsbc-sec.com
-hsbctds.com
 hstn.me
 httpapi-whatsapp.com
 httpcdn-whatsapp.com
@@ -811,6 +807,7 @@ login.rmdbwskx.santander.bimp-bot.duckdns.org
 login.wccheck-346e1e56-a.yfcowbetawww.santander.bimp-bot.duckdns.org
 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 logowanie-facebook.vercel.app
+lokalna-ofeta213125941x.sbs
 lookup-whatsapp.com
 love-facebook.blogspot.com
 lovefive-facebook.blogspot.com
@@ -867,6 +864,7 @@ mi-santander.com
 michaeltenzer.com
 microsoft-africa.org
 microsoft-alpha.vercel.app
+microsoft-autofill-customer-care-number.pages.dev
 microsoft-onedrive.org
 microsoft-online.gr
 microsoft-sharepoint.fr
@@ -946,7 +944,6 @@ nw-facebook.blogspot.com
 ofera-1893.top
 ofert238h5.mom
 oferta-709941.sbs
-oferta-7498325.cfd
 office365licensingsupport.com
 onedrive-4-nine.vercel.app
 oortstorages.com
@@ -988,8 +985,8 @@ pipe-whatsapp.com
 pl-oferta793345.cfd
 pl-oferta82219.cfd
 pl-oferta84893.cfd
-pl-oferta901986003.icu
 platform-kraken.cc
+play-googlese.app
 podnode-whatsapp.com
 premio-instagram.com
 prev-whatsapp.com
@@ -1045,7 +1042,6 @@ santander-serfin.com
 santander-usuarios.com
 santanderbizum.com
 santandercitas.com
-santanderlivechatsupport.com
 saque-instagram.com
 satanderconsumers.ca
 savvysmallbusinesssolutions.com
@@ -1214,7 +1210,6 @@ vpcnode-whatsapp.com
 vpnuse.eu.org
 vwwv-roblox.co
 wafnode-whatsapp.com
-walletportal.app
 wasmer.app
 wave-whatsapp.com
 waycobeauty.com

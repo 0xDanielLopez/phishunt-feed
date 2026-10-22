@@ -1,22 +1,18 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 1295
-# Updated: 2026-10-22T17:11:32Z
+# Entries: 1290
+# Updated: 2026-10-22T21:36:45Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
-0.0.0.0 0312098h45.forum
 0.0.0.0 1056804.com
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 12312940.pl
 0.0.0.0 1789503-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
-0.0.0.0 230910h45945.forum
-0.0.0.0 23784236237363.rest
 0.0.0.0 24h-9393x1.top
 0.0.0.0 401283-outlookmailbox-00012-validate.weebly.com
-0.0.0.0 712461246129124.rest
 0.0.0.0 8129h045h.casa
 0.0.0.0 882028364740474749474749474.com
 0.0.0.0 a2zapk.co
@@ -68,6 +64,7 @@
 0.0.0.0 anh-whatsapp.com
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 anj-whatsapp.com
+0.0.0.0 antimoney-laundering.org
 0.0.0.0 apibox-whatsapp.com
 0.0.0.0 apicloud-whatsapp.com
 0.0.0.0 apidev-whatsapp.com
@@ -81,7 +78,6 @@
 0.0.0.0 apiops-whatsapp.com
 0.0.0.0 apisys-whatsapp.com
 0.0.0.0 apk-google.cn
-0.0.0.0 app-binance.github.io
 0.0.0.0 app-facebook.blogspot.com
 0.0.0.0 app-openbank.com
 0.0.0.0 app81-facebook.blogspot.com
@@ -95,7 +91,6 @@
 0.0.0.0 appnode-whatsapp.com
 0.0.0.0 appops-whatsapp.com
 0.0.0.0 appsec-whatsapp.com
-0.0.0.0 asoferta.sbs
 0.0.0.0 assign-icloud.com
 0.0.0.0 asso-entrautres.fr
 0.0.0.0 async-whatsapp.com
@@ -108,6 +103,8 @@
 0.0.0.0 axm-amazon.com
 0.0.0.0 backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 0.0.0.0 bankofamerica-secure-issue.ph
+0.0.0.0 bankofamerica-secure-updateemail.ph
+0.0.0.0 bankofamerica-secure-user.ph
 0.0.0.0 bankofamerica-tx.com
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 barcelona-facebook.blogspot.com
@@ -235,6 +232,7 @@
 0.0.0.0 boxuse-whatsapp.com
 0.0.0.0 bqdbgybl.bradesco.www.support.zaka25.duckdns.org
 0.0.0.0 brad-facebook.blogspot.com
+0.0.0.0 bradescopj.app
 0.0.0.0 bradescosegurosop.com.br
 0.0.0.0 branch-whatsapp.com
 0.0.0.0 bryweb-whatsapp.com
@@ -327,7 +325,6 @@
 0.0.0.0 comcast-ebon.vercel.app
 0.0.0.0 comcast-seven.vercel.app
 0.0.0.0 comcast2.vercel.app
-0.0.0.0 comcastmaileroauthes.weebly.com
 0.0.0.0 command-whatsapp.com
 0.0.0.0 commit-whatsapp.com
 0.0.0.0 comomypal-securityserver.netflixconfirmation.net1fc.smtp.test.bimp-bot.duckdns.org
@@ -399,6 +396,7 @@
 0.0.0.0 dpd-malvexa.click
 0.0.0.0 dpd-ravlimo.com
 0.0.0.0 dpd-telvora.com
+0.0.0.0 dpdei.top
 0.0.0.0 dpdie.live
 0.0.0.0 dpduk.dev
 0.0.0.0 drift-whatsapp.com
@@ -618,7 +616,6 @@
 0.0.0.0 googlecontacts.email
 0.0.0.0 googleepkay.com
 0.0.0.0 googleepway.com
-0.0.0.0 googleg1rs.com
 0.0.0.0 googlel01.com
 0.0.0.0 googlel0gin.netlify.app
 0.0.0.0 googlelogos.com
@@ -651,7 +648,6 @@
 0.0.0.0 hot-binance.com.cn
 0.0.0.0 hoylldhd.bradesco.support.zaka25.duckdns.org
 0.0.0.0 hsbc-sec.com
-0.0.0.0 hsbctds.com
 0.0.0.0 hstn.me
 0.0.0.0 httpapi-whatsapp.com
 0.0.0.0 httpcdn-whatsapp.com
@@ -811,6 +807,7 @@
 0.0.0.0 login.wccheck-346e1e56-a.yfcowbetawww.santander.bimp-bot.duckdns.org
 0.0.0.0 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 0.0.0.0 logowanie-facebook.vercel.app
+0.0.0.0 lokalna-ofeta213125941x.sbs
 0.0.0.0 lookup-whatsapp.com
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
@@ -867,6 +864,7 @@
 0.0.0.0 michaeltenzer.com
 0.0.0.0 microsoft-africa.org
 0.0.0.0 microsoft-alpha.vercel.app
+0.0.0.0 microsoft-autofill-customer-care-number.pages.dev
 0.0.0.0 microsoft-onedrive.org
 0.0.0.0 microsoft-online.gr
 0.0.0.0 microsoft-sharepoint.fr
@@ -946,7 +944,6 @@
 0.0.0.0 ofera-1893.top
 0.0.0.0 ofert238h5.mom
 0.0.0.0 oferta-709941.sbs
-0.0.0.0 oferta-7498325.cfd
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 onedrive-4-nine.vercel.app
 0.0.0.0 oortstorages.com
@@ -988,8 +985,8 @@
 0.0.0.0 pl-oferta793345.cfd
 0.0.0.0 pl-oferta82219.cfd
 0.0.0.0 pl-oferta84893.cfd
-0.0.0.0 pl-oferta901986003.icu
 0.0.0.0 platform-kraken.cc
+0.0.0.0 play-googlese.app
 0.0.0.0 podnode-whatsapp.com
 0.0.0.0 premio-instagram.com
 0.0.0.0 prev-whatsapp.com
@@ -1045,7 +1042,6 @@
 0.0.0.0 santander-usuarios.com
 0.0.0.0 santanderbizum.com
 0.0.0.0 santandercitas.com
-0.0.0.0 santanderlivechatsupport.com
 0.0.0.0 saque-instagram.com
 0.0.0.0 satanderconsumers.ca
 0.0.0.0 savvysmallbusinesssolutions.com
@@ -1214,7 +1210,6 @@
 0.0.0.0 vpnuse.eu.org
 0.0.0.0 vwwv-roblox.co
 0.0.0.0 wafnode-whatsapp.com
-0.0.0.0 walletportal.app
 0.0.0.0 wasmer.app
 0.0.0.0 wave-whatsapp.com
 0.0.0.0 waycobeauty.com
