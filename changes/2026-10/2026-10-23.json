@@ -1,0 +1,48 @@
+{
+ "date": "2026-10-23",
+ "updated": "2026-10-23T04:50:55Z",
+ "source": "https://phishunt.io/feed.txt",
+ "license": "CC0-1.0",
+ "counts": {
+  "added": 20,
+  "removed": 14
+ },
+ "added": [
+  "http://918372-icloud.com/identity/login",
+  "http://allegrolokalnie.oferta-9518421.cfd/logowanie/22404",
+  "http://allegrolokalnie.pl-mkl1.sbs",
+  "http://allegrolokalnie.pl-oferta872183.cfd",
+  "http://allegrolokalnie.pl-ogloszenie122012.shop",
+  "http://allegrolokalnie.prywatna-472827724849.shop",
+  "http://metamask-docs-fbv47wj26-consensys-ddffed67.vercel.app",
+  "http://trezo-started.teleporthq.app",
+  "https://73a2370016b7.secure23274.paypal-ssl.antimoney-laundering.org",
+  "https://adobeexperience.com.br/training/gentera/learning-path",
+  "https://allegro.support24h.app",
+  "https://allegrolokalnie.id93782346383253.rest",
+  "https://allegrolokalnie.pl-382942.top",
+  "https://bankofamerica-secure-resetpassword.ph",
+  "https://dpd.bio",
+  "https://fedexmxx.cc",
+  "https://microsoft-autofill-customer-care-phone-number.pages.dev",
+  "https://nextcloud.bankofamerica-com-upgrade-informtion-new-secure.ph",
+  "https://wccheck-760967a0-ext.wccheck-32275d6f-a.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org",
+  "https://www-icloud-mx.help"
+ ],
+ "removed": [
+  "http://allegro.8129h045h.casa",
+  "http://allegro.fe1239h50.help",
+  "http://allegro.ofert238h5.mom",
+  "https://allegrolokalnie.ofera-1893.top/karta-graficzna-gigabyte-nvidi/70816",
+  "https://allegrolokalnie.pl-oferta793345.cfd",
+  "https://api.bankofamerica-secure-issue.ph",
+  "https://bankofamerica-secure-user.ph",
+  "https://barclaysiportalgetsupport.com",
+  "https://metafbbusiness.com",
+  "https://microsoft-autofill-customer-care-number.pages.dev",
+  "https://sg-google.com",
+  "https://trezors.co.uk",
+  "https://trezors.net",
+  "https://trezors.us"
+ ]
+}

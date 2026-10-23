@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 1290
-# Updated: 2026-10-22T21:36:45Z
+# Entries: 1295
+# Updated: 2026-10-23T04:50:54Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -13,8 +13,8 @@
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 24h-9393x1.top
 0.0.0.0 401283-outlookmailbox-00012-validate.weebly.com
-0.0.0.0 8129h045h.casa
 0.0.0.0 882028364740474749474749474.com
+0.0.0.0 918372-icloud.com
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
 0.0.0.0 abkweb-whatsapp.com
@@ -22,6 +22,7 @@
 0.0.0.0 action-whatsapp.com
 0.0.0.0 admin.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 0.0.0.0 adobe-photoshop-crack.com
+0.0.0.0 adobeexperience.com.br
 0.0.0.0 adobeinstaller-virid.vercel.app
 0.0.0.0 advanceamazon.com
 0.0.0.0 agenciadlx.com.br
@@ -102,14 +103,13 @@
 0.0.0.0 await-whatsapp.com
 0.0.0.0 axm-amazon.com
 0.0.0.0 backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
-0.0.0.0 bankofamerica-secure-issue.ph
+0.0.0.0 bankofamerica-com-upgrade-informtion-new-secure.ph
+0.0.0.0 bankofamerica-secure-resetpassword.ph
 0.0.0.0 bankofamerica-secure-updateemail.ph
-0.0.0.0 bankofamerica-secure-user.ph
 0.0.0.0 bankofamerica-tx.com
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
-0.0.0.0 barclaysiportalgetsupport.com
 0.0.0.0 bbvalues.uk
 0.0.0.0 be-spotify.com
 0.0.0.0 berbagi-facebook.blogspot.com
@@ -396,6 +396,7 @@
 0.0.0.0 dpd-malvexa.click
 0.0.0.0 dpd-ravlimo.com
 0.0.0.0 dpd-telvora.com
+0.0.0.0 dpd.bio
 0.0.0.0 dpdei.top
 0.0.0.0 dpdie.live
 0.0.0.0 dpduk.dev
@@ -580,9 +581,9 @@
 0.0.0.0 facebookwebsite9.blogspot.com
 0.0.0.0 faq-trezrio.pages.dev
 0.0.0.0 fatima-hanif-2108.github.io
-0.0.0.0 fe1239h50.help
 0.0.0.0 fedexblack.com
 0.0.0.0 fedexcargo.delivery
+0.0.0.0 fedexmxx.cc
 0.0.0.0 fedexsv.com
 0.0.0.0 fedexwp.com
 0.0.0.0 fercel.app
@@ -660,6 +661,7 @@
 0.0.0.0 hubset-whatsapp.com
 0.0.0.0 icloud-mapsviews.help
 0.0.0.0 icloudweb-ext860.click
+0.0.0.0 id93782346383253.rest
 0.0.0.0 ideeo.mx
 0.0.0.0 ids-whatsapp.com
 0.0.0.0 ifotografix.co.uk
@@ -839,10 +841,10 @@
 0.0.0.0 meet-googlee7823629056.pages.dev
 0.0.0.0 meme-facebook.blogspot.com
 0.0.0.0 merge-whatsapp.com
-0.0.0.0 metafbbusiness.com
 0.0.0.0 metamask-ai-agent.vercel.app
 0.0.0.0 metamask-connect.vercel.app
 0.0.0.0 metamask-docs-75mpj2s96-consensys-ddffed67.vercel.app
+0.0.0.0 metamask-docs-fbv47wj26-consensys-ddffed67.vercel.app
 0.0.0.0 metamask-launchpad.vercel.app
 0.0.0.0 metamask-login.vercel.app
 0.0.0.0 metamask-six.vercel.app
@@ -864,7 +866,7 @@
 0.0.0.0 michaeltenzer.com
 0.0.0.0 microsoft-africa.org
 0.0.0.0 microsoft-alpha.vercel.app
-0.0.0.0 microsoft-autofill-customer-care-number.pages.dev
+0.0.0.0 microsoft-autofill-customer-care-phone-number.pages.dev
 0.0.0.0 microsoft-onedrive.org
 0.0.0.0 microsoft-online.gr
 0.0.0.0 microsoft-sharepoint.fr
@@ -941,9 +943,8 @@
 0.0.0.0 nqxweb-whatsapp.com
 0.0.0.0 nr-h2n-8sn4-sn23.sbs
 0.0.0.0 nw-facebook.blogspot.com
-0.0.0.0 ofera-1893.top
-0.0.0.0 ofert238h5.mom
 0.0.0.0 oferta-709941.sbs
+0.0.0.0 oferta-9518421.cfd
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 onedrive-4-nine.vercel.app
 0.0.0.0 oortstorages.com
@@ -982,9 +983,12 @@
 0.0.0.0 phil-heron-zoomdrain-com-s-account.workers.dev
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 pipe-whatsapp.com
-0.0.0.0 pl-oferta793345.cfd
+0.0.0.0 pl-382942.top
+0.0.0.0 pl-mkl1.sbs
 0.0.0.0 pl-oferta82219.cfd
 0.0.0.0 pl-oferta84893.cfd
+0.0.0.0 pl-oferta872183.cfd
+0.0.0.0 pl-ogloszenie122012.shop
 0.0.0.0 platform-kraken.cc
 0.0.0.0 play-googlese.app
 0.0.0.0 podnode-whatsapp.com
@@ -993,6 +997,7 @@
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 prouse-whatsapp.com
 0.0.0.0 proxyapi-whatsapp.com
+0.0.0.0 prywatna-472827724849.shop
 0.0.0.0 ptai.in
 0.0.0.0 r-facebook.blogspot.com
 0.0.0.0 rama-facebook.blogspot.com
@@ -1074,7 +1079,6 @@
 0.0.0.0 setuse-whatsapp.com
 0.0.0.0 setweb-whatsapp.com
 0.0.0.0 seureonline.shop
-0.0.0.0 sg-google.com
 0.0.0.0 shield-whatsapp.com
 0.0.0.0 shopping-shop.jp
 0.0.0.0 shopweb.com.vn
@@ -1121,6 +1125,7 @@
 0.0.0.0 support-instagram.github.io
 0.0.0.0 support-ledgerlive-eng.typedream.app
 0.0.0.0 support-ledgrcom-start-web.typedream.app
+0.0.0.0 support24h.app
 0.0.0.0 syncly-whatsapp.com
 0.0.0.0 syncpush-whatsapp.com
 0.0.0.0 syntax-whatsapp.com
@@ -1140,6 +1145,7 @@
 0.0.0.0 tcp-whatsapp.com
 0.0.0.0 tcpip-whatsapp.com
 0.0.0.0 techly-whatsapp.com
+0.0.0.0 teleporthq.app
 0.0.0.0 temporary.site
 0.0.0.0 test-facebook.blogspot.com
 0.0.0.0 test.jsqnjzyg.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
@@ -1163,9 +1169,6 @@
 0.0.0.0 trezor.pt
 0.0.0.0 trezorguide.vercel.app
 0.0.0.0 trezorrgoappup.gitbook.io
-0.0.0.0 trezors.co.uk
-0.0.0.0 trezors.net
-0.0.0.0 trezors.us
 0.0.0.0 trust-wallet-customer-support-number.github.io
 0.0.0.0 trust-wallet-login.vercel.app
 0.0.0.0 trustwallet-helpcenter.vercel.app
@@ -1213,6 +1216,7 @@
 0.0.0.0 wasmer.app
 0.0.0.0 wave-whatsapp.com
 0.0.0.0 waycobeauty.com
+0.0.0.0 wccheck-760967a0-ext.wccheck-32275d6f-a.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 0.0.0.0 web-conect-us-ledger-live-wallet.typedream.app
 0.0.0.0 web-trezor-io-start-us.vercel.app
 0.0.0.0 web6-whatsapp.com
@@ -1271,6 +1275,7 @@
 0.0.0.0 www-app-google.com
 0.0.0.0 www-google.cn
 0.0.0.0 www-hk-google.com
+0.0.0.0 www-icloud-mx.help
 0.0.0.0 www.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
 0.0.0.0 www.mxjkckus.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
 0.0.0.0 www.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-125-38.cpanel.site

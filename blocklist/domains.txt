@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 1290
-# Updated: 2026-10-22T21:32:20Z
+# Entries: 1295
+# Updated: 2026-10-23T04:50:54Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -13,8 +13,8 @@
 2017-facebook.blogspot.com
 24h-9393x1.top
 401283-outlookmailbox-00012-validate.weebly.com
-8129h045h.casa
 882028364740474749474749474.com
+918372-icloud.com
 a2zapk.co
 a2zapk.dev
 abkweb-whatsapp.com
@@ -22,6 +22,7 @@ account-instagram.vercel.app
 action-whatsapp.com
 admin.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 adobe-photoshop-crack.com
+adobeexperience.com.br
 adobeinstaller-virid.vercel.app
 advanceamazon.com
 agenciadlx.com.br
@@ -102,14 +103,13 @@ avaturefed.net
 await-whatsapp.com
 axm-amazon.com
 backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
-bankofamerica-secure-issue.ph
+bankofamerica-com-upgrade-informtion-new-secure.ph
+bankofamerica-secure-resetpassword.ph
 bankofamerica-secure-updateemail.ph
-bankofamerica-secure-user.ph
 bankofamerica-tx.com
 bankofamericamailcompte.blogspot.com
 barcelona-facebook.blogspot.com
 barclays-bank.vercel.app
-barclaysiportalgetsupport.com
 bbvalues.uk
 be-spotify.com
 berbagi-facebook.blogspot.com
@@ -396,6 +396,7 @@ dpd-calviro.click
 dpd-malvexa.click
 dpd-ravlimo.com
 dpd-telvora.com
+dpd.bio
 dpdei.top
 dpdie.live
 dpduk.dev
@@ -580,9 +581,9 @@ facebookverifyyouraccount.blogspot.com
 facebookwebsite9.blogspot.com
 faq-trezrio.pages.dev
 fatima-hanif-2108.github.io
-fe1239h50.help
 fedexblack.com
 fedexcargo.delivery
+fedexmxx.cc
 fedexsv.com
 fedexwp.com
 fercel.app
@@ -660,6 +661,7 @@ hubrun-whatsapp.com
 hubset-whatsapp.com
 icloud-mapsviews.help
 icloudweb-ext860.click
+id93782346383253.rest
 ideeo.mx
 ids-whatsapp.com
 ifotografix.co.uk
@@ -839,10 +841,10 @@ meet-googlee7563454656.pages.dev
 meet-googlee7823629056.pages.dev
 meme-facebook.blogspot.com
 merge-whatsapp.com
-metafbbusiness.com
 metamask-ai-agent.vercel.app
 metamask-connect.vercel.app
 metamask-docs-75mpj2s96-consensys-ddffed67.vercel.app
+metamask-docs-fbv47wj26-consensys-ddffed67.vercel.app
 metamask-launchpad.vercel.app
 metamask-login.vercel.app
 metamask-six.vercel.app
@@ -864,7 +866,7 @@ mi-santander.com
 michaeltenzer.com
 microsoft-africa.org
 microsoft-alpha.vercel.app
-microsoft-autofill-customer-care-number.pages.dev
+microsoft-autofill-customer-care-phone-number.pages.dev
 microsoft-onedrive.org
 microsoft-online.gr
 microsoft-sharepoint.fr
@@ -941,9 +943,8 @@ nosqldb-whatsapp.com
 nqxweb-whatsapp.com
 nr-h2n-8sn4-sn23.sbs
 nw-facebook.blogspot.com
-ofera-1893.top
-ofert238h5.mom
 oferta-709941.sbs
+oferta-9518421.cfd
 office365licensingsupport.com
 onedrive-4-nine.vercel.app
 oortstorages.com
@@ -982,9 +983,12 @@ perplexity-beta-ads.com
 phil-heron-zoomdrain-com-s-account.workers.dev
 piedrasdecolon.com.ar
 pipe-whatsapp.com
-pl-oferta793345.cfd
+pl-382942.top
+pl-mkl1.sbs
 pl-oferta82219.cfd
 pl-oferta84893.cfd
+pl-oferta872183.cfd
+pl-ogloszenie122012.shop
 platform-kraken.cc
 play-googlese.app
 podnode-whatsapp.com
@@ -993,6 +997,7 @@ prev-whatsapp.com
 profil-facebook-saya.blogspot.com
 prouse-whatsapp.com
 proxyapi-whatsapp.com
+prywatna-472827724849.shop
 ptai.in
 r-facebook.blogspot.com
 rama-facebook.blogspot.com
@@ -1074,7 +1079,6 @@ setrun-whatsapp.com
 setuse-whatsapp.com
 setweb-whatsapp.com
 seureonline.shop
-sg-google.com
 shield-whatsapp.com
 shopping-shop.jp
 shopweb.com.vn
@@ -1121,6 +1125,7 @@ suite-app-docs-trezr.typedream.app
 support-instagram.github.io
 support-ledgerlive-eng.typedream.app
 support-ledgrcom-start-web.typedream.app
+support24h.app
 syncly-whatsapp.com
 syncpush-whatsapp.com
 syntax-whatsapp.com
@@ -1140,6 +1145,7 @@ tb-facebook.blogspot.com
 tcp-whatsapp.com
 tcpip-whatsapp.com
 techly-whatsapp.com
+teleporthq.app
 temporary.site
 test-facebook.blogspot.com
 test.jsqnjzyg.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
@@ -1163,9 +1169,6 @@ trezor-login-us-auth-start.typedream.app
 trezor.pt
 trezorguide.vercel.app
 trezorrgoappup.gitbook.io
-trezors.co.uk
-trezors.net
-trezors.us
 trust-wallet-customer-support-number.github.io
 trust-wallet-login.vercel.app
 trustwallet-helpcenter.vercel.app
@@ -1213,6 +1216,7 @@ wafnode-whatsapp.com
 wasmer.app
 wave-whatsapp.com
 waycobeauty.com
+wccheck-760967a0-ext.wccheck-32275d6f-a.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 web-conect-us-ledger-live-wallet.typedream.app
 web-trezor-io-start-us.vercel.app
 web6-whatsapp.com
@@ -1271,6 +1275,7 @@ ww-facebook.blogspot.com
 www-app-google.com
 www-google.cn
 www-hk-google.com
+www-icloud-mx.help
 www.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
 www.mxjkckus.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
 www.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-125-38.cpanel.site
