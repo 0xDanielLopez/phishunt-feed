@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 1295
-# Updated: 2026-10-23T04:50:54Z
+# Entries: 1307
+# Updated: 2026-10-23T11:31:57Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -59,6 +59,7 @@ amgghvyv.bradesco.support.zaka25.duckdns.org
 amh-whatsapp.com
 anc-whatsapp.com
 ancoradourohotel.com.br
+android-google.cn
 ane-whatsapp.com
 anf-whatsapp.com
 ang-whatsapp.com
@@ -80,7 +81,7 @@ apiops-whatsapp.com
 apisys-whatsapp.com
 apk-google.cn
 app-facebook.blogspot.com
-app-openbank.com
+app-google-com.cn
 app81-facebook.blogspot.com
 appapi-whatsapp.com
 appcloud-whatsapp.com
@@ -104,10 +105,16 @@ await-whatsapp.com
 axm-amazon.com
 backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 bankofamerica-com-upgrade-informtion-new-secure.ph
+bankofamerica-secure-dashboard.ph
+bankofamerica-secure-guide.ph
 bankofamerica-secure-resetpassword.ph
 bankofamerica-secure-updateemail.ph
+bankofamerica-secure-work.ph
 bankofamerica-tx.com
+bankofamericafairfund.ph
 bankofamericamailcompte.blogspot.com
+bankofamericapartners.ph
+bankofamericaticari.ph
 barcelona-facebook.blogspot.com
 barclays-bank.vercel.app
 bbvalues.uk
@@ -232,7 +239,6 @@ boxset-whatsapp.com
 boxuse-whatsapp.com
 bqdbgybl.bradesco.www.support.zaka25.duckdns.org
 brad-facebook.blogspot.com
-bradescopj.app
 bradescosegurosop.com.br
 branch-whatsapp.com
 bryweb-whatsapp.com
@@ -393,6 +399,7 @@ dothome.co.kr
 dow-nload-ledger-live--doc.typedream.app
 dpd-bexnaro.com
 dpd-calviro.click
+dpd-deo.top
 dpd-malvexa.click
 dpd-ravlimo.com
 dpd-telvora.com
@@ -659,7 +666,6 @@ hublab-whatsapp.com
 hubpro-whatsapp.com
 hubrun-whatsapp.com
 hubset-whatsapp.com
-icloud-mapsviews.help
 icloudweb-ext860.click
 id93782346383253.rest
 ideeo.mx
@@ -670,6 +676,7 @@ info-facebook.blogspot.com
 infy.click
 ingdirect-accesoweb-login.com
 ingdirect-clienteweb-login.com
+ingresovalidacion-ar.sbs
 iniciamazon.com.br
 input-whatsapp.com
 instagram-2-blond.vercel.app
@@ -749,6 +756,7 @@ ivory-whatsapp.com
 jayaram0550.github.io
 jffoyjdh.bradesco.support.zaka25.duckdns.org
 jj-facebook.blogspot.com
+jkhmkn.ph
 jo-facebook.blogspot.com
 joker-whatsapp.com
 jqsweb-whatsapp.com
@@ -823,6 +831,7 @@ magic-whatsapp.com
 mail.account-payment.netflix.20-172-202-170.cpanel.site
 mail.amazon-signin-update-payment-secure-verify-billing-mainapp.40-124-80-100.cpanel.site
 mail.auth.amazon-com-ap-account-signin-openid.129-121-112-148.cpanel.site
+mail.hmwscusw.bradesco.support.zaka25.duckdns.org
 mail.v3sec.microsoftonline-com-common-signin-openid.129-121-112-148.cpanel.site
 mailauth-whatsapp.com
 mailcore-whatsapp.com
@@ -857,7 +866,6 @@ metamaskextensionnn.gitbook.io
 metamaskirstelkmgt.cyou
 metamasklskog.gitbook.io
 metamaskrewards.com
-metamaskrzmxten.gitbook.io
 metamaskuxlogen.gitbook.io
 metamaskwallet.to
 metamaskwallett.blogspot.com
@@ -866,7 +874,6 @@ mi-santander.com
 michaeltenzer.com
 microsoft-africa.org
 microsoft-alpha.vercel.app
-microsoft-autofill-customer-care-phone-number.pages.dev
 microsoft-onedrive.org
 microsoft-online.gr
 microsoft-sharepoint.fr
@@ -887,6 +894,7 @@ mono-whatsapp.com
 more-ledgerlive-en.typedream.app
 movistar-recaudo-epayc.com
 my-facebook-blog.blogspot.com
+my-spotify.app
 mykraken.exchange
 mytemp.website
 nat-whatsapp.com
@@ -989,6 +997,7 @@ pl-oferta82219.cfd
 pl-oferta84893.cfd
 pl-oferta872183.cfd
 pl-ogloszenie122012.shop
+pl47351.top
 platform-kraken.cc
 play-googlese.app
 podnode-whatsapp.com
@@ -1261,6 +1270,7 @@ whatsapp-fast.vercel.app
 whatsapp-gruppo-connect.com
 whatsapp-iamsuyash.vercel.app
 whatsapp-indonesia877.blogspot.com
+whatsapp-livecam-dt5.pages.dev
 whatsapp-verify.blogspot.com
 whatsapp11-cnj.pages.dev
 whatsappai.cam
@@ -1268,7 +1278,9 @@ whatsappapk.org
 whatsappcampaign.online
 whatsappfreewhatsapp.blogspot.com
 whatsappgroup.vercel.app
+whatsappin.biz.id
 whatsappo-ten.vercel.app
+whatsappxxx.pages.dev
 windows-ledger-live.typedream.app
 wooflers.com
 ww-facebook.blogspot.com
