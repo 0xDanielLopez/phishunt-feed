@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 1347
-! Updated: 2026-10-24T04:37:58Z
+! Entries: 1336
+! Updated: 2026-10-24T11:02:23Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -16,7 +16,6 @@
 ||1789503-coinbase.com^
 ||2017-facebook.blogspot.com^
 ||20h98fg4uf3.mom^
-||24h-9393x1.top^
 ||27834618374426.rest^
 ||4-b0-b0s2.lat^
 ||401283-outlookmailbox-00012-validate.weebly.com^
@@ -115,30 +114,32 @@
 ||backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site^
 ||bankofamerica-com-upgrade-informtion-new-secure.ph^
 ||bankofamerica-prepaid.ph^
-||bankofamerica-secure-account-resolution.ph^
-||bankofamerica-secure-account-statement.ph^
+||bankofamerica-secure-account-management.ph^
 ||bankofamerica-secure-account-transfer.ph^
 ||bankofamerica-secure-account-verification.ph^
 ||bankofamerica-secure-account.ph^
+||bankofamerica-secure-authentication.ph^
 ||bankofamerica-secure-customer.ph^
 ||bankofamerica-secure-guide.ph^
 ||bankofamerica-secure-login.ph^
 ||bankofamerica-secure-resetpassword.ph^
-||bankofamerica-secure-terms.ph^
+||bankofamerica-secure-securitycheck.ph^
 ||bankofamerica-secure-updateemail.ph^
+||bankofamerica-secure-warning.ph^
 ||bankofamerica-secure-work.ph^
 ||bankofamerica-secure-zone.ph^
 ||bankofamerica-treasury-backup.ph^
-||bankofamerica-treasury-connect.ph^
 ||bankofamerica-tx.com^
 ||bankofamerica-verification.ph^
 ||bankofamericafairfund.ph^
+||bankofamericalosangelesbankingsupportdesk.ph^
 ||bankofamericalosangelessecurecustomerservice.ph^
 ||bankofamericamailcompte.blogspot.com^
 ||bankofamericanetherlands.ph^
 ||bankofamericapartners.ph^
 ||barcelona-facebook.blogspot.com^
 ||barclays-bank.vercel.app^
+||bbva-amazonbookawar-elcorteingles.ph^
 ||bbvalues.uk^
 ||be-spotify.com^
 ||berbagi-facebook.blogspot.com^
@@ -153,7 +154,6 @@
 ||binance-red-packet.vercel.app^
 ||binance-referral-code-btcbonus.vercel.app^
 ||binance-register.blogspot.com^
-||binance-tr-cekilis.com^
 ||binanceii.com^
 ||binancelivetrade.blogspot.com^
 ||binancenn.com^
@@ -365,9 +365,6 @@
 ||coreauth-whatsapp.com^
 ||corenode-whatsapp.com^
 ||corepush-whatsapp.com^
-||correosccl.cc^
-||correoscri.cc^
-||correosiicr.cc^
 ||cors-whatsapp.com^
 ||cpanel.amazon-signin-update-payment-secure-verify-billing-mainapp.40-124-80-100.cpanel.site^
 ||creyt.cl^
@@ -429,9 +426,9 @@
 ||dpd-ravlimo.com^
 ||dpd-telvora.com^
 ||dpd.bio^
-||dpdei.top^
 ||dpdie.live^
 ||dpduk.dev^
+||dreal-xpressdeliverys.com^
 ||drift-whatsapp.com^
 ||drive-icloud.com^
 ||drive03.com^
@@ -468,7 +465,6 @@
 ||faceb0k-facebook.blogspot.com^
 ||facebok-facebook.blogspot.com^
 ||facebook--br.blogspot.com^
-||facebook-1fw.pages.dev^
 ||facebook-2-0-dun.vercel.app^
 ||facebook-2022.blogspot.com^
 ||facebook-2025.blogspot.com^
@@ -670,6 +666,7 @@
 ||grn-microsoft-outlook.vercel.app^
 ||gzlweb-whatsapp.com^
 ||happy-whatsapp.com^
+||happykraken.xyz^
 ||hashnode.dev^
 ||help-instagram.blogspot.com^
 ||help-kraken-com-eng.square.site^
@@ -695,7 +692,7 @@
 ||hubrun-whatsapp.com^
 ||hubset-whatsapp.com^
 ||i4381923h5-g.click^
-||icloud-keychain-helpline-number.pages.dev^
+||icloud-oppgrader.com^
 ||icloudweb-ext860.click^
 ||id93782346383253.rest^
 ||ideeo.mx^
@@ -797,7 +794,6 @@
 ||jqsweb-whatsapp.com^
 ||jsqnjzyg.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site^
 ||jwb-facebook.blogspot.com^
-||jyothycirrussaviation.com^
 ||kauadosantos.github.io^
 ||kdyweb-whatsapp.com^
 ||kitapi-whatsapp.com^
@@ -1025,7 +1021,6 @@
 ||pe-facebook.blogspot.com^
 ||peputragroup.com^
 ||perplexity-beta-ads.com^
-||phil-heron-zoomdrain-com-s-account.workers.dev^
 ||piedrasdecolon.com.ar^
 ||pipe-whatsapp.com^
 ||pl-lokalna-ofeta9xv17yj75v0.shop^
@@ -1034,7 +1029,6 @@
 ||pl-ogloszenie122012.shop^
 ||pl2831923731vjz3134zx321134jk21.rest^
 ||pl452123125fsda2314.top^
-||pl47351.top^
 ||platform-kraken.cc^
 ||play-googlese.app^
 ||podnode-whatsapp.com^
@@ -1084,7 +1078,6 @@
 ||sagers.com^
 ||sample-whatsapp.com^
 ||samplel-ks6yxvur5-instagramm.vercel.app^
-||santander-aiy.pages.dev^
 ||santander-br.netlify.app^
 ||santander-cliente.com^
 ||santander-dev-week.vercel.app^
@@ -1201,7 +1194,6 @@
 ||theamazon.vercel.app^
 ||theme-whatsapp.com^
 ||therelayservice.com^
-||thomas-coinbase.com^
 ||ticket-fedex.com^
 ||tier-whatsapp.com^
 ||tokenapi-whatsapp.com^
@@ -1209,7 +1201,6 @@
 ||topic-whatsapp.com^
 ||trackingnumbers.org^
 ||trezoorr--thego.gitbook.io^
-||trezor-brige.square.site^
 ||trezor-eo-startd.pages.dev^
 ||trezor-hardware-login.square.site^
 ||trezor-login-guide.square.site^
@@ -1231,7 +1222,6 @@
 ||udpip-whatsapp.com^
 ||uk-facebook.blogspot.com^
 ||updata.net.cn^
-||upgrade-your-account-bankofamerica.ph^
 ||us--ledger-live-crypto-cdn-en.typedream.app^
 ||usdt-trustwallet-blockchain.vercel.app^
 ||useapp-whatsapp.com^
@@ -1253,7 +1243,6 @@
 ||verifytoken.com^
 ||viewclass.com^
 ||viewweb-whatsapp.com^
-||vinted-offer.info^
 ||vinted-technologies.live^
 ||vodafone-business-berlin.de^
 ||vodafone-business-berlin.store^
