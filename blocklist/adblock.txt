@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 1257
-! Updated: 2026-10-25T11:31:40Z
+! Entries: 1233
+! Updated: 2026-10-25T16:21:48Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -9,7 +9,6 @@
 ||1056804.com^
 ||121893coinbase.com^
 ||123-facebook.blogspot.com^
-||12312940.pl^
 ||1789503-coinbase.com^
 ||2017-facebook.blogspot.com^
 ||27834618374426.rest^
@@ -69,7 +68,6 @@
 ||anh-whatsapp.com^
 ||ani-facebook.blogspot.com^
 ||anj-whatsapp.com^
-||anthropic-ipo.live^
 ||apibox-whatsapp.com^
 ||apicloud-whatsapp.com^
 ||apidev-whatsapp.com^
@@ -106,36 +104,15 @@
 ||axm-amazon.com^
 ||backname.io^
 ||backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site^
-||bankofamerica-com-login-support-bussnis-gold.ph^
-||bankofamerica-com-upgrade-informtion-new-secure.ph^
-||bankofamerica-login-warning.ph^
-||bankofamerica-prepaid.ph^
 ||bankofamerica-secure-access-code.ph^
-||bankofamerica-secure-account-security.ph^
 ||bankofamerica-secure-account-support.ph^
-||bankofamerica-secure-accountupdate.ph^
 ||bankofamerica-secure-authentication.ph^
-||bankofamerica-secure-contact-confirm.ph^
 ||bankofamerica-secure-customer.ph^
-||bankofamerica-secure-form.ph^
 ||bankofamerica-secure-securitycheck.ph^
-||bankofamerica-secure-serviceteam.ph^
 ||bankofamerica-secure-updateemail.ph^
-||bankofamerica-secure-work.ph^
-||bankofamerica-secure-zip.ph^
-||bankofamerica-secure-zone.ph^
-||bankofamerica-treasury-backup.ph^
 ||bankofamerica-tx.com^
 ||bankofamerica-verification.ph^
-||bankofamericafairfund.ph^
-||bankofamericaglobal.ph^
-||bankofamericainsecure.ph^
-||bankofamericainvestment.ph^
-||bankofamericakullanici.ph^
-||bankofamericalosangelessecurecustomerservice.ph^
 ||bankofamericamailcompte.blogspot.com^
-||bankofamericaonline.com.ph^
-||bankofamericapartners.ph^
 ||barcelona-facebook.blogspot.com^
 ||barclays-bank.vercel.app^
 ||bbvalues.uk^
@@ -393,6 +370,7 @@
 ||dhcpapi-whatsapp.com^
 ||dhcpnode-whatsapp.com^
 ||dhl-express-dev.firebaseapp.com^
+||dhl-tracking.live^
 ||dir.com.my^
 ||discovery-whatsapp.com^
 ||discoveryloft.com^
@@ -476,7 +454,6 @@
 ||facebook-eu.blogspot.com^
 ||facebook-facebook1.blogspot.com^
 ||facebook-fansdanssapage.blogspot.com^
-||facebook-faq.se^
 ||facebook-fb-com.blogspot.com^
 ||facebook-find.blogspot.com^
 ||facebook-five-gamma.vercel.app^
@@ -565,7 +542,6 @@
 ||facebooklogin99999.blogspot.com^
 ||facebookloginapp.blogspot.com^
 ||facebookloginapps.blogspot.com^
-||facebookloginbayshub-google-com.ph^
 ||facebooklogincc.blogspot.com^
 ||facebookloginconfirm.blogspot.com^
 ||facebookloginf.blogspot.com^
@@ -624,7 +600,6 @@
 ||goo.su^
 ||google-apk.com^
 ||google-live-maps.com^
-||google.com.py^
 ||google1208.com^
 ||google1302.com^
 ||google1308.com^
@@ -680,6 +655,7 @@
 ||ideeo.mx^
 ||ids-whatsapp.com^
 ||ifotografix.co.uk^
+||ig-verifica.freemyip.com^
 ||info-eng-ledgerlive-learn.typedream.app^
 ||info-facebook.blogspot.com^
 ||infy.click^
@@ -705,6 +681,7 @@
 ||instagram-five-gamma.vercel.app^
 ||instagram-followers-boost.vercel.app^
 ||instagram-frontpage.vercel.app^
+||instagram-groupe-invite.vercel.app^
 ||instagram-inky.vercel.app^
 ||instagram-itng.vercel.app^
 ||instagram-jennifer.blogspot.com^
@@ -759,14 +736,12 @@
 ||io-trezrn-eng.pages.dev^
 ||ips-whatsapp.com^
 ||isha-dev.com^
-||itau-com-br.ph^
 ||itau-com.vercel.app^
 ||itau-snowy.vercel.app^
 ||itauingreso.com^
 ||ivory-whatsapp.com^
 ||jayaram0550.github.io^
 ||jffoyjdh.bradesco.support.zaka25.duckdns.org^
-||jisandev.com^
 ||jj-facebook.blogspot.com^
 ||jo-facebook.blogspot.com^
 ||joker-whatsapp.com^
@@ -918,7 +893,6 @@
 ||netflix-homepage-pi.vercel.app^
 ||netflix-lake.vercel.app^
 ||netflix-pay.click^
-||netflix-recovery.com^
 ||netflix-sandy-alpha.vercel.app^
 ||netflix-two-mu.vercel.app^
 ||netflix-web-site-three.vercel.app^
@@ -970,6 +944,7 @@
 ||opsnode-whatsapp.com^
 ||orbit-whatsapp.com^
 ||orchestrator-whatsapp.com^
+||orderyuk.info^
 ||orygozcb.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site^
 ||ossama-instagram.vercel.app^
 ||outlook-ashy.vercel.app^
@@ -993,9 +968,9 @@
 ||perplexity-beta-ads.com^
 ||piedrasdecolon.com.ar^
 ||pipe-whatsapp.com^
+||pl-hdwnd72nxiw92nr9xg3.shop^
 ||pl-lokalna-ofeta9xv17yj75v0.shop^
 ||pl-mkl1.sbs^
-||pl-ogloszenie122012.shop^
 ||pl2831923731vjz3134zx321134jk21.rest^
 ||pl452123125fsda2314.top^
 ||platform-kraken.cc^
@@ -1129,6 +1104,7 @@
 ||support-ledgerlive-eng.typedream.app^
 ||support-ledgrcom-start-web.typedream.app^
 ||support24h.app^
+||sviluppo.host^
 ||syncpush-whatsapp.com^
 ||sysauth-whatsapp.com^
 ||sysbox-whatsapp.com^
@@ -1176,6 +1152,7 @@
 ||uspssmartparcellocker.tech^
 ||v0-exodus-wallet-app.vercel.app^
 ||v0-instagram-accounts.vercel.app^
+||v0-trezor-suite-website.vercel.app^
 ||verify-google-app.netlify.app^
 ||verifyaccount-google.com^
 ||verifytoken.com^
@@ -1246,7 +1223,6 @@
 ||xfinityon.com^
 ||xfinityservicekey.weebly.com^
 ||xfinityservices.vercel.app^
-||xn--bankofamerica-yuf.ph^
 ||yahoo888.xyz^
 ||yjiankuny.workers.dev^
 ||yonataxi.at^
