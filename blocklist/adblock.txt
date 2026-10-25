@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 1263
-! Updated: 2026-10-25T04:42:32Z
+! Entries: 1257
+! Updated: 2026-10-25T11:31:40Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -110,15 +110,14 @@
 ||bankofamerica-com-upgrade-informtion-new-secure.ph^
 ||bankofamerica-login-warning.ph^
 ||bankofamerica-prepaid.ph^
+||bankofamerica-secure-access-code.ph^
 ||bankofamerica-secure-account-security.ph^
 ||bankofamerica-secure-account-support.ph^
-||bankofamerica-secure-account.ph^
 ||bankofamerica-secure-accountupdate.ph^
 ||bankofamerica-secure-authentication.ph^
 ||bankofamerica-secure-contact-confirm.ph^
 ||bankofamerica-secure-customer.ph^
 ||bankofamerica-secure-form.ph^
-||bankofamerica-secure-payment.ph^
 ||bankofamerica-secure-securitycheck.ph^
 ||bankofamerica-secure-serviceteam.ph^
 ||bankofamerica-secure-updateemail.ph^
@@ -130,6 +129,9 @@
 ||bankofamerica-verification.ph^
 ||bankofamericafairfund.ph^
 ||bankofamericaglobal.ph^
+||bankofamericainsecure.ph^
+||bankofamericainvestment.ph^
+||bankofamericakullanici.ph^
 ||bankofamericalosangelessecurecustomerservice.ph^
 ||bankofamericamailcompte.blogspot.com^
 ||bankofamericaonline.com.ph^
@@ -258,6 +260,7 @@
 ||boxuse-whatsapp.com^
 ||bqdbgybl.bradesco.www.support.zaka25.duckdns.org^
 ||brad-facebook.blogspot.com^
+||bradesco.support.zaka25.duckdns.org^
 ||bradescosegurosop.com.br^
 ||branch-whatsapp.com^
 ||bryweb-whatsapp.com^
@@ -340,7 +343,6 @@
 ||collectableswall.ebaymclaren-austin.eventshouse.app^
 ||column-whatsapp.com^
 ||com-microsoftonline-ondrive.ca^
-||com-onedrive-folder.com^
 ||comcast-2-iota.vercel.app^
 ||comcast-2.vercel.app^
 ||comcast-3-2.vercel.app^
@@ -406,10 +408,8 @@
 ||documentsharing.fr^
 ||dothome.co.kr^
 ||dow-nload-ledger-live--doc.typedream.app^
-||dpd-ade.top^
 ||dpd-bexnaro.com^
 ||dpd-calviro.click^
-||dpd-deo.top^
 ||dpd-ios.rest^
 ||dpd-malvexa.click^
 ||dpd-ravlimo.com^
@@ -763,13 +763,11 @@
 ||itau-com.vercel.app^
 ||itau-snowy.vercel.app^
 ||itauingreso.com^
-||itautrade.ph^
 ||ivory-whatsapp.com^
 ||jayaram0550.github.io^
 ||jffoyjdh.bradesco.support.zaka25.duckdns.org^
 ||jisandev.com^
 ||jj-facebook.blogspot.com^
-||jkhmkn.ph^
 ||jo-facebook.blogspot.com^
 ||joker-whatsapp.com^
 ||jqsweb-whatsapp.com^
@@ -847,7 +845,6 @@
 ||mailcore-whatsapp.com^
 ||maillink-whatsapp.com^
 ||mailnode-whatsapp.com^
-||maintenance-bankofamerica-login.ph^
 ||mapper-whatsapp.com^
 ||match-whatsapp.com^
 ||mb-facebook.blogspot.com^
@@ -955,6 +952,7 @@
 ||noreply-icloud.app^
 ||nosqldb-whatsapp.com^
 ||nqxweb-whatsapp.com^
+||nr-293-sn2-n34.sbs^
 ||nr-8j2-sm3-d8b.sbs^
 ||nr-n82-ms3-934-t2m.sbs^
 ||nw-facebook.blogspot.com^
@@ -997,10 +995,7 @@
 ||pipe-whatsapp.com^
 ||pl-lokalna-ofeta9xv17yj75v0.shop^
 ||pl-mkl1.sbs^
-||pl-oferta872183.cfd^
 ||pl-ogloszenie122012.shop^
-||pl-pr0dutky8178361833.sbs^
-||pl-zakupy811.top^
 ||pl2831923731vjz3134zx321134jk21.rest^
 ||pl452123125fsda2314.top^
 ||platform-kraken.cc^
@@ -1064,7 +1059,6 @@
 ||santandercitas.com^
 ||saque-instagram.com^
 ||satanderconsumers.ca^
-||savvysmallbusinesssolutions.com^
 ||search.er.in^
 ||sechub-whatsapp.com^
 ||seclab-whatsapp.com^
@@ -1108,6 +1102,7 @@
 ||spotifypremiumz.net^
 ||spotifyprimiumapk.com^
 ||spotifysonic.com^
+||sprinklers-orlando.com^
 ||srpska-banka.com^
 ||srv6-coinbase.com^
 ||sslcert-whatsapp.com^
@@ -1181,7 +1176,6 @@
 ||uspssmartparcellocker.tech^
 ||v0-exodus-wallet-app.vercel.app^
 ||v0-instagram-accounts.vercel.app^
-||verify-bankofamerica-25.ph^
 ||verify-google-app.netlify.app^
 ||verifyaccount-google.com^
 ||verifytoken.com^
@@ -1220,7 +1214,6 @@
 ||webtrace-whatsapp.com^
 ||welcome-trezr-suite.square.site^
 ||wetransfer-1.vercel.app^
-||whatsapp-clik.pages.dev^
 ||whatsapp-dp-images.in^
 ||whatsapp-fast.vercel.app^
 ||whatsapp-gruppo-connect.com^
@@ -1237,6 +1230,7 @@
 ||whatsappo-ten.vercel.app^
 ||windows-ledger-live.typedream.app^
 ||wooflers.com^
+||workspacedoc.com^
 ||ww-facebook.blogspot.com^
 ||www-app-google.com^
 ||www-coinbase.cn^
