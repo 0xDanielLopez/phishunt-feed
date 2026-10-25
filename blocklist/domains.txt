@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 1247
-# Updated: 2026-10-24T20:50:57Z
+# Entries: 1263
+# Updated: 2026-10-25T04:42:31Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -69,6 +69,7 @@ ang-whatsapp.com
 anh-whatsapp.com
 ani-facebook.blogspot.com
 anj-whatsapp.com
+anthropic-ipo.live
 apibox-whatsapp.com
 apicloud-whatsapp.com
 apidev-whatsapp.com
@@ -109,32 +110,32 @@ bankofamerica-com-login-support-bussnis-gold.ph
 bankofamerica-com-upgrade-informtion-new-secure.ph
 bankofamerica-login-warning.ph
 bankofamerica-prepaid.ph
-bankofamerica-secure-account-transfer.ph
-bankofamerica-secure-account-verification.ph
+bankofamerica-secure-account-security.ph
+bankofamerica-secure-account-support.ph
 bankofamerica-secure-account.ph
+bankofamerica-secure-accountupdate.ph
 bankofamerica-secure-authentication.ph
+bankofamerica-secure-contact-confirm.ph
 bankofamerica-secure-customer.ph
 bankofamerica-secure-form.ph
-bankofamerica-secure-guide.ph
-bankofamerica-secure-representative.ph
+bankofamerica-secure-payment.ph
 bankofamerica-secure-securitycheck.ph
 bankofamerica-secure-serviceteam.ph
 bankofamerica-secure-updateemail.ph
-bankofamerica-secure-updatepin.ph
-bankofamerica-secure-withdrawal.ph
 bankofamerica-secure-work.ph
+bankofamerica-secure-zip.ph
 bankofamerica-secure-zone.ph
 bankofamerica-treasury-backup.ph
 bankofamerica-tx.com
 bankofamerica-verification.ph
 bankofamericafairfund.ph
-bankofamericalosangelesbankingsupportdesk.ph
+bankofamericaglobal.ph
 bankofamericalosangelessecurecustomerservice.ph
 bankofamericamailcompte.blogspot.com
+bankofamericaonline.com.ph
 bankofamericapartners.ph
 barcelona-facebook.blogspot.com
 barclays-bank.vercel.app
-bbva-amazonbookawar-elcorteingles.ph
 bbvalues.uk
 be-spotify.com
 berbagi-facebook.blogspot.com
@@ -362,7 +363,6 @@ cpanel.amazon-signin-update-payment-secure-verify-billing-mainapp.40-124-80-100.
 creyt.cl
 csrf-whatsapp.com
 ct.ws
-cultueco.co.uk
 cwjweb-whatsapp.com
 cycle-whatsapp.com
 cz-facebook.blogspot.com
@@ -436,6 +436,7 @@ ember-whatsapp.com
 en-home-trezore.pages.dev
 en-ledgre.pages.dev
 encode-whatsapp.com
+endesa-online-factura.com
 ensuite-trexor.square.site
 epsilons.co
 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
@@ -490,7 +491,6 @@ facebook-in.blogspot.com
 facebook-int.blogspot.com
 facebook-linkedin.blogspot.com
 facebook-logiin.vercel.app
-facebook-login-bankofamerica.com.ph
 facebook-login-be.blogspot.com
 facebook-login-facebook.blogspot.com
 facebook-login-help.blogspot.com
@@ -565,6 +565,7 @@ facebooklogin333.blogspot.com
 facebooklogin99999.blogspot.com
 facebookloginapp.blogspot.com
 facebookloginapps.blogspot.com
+facebookloginbayshub-google-com.ph
 facebooklogincc.blogspot.com
 facebookloginconfirm.blogspot.com
 facebookloginf.blogspot.com
@@ -620,6 +621,7 @@ giant-whatsapp.com
 gitnode-whatsapp.com
 gloronyan.github.io
 glovonetwork.com
+goo.su
 google-apk.com
 google-live-maps.com
 google.com.py
@@ -787,6 +789,7 @@ kucoin-referral-code-pt.vercel.app
 kucoinblock.com
 kucoindeep.com
 kucoinlogenac.gitbook.io
+kucoinlogin.blogspot.com
 kucoinloginaa.gitbook.io
 kucoinloign.gitbook.io
 kucoinquantify.com
@@ -819,7 +822,6 @@ linkhost-whatsapp.com
 linkhub-whatsapp.com
 lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
 lobster-cloud.com
-lock-icloud.com
 locked-coinbase.com
 login-facebook-facebook.blogspot.com
 login-facebookaccount.blogspot.com
@@ -851,6 +853,7 @@ match-whatsapp.com
 mb-facebook.blogspot.com
 mclarencar.ebaymclaren-austin.eventshouse.app
 mclarenf1car.ebaymclaren-austin.eventshouse.app
+mcp.amgghvyv.bradesco.support.zaka25.duckdns.org
 mcp.zgnzpqap.bradesco.support.zaka25.duckdns.org
 mcp.zxexxnym.bradesco.support.zaka25.duckdns.org
 meet-googlee46347975696.pages.dev
@@ -887,6 +890,7 @@ microsoft0117.vercel.app
 microsoft365businessbasic.com
 microsoft365updates.com
 microsoftcloudverification.com
+microsoftconfig-3.vercel.app
 microsoftjk.eu.org
 microsoftwordob.blogspot.com
 mirror-google.com
@@ -951,6 +955,7 @@ nodeedge-whatsapp.com
 noreply-icloud.app
 nosqldb-whatsapp.com
 nqxweb-whatsapp.com
+nr-8j2-sm3-d8b.sbs
 nr-n82-ms3-934-t2m.sbs
 nw-facebook.blogspot.com
 office365licensingsupport.com
@@ -994,6 +999,8 @@ pl-lokalna-ofeta9xv17yj75v0.shop
 pl-mkl1.sbs
 pl-oferta872183.cfd
 pl-ogloszenie122012.shop
+pl-pr0dutky8178361833.sbs
+pl-zakupy811.top
 pl2831923731vjz3134zx321134jk21.rest
 pl452123125fsda2314.top
 platform-kraken.cc
@@ -1028,11 +1035,14 @@ roblox.com.bz
 roblox.com.ee
 roblox.com.et
 roblox.com.gr
+roblox.com.kg
 roblox.com.kz
 roblox.com.ml
 roblox.com.pt
 roblox.rw
+roblox.ss
 robloxc.com.es
+robloxmarine.github.io
 rricrosoft-offices.org
 ruddycruzc.github.io
 runapp-whatsapp.com
@@ -1097,6 +1107,7 @@ spotifymode.org
 spotifypremiumapk.pk
 spotifypremiumz.net
 spotifyprimiumapk.com
+spotifysonic.com
 srpska-banka.com
 srv6-coinbase.com
 sslcert-whatsapp.com
@@ -1151,6 +1162,7 @@ trezorguide.vercel.app
 trezorrgoappup.gitbook.io
 trust-wallet-customer-support-number.github.io
 trust-wallet-login.vercel.app
+trustwallet-gules.vercel.app
 trustwallet-helpcenter.vercel.app
 trustwallet-login.blogspot.com
 trustwallet-secure-check.vercel.app
@@ -1169,6 +1181,8 @@ uspss.pages.dev
 uspssmartparcellocker.tech
 v0-exodus-wallet-app.vercel.app
 v0-instagram-accounts.vercel.app
+verify-bankofamerica-25.ph
+verify-google-app.netlify.app
 verifyaccount-google.com
 verifytoken.com
 viewclass.com
@@ -1206,6 +1220,7 @@ webtech-whatsapp.com
 webtrace-whatsapp.com
 welcome-trezr-suite.square.site
 wetransfer-1.vercel.app
+whatsapp-clik.pages.dev
 whatsapp-dp-images.in
 whatsapp-fast.vercel.app
 whatsapp-gruppo-connect.com
@@ -1224,6 +1239,7 @@ windows-ledger-live.typedream.app
 wooflers.com
 ww-facebook.blogspot.com
 www-app-google.com
+www-coinbase.cn
 www-google.cn
 www-icloud-mx.help
 www.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site

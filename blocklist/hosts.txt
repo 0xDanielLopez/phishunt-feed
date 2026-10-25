@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 1247
-# Updated: 2026-10-24T20:50:58Z
+# Entries: 1263
+# Updated: 2026-10-25T04:42:31Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -69,6 +69,7 @@
 0.0.0.0 anh-whatsapp.com
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 anj-whatsapp.com
+0.0.0.0 anthropic-ipo.live
 0.0.0.0 apibox-whatsapp.com
 0.0.0.0 apicloud-whatsapp.com
 0.0.0.0 apidev-whatsapp.com
@@ -109,32 +110,32 @@
 0.0.0.0 bankofamerica-com-upgrade-informtion-new-secure.ph
 0.0.0.0 bankofamerica-login-warning.ph
 0.0.0.0 bankofamerica-prepaid.ph
-0.0.0.0 bankofamerica-secure-account-transfer.ph
-0.0.0.0 bankofamerica-secure-account-verification.ph
+0.0.0.0 bankofamerica-secure-account-security.ph
+0.0.0.0 bankofamerica-secure-account-support.ph
 0.0.0.0 bankofamerica-secure-account.ph
+0.0.0.0 bankofamerica-secure-accountupdate.ph
 0.0.0.0 bankofamerica-secure-authentication.ph
+0.0.0.0 bankofamerica-secure-contact-confirm.ph
 0.0.0.0 bankofamerica-secure-customer.ph
 0.0.0.0 bankofamerica-secure-form.ph
-0.0.0.0 bankofamerica-secure-guide.ph
-0.0.0.0 bankofamerica-secure-representative.ph
+0.0.0.0 bankofamerica-secure-payment.ph
 0.0.0.0 bankofamerica-secure-securitycheck.ph
 0.0.0.0 bankofamerica-secure-serviceteam.ph
 0.0.0.0 bankofamerica-secure-updateemail.ph
-0.0.0.0 bankofamerica-secure-updatepin.ph
-0.0.0.0 bankofamerica-secure-withdrawal.ph
 0.0.0.0 bankofamerica-secure-work.ph
+0.0.0.0 bankofamerica-secure-zip.ph
 0.0.0.0 bankofamerica-secure-zone.ph
 0.0.0.0 bankofamerica-treasury-backup.ph
 0.0.0.0 bankofamerica-tx.com
 0.0.0.0 bankofamerica-verification.ph
 0.0.0.0 bankofamericafairfund.ph
-0.0.0.0 bankofamericalosangelesbankingsupportdesk.ph
+0.0.0.0 bankofamericaglobal.ph
 0.0.0.0 bankofamericalosangelessecurecustomerservice.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
+0.0.0.0 bankofamericaonline.com.ph
 0.0.0.0 bankofamericapartners.ph
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
-0.0.0.0 bbva-amazonbookawar-elcorteingles.ph
 0.0.0.0 bbvalues.uk
 0.0.0.0 be-spotify.com
 0.0.0.0 berbagi-facebook.blogspot.com
@@ -362,7 +363,6 @@
 0.0.0.0 creyt.cl
 0.0.0.0 csrf-whatsapp.com
 0.0.0.0 ct.ws
-0.0.0.0 cultueco.co.uk
 0.0.0.0 cwjweb-whatsapp.com
 0.0.0.0 cycle-whatsapp.com
 0.0.0.0 cz-facebook.blogspot.com
@@ -436,6 +436,7 @@
 0.0.0.0 en-home-trezore.pages.dev
 0.0.0.0 en-ledgre.pages.dev
 0.0.0.0 encode-whatsapp.com
+0.0.0.0 endesa-online-factura.com
 0.0.0.0 ensuite-trexor.square.site
 0.0.0.0 epsilons.co
 0.0.0.0 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
@@ -490,7 +491,6 @@
 0.0.0.0 facebook-int.blogspot.com
 0.0.0.0 facebook-linkedin.blogspot.com
 0.0.0.0 facebook-logiin.vercel.app
-0.0.0.0 facebook-login-bankofamerica.com.ph
 0.0.0.0 facebook-login-be.blogspot.com
 0.0.0.0 facebook-login-facebook.blogspot.com
 0.0.0.0 facebook-login-help.blogspot.com
@@ -565,6 +565,7 @@
 0.0.0.0 facebooklogin99999.blogspot.com
 0.0.0.0 facebookloginapp.blogspot.com
 0.0.0.0 facebookloginapps.blogspot.com
+0.0.0.0 facebookloginbayshub-google-com.ph
 0.0.0.0 facebooklogincc.blogspot.com
 0.0.0.0 facebookloginconfirm.blogspot.com
 0.0.0.0 facebookloginf.blogspot.com
@@ -620,6 +621,7 @@
 0.0.0.0 gitnode-whatsapp.com
 0.0.0.0 gloronyan.github.io
 0.0.0.0 glovonetwork.com
+0.0.0.0 goo.su
 0.0.0.0 google-apk.com
 0.0.0.0 google-live-maps.com
 0.0.0.0 google.com.py
@@ -787,6 +789,7 @@
 0.0.0.0 kucoinblock.com
 0.0.0.0 kucoindeep.com
 0.0.0.0 kucoinlogenac.gitbook.io
+0.0.0.0 kucoinlogin.blogspot.com
 0.0.0.0 kucoinloginaa.gitbook.io
 0.0.0.0 kucoinloign.gitbook.io
 0.0.0.0 kucoinquantify.com
@@ -819,7 +822,6 @@
 0.0.0.0 linkhub-whatsapp.com
 0.0.0.0 lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
 0.0.0.0 lobster-cloud.com
-0.0.0.0 lock-icloud.com
 0.0.0.0 locked-coinbase.com
 0.0.0.0 login-facebook-facebook.blogspot.com
 0.0.0.0 login-facebookaccount.blogspot.com
@@ -851,6 +853,7 @@
 0.0.0.0 mb-facebook.blogspot.com
 0.0.0.0 mclarencar.ebaymclaren-austin.eventshouse.app
 0.0.0.0 mclarenf1car.ebaymclaren-austin.eventshouse.app
+0.0.0.0 mcp.amgghvyv.bradesco.support.zaka25.duckdns.org
 0.0.0.0 mcp.zgnzpqap.bradesco.support.zaka25.duckdns.org
 0.0.0.0 mcp.zxexxnym.bradesco.support.zaka25.duckdns.org
 0.0.0.0 meet-googlee46347975696.pages.dev
@@ -887,6 +890,7 @@
 0.0.0.0 microsoft365businessbasic.com
 0.0.0.0 microsoft365updates.com
 0.0.0.0 microsoftcloudverification.com
+0.0.0.0 microsoftconfig-3.vercel.app
 0.0.0.0 microsoftjk.eu.org
 0.0.0.0 microsoftwordob.blogspot.com
 0.0.0.0 mirror-google.com
@@ -951,6 +955,7 @@
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nosqldb-whatsapp.com
 0.0.0.0 nqxweb-whatsapp.com
+0.0.0.0 nr-8j2-sm3-d8b.sbs
 0.0.0.0 nr-n82-ms3-934-t2m.sbs
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 office365licensingsupport.com
@@ -994,6 +999,8 @@
 0.0.0.0 pl-mkl1.sbs
 0.0.0.0 pl-oferta872183.cfd
 0.0.0.0 pl-ogloszenie122012.shop
+0.0.0.0 pl-pr0dutky8178361833.sbs
+0.0.0.0 pl-zakupy811.top
 0.0.0.0 pl2831923731vjz3134zx321134jk21.rest
 0.0.0.0 pl452123125fsda2314.top
 0.0.0.0 platform-kraken.cc
@@ -1028,11 +1035,14 @@
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.et
 0.0.0.0 roblox.com.gr
+0.0.0.0 roblox.com.kg
 0.0.0.0 roblox.com.kz
 0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.pt
 0.0.0.0 roblox.rw
+0.0.0.0 roblox.ss
 0.0.0.0 robloxc.com.es
+0.0.0.0 robloxmarine.github.io
 0.0.0.0 rricrosoft-offices.org
 0.0.0.0 ruddycruzc.github.io
 0.0.0.0 runapp-whatsapp.com
@@ -1097,6 +1107,7 @@
 0.0.0.0 spotifypremiumapk.pk
 0.0.0.0 spotifypremiumz.net
 0.0.0.0 spotifyprimiumapk.com
+0.0.0.0 spotifysonic.com
 0.0.0.0 srpska-banka.com
 0.0.0.0 srv6-coinbase.com
 0.0.0.0 sslcert-whatsapp.com
@@ -1151,6 +1162,7 @@
 0.0.0.0 trezorrgoappup.gitbook.io
 0.0.0.0 trust-wallet-customer-support-number.github.io
 0.0.0.0 trust-wallet-login.vercel.app
+0.0.0.0 trustwallet-gules.vercel.app
 0.0.0.0 trustwallet-helpcenter.vercel.app
 0.0.0.0 trustwallet-login.blogspot.com
 0.0.0.0 trustwallet-secure-check.vercel.app
@@ -1169,6 +1181,8 @@
 0.0.0.0 uspssmartparcellocker.tech
 0.0.0.0 v0-exodus-wallet-app.vercel.app
 0.0.0.0 v0-instagram-accounts.vercel.app
+0.0.0.0 verify-bankofamerica-25.ph
+0.0.0.0 verify-google-app.netlify.app
 0.0.0.0 verifyaccount-google.com
 0.0.0.0 verifytoken.com
 0.0.0.0 viewclass.com
@@ -1206,6 +1220,7 @@
 0.0.0.0 webtrace-whatsapp.com
 0.0.0.0 welcome-trezr-suite.square.site
 0.0.0.0 wetransfer-1.vercel.app
+0.0.0.0 whatsapp-clik.pages.dev
 0.0.0.0 whatsapp-dp-images.in
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-gruppo-connect.com
@@ -1224,6 +1239,7 @@
 0.0.0.0 wooflers.com
 0.0.0.0 ww-facebook.blogspot.com
 0.0.0.0 www-app-google.com
+0.0.0.0 www-coinbase.cn
 0.0.0.0 www-google.cn
 0.0.0.0 www-icloud-mx.help
 0.0.0.0 www.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
