@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 1163
-# Updated: 2026-10-26T04:48:32Z
+# Entries: 1145
+# Updated: 2026-10-26T13:02:29Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -14,8 +14,6 @@
 2famgghvyv.bradesco.support.zaka25.duckdns.org
 394182-coinbase.com
 401283-outlookmailbox-00012-validate.weebly.com
-494145-coinbase.com
-882028364740474749474749474.com
 a2zapk.co
 a2zapk.dev
 abkweb-whatsapp.com
@@ -23,7 +21,6 @@ account-instagram.vercel.app
 acounts-google.duckdns.org
 action-whatsapp.com
 admin.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
-adobe-nefwihgbhewubfuhewnfjk.pages.dev
 adobe-photoshop-crack.com
 adobeexperience.com.br
 adobeinstaller-virid.vercel.app
@@ -55,7 +52,6 @@ amf-whatsapp.com
 amg-whatsapp.com
 amgghvyv.bradesco.support.zaka25.duckdns.org
 amh-whatsapp.com
-android-google.cn
 ane-whatsapp.com
 anf-whatsapp.com
 ang-whatsapp.com
@@ -73,7 +69,6 @@ apinet-whatsapp.com
 apinode-whatsapp.com
 apiops-whatsapp.com
 apisys-whatsapp.com
-apk-google.cn
 app-facebook.blogspot.com
 app81-facebook.blogspot.com
 appedge-whatsapp.com
@@ -85,6 +80,7 @@ appsec-whatsapp.com
 ashy-moss-0bc074f03.5.azurestaticapps.net
 asso-entrautres.fr
 aukcja758487593.top
+aukcja865637302.cfd
 authapi-whatsapp.com
 authcdn-whatsapp.com
 authnode-whatsapp.com
@@ -119,7 +115,6 @@ binancetoptrade.live
 binanceuz.co
 binancewallett.blogspot.com
 biowikiweb.com
-bizumslots.pics
 bkz-whatsapp.com
 bla-whatsapp.com
 blb-whatsapp.com
@@ -249,12 +244,10 @@ cdnchat-whatsapp.com
 cdnedge-whatsapp.com
 cdnnet-whatsapp.com
 cfm-whatsapps.com
-ch-google.cc
 charm-whatsapp.com
 chatgpt0005.eu.org
 chathub-whatsapp.com
 checkleaked.cc
-chrome-google.cc
 chs-google.cn
 citrix-sharing.com
 click-facebook.blogspot.com
@@ -319,7 +312,6 @@ devsys-whatsapp.com
 dhcpapi-whatsapp.com
 dhcpnode-whatsapp.com
 dhl-express-dev.firebaseapp.com
-dhl-tracking.live
 dir.com.my
 discovery-whatsapp.com
 discoveryloft.com
@@ -360,7 +352,6 @@ email-microsoft.com
 ember-whatsapp.com
 en-home-trezore.pages.dev
 en-ledgre.pages.dev
-endesa-online-factura.com
 ensuite-trexor.square.site
 epsilons.co
 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
@@ -535,6 +526,7 @@ format-whatsapp.com
 forsakens-crew-teman-facebook.blogspot.com
 free-facebook-page-likes.blogspot.com
 fwh.is
+g0ogle.com
 gafiatechnologies.com
 gercel.app
 gestorweb.cl
@@ -544,7 +536,6 @@ giant-whatsapp.com
 gitnode-whatsapp.com
 gloronyan.github.io
 glovonetwork.com
-glsgroupsk.click
 google-apk.com
 google-live-maps.com
 google1208.com
@@ -593,13 +584,11 @@ hubkit-whatsapp.com
 hublab-whatsapp.com
 hubrun-whatsapp.com
 hubset-whatsapp.com
-icloudnotices.help
+icloud-ayuda-online.help
 icloudweb-ext860.click
-id-ud5zik2fg.rest
 ideeo.mx
 ids-whatsapp.com
 ifotografix.co.uk
-ig-verifica.freemyip.com
 ij37f649jg376fhf93g63.rest
 info-eng-ledgerlive-learn.typedream.app
 info-facebook.blogspot.com
@@ -649,6 +638,7 @@ instagram-users.blogspot.com
 instagram-usman-haider.vercel.app
 instagram-verifica.freemyip.com
 instagram157.github.io
+instagram18plus.top
 instagram90sedition.vercel.app
 instagramaaps-code.github.io
 instagramaccount.info
@@ -785,7 +775,6 @@ metamaskeeogin.gitbook.io
 metamaskextensionnn.gitbook.io
 metamasklskog.gitbook.io
 metamaskrewards.com
-metamasksuckme.pages.dev
 metamaskuxlogen.gitbook.io
 metamaskwallet.to
 metamaskwallett.blogspot.com
@@ -803,6 +792,7 @@ microsoft365updates.com
 microsoftcloudverification.com
 microsoftconfig-3.vercel.app
 microsoftjk.eu.org
+microsoftt-beta.vercel.app
 microsoftwordob.blogspot.com
 mirror-google.com
 mkwweb-whatsapp.com
@@ -831,7 +821,6 @@ netflix-cop.vercel.app
 netflix-coral-zeta.vercel.app
 netflix-homepage-pi.vercel.app
 netflix-lake.vercel.app
-netflix-pay.click
 netflix-sandy-alpha.vercel.app
 netflix-two-mu.vercel.app
 netflix-web-site-three.vercel.app
@@ -867,8 +856,6 @@ nqxweb-whatsapp.com
 nr-28s2m3.sbs
 nr-8j2-sm3-d8b.sbs
 nw-facebook.blogspot.com
-oferta2284984024.cfd
-oferta3763479202.cfd
 office365licensingsupport.com
 onedrive-4-nine.vercel.app
 open-instagram.vercel.app
@@ -882,7 +869,6 @@ opsnet-whatsapp.com
 opsnode-whatsapp.com
 orbit-whatsapp.com
 orchestrator-whatsapp.com
-orderyuk.info
 orygozcb.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
 ossama-instagram.vercel.app
 outlook-ashy.vercel.app
@@ -1006,7 +992,6 @@ spotify-client-beta.vercel.app
 spotifylite.online
 spotifymodapp.com.in
 spotifymode.org
-spotifyofmovies-hdq.pages.dev
 spotifypremiumapk.pk
 spotifypremiumz.net
 spotifyprimiumapk.com
@@ -1074,7 +1059,6 @@ trustwallet-team-support.github.io
 trustwallet-tokentwtowner.vercel.app
 trustwalletindia-beta.vercel.app
 ttgyahvw.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
-twitterfires.com
 uk-facebook.blogspot.com
 updata.net.cn
 us--ledger-live-crypto-cdn-en.typedream.app
@@ -1141,8 +1125,6 @@ wooflers.com
 workspacedoc.com
 ww-facebook.blogspot.com
 www-app-google.com
-www-coinbase.cn
-www-google.cn
 www.mxjkckus.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
 www.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-125-38.cpanel.site
 www.zygzsdwh.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site

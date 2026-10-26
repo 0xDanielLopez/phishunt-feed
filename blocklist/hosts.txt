@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 1163
-# Updated: 2026-10-26T04:48:33Z
+# Entries: 1150
+# Updated: 2026-10-26T13:04:56Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -14,8 +14,6 @@
 0.0.0.0 2famgghvyv.bradesco.support.zaka25.duckdns.org
 0.0.0.0 394182-coinbase.com
 0.0.0.0 401283-outlookmailbox-00012-validate.weebly.com
-0.0.0.0 494145-coinbase.com
-0.0.0.0 882028364740474749474749474.com
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
 0.0.0.0 abkweb-whatsapp.com
@@ -23,7 +21,6 @@
 0.0.0.0 acounts-google.duckdns.org
 0.0.0.0 action-whatsapp.com
 0.0.0.0 admin.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
-0.0.0.0 adobe-nefwihgbhewubfuhewnfjk.pages.dev
 0.0.0.0 adobe-photoshop-crack.com
 0.0.0.0 adobeexperience.com.br
 0.0.0.0 adobeinstaller-virid.vercel.app
@@ -55,7 +52,6 @@
 0.0.0.0 amg-whatsapp.com
 0.0.0.0 amgghvyv.bradesco.support.zaka25.duckdns.org
 0.0.0.0 amh-whatsapp.com
-0.0.0.0 android-google.cn
 0.0.0.0 ane-whatsapp.com
 0.0.0.0 anf-whatsapp.com
 0.0.0.0 ang-whatsapp.com
@@ -73,7 +69,7 @@
 0.0.0.0 apinode-whatsapp.com
 0.0.0.0 apiops-whatsapp.com
 0.0.0.0 apisys-whatsapp.com
-0.0.0.0 apk-google.cn
+0.0.0.0 apoyar.org
 0.0.0.0 app-facebook.blogspot.com
 0.0.0.0 app81-facebook.blogspot.com
 0.0.0.0 appedge-whatsapp.com
@@ -85,6 +81,7 @@
 0.0.0.0 ashy-moss-0bc074f03.5.azurestaticapps.net
 0.0.0.0 asso-entrautres.fr
 0.0.0.0 aukcja758487593.top
+0.0.0.0 aukcja865637302.cfd
 0.0.0.0 authapi-whatsapp.com
 0.0.0.0 authcdn-whatsapp.com
 0.0.0.0 authnode-whatsapp.com
@@ -119,7 +116,6 @@
 0.0.0.0 binanceuz.co
 0.0.0.0 binancewallett.blogspot.com
 0.0.0.0 biowikiweb.com
-0.0.0.0 bizumslots.pics
 0.0.0.0 bkz-whatsapp.com
 0.0.0.0 bla-whatsapp.com
 0.0.0.0 blb-whatsapp.com
@@ -249,12 +245,10 @@
 0.0.0.0 cdnedge-whatsapp.com
 0.0.0.0 cdnnet-whatsapp.com
 0.0.0.0 cfm-whatsapps.com
-0.0.0.0 ch-google.cc
 0.0.0.0 charm-whatsapp.com
 0.0.0.0 chatgpt0005.eu.org
 0.0.0.0 chathub-whatsapp.com
 0.0.0.0 checkleaked.cc
-0.0.0.0 chrome-google.cc
 0.0.0.0 chs-google.cn
 0.0.0.0 citrix-sharing.com
 0.0.0.0 click-facebook.blogspot.com
@@ -319,7 +313,6 @@
 0.0.0.0 dhcpapi-whatsapp.com
 0.0.0.0 dhcpnode-whatsapp.com
 0.0.0.0 dhl-express-dev.firebaseapp.com
-0.0.0.0 dhl-tracking.live
 0.0.0.0 dir.com.my
 0.0.0.0 discovery-whatsapp.com
 0.0.0.0 discoveryloft.com
@@ -360,7 +353,6 @@
 0.0.0.0 ember-whatsapp.com
 0.0.0.0 en-home-trezore.pages.dev
 0.0.0.0 en-ledgre.pages.dev
-0.0.0.0 endesa-online-factura.com
 0.0.0.0 ensuite-trexor.square.site
 0.0.0.0 epsilons.co
 0.0.0.0 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
@@ -467,6 +459,7 @@
 0.0.0.0 facebookahla.blogspot.com
 0.0.0.0 facebookbfacebook.blogspot.com
 0.0.0.0 facebookbigeronline.blogspot.com
+0.0.0.0 facebookbusiines.github.io
 0.0.0.0 facebookcomfacebook.blogspot.com
 0.0.0.0 facebookctf.vercel.app
 0.0.0.0 facebookcustomersupportnumber25.blogspot.com
@@ -535,6 +528,7 @@
 0.0.0.0 forsakens-crew-teman-facebook.blogspot.com
 0.0.0.0 free-facebook-page-likes.blogspot.com
 0.0.0.0 fwh.is
+0.0.0.0 g0ogle.com
 0.0.0.0 gafiatechnologies.com
 0.0.0.0 gercel.app
 0.0.0.0 gestorweb.cl
@@ -544,7 +538,6 @@
 0.0.0.0 gitnode-whatsapp.com
 0.0.0.0 gloronyan.github.io
 0.0.0.0 glovonetwork.com
-0.0.0.0 glsgroupsk.click
 0.0.0.0 google-apk.com
 0.0.0.0 google-live-maps.com
 0.0.0.0 google1208.com
@@ -593,13 +586,11 @@
 0.0.0.0 hublab-whatsapp.com
 0.0.0.0 hubrun-whatsapp.com
 0.0.0.0 hubset-whatsapp.com
-0.0.0.0 icloudnotices.help
+0.0.0.0 icloud-ayuda-online.help
 0.0.0.0 icloudweb-ext860.click
-0.0.0.0 id-ud5zik2fg.rest
 0.0.0.0 ideeo.mx
 0.0.0.0 ids-whatsapp.com
 0.0.0.0 ifotografix.co.uk
-0.0.0.0 ig-verifica.freemyip.com
 0.0.0.0 ij37f649jg376fhf93g63.rest
 0.0.0.0 info-eng-ledgerlive-learn.typedream.app
 0.0.0.0 info-facebook.blogspot.com
@@ -649,6 +640,7 @@
 0.0.0.0 instagram-usman-haider.vercel.app
 0.0.0.0 instagram-verifica.freemyip.com
 0.0.0.0 instagram157.github.io
+0.0.0.0 instagram18plus.top
 0.0.0.0 instagram90sedition.vercel.app
 0.0.0.0 instagramaaps-code.github.io
 0.0.0.0 instagramaccount.info
@@ -785,7 +777,6 @@
 0.0.0.0 metamaskextensionnn.gitbook.io
 0.0.0.0 metamasklskog.gitbook.io
 0.0.0.0 metamaskrewards.com
-0.0.0.0 metamasksuckme.pages.dev
 0.0.0.0 metamaskuxlogen.gitbook.io
 0.0.0.0 metamaskwallet.to
 0.0.0.0 metamaskwallett.blogspot.com
@@ -803,6 +794,7 @@
 0.0.0.0 microsoftcloudverification.com
 0.0.0.0 microsoftconfig-3.vercel.app
 0.0.0.0 microsoftjk.eu.org
+0.0.0.0 microsoftt-beta.vercel.app
 0.0.0.0 microsoftwordob.blogspot.com
 0.0.0.0 mirror-google.com
 0.0.0.0 mkwweb-whatsapp.com
@@ -831,7 +823,6 @@
 0.0.0.0 netflix-coral-zeta.vercel.app
 0.0.0.0 netflix-homepage-pi.vercel.app
 0.0.0.0 netflix-lake.vercel.app
-0.0.0.0 netflix-pay.click
 0.0.0.0 netflix-sandy-alpha.vercel.app
 0.0.0.0 netflix-two-mu.vercel.app
 0.0.0.0 netflix-web-site-three.vercel.app
@@ -867,8 +858,6 @@
 0.0.0.0 nr-28s2m3.sbs
 0.0.0.0 nr-8j2-sm3-d8b.sbs
 0.0.0.0 nw-facebook.blogspot.com
-0.0.0.0 oferta2284984024.cfd
-0.0.0.0 oferta3763479202.cfd
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 onedrive-4-nine.vercel.app
 0.0.0.0 open-instagram.vercel.app
@@ -882,7 +871,6 @@
 0.0.0.0 opsnode-whatsapp.com
 0.0.0.0 orbit-whatsapp.com
 0.0.0.0 orchestrator-whatsapp.com
-0.0.0.0 orderyuk.info
 0.0.0.0 orygozcb.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
 0.0.0.0 ossama-instagram.vercel.app
 0.0.0.0 outlook-ashy.vercel.app
@@ -967,6 +955,7 @@
 0.0.0.0 santander-serfin.com
 0.0.0.0 santanderbizum.com
 0.0.0.0 santandercitas.com
+0.0.0.0 santino-c.github.io
 0.0.0.0 saque-instagram.com
 0.0.0.0 satanderconsumers.ca
 0.0.0.0 search.er.in
@@ -1006,7 +995,6 @@
 0.0.0.0 spotifylite.online
 0.0.0.0 spotifymodapp.com.in
 0.0.0.0 spotifymode.org
-0.0.0.0 spotifyofmovies-hdq.pages.dev
 0.0.0.0 spotifypremiumapk.pk
 0.0.0.0 spotifypremiumz.net
 0.0.0.0 spotifyprimiumapk.com
@@ -1074,7 +1062,6 @@
 0.0.0.0 trustwallet-tokentwtowner.vercel.app
 0.0.0.0 trustwalletindia-beta.vercel.app
 0.0.0.0 ttgyahvw.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
-0.0.0.0 twitterfires.com
 0.0.0.0 uk-facebook.blogspot.com
 0.0.0.0 updata.net.cn
 0.0.0.0 us--ledger-live-crypto-cdn-en.typedream.app
@@ -1141,18 +1128,18 @@
 0.0.0.0 workspacedoc.com
 0.0.0.0 ww-facebook.blogspot.com
 0.0.0.0 www-app-google.com
-0.0.0.0 www-coinbase.cn
-0.0.0.0 www-google.cn
 0.0.0.0 www.mxjkckus.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
 0.0.0.0 www.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-125-38.cpanel.site
 0.0.0.0 www.zygzsdwh.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
 0.0.0.0 xfinity2.vercel.app
 0.0.0.0 xfinitybroadbandnetwork.weebly.com
 0.0.0.0 xfinityhelplogin.weebly.com
+0.0.0.0 xfinitymailbox1.weebly.com
 0.0.0.0 xfinitymanagementsocialservice.weebly.com
 0.0.0.0 xfinityon.com
 0.0.0.0 xfinityservicekey.weebly.com
 0.0.0.0 xfinityservices.vercel.app
+0.0.0.0 xfinityupdatessss.weebly.com
 0.0.0.0 yahoo888.xyz
 0.0.0.0 yjiankuny.workers.dev
 0.0.0.0 yonataxi.at

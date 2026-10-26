@@ -1,22 +1,19 @@
 {
  "date": "2026-10-26",
- "updated": "2026-10-26T04:48:34Z",
+ "updated": "2026-10-26T13:04:57Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 22,
-  "removed": 15
+  "added": 19,
+  "removed": 32
  },
  "added": [
-  "http://494145-coinbase.com",
   "http://allegrolokalnie.ij37f649jg376fhf93g63.rest",
   "http://allegrolokalnie.pl744113577456323.shop",
   "http://maps-apple.support/iaz",
   "http://secure-bridge-trezr-apps.typedream.app",
   "http://xfinityhelplogin.weebly.com",
-  "https://adobe-nefwihgbhewubfuhewnfjk.pages.dev",
   "https://allegrolokalnie.aukcja758487593.top/oferta/1984-mz-etz-250/80344",
-  "https://allegrolokalnie.id-ud5zik2fg.rest/zestaw-narz%C4%99dzi-makita-18-v-or/91063",
   "https://allegrolokalnie.jesienne-oferty-78937.cfd",
   "https://allegrolokalnie.kup-ofeta672934.lol",
   "https://allegrolokalnie.nr-28s2m3.sbs",
@@ -24,14 +21,19 @@
   "https://dashboard.adobeexperience.com.br",
   "https://documents-google.com",
   "https://fedexoi.cc",
+  "https://icloud-ayuda-online.help",
+  "https://instagram18plus.top",
   "https://login.steamcommunutty.com/profile/76561116133252110/",
-  "https://metamasksuckme.pages.dev",
-  "https://spotifyofmovies-hdq.pages.dev",
   "https://trezoriostart-apps.square.site",
-  "https://twitterfires.com",
-  "https://whatsappdevil.com"
+  "https://whatsappdevil.com",
+  "https://yrvyhwww.message.g0ogle.com"
  ],
  "removed": [
+  "http://allegrolokalnie.oferta2284984024.cfd",
+  "http://allegrolokalnie.oferta3763479202.cfd/oferta/hulajnoga-kukirin-g2-master-gwarancja-18-miesiecy-tylko-320-km-przebiegu-jak-nowa/xaiZHAzo",
+  "https://882028364740474749474749474.com/z000000000000910827839474939737353282r36374538252737hee537g3720.882028364740474749474749474.com/Windows/microsoft-store.php",
+  "https://android-google.cn",
+  "https://apk-google.cn",
   "https://bankofamerica-paymet-updateinfo.ph",
   "https://bankofamerica-secure-access-code.ph",
   "https://bankofamerica-secure-account-support.ph",
@@ -42,10 +44,22 @@
   "https://bankofamerica-verification.ph",
   "https://bankofamerica5g.ph",
   "https://bankofamericaeworkplace.ph",
+  "https://bizumslots.pics",
+  "https://ch-google.cc",
   "https://chatgpt-pro-9e6.pages.dev",
+  "https://chrome-google.cc",
+  "https://dhl-tracking.live",
   "https://dropboxsupport.pages.dev",
+  "https://endesa-online-factura.com",
+  "https://glsgroupsk.click",
   "https://goo.su/Seur-ES26",
+  "https://icloudnotices.help",
+  "https://netflix-pay.click",
+  "https://nutradiabs-whatsapp.orderyuk.info",
   "https://qa-suppliers.bankofamerica-secure-verificational.ph",
-  "https://update-online-bankofamerica-com.ph"
+  "https://update-online-bankofamerica-com.ph",
+  "https://v2238.ig-verifica.freemyip.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Flegal%2Fcookies%2F&is_from_rle",
+  "https://www-coinbase.cn",
+  "https://www-google.cn"
  ]
 }
