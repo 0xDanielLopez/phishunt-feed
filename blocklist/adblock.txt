@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 1150
-! Updated: 2026-10-26T13:04:57Z
+! Entries: 1144
+! Updated: 2026-10-26T22:40:32Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -39,6 +39,7 @@
 ||alf-whatsapp.com^
 ||alibaba188.org^
 ||alibaba99.com^
+||alibabasauce.com^
 ||alquilerautocaravanatarragona.com^
 ||ama-whatsapp.com^
 ||amazon-harshdeep.vercel.app^
@@ -90,6 +91,7 @@
 ||axm-amazon.com^
 ||backname.io^
 ||backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site^
+||bancaslnternetempresas-scotiabank.online^
 ||bankofamerica-tx.com^
 ||bankofamericamailcompte.blogspot.com^
 ||barcelona-facebook.blogspot.com^
@@ -189,7 +191,6 @@
 ||botchat-whatsapp.com^
 ||botcore-whatsapp.com^
 ||botlink-whatsapp.com^
-||botsea.club^
 ||boxapp-whatsapp.com^
 ||boxkit-whatsapp.com^
 ||boxlab-whatsapp.com^
@@ -198,6 +199,7 @@
 ||boxuse-whatsapp.com^
 ||bqdbgybl.bradesco.www.support.zaka25.duckdns.org^
 ||brad-facebook.blogspot.com^
+||bradesco.hoylldhd.bradesco.support.zaka25.duckdns.org^
 ||bradesco.support.zaka25.duckdns.org^
 ||bradescosegurosop.com.br^
 ||branch-whatsapp.com^
@@ -498,7 +500,6 @@
 ||facebookloginss.blogspot.com^
 ||facebookloginuser.blogspot.com^
 ||facebookmail-facebook.blogspot.com^
-||facebooknenys.blogspot.com^
 ||facebookpagemanagement.com^
 ||facebookpageslinkk.blogspot.com^
 ||facebookprofilelinks.blogspot.com^
@@ -549,6 +550,7 @@
 ||googleepway.com^
 ||googlel0gin.netlify.app^
 ||googlelogos.com^
+||googlemeeeeet.live^
 ||googlenewsgh.com^
 ||googleoa.com^
 ||googleplaety.com^
@@ -587,11 +589,11 @@
 ||hubrun-whatsapp.com^
 ||hubset-whatsapp.com^
 ||icloud-ayuda-online.help^
+||iclouds.services^
 ||icloudweb-ext860.click^
 ||ideeo.mx^
 ||ids-whatsapp.com^
 ||ifotografix.co.uk^
-||ij37f649jg376fhf93g63.rest^
 ||info-eng-ledgerlive-learn.typedream.app^
 ||info-facebook.blogspot.com^
 ||infy.click^
@@ -673,6 +675,7 @@
 ||io-trezrn-eng.pages.dev^
 ||ips-whatsapp.com^
 ||isha-dev.com^
+||itau-30horas.click^
 ||itau-com.vercel.app^
 ||itau-snowy.vercel.app^
 ||itauingreso.com^
@@ -856,7 +859,6 @@
 ||nosqldb-whatsapp.com^
 ||nqxweb-whatsapp.com^
 ||nr-28s2m3.sbs^
-||nr-8j2-sm3-d8b.sbs^
 ||nw-facebook.blogspot.com^
 ||office365licensingsupport.com^
 ||onedrive-4-nine.vercel.app^
@@ -896,8 +898,6 @@
 ||piedrasdecolon.com.ar^
 ||pipe-whatsapp.com^
 ||pl-lokalna-ofeta9xv17yj75v0.shop^
-||pl-zakupy22012.top^
-||pl-zakupy90021.top^
 ||pl744113577456323.shop^
 ||platform-kraken.cc^
 ||play-googlese.app^
@@ -923,18 +923,12 @@
 ||rev.it^
 ||roblox-login.vercel.app^
 ||roblox.com.am^
-||roblox.com.bi^
-||roblox.com.bn^
 ||roblox.com.bo^
 ||roblox.com.bz^
 ||roblox.com.ee^
 ||roblox.com.et^
-||roblox.com.gr^
-||roblox.com.kg^
 ||roblox.com.kz^
 ||roblox.com.ml^
-||roblox.com.pt^
-||roblox.rw^
 ||roblox.ss^
 ||robloxc.com.es^
 ||robloxmarine.github.io^
@@ -1034,7 +1028,7 @@
 ||tamil.bid^
 ||tara-facebook.blogspot.com^
 ||tb-facebook.blogspot.com^
-||teleporthq.app^
+||tdxzdxsu.bradesco.www.support.zaka25.duckdns.org^
 ||temporary.site^
 ||test-facebook.blogspot.com^
 ||test.jsqnjzyg.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site^

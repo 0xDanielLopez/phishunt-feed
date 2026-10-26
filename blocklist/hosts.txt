@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 1150
-# Updated: 2026-10-26T13:04:56Z
+# Entries: 1144
+# Updated: 2026-10-26T22:40:32Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -39,6 +39,7 @@
 0.0.0.0 alf-whatsapp.com
 0.0.0.0 alibaba188.org
 0.0.0.0 alibaba99.com
+0.0.0.0 alibabasauce.com
 0.0.0.0 alquilerautocaravanatarragona.com
 0.0.0.0 ama-whatsapp.com
 0.0.0.0 amazon-harshdeep.vercel.app
@@ -90,6 +91,7 @@
 0.0.0.0 axm-amazon.com
 0.0.0.0 backname.io
 0.0.0.0 backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
+0.0.0.0 bancaslnternetempresas-scotiabank.online
 0.0.0.0 bankofamerica-tx.com
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 barcelona-facebook.blogspot.com
@@ -189,7 +191,6 @@
 0.0.0.0 botchat-whatsapp.com
 0.0.0.0 botcore-whatsapp.com
 0.0.0.0 botlink-whatsapp.com
-0.0.0.0 botsea.club
 0.0.0.0 boxapp-whatsapp.com
 0.0.0.0 boxkit-whatsapp.com
 0.0.0.0 boxlab-whatsapp.com
@@ -198,6 +199,7 @@
 0.0.0.0 boxuse-whatsapp.com
 0.0.0.0 bqdbgybl.bradesco.www.support.zaka25.duckdns.org
 0.0.0.0 brad-facebook.blogspot.com
+0.0.0.0 bradesco.hoylldhd.bradesco.support.zaka25.duckdns.org
 0.0.0.0 bradesco.support.zaka25.duckdns.org
 0.0.0.0 bradescosegurosop.com.br
 0.0.0.0 branch-whatsapp.com
@@ -498,7 +500,6 @@
 0.0.0.0 facebookloginss.blogspot.com
 0.0.0.0 facebookloginuser.blogspot.com
 0.0.0.0 facebookmail-facebook.blogspot.com
-0.0.0.0 facebooknenys.blogspot.com
 0.0.0.0 facebookpagemanagement.com
 0.0.0.0 facebookpageslinkk.blogspot.com
 0.0.0.0 facebookprofilelinks.blogspot.com
@@ -549,6 +550,7 @@
 0.0.0.0 googleepway.com
 0.0.0.0 googlel0gin.netlify.app
 0.0.0.0 googlelogos.com
+0.0.0.0 googlemeeeeet.live
 0.0.0.0 googlenewsgh.com
 0.0.0.0 googleoa.com
 0.0.0.0 googleplaety.com
@@ -587,11 +589,11 @@
 0.0.0.0 hubrun-whatsapp.com
 0.0.0.0 hubset-whatsapp.com
 0.0.0.0 icloud-ayuda-online.help
+0.0.0.0 iclouds.services
 0.0.0.0 icloudweb-ext860.click
 0.0.0.0 ideeo.mx
 0.0.0.0 ids-whatsapp.com
 0.0.0.0 ifotografix.co.uk
-0.0.0.0 ij37f649jg376fhf93g63.rest
 0.0.0.0 info-eng-ledgerlive-learn.typedream.app
 0.0.0.0 info-facebook.blogspot.com
 0.0.0.0 infy.click
@@ -673,6 +675,7 @@
 0.0.0.0 io-trezrn-eng.pages.dev
 0.0.0.0 ips-whatsapp.com
 0.0.0.0 isha-dev.com
+0.0.0.0 itau-30horas.click
 0.0.0.0 itau-com.vercel.app
 0.0.0.0 itau-snowy.vercel.app
 0.0.0.0 itauingreso.com
@@ -856,7 +859,6 @@
 0.0.0.0 nosqldb-whatsapp.com
 0.0.0.0 nqxweb-whatsapp.com
 0.0.0.0 nr-28s2m3.sbs
-0.0.0.0 nr-8j2-sm3-d8b.sbs
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 onedrive-4-nine.vercel.app
@@ -896,8 +898,6 @@
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 pipe-whatsapp.com
 0.0.0.0 pl-lokalna-ofeta9xv17yj75v0.shop
-0.0.0.0 pl-zakupy22012.top
-0.0.0.0 pl-zakupy90021.top
 0.0.0.0 pl744113577456323.shop
 0.0.0.0 platform-kraken.cc
 0.0.0.0 play-googlese.app
@@ -923,18 +923,12 @@
 0.0.0.0 rev.it
 0.0.0.0 roblox-login.vercel.app
 0.0.0.0 roblox.com.am
-0.0.0.0 roblox.com.bi
-0.0.0.0 roblox.com.bn
 0.0.0.0 roblox.com.bo
 0.0.0.0 roblox.com.bz
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.et
-0.0.0.0 roblox.com.gr
-0.0.0.0 roblox.com.kg
 0.0.0.0 roblox.com.kz
 0.0.0.0 roblox.com.ml
-0.0.0.0 roblox.com.pt
-0.0.0.0 roblox.rw
 0.0.0.0 roblox.ss
 0.0.0.0 robloxc.com.es
 0.0.0.0 robloxmarine.github.io
@@ -1034,7 +1028,7 @@
 0.0.0.0 tamil.bid
 0.0.0.0 tara-facebook.blogspot.com
 0.0.0.0 tb-facebook.blogspot.com
-0.0.0.0 teleporthq.app
+0.0.0.0 tdxzdxsu.bradesco.www.support.zaka25.duckdns.org
 0.0.0.0 temporary.site
 0.0.0.0 test-facebook.blogspot.com
 0.0.0.0 test.jsqnjzyg.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
