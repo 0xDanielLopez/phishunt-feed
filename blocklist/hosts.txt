@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 1157
-# Updated: 2026-10-25T20:51:43Z
+# Entries: 1163
+# Updated: 2026-10-26T04:48:33Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -14,6 +14,7 @@
 0.0.0.0 2famgghvyv.bradesco.support.zaka25.duckdns.org
 0.0.0.0 394182-coinbase.com
 0.0.0.0 401283-outlookmailbox-00012-validate.weebly.com
+0.0.0.0 494145-coinbase.com
 0.0.0.0 882028364740474749474749474.com
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
@@ -22,6 +23,7 @@
 0.0.0.0 acounts-google.duckdns.org
 0.0.0.0 action-whatsapp.com
 0.0.0.0 admin.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
+0.0.0.0 adobe-nefwihgbhewubfuhewnfjk.pages.dev
 0.0.0.0 adobe-photoshop-crack.com
 0.0.0.0 adobeexperience.com.br
 0.0.0.0 adobeinstaller-virid.vercel.app
@@ -82,6 +84,7 @@
 0.0.0.0 appsec-whatsapp.com
 0.0.0.0 ashy-moss-0bc074f03.5.azurestaticapps.net
 0.0.0.0 asso-entrautres.fr
+0.0.0.0 aukcja758487593.top
 0.0.0.0 authapi-whatsapp.com
 0.0.0.0 authcdn-whatsapp.com
 0.0.0.0 authnode-whatsapp.com
@@ -90,18 +93,7 @@
 0.0.0.0 axm-amazon.com
 0.0.0.0 backname.io
 0.0.0.0 backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
-0.0.0.0 bankofamerica-paymet-updateinfo.ph
-0.0.0.0 bankofamerica-secure-access-code.ph
-0.0.0.0 bankofamerica-secure-account-support.ph
-0.0.0.0 bankofamerica-secure-authentication.ph
-0.0.0.0 bankofamerica-secure-customer.ph
-0.0.0.0 bankofamerica-secure-securitycheck.ph
-0.0.0.0 bankofamerica-secure-updateemail.ph
-0.0.0.0 bankofamerica-secure-verificational.ph
 0.0.0.0 bankofamerica-tx.com
-0.0.0.0 bankofamerica-verification.ph
-0.0.0.0 bankofamerica5g.ph
-0.0.0.0 bankofamericaeworkplace.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
@@ -259,7 +251,6 @@
 0.0.0.0 cfm-whatsapps.com
 0.0.0.0 ch-google.cc
 0.0.0.0 charm-whatsapp.com
-0.0.0.0 chatgpt-pro-9e6.pages.dev
 0.0.0.0 chatgpt0005.eu.org
 0.0.0.0 chathub-whatsapp.com
 0.0.0.0 checkleaked.cc
@@ -340,6 +331,7 @@
 0.0.0.0 docs-google.com
 0.0.0.0 docs-trezor-app.pages.dev
 0.0.0.0 docss-whatsapp.com
+0.0.0.0 documents-google.com
 0.0.0.0 documentsharing.fr
 0.0.0.0 dothome.co.kr
 0.0.0.0 dow-nload-ledger-live--doc.typedream.app
@@ -354,7 +346,6 @@
 0.0.0.0 drift-whatsapp.com
 0.0.0.0 drive-icloud.com
 0.0.0.0 drive03.com
-0.0.0.0 dropboxsupport.pages.dev
 0.0.0.0 ebay-c.com
 0.0.0.0 ebay-seller-center-managedpayments.vercel.app
 0.0.0.0 ebaymediagmdi.com
@@ -533,6 +524,7 @@
 0.0.0.0 fedexblack.com
 0.0.0.0 fedexi.cc
 0.0.0.0 fedexmxx.cc
+0.0.0.0 fedexoi.cc
 0.0.0.0 fedexsv.com
 0.0.0.0 fedexwp.com
 0.0.0.0 fercel.app
@@ -553,7 +545,6 @@
 0.0.0.0 gloronyan.github.io
 0.0.0.0 glovonetwork.com
 0.0.0.0 glsgroupsk.click
-0.0.0.0 goo.su
 0.0.0.0 google-apk.com
 0.0.0.0 google-live-maps.com
 0.0.0.0 google1208.com
@@ -604,10 +595,12 @@
 0.0.0.0 hubset-whatsapp.com
 0.0.0.0 icloudnotices.help
 0.0.0.0 icloudweb-ext860.click
+0.0.0.0 id-ud5zik2fg.rest
 0.0.0.0 ideeo.mx
 0.0.0.0 ids-whatsapp.com
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 ig-verifica.freemyip.com
+0.0.0.0 ij37f649jg376fhf93g63.rest
 0.0.0.0 info-eng-ledgerlive-learn.typedream.app
 0.0.0.0 info-facebook.blogspot.com
 0.0.0.0 infy.click
@@ -693,6 +686,7 @@
 0.0.0.0 itauingreso.com
 0.0.0.0 ivory-whatsapp.com
 0.0.0.0 jayaram0550.github.io
+0.0.0.0 jesienne-oferty-78937.cfd
 0.0.0.0 jesienne-oferty-87361.cfd
 0.0.0.0 jffoyjdh.bradesco.support.zaka25.duckdns.org
 0.0.0.0 jj-facebook.blogspot.com
@@ -716,6 +710,7 @@
 0.0.0.0 kucoinloginaa.gitbook.io
 0.0.0.0 kucoinloign.gitbook.io
 0.0.0.0 kucoinquantify.com
+0.0.0.0 kup-ofeta672934.lol
 0.0.0.0 labapi-whatsapp.com
 0.0.0.0 labbox-whatsapp.com
 0.0.0.0 labkit-whatsapp.com
@@ -766,6 +761,7 @@
 0.0.0.0 mailcore-whatsapp.com
 0.0.0.0 maillink-whatsapp.com
 0.0.0.0 mailnode-whatsapp.com
+0.0.0.0 maps-apple.support
 0.0.0.0 match-whatsapp.com
 0.0.0.0 mb-facebook.blogspot.com
 0.0.0.0 mcp.amgghvyv.bradesco.support.zaka25.duckdns.org
@@ -789,6 +785,7 @@
 0.0.0.0 metamaskextensionnn.gitbook.io
 0.0.0.0 metamasklskog.gitbook.io
 0.0.0.0 metamaskrewards.com
+0.0.0.0 metamasksuckme.pages.dev
 0.0.0.0 metamaskuxlogen.gitbook.io
 0.0.0.0 metamaskwallet.to
 0.0.0.0 metamaskwallett.blogspot.com
@@ -867,6 +864,7 @@
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nosqldb-whatsapp.com
 0.0.0.0 nqxweb-whatsapp.com
+0.0.0.0 nr-28s2m3.sbs
 0.0.0.0 nr-8j2-sm3-d8b.sbs
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 oferta2284984024.cfd
@@ -911,6 +909,8 @@
 0.0.0.0 pipe-whatsapp.com
 0.0.0.0 pl-lokalna-ofeta9xv17yj75v0.shop
 0.0.0.0 pl-zakupy22012.top
+0.0.0.0 pl-zakupy90021.top
+0.0.0.0 pl744113577456323.shop
 0.0.0.0 platform-kraken.cc
 0.0.0.0 play-googlese.app
 0.0.0.0 podnode-whatsapp.com
@@ -976,6 +976,7 @@
 0.0.0.0 secops-whatsapp.com
 0.0.0.0 secpro-whatsapp.com
 0.0.0.0 secsys-whatsapp.com
+0.0.0.0 secure-bridge-trezr-apps.typedream.app
 0.0.0.0 secure-coinbase-com-sign-in.typedream.app
 0.0.0.0 securedsupport-coinbase.com
 0.0.0.0 secureserver.net
@@ -1005,6 +1006,7 @@
 0.0.0.0 spotifylite.online
 0.0.0.0 spotifymodapp.com.in
 0.0.0.0 spotifymode.org
+0.0.0.0 spotifyofmovies-hdq.pages.dev
 0.0.0.0 spotifypremiumapk.pk
 0.0.0.0 spotifypremiumz.net
 0.0.0.0 spotifyprimiumapk.com
@@ -1022,6 +1024,7 @@
 0.0.0.0 state-whatsapp.com
 0.0.0.0 steamcommunity.blog
 0.0.0.0 steamcommunity.ing
+0.0.0.0 steamcommunutty.com
 0.0.0.0 steuerquimica.cl
 0.0.0.0 stream-whatsapp.com
 0.0.0.0 style-whatsapp.com
@@ -1059,6 +1062,7 @@
 0.0.0.0 trezor-login-us-auth-start.typedream.app
 0.0.0.0 trezor.pt
 0.0.0.0 trezorguide.vercel.app
+0.0.0.0 trezoriostart-apps.square.site
 0.0.0.0 trezorrgoappup.gitbook.io
 0.0.0.0 trust-wallet-customer-support-number.github.io
 0.0.0.0 trust-wallet-login.vercel.app
@@ -1070,9 +1074,9 @@
 0.0.0.0 trustwallet-tokentwtowner.vercel.app
 0.0.0.0 trustwalletindia-beta.vercel.app
 0.0.0.0 ttgyahvw.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
+0.0.0.0 twitterfires.com
 0.0.0.0 uk-facebook.blogspot.com
 0.0.0.0 updata.net.cn
-0.0.0.0 update-online-bankofamerica-com.ph
 0.0.0.0 us--ledger-live-crypto-cdn-en.typedream.app
 0.0.0.0 usdt-trustwallet-blockchain.vercel.app
 0.0.0.0 uspsaunitedworkforce.com
@@ -1127,6 +1131,7 @@
 0.0.0.0 whatsappai.cam
 0.0.0.0 whatsappapk.org
 0.0.0.0 whatsappcampaign.online
+0.0.0.0 whatsappdevil.com
 0.0.0.0 whatsappfreewhatsapp.blogspot.com
 0.0.0.0 whatsappgroup.vercel.app
 0.0.0.0 whatsapplove.xyz
@@ -1143,6 +1148,7 @@
 0.0.0.0 www.zygzsdwh.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
 0.0.0.0 xfinity2.vercel.app
 0.0.0.0 xfinitybroadbandnetwork.weebly.com
+0.0.0.0 xfinityhelplogin.weebly.com
 0.0.0.0 xfinitymanagementsocialservice.weebly.com
 0.0.0.0 xfinityon.com
 0.0.0.0 xfinityservicekey.weebly.com

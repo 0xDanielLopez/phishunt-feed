@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 1157
-# Updated: 2026-10-25T20:51:42Z
+# Entries: 1163
+# Updated: 2026-10-26T04:48:32Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -14,6 +14,7 @@
 2famgghvyv.bradesco.support.zaka25.duckdns.org
 394182-coinbase.com
 401283-outlookmailbox-00012-validate.weebly.com
+494145-coinbase.com
 882028364740474749474749474.com
 a2zapk.co
 a2zapk.dev
@@ -22,6 +23,7 @@ account-instagram.vercel.app
 acounts-google.duckdns.org
 action-whatsapp.com
 admin.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
+adobe-nefwihgbhewubfuhewnfjk.pages.dev
 adobe-photoshop-crack.com
 adobeexperience.com.br
 adobeinstaller-virid.vercel.app
@@ -82,6 +84,7 @@ appops-whatsapp.com
 appsec-whatsapp.com
 ashy-moss-0bc074f03.5.azurestaticapps.net
 asso-entrautres.fr
+aukcja758487593.top
 authapi-whatsapp.com
 authcdn-whatsapp.com
 authnode-whatsapp.com
@@ -90,18 +93,7 @@ await-whatsapp.com
 axm-amazon.com
 backname.io
 backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
-bankofamerica-paymet-updateinfo.ph
-bankofamerica-secure-access-code.ph
-bankofamerica-secure-account-support.ph
-bankofamerica-secure-authentication.ph
-bankofamerica-secure-customer.ph
-bankofamerica-secure-securitycheck.ph
-bankofamerica-secure-updateemail.ph
-bankofamerica-secure-verificational.ph
 bankofamerica-tx.com
-bankofamerica-verification.ph
-bankofamerica5g.ph
-bankofamericaeworkplace.ph
 bankofamericamailcompte.blogspot.com
 barcelona-facebook.blogspot.com
 barclays-bank.vercel.app
@@ -259,7 +251,6 @@ cdnnet-whatsapp.com
 cfm-whatsapps.com
 ch-google.cc
 charm-whatsapp.com
-chatgpt-pro-9e6.pages.dev
 chatgpt0005.eu.org
 chathub-whatsapp.com
 checkleaked.cc
@@ -340,6 +331,7 @@ dnsnode-whatsapp.com
 docs-google.com
 docs-trezor-app.pages.dev
 docss-whatsapp.com
+documents-google.com
 documentsharing.fr
 dothome.co.kr
 dow-nload-ledger-live--doc.typedream.app
@@ -354,7 +346,6 @@ dpdie.live
 drift-whatsapp.com
 drive-icloud.com
 drive03.com
-dropboxsupport.pages.dev
 ebay-c.com
 ebay-seller-center-managedpayments.vercel.app
 ebaymediagmdi.com
@@ -533,6 +524,7 @@ faq-trezrio.pages.dev
 fedexblack.com
 fedexi.cc
 fedexmxx.cc
+fedexoi.cc
 fedexsv.com
 fedexwp.com
 fercel.app
@@ -553,7 +545,6 @@ gitnode-whatsapp.com
 gloronyan.github.io
 glovonetwork.com
 glsgroupsk.click
-goo.su
 google-apk.com
 google-live-maps.com
 google1208.com
@@ -604,10 +595,12 @@ hubrun-whatsapp.com
 hubset-whatsapp.com
 icloudnotices.help
 icloudweb-ext860.click
+id-ud5zik2fg.rest
 ideeo.mx
 ids-whatsapp.com
 ifotografix.co.uk
 ig-verifica.freemyip.com
+ij37f649jg376fhf93g63.rest
 info-eng-ledgerlive-learn.typedream.app
 info-facebook.blogspot.com
 infy.click
@@ -693,6 +686,7 @@ itau-snowy.vercel.app
 itauingreso.com
 ivory-whatsapp.com
 jayaram0550.github.io
+jesienne-oferty-78937.cfd
 jesienne-oferty-87361.cfd
 jffoyjdh.bradesco.support.zaka25.duckdns.org
 jj-facebook.blogspot.com
@@ -716,6 +710,7 @@ kucoinlogin.blogspot.com
 kucoinloginaa.gitbook.io
 kucoinloign.gitbook.io
 kucoinquantify.com
+kup-ofeta672934.lol
 labapi-whatsapp.com
 labbox-whatsapp.com
 labkit-whatsapp.com
@@ -766,6 +761,7 @@ mailauth-whatsapp.com
 mailcore-whatsapp.com
 maillink-whatsapp.com
 mailnode-whatsapp.com
+maps-apple.support
 match-whatsapp.com
 mb-facebook.blogspot.com
 mcp.amgghvyv.bradesco.support.zaka25.duckdns.org
@@ -789,6 +785,7 @@ metamaskeeogin.gitbook.io
 metamaskextensionnn.gitbook.io
 metamasklskog.gitbook.io
 metamaskrewards.com
+metamasksuckme.pages.dev
 metamaskuxlogen.gitbook.io
 metamaskwallet.to
 metamaskwallett.blogspot.com
@@ -867,6 +864,7 @@ nodeedge-whatsapp.com
 noreply-icloud.app
 nosqldb-whatsapp.com
 nqxweb-whatsapp.com
+nr-28s2m3.sbs
 nr-8j2-sm3-d8b.sbs
 nw-facebook.blogspot.com
 oferta2284984024.cfd
@@ -911,6 +909,8 @@ piedrasdecolon.com.ar
 pipe-whatsapp.com
 pl-lokalna-ofeta9xv17yj75v0.shop
 pl-zakupy22012.top
+pl-zakupy90021.top
+pl744113577456323.shop
 platform-kraken.cc
 play-googlese.app
 podnode-whatsapp.com
@@ -976,6 +976,7 @@ secnode-whatsapp.com
 secops-whatsapp.com
 secpro-whatsapp.com
 secsys-whatsapp.com
+secure-bridge-trezr-apps.typedream.app
 secure-coinbase-com-sign-in.typedream.app
 securedsupport-coinbase.com
 secureserver.net
@@ -1005,6 +1006,7 @@ spotify-client-beta.vercel.app
 spotifylite.online
 spotifymodapp.com.in
 spotifymode.org
+spotifyofmovies-hdq.pages.dev
 spotifypremiumapk.pk
 spotifypremiumz.net
 spotifyprimiumapk.com
@@ -1022,6 +1024,7 @@ start-ledgren.zapier.app
 state-whatsapp.com
 steamcommunity.blog
 steamcommunity.ing
+steamcommunutty.com
 steuerquimica.cl
 stream-whatsapp.com
 style-whatsapp.com
@@ -1059,6 +1062,7 @@ trezor-login-guide.square.site
 trezor-login-us-auth-start.typedream.app
 trezor.pt
 trezorguide.vercel.app
+trezoriostart-apps.square.site
 trezorrgoappup.gitbook.io
 trust-wallet-customer-support-number.github.io
 trust-wallet-login.vercel.app
@@ -1070,9 +1074,9 @@ trustwallet-team-support.github.io
 trustwallet-tokentwtowner.vercel.app
 trustwalletindia-beta.vercel.app
 ttgyahvw.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
+twitterfires.com
 uk-facebook.blogspot.com
 updata.net.cn
-update-online-bankofamerica-com.ph
 us--ledger-live-crypto-cdn-en.typedream.app
 usdt-trustwallet-blockchain.vercel.app
 uspsaunitedworkforce.com
@@ -1127,6 +1131,7 @@ whatsapp11-cnj.pages.dev
 whatsappai.cam
 whatsappapk.org
 whatsappcampaign.online
+whatsappdevil.com
 whatsappfreewhatsapp.blogspot.com
 whatsappgroup.vercel.app
 whatsapplove.xyz
@@ -1143,6 +1148,7 @@ www.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-
 www.zygzsdwh.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
 xfinity2.vercel.app
 xfinitybroadbandnetwork.weebly.com
+xfinityhelplogin.weebly.com
 xfinitymanagementsocialservice.weebly.com
 xfinityon.com
 xfinityservicekey.weebly.com
