@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 1161
-# Updated: 2026-10-27T18:01:39Z
+# Entries: 1144
+# Updated: 2026-10-27T22:02:53Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -13,7 +13,6 @@
 1789503-coinbase.com
 2017-facebook.blogspot.com
 206.209.210.20
-2famgghvyv.bradesco.support.zaka25.duckdns.org
 394182-coinbase.com
 4-trustwallet.com
 401283-outlookmailbox-00012-validate.weebly.com
@@ -56,7 +55,6 @@ amc-whatsapp.com
 amd-whatsapp.com
 amf-whatsapp.com
 amg-whatsapp.com
-amgghvyv.bradesco.support.zaka25.duckdns.org
 amh-whatsapp.com
 an-usps.com
 ane-whatsapp.com
@@ -90,6 +88,7 @@ appops-whatsapp.com
 appsec-whatsapp.com
 ashy-moss-0bc074f03.5.azurestaticapps.net
 asso-entrautres.fr
+aukcja65849395394.top
 authapi-whatsapp.com
 authcdn-whatsapp.com
 authnode-whatsapp.com
@@ -210,10 +209,7 @@ boxlab-whatsapp.com
 boxrun-whatsapp.com
 boxset-whatsapp.com
 boxuse-whatsapp.com
-bqdbgybl.bradesco.www.support.zaka25.duckdns.org
 brad-facebook.blogspot.com
-bradesco.hoylldhd.bradesco.support.zaka25.duckdns.org
-bradesco.support.zaka25.duckdns.org
 bradescosegurosop.com.br
 branch-whatsapp.com
 bryweb-whatsapp.com
@@ -263,6 +259,7 @@ cfm-whatsapps.com
 charm-whatsapp.com
 chatgpt0005.eu.org
 chathub-whatsapp.com
+chatlgpt.com
 checkleaked.cc
 citrix-sharing.com
 click-facebook.blogspot.com
@@ -592,13 +589,11 @@ hashnode.dev
 help-instagram.blogspot.com
 help-kraken-com-eng.square.site
 hjo65ih87f23f23.forum
-hmwscusw.bradesco.support.zaka25.duckdns.org
 home-facebook.blogspot.com
 hostcdn-whatsapp.com
 hostly-whatsapp.com
 hostpush-whatsapp.com
 hot-binance.com.cn
-hoylldhd.bradesco.support.zaka25.duckdns.org
 hsbc-sec.com
 hsbcbank-finance.com
 httpapi-whatsapp.com
@@ -701,7 +696,6 @@ itau-com.vercel.app
 itau-snowy.vercel.app
 ivory-whatsapp.com
 jayaram0550.github.io
-jffoyjdh.bradesco.support.zaka25.duckdns.org
 jfhzjs.shop
 jj-facebook.blogspot.com
 jo-facebook.blogspot.com
@@ -766,13 +760,11 @@ love-facebook.blogspot.com
 lovefive-facebook.blogspot.com
 lpfweb-whatsapp.com
 ly-facebook.blogspot.com
-m.jffoyjdh.bradesco.support.zaka25.duckdns.org
 m4ntapaset.ink
 maccesshub.com
 macro-whatsapp.com
 magic-whatsapp.com
 mail.amazon-signin-update-payment-secure-verify-billing-mainapp.40-124-80-100.cpanel.site
-mail.hmwscusw.bradesco.support.zaka25.duckdns.org
 mailauth-whatsapp.com
 mailcore-whatsapp.com
 maillink-whatsapp.com
@@ -780,9 +772,6 @@ mailnode-whatsapp.com
 maps-apple.support
 match-whatsapp.com
 mb-facebook.blogspot.com
-mcp.amgghvyv.bradesco.support.zaka25.duckdns.org
-mcp.zgnzpqap.bradesco.support.zaka25.duckdns.org
-mcp.zxexxnym.bradesco.support.zaka25.duckdns.org
 meet-googlee46347975696.pages.dev
 meet-googlee7563454656.pages.dev
 meet-googlee7823629056.pages.dev
@@ -878,8 +867,9 @@ nosqldb-whatsapp.com
 nqxweb-whatsapp.com
 nr-28s2m3.sbs
 nw-facebook.blogspot.com
+oferta3949583048204.cfd
+oferta6235882631.cfd
 office365licensingsupport.com
-old.bqdbgybl.bradesco.www.support.zaka25.duckdns.org
 onedrive-1-one.vercel.app
 onedrive-4-nine.vercel.app
 open-instagram.vercel.app
@@ -926,7 +916,6 @@ prouse-whatsapp.com
 proxyapi-whatsapp.com
 prwa7n78459h45.casa
 ptai.in
-qnrilptf.bradesco.www.support.zaka25.duckdns.org
 r-facebook.blogspot.com
 rama-facebook.blogspot.com
 reactivar-microsoft-live.iceiy.com
@@ -1021,8 +1010,6 @@ srv6-coinbase.com
 sslcert-whatsapp.com
 ssltls-whatsapp.com
 stack-whatsapp.com
-stage.bradesco.support.zaka25.duckdns.org
-stage.hoylldhd.bradesco.support.zaka25.duckdns.org
 start-ledgerlive-com-web.typedream.app
 start-ledgren.zapier.app
 state-whatsapp.com
@@ -1048,7 +1035,6 @@ syspro-whatsapp.com
 tamil.bid
 tara-facebook.blogspot.com
 tb-facebook.blogspot.com
-tdxzdxsu.bradesco.www.support.zaka25.duckdns.org
 temporary.site
 test-facebook.blogspot.com
 test.jsqnjzyg.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
@@ -1162,8 +1148,5 @@ z-instagram.blogspot.com
 zaltiel.com.do
 zelleactive.shop
 zeta-facebook.blogspot.com
-zgnzpqap.bradesco.support.zaka25.duckdns.org
-zmslqaek.bradesco.support.zaka25.duckdns.org
 zsoon.eu
-zxexxnym.bradesco.support.zaka25.duckdns.org
 zya.me

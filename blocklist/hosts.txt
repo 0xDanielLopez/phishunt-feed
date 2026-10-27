@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 1161
-# Updated: 2026-10-27T18:01:39Z
+# Entries: 1144
+# Updated: 2026-10-27T22:14:50Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -13,7 +13,6 @@
 0.0.0.0 1789503-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 206.209.210.20
-0.0.0.0 2famgghvyv.bradesco.support.zaka25.duckdns.org
 0.0.0.0 394182-coinbase.com
 0.0.0.0 4-trustwallet.com
 0.0.0.0 401283-outlookmailbox-00012-validate.weebly.com
@@ -56,7 +55,6 @@
 0.0.0.0 amd-whatsapp.com
 0.0.0.0 amf-whatsapp.com
 0.0.0.0 amg-whatsapp.com
-0.0.0.0 amgghvyv.bradesco.support.zaka25.duckdns.org
 0.0.0.0 amh-whatsapp.com
 0.0.0.0 an-usps.com
 0.0.0.0 ane-whatsapp.com
@@ -90,6 +88,7 @@
 0.0.0.0 appsec-whatsapp.com
 0.0.0.0 ashy-moss-0bc074f03.5.azurestaticapps.net
 0.0.0.0 asso-entrautres.fr
+0.0.0.0 aukcja65849395394.top
 0.0.0.0 authapi-whatsapp.com
 0.0.0.0 authcdn-whatsapp.com
 0.0.0.0 authnode-whatsapp.com
@@ -210,10 +209,7 @@
 0.0.0.0 boxrun-whatsapp.com
 0.0.0.0 boxset-whatsapp.com
 0.0.0.0 boxuse-whatsapp.com
-0.0.0.0 bqdbgybl.bradesco.www.support.zaka25.duckdns.org
 0.0.0.0 brad-facebook.blogspot.com
-0.0.0.0 bradesco.hoylldhd.bradesco.support.zaka25.duckdns.org
-0.0.0.0 bradesco.support.zaka25.duckdns.org
 0.0.0.0 bradescosegurosop.com.br
 0.0.0.0 branch-whatsapp.com
 0.0.0.0 bryweb-whatsapp.com
@@ -263,6 +259,7 @@
 0.0.0.0 charm-whatsapp.com
 0.0.0.0 chatgpt0005.eu.org
 0.0.0.0 chathub-whatsapp.com
+0.0.0.0 chatlgpt.com
 0.0.0.0 checkleaked.cc
 0.0.0.0 citrix-sharing.com
 0.0.0.0 click-facebook.blogspot.com
@@ -592,13 +589,11 @@
 0.0.0.0 help-instagram.blogspot.com
 0.0.0.0 help-kraken-com-eng.square.site
 0.0.0.0 hjo65ih87f23f23.forum
-0.0.0.0 hmwscusw.bradesco.support.zaka25.duckdns.org
 0.0.0.0 home-facebook.blogspot.com
 0.0.0.0 hostcdn-whatsapp.com
 0.0.0.0 hostly-whatsapp.com
 0.0.0.0 hostpush-whatsapp.com
 0.0.0.0 hot-binance.com.cn
-0.0.0.0 hoylldhd.bradesco.support.zaka25.duckdns.org
 0.0.0.0 hsbc-sec.com
 0.0.0.0 hsbcbank-finance.com
 0.0.0.0 httpapi-whatsapp.com
@@ -701,7 +696,6 @@
 0.0.0.0 itau-snowy.vercel.app
 0.0.0.0 ivory-whatsapp.com
 0.0.0.0 jayaram0550.github.io
-0.0.0.0 jffoyjdh.bradesco.support.zaka25.duckdns.org
 0.0.0.0 jfhzjs.shop
 0.0.0.0 jj-facebook.blogspot.com
 0.0.0.0 jo-facebook.blogspot.com
@@ -766,13 +760,11 @@
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lpfweb-whatsapp.com
 0.0.0.0 ly-facebook.blogspot.com
-0.0.0.0 m.jffoyjdh.bradesco.support.zaka25.duckdns.org
 0.0.0.0 m4ntapaset.ink
 0.0.0.0 maccesshub.com
 0.0.0.0 macro-whatsapp.com
 0.0.0.0 magic-whatsapp.com
 0.0.0.0 mail.amazon-signin-update-payment-secure-verify-billing-mainapp.40-124-80-100.cpanel.site
-0.0.0.0 mail.hmwscusw.bradesco.support.zaka25.duckdns.org
 0.0.0.0 mailauth-whatsapp.com
 0.0.0.0 mailcore-whatsapp.com
 0.0.0.0 maillink-whatsapp.com
@@ -780,9 +772,6 @@
 0.0.0.0 maps-apple.support
 0.0.0.0 match-whatsapp.com
 0.0.0.0 mb-facebook.blogspot.com
-0.0.0.0 mcp.amgghvyv.bradesco.support.zaka25.duckdns.org
-0.0.0.0 mcp.zgnzpqap.bradesco.support.zaka25.duckdns.org
-0.0.0.0 mcp.zxexxnym.bradesco.support.zaka25.duckdns.org
 0.0.0.0 meet-googlee46347975696.pages.dev
 0.0.0.0 meet-googlee7563454656.pages.dev
 0.0.0.0 meet-googlee7823629056.pages.dev
@@ -878,8 +867,9 @@
 0.0.0.0 nqxweb-whatsapp.com
 0.0.0.0 nr-28s2m3.sbs
 0.0.0.0 nw-facebook.blogspot.com
+0.0.0.0 oferta3949583048204.cfd
+0.0.0.0 oferta6235882631.cfd
 0.0.0.0 office365licensingsupport.com
-0.0.0.0 old.bqdbgybl.bradesco.www.support.zaka25.duckdns.org
 0.0.0.0 onedrive-1-one.vercel.app
 0.0.0.0 onedrive-4-nine.vercel.app
 0.0.0.0 open-instagram.vercel.app
@@ -926,7 +916,6 @@
 0.0.0.0 proxyapi-whatsapp.com
 0.0.0.0 prwa7n78459h45.casa
 0.0.0.0 ptai.in
-0.0.0.0 qnrilptf.bradesco.www.support.zaka25.duckdns.org
 0.0.0.0 r-facebook.blogspot.com
 0.0.0.0 rama-facebook.blogspot.com
 0.0.0.0 reactivar-microsoft-live.iceiy.com
@@ -1021,8 +1010,6 @@
 0.0.0.0 sslcert-whatsapp.com
 0.0.0.0 ssltls-whatsapp.com
 0.0.0.0 stack-whatsapp.com
-0.0.0.0 stage.bradesco.support.zaka25.duckdns.org
-0.0.0.0 stage.hoylldhd.bradesco.support.zaka25.duckdns.org
 0.0.0.0 start-ledgerlive-com-web.typedream.app
 0.0.0.0 start-ledgren.zapier.app
 0.0.0.0 state-whatsapp.com
@@ -1048,7 +1035,6 @@
 0.0.0.0 tamil.bid
 0.0.0.0 tara-facebook.blogspot.com
 0.0.0.0 tb-facebook.blogspot.com
-0.0.0.0 tdxzdxsu.bradesco.www.support.zaka25.duckdns.org
 0.0.0.0 temporary.site
 0.0.0.0 test-facebook.blogspot.com
 0.0.0.0 test.jsqnjzyg.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
@@ -1162,8 +1148,5 @@
 0.0.0.0 zaltiel.com.do
 0.0.0.0 zelleactive.shop
 0.0.0.0 zeta-facebook.blogspot.com
-0.0.0.0 zgnzpqap.bradesco.support.zaka25.duckdns.org
-0.0.0.0 zmslqaek.bradesco.support.zaka25.duckdns.org
 0.0.0.0 zsoon.eu
-0.0.0.0 zxexxnym.bradesco.support.zaka25.duckdns.org
 0.0.0.0 zya.me
