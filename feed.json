@@ -1,5 +1,1055 @@
 [
   {
+    "url": "https://kraken-kages-crm.pages.dev",
+    "domain": "kraken-kages-crm.pages.dev",
+    "company": "kraken",
+    "date": "2026-10-27T17:23:36.470508+00:00",
+    "first_seen": "2026-10-27T17:23:36.470508+00:00",
+    "uuid": "07a4cdfd-780c-46ec-af40-840e289acd56",
+    "ip": "172.66.44.173",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "YE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "has_password_input",
+        "label": "Password field",
+        "points": 3.9
+      }
+    ],
+    "score": 33,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://appleid-icloudmac.com",
+    "domain": "appleid-icloudmac.com",
+    "company": "apple",
+    "date": "2026-10-27T17:23:35.704265+00:00",
+    "first_seen": "2026-10-27T17:23:35.704265+00:00",
+    "uuid": "35681665-fb78-4e67-bfad-71a7795db42a",
+    "ip": "104.21.12.182",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      }
+    ],
+    "score": 31,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://binancecome.com",
+    "domain": "binancecome.com",
+    "company": "binance",
+    "date": "2026-10-27T17:23:34.563216+00:00",
+    "first_seen": "2026-10-27T17:23:34.563216+00:00",
+    "uuid": "79149749-6883-4df8-a2f2-5df38b59153c",
+    "ip": "216.198.79.65",
+    "country": "United States",
+    "asn": "16509",
+    "org": "Amazon.com, Inc.",
+    "cert": "YR1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      }
+    ],
+    "score": 31,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://webmail.netflix-support-send.duckdns.org",
+    "domain": "webmail.netflix-support-send.duckdns.org",
+    "company": "netflix",
+    "date": "2026-10-27T17:23:33.947113+00:00",
+    "first_seen": "2026-10-27T17:23:33.947113+00:00",
+    "uuid": "a824042d-4ffb-4e3c-89ef-ff3a6324b70f",
+    "ip": "185.170.12.177",
+    "country": "France",
+    "asn": "210403",
+    "org": "Groupe LWS SARL",
+    "cert": "YR2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "has_password_input",
+        "label": "Password field",
+        "points": 3.9
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      }
+    ],
+    "score": 45,
+    "verdict": "high"
+  },
+  {
+    "url": "https://ebay-lwholesale.com",
+    "domain": "ebay-lwholesale.com",
+    "company": "ebay",
+    "date": "2026-10-27T17:23:32.661899+00:00",
+    "first_seen": "2026-10-27T17:23:32.661899+00:00",
+    "uuid": "f998ecc4-bb44-43d5-8658-7dcb6dfda845",
+    "ip": "104.21.62.244",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "YE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      }
+    ],
+    "score": 30,
+    "verdict": "low"
+  },
+  {
+    "url": "https://login.microsoftonline.cloud-authc.com",
+    "domain": "login.microsoftonline.cloud-authc.com",
+    "company": "microsoft",
+    "date": "2026-10-27T17:23:31.300774+00:00",
+    "first_seen": "2026-10-27T17:23:31.300774+00:00",
+    "uuid": "307b8417-beae-45b0-b044-719d06f1e686",
+    "ip": "176.97.124.206",
+    "country": "Ukraine",
+    "asn": "6698",
+    "org": "Virtual Systems LLC",
+    "cert": "YE2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 24,
+    "verdict": "low"
+  },
+  {
+    "url": "https://stage.bradesco.support.zaka25.duckdns.org",
+    "domain": "stage.bradesco.support.zaka25.duckdns.org",
+    "company": "bradesco",
+    "date": "2026-10-27T17:23:30.445232+00:00",
+    "first_seen": "2026-10-27T17:23:30.445232+00:00",
+    "uuid": "f1fccad8-1aa5-40ff-bb87-06a08e36ad25",
+    "ip": "147.224.137.194",
+    "country": "United States",
+    "asn": "31898",
+    "org": "Oracle Corporation",
+    "cert": "YE2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 2.8
+      }
+    ],
+    "score": 33,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://bankofamerica-identify.ph",
+    "domain": "bankofamerica-identify.ph",
+    "company": "bankofamerica",
+    "date": "2026-10-27T17:23:25.036983+00:00",
+    "first_seen": "2026-10-27T17:23:25.036983+00:00",
+    "uuid": "1767580c-b98c-43e6-a769-f2e586fdd417",
+    "ip": "45.79.222.138",
+    "country": "United States",
+    "asn": "63949",
+    "org": "Akamai Connected Cloud",
+    "cert": "-",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 3.4
+      }
+    ],
+    "score": 30,
+    "verdict": "low"
+  },
+  {
+    "url": "https://dss-br.coinbase.com.lc",
+    "domain": "dss-br.coinbase.com.lc",
+    "company": "coinbase",
+    "date": "2026-10-27T17:23:24.266682+00:00",
+    "first_seen": "2026-10-27T17:23:24.266682+00:00",
+    "uuid": "fb38e08e-93e0-4d39-8828-c220e5ee7b2c",
+    "ip": "34.195.60.139",
+    "country": "United States",
+    "asn": "14618",
+    "org": "Amazon.com, Inc.",
+    "cert": "YE2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 4.1
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 2.4
+      },
+      {
+        "signal": "levenshtein_brand",
+        "label": "Brand typo",
+        "points": 1.3
+      }
+    ],
+    "score": 24,
+    "verdict": "low"
+  },
+  {
+    "url": "https://hsbcbank-finance.com",
+    "domain": "hsbcbank-finance.com",
+    "company": "hsbc",
+    "date": "2026-10-27T17:23:21.656262+00:00",
+    "first_seen": "2026-10-27T17:23:21.656262+00:00",
+    "uuid": "4020a2b0-fe4d-4db3-b3df-b16ba0906917",
+    "ip": "185.158.133.1",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      }
+    ],
+    "score": 33,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://alameer-whatsapp-platform.pages.dev",
+    "domain": "alameer-whatsapp-platform.pages.dev",
+    "company": "whatsapp",
+    "date": "2026-10-27T17:23:20.812896+00:00",
+    "first_seen": "2026-10-27T17:23:20.812896+00:00",
+    "uuid": "ddc40018-23a1-49b9-97c0-5ed8d3016457",
+    "ip": "188.114.96.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "YE2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 1.1
+      }
+    ],
+    "score": 23,
+    "verdict": "low"
+  },
+  {
+    "url": "https://app-icloudrecovery.click",
+    "domain": "app-icloudrecovery.click",
+    "company": "apple",
+    "date": "2026-10-27T17:23:20.110326+00:00",
+    "first_seen": "2026-10-27T17:23:20.110326+00:00",
+    "uuid": "99275423-03d4-4c0a-b53b-8571003fde21",
+    "ip": "31.56.209.114",
+    "country": "The Netherlands",
+    "asn": "209373",
+    "org": "SWISSNET LLC",
+    "cert": "YR2",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 4.0
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      },
+      {
+        "signal": "tld_abuse",
+        "label": "Suspicious TLD",
+        "points": 1.3
+      }
+    ],
+    "score": 24,
+    "verdict": "low"
+  },
+  {
+    "url": "https://content-binance.com",
+    "domain": "content-binance.com",
+    "company": "binance",
+    "date": "2026-10-27T17:23:19.438761+00:00",
+    "first_seen": "2026-10-27T17:23:19.438761+00:00",
+    "uuid": "27e0a494-7592-446f-a674-13a5efe9589f",
+    "ip": "172.67.198.235",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "WE1",
+    "malicious_google": true,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 2.1
+      },
+      {
+        "signal": "domain_age_score",
+        "label": "Young domain",
+        "points": 2.0
+      }
+    ],
+    "score": 23,
+    "verdict": "low"
+  },
+  {
+    "url": "https://usps.eemerg.dev",
+    "domain": "usps.eemerg.dev",
+    "company": "usps",
+    "date": "2026-10-27T17:01:09.523073+00:00",
+    "first_seen": "2026-10-27T17:01:09.523073+00:00",
+    "uuid": "eaa65614-80fd-49eb-aa34-90d2bb3423c9",
+    "ip": "5.161.51.236",
+    "country": "United States",
+    "asn": "213230",
+    "org": "Hetzner Online GmbH",
+    "cert": "YE2",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      },
+      {
+        "signal": "brand_in_subdomain",
+        "label": "Brand in subdomain",
+        "points": 2.6
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 20,
+    "verdict": "low"
+  },
+  {
+    "url": "https://uspstrackingfun.com",
+    "domain": "uspstrackingfun.com",
+    "company": "usps",
+    "date": "2026-10-27T16:17:36.393292+00:00",
+    "first_seen": "2026-10-27T16:17:36.393292+00:00",
+    "uuid": "b0215e28-468a-4836-a12f-773964769788",
+    "ip": "172.67.183.74",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "Google Trust Services",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": true,
+    "top_signals": [],
+    "score": 0,
+    "verdict": "noise"
+  },
+  {
+    "url": "https://metamask-airdrop.icu",
+    "domain": "metamask-airdrop.icu",
+    "company": "metamask",
+    "date": "2026-10-27T14:13:32.163465+00:00",
+    "first_seen": "2026-10-27T14:13:32.163465+00:00",
+    "uuid": "fcb2132b-8810-437b-9f8e-0aa6c32663c4",
+    "ip": "104.21.86.67",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "SSL Corporation",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": true,
+    "top_signals": [],
+    "score": 0,
+    "verdict": "noise"
+  },
+  {
+    "url": "https://4-trustwallet.com",
+    "domain": "4-trustwallet.com",
+    "company": "trustwallet",
+    "date": "2026-10-27T14:05:15.176691+00:00",
+    "first_seen": "2026-10-27T14:05:15.176691+00:00",
+    "uuid": "66004300-da02-430d-be65-f5b70b36b278",
+    "ip": "188.114.96.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "SSL Corporation",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": true,
+    "top_signals": [],
+    "score": 0,
+    "verdict": "noise"
+  },
+  {
+    "url": "https://abenetgeneralservices.ca/secure/Adobe_Installer.html",
+    "domain": "abenetgeneralservices.ca",
+    "company": "adobe",
+    "date": "2026-10-27T13:04:16.445245+00:00",
+    "first_seen": "2026-10-27T13:04:16.445245+00:00",
+    "uuid": "072bf027-e717-4be5-80fd-0dbebda3ef8e",
+    "ip": "97.74.209.172",
+    "country": "United States",
+    "asn": "398101",
+    "org": "GoDaddy.com, LLC",
+    "cert": "YR1",
+    "malicious_google": false,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "openphish_score",
+        "label": "OpenPhish",
+        "points": 3.0
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 3.0
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 22,
+    "verdict": "low"
+  },
+  {
+    "url": "https://log-in-facebook.blogspot.com",
+    "domain": "log-in-facebook.blogspot.com",
+    "company": "facebook",
+    "date": "2026-10-27T13:03:55.984918+00:00",
+    "first_seen": "2026-10-27T13:03:55.984918+00:00",
+    "uuid": "21affe19-3906-48c6-a439-b27e278988bc",
+    "ip": "142.251.20.132",
+    "country": "Germany",
+    "asn": "15169",
+    "org": "Google LLC",
+    "cert": "WE2",
+    "malicious_google": false,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "openphish_score",
+        "label": "OpenPhish",
+        "points": 3.0
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      }
+    ],
+    "score": 27,
+    "verdict": "low"
+  },
+  {
+    "url": "http://intesasanplog.cc",
+    "domain": "intesasanplog.cc",
+    "company": "intesa",
+    "date": "2026-10-27T13:03:41.900220+00:00",
+    "first_seen": "2026-10-27T13:03:41.900220+00:00",
+    "uuid": "f256ef45-56c6-4be0-860e-b43b822f65ef",
+    "ip": "185.80.129.139",
+    "country": "Lithuania",
+    "asn": "61053",
+    "org": "UAB ESNET",
+    "cert": "YE1",
+    "malicious_google": false,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "has_password_input",
+        "label": "Password field",
+        "points": 3.9
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "openphish_score",
+        "label": "OpenPhish",
+        "points": 3.0
+      }
+    ],
+    "score": 28,
+    "verdict": "low"
+  },
+  {
+    "url": "https://fedex.jfhzjs.shop/query",
+    "domain": "fedex.jfhzjs.shop",
+    "company": "fedex",
+    "date": "2026-10-27T13:03:36.062178+00:00",
+    "first_seen": "2026-10-27T13:03:36.062178+00:00",
+    "uuid": "de182d52-6312-46f7-ac88-3a43e482ad09",
+    "ip": "188.114.97.3",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "YE2",
+    "malicious_google": true,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "gsb_weighted",
+        "label": "Google Safe Browsing",
+        "points": 6.1
+      },
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "ip_cluster",
+        "label": "Shared IP cluster",
+        "points": 3.4
+      },
+      {
+        "signal": "openphish_score",
+        "label": "OpenPhish",
+        "points": 3.0
+      }
+    ],
+    "score": 31,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://onedrive-1-one.vercel.app",
+    "domain": "onedrive-1-one.vercel.app",
+    "company": "microsoft",
+    "date": "2026-10-27T13:03:23.492667+00:00",
+    "first_seen": "2026-10-27T13:03:23.492667+00:00",
+    "uuid": "f4a4428d-54ed-420d-8723-c675bddce388",
+    "ip": "216.198.79.3",
+    "country": "United States",
+    "asn": "16509",
+    "org": "Amazon.com, Inc.",
+    "cert": "WR1",
+    "malicious_google": false,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": true,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "urlscan_score",
+        "label": "urlscan.io",
+        "points": 5.1
+      },
+      {
+        "signal": "has_password_input",
+        "label": "Password field",
+        "points": 3.9
+      },
+      {
+        "signal": "cert_cluster",
+        "label": "Cert reuse",
+        "points": 3.4
+      }
+    ],
+    "score": 33,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://photos-instagram.vercel.app",
+    "domain": "photos-instagram.vercel.app",
+    "company": "instagram",
+    "date": "2026-10-27T13:03:08.108257+00:00",
+    "first_seen": "2026-10-27T13:03:08.108257+00:00",
+    "uuid": "af913a72-3a38-4460-893d-142d58755e1d",
+    "ip": "64.29.17.67",
+    "country": "United States",
+    "asn": "16509",
+    "org": "Amazon.com, Inc.",
+    "cert": "WR1",
+    "malicious_google": false,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "has_password_input",
+        "label": "Password field",
+        "points": 3.9
+      },
+      {
+        "signal": "cert_cluster",
+        "label": "Cert reuse",
+        "points": 3.4
+      }
+    ],
+    "score": 32,
+    "verdict": "medium"
+  },
+  {
+    "url": "https://facebook-sa.blogspot.com",
+    "domain": "facebook-sa.blogspot.com",
+    "company": "facebook",
+    "date": "2026-10-27T13:02:40.937906+00:00",
+    "first_seen": "2026-10-27T13:02:40.937906+00:00",
+    "uuid": "25e4a6f5-9a0f-4a8d-91e4-ddd443f975c0",
+    "ip": "142.251.20.132",
+    "country": "Germany",
+    "asn": "15169",
+    "org": "Google LLC",
+    "cert": "WE2",
+    "malicious_google": false,
+    "malicious_openphish": true,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "brand_in_title",
+        "label": "Brand in title",
+        "points": 4.5
+      },
+      {
+        "signal": "brand_in_apex_label",
+        "label": "Brand in domain label",
+        "points": 3.7
+      },
+      {
+        "signal": "openphish_score",
+        "label": "OpenPhish",
+        "points": 3.0
+      }
+    ],
+    "score": 30,
+    "verdict": "low"
+  },
+  {
     "url": "http://register-facebook.blogspot.com",
     "domain": "register-facebook.blogspot.com",
     "company": "facebook",
