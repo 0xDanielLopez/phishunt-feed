@@ -1,0 +1,32 @@
+{
+ "date": "2026-10-27",
+ "updated": "2026-10-27T05:06:56Z",
+ "source": "https://phishunt.io/feed.txt",
+ "license": "CC0-1.0",
+ "counts": {
+  "added": 12,
+  "removed": 6
+ },
+ "added": [
+  "http://autho-facebook-appp.weebly.com",
+  "http://lock-icloud.com/identity/login",
+  "https://account.dev.my-spotify.app",
+  "https://docusignr.icu",
+  "https://exoduss-web3-wallet.pages.dev/favicon.ico",
+  "https://facebook-esp.blogspot.com",
+  "https://googlecoin.net",
+  "https://roblox.com.ss/games/2753915549/Blox-Fruits?privateServerLinkCode=91868447099573703515153849959705",
+  "https://support-center-apple.wasmer.app",
+  "https://unicaja-inicio.net",
+  "https://usps-for-business-website-2-1.vercel.app",
+  "https://verifycase-apple.com"
+ ],
+ "removed": [
+  "http://allegrolokalnie.pl744113577456323.shop",
+  "https://cpanel.bancaslnternetempresas-scotiabank.online",
+  "https://home-ledgrreliveapp.typedream.app",
+  "https://microsoftt-beta.vercel.app",
+  "https://sso-ledger-live-strt-ledger-support-cdn.typedream.app",
+  "https://whatsapplove.xyz"
+ ]
+}

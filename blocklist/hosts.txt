@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 1144
-# Updated: 2026-10-26T22:40:32Z
+# Entries: 1159
+# Updated: 2026-10-27T05:06:55Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -9,11 +9,14 @@
 0.0.0.0 1056804.com
 0.0.0.0 121893coinbase.com
 0.0.0.0 123-facebook.blogspot.com
+0.0.0.0 12310929h452.buzz
 0.0.0.0 1789503-coinbase.com
+0.0.0.0 19g88g99v0.pics
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 2famgghvyv.bradesco.support.zaka25.duckdns.org
 0.0.0.0 394182-coinbase.com
 0.0.0.0 401283-outlookmailbox-00012-validate.weebly.com
+0.0.0.0 412887h459594.lat
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
 0.0.0.0 abkweb-whatsapp.com
@@ -86,6 +89,7 @@
 0.0.0.0 authapi-whatsapp.com
 0.0.0.0 authcdn-whatsapp.com
 0.0.0.0 authnode-whatsapp.com
+0.0.0.0 autho-facebook-appp.weebly.com
 0.0.0.0 avaturefed.net
 0.0.0.0 await-whatsapp.com
 0.0.0.0 axm-amazon.com
@@ -328,6 +332,7 @@
 0.0.0.0 docss-whatsapp.com
 0.0.0.0 documents-google.com
 0.0.0.0 documentsharing.fr
+0.0.0.0 docusignr.icu
 0.0.0.0 dothome.co.kr
 0.0.0.0 dow-nload-ledger-live--doc.typedream.app
 0.0.0.0 dpd-bexnaro.com
@@ -365,6 +370,7 @@
 0.0.0.0 ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 0.0.0.0 exclusive-openseamints.vercel.app
 0.0.0.0 exodus-wallet.global.ssl.fastly.net
+0.0.0.0 exoduss-web3-wallet.pages.dev
 0.0.0.0 exoduswalletcc.pages.dev
 0.0.0.0 exoduswallethelpcenter.vercel.app
 0.0.0.0 faceb00klogin.blogspot.com
@@ -392,6 +398,7 @@
 0.0.0.0 facebook-community.blogspot.com
 0.0.0.0 facebook-developers.blogspot.com
 0.0.0.0 facebook-do.blogspot.com
+0.0.0.0 facebook-esp.blogspot.com
 0.0.0.0 facebook-eu.blogspot.com
 0.0.0.0 facebook-facebook1.blogspot.com
 0.0.0.0 facebook-fansdanssapage.blogspot.com
@@ -545,6 +552,7 @@
 0.0.0.0 google1302.com
 0.0.0.0 google1308.com
 0.0.0.0 googlebusiness.xyz
+0.0.0.0 googlecoin.net
 0.0.0.0 googlecontacts.email
 0.0.0.0 googleepkay.com
 0.0.0.0 googleepway.com
@@ -572,7 +580,6 @@
 0.0.0.0 help-kraken-com-eng.square.site
 0.0.0.0 hmwscusw.bradesco.support.zaka25.duckdns.org
 0.0.0.0 home-facebook.blogspot.com
-0.0.0.0 home-ledgrreliveapp.typedream.app
 0.0.0.0 hostcdn-whatsapp.com
 0.0.0.0 hostly-whatsapp.com
 0.0.0.0 hostpush-whatsapp.com
@@ -588,6 +595,7 @@
 0.0.0.0 hublab-whatsapp.com
 0.0.0.0 hubrun-whatsapp.com
 0.0.0.0 hubset-whatsapp.com
+0.0.0.0 i38fb7f398n4hf38g634.sbs
 0.0.0.0 icloud-ayuda-online.help
 0.0.0.0 iclouds.services
 0.0.0.0 icloudweb-ext860.click
@@ -732,6 +740,7 @@
 0.0.0.0 linkhub-whatsapp.com
 0.0.0.0 lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
 0.0.0.0 lobster-cloud.com
+0.0.0.0 lock-icloud.com
 0.0.0.0 login-facebook-facebook.blogspot.com
 0.0.0.0 login-facebookaccount.blogspot.com
 0.0.0.0 login-my-facebook.blogspot.com
@@ -797,7 +806,6 @@
 0.0.0.0 microsoftcloudverification.com
 0.0.0.0 microsoftconfig-3.vercel.app
 0.0.0.0 microsoftjk.eu.org
-0.0.0.0 microsoftt-beta.vercel.app
 0.0.0.0 microsoftwordob.blogspot.com
 0.0.0.0 mirror-google.com
 0.0.0.0 mkwweb-whatsapp.com
@@ -898,7 +906,9 @@
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 pipe-whatsapp.com
 0.0.0.0 pl-lokalna-ofeta9xv17yj75v0.shop
-0.0.0.0 pl744113577456323.shop
+0.0.0.0 pl-oferta41515849.shop
+0.0.0.0 pl-oferta912873651.cfd
+0.0.0.0 pl-ogloszenie1821011.shop
 0.0.0.0 platform-kraken.cc
 0.0.0.0 play-googlese.app
 0.0.0.0 podnode-whatsapp.com
@@ -907,6 +917,7 @@
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 prouse-whatsapp.com
 0.0.0.0 proxyapi-whatsapp.com
+0.0.0.0 pryweanm65j9233.forum
 0.0.0.0 ptai.in
 0.0.0.0 r-facebook.blogspot.com
 0.0.0.0 rama-facebook.blogspot.com
@@ -929,6 +940,7 @@
 0.0.0.0 roblox.com.et
 0.0.0.0 roblox.com.kz
 0.0.0.0 roblox.com.ml
+0.0.0.0 roblox.com.ss
 0.0.0.0 roblox.ss
 0.0.0.0 robloxc.com.es
 0.0.0.0 robloxmarine.github.io
@@ -980,6 +992,8 @@
 0.0.0.0 sigma-whatsapp.com
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 smallflyingarts.net
+0.0.0.0 smar845h95634.casa
+0.0.0.0 smari2380-j64.mom
 0.0.0.0 smbweb-whatsapp.com
 0.0.0.0 softhub-whatsapp.com
 0.0.0.0 soilmatengineers.com
@@ -998,7 +1012,6 @@
 0.0.0.0 srv6-coinbase.com
 0.0.0.0 sslcert-whatsapp.com
 0.0.0.0 ssltls-whatsapp.com
-0.0.0.0 sso-ledger-live-strt-ledger-support-cdn.typedream.app
 0.0.0.0 stack-whatsapp.com
 0.0.0.0 stage.hoylldhd.bradesco.support.zaka25.duckdns.org
 0.0.0.0 start-ledgerlive-com-web.typedream.app
@@ -1057,9 +1070,11 @@
 0.0.0.0 trustwalletindia-beta.vercel.app
 0.0.0.0 ttgyahvw.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
 0.0.0.0 uk-facebook.blogspot.com
+0.0.0.0 unicaja-inicio.net
 0.0.0.0 updata.net.cn
 0.0.0.0 us--ledger-live-crypto-cdn-en.typedream.app
 0.0.0.0 usdt-trustwallet-blockchain.vercel.app
+0.0.0.0 usps-for-business-website-2-1.vercel.app
 0.0.0.0 uspsaunitedworkforce.com
 0.0.0.0 uspsecuredlogs.com
 0.0.0.0 uspss.pages.dev
@@ -1069,6 +1084,7 @@
 0.0.0.0 v0-trezor-suite-website.vercel.app
 0.0.0.0 verify-google-app.netlify.app
 0.0.0.0 verifyaccount-google.com
+0.0.0.0 verifycase-apple.com
 0.0.0.0 verifytoken.com
 0.0.0.0 viewclass.com
 0.0.0.0 vinted-technologies.live
@@ -1115,7 +1131,6 @@
 0.0.0.0 whatsappdevil.com
 0.0.0.0 whatsappfreewhatsapp.blogspot.com
 0.0.0.0 whatsappgroup.vercel.app
-0.0.0.0 whatsapplove.xyz
 0.0.0.0 whatsappo-ten.vercel.app
 0.0.0.0 windows-ledger-live.typedream.app
 0.0.0.0 wooflers.com
