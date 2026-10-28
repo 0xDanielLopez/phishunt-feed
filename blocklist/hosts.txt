@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 1144
-# Updated: 2026-10-27T22:14:50Z
+# Entries: 1147
+# Updated: 2026-10-28T05:43:44Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -8,15 +8,16 @@
 
 0.0.0.0 1056804.com
 0.0.0.0 123-facebook.blogspot.com
-0.0.0.0 1230098h854fo.forum
+0.0.0.0 123909hj54698h45g.casa
 0.0.0.0 148.72.244.125
 0.0.0.0 1789503-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 206.209.210.20
+0.0.0.0 23129h45g45.pics
 0.0.0.0 394182-coinbase.com
-0.0.0.0 4-trustwallet.com
 0.0.0.0 401283-outlookmailbox-00012-validate.weebly.com
 0.0.0.0 85.215.226.225
+0.0.0.0 9139120h0g4io.help
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
 0.0.0.0 abenetgeneralservices.ca
@@ -34,7 +35,6 @@
 0.0.0.0 akc-whatsapp.com
 0.0.0.0 akd-whatsapp.com
 0.0.0.0 ake-whatsapp.com
-0.0.0.0 alameer-whatsapp-platform.pages.dev
 0.0.0.0 alb-whatsapp.com
 0.0.0.0 alc-whatsapp.com
 0.0.0.0 ald-whatsapp.com
@@ -99,11 +99,14 @@
 0.0.0.0 backname.io
 0.0.0.0 backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 0.0.0.0 bankofamerica-identify.ph
-0.0.0.0 bankofamerica-secure-informationupdate.ph
+0.0.0.0 bankofamerica-login-confirm-details.ph
+0.0.0.0 bankofamerica-my173-id.ph
+0.0.0.0 bankofamerica-secure-window.ph
 0.0.0.0 bankofamerica-tx.com
-0.0.0.0 bankofamericalosangelessecurecustomerservice.ph
+0.0.0.0 bankofamericacryptocurrencies.ph
 0.0.0.0 bankofamericalosangelessupportcustomer.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
+0.0.0.0 bankofamericareo.com.ph
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
 0.0.0.0 bbvalues.uk
@@ -185,7 +188,6 @@
 0.0.0.0 bnw-whatsapp.com
 0.0.0.0 bnx-whatsapp.com
 0.0.0.0 bny-whatsapp.com
-0.0.0.0 bobm839125.casa
 0.0.0.0 boc-whatsapp.com
 0.0.0.0 bod-whatsapp.com
 0.0.0.0 boe-whatsapp.com
@@ -584,11 +586,11 @@
 0.0.0.0 gpay-google.net
 0.0.0.0 grn-microsoft-outlook.vercel.app
 0.0.0.0 gzlweb-whatsapp.com
+0.0.0.0 hameem.net
 0.0.0.0 happy-whatsapp.com
 0.0.0.0 hashnode.dev
 0.0.0.0 help-instagram.blogspot.com
 0.0.0.0 help-kraken-com-eng.square.site
-0.0.0.0 hjo65ih87f23f23.forum
 0.0.0.0 home-facebook.blogspot.com
 0.0.0.0 hostcdn-whatsapp.com
 0.0.0.0 hostly-whatsapp.com
@@ -606,7 +608,6 @@
 0.0.0.0 hubset-whatsapp.com
 0.0.0.0 icloud-ayuda-online.help
 0.0.0.0 icloudweb-ext860.click
-0.0.0.0 icon38120957.beer
 0.0.0.0 ideeo.mx
 0.0.0.0 ids-whatsapp.com
 0.0.0.0 ifotografix.co.uk
@@ -679,6 +680,7 @@
 0.0.0.0 instagramlogin99.blogspot.com
 0.0.0.0 instagramloginpage111.blogspot.com
 0.0.0.0 instagramloginpassword.blogspot.com
+0.0.0.0 instagrams.com.vn
 0.0.0.0 instagramsnp.blogspot.com
 0.0.0.0 instagramsupportverify.blogspot.com
 0.0.0.0 instagramunblockedd.vercel.app
@@ -694,9 +696,9 @@
 0.0.0.0 itau-30horas.click
 0.0.0.0 itau-com.vercel.app
 0.0.0.0 itau-snowy.vercel.app
+0.0.0.0 itauinformativo.ph
 0.0.0.0 ivory-whatsapp.com
 0.0.0.0 jayaram0550.github.io
-0.0.0.0 jfhzjs.shop
 0.0.0.0 jj-facebook.blogspot.com
 0.0.0.0 jo-facebook.blogspot.com
 0.0.0.0 joker-whatsapp.com
@@ -709,7 +711,6 @@
 0.0.0.0 kitset-whatsapp.com
 0.0.0.0 kitweb-whatsapp.com
 0.0.0.0 knife-whatsapp.com
-0.0.0.0 kraken-kages-crm.pages.dev
 0.0.0.0 kraken-tor.co.com
 0.0.0.0 kucoin-referral-code-pt.vercel.app
 0.0.0.0 kucoinblock.com
@@ -835,7 +836,6 @@
 0.0.0.0 netflix-lake.vercel.app
 0.0.0.0 netflix-sandy-alpha.vercel.app
 0.0.0.0 netflix-support-send.duckdns.org
-0.0.0.0 netflix-two-mu.vercel.app
 0.0.0.0 netflix-web-site-three.vercel.app
 0.0.0.0 netflix.surf
 0.0.0.0 netflix520.com
@@ -867,8 +867,6 @@
 0.0.0.0 nqxweb-whatsapp.com
 0.0.0.0 nr-28s2m3.sbs
 0.0.0.0 nw-facebook.blogspot.com
-0.0.0.0 oferta3949583048204.cfd
-0.0.0.0 oferta6235882631.cfd
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 onedrive-1-one.vercel.app
 0.0.0.0 onedrive-4-nine.vercel.app
@@ -908,13 +906,11 @@
 0.0.0.0 pipe-whatsapp.com
 0.0.0.0 platform-kraken.cc
 0.0.0.0 podnode-whatsapp.com
-0.0.0.0 pot4377j568jh.casa
 0.0.0.0 premio-instagram.com
 0.0.0.0 prev-whatsapp.com
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 prouse-whatsapp.com
 0.0.0.0 proxyapi-whatsapp.com
-0.0.0.0 prwa7n78459h45.casa
 0.0.0.0 ptai.in
 0.0.0.0 r-facebook.blogspot.com
 0.0.0.0 rama-facebook.blogspot.com
@@ -989,7 +985,6 @@
 0.0.0.0 shopweb.com.vn
 0.0.0.0 sigma-whatsapp.com
 0.0.0.0 sk-facebook.blogspot.com
-0.0.0.0 sma9h04g45f23.buzz
 0.0.0.0 smallflyingarts.net
 0.0.0.0 smbweb-whatsapp.com
 0.0.0.0 softhub-whatsapp.com
@@ -1005,6 +1000,7 @@
 0.0.0.0 spotifyprimiumapk.com
 0.0.0.0 spotifysonic.com
 0.0.0.0 sprinklers-orlando.com
+0.0.0.0 sraczka05456.sbs
 0.0.0.0 srpska-banka.com
 0.0.0.0 srv6-coinbase.com
 0.0.0.0 sslcert-whatsapp.com
@@ -1041,6 +1037,7 @@
 0.0.0.0 theamazon.vercel.app
 0.0.0.0 therelayservice.com
 0.0.0.0 ticket-fedex.com
+0.0.0.0 tiendatigard.com.mx
 0.0.0.0 tokenapi-whatsapp.com
 0.0.0.0 trackingnumbers.org
 0.0.0.0 trezoorr--thego.gitbook.io
@@ -1076,6 +1073,8 @@
 0.0.0.0 v0-exodus-wallet-app.vercel.app
 0.0.0.0 v0-instagram-accounts.vercel.app
 0.0.0.0 v0-trezor-suite-website.vercel.app
+0.0.0.0 verify-bankofamerica-7.ph
+0.0.0.0 verify-bankofamerica.ph
 0.0.0.0 verify-google-app.netlify.app
 0.0.0.0 verifyaccount-google.com
 0.0.0.0 verifycase-apple.com
@@ -1084,6 +1083,7 @@
 0.0.0.0 vinted-technologies.live
 0.0.0.0 vodafone-business-berlin.de
 0.0.0.0 vodafone-business-berlin.store
+0.0.0.0 vodafone-dachau.de
 0.0.0.0 vodafone-on-line.it
 0.0.0.0 vpnuse.eu.org
 0.0.0.0 wafnode-whatsapp.com
@@ -1130,9 +1130,11 @@
 0.0.0.0 workspacedoc.com
 0.0.0.0 ww-facebook.blogspot.com
 0.0.0.0 www-app-google.com
+0.0.0.0 www-apple.support
 0.0.0.0 www.mxjkckus.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
 0.0.0.0 www.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-125-38.cpanel.site
 0.0.0.0 www.zygzsdwh.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
+0.0.0.0 wyzkdev.github.io
 0.0.0.0 xfinity2.vercel.app
 0.0.0.0 xfinitybroadbandnetwork.weebly.com
 0.0.0.0 xfinityhelplogin.weebly.com
@@ -1140,6 +1142,7 @@
 0.0.0.0 xfinitymanagementsocialservice.weebly.com
 0.0.0.0 xfinityservices.vercel.app
 0.0.0.0 xfinityupdatessss.weebly.com
+0.0.0.0 xfinityy111.weebly.com
 0.0.0.0 yahoo888.xyz
 0.0.0.0 yourwebs.app
 0.0.0.0 yzz.me
