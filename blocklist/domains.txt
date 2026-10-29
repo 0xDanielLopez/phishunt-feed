@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 1129
-# Updated: 2026-10-29T05:49:22Z
+# Entries: 1122
+# Updated: 2026-10-29T13:02:46Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -15,7 +15,6 @@
 394182-coinbase.com
 401283-outlookmailbox-00012-validate.weebly.com
 53784563453762.sbs
-5781852.lat
 853753-binance.com
 9064328.shop
 a2zapk.co
@@ -98,7 +97,6 @@ babyamazon.top
 backname.io
 backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 bankofamerica-secure-console.ph
-bankofamerica-secure-deposit.ph
 bankofamerica-tx.com
 bankofamerica-yetkisiz.ph
 bankofamericaautofinance.ph
@@ -265,7 +263,6 @@ citrix-sharing.com
 click-facebook.blogspot.com
 clientapi-whatsapp.com
 clientcdn-whatsapp.com
-cloud-authc.com
 cloudapi-whatsapp.com
 cloudcdn-whatsapp.com
 clouddns-whatsapp.com
@@ -297,6 +294,7 @@ comomypal-securityserver.netflixconfirmation.net1fc.smtp.test.bimp-bot.duckdns.o
 content-binance.com
 cookieapi-whatsapp.com
 cookienode-whatsapp.com
+copy-instagram.vercel.app
 coral-whatsapp.com
 corenode-whatsapp.com
 corepush-whatsapp.com
@@ -537,6 +535,7 @@ fercel.app
 fhnweb-whatsapp.com
 firewall-whatsapp.com
 flame-whatsapp.com
+flazio.online
 format-whatsapp.com
 forsakens-crew-teman-facebook.blogspot.com
 free-facebook-page-likes.blogspot.com
@@ -677,7 +676,6 @@ io-trezo-secure.square.site
 io-trezrn-eng.pages.dev
 ips-whatsapp.com
 isha-dev.com
-itau-30horas.click
 itau-com.vercel.app
 itau-snowy.vercel.app
 ivory-whatsapp.com
@@ -716,7 +714,6 @@ ledger-live-application.com
 ledger-live-download-auth-co.typedream.app
 ledger-live-download-sso-conect.typedream.app
 ledger-live-login-web.square.site
-ledger-lives-eu.pages.dev
 ledgrelivapp--crome.typedream.app
 ledzer-live.square.site
 legacy-whatsapp.com
@@ -790,7 +787,6 @@ microsoft-telemetry.at
 microsoft0117.vercel.app
 microsoft365businessbasic.com
 microsoft365updates.com
-microsoftconfig-3.vercel.app
 microsoftjk.eu.org
 microsoftwordob.blogspot.com
 mirror-google.com
@@ -868,7 +864,6 @@ orbit-whatsapp.com
 orchestrator-whatsapp.com
 orygozcb.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
 ossama-instagram.vercel.app
-outlook-ashy.vercel.app
 outlook-login.github.io
 outlook-phi-one.vercel.app
 outlook-serv-coral.vercel.app
@@ -892,7 +887,6 @@ pi-ofeta291290.sbs
 piedrasdecolon.com.ar
 pipe-whatsapp.com
 pl-875243.sbs
-pl-oferta769127825.cfd
 pl12423422132.top
 platform-kraken.cc
 podnode-whatsapp.com
@@ -967,6 +961,7 @@ sessionnode-whatsapp.com
 setkit-whatsapp.com
 setrun-whatsapp.com
 setuse-whatsapp.com
+sharepointonline-microsoft.com
 shield-whatsapp.com
 shopping-shop.jp
 shopweb.com.vn
@@ -1043,7 +1038,6 @@ twitterbroker.com
 uk-facebook.blogspot.com
 unicaja-inicio.net
 updata.net.cn
-updateversion.online
 us--ledger-live-crypto-cdn-en.typedream.app
 usdt-trustwallet-blockchain.vercel.app
 usps-for-business-website-2-1.vercel.app
@@ -1053,11 +1047,11 @@ uspsglobaldeliveryexpress.com
 uspss.pages.dev
 uspssmartparcellocker.tech
 uspstrackingfun.com
+uw.ua
 v0-exodus-wallet-app.vercel.app
 v0-instagram-accounts.vercel.app
 v0-trezor-suite-website.vercel.app
 verificationmails.com
-verify-bankofamerica-35.ph
 verify-google-app.netlify.app
 verifyaccount-google.com
 verifycase-apple.com
@@ -1126,7 +1120,6 @@ xfinityservices.vercel.app
 xfinityupdatessss.weebly.com
 xfinityy111.weebly.com
 yahoo888.xyz
-yahooer.com
 yourwebs.app
 yzz.me
 z-facebook.blogspot.com

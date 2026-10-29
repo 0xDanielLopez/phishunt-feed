@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 1129
-# Updated: 2026-10-29T05:49:23Z
+# Entries: 1122
+# Updated: 2026-10-29T13:02:47Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -15,7 +15,6 @@
 0.0.0.0 394182-coinbase.com
 0.0.0.0 401283-outlookmailbox-00012-validate.weebly.com
 0.0.0.0 53784563453762.sbs
-0.0.0.0 5781852.lat
 0.0.0.0 853753-binance.com
 0.0.0.0 9064328.shop
 0.0.0.0 a2zapk.co
@@ -98,7 +97,6 @@
 0.0.0.0 backname.io
 0.0.0.0 backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 0.0.0.0 bankofamerica-secure-console.ph
-0.0.0.0 bankofamerica-secure-deposit.ph
 0.0.0.0 bankofamerica-tx.com
 0.0.0.0 bankofamerica-yetkisiz.ph
 0.0.0.0 bankofamericaautofinance.ph
@@ -265,7 +263,6 @@
 0.0.0.0 click-facebook.blogspot.com
 0.0.0.0 clientapi-whatsapp.com
 0.0.0.0 clientcdn-whatsapp.com
-0.0.0.0 cloud-authc.com
 0.0.0.0 cloudapi-whatsapp.com
 0.0.0.0 cloudcdn-whatsapp.com
 0.0.0.0 clouddns-whatsapp.com
@@ -297,6 +294,7 @@
 0.0.0.0 content-binance.com
 0.0.0.0 cookieapi-whatsapp.com
 0.0.0.0 cookienode-whatsapp.com
+0.0.0.0 copy-instagram.vercel.app
 0.0.0.0 coral-whatsapp.com
 0.0.0.0 corenode-whatsapp.com
 0.0.0.0 corepush-whatsapp.com
@@ -537,6 +535,7 @@
 0.0.0.0 fhnweb-whatsapp.com
 0.0.0.0 firewall-whatsapp.com
 0.0.0.0 flame-whatsapp.com
+0.0.0.0 flazio.online
 0.0.0.0 format-whatsapp.com
 0.0.0.0 forsakens-crew-teman-facebook.blogspot.com
 0.0.0.0 free-facebook-page-likes.blogspot.com
@@ -677,7 +676,6 @@
 0.0.0.0 io-trezrn-eng.pages.dev
 0.0.0.0 ips-whatsapp.com
 0.0.0.0 isha-dev.com
-0.0.0.0 itau-30horas.click
 0.0.0.0 itau-com.vercel.app
 0.0.0.0 itau-snowy.vercel.app
 0.0.0.0 ivory-whatsapp.com
@@ -716,7 +714,6 @@
 0.0.0.0 ledger-live-download-auth-co.typedream.app
 0.0.0.0 ledger-live-download-sso-conect.typedream.app
 0.0.0.0 ledger-live-login-web.square.site
-0.0.0.0 ledger-lives-eu.pages.dev
 0.0.0.0 ledgrelivapp--crome.typedream.app
 0.0.0.0 ledzer-live.square.site
 0.0.0.0 legacy-whatsapp.com
@@ -790,7 +787,6 @@
 0.0.0.0 microsoft0117.vercel.app
 0.0.0.0 microsoft365businessbasic.com
 0.0.0.0 microsoft365updates.com
-0.0.0.0 microsoftconfig-3.vercel.app
 0.0.0.0 microsoftjk.eu.org
 0.0.0.0 microsoftwordob.blogspot.com
 0.0.0.0 mirror-google.com
@@ -868,7 +864,6 @@
 0.0.0.0 orchestrator-whatsapp.com
 0.0.0.0 orygozcb.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
 0.0.0.0 ossama-instagram.vercel.app
-0.0.0.0 outlook-ashy.vercel.app
 0.0.0.0 outlook-login.github.io
 0.0.0.0 outlook-phi-one.vercel.app
 0.0.0.0 outlook-serv-coral.vercel.app
@@ -892,7 +887,6 @@
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 pipe-whatsapp.com
 0.0.0.0 pl-875243.sbs
-0.0.0.0 pl-oferta769127825.cfd
 0.0.0.0 pl12423422132.top
 0.0.0.0 platform-kraken.cc
 0.0.0.0 podnode-whatsapp.com
@@ -967,6 +961,7 @@
 0.0.0.0 setkit-whatsapp.com
 0.0.0.0 setrun-whatsapp.com
 0.0.0.0 setuse-whatsapp.com
+0.0.0.0 sharepointonline-microsoft.com
 0.0.0.0 shield-whatsapp.com
 0.0.0.0 shopping-shop.jp
 0.0.0.0 shopweb.com.vn
@@ -1043,7 +1038,6 @@
 0.0.0.0 uk-facebook.blogspot.com
 0.0.0.0 unicaja-inicio.net
 0.0.0.0 updata.net.cn
-0.0.0.0 updateversion.online
 0.0.0.0 us--ledger-live-crypto-cdn-en.typedream.app
 0.0.0.0 usdt-trustwallet-blockchain.vercel.app
 0.0.0.0 usps-for-business-website-2-1.vercel.app
@@ -1053,11 +1047,11 @@
 0.0.0.0 uspss.pages.dev
 0.0.0.0 uspssmartparcellocker.tech
 0.0.0.0 uspstrackingfun.com
+0.0.0.0 uw.ua
 0.0.0.0 v0-exodus-wallet-app.vercel.app
 0.0.0.0 v0-instagram-accounts.vercel.app
 0.0.0.0 v0-trezor-suite-website.vercel.app
 0.0.0.0 verificationmails.com
-0.0.0.0 verify-bankofamerica-35.ph
 0.0.0.0 verify-google-app.netlify.app
 0.0.0.0 verifyaccount-google.com
 0.0.0.0 verifycase-apple.com
@@ -1126,7 +1120,6 @@
 0.0.0.0 xfinityupdatessss.weebly.com
 0.0.0.0 xfinityy111.weebly.com
 0.0.0.0 yahoo888.xyz
-0.0.0.0 yahooer.com
 0.0.0.0 yourwebs.app
 0.0.0.0 yzz.me
 0.0.0.0 z-facebook.blogspot.com
