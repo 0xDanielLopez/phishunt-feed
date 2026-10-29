@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 1122
-# Updated: 2026-10-29T13:02:47Z
+# Entries: 1123
+# Updated: 2026-10-29T22:45:26Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -73,6 +73,7 @@
 0.0.0.0 apiops-whatsapp.com
 0.0.0.0 apisys-whatsapp.com
 0.0.0.0 app-facebook.blogspot.com
+0.0.0.0 app-icloudrecover.click
 0.0.0.0 app-icloudrecovery.click
 0.0.0.0 app81-facebook.blogspot.com
 0.0.0.0 appedge-whatsapp.com
@@ -98,13 +99,8 @@
 0.0.0.0 backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 0.0.0.0 bankofamerica-secure-console.ph
 0.0.0.0 bankofamerica-tx.com
-0.0.0.0 bankofamerica-yetkisiz.ph
 0.0.0.0 bankofamericaautofinance.ph
-0.0.0.0 bankofamericacashpaycard.ph
-0.0.0.0 bankofamericacoms.ph
-0.0.0.0 bankofamericagroups.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
-0.0.0.0 bankofamericascurities.ph
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
 0.0.0.0 bbvalues.uk
@@ -271,6 +267,7 @@
 0.0.0.0 cloudsec-whatsapp.com
 0.0.0.0 cmofirst.com
 0.0.0.0 cn-feed-whatsapp.com.cn
+0.0.0.0 coinbase-assists.com
 0.0.0.0 coinbase-connetct.vercel.app
 0.0.0.0 coinbase-event.vercel.app
 0.0.0.0 coinbase.am.in
@@ -339,6 +336,7 @@
 0.0.0.0 docs-trezor-app.pages.dev
 0.0.0.0 docss-whatsapp.com
 0.0.0.0 documents-google.com
+0.0.0.0 docusignappinstalle.help
 0.0.0.0 dothome.co.kr
 0.0.0.0 dow-nload-ledger-live--doc.typedream.app
 0.0.0.0 dpd-bexnaro.com
@@ -595,6 +593,7 @@
 0.0.0.0 icloud-ayuda-online.help
 0.0.0.0 icloudweb-ext860.click
 0.0.0.0 ideeo.mx
+0.0.0.0 identidade-itau.com
 0.0.0.0 ids-whatsapp.com
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 info-eng-ledgerlive-learn.typedream.app
@@ -700,7 +699,6 @@
 0.0.0.0 kucoinlogin.blogspot.com
 0.0.0.0 kucoinloginaa.gitbook.io
 0.0.0.0 kucoinloign.gitbook.io
-0.0.0.0 kucoinquantify.com
 0.0.0.0 labapi-whatsapp.com
 0.0.0.0 labbox-whatsapp.com
 0.0.0.0 labkit-whatsapp.com
@@ -743,6 +741,7 @@
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lpfweb-whatsapp.com
 0.0.0.0 ly-facebook.blogspot.com
+0.0.0.0 m-facebooks.vn
 0.0.0.0 m4ntapaset.ink
 0.0.0.0 maccesshub.com
 0.0.0.0 macro-whatsapp.com
@@ -863,6 +862,7 @@
 0.0.0.0 orbit-whatsapp.com
 0.0.0.0 orchestrator-whatsapp.com
 0.0.0.0 orygozcb.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
+0.0.0.0 osmanoviclaw.com
 0.0.0.0 ossama-instagram.vercel.app
 0.0.0.0 outlook-login.github.io
 0.0.0.0 outlook-phi-one.vercel.app
@@ -887,7 +887,8 @@
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 pipe-whatsapp.com
 0.0.0.0 pl-875243.sbs
-0.0.0.0 pl12423422132.top
+0.0.0.0 pl-962344.sbs
+0.0.0.0 pl-smart234211123.lol
 0.0.0.0 platform-kraken.cc
 0.0.0.0 podnode-whatsapp.com
 0.0.0.0 premio-instagram.com
@@ -920,7 +921,6 @@
 0.0.0.0 roblox.com.ss
 0.0.0.0 roblox.ss
 0.0.0.0 robloxc.com.es
-0.0.0.0 robloxmarine.github.io
 0.0.0.0 rricrosoft-offices.org
 0.0.0.0 ruddycruzc.github.io
 0.0.0.0 runapp-whatsapp.com
@@ -961,6 +961,7 @@
 0.0.0.0 setkit-whatsapp.com
 0.0.0.0 setrun-whatsapp.com
 0.0.0.0 setuse-whatsapp.com
+0.0.0.0 seurexpress.wpenginepowered.com
 0.0.0.0 sharepointonline-microsoft.com
 0.0.0.0 shield-whatsapp.com
 0.0.0.0 shopping-shop.jp
@@ -1057,7 +1058,6 @@
 0.0.0.0 verifycase-apple.com
 0.0.0.0 verifytoken.com
 0.0.0.0 viewclass.com
-0.0.0.0 vinted-technologies.live
 0.0.0.0 vodafone-business-berlin.de
 0.0.0.0 vodafone-business-berlin.store
 0.0.0.0 vodafone-dachau.de
@@ -1096,7 +1096,6 @@
 0.0.0.0 whatsapp-gruppo-connect.com
 0.0.0.0 whatsapp-iamsuyash.vercel.app
 0.0.0.0 whatsapp-verify.blogspot.com
-0.0.0.0 whatsapp.tw.cn
 0.0.0.0 whatsapp11-cnj.pages.dev
 0.0.0.0 whatsappapk.org
 0.0.0.0 whatsappcampaign.online
@@ -1112,6 +1111,7 @@
 0.0.0.0 www.mxjkckus.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
 0.0.0.0 www.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-125-38.cpanel.site
 0.0.0.0 www.zygzsdwh.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
+0.0.0.0 xfinity-145t.square.site
 0.0.0.0 xfinity2.vercel.app
 0.0.0.0 xfinitybroadbandnetwork.weebly.com
 0.0.0.0 xfinitymailbox1.weebly.com
@@ -1119,6 +1119,7 @@
 0.0.0.0 xfinityservices.vercel.app
 0.0.0.0 xfinityupdatessss.weebly.com
 0.0.0.0 xfinityy111.weebly.com
+0.0.0.0 yahoo-accountregistration.weebly.com
 0.0.0.0 yahoo888.xyz
 0.0.0.0 yourwebs.app
 0.0.0.0 yzz.me

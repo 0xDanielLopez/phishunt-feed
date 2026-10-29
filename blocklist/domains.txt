@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 1122
-# Updated: 2026-10-29T13:02:46Z
+# Entries: 1123
+# Updated: 2026-10-29T22:43:08Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -73,6 +73,7 @@ apinode-whatsapp.com
 apiops-whatsapp.com
 apisys-whatsapp.com
 app-facebook.blogspot.com
+app-icloudrecover.click
 app-icloudrecovery.click
 app81-facebook.blogspot.com
 appedge-whatsapp.com
@@ -98,13 +99,8 @@ backname.io
 backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 bankofamerica-secure-console.ph
 bankofamerica-tx.com
-bankofamerica-yetkisiz.ph
 bankofamericaautofinance.ph
-bankofamericacashpaycard.ph
-bankofamericacoms.ph
-bankofamericagroups.ph
 bankofamericamailcompte.blogspot.com
-bankofamericascurities.ph
 barcelona-facebook.blogspot.com
 barclays-bank.vercel.app
 bbvalues.uk
@@ -271,6 +267,7 @@ cloudnode-whatsapp.com
 cloudsec-whatsapp.com
 cmofirst.com
 cn-feed-whatsapp.com.cn
+coinbase-assists.com
 coinbase-connetct.vercel.app
 coinbase-event.vercel.app
 coinbase.am.in
@@ -339,6 +336,7 @@ docs-google.com
 docs-trezor-app.pages.dev
 docss-whatsapp.com
 documents-google.com
+docusignappinstalle.help
 dothome.co.kr
 dow-nload-ledger-live--doc.typedream.app
 dpd-bexnaro.com
@@ -595,6 +593,7 @@ hubset-whatsapp.com
 icloud-ayuda-online.help
 icloudweb-ext860.click
 ideeo.mx
+identidade-itau.com
 ids-whatsapp.com
 ifotografix.co.uk
 info-eng-ledgerlive-learn.typedream.app
@@ -700,7 +699,6 @@ kucoinlogenac.gitbook.io
 kucoinlogin.blogspot.com
 kucoinloginaa.gitbook.io
 kucoinloign.gitbook.io
-kucoinquantify.com
 labapi-whatsapp.com
 labbox-whatsapp.com
 labkit-whatsapp.com
@@ -743,6 +741,7 @@ love-facebook.blogspot.com
 lovefive-facebook.blogspot.com
 lpfweb-whatsapp.com
 ly-facebook.blogspot.com
+m-facebooks.vn
 m4ntapaset.ink
 maccesshub.com
 macro-whatsapp.com
@@ -863,6 +862,7 @@ opsnode-whatsapp.com
 orbit-whatsapp.com
 orchestrator-whatsapp.com
 orygozcb.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
+osmanoviclaw.com
 ossama-instagram.vercel.app
 outlook-login.github.io
 outlook-phi-one.vercel.app
@@ -887,7 +887,8 @@ pi-ofeta291290.sbs
 piedrasdecolon.com.ar
 pipe-whatsapp.com
 pl-875243.sbs
-pl12423422132.top
+pl-962344.sbs
+pl-smart234211123.lol
 platform-kraken.cc
 podnode-whatsapp.com
 premio-instagram.com
@@ -920,7 +921,6 @@ roblox.com.ml
 roblox.com.ss
 roblox.ss
 robloxc.com.es
-robloxmarine.github.io
 rricrosoft-offices.org
 ruddycruzc.github.io
 runapp-whatsapp.com
@@ -961,6 +961,7 @@ sessionnode-whatsapp.com
 setkit-whatsapp.com
 setrun-whatsapp.com
 setuse-whatsapp.com
+seurexpress.wpenginepowered.com
 sharepointonline-microsoft.com
 shield-whatsapp.com
 shopping-shop.jp
@@ -1057,7 +1058,6 @@ verifyaccount-google.com
 verifycase-apple.com
 verifytoken.com
 viewclass.com
-vinted-technologies.live
 vodafone-business-berlin.de
 vodafone-business-berlin.store
 vodafone-dachau.de
@@ -1096,7 +1096,6 @@ whatsapp-fast.vercel.app
 whatsapp-gruppo-connect.com
 whatsapp-iamsuyash.vercel.app
 whatsapp-verify.blogspot.com
-whatsapp.tw.cn
 whatsapp11-cnj.pages.dev
 whatsappapk.org
 whatsappcampaign.online
@@ -1112,6 +1111,7 @@ www-apple.support
 www.mxjkckus.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
 www.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-125-38.cpanel.site
 www.zygzsdwh.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
+xfinity-145t.square.site
 xfinity2.vercel.app
 xfinitybroadbandnetwork.weebly.com
 xfinitymailbox1.weebly.com
@@ -1119,6 +1119,7 @@ xfinitymanagementsocialservice.weebly.com
 xfinityservices.vercel.app
 xfinityupdatessss.weebly.com
 xfinityy111.weebly.com
+yahoo-accountregistration.weebly.com
 yahoo888.xyz
 yourwebs.app
 yzz.me
