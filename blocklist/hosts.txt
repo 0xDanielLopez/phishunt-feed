@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 1120
-# Updated: 2026-10-28T22:23:33Z
+# Entries: 1129
+# Updated: 2026-10-29T05:49:23Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -14,6 +14,10 @@
 0.0.0.0 206.209.210.20
 0.0.0.0 394182-coinbase.com
 0.0.0.0 401283-outlookmailbox-00012-validate.weebly.com
+0.0.0.0 53784563453762.sbs
+0.0.0.0 5781852.lat
+0.0.0.0 853753-binance.com
+0.0.0.0 9064328.shop
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
 0.0.0.0 abenetgeneralservices.ca
@@ -89,11 +93,20 @@
 0.0.0.0 avaturefed.net
 0.0.0.0 await-whatsapp.com
 0.0.0.0 axm-amazon.com
+0.0.0.0 ayuda-icloud-seguridad.help
 0.0.0.0 babyamazon.top
 0.0.0.0 backname.io
 0.0.0.0 backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
+0.0.0.0 bankofamerica-secure-console.ph
+0.0.0.0 bankofamerica-secure-deposit.ph
 0.0.0.0 bankofamerica-tx.com
+0.0.0.0 bankofamerica-yetkisiz.ph
+0.0.0.0 bankofamericaautofinance.ph
+0.0.0.0 bankofamericacashpaycard.ph
+0.0.0.0 bankofamericacoms.ph
+0.0.0.0 bankofamericagroups.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
+0.0.0.0 bankofamericascurities.ph
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
 0.0.0.0 bbvalues.uk
@@ -259,6 +272,7 @@
 0.0.0.0 cloudlink-whatsapp.com
 0.0.0.0 cloudnode-whatsapp.com
 0.0.0.0 cloudsec-whatsapp.com
+0.0.0.0 cmofirst.com
 0.0.0.0 cn-feed-whatsapp.com.cn
 0.0.0.0 coinbase-connetct.vercel.app
 0.0.0.0 coinbase-event.vercel.app
@@ -327,7 +341,6 @@
 0.0.0.0 docs-trezor-app.pages.dev
 0.0.0.0 docss-whatsapp.com
 0.0.0.0 documents-google.com
-0.0.0.0 docusignauth-web-signin.fly.dev
 0.0.0.0 dothome.co.kr
 0.0.0.0 dow-nload-ledger-live--doc.typedream.app
 0.0.0.0 dpd-bexnaro.com
@@ -341,7 +354,6 @@
 0.0.0.0 drift-whatsapp.com
 0.0.0.0 drive-icloud.com
 0.0.0.0 drive03.com
-0.0.0.0 ebay-c.com
 0.0.0.0 ebay-lwholesale.com
 0.0.0.0 ebay-seller-center-managedpayments.vercel.app
 0.0.0.0 ebaymediagmdi.com
@@ -358,6 +370,7 @@
 0.0.0.0 en-ledgre.pages.dev
 0.0.0.0 ensuite-trexor.square.site
 0.0.0.0 epsilons.co
+0.0.0.0 equiperallysolucionatica.com.br
 0.0.0.0 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
 0.0.0.0 eu-facebook.blogspot.com
 0.0.0.0 eu.cc
@@ -518,10 +531,6 @@
 0.0.0.0 facebookwebsite9.blogspot.com
 0.0.0.0 fadlanfaris123-gif.github.io
 0.0.0.0 faq-trezrio.pages.dev
-0.0.0.0 fedexblack.com
-0.0.0.0 fedexi.cc
-0.0.0.0 fedexmxx.cc
-0.0.0.0 fedexoi.cc
 0.0.0.0 fedexsv.com
 0.0.0.0 fedexwp.com
 0.0.0.0 fercel.app
@@ -553,7 +562,6 @@
 0.0.0.0 googleepway.com
 0.0.0.0 googlel0gin.netlify.app
 0.0.0.0 googlelogos.com
-0.0.0.0 googlemeeeeet.live
 0.0.0.0 googlenewsgh.com
 0.0.0.0 googleoa.com
 0.0.0.0 googleplaety.com
@@ -592,11 +600,11 @@
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 info-eng-ledgerlive-learn.typedream.app
 0.0.0.0 info-facebook.blogspot.com
-0.0.0.0 infy.click
 0.0.0.0 ingdirect-accesoweb-login.com
 0.0.0.0 ingdirect-clienteweb-login.com
 0.0.0.0 ingdirect-portal-ingreso.com
 0.0.0.0 ingdirect-servicios-clientes.com
+0.0.0.0 ingdirect-usuario-login.com
 0.0.0.0 iniciamazon.com.br
 0.0.0.0 input-whatsapp.com
 0.0.0.0 instagram-2-blond.vercel.app
@@ -708,6 +716,7 @@
 0.0.0.0 ledger-live-download-auth-co.typedream.app
 0.0.0.0 ledger-live-download-sso-conect.typedream.app
 0.0.0.0 ledger-live-login-web.square.site
+0.0.0.0 ledger-lives-eu.pages.dev
 0.0.0.0 ledgrelivapp--crome.typedream.app
 0.0.0.0 ledzer-live.square.site
 0.0.0.0 legacy-whatsapp.com
@@ -870,7 +879,6 @@
 0.0.0.0 outlookmails.de
 0.0.0.0 page-instagram.vercel.app
 0.0.0.0 page-kucoin-en-us.typedream.app
-0.0.0.0 page-trezr-suits-uje.pages.dev
 0.0.0.0 paykmc.com
 0.0.0.0 paypal-logiin.blogspot.com
 0.0.0.0 paypal-password.blogspot.com
@@ -883,6 +891,9 @@
 0.0.0.0 pi-ofeta291290.sbs
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 pipe-whatsapp.com
+0.0.0.0 pl-875243.sbs
+0.0.0.0 pl-oferta769127825.cfd
+0.0.0.0 pl12423422132.top
 0.0.0.0 platform-kraken.cc
 0.0.0.0 podnode-whatsapp.com
 0.0.0.0 premio-instagram.com
@@ -1022,7 +1033,6 @@
 0.0.0.0 trezoriostart-apps.square.site
 0.0.0.0 trezorrgoappup.gitbook.io
 0.0.0.0 trust-wallet-login.vercel.app
-0.0.0.0 trustwallet-gules.vercel.app
 0.0.0.0 trustwallet-helpcenter.vercel.app
 0.0.0.0 trustwallet-secure-check.vercel.app
 0.0.0.0 trustwallet-team-support.github.io
@@ -1033,6 +1043,7 @@
 0.0.0.0 uk-facebook.blogspot.com
 0.0.0.0 unicaja-inicio.net
 0.0.0.0 updata.net.cn
+0.0.0.0 updateversion.online
 0.0.0.0 us--ledger-live-crypto-cdn-en.typedream.app
 0.0.0.0 usdt-trustwallet-blockchain.vercel.app
 0.0.0.0 usps-for-business-website-2-1.vercel.app
@@ -1046,6 +1057,7 @@
 0.0.0.0 v0-instagram-accounts.vercel.app
 0.0.0.0 v0-trezor-suite-website.vercel.app
 0.0.0.0 verificationmails.com
+0.0.0.0 verify-bankofamerica-35.ph
 0.0.0.0 verify-google-app.netlify.app
 0.0.0.0 verifyaccount-google.com
 0.0.0.0 verifycase-apple.com
@@ -1085,7 +1097,6 @@
 0.0.0.0 welcome-trezr-suite.square.site
 0.0.0.0 wellsfargosupportchat.com
 0.0.0.0 wetransfer-1.vercel.app
-0.0.0.0 whatsapp-chat-viewer-bjr.pages.dev
 0.0.0.0 whatsapp-dp-images.in
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-gruppo-connect.com
@@ -1097,7 +1108,6 @@
 0.0.0.0 whatsappcampaign.online
 0.0.0.0 whatsappdevil.com
 0.0.0.0 whatsappfreewhatsapp.blogspot.com
-0.0.0.0 whatsappgroup.vercel.app
 0.0.0.0 whatsappo-ten.vercel.app
 0.0.0.0 windows-ledger-live.typedream.app
 0.0.0.0 wooflers.com
@@ -1115,7 +1125,6 @@
 0.0.0.0 xfinityservices.vercel.app
 0.0.0.0 xfinityupdatessss.weebly.com
 0.0.0.0 xfinityy111.weebly.com
-0.0.0.0 y650uh9uhjy6tujht6r.lat
 0.0.0.0 yahoo888.xyz
 0.0.0.0 yahooer.com
 0.0.0.0 yourwebs.app

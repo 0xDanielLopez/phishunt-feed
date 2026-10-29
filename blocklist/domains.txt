@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 1120
-# Updated: 2026-10-28T22:23:02Z
+# Entries: 1129
+# Updated: 2026-10-29T05:49:22Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -14,6 +14,10 @@
 206.209.210.20
 394182-coinbase.com
 401283-outlookmailbox-00012-validate.weebly.com
+53784563453762.sbs
+5781852.lat
+853753-binance.com
+9064328.shop
 a2zapk.co
 a2zapk.dev
 abenetgeneralservices.ca
@@ -89,11 +93,20 @@ autho-facebook-appp.weebly.com
 avaturefed.net
 await-whatsapp.com
 axm-amazon.com
+ayuda-icloud-seguridad.help
 babyamazon.top
 backname.io
 backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
+bankofamerica-secure-console.ph
+bankofamerica-secure-deposit.ph
 bankofamerica-tx.com
+bankofamerica-yetkisiz.ph
+bankofamericaautofinance.ph
+bankofamericacashpaycard.ph
+bankofamericacoms.ph
+bankofamericagroups.ph
 bankofamericamailcompte.blogspot.com
+bankofamericascurities.ph
 barcelona-facebook.blogspot.com
 barclays-bank.vercel.app
 bbvalues.uk
@@ -259,6 +272,7 @@ clouddns-whatsapp.com
 cloudlink-whatsapp.com
 cloudnode-whatsapp.com
 cloudsec-whatsapp.com
+cmofirst.com
 cn-feed-whatsapp.com.cn
 coinbase-connetct.vercel.app
 coinbase-event.vercel.app
@@ -327,7 +341,6 @@ docs-google.com
 docs-trezor-app.pages.dev
 docss-whatsapp.com
 documents-google.com
-docusignauth-web-signin.fly.dev
 dothome.co.kr
 dow-nload-ledger-live--doc.typedream.app
 dpd-bexnaro.com
@@ -341,7 +354,6 @@ dpdie.live
 drift-whatsapp.com
 drive-icloud.com
 drive03.com
-ebay-c.com
 ebay-lwholesale.com
 ebay-seller-center-managedpayments.vercel.app
 ebaymediagmdi.com
@@ -358,6 +370,7 @@ en-home-trezore.pages.dev
 en-ledgre.pages.dev
 ensuite-trexor.square.site
 epsilons.co
+equiperallysolucionatica.com.br
 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
 eu-facebook.blogspot.com
 eu.cc
@@ -518,10 +531,6 @@ facebookverifyyouraccount.blogspot.com
 facebookwebsite9.blogspot.com
 fadlanfaris123-gif.github.io
 faq-trezrio.pages.dev
-fedexblack.com
-fedexi.cc
-fedexmxx.cc
-fedexoi.cc
 fedexsv.com
 fedexwp.com
 fercel.app
@@ -553,7 +562,6 @@ googleepkay.com
 googleepway.com
 googlel0gin.netlify.app
 googlelogos.com
-googlemeeeeet.live
 googlenewsgh.com
 googleoa.com
 googleplaety.com
@@ -592,11 +600,11 @@ ids-whatsapp.com
 ifotografix.co.uk
 info-eng-ledgerlive-learn.typedream.app
 info-facebook.blogspot.com
-infy.click
 ingdirect-accesoweb-login.com
 ingdirect-clienteweb-login.com
 ingdirect-portal-ingreso.com
 ingdirect-servicios-clientes.com
+ingdirect-usuario-login.com
 iniciamazon.com.br
 input-whatsapp.com
 instagram-2-blond.vercel.app
@@ -708,6 +716,7 @@ ledger-live-application.com
 ledger-live-download-auth-co.typedream.app
 ledger-live-download-sso-conect.typedream.app
 ledger-live-login-web.square.site
+ledger-lives-eu.pages.dev
 ledgrelivapp--crome.typedream.app
 ledzer-live.square.site
 legacy-whatsapp.com
@@ -870,7 +879,6 @@ outlookmail.social
 outlookmails.de
 page-instagram.vercel.app
 page-kucoin-en-us.typedream.app
-page-trezr-suits-uje.pages.dev
 paykmc.com
 paypal-logiin.blogspot.com
 paypal-password.blogspot.com
@@ -883,6 +891,9 @@ photos-instagram.vercel.app
 pi-ofeta291290.sbs
 piedrasdecolon.com.ar
 pipe-whatsapp.com
+pl-875243.sbs
+pl-oferta769127825.cfd
+pl12423422132.top
 platform-kraken.cc
 podnode-whatsapp.com
 premio-instagram.com
@@ -1022,7 +1033,6 @@ trezorguide.vercel.app
 trezoriostart-apps.square.site
 trezorrgoappup.gitbook.io
 trust-wallet-login.vercel.app
-trustwallet-gules.vercel.app
 trustwallet-helpcenter.vercel.app
 trustwallet-secure-check.vercel.app
 trustwallet-team-support.github.io
@@ -1033,6 +1043,7 @@ twitterbroker.com
 uk-facebook.blogspot.com
 unicaja-inicio.net
 updata.net.cn
+updateversion.online
 us--ledger-live-crypto-cdn-en.typedream.app
 usdt-trustwallet-blockchain.vercel.app
 usps-for-business-website-2-1.vercel.app
@@ -1046,6 +1057,7 @@ v0-exodus-wallet-app.vercel.app
 v0-instagram-accounts.vercel.app
 v0-trezor-suite-website.vercel.app
 verificationmails.com
+verify-bankofamerica-35.ph
 verify-google-app.netlify.app
 verifyaccount-google.com
 verifycase-apple.com
@@ -1085,7 +1097,6 @@ webwire-whatsapp.com
 welcome-trezr-suite.square.site
 wellsfargosupportchat.com
 wetransfer-1.vercel.app
-whatsapp-chat-viewer-bjr.pages.dev
 whatsapp-dp-images.in
 whatsapp-fast.vercel.app
 whatsapp-gruppo-connect.com
@@ -1097,7 +1108,6 @@ whatsappapk.org
 whatsappcampaign.online
 whatsappdevil.com
 whatsappfreewhatsapp.blogspot.com
-whatsappgroup.vercel.app
 whatsappo-ten.vercel.app
 windows-ledger-live.typedream.app
 wooflers.com
@@ -1115,7 +1125,6 @@ xfinitymanagementsocialservice.weebly.com
 xfinityservices.vercel.app
 xfinityupdatessss.weebly.com
 xfinityy111.weebly.com
-y650uh9uhjy6tujht6r.lat
 yahoo888.xyz
 yahooer.com
 yourwebs.app
