@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 1115
-# Updated: 2026-10-30T12:57:10Z
+# Entries: 1122
+# Updated: 2026-10-30T22:20:53Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -8,13 +8,11 @@
 
 0.0.0.0 1056804.com
 0.0.0.0 123-facebook.blogspot.com
-0.0.0.0 148.72.244.125
 0.0.0.0 1789503-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 206.209.210.20
 0.0.0.0 394182-coinbase.com
 0.0.0.0 401283-outlookmailbox-00012-validate.weebly.com
-0.0.0.0 53784563453762.sbs
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
 0.0.0.0 abenetgeneralservices.ca
@@ -249,6 +247,7 @@
 0.0.0.0 cfm-whatsapps.com
 0.0.0.0 charm-whatsapp.com
 0.0.0.0 chatgpt0005.eu.org
+0.0.0.0 chatgptdeutsch.io
 0.0.0.0 chathub-whatsapp.com
 0.0.0.0 chatlgpt.com
 0.0.0.0 checkleaked.cc
@@ -332,6 +331,7 @@
 0.0.0.0 docs-google.com
 0.0.0.0 docs-trezor-app.pages.dev
 0.0.0.0 docss-whatsapp.com
+0.0.0.0 documentation-google.com
 0.0.0.0 documents-google.com
 0.0.0.0 docusignappinstalle.help
 0.0.0.0 dothome.co.kr
@@ -512,6 +512,7 @@
 0.0.0.0 facebookpagemanagement.com
 0.0.0.0 facebookpageslinkk.blogspot.com
 0.0.0.0 facebookprofilelinks.blogspot.com
+0.0.0.0 facebooks.com.vn
 0.0.0.0 facebooksecure.blogspot.com
 0.0.0.0 facebooksecurityhelp.blogspot.com
 0.0.0.0 facebookshops.best
@@ -545,6 +546,7 @@
 0.0.0.0 ggzh-google.com.cn
 0.0.0.0 giant-whatsapp.com
 0.0.0.0 gitnode-whatsapp.com
+0.0.0.0 globaldoctors.asia
 0.0.0.0 gloronyan.github.io
 0.0.0.0 glovonetwork.com
 0.0.0.0 go-google.com
@@ -574,6 +576,7 @@
 0.0.0.0 hashnode.dev
 0.0.0.0 help-instagram.blogspot.com
 0.0.0.0 help-kraken-com-eng.square.site
+0.0.0.0 herstel-google.com
 0.0.0.0 home-facebook.blogspot.com
 0.0.0.0 hostcdn-whatsapp.com
 0.0.0.0 hostly-whatsapp.com
@@ -589,6 +592,8 @@
 0.0.0.0 hubrun-whatsapp.com
 0.0.0.0 hubset-whatsapp.com
 0.0.0.0 icloud-ayuda-online.help
+0.0.0.0 icloud-lost.us
+0.0.0.0 icloudfindermap.help
 0.0.0.0 icloudmapsfinds.help
 0.0.0.0 icloudweb-ext860.click
 0.0.0.0 ideeo.mx
@@ -612,7 +617,6 @@
 0.0.0.0 instagram-chi-ten.vercel.app
 0.0.0.0 instagram-chi.vercel.app
 0.0.0.0 instagram-com-ig.github.io
-0.0.0.0 instagram-comig.github.io
 0.0.0.0 instagram-copy.vercel.app
 0.0.0.0 instagram-cyber.github.io
 0.0.0.0 instagram-fe.vercel.app
@@ -792,6 +796,7 @@
 0.0.0.0 more-ledgerlive-en.typedream.app
 0.0.0.0 movistar-recaudo-epayc.com
 0.0.0.0 my-facebook-blog.blogspot.com
+0.0.0.0 my-spotify.app
 0.0.0.0 mykraken.exchange
 0.0.0.0 mytemp.website
 0.0.0.0 nat-whatsapp.com
@@ -838,8 +843,8 @@
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nosqldb-whatsapp.com
 0.0.0.0 nqxweb-whatsapp.com
-0.0.0.0 nr-29snm2378.sbs
 0.0.0.0 nw-facebook.blogspot.com
+0.0.0.0 oferta858493024928.cfd
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 onedrive-1-one.vercel.app
 0.0.0.0 onedrive-4-nine.vercel.app
@@ -865,10 +870,10 @@
 0.0.0.0 outlookindia.com
 0.0.0.0 outlookmail.social
 0.0.0.0 outlookmails.de
-0.0.0.0 ovfki.cn
 0.0.0.0 page-instagram.vercel.app
 0.0.0.0 page-kucoin-en-us.typedream.app
 0.0.0.0 paykmc.com
+0.0.0.0 paypal-com-aspi-dll.us
 0.0.0.0 paypal-logiin.blogspot.com
 0.0.0.0 paypal-password.blogspot.com
 0.0.0.0 paypalcorp.blogspot.com
@@ -877,10 +882,10 @@
 0.0.0.0 perplexity-beta-ads.com
 0.0.0.0 ph-whatsapp.com
 0.0.0.0 photos-instagram.vercel.app
-0.0.0.0 pi-ofeta291290.sbs
+0.0.0.0 pi-ogloiszenie439i349.shop
+0.0.0.0 pi-qprodukt.shop
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 pipe-whatsapp.com
-0.0.0.0 pl-962344.sbs
 0.0.0.0 pl-zakupy9999812141.top
 0.0.0.0 platform-kraken.cc
 0.0.0.0 podnode-whatsapp.com
@@ -897,6 +902,7 @@
 0.0.0.0 recreate-instagrampage.vercel.app
 0.0.0.0 redirecthelp.com
 0.0.0.0 register-facebook.blogspot.com
+0.0.0.0 renee-coinbase.com
 0.0.0.0 repoapi-whatsapp.com
 0.0.0.0 repocdn-whatsapp.com
 0.0.0.0 reponode-whatsapp.com
@@ -1082,6 +1088,7 @@
 0.0.0.0 welcome-trezr-suite.square.site
 0.0.0.0 wellsfargosupportchat.com
 0.0.0.0 wetransfer-1.vercel.app
+0.0.0.0 whatsapp-analyser-downloader.pages.dev
 0.0.0.0 whatsapp-dp-images.in
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-gruppo-connect.com

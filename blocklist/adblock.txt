@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 1115
-! Updated: 2026-10-30T12:57:11Z
+! Entries: 1122
+! Updated: 2026-10-30T22:20:54Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -8,13 +8,11 @@
 
 ||1056804.com^
 ||123-facebook.blogspot.com^
-||148.72.244.125^
 ||1789503-coinbase.com^
 ||2017-facebook.blogspot.com^
 ||206.209.210.20^
 ||394182-coinbase.com^
 ||401283-outlookmailbox-00012-validate.weebly.com^
-||53784563453762.sbs^
 ||a2zapk.co^
 ||a2zapk.dev^
 ||abenetgeneralservices.ca^
@@ -249,6 +247,7 @@
 ||cfm-whatsapps.com^
 ||charm-whatsapp.com^
 ||chatgpt0005.eu.org^
+||chatgptdeutsch.io^
 ||chathub-whatsapp.com^
 ||chatlgpt.com^
 ||checkleaked.cc^
@@ -332,6 +331,7 @@
 ||docs-google.com^
 ||docs-trezor-app.pages.dev^
 ||docss-whatsapp.com^
+||documentation-google.com^
 ||documents-google.com^
 ||docusignappinstalle.help^
 ||dothome.co.kr^
@@ -512,6 +512,7 @@
 ||facebookpagemanagement.com^
 ||facebookpageslinkk.blogspot.com^
 ||facebookprofilelinks.blogspot.com^
+||facebooks.com.vn^
 ||facebooksecure.blogspot.com^
 ||facebooksecurityhelp.blogspot.com^
 ||facebookshops.best^
@@ -545,6 +546,7 @@
 ||ggzh-google.com.cn^
 ||giant-whatsapp.com^
 ||gitnode-whatsapp.com^
+||globaldoctors.asia^
 ||gloronyan.github.io^
 ||glovonetwork.com^
 ||go-google.com^
@@ -574,6 +576,7 @@
 ||hashnode.dev^
 ||help-instagram.blogspot.com^
 ||help-kraken-com-eng.square.site^
+||herstel-google.com^
 ||home-facebook.blogspot.com^
 ||hostcdn-whatsapp.com^
 ||hostly-whatsapp.com^
@@ -589,6 +592,8 @@
 ||hubrun-whatsapp.com^
 ||hubset-whatsapp.com^
 ||icloud-ayuda-online.help^
+||icloud-lost.us^
+||icloudfindermap.help^
 ||icloudmapsfinds.help^
 ||icloudweb-ext860.click^
 ||ideeo.mx^
@@ -612,7 +617,6 @@
 ||instagram-chi-ten.vercel.app^
 ||instagram-chi.vercel.app^
 ||instagram-com-ig.github.io^
-||instagram-comig.github.io^
 ||instagram-copy.vercel.app^
 ||instagram-cyber.github.io^
 ||instagram-fe.vercel.app^
@@ -792,6 +796,7 @@
 ||more-ledgerlive-en.typedream.app^
 ||movistar-recaudo-epayc.com^
 ||my-facebook-blog.blogspot.com^
+||my-spotify.app^
 ||mykraken.exchange^
 ||mytemp.website^
 ||nat-whatsapp.com^
@@ -838,8 +843,8 @@
 ||noreply-icloud.app^
 ||nosqldb-whatsapp.com^
 ||nqxweb-whatsapp.com^
-||nr-29snm2378.sbs^
 ||nw-facebook.blogspot.com^
+||oferta858493024928.cfd^
 ||office365licensingsupport.com^
 ||onedrive-1-one.vercel.app^
 ||onedrive-4-nine.vercel.app^
@@ -865,10 +870,10 @@
 ||outlookindia.com^
 ||outlookmail.social^
 ||outlookmails.de^
-||ovfki.cn^
 ||page-instagram.vercel.app^
 ||page-kucoin-en-us.typedream.app^
 ||paykmc.com^
+||paypal-com-aspi-dll.us^
 ||paypal-logiin.blogspot.com^
 ||paypal-password.blogspot.com^
 ||paypalcorp.blogspot.com^
@@ -877,10 +882,10 @@
 ||perplexity-beta-ads.com^
 ||ph-whatsapp.com^
 ||photos-instagram.vercel.app^
-||pi-ofeta291290.sbs^
+||pi-ogloiszenie439i349.shop^
+||pi-qprodukt.shop^
 ||piedrasdecolon.com.ar^
 ||pipe-whatsapp.com^
-||pl-962344.sbs^
 ||pl-zakupy9999812141.top^
 ||platform-kraken.cc^
 ||podnode-whatsapp.com^
@@ -897,6 +902,7 @@
 ||recreate-instagrampage.vercel.app^
 ||redirecthelp.com^
 ||register-facebook.blogspot.com^
+||renee-coinbase.com^
 ||repoapi-whatsapp.com^
 ||repocdn-whatsapp.com^
 ||reponode-whatsapp.com^
@@ -1082,6 +1088,7 @@
 ||welcome-trezr-suite.square.site^
 ||wellsfargosupportchat.com^
 ||wetransfer-1.vercel.app^
+||whatsapp-analyser-downloader.pages.dev^
 ||whatsapp-dp-images.in^
 ||whatsapp-fast.vercel.app^
 ||whatsapp-gruppo-connect.com^
