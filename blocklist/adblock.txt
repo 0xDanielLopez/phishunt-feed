@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 1133
-! Updated: 2026-10-30T05:50:39Z
+! Entries: 1115
+! Updated: 2026-10-30T12:57:11Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -15,9 +15,6 @@
 ||394182-coinbase.com^
 ||401283-outlookmailbox-00012-validate.weebly.com^
 ||53784563453762.sbs^
-||68975430.lol^
-||853753-binance.com^
-||8987645.lat^
 ||a2zapk.co^
 ||a2zapk.dev^
 ||abenetgeneralservices.ca^
@@ -96,13 +93,9 @@
 ||await-whatsapp.com^
 ||axm-amazon.com^
 ||ayuda-icloud-seguridad.help^
-||babyamazon.top^
 ||backname.io^
 ||backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site^
-||bankofamerica-cgi.ph^
 ||bankofamerica-tx.com^
-||bankofamericaautofinance.ph^
-||bankofamericahomemortgages.ph^
 ||bankofamericamailcompte.blogspot.com^
 ||barcelona-facebook.blogspot.com^
 ||barclays-bank.vercel.app^
@@ -123,6 +116,7 @@
 ||binanceii.com^
 ||binancelivetrade.blogspot.com^
 ||binancenn.com^
+||binanceokc.com^
 ||binancereferralid.github.io^
 ||binanceuz.co^
 ||binancewallett.blogspot.com^
@@ -367,6 +361,7 @@
 ||ember-whatsapp.com^
 ||en-home-trezore.pages.dev^
 ||en-ledgre.pages.dev^
+||en-onedrive.com^
 ||ensuite-trexor.square.site^
 ||epsilons.co^
 ||erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org^
@@ -529,7 +524,6 @@
 ||facebookwebsite9.blogspot.com^
 ||fadlanfaris123-gif.github.io^
 ||faq-trezrio.pages.dev^
-||fedex-order.com^
 ||fedexsv.com^
 ||fedexwp.com^
 ||fercel.app^
@@ -553,6 +547,7 @@
 ||gitnode-whatsapp.com^
 ||gloronyan.github.io^
 ||glovonetwork.com^
+||go-google.com^
 ||google-apk.com^
 ||google1208.com^
 ||google1302.com^
@@ -573,7 +568,6 @@
 ||googleppy.com^
 ||googlestore.cc^
 ||gpay-google.net^
-||grn-microsoft-outlook.vercel.app^
 ||gzlweb-whatsapp.com^
 ||hameem.net^
 ||happy-whatsapp.com^
@@ -598,7 +592,6 @@
 ||icloudmapsfinds.help^
 ||icloudweb-ext860.click^
 ||ideeo.mx^
-||identidade-itau.com^
 ||ids-whatsapp.com^
 ||ifotografix.co.uk^
 ||info-eng-ledgerlive-learn.typedream.app^
@@ -640,7 +633,6 @@
 ||instagram-nu-six.vercel.app^
 ||instagram-one-alpha.vercel.app^
 ||instagram-open.blogspot.com^
-||instagram-reels-funny-every-viral-reels.github.io^
 ||instagram-register.blogspot.com^
 ||instagram-ten-blond.vercel.app^
 ||instagram-test.vercel.app^
@@ -649,7 +641,6 @@
 ||instagram-usman-haider.vercel.app^
 ||instagram157.github.io^
 ||instagram90sedition.vercel.app^
-||instagramaaps-code.github.io^
 ||instagramaccount.info^
 ||instagramaccounthacks.blogspot.com^
 ||instagramchatsview999.blogspot.com^
@@ -659,7 +650,6 @@
 ||instagramfollowers7894.blogspot.com^
 ||instagramfollowersfake.blogspot.com^
 ||instagramlikescheap.blogspot.com^
-||instagramlogin-accounts-logintocontinue.github.io^
 ||instagramlogin-k.blogspot.com^
 ||instagramlogin08.blogspot.com^
 ||instagramlogin124.blogspot.com^
@@ -797,13 +787,11 @@
 ||mirror-google.com^
 ||mkwweb-whatsapp.com^
 ||ml-facebook.blogspot.com^
-||mobile-google.cn^
 ||model-whatsapp.com^
 ||mono-whatsapp.com^
 ||more-ledgerlive-en.typedream.app^
 ||movistar-recaudo-epayc.com^
 ||my-facebook-blog.blogspot.com^
-||my-spotify.app^
 ||mykraken.exchange^
 ||mytemp.website^
 ||nat-whatsapp.com^
@@ -850,10 +838,8 @@
 ||noreply-icloud.app^
 ||nosqldb-whatsapp.com^
 ||nqxweb-whatsapp.com^
-||nr-28sn2387m.sbs^
 ||nr-29snm2378.sbs^
 ||nw-facebook.blogspot.com^
-||oferta-7321454.cfd^
 ||office365licensingsupport.com^
 ||onedrive-1-one.vercel.app^
 ||onedrive-4-nine.vercel.app^
@@ -861,7 +847,6 @@
 ||opensea-six.vercel.app^
 ||openseaproks007.vercel.app^
 ||openseavxr.vercel.app^
-||operation-bankofamerica.ph^
 ||opsbox-whatsapp.com^
 ||opshub-whatsapp.com^
 ||opskit-whatsapp.com^
@@ -872,11 +857,11 @@
 ||orygozcb.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site^
 ||osmanoviclaw.com^
 ||ossama-instagram.vercel.app^
-||outlook-login.github.io^
 ||outlook-phi-one.vercel.app^
 ||outlook-serv-coral.vercel.app^
 ||outlook-silk-nine.vercel.app^
 ||outlook.us.org^
+||outlook1.cc^
 ||outlookindia.com^
 ||outlookmail.social^
 ||outlookmails.de^
@@ -896,7 +881,6 @@
 ||piedrasdecolon.com.ar^
 ||pipe-whatsapp.com^
 ||pl-962344.sbs^
-||pl-smart234211123.lol^
 ||pl-zakupy9999812141.top^
 ||platform-kraken.cc^
 ||podnode-whatsapp.com^
@@ -941,7 +925,6 @@
 ||sagers.com^
 ||sample-whatsapp.com^
 ||samplel-ks6yxvur5-instagramm.vercel.app^
-||santander-br.netlify.app^
 ||santander-dev-week.vercel.app^
 ||santander-inicio.vercel.app^
 ||santander-remaster-whats-fb-kappa.vercel.app^
@@ -1009,7 +992,6 @@
 ||sugar-outlook.com^
 ||suite-app-docs-trezr.typedream.app^
 ||support-apple.help^
-||support-instagram.github.io^
 ||support-ledgerlive-eng.typedream.app^
 ||support-ledgrcom-start-web.typedream.app^
 ||support24h.app^

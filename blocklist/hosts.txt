@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 1133
-# Updated: 2026-10-30T05:50:38Z
+# Entries: 1115
+# Updated: 2026-10-30T12:57:10Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -15,9 +15,6 @@
 0.0.0.0 394182-coinbase.com
 0.0.0.0 401283-outlookmailbox-00012-validate.weebly.com
 0.0.0.0 53784563453762.sbs
-0.0.0.0 68975430.lol
-0.0.0.0 853753-binance.com
-0.0.0.0 8987645.lat
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
 0.0.0.0 abenetgeneralservices.ca
@@ -96,13 +93,9 @@
 0.0.0.0 await-whatsapp.com
 0.0.0.0 axm-amazon.com
 0.0.0.0 ayuda-icloud-seguridad.help
-0.0.0.0 babyamazon.top
 0.0.0.0 backname.io
 0.0.0.0 backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
-0.0.0.0 bankofamerica-cgi.ph
 0.0.0.0 bankofamerica-tx.com
-0.0.0.0 bankofamericaautofinance.ph
-0.0.0.0 bankofamericahomemortgages.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
@@ -123,6 +116,7 @@
 0.0.0.0 binanceii.com
 0.0.0.0 binancelivetrade.blogspot.com
 0.0.0.0 binancenn.com
+0.0.0.0 binanceokc.com
 0.0.0.0 binancereferralid.github.io
 0.0.0.0 binanceuz.co
 0.0.0.0 binancewallett.blogspot.com
@@ -367,6 +361,7 @@
 0.0.0.0 ember-whatsapp.com
 0.0.0.0 en-home-trezore.pages.dev
 0.0.0.0 en-ledgre.pages.dev
+0.0.0.0 en-onedrive.com
 0.0.0.0 ensuite-trexor.square.site
 0.0.0.0 epsilons.co
 0.0.0.0 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
@@ -529,7 +524,6 @@
 0.0.0.0 facebookwebsite9.blogspot.com
 0.0.0.0 fadlanfaris123-gif.github.io
 0.0.0.0 faq-trezrio.pages.dev
-0.0.0.0 fedex-order.com
 0.0.0.0 fedexsv.com
 0.0.0.0 fedexwp.com
 0.0.0.0 fercel.app
@@ -553,6 +547,7 @@
 0.0.0.0 gitnode-whatsapp.com
 0.0.0.0 gloronyan.github.io
 0.0.0.0 glovonetwork.com
+0.0.0.0 go-google.com
 0.0.0.0 google-apk.com
 0.0.0.0 google1208.com
 0.0.0.0 google1302.com
@@ -573,7 +568,6 @@
 0.0.0.0 googleppy.com
 0.0.0.0 googlestore.cc
 0.0.0.0 gpay-google.net
-0.0.0.0 grn-microsoft-outlook.vercel.app
 0.0.0.0 gzlweb-whatsapp.com
 0.0.0.0 hameem.net
 0.0.0.0 happy-whatsapp.com
@@ -598,7 +592,6 @@
 0.0.0.0 icloudmapsfinds.help
 0.0.0.0 icloudweb-ext860.click
 0.0.0.0 ideeo.mx
-0.0.0.0 identidade-itau.com
 0.0.0.0 ids-whatsapp.com
 0.0.0.0 ifotografix.co.uk
 0.0.0.0 info-eng-ledgerlive-learn.typedream.app
@@ -640,7 +633,6 @@
 0.0.0.0 instagram-nu-six.vercel.app
 0.0.0.0 instagram-one-alpha.vercel.app
 0.0.0.0 instagram-open.blogspot.com
-0.0.0.0 instagram-reels-funny-every-viral-reels.github.io
 0.0.0.0 instagram-register.blogspot.com
 0.0.0.0 instagram-ten-blond.vercel.app
 0.0.0.0 instagram-test.vercel.app
@@ -649,7 +641,6 @@
 0.0.0.0 instagram-usman-haider.vercel.app
 0.0.0.0 instagram157.github.io
 0.0.0.0 instagram90sedition.vercel.app
-0.0.0.0 instagramaaps-code.github.io
 0.0.0.0 instagramaccount.info
 0.0.0.0 instagramaccounthacks.blogspot.com
 0.0.0.0 instagramchatsview999.blogspot.com
@@ -659,7 +650,6 @@
 0.0.0.0 instagramfollowers7894.blogspot.com
 0.0.0.0 instagramfollowersfake.blogspot.com
 0.0.0.0 instagramlikescheap.blogspot.com
-0.0.0.0 instagramlogin-accounts-logintocontinue.github.io
 0.0.0.0 instagramlogin-k.blogspot.com
 0.0.0.0 instagramlogin08.blogspot.com
 0.0.0.0 instagramlogin124.blogspot.com
@@ -797,13 +787,11 @@
 0.0.0.0 mirror-google.com
 0.0.0.0 mkwweb-whatsapp.com
 0.0.0.0 ml-facebook.blogspot.com
-0.0.0.0 mobile-google.cn
 0.0.0.0 model-whatsapp.com
 0.0.0.0 mono-whatsapp.com
 0.0.0.0 more-ledgerlive-en.typedream.app
 0.0.0.0 movistar-recaudo-epayc.com
 0.0.0.0 my-facebook-blog.blogspot.com
-0.0.0.0 my-spotify.app
 0.0.0.0 mykraken.exchange
 0.0.0.0 mytemp.website
 0.0.0.0 nat-whatsapp.com
@@ -850,10 +838,8 @@
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nosqldb-whatsapp.com
 0.0.0.0 nqxweb-whatsapp.com
-0.0.0.0 nr-28sn2387m.sbs
 0.0.0.0 nr-29snm2378.sbs
 0.0.0.0 nw-facebook.blogspot.com
-0.0.0.0 oferta-7321454.cfd
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 onedrive-1-one.vercel.app
 0.0.0.0 onedrive-4-nine.vercel.app
@@ -861,7 +847,6 @@
 0.0.0.0 opensea-six.vercel.app
 0.0.0.0 openseaproks007.vercel.app
 0.0.0.0 openseavxr.vercel.app
-0.0.0.0 operation-bankofamerica.ph
 0.0.0.0 opsbox-whatsapp.com
 0.0.0.0 opshub-whatsapp.com
 0.0.0.0 opskit-whatsapp.com
@@ -872,11 +857,11 @@
 0.0.0.0 orygozcb.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
 0.0.0.0 osmanoviclaw.com
 0.0.0.0 ossama-instagram.vercel.app
-0.0.0.0 outlook-login.github.io
 0.0.0.0 outlook-phi-one.vercel.app
 0.0.0.0 outlook-serv-coral.vercel.app
 0.0.0.0 outlook-silk-nine.vercel.app
 0.0.0.0 outlook.us.org
+0.0.0.0 outlook1.cc
 0.0.0.0 outlookindia.com
 0.0.0.0 outlookmail.social
 0.0.0.0 outlookmails.de
@@ -896,7 +881,6 @@
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 pipe-whatsapp.com
 0.0.0.0 pl-962344.sbs
-0.0.0.0 pl-smart234211123.lol
 0.0.0.0 pl-zakupy9999812141.top
 0.0.0.0 platform-kraken.cc
 0.0.0.0 podnode-whatsapp.com
@@ -941,7 +925,6 @@
 0.0.0.0 sagers.com
 0.0.0.0 sample-whatsapp.com
 0.0.0.0 samplel-ks6yxvur5-instagramm.vercel.app
-0.0.0.0 santander-br.netlify.app
 0.0.0.0 santander-dev-week.vercel.app
 0.0.0.0 santander-inicio.vercel.app
 0.0.0.0 santander-remaster-whats-fb-kappa.vercel.app
@@ -1009,7 +992,6 @@
 0.0.0.0 sugar-outlook.com
 0.0.0.0 suite-app-docs-trezr.typedream.app
 0.0.0.0 support-apple.help
-0.0.0.0 support-instagram.github.io
 0.0.0.0 support-ledgerlive-eng.typedream.app
 0.0.0.0 support-ledgrcom-start-web.typedream.app
 0.0.0.0 support24h.app
