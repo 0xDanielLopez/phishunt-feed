@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 1123
-# Updated: 2026-10-29T22:45:26Z
+# Entries: 1133
+# Updated: 2026-10-30T05:50:38Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -15,8 +15,9 @@
 0.0.0.0 394182-coinbase.com
 0.0.0.0 401283-outlookmailbox-00012-validate.weebly.com
 0.0.0.0 53784563453762.sbs
+0.0.0.0 68975430.lol
 0.0.0.0 853753-binance.com
-0.0.0.0 9064328.shop
+0.0.0.0 8987645.lat
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
 0.0.0.0 abenetgeneralservices.ca
@@ -50,6 +51,7 @@
 0.0.0.0 amazon-signin-update-payment-secure-verify-billing-mainsec.40-124-80-100.cpanel.site
 0.0.0.0 amb-whatsapp.com
 0.0.0.0 amc-whatsapp.com
+0.0.0.0 amchemchemicals.in
 0.0.0.0 amd-whatsapp.com
 0.0.0.0 amf-whatsapp.com
 0.0.0.0 amg-whatsapp.com
@@ -97,9 +99,10 @@
 0.0.0.0 babyamazon.top
 0.0.0.0 backname.io
 0.0.0.0 backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
-0.0.0.0 bankofamerica-secure-console.ph
+0.0.0.0 bankofamerica-cgi.ph
 0.0.0.0 bankofamerica-tx.com
 0.0.0.0 bankofamericaautofinance.ph
+0.0.0.0 bankofamericahomemortgages.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
@@ -366,7 +369,6 @@
 0.0.0.0 en-ledgre.pages.dev
 0.0.0.0 ensuite-trexor.square.site
 0.0.0.0 epsilons.co
-0.0.0.0 equiperallysolucionatica.com.br
 0.0.0.0 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
 0.0.0.0 eu-facebook.blogspot.com
 0.0.0.0 eu.cc
@@ -527,6 +529,7 @@
 0.0.0.0 facebookwebsite9.blogspot.com
 0.0.0.0 fadlanfaris123-gif.github.io
 0.0.0.0 faq-trezrio.pages.dev
+0.0.0.0 fedex-order.com
 0.0.0.0 fedexsv.com
 0.0.0.0 fedexwp.com
 0.0.0.0 fercel.app
@@ -534,9 +537,11 @@
 0.0.0.0 firewall-whatsapp.com
 0.0.0.0 flame-whatsapp.com
 0.0.0.0 flazio.online
+0.0.0.0 folder-onedrive-live.com
 0.0.0.0 format-whatsapp.com
 0.0.0.0 forsakens-crew-teman-facebook.blogspot.com
 0.0.0.0 free-facebook-page-likes.blogspot.com
+0.0.0.0 freeopenai.me
 0.0.0.0 fwh.is
 0.0.0.0 g0ogle.com
 0.0.0.0 gafiatechnologies.com
@@ -549,7 +554,6 @@
 0.0.0.0 gloronyan.github.io
 0.0.0.0 glovonetwork.com
 0.0.0.0 google-apk.com
-0.0.0.0 google-live-maps.com
 0.0.0.0 google1208.com
 0.0.0.0 google1302.com
 0.0.0.0 google1308.com
@@ -591,6 +595,7 @@
 0.0.0.0 hubrun-whatsapp.com
 0.0.0.0 hubset-whatsapp.com
 0.0.0.0 icloud-ayuda-online.help
+0.0.0.0 icloudmapsfinds.help
 0.0.0.0 icloudweb-ext860.click
 0.0.0.0 ideeo.mx
 0.0.0.0 identidade-itau.com
@@ -726,6 +731,7 @@
 0.0.0.0 linkhub-whatsapp.com
 0.0.0.0 lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
 0.0.0.0 lobster-cloud.com
+0.0.0.0 locations-icloud.us
 0.0.0.0 log-in-facebook.blogspot.com
 0.0.0.0 login-facebook-facebook.blogspot.com
 0.0.0.0 login-facebookaccount.blogspot.com
@@ -844,9 +850,10 @@
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nosqldb-whatsapp.com
 0.0.0.0 nqxweb-whatsapp.com
+0.0.0.0 nr-28sn2387m.sbs
 0.0.0.0 nr-29snm2378.sbs
 0.0.0.0 nw-facebook.blogspot.com
-0.0.0.0 oferta-74523211.cfd
+0.0.0.0 oferta-7321454.cfd
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 onedrive-1-one.vercel.app
 0.0.0.0 onedrive-4-nine.vercel.app
@@ -854,6 +861,7 @@
 0.0.0.0 opensea-six.vercel.app
 0.0.0.0 openseaproks007.vercel.app
 0.0.0.0 openseavxr.vercel.app
+0.0.0.0 operation-bankofamerica.ph
 0.0.0.0 opsbox-whatsapp.com
 0.0.0.0 opshub-whatsapp.com
 0.0.0.0 opskit-whatsapp.com
@@ -872,6 +880,7 @@
 0.0.0.0 outlookindia.com
 0.0.0.0 outlookmail.social
 0.0.0.0 outlookmails.de
+0.0.0.0 ovfki.cn
 0.0.0.0 page-instagram.vercel.app
 0.0.0.0 page-kucoin-en-us.typedream.app
 0.0.0.0 paykmc.com
@@ -886,9 +895,9 @@
 0.0.0.0 pi-ofeta291290.sbs
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 pipe-whatsapp.com
-0.0.0.0 pl-875243.sbs
 0.0.0.0 pl-962344.sbs
 0.0.0.0 pl-smart234211123.lol
+0.0.0.0 pl-zakupy9999812141.top
 0.0.0.0 platform-kraken.cc
 0.0.0.0 podnode-whatsapp.com
 0.0.0.0 premio-instagram.com
@@ -909,6 +918,7 @@
 0.0.0.0 reponode-whatsapp.com
 0.0.0.0 resolver-whatsapp.com
 0.0.0.0 rev.it
+0.0.0.0 rezerwacja42589.click
 0.0.0.0 roblox-login.vercel.app
 0.0.0.0 roblox.com.am
 0.0.0.0 roblox.com.bo
@@ -938,7 +948,6 @@
 0.0.0.0 santander-remaster-whats-fb.vercel.app
 0.0.0.0 santanderbizum.com
 0.0.0.0 santandercitas.com
-0.0.0.0 santino-c.github.io
 0.0.0.0 saque-instagram.com
 0.0.0.0 search.er.in
 0.0.0.0 seclab-whatsapp.com
@@ -1095,6 +1104,7 @@
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-gruppo-connect.com
 0.0.0.0 whatsapp-iamsuyash.vercel.app
+0.0.0.0 whatsapp-me.web.id
 0.0.0.0 whatsapp-verify.blogspot.com
 0.0.0.0 whatsapp11-cnj.pages.dev
 0.0.0.0 whatsappapk.org

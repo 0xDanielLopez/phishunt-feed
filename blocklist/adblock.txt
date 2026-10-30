@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 1123
-! Updated: 2026-10-29T22:45:27Z
+! Entries: 1133
+! Updated: 2026-10-30T05:50:39Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -15,8 +15,9 @@
 ||394182-coinbase.com^
 ||401283-outlookmailbox-00012-validate.weebly.com^
 ||53784563453762.sbs^
+||68975430.lol^
 ||853753-binance.com^
-||9064328.shop^
+||8987645.lat^
 ||a2zapk.co^
 ||a2zapk.dev^
 ||abenetgeneralservices.ca^
@@ -50,6 +51,7 @@
 ||amazon-signin-update-payment-secure-verify-billing-mainsec.40-124-80-100.cpanel.site^
 ||amb-whatsapp.com^
 ||amc-whatsapp.com^
+||amchemchemicals.in^
 ||amd-whatsapp.com^
 ||amf-whatsapp.com^
 ||amg-whatsapp.com^
@@ -97,9 +99,10 @@
 ||babyamazon.top^
 ||backname.io^
 ||backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site^
-||bankofamerica-secure-console.ph^
+||bankofamerica-cgi.ph^
 ||bankofamerica-tx.com^
 ||bankofamericaautofinance.ph^
+||bankofamericahomemortgages.ph^
 ||bankofamericamailcompte.blogspot.com^
 ||barcelona-facebook.blogspot.com^
 ||barclays-bank.vercel.app^
@@ -366,7 +369,6 @@
 ||en-ledgre.pages.dev^
 ||ensuite-trexor.square.site^
 ||epsilons.co^
-||equiperallysolucionatica.com.br^
 ||erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org^
 ||eu-facebook.blogspot.com^
 ||eu.cc^
@@ -527,6 +529,7 @@
 ||facebookwebsite9.blogspot.com^
 ||fadlanfaris123-gif.github.io^
 ||faq-trezrio.pages.dev^
+||fedex-order.com^
 ||fedexsv.com^
 ||fedexwp.com^
 ||fercel.app^
@@ -534,9 +537,11 @@
 ||firewall-whatsapp.com^
 ||flame-whatsapp.com^
 ||flazio.online^
+||folder-onedrive-live.com^
 ||format-whatsapp.com^
 ||forsakens-crew-teman-facebook.blogspot.com^
 ||free-facebook-page-likes.blogspot.com^
+||freeopenai.me^
 ||fwh.is^
 ||g0ogle.com^
 ||gafiatechnologies.com^
@@ -549,7 +554,6 @@
 ||gloronyan.github.io^
 ||glovonetwork.com^
 ||google-apk.com^
-||google-live-maps.com^
 ||google1208.com^
 ||google1302.com^
 ||google1308.com^
@@ -591,6 +595,7 @@
 ||hubrun-whatsapp.com^
 ||hubset-whatsapp.com^
 ||icloud-ayuda-online.help^
+||icloudmapsfinds.help^
 ||icloudweb-ext860.click^
 ||ideeo.mx^
 ||identidade-itau.com^
@@ -726,6 +731,7 @@
 ||linkhub-whatsapp.com^
 ||lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org^
 ||lobster-cloud.com^
+||locations-icloud.us^
 ||log-in-facebook.blogspot.com^
 ||login-facebook-facebook.blogspot.com^
 ||login-facebookaccount.blogspot.com^
@@ -844,9 +850,10 @@
 ||noreply-icloud.app^
 ||nosqldb-whatsapp.com^
 ||nqxweb-whatsapp.com^
+||nr-28sn2387m.sbs^
 ||nr-29snm2378.sbs^
 ||nw-facebook.blogspot.com^
-||oferta-74523211.cfd^
+||oferta-7321454.cfd^
 ||office365licensingsupport.com^
 ||onedrive-1-one.vercel.app^
 ||onedrive-4-nine.vercel.app^
@@ -854,6 +861,7 @@
 ||opensea-six.vercel.app^
 ||openseaproks007.vercel.app^
 ||openseavxr.vercel.app^
+||operation-bankofamerica.ph^
 ||opsbox-whatsapp.com^
 ||opshub-whatsapp.com^
 ||opskit-whatsapp.com^
@@ -872,6 +880,7 @@
 ||outlookindia.com^
 ||outlookmail.social^
 ||outlookmails.de^
+||ovfki.cn^
 ||page-instagram.vercel.app^
 ||page-kucoin-en-us.typedream.app^
 ||paykmc.com^
@@ -886,9 +895,9 @@
 ||pi-ofeta291290.sbs^
 ||piedrasdecolon.com.ar^
 ||pipe-whatsapp.com^
-||pl-875243.sbs^
 ||pl-962344.sbs^
 ||pl-smart234211123.lol^
+||pl-zakupy9999812141.top^
 ||platform-kraken.cc^
 ||podnode-whatsapp.com^
 ||premio-instagram.com^
@@ -909,6 +918,7 @@
 ||reponode-whatsapp.com^
 ||resolver-whatsapp.com^
 ||rev.it^
+||rezerwacja42589.click^
 ||roblox-login.vercel.app^
 ||roblox.com.am^
 ||roblox.com.bo^
@@ -938,7 +948,6 @@
 ||santander-remaster-whats-fb.vercel.app^
 ||santanderbizum.com^
 ||santandercitas.com^
-||santino-c.github.io^
 ||saque-instagram.com^
 ||search.er.in^
 ||seclab-whatsapp.com^
@@ -1095,6 +1104,7 @@
 ||whatsapp-fast.vercel.app^
 ||whatsapp-gruppo-connect.com^
 ||whatsapp-iamsuyash.vercel.app^
+||whatsapp-me.web.id^
 ||whatsapp-verify.blogspot.com^
 ||whatsapp11-cnj.pages.dev^
 ||whatsappapk.org^
