@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 1122
-! Updated: 2026-10-31T12:31:37Z
+! Entries: 1129
+! Updated: 2026-10-31T21:35:50Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -21,6 +21,7 @@
 ||acounts-google.duckdns.org^
 ||action-whatsapp.com^
 ||admin.bill-netflix-dashboard-account.104-248-114-136.cpanel.site^
+||adobefileviewer.dpdns.org^
 ||adobeinstaller-virid.vercel.app^
 ||aggregator-whatsapp.com^
 ||ajz-whatsapp.com^
@@ -66,7 +67,6 @@
 ||apilab-whatsapp.com^
 ||apimail-whatsapp.com^
 ||apinet-whatsapp.com^
-||apinode-whatsapp.com^
 ||apiops-whatsapp.com^
 ||apisys-whatsapp.com^
 ||app-facebook.blogspot.com^
@@ -81,9 +81,11 @@
 ||appleid-icloudmac.com^
 ||appleinc-support.info^
 ||appops-whatsapp.com^
+||apps.microsofth.com^
 ||appsec-whatsapp.com^
 ||ashy-moss-0bc074f03.5.azurestaticapps.net^
 ||asso-entrautres.fr^
+||auth.microsofth.com^
 ||authapi-whatsapp.com^
 ||authcdn-whatsapp.com^
 ||authnode-whatsapp.com^
@@ -92,10 +94,13 @@
 ||await-whatsapp.com^
 ||axm-amazon.com^
 ||ayuda-icloud-seguridad.help^
+||azure.microsofth.com^
 ||backname.io^
 ||backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site^
+||bankofamerica-chi.ph^
 ||bankofamerica-tx.com^
 ||bankofamericacart.ph^
+||bankofamericaespanol.ph^
 ||bankofamericamailcompte.blogspot.com^
 ||barcelona-facebook.blogspot.com^
 ||barclays-bank.vercel.app^
@@ -121,12 +126,9 @@
 ||binanceuz.co^
 ||binancewallett.blogspot.com^
 ||biowikiweb.com^
-||bld-whatsapp.com^
 ||ble-whatsapp.com^
 ||blf-whatsapp.com^
-||blg-whatsapp.com^
 ||blh-whatsapp.com^
-||bli-whatsapp.com^
 ||bliss-whatsapp.com^
 ||bll-whatsapp.com^
 ||blm-whatsapp.com^
@@ -253,23 +255,27 @@
 ||click-facebook.blogspot.com^
 ||clientapi-whatsapp.com^
 ||clientcdn-whatsapp.com^
+||cloud.microsofth.com^
 ||cloudapi-whatsapp.com^
 ||cloudcdn-whatsapp.com^
 ||clouddns-whatsapp.com^
 ||cloudlink-whatsapp.com^
 ||cloudnode-whatsapp.com^
 ||cloudsec-whatsapp.com^
-||cmofirst.com^
 ||cn-feed-whatsapp.com.cn^
 ||coinbase-assists.com^
 ||coinbase-connetct.vercel.app^
 ||coinbase-event.vercel.app^
 ||coinbase.am.in^
 ||coinbase.com.lc^
+||coinbaseprolnb.com^
+||coinbaseprolng.com^
+||coinbaseprolns.com^
 ||coinbaseprologinv.gitbook.io^
 ||coinbaseverify.vercel.app^
 ||column-whatsapp.com^
 ||com-microsoftonline-ondrive.ca^
+||com.microsofth.com^
 ||comcast-1-zeta.vercel.app^
 ||comcast-2-iota.vercel.app^
 ||comcast-2.vercel.app^
@@ -286,7 +292,6 @@
 ||content-binance.com^
 ||cookieapi-whatsapp.com^
 ||cookienode-whatsapp.com^
-||copy-instagram.vercel.app^
 ||coral-whatsapp.com^
 ||corenode-whatsapp.com^
 ||corepush-whatsapp.com^
@@ -300,6 +305,7 @@
 ||cz-facebook.blogspot.com^
 ||danielnegru.com^
 ||daservglobal.com^
+||data.microsofth.com^
 ||datahost-whatsapp.com^
 ||dbcache-whatsapp.com^
 ||de-paypal-sec.com^
@@ -332,6 +338,7 @@
 ||documentation-google.com^
 ||documents-google.com^
 ||dothome.co.kr^
+||dotnet.microsofth.com^
 ||dow-nload-ledger-live--doc.typedream.app^
 ||dpd-bexnaro.com^
 ||dpd-calviro.click^
@@ -348,7 +355,10 @@
 ||ebay-phone-number.blogspot.com^
 ||ebay-seller-center-managedpayments.vercel.app^
 ||ebaymediagmdi.com^
+||ebaymediagms.com^
 ||ebaymevip.com^
+||ebaymevips.com^
+||edge.microsofth.com^
 ||edgeapi-whatsapp.com^
 ||edgecdn-whatsapp.com^
 ||edgehost-whatsapp.com^
@@ -523,6 +533,7 @@
 ||facebookwebsite9.blogspot.com^
 ||fadlanfaris123-gif.github.io^
 ||faq-trezrio.pages.dev^
+||fedex-delivery.club^
 ||fedexsv.com^
 ||fedexwp.com^
 ||fercel.app^
@@ -530,6 +541,7 @@
 ||firewall-whatsapp.com^
 ||flame-whatsapp.com^
 ||flazio.online^
+||flow.microsofth.com^
 ||format-whatsapp.com^
 ||forsakens-crew-teman-facebook.blogspot.com^
 ||free-facebook-page-likes.blogspot.com^
@@ -556,6 +568,7 @@
 ||googleepkay.com^
 ||googleepway.com^
 ||googlel0gin.netlify.app^
+||googlelikenadav.com^
 ||googlelogos.com^
 ||googlenewsgh.com^
 ||googleoa.com^
@@ -566,13 +579,13 @@
 ||googleplrzy.com^
 ||googleppy.com^
 ||googlestore.cc^
-||gpay-google.net^
 ||gzlweb-whatsapp.com^
 ||hameem.net^
 ||happy-whatsapp.com^
 ||hashnode.dev^
 ||help-instagram.blogspot.com^
 ||help-kraken-com-eng.square.site^
+||help.microsofth.com^
 ||herstel-google.com^
 ||home-facebook.blogspot.com^
 ||hostcdn-whatsapp.com^
@@ -590,8 +603,6 @@
 ||hubset-whatsapp.com^
 ||icloud-ayuda-online.help^
 ||icloud-lost.us^
-||icloudfindermap.help^
-||icloudweb-ext860.click^
 ||ideeo.mx^
 ||ids-whatsapp.com^
 ||ifotografix.co.uk^
@@ -643,6 +654,7 @@
 ||instagram90sedition.vercel.app^
 ||instagramaccount.info^
 ||instagramaccounthacks.blogspot.com^
+||instagramandm.blogspot.com^
 ||instagramchatsview999.blogspot.com^
 ||instagramcheck.blogspot.com^
 ||instagramcoverrbrasilinstagram.blogspot.com^
@@ -818,7 +830,6 @@
 ||netflixcol.vercel.app^
 ||netflixfeitoaqui.com.br^
 ||netflixgpt-react.vercel.app^
-||netflixph.vercel.app^
 ||netflixquebec.blogspot.com^
 ||netflixvoid.org^
 ||netflixy-bixy.vercel.app^
@@ -841,7 +852,6 @@
 ||nosqldb-whatsapp.com^
 ||nqxweb-whatsapp.com^
 ||nw-facebook.blogspot.com^
-||oferta858493024928.cfd^
 ||office365licensingsupport.com^
 ||onedrive-1-one.vercel.app^
 ||onedrive-4-nine.vercel.app^
@@ -881,8 +891,9 @@
 ||photos-instagram.vercel.app^
 ||piedrasdecolon.com.ar^
 ||pipe-whatsapp.com^
+||pl-10967732.icu^
+||pl-64744f099200oferta843784347888.top^
 ||pl-986712.sbs^
-||pl-ofer721429ta.cfd^
 ||pl-zakupy9999812141.top^
 ||platform-kraken.cc^
 ||podnode-whatsapp.com^
@@ -893,7 +904,6 @@
 ||prouse-whatsapp.com^
 ||proxyapi-whatsapp.com^
 ||ptai.in^
-||pv-oferta75349.sbs^
 ||r-facebook.blogspot.com^
 ||rama-facebook.blogspot.com^
 ||reactivar-microsoft-live.iceiy.com^
@@ -999,6 +1009,7 @@
 ||sugar-outlook.com^
 ||suite-app-docs-trezr.typedream.app^
 ||support-apple.help^
+||support-appleld.info^
 ||support-ledgerlive-eng.typedream.app^
 ||support-ledgrcom-start-web.typedream.app^
 ||support24h.app^
@@ -1007,6 +1018,7 @@
 ||syschat-whatsapp.com^
 ||sysdata-whatsapp.com^
 ||syspro-whatsapp.com^
+||systemsharbor.com^
 ||tamil.bid^
 ||tara-facebook.blogspot.com^
 ||tb-facebook.blogspot.com^
@@ -1033,19 +1045,16 @@
 ||trustwallet-tokentwtowner.vercel.app^
 ||trustwalletindia-beta.vercel.app^
 ||ttgyahvw.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site^
-||twitterbroker.com^
 ||uk-facebook.blogspot.com^
 ||unicaja-inicio.net^
 ||updata.net.cn^
 ||us--ledger-live-crypto-cdn-en.typedream.app^
 ||usdt-trustwallet-blockchain.vercel.app^
-||usps-for-business-website-2-1.vercel.app^
 ||uspsaunitedworkforce.com^
 ||uspsecuredlogs.com^
 ||uspsglobaldeliveryexpress.com^
 ||uspss.pages.dev^
 ||uspssmartparcellocker.tech^
-||uspstrackingfun.com^
 ||uw.ua^
 ||v0-exodus-wallet-app.vercel.app^
 ||v0-instagram-accounts.vercel.app^
@@ -1058,7 +1067,6 @@
 ||viewclass.com^
 ||vodafone-business-berlin.de^
 ||vodafone-business-berlin.store^
-||vodafone-dachau.de^
 ||vodafone-on-line.it^
 ||vpnuse.eu.org^
 ||wafnode-whatsapp.com^
@@ -1078,6 +1086,7 @@
 ||webjob-whatsapp.com^
 ||webmail-service-xfinity.vercel.app^
 ||webmail.amazon-signin-update-payment-secure-verify-billing-mainapp.40-124-80-100.cpanel.site^
+||webmau.vn^
 ||webqueue-whatsapp.com^
 ||webruntime-whatsapp.com^
 ||webrust-whatsapp.com^
@@ -1117,8 +1126,6 @@
 ||xfinityupdatessss.weebly.com^
 ||xfinityy111.weebly.com^
 ||yahoo-accountregistration.weebly.com^
-||yahoo-hth.com.cn^
-||yahoo-kaiyun.com.cn^
 ||yahoo888.xyz^
 ||yourwebs.app^
 ||yzz.me^
