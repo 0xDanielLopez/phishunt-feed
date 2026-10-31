@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 1122
-! Updated: 2026-10-30T22:20:54Z
+! Entries: 1134
+! Updated: 2026-10-31T05:42:53Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -13,6 +13,7 @@
 ||206.209.210.20^
 ||394182-coinbase.com^
 ||401283-outlookmailbox-00012-validate.weebly.com^
+||491217-coinbase.com^
 ||a2zapk.co^
 ||a2zapk.dev^
 ||abenetgeneralservices.ca^
@@ -51,6 +52,7 @@
 ||amf-whatsapp.com^
 ||amg-whatsapp.com^
 ||amh-whatsapp.com^
+||amnesiacuracao.com^
 ||an-usps.com^
 ||ane-whatsapp.com^
 ||anf-whatsapp.com^
@@ -70,6 +72,8 @@
 ||apiops-whatsapp.com^
 ||apisys-whatsapp.com^
 ||app-facebook.blogspot.com^
+||app-icloudmapid.click^
+||app-icloudmapid.xyz^
 ||app-icloudrecover.click^
 ||app-icloudrecovery.click^
 ||app81-facebook.blogspot.com^
@@ -94,6 +98,7 @@
 ||backname.io^
 ||backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site^
 ||bankofamerica-tx.com^
+||bankofamericacart.ph^
 ||bankofamericamailcompte.blogspot.com^
 ||barcelona-facebook.blogspot.com^
 ||barclays-bank.vercel.app^
@@ -200,6 +205,7 @@
 ||boxuse-whatsapp.com^
 ||brad-facebook.blogspot.com^
 ||bradescosegurosop.com.br^
+||bradescosuporte.digital^
 ||branch-whatsapp.com^
 ||bryweb-whatsapp.com^
 ||btu-whatsapp.com^
@@ -281,6 +287,7 @@
 ||comcast-ebon.vercel.app^
 ||comcast-seven.vercel.app^
 ||comcast2.vercel.app^
+||comcastxfiniylo.weebly.com^
 ||command-whatsapp.com^
 ||commit-whatsapp.com^
 ||comomypal-securityserver.netflixconfirmation.net1fc.smtp.test.bimp-bot.duckdns.org^
@@ -304,7 +311,6 @@
 ||datahost-whatsapp.com^
 ||dbcache-whatsapp.com^
 ||de-paypal-sec.com^
-||de5.net^
 ||decode-whatsapp.com^
 ||deepaul.co^
 ||deploy-whatsapp.com^
@@ -333,7 +339,6 @@
 ||docss-whatsapp.com^
 ||documentation-google.com^
 ||documents-google.com^
-||docusignappinstalle.help^
 ||dothome.co.kr^
 ||dow-nload-ledger-live--doc.typedream.app^
 ||dpd-bexnaro.com^
@@ -348,6 +353,7 @@
 ||drive-icloud.com^
 ||drive03.com^
 ||ebay-lwholesale.com^
+||ebay-phone-number.blogspot.com^
 ||ebay-seller-center-managedpayments.vercel.app^
 ||ebaymediagmdi.com^
 ||ebaymevip.com^
@@ -594,7 +600,6 @@
 ||icloud-ayuda-online.help^
 ||icloud-lost.us^
 ||icloudfindermap.help^
-||icloudmapsfinds.help^
 ||icloudweb-ext860.click^
 ||ideeo.mx^
 ||ids-whatsapp.com^
@@ -608,6 +613,7 @@
 ||ingdirect-usuario-login.com^
 ||iniciamazon.com.br^
 ||input-whatsapp.com^
+||insert-ledgre-eng.typedream.app^
 ||instagram-2-blond.vercel.app^
 ||instagram-account-free-follower.vercel.app^
 ||instagram-baittouts-login.blogspot.com^
@@ -724,6 +730,7 @@
 ||linkhost-whatsapp.com^
 ||linkhub-whatsapp.com^
 ||lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org^
+||lkupteraz.rest^
 ||lobster-cloud.com^
 ||locations-icloud.us^
 ||log-in-facebook.blogspot.com^
@@ -792,6 +799,7 @@
 ||mkwweb-whatsapp.com^
 ||ml-facebook.blogspot.com^
 ||model-whatsapp.com^
+||monjaro-amazon.com^
 ||mono-whatsapp.com^
 ||more-ledgerlive-en.typedream.app^
 ||movistar-recaudo-epayc.com^
@@ -883,18 +891,22 @@
 ||ph-whatsapp.com^
 ||photos-instagram.vercel.app^
 ||pi-ogloiszenie439i349.shop^
-||pi-qprodukt.shop^
 ||piedrasdecolon.com.ar^
 ||pipe-whatsapp.com^
+||pl-947367h8263927k2637388.sbs^
+||pl-986712.sbs^
+||pl-ofer721429ta.cfd^
 ||pl-zakupy9999812141.top^
 ||platform-kraken.cc^
 ||podnode-whatsapp.com^
+||pomarosahotel.com^
 ||premio-instagram.com^
 ||prev-whatsapp.com^
 ||profil-facebook-saya.blogspot.com^
 ||prouse-whatsapp.com^
 ||proxyapi-whatsapp.com^
 ||ptai.in^
+||qzhwkl.ph^
 ||r-facebook.blogspot.com^
 ||rama-facebook.blogspot.com^
 ||reactivar-microsoft-live.iceiy.com^
@@ -916,8 +928,10 @@
 ||roblox.com.ee^
 ||roblox.com.et^
 ||roblox.com.gr^
+||roblox.com.kg^
 ||roblox.com.kz^
 ||roblox.com.ml^
+||roblox.com.pt^
 ||roblox.com.ss^
 ||roblox.ss^
 ||robloxc.com.es^
@@ -1086,9 +1100,8 @@
 ||webtrace-whatsapp.com^
 ||webwire-whatsapp.com^
 ||welcome-trezr-suite.square.site^
-||wellsfargosupportchat.com^
 ||wetransfer-1.vercel.app^
-||whatsapp-analyser-downloader.pages.dev^
+||whatsapp-5fk.pages.dev^
 ||whatsapp-dp-images.in^
 ||whatsapp-fast.vercel.app^
 ||whatsapp-gruppo-connect.com^
@@ -1103,7 +1116,6 @@
 ||whatsappo-ten.vercel.app^
 ||windows-ledger-live.typedream.app^
 ||wooflers.com^
-||workspacedoc.com^
 ||ww-facebook.blogspot.com^
 ||www-app-google.com^
 ||www-apple.support^

@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 1122
-# Updated: 2026-10-30T22:20:53Z
+# Entries: 1134
+# Updated: 2026-10-31T05:42:52Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -13,6 +13,7 @@
 0.0.0.0 206.209.210.20
 0.0.0.0 394182-coinbase.com
 0.0.0.0 401283-outlookmailbox-00012-validate.weebly.com
+0.0.0.0 491217-coinbase.com
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
 0.0.0.0 abenetgeneralservices.ca
@@ -51,6 +52,7 @@
 0.0.0.0 amf-whatsapp.com
 0.0.0.0 amg-whatsapp.com
 0.0.0.0 amh-whatsapp.com
+0.0.0.0 amnesiacuracao.com
 0.0.0.0 an-usps.com
 0.0.0.0 ane-whatsapp.com
 0.0.0.0 anf-whatsapp.com
@@ -70,6 +72,8 @@
 0.0.0.0 apiops-whatsapp.com
 0.0.0.0 apisys-whatsapp.com
 0.0.0.0 app-facebook.blogspot.com
+0.0.0.0 app-icloudmapid.click
+0.0.0.0 app-icloudmapid.xyz
 0.0.0.0 app-icloudrecover.click
 0.0.0.0 app-icloudrecovery.click
 0.0.0.0 app81-facebook.blogspot.com
@@ -94,6 +98,7 @@
 0.0.0.0 backname.io
 0.0.0.0 backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 0.0.0.0 bankofamerica-tx.com
+0.0.0.0 bankofamericacart.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
@@ -200,6 +205,7 @@
 0.0.0.0 boxuse-whatsapp.com
 0.0.0.0 brad-facebook.blogspot.com
 0.0.0.0 bradescosegurosop.com.br
+0.0.0.0 bradescosuporte.digital
 0.0.0.0 branch-whatsapp.com
 0.0.0.0 bryweb-whatsapp.com
 0.0.0.0 btu-whatsapp.com
@@ -281,6 +287,7 @@
 0.0.0.0 comcast-ebon.vercel.app
 0.0.0.0 comcast-seven.vercel.app
 0.0.0.0 comcast2.vercel.app
+0.0.0.0 comcastxfiniylo.weebly.com
 0.0.0.0 command-whatsapp.com
 0.0.0.0 commit-whatsapp.com
 0.0.0.0 comomypal-securityserver.netflixconfirmation.net1fc.smtp.test.bimp-bot.duckdns.org
@@ -304,7 +311,6 @@
 0.0.0.0 datahost-whatsapp.com
 0.0.0.0 dbcache-whatsapp.com
 0.0.0.0 de-paypal-sec.com
-0.0.0.0 de5.net
 0.0.0.0 decode-whatsapp.com
 0.0.0.0 deepaul.co
 0.0.0.0 deploy-whatsapp.com
@@ -333,7 +339,6 @@
 0.0.0.0 docss-whatsapp.com
 0.0.0.0 documentation-google.com
 0.0.0.0 documents-google.com
-0.0.0.0 docusignappinstalle.help
 0.0.0.0 dothome.co.kr
 0.0.0.0 dow-nload-ledger-live--doc.typedream.app
 0.0.0.0 dpd-bexnaro.com
@@ -348,6 +353,7 @@
 0.0.0.0 drive-icloud.com
 0.0.0.0 drive03.com
 0.0.0.0 ebay-lwholesale.com
+0.0.0.0 ebay-phone-number.blogspot.com
 0.0.0.0 ebay-seller-center-managedpayments.vercel.app
 0.0.0.0 ebaymediagmdi.com
 0.0.0.0 ebaymevip.com
@@ -594,7 +600,6 @@
 0.0.0.0 icloud-ayuda-online.help
 0.0.0.0 icloud-lost.us
 0.0.0.0 icloudfindermap.help
-0.0.0.0 icloudmapsfinds.help
 0.0.0.0 icloudweb-ext860.click
 0.0.0.0 ideeo.mx
 0.0.0.0 ids-whatsapp.com
@@ -608,6 +613,7 @@
 0.0.0.0 ingdirect-usuario-login.com
 0.0.0.0 iniciamazon.com.br
 0.0.0.0 input-whatsapp.com
+0.0.0.0 insert-ledgre-eng.typedream.app
 0.0.0.0 instagram-2-blond.vercel.app
 0.0.0.0 instagram-account-free-follower.vercel.app
 0.0.0.0 instagram-baittouts-login.blogspot.com
@@ -724,6 +730,7 @@
 0.0.0.0 linkhost-whatsapp.com
 0.0.0.0 linkhub-whatsapp.com
 0.0.0.0 lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
+0.0.0.0 lkupteraz.rest
 0.0.0.0 lobster-cloud.com
 0.0.0.0 locations-icloud.us
 0.0.0.0 log-in-facebook.blogspot.com
@@ -792,6 +799,7 @@
 0.0.0.0 mkwweb-whatsapp.com
 0.0.0.0 ml-facebook.blogspot.com
 0.0.0.0 model-whatsapp.com
+0.0.0.0 monjaro-amazon.com
 0.0.0.0 mono-whatsapp.com
 0.0.0.0 more-ledgerlive-en.typedream.app
 0.0.0.0 movistar-recaudo-epayc.com
@@ -883,18 +891,22 @@
 0.0.0.0 ph-whatsapp.com
 0.0.0.0 photos-instagram.vercel.app
 0.0.0.0 pi-ogloiszenie439i349.shop
-0.0.0.0 pi-qprodukt.shop
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 pipe-whatsapp.com
+0.0.0.0 pl-947367h8263927k2637388.sbs
+0.0.0.0 pl-986712.sbs
+0.0.0.0 pl-ofer721429ta.cfd
 0.0.0.0 pl-zakupy9999812141.top
 0.0.0.0 platform-kraken.cc
 0.0.0.0 podnode-whatsapp.com
+0.0.0.0 pomarosahotel.com
 0.0.0.0 premio-instagram.com
 0.0.0.0 prev-whatsapp.com
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 prouse-whatsapp.com
 0.0.0.0 proxyapi-whatsapp.com
 0.0.0.0 ptai.in
+0.0.0.0 qzhwkl.ph
 0.0.0.0 r-facebook.blogspot.com
 0.0.0.0 rama-facebook.blogspot.com
 0.0.0.0 reactivar-microsoft-live.iceiy.com
@@ -916,8 +928,10 @@
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.et
 0.0.0.0 roblox.com.gr
+0.0.0.0 roblox.com.kg
 0.0.0.0 roblox.com.kz
 0.0.0.0 roblox.com.ml
+0.0.0.0 roblox.com.pt
 0.0.0.0 roblox.com.ss
 0.0.0.0 roblox.ss
 0.0.0.0 robloxc.com.es
@@ -1086,9 +1100,8 @@
 0.0.0.0 webtrace-whatsapp.com
 0.0.0.0 webwire-whatsapp.com
 0.0.0.0 welcome-trezr-suite.square.site
-0.0.0.0 wellsfargosupportchat.com
 0.0.0.0 wetransfer-1.vercel.app
-0.0.0.0 whatsapp-analyser-downloader.pages.dev
+0.0.0.0 whatsapp-5fk.pages.dev
 0.0.0.0 whatsapp-dp-images.in
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-gruppo-connect.com
@@ -1103,7 +1116,6 @@
 0.0.0.0 whatsappo-ten.vercel.app
 0.0.0.0 windows-ledger-live.typedream.app
 0.0.0.0 wooflers.com
-0.0.0.0 workspacedoc.com
 0.0.0.0 ww-facebook.blogspot.com
 0.0.0.0 www-app-google.com
 0.0.0.0 www-apple.support
