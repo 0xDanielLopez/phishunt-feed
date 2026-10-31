@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 1134
-# Updated: 2026-10-31T05:42:52Z
+# Entries: 1122
+# Updated: 2026-10-31T12:31:36Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -11,7 +11,6 @@
 0.0.0.0 1789503-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 206.209.210.20
-0.0.0.0 394182-coinbase.com
 0.0.0.0 401283-outlookmailbox-00012-validate.weebly.com
 0.0.0.0 491217-coinbase.com
 0.0.0.0 a2zapk.co
@@ -47,7 +46,6 @@
 0.0.0.0 amazon-signin-update-payment-secure-verify-billing-mainsec.40-124-80-100.cpanel.site
 0.0.0.0 amb-whatsapp.com
 0.0.0.0 amc-whatsapp.com
-0.0.0.0 amchemchemicals.in
 0.0.0.0 amd-whatsapp.com
 0.0.0.0 amf-whatsapp.com
 0.0.0.0 amg-whatsapp.com
@@ -82,7 +80,6 @@
 0.0.0.0 apple-supports.sa.com
 0.0.0.0 appleid-icloudmac.com
 0.0.0.0 appleinc-support.info
-0.0.0.0 appnode-whatsapp.com
 0.0.0.0 appops-whatsapp.com
 0.0.0.0 appsec-whatsapp.com
 0.0.0.0 ashy-moss-0bc074f03.5.azurestaticapps.net
@@ -124,10 +121,6 @@
 0.0.0.0 binanceuz.co
 0.0.0.0 binancewallett.blogspot.com
 0.0.0.0 biowikiweb.com
-0.0.0.0 bkz-whatsapp.com
-0.0.0.0 bla-whatsapp.com
-0.0.0.0 blb-whatsapp.com
-0.0.0.0 blc-whatsapp.com
 0.0.0.0 bld-whatsapp.com
 0.0.0.0 ble-whatsapp.com
 0.0.0.0 blf-whatsapp.com
@@ -139,7 +132,6 @@
 0.0.0.0 blm-whatsapp.com
 0.0.0.0 blo-whatsapp.com
 0.0.0.0 blp-whatsapp.com
-0.0.0.0 blq-whatsapp.com
 0.0.0.0 blr-whatsapp.com
 0.0.0.0 bls-whatsapp.com
 0.0.0.0 blu-whatsapp.com
@@ -538,7 +530,6 @@
 0.0.0.0 firewall-whatsapp.com
 0.0.0.0 flame-whatsapp.com
 0.0.0.0 flazio.online
-0.0.0.0 folder-onedrive-live.com
 0.0.0.0 format-whatsapp.com
 0.0.0.0 forsakens-crew-teman-facebook.blogspot.com
 0.0.0.0 free-facebook-page-likes.blogspot.com
@@ -613,7 +604,6 @@
 0.0.0.0 ingdirect-usuario-login.com
 0.0.0.0 iniciamazon.com.br
 0.0.0.0 input-whatsapp.com
-0.0.0.0 insert-ledgre-eng.typedream.app
 0.0.0.0 instagram-2-blond.vercel.app
 0.0.0.0 instagram-account-free-follower.vercel.app
 0.0.0.0 instagram-baittouts-login.blogspot.com
@@ -671,7 +661,6 @@
 0.0.0.0 instagramloginpassword.blogspot.com
 0.0.0.0 instagramsnp.blogspot.com
 0.0.0.0 instagramsupportverify.blogspot.com
-0.0.0.0 instagramunblockedd.vercel.app
 0.0.0.0 instagramusicabrasilinstagram.blogspot.com
 0.0.0.0 internal-alerts.com
 0.0.0.0 invreceiptslinkedin.com
@@ -890,10 +879,8 @@
 0.0.0.0 perplexity-beta-ads.com
 0.0.0.0 ph-whatsapp.com
 0.0.0.0 photos-instagram.vercel.app
-0.0.0.0 pi-ogloiszenie439i349.shop
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 pipe-whatsapp.com
-0.0.0.0 pl-947367h8263927k2637388.sbs
 0.0.0.0 pl-986712.sbs
 0.0.0.0 pl-ofer721429ta.cfd
 0.0.0.0 pl-zakupy9999812141.top
@@ -906,7 +893,7 @@
 0.0.0.0 prouse-whatsapp.com
 0.0.0.0 proxyapi-whatsapp.com
 0.0.0.0 ptai.in
-0.0.0.0 qzhwkl.ph
+0.0.0.0 pv-oferta75349.sbs
 0.0.0.0 r-facebook.blogspot.com
 0.0.0.0 rama-facebook.blogspot.com
 0.0.0.0 reactivar-microsoft-live.iceiy.com
@@ -1101,7 +1088,6 @@
 0.0.0.0 webwire-whatsapp.com
 0.0.0.0 welcome-trezr-suite.square.site
 0.0.0.0 wetransfer-1.vercel.app
-0.0.0.0 whatsapp-5fk.pages.dev
 0.0.0.0 whatsapp-dp-images.in
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-gruppo-connect.com
@@ -1131,6 +1117,8 @@
 0.0.0.0 xfinityupdatessss.weebly.com
 0.0.0.0 xfinityy111.weebly.com
 0.0.0.0 yahoo-accountregistration.weebly.com
+0.0.0.0 yahoo-hth.com.cn
+0.0.0.0 yahoo-kaiyun.com.cn
 0.0.0.0 yahoo888.xyz
 0.0.0.0 yourwebs.app
 0.0.0.0 yzz.me
