@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 1128
-# Updated: 2026-11-01T13:26:04Z
+# Entries: 1124
+# Updated: 2026-11-01T21:49:49Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -10,7 +10,6 @@
 123-facebook.blogspot.com
 1789503-coinbase.com
 2017-facebook.blogspot.com
-206.209.210.20
 401283-outlookmailbox-00012-validate.weebly.com
 491217-coinbase.com
 821382.shop
@@ -99,7 +98,6 @@ ayuda-icloud-seguridad.help
 azure.microsofth.com
 backname.io
 backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
-bankofamerica-chi.ph
 bankofamerica-tx.com
 bankofamericamailcompte.blogspot.com
 barcelona-facebook.blogspot.com
@@ -236,7 +234,6 @@ cashappps.com
 cdnchat-whatsapp.com
 cdnedge-whatsapp.com
 cdnnet-whatsapp.com
-cfm-whatsapps.com
 charm-whatsapp.com
 chatgpt0005.eu.org
 chathub-whatsapp.com
@@ -299,7 +296,6 @@ daservglobal.com
 data.microsofth.com
 datahost-whatsapp.com
 dbcache-whatsapp.com
-dca-eg.com
 de-paypal-sec.com
 decode-whatsapp.com
 deepaul.co
@@ -326,7 +322,6 @@ dnsedge-whatsapp.com
 dnsnode-whatsapp.com
 docs-google.com
 docs-trezor-app.pages.dev
-docss-whatsapp.com
 documentation-google.com
 documents-google.com
 dothome.co.kr
@@ -513,7 +508,6 @@ facebookmail-facebook.blogspot.com
 facebookpagemanagement.com
 facebookpageslinkk.blogspot.com
 facebookprofilelinks.blogspot.com
-facebookreceit.cc
 facebooks.com.vn
 facebooksecure.blogspot.com
 facebooksecurityhelp.blogspot.com
@@ -678,6 +672,7 @@ io-trezo-secure.square.site
 io-trezrn-eng.pages.dev
 ips-whatsapp.com
 isha-dev.com
+isma912j67.lat
 itau-com.vercel.app
 itau-snowy.vercel.app
 ivory-whatsapp.com
@@ -890,12 +885,14 @@ ph-whatsapp.com
 photos-instagram.vercel.app
 piedrasdecolon.com.ar
 pipe-whatsapp.com
-pl-64744f099200oferta843784347888.top
+pk-transport83746.top
+pk-transport9392.top
 pl-986712.sbs
 pl-zakupy9999812141.top
 platform-kraken.cc
 podnode-whatsapp.com
 pomarosahotel.com
+pr493h-f23d1.pics
 premio-instagram.com
 prev-whatsapp.com
 profil-facebook-saya.blogspot.com
@@ -1046,6 +1043,7 @@ ttgyahvw.login.microsoftonline-billing-verification-secured-help.161-35-102-243.
 uk-facebook.blogspot.com
 unicaja-inicio.net
 updata.net.cn
+ur372h9.buzz
 us--ledger-live-crypto-cdn-en.typedream.app
 usdt-trustwallet-blockchain.vercel.app
 uspsaunitedworkforce.com
@@ -1068,7 +1066,6 @@ vodafone-business-berlin.de
 vodafone-business-berlin.store
 vodafone-on-line.it
 vpnuse.eu.org
-wafnode-whatsapp.com
 wasmer.app
 wave-whatsapp.com
 waycobeauty.com
@@ -1093,7 +1090,6 @@ webstart-whatsapp.com
 webswift-whatsapp.com
 webtech-whatsapp.com
 webtrace-whatsapp.com
-webwire-whatsapp.com
 welcome-trezr-suite.square.site
 wetransfer-1.vercel.app
 whatsapp-dp-images.in
