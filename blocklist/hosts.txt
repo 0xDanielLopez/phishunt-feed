@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 1129
-# Updated: 2026-10-31T21:35:49Z
+# Entries: 1140
+# Updated: 2026-11-01T06:06:30Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -12,7 +12,9 @@
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 206.209.210.20
 0.0.0.0 401283-outlookmailbox-00012-validate.weebly.com
+0.0.0.0 4821152.lat
 0.0.0.0 491217-coinbase.com
+0.0.0.0 821382.shop
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
 0.0.0.0 abenetgeneralservices.ca
@@ -21,6 +23,7 @@
 0.0.0.0 acounts-google.duckdns.org
 0.0.0.0 action-whatsapp.com
 0.0.0.0 admin.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
+0.0.0.0 adobeacrobatupdate.xyz
 0.0.0.0 adobefileviewer.dpdns.org
 0.0.0.0 adobeinstaller-virid.vercel.app
 0.0.0.0 aggregator-whatsapp.com
@@ -85,6 +88,7 @@
 0.0.0.0 appsec-whatsapp.com
 0.0.0.0 ashy-moss-0bc074f03.5.azurestaticapps.net
 0.0.0.0 asso-entrautres.fr
+0.0.0.0 auditormadrid.es
 0.0.0.0 auth.microsofth.com
 0.0.0.0 authapi-whatsapp.com
 0.0.0.0 authcdn-whatsapp.com
@@ -99,9 +103,9 @@
 0.0.0.0 backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 0.0.0.0 bankofamerica-chi.ph
 0.0.0.0 bankofamerica-tx.com
-0.0.0.0 bankofamericacart.ph
 0.0.0.0 bankofamericaespanol.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
+0.0.0.0 bankofamericawire.ph
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
 0.0.0.0 bbvalues.uk
@@ -126,15 +130,12 @@
 0.0.0.0 binanceuz.co
 0.0.0.0 binancewallett.blogspot.com
 0.0.0.0 biowikiweb.com
-0.0.0.0 ble-whatsapp.com
 0.0.0.0 blf-whatsapp.com
-0.0.0.0 blh-whatsapp.com
 0.0.0.0 bliss-whatsapp.com
 0.0.0.0 bll-whatsapp.com
 0.0.0.0 blm-whatsapp.com
 0.0.0.0 blo-whatsapp.com
 0.0.0.0 blp-whatsapp.com
-0.0.0.0 blr-whatsapp.com
 0.0.0.0 bls-whatsapp.com
 0.0.0.0 blu-whatsapp.com
 0.0.0.0 blw-whatsapp.com
@@ -295,6 +296,7 @@
 0.0.0.0 coral-whatsapp.com
 0.0.0.0 corenode-whatsapp.com
 0.0.0.0 corepush-whatsapp.com
+0.0.0.0 correosicri.cc
 0.0.0.0 cors-whatsapp.com
 0.0.0.0 cpanel.amazon-signin-update-payment-secure-verify-billing-mainapp.40-124-80-100.cpanel.site
 0.0.0.0 creyt.cl
@@ -308,6 +310,7 @@
 0.0.0.0 data.microsofth.com
 0.0.0.0 datahost-whatsapp.com
 0.0.0.0 dbcache-whatsapp.com
+0.0.0.0 dca-eg.com
 0.0.0.0 de-paypal-sec.com
 0.0.0.0 decode-whatsapp.com
 0.0.0.0 deepaul.co
@@ -365,6 +368,7 @@
 0.0.0.0 edgenode-whatsapp.com
 0.0.0.0 edgeone.dev
 0.0.0.0 egrweb-whatsapp.com
+0.0.0.0 elaf.com.eg
 0.0.0.0 email-microsoft.com
 0.0.0.0 ember-whatsapp.com
 0.0.0.0 en-home-trezore.pages.dev
@@ -520,6 +524,7 @@
 0.0.0.0 facebookpagemanagement.com
 0.0.0.0 facebookpageslinkk.blogspot.com
 0.0.0.0 facebookprofilelinks.blogspot.com
+0.0.0.0 facebookreceit.cc
 0.0.0.0 facebooks.com.vn
 0.0.0.0 facebooksecure.blogspot.com
 0.0.0.0 facebooksecurityhelp.blogspot.com
@@ -555,6 +560,7 @@
 0.0.0.0 ggzh-google.com.cn
 0.0.0.0 giant-whatsapp.com
 0.0.0.0 gitnode-whatsapp.com
+0.0.0.0 glallegro.com
 0.0.0.0 globaldoctors.asia
 0.0.0.0 gloronyan.github.io
 0.0.0.0 glovonetwork.com
@@ -586,7 +592,6 @@
 0.0.0.0 help-instagram.blogspot.com
 0.0.0.0 help-kraken-com-eng.square.site
 0.0.0.0 help.microsofth.com
-0.0.0.0 herstel-google.com
 0.0.0.0 home-facebook.blogspot.com
 0.0.0.0 hostcdn-whatsapp.com
 0.0.0.0 hostly-whatsapp.com
@@ -610,6 +615,7 @@
 0.0.0.0 info-facebook.blogspot.com
 0.0.0.0 ingdirect-accesoweb-login.com
 0.0.0.0 ingdirect-clienteweb-login.com
+0.0.0.0 ingdirect-plataforma-clientes.com
 0.0.0.0 ingdirect-portal-ingreso.com
 0.0.0.0 ingdirect-servicios-clientes.com
 0.0.0.0 ingdirect-usuario-login.com
@@ -731,6 +737,7 @@
 0.0.0.0 linkhost-whatsapp.com
 0.0.0.0 linkhub-whatsapp.com
 0.0.0.0 lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
+0.0.0.0 lkupteraz.cyou
 0.0.0.0 lkupteraz.rest
 0.0.0.0 lobster-cloud.com
 0.0.0.0 locations-icloud.us
@@ -822,6 +829,7 @@
 0.0.0.0 netflix-coral-zeta.vercel.app
 0.0.0.0 netflix-homepage-pi.vercel.app
 0.0.0.0 netflix-sandy-alpha.vercel.app
+0.0.0.0 netflix-trial.vercel.app
 0.0.0.0 netflix-web-site-three.vercel.app
 0.0.0.0 netflix.surf
 0.0.0.0 netflix6.com
@@ -879,6 +887,7 @@
 0.0.0.0 outlookmails.de
 0.0.0.0 page-instagram.vercel.app
 0.0.0.0 page-kucoin-en-us.typedream.app
+0.0.0.0 parterro.com
 0.0.0.0 paykmc.com
 0.0.0.0 paypal-com-aspi-dll.us
 0.0.0.0 paypal-logiin.blogspot.com
@@ -891,9 +900,9 @@
 0.0.0.0 photos-instagram.vercel.app
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 pipe-whatsapp.com
-0.0.0.0 pl-10967732.icu
 0.0.0.0 pl-64744f099200oferta843784347888.top
 0.0.0.0 pl-986712.sbs
+0.0.0.0 pl-jpk12m.sbs
 0.0.0.0 pl-zakupy9999812141.top
 0.0.0.0 platform-kraken.cc
 0.0.0.0 podnode-whatsapp.com
@@ -1065,6 +1074,7 @@
 0.0.0.0 verifycase-apple.com
 0.0.0.0 verifytoken.com
 0.0.0.0 viewclass.com
+0.0.0.0 viewpackagetracking.com
 0.0.0.0 vodafone-business-berlin.de
 0.0.0.0 vodafone-business-berlin.store
 0.0.0.0 vodafone-on-line.it
@@ -1102,6 +1112,7 @@
 0.0.0.0 whatsapp-gruppo-connect.com
 0.0.0.0 whatsapp-iamsuyash.vercel.app
 0.0.0.0 whatsapp-me.web.id
+0.0.0.0 whatsapp-meet-sex.pages.dev
 0.0.0.0 whatsapp-verify.blogspot.com
 0.0.0.0 whatsapp11-cnj.pages.dev
 0.0.0.0 whatsappapk.org

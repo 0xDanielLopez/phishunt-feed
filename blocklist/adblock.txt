@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 1129
-! Updated: 2026-10-31T21:35:50Z
+! Entries: 1140
+! Updated: 2026-11-01T06:06:31Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -12,7 +12,9 @@
 ||2017-facebook.blogspot.com^
 ||206.209.210.20^
 ||401283-outlookmailbox-00012-validate.weebly.com^
+||4821152.lat^
 ||491217-coinbase.com^
+||821382.shop^
 ||a2zapk.co^
 ||a2zapk.dev^
 ||abenetgeneralservices.ca^
@@ -21,6 +23,7 @@
 ||acounts-google.duckdns.org^
 ||action-whatsapp.com^
 ||admin.bill-netflix-dashboard-account.104-248-114-136.cpanel.site^
+||adobeacrobatupdate.xyz^
 ||adobefileviewer.dpdns.org^
 ||adobeinstaller-virid.vercel.app^
 ||aggregator-whatsapp.com^
@@ -85,6 +88,7 @@
 ||appsec-whatsapp.com^
 ||ashy-moss-0bc074f03.5.azurestaticapps.net^
 ||asso-entrautres.fr^
+||auditormadrid.es^
 ||auth.microsofth.com^
 ||authapi-whatsapp.com^
 ||authcdn-whatsapp.com^
@@ -99,9 +103,9 @@
 ||backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site^
 ||bankofamerica-chi.ph^
 ||bankofamerica-tx.com^
-||bankofamericacart.ph^
 ||bankofamericaespanol.ph^
 ||bankofamericamailcompte.blogspot.com^
+||bankofamericawire.ph^
 ||barcelona-facebook.blogspot.com^
 ||barclays-bank.vercel.app^
 ||bbvalues.uk^
@@ -126,15 +130,12 @@
 ||binanceuz.co^
 ||binancewallett.blogspot.com^
 ||biowikiweb.com^
-||ble-whatsapp.com^
 ||blf-whatsapp.com^
-||blh-whatsapp.com^
 ||bliss-whatsapp.com^
 ||bll-whatsapp.com^
 ||blm-whatsapp.com^
 ||blo-whatsapp.com^
 ||blp-whatsapp.com^
-||blr-whatsapp.com^
 ||bls-whatsapp.com^
 ||blu-whatsapp.com^
 ||blw-whatsapp.com^
@@ -295,6 +296,7 @@
 ||coral-whatsapp.com^
 ||corenode-whatsapp.com^
 ||corepush-whatsapp.com^
+||correosicri.cc^
 ||cors-whatsapp.com^
 ||cpanel.amazon-signin-update-payment-secure-verify-billing-mainapp.40-124-80-100.cpanel.site^
 ||creyt.cl^
@@ -308,6 +310,7 @@
 ||data.microsofth.com^
 ||datahost-whatsapp.com^
 ||dbcache-whatsapp.com^
+||dca-eg.com^
 ||de-paypal-sec.com^
 ||decode-whatsapp.com^
 ||deepaul.co^
@@ -365,6 +368,7 @@
 ||edgenode-whatsapp.com^
 ||edgeone.dev^
 ||egrweb-whatsapp.com^
+||elaf.com.eg^
 ||email-microsoft.com^
 ||ember-whatsapp.com^
 ||en-home-trezore.pages.dev^
@@ -520,6 +524,7 @@
 ||facebookpagemanagement.com^
 ||facebookpageslinkk.blogspot.com^
 ||facebookprofilelinks.blogspot.com^
+||facebookreceit.cc^
 ||facebooks.com.vn^
 ||facebooksecure.blogspot.com^
 ||facebooksecurityhelp.blogspot.com^
@@ -555,6 +560,7 @@
 ||ggzh-google.com.cn^
 ||giant-whatsapp.com^
 ||gitnode-whatsapp.com^
+||glallegro.com^
 ||globaldoctors.asia^
 ||gloronyan.github.io^
 ||glovonetwork.com^
@@ -586,7 +592,6 @@
 ||help-instagram.blogspot.com^
 ||help-kraken-com-eng.square.site^
 ||help.microsofth.com^
-||herstel-google.com^
 ||home-facebook.blogspot.com^
 ||hostcdn-whatsapp.com^
 ||hostly-whatsapp.com^
@@ -610,6 +615,7 @@
 ||info-facebook.blogspot.com^
 ||ingdirect-accesoweb-login.com^
 ||ingdirect-clienteweb-login.com^
+||ingdirect-plataforma-clientes.com^
 ||ingdirect-portal-ingreso.com^
 ||ingdirect-servicios-clientes.com^
 ||ingdirect-usuario-login.com^
@@ -731,6 +737,7 @@
 ||linkhost-whatsapp.com^
 ||linkhub-whatsapp.com^
 ||lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org^
+||lkupteraz.cyou^
 ||lkupteraz.rest^
 ||lobster-cloud.com^
 ||locations-icloud.us^
@@ -822,6 +829,7 @@
 ||netflix-coral-zeta.vercel.app^
 ||netflix-homepage-pi.vercel.app^
 ||netflix-sandy-alpha.vercel.app^
+||netflix-trial.vercel.app^
 ||netflix-web-site-three.vercel.app^
 ||netflix.surf^
 ||netflix6.com^
@@ -879,6 +887,7 @@
 ||outlookmails.de^
 ||page-instagram.vercel.app^
 ||page-kucoin-en-us.typedream.app^
+||parterro.com^
 ||paykmc.com^
 ||paypal-com-aspi-dll.us^
 ||paypal-logiin.blogspot.com^
@@ -891,9 +900,9 @@
 ||photos-instagram.vercel.app^
 ||piedrasdecolon.com.ar^
 ||pipe-whatsapp.com^
-||pl-10967732.icu^
 ||pl-64744f099200oferta843784347888.top^
 ||pl-986712.sbs^
+||pl-jpk12m.sbs^
 ||pl-zakupy9999812141.top^
 ||platform-kraken.cc^
 ||podnode-whatsapp.com^
@@ -1065,6 +1074,7 @@
 ||verifycase-apple.com^
 ||verifytoken.com^
 ||viewclass.com^
+||viewpackagetracking.com^
 ||vodafone-business-berlin.de^
 ||vodafone-business-berlin.store^
 ||vodafone-on-line.it^
@@ -1102,6 +1112,7 @@
 ||whatsapp-gruppo-connect.com^
 ||whatsapp-iamsuyash.vercel.app^
 ||whatsapp-me.web.id^
+||whatsapp-meet-sex.pages.dev^
 ||whatsapp-verify.blogspot.com^
 ||whatsapp11-cnj.pages.dev^
 ||whatsappapk.org^
