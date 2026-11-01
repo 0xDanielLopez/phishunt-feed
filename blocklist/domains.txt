@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 1140
-# Updated: 2026-11-01T06:00:55Z
+# Entries: 1128
+# Updated: 2026-11-01T13:26:04Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -12,7 +12,6 @@
 2017-facebook.blogspot.com
 206.209.210.20
 401283-outlookmailbox-00012-validate.weebly.com
-4821152.lat
 491217-coinbase.com
 821382.shop
 a2zapk.co
@@ -23,9 +22,9 @@ account-instagram.vercel.app
 acounts-google.duckdns.org
 action-whatsapp.com
 admin.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
-adobeacrobatupdate.xyz
 adobefileviewer.dpdns.org
 adobeinstaller-virid.vercel.app
+adobeofhumans.com
 aggregator-whatsapp.com
 ajz-whatsapp.com
 akb-whatsapp.com
@@ -74,7 +73,6 @@ apiops-whatsapp.com
 apisys-whatsapp.com
 app-facebook.blogspot.com
 app-icloudmapid.click
-app-icloudmapid.xyz
 app-icloudrecover.click
 app-icloudrecovery.click
 app81-facebook.blogspot.com
@@ -103,9 +101,7 @@ backname.io
 backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 bankofamerica-chi.ph
 bankofamerica-tx.com
-bankofamericaespanol.ph
 bankofamericamailcompte.blogspot.com
-bankofamericawire.ph
 barcelona-facebook.blogspot.com
 barclays-bank.vercel.app
 bbvalues.uk
@@ -130,19 +126,14 @@ binancereferralid.github.io
 binanceuz.co
 binancewallett.blogspot.com
 biowikiweb.com
-blf-whatsapp.com
 bliss-whatsapp.com
-bll-whatsapp.com
-blm-whatsapp.com
 blo-whatsapp.com
 blp-whatsapp.com
 bls-whatsapp.com
 blu-whatsapp.com
 blw-whatsapp.com
-blx-whatsapp.com
 bly-whatsapp.com
 blz-whatsapp.com
-bma-whatsapp.com
 bmb-whatsapp.com
 bml-whatsapp.com
 bmn-whatsapp.com
@@ -248,7 +239,6 @@ cdnnet-whatsapp.com
 cfm-whatsapps.com
 charm-whatsapp.com
 chatgpt0005.eu.org
-chatgptdeutsch.io
 chathub-whatsapp.com
 chatlgpt.com
 checkleaked.cc
@@ -290,7 +280,6 @@ comcastxfiniylo.weebly.com
 command-whatsapp.com
 commit-whatsapp.com
 comomypal-securityserver.netflixconfirmation.net1fc.smtp.test.bimp-bot.duckdns.org
-content-binance.com
 cookieapi-whatsapp.com
 cookienode-whatsapp.com
 coral-whatsapp.com
@@ -565,6 +554,7 @@ globaldoctors.asia
 gloronyan.github.io
 glovonetwork.com
 go-google.com
+goog1eworkspace.com
 google-apk.com
 google1208.com
 google1302.com
@@ -629,6 +619,7 @@ instagram-cam.vercel.app
 instagram-change-password.blogspot.com
 instagram-chi-ten.vercel.app
 instagram-chi.vercel.app
+instagram-cloud.blogspot.com
 instagram-com-ig.github.io
 instagram-copy.vercel.app
 instagram-cyber.github.io
@@ -660,9 +651,9 @@ instagram157.github.io
 instagram90sedition.vercel.app
 instagramaccount.info
 instagramaccounthacks.blogspot.com
-instagramandm.blogspot.com
 instagramchatsview999.blogspot.com
 instagramcheck.blogspot.com
+instagramcom-weld.vercel.app
 instagramcoverrbrasilinstagram.blogspot.com
 instagramfollowers146.blogspot.com
 instagramfollowers7894.blogspot.com
@@ -737,7 +728,6 @@ linkedin-antanim.vercel.app
 linkhost-whatsapp.com
 linkhub-whatsapp.com
 lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
-lkupteraz.cyou
 lkupteraz.rest
 lobster-cloud.com
 locations-icloud.us
@@ -902,7 +892,6 @@ piedrasdecolon.com.ar
 pipe-whatsapp.com
 pl-64744f099200oferta843784347888.top
 pl-986712.sbs
-pl-jpk12m.sbs
 pl-zakupy9999812141.top
 platform-kraken.cc
 podnode-whatsapp.com
@@ -1112,7 +1101,6 @@ whatsapp-fast.vercel.app
 whatsapp-gruppo-connect.com
 whatsapp-iamsuyash.vercel.app
 whatsapp-me.web.id
-whatsapp-meet-sex.pages.dev
 whatsapp-verify.blogspot.com
 whatsapp11-cnj.pages.dev
 whatsappapk.org

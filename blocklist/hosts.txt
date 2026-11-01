@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 1140
-# Updated: 2026-11-01T06:06:30Z
+# Entries: 1128
+# Updated: 2026-11-01T13:26:04Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -12,7 +12,6 @@
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 206.209.210.20
 0.0.0.0 401283-outlookmailbox-00012-validate.weebly.com
-0.0.0.0 4821152.lat
 0.0.0.0 491217-coinbase.com
 0.0.0.0 821382.shop
 0.0.0.0 a2zapk.co
@@ -23,9 +22,9 @@
 0.0.0.0 acounts-google.duckdns.org
 0.0.0.0 action-whatsapp.com
 0.0.0.0 admin.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
-0.0.0.0 adobeacrobatupdate.xyz
 0.0.0.0 adobefileviewer.dpdns.org
 0.0.0.0 adobeinstaller-virid.vercel.app
+0.0.0.0 adobeofhumans.com
 0.0.0.0 aggregator-whatsapp.com
 0.0.0.0 ajz-whatsapp.com
 0.0.0.0 akb-whatsapp.com
@@ -74,7 +73,6 @@
 0.0.0.0 apisys-whatsapp.com
 0.0.0.0 app-facebook.blogspot.com
 0.0.0.0 app-icloudmapid.click
-0.0.0.0 app-icloudmapid.xyz
 0.0.0.0 app-icloudrecover.click
 0.0.0.0 app-icloudrecovery.click
 0.0.0.0 app81-facebook.blogspot.com
@@ -103,9 +101,7 @@
 0.0.0.0 backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 0.0.0.0 bankofamerica-chi.ph
 0.0.0.0 bankofamerica-tx.com
-0.0.0.0 bankofamericaespanol.ph
 0.0.0.0 bankofamericamailcompte.blogspot.com
-0.0.0.0 bankofamericawire.ph
 0.0.0.0 barcelona-facebook.blogspot.com
 0.0.0.0 barclays-bank.vercel.app
 0.0.0.0 bbvalues.uk
@@ -130,19 +126,14 @@
 0.0.0.0 binanceuz.co
 0.0.0.0 binancewallett.blogspot.com
 0.0.0.0 biowikiweb.com
-0.0.0.0 blf-whatsapp.com
 0.0.0.0 bliss-whatsapp.com
-0.0.0.0 bll-whatsapp.com
-0.0.0.0 blm-whatsapp.com
 0.0.0.0 blo-whatsapp.com
 0.0.0.0 blp-whatsapp.com
 0.0.0.0 bls-whatsapp.com
 0.0.0.0 blu-whatsapp.com
 0.0.0.0 blw-whatsapp.com
-0.0.0.0 blx-whatsapp.com
 0.0.0.0 bly-whatsapp.com
 0.0.0.0 blz-whatsapp.com
-0.0.0.0 bma-whatsapp.com
 0.0.0.0 bmb-whatsapp.com
 0.0.0.0 bml-whatsapp.com
 0.0.0.0 bmn-whatsapp.com
@@ -248,7 +239,6 @@
 0.0.0.0 cfm-whatsapps.com
 0.0.0.0 charm-whatsapp.com
 0.0.0.0 chatgpt0005.eu.org
-0.0.0.0 chatgptdeutsch.io
 0.0.0.0 chathub-whatsapp.com
 0.0.0.0 chatlgpt.com
 0.0.0.0 checkleaked.cc
@@ -290,7 +280,6 @@
 0.0.0.0 command-whatsapp.com
 0.0.0.0 commit-whatsapp.com
 0.0.0.0 comomypal-securityserver.netflixconfirmation.net1fc.smtp.test.bimp-bot.duckdns.org
-0.0.0.0 content-binance.com
 0.0.0.0 cookieapi-whatsapp.com
 0.0.0.0 cookienode-whatsapp.com
 0.0.0.0 coral-whatsapp.com
@@ -565,6 +554,7 @@
 0.0.0.0 gloronyan.github.io
 0.0.0.0 glovonetwork.com
 0.0.0.0 go-google.com
+0.0.0.0 goog1eworkspace.com
 0.0.0.0 google-apk.com
 0.0.0.0 google1208.com
 0.0.0.0 google1302.com
@@ -629,6 +619,7 @@
 0.0.0.0 instagram-change-password.blogspot.com
 0.0.0.0 instagram-chi-ten.vercel.app
 0.0.0.0 instagram-chi.vercel.app
+0.0.0.0 instagram-cloud.blogspot.com
 0.0.0.0 instagram-com-ig.github.io
 0.0.0.0 instagram-copy.vercel.app
 0.0.0.0 instagram-cyber.github.io
@@ -660,9 +651,9 @@
 0.0.0.0 instagram90sedition.vercel.app
 0.0.0.0 instagramaccount.info
 0.0.0.0 instagramaccounthacks.blogspot.com
-0.0.0.0 instagramandm.blogspot.com
 0.0.0.0 instagramchatsview999.blogspot.com
 0.0.0.0 instagramcheck.blogspot.com
+0.0.0.0 instagramcom-weld.vercel.app
 0.0.0.0 instagramcoverrbrasilinstagram.blogspot.com
 0.0.0.0 instagramfollowers146.blogspot.com
 0.0.0.0 instagramfollowers7894.blogspot.com
@@ -737,7 +728,6 @@
 0.0.0.0 linkhost-whatsapp.com
 0.0.0.0 linkhub-whatsapp.com
 0.0.0.0 lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
-0.0.0.0 lkupteraz.cyou
 0.0.0.0 lkupteraz.rest
 0.0.0.0 lobster-cloud.com
 0.0.0.0 locations-icloud.us
@@ -902,7 +892,6 @@
 0.0.0.0 pipe-whatsapp.com
 0.0.0.0 pl-64744f099200oferta843784347888.top
 0.0.0.0 pl-986712.sbs
-0.0.0.0 pl-jpk12m.sbs
 0.0.0.0 pl-zakupy9999812141.top
 0.0.0.0 platform-kraken.cc
 0.0.0.0 podnode-whatsapp.com
@@ -1112,7 +1101,6 @@
 0.0.0.0 whatsapp-gruppo-connect.com
 0.0.0.0 whatsapp-iamsuyash.vercel.app
 0.0.0.0 whatsapp-me.web.id
-0.0.0.0 whatsapp-meet-sex.pages.dev
 0.0.0.0 whatsapp-verify.blogspot.com
 0.0.0.0 whatsapp11-cnj.pages.dev
 0.0.0.0 whatsappapk.org
