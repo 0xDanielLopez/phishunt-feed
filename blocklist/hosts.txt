@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 1116
-# Updated: 2026-11-02T06:05:27Z
+# Entries: 1055
+# Updated: 2026-11-02T15:55:07Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -10,8 +10,10 @@
 0.0.0.0 123-facebook.blogspot.com
 0.0.0.0 123109h45odi.lat
 0.0.0.0 128738-coinbase.com
+0.0.0.0 1479182-coinbase.com
 0.0.0.0 1789503-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
+0.0.0.0 329583548349.courses
 0.0.0.0 401283-outlookmailbox-00012-validate.weebly.com
 0.0.0.0 491217-coinbase.com
 0.0.0.0 821382.shop
@@ -59,17 +61,10 @@
 0.0.0.0 ang-whatsapp.com
 0.0.0.0 ani-facebook.blogspot.com
 0.0.0.0 api-coinbase.com
-0.0.0.0 apibox-whatsapp.com
 0.0.0.0 apicloud-whatsapp.com
-0.0.0.0 apidev-whatsapp.com
 0.0.0.0 apiedge-whatsapp.com
 0.0.0.0 apihost-whatsapp.com
-0.0.0.0 apihub-whatsapp.com
-0.0.0.0 apilab-whatsapp.com
 0.0.0.0 apimail-whatsapp.com
-0.0.0.0 apinet-whatsapp.com
-0.0.0.0 apiops-whatsapp.com
-0.0.0.0 apisys-whatsapp.com
 0.0.0.0 app-facebook.blogspot.com
 0.0.0.0 app-icloudmapid.click
 0.0.0.0 app-icloudrecover.click
@@ -80,12 +75,9 @@
 0.0.0.0 apple-supports.sa.com
 0.0.0.0 appleid-icloudmac.com
 0.0.0.0 appleinc-support.info
-0.0.0.0 appops-whatsapp.com
 0.0.0.0 apps.microsofth.com
-0.0.0.0 appsec-whatsapp.com
 0.0.0.0 ashy-moss-0bc074f03.5.azurestaticapps.net
 0.0.0.0 asso-entrautres.fr
-0.0.0.0 auditormadrid.es
 0.0.0.0 auth.microsofth.com
 0.0.0.0 authapi-whatsapp.com
 0.0.0.0 authcdn-whatsapp.com
@@ -115,12 +107,14 @@
 0.0.0.0 binance-referral-code-btcbonus.vercel.app
 0.0.0.0 binance-register.blogspot.com
 0.0.0.0 binancecheck.com
+0.0.0.0 binancecheck.online
 0.0.0.0 binanceii.com
 0.0.0.0 binancelivetrade.blogspot.com
 0.0.0.0 binancenn.com
 0.0.0.0 binanceokc.com
 0.0.0.0 binancereferralid.github.io
 0.0.0.0 binanceuz.co
+0.0.0.0 binanceverify.live
 0.0.0.0 binancewallett.blogspot.com
 0.0.0.0 biowikiweb.com
 0.0.0.0 bliss-whatsapp.com
@@ -178,12 +172,6 @@
 0.0.0.0 botchat-whatsapp.com
 0.0.0.0 botcore-whatsapp.com
 0.0.0.0 botlink-whatsapp.com
-0.0.0.0 boxapp-whatsapp.com
-0.0.0.0 boxkit-whatsapp.com
-0.0.0.0 boxlab-whatsapp.com
-0.0.0.0 boxrun-whatsapp.com
-0.0.0.0 boxset-whatsapp.com
-0.0.0.0 boxuse-whatsapp.com
 0.0.0.0 brad-facebook.blogspot.com
 0.0.0.0 bradescosegurosop.com.br
 0.0.0.0 bradescosuporte.digital
@@ -226,7 +214,6 @@
 0.0.0.0 cdnnet-whatsapp.com
 0.0.0.0 charm-whatsapp.com
 0.0.0.0 chatgpt0005.eu.org
-0.0.0.0 chathub-whatsapp.com
 0.0.0.0 chatlgpt.com
 0.0.0.0 checkleaked.cc
 0.0.0.0 citrix-sharing.com
@@ -291,15 +278,10 @@
 0.0.0.0 decode-whatsapp.com
 0.0.0.0 deepaul.co
 0.0.0.0 deploy-whatsapp.com
-0.0.0.0 devapi-whatsapp.com
 0.0.0.0 devcloud-whatsapp.com
 0.0.0.0 devedge-whatsapp.com
 0.0.0.0 devimg-whatsapp.com
-0.0.0.0 devnet-whatsapp.com
 0.0.0.0 devnode-whatsapp.com
-0.0.0.0 devpro-whatsapp.com
-0.0.0.0 devsec-whatsapp.com
-0.0.0.0 devsys-whatsapp.com
 0.0.0.0 dhcpapi-whatsapp.com
 0.0.0.0 dhcpnode-whatsapp.com
 0.0.0.0 dhl-express-dev.firebaseapp.com
@@ -344,7 +326,6 @@
 0.0.0.0 edgenode-whatsapp.com
 0.0.0.0 edgeone.dev
 0.0.0.0 egrweb-whatsapp.com
-0.0.0.0 elaf.com.eg
 0.0.0.0 email-microsoft.com
 0.0.0.0 ember-whatsapp.com
 0.0.0.0 en-home-trezore.pages.dev
@@ -543,7 +524,6 @@
 0.0.0.0 glovonetwork.com
 0.0.0.0 go-google.com
 0.0.0.0 google-apk.com
-0.0.0.0 google-verify-portal.com
 0.0.0.0 google1208.com
 0.0.0.0 google1302.com
 0.0.0.0 google1308.com
@@ -573,18 +553,12 @@
 0.0.0.0 help.microsofth.com
 0.0.0.0 home-facebook.blogspot.com
 0.0.0.0 hostcdn-whatsapp.com
-0.0.0.0 hostly-whatsapp.com
 0.0.0.0 hostpush-whatsapp.com
 0.0.0.0 hot-binance.com.cn
 0.0.0.0 hsbc-sec.com
 0.0.0.0 httpapi-whatsapp.com
 0.0.0.0 httpcdn-whatsapp.com
 0.0.0.0 httpsrv-whatsapp.com
-0.0.0.0 hubbox-whatsapp.com
-0.0.0.0 hubkit-whatsapp.com
-0.0.0.0 hublab-whatsapp.com
-0.0.0.0 hubrun-whatsapp.com
-0.0.0.0 hubset-whatsapp.com
 0.0.0.0 icloud-ayuda-online.help
 0.0.0.0 icloud-lost.us
 0.0.0.0 ideeo.mx
@@ -677,11 +651,6 @@
 0.0.0.0 jsqnjzyg.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
 0.0.0.0 jwb-facebook.blogspot.com
 0.0.0.0 kauadosantos.github.io
-0.0.0.0 kitapp-whatsapp.com
-0.0.0.0 kitdev-whatsapp.com
-0.0.0.0 kitrun-whatsapp.com
-0.0.0.0 kitset-whatsapp.com
-0.0.0.0 kitweb-whatsapp.com
 0.0.0.0 knife-whatsapp.com
 0.0.0.0 kraken-tor.co.com
 0.0.0.0 kucoin-referral-code-pt.vercel.app
@@ -691,12 +660,6 @@
 0.0.0.0 kucoinlogin.blogspot.com
 0.0.0.0 kucoinloginaa.gitbook.io
 0.0.0.0 kucoinloign.gitbook.io
-0.0.0.0 labapi-whatsapp.com
-0.0.0.0 labbox-whatsapp.com
-0.0.0.0 labkit-whatsapp.com
-0.0.0.0 labrun-whatsapp.com
-0.0.0.0 labuse-whatsapp.com
-0.0.0.0 labweb-whatsapp.com
 0.0.0.0 latest-whatsapp.com
 0.0.0.0 layer-whatsapp.com
 0.0.0.0 layout-whatsapp.com
@@ -715,7 +678,6 @@
 0.0.0.0 limit-whatsapp.com
 0.0.0.0 linkedin-antanim.vercel.app
 0.0.0.0 linkhost-whatsapp.com
-0.0.0.0 linkhub-whatsapp.com
 0.0.0.0 lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
 0.0.0.0 lkupteraz.rest
 0.0.0.0 lobster-cloud.com
@@ -735,7 +697,6 @@
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lpfweb-whatsapp.com
 0.0.0.0 ly-facebook.blogspot.com
-0.0.0.0 m-facebooks.vn
 0.0.0.0 m4ntapaset.ink
 0.0.0.0 maccesshub.com
 0.0.0.0 macro-whatsapp.com
@@ -754,6 +715,7 @@
 0.0.0.0 meme-facebook.blogspot.com
 0.0.0.0 merge-whatsapp.com
 0.0.0.0 metamask-ai-agent.vercel.app
+0.0.0.0 metamask-airdrop.xyz
 0.0.0.0 metamask-connect.vercel.app
 0.0.0.0 metamask-launchpad.vercel.app
 0.0.0.0 metamask-login.vercel.app
@@ -799,7 +761,6 @@
 0.0.0.0 neda-facebook.blogspot.com
 0.0.0.0 netauth-whatsapp.com
 0.0.0.0 netbot-whatsapp.com
-0.0.0.0 netbox-whatsapp.com
 0.0.0.0 netchat-whatsapp.com
 0.0.0.0 netedge-whatsapp.com
 0.0.0.0 netflix-71f05.firebaseapp.com
@@ -811,7 +772,6 @@
 0.0.0.0 netflix-web-site-three.vercel.app
 0.0.0.0 netflix.surf
 0.0.0.0 netflix6.com
-0.0.0.0 netflixandchiffres.com
 0.0.0.0 netflixbymanoj.vercel.app
 0.0.0.0 netflixcol.vercel.app
 0.0.0.0 netflixfeitoaqui.com.br
@@ -821,9 +781,6 @@
 0.0.0.0 netflixy-bixy.vercel.app
 0.0.0.0 netflixzap.com
 0.0.0.0 nethost-whatsapp.com
-0.0.0.0 netpro-whatsapp.com
-0.0.0.0 netset-whatsapp.com
-0.0.0.0 netsys-whatsapp.com
 0.0.0.0 network-facebook.blogspot.com
 0.0.0.0 next-whatsapp.com
 0.0.0.0 nfdweb-whatsapp.com
@@ -844,10 +801,6 @@
 0.0.0.0 opensea-six.vercel.app
 0.0.0.0 openseaproks007.vercel.app
 0.0.0.0 openseavxr.vercel.app
-0.0.0.0 opsbox-whatsapp.com
-0.0.0.0 opshub-whatsapp.com
-0.0.0.0 opskit-whatsapp.com
-0.0.0.0 opsnet-whatsapp.com
 0.0.0.0 opsnode-whatsapp.com
 0.0.0.0 orbit-whatsapp.com
 0.0.0.0 orchestrator-whatsapp.com
@@ -876,9 +829,9 @@
 0.0.0.0 perplexity-beta-ads.com
 0.0.0.0 ph-whatsapp.com
 0.0.0.0 photos-instagram.vercel.app
-0.0.0.0 pi-oferta885815.lat
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 pipe-whatsapp.com
+0.0.0.0 pk-transport83746.top
 0.0.0.0 pl-58372m916204oferta84731k592608.sbs
 0.0.0.0 pl-986712.sbs
 0.0.0.0 pl-zakupy9999812141.top
@@ -889,7 +842,7 @@
 0.0.0.0 premio-instagram.com
 0.0.0.0 prev-whatsapp.com
 0.0.0.0 profil-facebook-saya.blogspot.com
-0.0.0.0 prouse-whatsapp.com
+0.0.0.0 projectshare.ngrok.pro
 0.0.0.0 proxyapi-whatsapp.com
 0.0.0.0 ptai.in
 0.0.0.0 r-facebook.blogspot.com
@@ -921,9 +874,6 @@
 0.0.0.0 robloxc.com.es
 0.0.0.0 rricrosoft-offices.org
 0.0.0.0 ruddycruzc.github.io
-0.0.0.0 runapp-whatsapp.com
-0.0.0.0 rundev-whatsapp.com
-0.0.0.0 runops-whatsapp.com
 0.0.0.0 s-facebook.blogspot.com
 0.0.0.0 sa-onedrive.com
 0.0.0.0 sagers.com
@@ -937,12 +887,7 @@
 0.0.0.0 santandercitas.com
 0.0.0.0 saque-instagram.com
 0.0.0.0 search.er.in
-0.0.0.0 seclab-whatsapp.com
-0.0.0.0 secnet-whatsapp.com
 0.0.0.0 secnode-whatsapp.com
-0.0.0.0 secops-whatsapp.com
-0.0.0.0 secpro-whatsapp.com
-0.0.0.0 secsys-whatsapp.com
 0.0.0.0 secure-bridge-trezr-apps.typedream.app
 0.0.0.0 secure-coinbase-com-sign-in.typedream.app
 0.0.0.0 securedsupport-coinbase.com
@@ -954,11 +899,9 @@
 0.0.0.0 sessionapi-whatsapp.com
 0.0.0.0 sessioncdn-whatsapp.com
 0.0.0.0 sessionnode-whatsapp.com
-0.0.0.0 setkit-whatsapp.com
-0.0.0.0 setrun-whatsapp.com
-0.0.0.0 setuse-whatsapp.com
 0.0.0.0 seur-me.cc
 0.0.0.0 seurexpress.wpenginepowered.com
+0.0.0.0 sexy-whatsapp.blogspot.com
 0.0.0.0 sharepointonline-microsoft.com
 0.0.0.0 shield-whatsapp.com
 0.0.0.0 shopping-shop.jp
@@ -967,7 +910,6 @@
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 smallflyingarts.net
 0.0.0.0 smbweb-whatsapp.com
-0.0.0.0 softhub-whatsapp.com
 0.0.0.0 soilmatengineers.com
 0.0.0.0 sort-whatsapp.com
 0.0.0.0 splitter-whatsapp.com
@@ -1002,10 +944,8 @@
 0.0.0.0 support-ledgrcom-start-web.typedream.app
 0.0.0.0 support24h.app
 0.0.0.0 sysauth-whatsapp.com
-0.0.0.0 sysbox-whatsapp.com
 0.0.0.0 syschat-whatsapp.com
 0.0.0.0 sysdata-whatsapp.com
-0.0.0.0 syspro-whatsapp.com
 0.0.0.0 systemsharbor.com
 0.0.0.0 tamil.bid
 0.0.0.0 tara-facebook.blogspot.com
@@ -1083,7 +1023,6 @@
 0.0.0.0 webtrace-whatsapp.com
 0.0.0.0 welcome-trezr-suite.square.site
 0.0.0.0 wetransfer-1.vercel.app
-0.0.0.0 whatsapp-app-1lk.pages.dev
 0.0.0.0 whatsapp-dp-images.in
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-gruppo-connect.com
