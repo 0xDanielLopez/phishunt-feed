@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 1057
-# Updated: 2026-11-03T14:16:21Z
+# Entries: 1062
+# Updated: 2026-11-03T23:24:17Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -19,13 +19,12 @@
 0.0.0.0 912391293412.pl
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
-0.0.0.0 abenetgeneralservices.ca
 0.0.0.0 abkweb-whatsapp.com
 0.0.0.0 account-instagram.vercel.app
-0.0.0.0 account-secure.net
 0.0.0.0 acct-goog1e.com
 0.0.0.0 acounts-google.duckdns.org
 0.0.0.0 admin.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
+0.0.0.0 adobe-ngcckbusxdmnonhfhmaaikji.pages.dev
 0.0.0.0 adobefileviewer.dpdns.org
 0.0.0.0 adobeinstaller-virid.vercel.app
 0.0.0.0 adobeofhumans.com
@@ -100,6 +99,7 @@
 0.0.0.0 beta-instagram.vercel.app
 0.0.0.0 bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 0.0.0.0 binance-co.github.io
+0.0.0.0 binance-exchanges.cloud
 0.0.0.0 binance-mail.click
 0.0.0.0 binance-promo-code.vercel.app
 0.0.0.0 binance-red-packet.vercel.app
@@ -213,7 +213,6 @@
 0.0.0.0 cdnnet-whatsapp.com
 0.0.0.0 charm-whatsapp.com
 0.0.0.0 chatgpt0005.eu.org
-0.0.0.0 chatlgpt.com
 0.0.0.0 checkleaked.cc
 0.0.0.0 citrix-sharing.com
 0.0.0.0 click-facebook.blogspot.com
@@ -236,6 +235,7 @@
 0.0.0.0 coinbaseprologinv.gitbook.io
 0.0.0.0 coinbaseverify.vercel.app
 0.0.0.0 column-whatsapp.com
+0.0.0.0 com-login-us.com
 0.0.0.0 com-microsoftonline-ondrive.ca
 0.0.0.0 com.microsofth.com
 0.0.0.0 comcast-1-zeta.vercel.app
@@ -477,7 +477,6 @@
 0.0.0.0 facebookpagemanagement.com
 0.0.0.0 facebookpageslinkk.blogspot.com
 0.0.0.0 facebookprofilelinks.blogspot.com
-0.0.0.0 facebooks.com.vn
 0.0.0.0 facebooksecure.blogspot.com
 0.0.0.0 facebooksecurityhelp.blogspot.com
 0.0.0.0 facebookshops.best
@@ -517,6 +516,7 @@
 0.0.0.0 gloronyan.github.io
 0.0.0.0 glovonetwork.com
 0.0.0.0 go-google.com
+0.0.0.0 google-alerter.com
 0.0.0.0 google-apk.com
 0.0.0.0 google1208.com
 0.0.0.0 google1302.com
@@ -547,11 +547,13 @@
 0.0.0.0 hostcdn-whatsapp.com
 0.0.0.0 hostpush-whatsapp.com
 0.0.0.0 hot-binance.com.cn
+0.0.0.0 hotmail666.com
 0.0.0.0 hsbc-sec.com
 0.0.0.0 httpapi-whatsapp.com
 0.0.0.0 httpcdn-whatsapp.com
 0.0.0.0 httpsrv-whatsapp.com
 0.0.0.0 icloud-lost.us
+0.0.0.0 icloudmapfind.help
 0.0.0.0 ideeo.mx
 0.0.0.0 ids-whatsapp.com
 0.0.0.0 ifotografix.co.uk
@@ -686,6 +688,7 @@
 0.0.0.0 login.wccheck-346e1e56-a.yfcowbetawww.santander.bimp-bot.duckdns.org
 0.0.0.0 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 0.0.0.0 logowanie-facebook.vercel.app
+0.0.0.0 lokalna548669.sbs
 0.0.0.0 lookup-whatsapp.com
 0.0.0.0 love-facebook.blogspot.com
 0.0.0.0 lovefive-facebook.blogspot.com
@@ -702,7 +705,6 @@
 0.0.0.0 mailnode-whatsapp.com
 0.0.0.0 mainscreen-ledgerlive.com
 0.0.0.0 maps-apple.support
-0.0.0.0 marketmaestroovip.in
 0.0.0.0 match-whatsapp.com
 0.0.0.0 mb-facebook.blogspot.com
 0.0.0.0 meet-googlee46347975696.pages.dev
@@ -728,10 +730,10 @@
 0.0.0.0 metrics-whatsapp.com
 0.0.0.0 mi-santander.com
 0.0.0.0 michaeltenzer.com
+0.0.0.0 micr0s0ft-1ug.pages.dev
 0.0.0.0 microsoft-africa.org
 0.0.0.0 microsoft-alpha.vercel.app
 0.0.0.0 microsoft-online.gr
-0.0.0.0 microsoft-sharepoint.fr
 0.0.0.0 microsoft-ssl.com
 0.0.0.0 microsoft-telemetry.at
 0.0.0.0 microsoft0117.vercel.app
@@ -751,12 +753,14 @@
 0.0.0.0 mono-whatsapp.com
 0.0.0.0 movistar-recaudo-epayc.com
 0.0.0.0 my-facebook-blog.blogspot.com
+0.0.0.0 my-kraken.com
 0.0.0.0 my-spotify.app
 0.0.0.0 mybluehost.me
 0.0.0.0 mykraken.exchange
 0.0.0.0 mytemp.website
 0.0.0.0 nat-whatsapp.com
 0.0.0.0 natnode-whatsapp.com
+0.0.0.0 nav-binance.com.cn
 0.0.0.0 nbpublic.com
 0.0.0.0 neda-facebook.blogspot.com
 0.0.0.0 neokitjyg.servebeer.com
@@ -771,6 +775,7 @@
 0.0.0.0 netflix-renovacion-es.com
 0.0.0.0 netflix-trial.vercel.app
 0.0.0.0 netflix-web-site-three.vercel.app
+0.0.0.0 netflix.com.bd
 0.0.0.0 netflix.surf
 0.0.0.0 netflix6.com
 0.0.0.0 netflixbymanoj.vercel.app
@@ -795,7 +800,6 @@
 0.0.0.0 noreply-icloud.app
 0.0.0.0 nosqldb-whatsapp.com
 0.0.0.0 nqxweb-whatsapp.com
-0.0.0.0 nr-238snm3.sbs
 0.0.0.0 nw-facebook.blogspot.com
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 onedrive-1-one.vercel.app
@@ -937,6 +941,7 @@
 0.0.0.0 su-facebook.blogspot.com
 0.0.0.0 sugar-outlook.com
 0.0.0.0 suite-app-docs-trezr.typedream.app
+0.0.0.0 support-apple-id.shop
 0.0.0.0 support-apple.help
 0.0.0.0 support-appleld.info
 0.0.0.0 support-ledgerlive-eng.typedream.app

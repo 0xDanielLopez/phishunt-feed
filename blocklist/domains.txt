@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 1057
-# Updated: 2026-11-03T14:16:21Z
+# Entries: 1062
+# Updated: 2026-11-03T23:24:16Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -19,13 +19,12 @@
 912391293412.pl
 a2zapk.co
 a2zapk.dev
-abenetgeneralservices.ca
 abkweb-whatsapp.com
 account-instagram.vercel.app
-account-secure.net
 acct-goog1e.com
 acounts-google.duckdns.org
 admin.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
+adobe-ngcckbusxdmnonhfhmaaikji.pages.dev
 adobefileviewer.dpdns.org
 adobeinstaller-virid.vercel.app
 adobeofhumans.com
@@ -100,6 +99,7 @@ bet-facebook.blogspot.com
 beta-instagram.vercel.app
 bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 binance-co.github.io
+binance-exchanges.cloud
 binance-mail.click
 binance-promo-code.vercel.app
 binance-red-packet.vercel.app
@@ -213,7 +213,6 @@ cdnedge-whatsapp.com
 cdnnet-whatsapp.com
 charm-whatsapp.com
 chatgpt0005.eu.org
-chatlgpt.com
 checkleaked.cc
 citrix-sharing.com
 click-facebook.blogspot.com
@@ -236,6 +235,7 @@ coinbaseprolns.com
 coinbaseprologinv.gitbook.io
 coinbaseverify.vercel.app
 column-whatsapp.com
+com-login-us.com
 com-microsoftonline-ondrive.ca
 com.microsofth.com
 comcast-1-zeta.vercel.app
@@ -477,7 +477,6 @@ facebookmail-facebook.blogspot.com
 facebookpagemanagement.com
 facebookpageslinkk.blogspot.com
 facebookprofilelinks.blogspot.com
-facebooks.com.vn
 facebooksecure.blogspot.com
 facebooksecurityhelp.blogspot.com
 facebookshops.best
@@ -517,6 +516,7 @@ globaldoctors.asia
 gloronyan.github.io
 glovonetwork.com
 go-google.com
+google-alerter.com
 google-apk.com
 google1208.com
 google1302.com
@@ -547,11 +547,13 @@ home-facebook.blogspot.com
 hostcdn-whatsapp.com
 hostpush-whatsapp.com
 hot-binance.com.cn
+hotmail666.com
 hsbc-sec.com
 httpapi-whatsapp.com
 httpcdn-whatsapp.com
 httpsrv-whatsapp.com
 icloud-lost.us
+icloudmapfind.help
 ideeo.mx
 ids-whatsapp.com
 ifotografix.co.uk
@@ -686,6 +688,7 @@ login.rmdbwskx.santander.bimp-bot.duckdns.org
 login.wccheck-346e1e56-a.yfcowbetawww.santander.bimp-bot.duckdns.org
 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 logowanie-facebook.vercel.app
+lokalna548669.sbs
 lookup-whatsapp.com
 love-facebook.blogspot.com
 lovefive-facebook.blogspot.com
@@ -702,7 +705,6 @@ maillink-whatsapp.com
 mailnode-whatsapp.com
 mainscreen-ledgerlive.com
 maps-apple.support
-marketmaestroovip.in
 match-whatsapp.com
 mb-facebook.blogspot.com
 meet-googlee46347975696.pages.dev
@@ -728,10 +730,10 @@ metamaskwallett.blogspot.com
 metrics-whatsapp.com
 mi-santander.com
 michaeltenzer.com
+micr0s0ft-1ug.pages.dev
 microsoft-africa.org
 microsoft-alpha.vercel.app
 microsoft-online.gr
-microsoft-sharepoint.fr
 microsoft-ssl.com
 microsoft-telemetry.at
 microsoft0117.vercel.app
@@ -751,12 +753,14 @@ monjaro-amazon.com
 mono-whatsapp.com
 movistar-recaudo-epayc.com
 my-facebook-blog.blogspot.com
+my-kraken.com
 my-spotify.app
 mybluehost.me
 mykraken.exchange
 mytemp.website
 nat-whatsapp.com
 natnode-whatsapp.com
+nav-binance.com.cn
 nbpublic.com
 neda-facebook.blogspot.com
 neokitjyg.servebeer.com
@@ -771,6 +775,7 @@ netflix-homepage-pi.vercel.app
 netflix-renovacion-es.com
 netflix-trial.vercel.app
 netflix-web-site-three.vercel.app
+netflix.com.bd
 netflix.surf
 netflix6.com
 netflixbymanoj.vercel.app
@@ -795,7 +800,6 @@ nodeedge-whatsapp.com
 noreply-icloud.app
 nosqldb-whatsapp.com
 nqxweb-whatsapp.com
-nr-238snm3.sbs
 nw-facebook.blogspot.com
 office365licensingsupport.com
 onedrive-1-one.vercel.app
@@ -937,6 +941,7 @@ style-whatsapp.com
 su-facebook.blogspot.com
 sugar-outlook.com
 suite-app-docs-trezr.typedream.app
+support-apple-id.shop
 support-apple.help
 support-appleld.info
 support-ledgerlive-eng.typedream.app
