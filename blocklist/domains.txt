@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 1055
-# Updated: 2026-11-02T15:48:59Z
+# Entries: 1048
+# Updated: 2026-11-03T00:58:32Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -8,15 +8,13 @@
 
 1056804.com
 123-facebook.blogspot.com
-123109h45odi.lat
 128738-coinbase.com
 1479182-coinbase.com
 1789503-coinbase.com
 2017-facebook.blogspot.com
-329583548349.courses
+21812989hio54.pics
 401283-outlookmailbox-00012-validate.weebly.com
 491217-coinbase.com
-821382.shop
 912391293412.pl
 a2zapk.co
 a2zapk.dev
@@ -25,11 +23,13 @@ abkweb-whatsapp.com
 account-instagram.vercel.app
 acounts-google.duckdns.org
 admin.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
+adobe-lhmmcdbxxepsgidlepjvxgee.pages.dev
+adobe-tznkyjtaxdgxlbkuapslhjpi.pages.dev
+adobe-zjautumlyyzkvspnnntkgndq.pages.dev
 adobefileviewer.dpdns.org
 adobeinstaller-virid.vercel.app
 adobeofhumans.com
 aggregator-whatsapp.com
-ahoranegociosaaa.com
 akc-whatsapp.com
 akd-whatsapp.com
 ake-whatsapp.com
@@ -37,6 +37,7 @@ alb-whatsapp.com
 alc-whatsapp.com
 ald-whatsapp.com
 ale-whatsapp.com
+alert-findmydevice.live
 alerta-appleid.info
 alf-whatsapp.com
 alibaba188.org
@@ -90,7 +91,6 @@ azure.microsofth.com
 backname.io
 backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 bankofamerica-tx.com
-bankofamericamailcompte.blogspot.com
 barcelona-facebook.blogspot.com
 barclays-bank.vercel.app
 bbvalues.uk
@@ -289,7 +289,6 @@ dir.com.my
 discovery-whatsapp.com
 discoveryloft.com
 dj-facebook.blogspot.com
-dk-kupno562399.lol
 dmpweb-whatsapp.com
 dnscloud-whatsapp.com
 dnsedge-whatsapp.com
@@ -303,6 +302,8 @@ dotnet.microsofth.com
 dow-nload-ledger-live--doc.typedream.app
 dpd-bexnaro.com
 dpd-calviro.click
+dpd-ie-pack.top
+dpd-ie-pack.vip
 dpd-ios.rest
 dpd-malvexa.click
 dpd-ravlimo.com
@@ -384,7 +385,6 @@ facebook-groups-new.blogspot.com
 facebook-hack-accounts.blogspot.com
 facebook-help-m.blogspot.com
 facebook-hr.blogspot.com
-facebook-in.blogspot.com
 facebook-int.blogspot.com
 facebook-linkedin.blogspot.com
 facebook-logiin.vercel.app
@@ -427,7 +427,6 @@ facebook-system.blogspot.com
 facebook-theta.vercel.app
 facebook-trk.blogspot.com
 facebook-verification-system3.blogspot.com
-facebook-verification-system4.blogspot.com
 facebook-verification-system5.blogspot.com
 facebook-verify.blogspot.com
 facebook-video-share.blogspot.com
@@ -439,7 +438,6 @@ facebook1019key.blogspot.com
 facebook7-facebook.blogspot.com
 facebookaccountsmanager.blogspot.com
 facebookahla.blogspot.com
-facebookbfacebook.blogspot.com
 facebookbigeronline.blogspot.com
 facebookbusiines.github.io
 facebookcomfacebook.blogspot.com
@@ -527,7 +525,6 @@ google-apk.com
 google1208.com
 google1302.com
 google1308.com
-googlebusiness.xyz
 googlecontacts.email
 googleepkay.com
 googleepway.com
@@ -545,7 +542,6 @@ googleppy.com
 googlestore.cc
 gzlweb-whatsapp.com
 hameem.net
-hanb43g891.top
 happy-whatsapp.com
 hashnode.dev
 help-instagram.blogspot.com
@@ -559,7 +555,6 @@ hsbc-sec.com
 httpapi-whatsapp.com
 httpcdn-whatsapp.com
 httpsrv-whatsapp.com
-icloud-ayuda-online.help
 icloud-lost.us
 ideeo.mx
 ids-whatsapp.com
@@ -608,7 +603,6 @@ instagram-register.blogspot.com
 instagram-ten-blond.vercel.app
 instagram-test.vercel.app
 instagram-tip.blogspot.com
-instagram-users.blogspot.com
 instagram-usman-haider.vercel.app
 instagram157.github.io
 instagram90sedition.vercel.app
@@ -715,7 +709,6 @@ meet-googlee7823629056.pages.dev
 meme-facebook.blogspot.com
 merge-whatsapp.com
 metamask-ai-agent.vercel.app
-metamask-airdrop.xyz
 metamask-connect.vercel.app
 metamask-launchpad.vercel.app
 metamask-login.vercel.app
@@ -743,6 +736,9 @@ microsoft0117.vercel.app
 microsoft365businessbasic.com
 microsoft365updates.com
 microsoftjk.eu.org
+microsoftonline-sharepoint.online
+microsoftturkey.com
+microsoftturkiye.com
 microsoftwordob.blogspot.com
 mirror-google.com
 mkwweb-whatsapp.com
@@ -753,6 +749,7 @@ mono-whatsapp.com
 movistar-recaudo-epayc.com
 my-facebook-blog.blogspot.com
 my-spotify.app
+mybluehost.me
 mykraken.exchange
 mytemp.website
 nat-whatsapp.com
@@ -767,6 +764,7 @@ netflix-71f05.firebaseapp.com
 netflix-colombia.vercel.app
 netflix-coral-zeta.vercel.app
 netflix-homepage-pi.vercel.app
+netflix-renovacion-es.com
 netflix-sandy-alpha.vercel.app
 netflix-trial.vercel.app
 netflix-web-site-three.vercel.app
@@ -777,6 +775,7 @@ netflixcol.vercel.app
 netflixfeitoaqui.com.br
 netflixgpt-react.vercel.app
 netflixquebec.blogspot.com
+netflixssh.shop
 netflixvoid.org
 netflixy-bixy.vercel.app
 netflixzap.com
@@ -817,7 +816,6 @@ outlookmail.social
 outlookmails.de
 page-instagram.vercel.app
 page-kucoin-en-us.typedream.app
-parterro.com
 paykmc.com
 paypal-com-aspi-dll.us
 paypal-logiin.blogspot.com
@@ -831,14 +829,11 @@ ph-whatsapp.com
 photos-instagram.vercel.app
 piedrasdecolon.com.ar
 pipe-whatsapp.com
-pk-transport83746.top
 pl-58372m916204oferta84731k592608.sbs
-pl-986712.sbs
 pl-zakupy9999812141.top
 platform-kraken.cc
 podnode-whatsapp.com
 pomarosahotel.com
-pr493h-f23d1.pics
 premio-instagram.com
 prev-whatsapp.com
 profil-facebook-saya.blogspot.com
@@ -870,7 +865,6 @@ roblox.com.kz
 roblox.com.ml
 roblox.com.pt
 roblox.com.ss
-roblox.ss
 robloxc.com.es
 rricrosoft-offices.org
 ruddycruzc.github.io
@@ -923,7 +917,6 @@ spotifyprimiumapk.com
 spotifysonic.com
 sprinklers-orlando.com
 srpska-banka.com
-srv6-coinbase.com
 sslcert-whatsapp.com
 ssltls-whatsapp.com
 stack-whatsapp.com
@@ -975,7 +968,6 @@ ttgyahvw.login.microsoftonline-billing-verification-secured-help.161-35-102-243.
 uk-facebook.blogspot.com
 unicaja-inicio.net
 updata.net.cn
-ur372h9.buzz
 us--ledger-live-crypto-cdn-en.typedream.app
 usdt-trustwallet-blockchain.vercel.app
 uspsaunitedworkforce.com
@@ -1003,6 +995,7 @@ wave-whatsapp.com
 waycobeauty.com
 wccheck-760967a0-ext.wccheck-32275d6f-a.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 web-conect-us-ledger-live-wallet.typedream.app
+web-meet-google.com
 web-trezor-io-start-us.vercel.app
 webaccess-alert.com
 webcompiler-whatsapp.com
