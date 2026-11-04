@@ -1,20 +1,18 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 1062
-# Updated: 2026-11-03T23:24:17Z
+# Entries: 1066
+# Updated: 2026-11-04T06:23:49Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
-0.0.0.0 00r230h45-f34.help
-0.0.0.0 0130321h4f23.casa
 0.0.0.0 1056804.com
 0.0.0.0 123-facebook.blogspot.com
-0.0.0.0 128738-coinbase.com
 0.0.0.0 1479182-coinbase.com
 0.0.0.0 1789503-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 401283-outlookmailbox-00012-validate.weebly.com
+0.0.0.0 4872934723948762.sbs
 0.0.0.0 491217-coinbase.com
 0.0.0.0 912391293412.pl
 0.0.0.0 a2zapk.co
@@ -24,7 +22,6 @@
 0.0.0.0 acct-goog1e.com
 0.0.0.0 acounts-google.duckdns.org
 0.0.0.0 admin.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
-0.0.0.0 adobe-ngcckbusxdmnonhfhmaaikji.pages.dev
 0.0.0.0 adobefileviewer.dpdns.org
 0.0.0.0 adobeinstaller-virid.vercel.app
 0.0.0.0 adobeofhumans.com
@@ -154,6 +151,7 @@
 0.0.0.0 bnw-whatsapp.com
 0.0.0.0 bnx-whatsapp.com
 0.0.0.0 bny-whatsapp.com
+0.0.0.0 bnyapplication.com
 0.0.0.0 boc-whatsapp.com
 0.0.0.0 bod-whatsapp.com
 0.0.0.0 boe-whatsapp.com
@@ -431,6 +429,7 @@
 0.0.0.0 facebook-vu.blogspot.com
 0.0.0.0 facebook-xi-coral.vercel.app
 0.0.0.0 facebook1019key.blogspot.com
+0.0.0.0 facebook24-facebook.blogspot.com
 0.0.0.0 facebook7-facebook.blogspot.com
 0.0.0.0 facebookaccountsmanager.blogspot.com
 0.0.0.0 facebookahla.blogspot.com
@@ -642,8 +641,8 @@
 0.0.0.0 jj-facebook.blogspot.com
 0.0.0.0 jo-facebook.blogspot.com
 0.0.0.0 joker-whatsapp.com
-0.0.0.0 jp-id.cc
 0.0.0.0 jsqnjzyg.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
+0.0.0.0 juliantrouch.github.io
 0.0.0.0 jwb-facebook.blogspot.com
 0.0.0.0 kauadosantos.github.io
 0.0.0.0 knife-whatsapp.com
@@ -730,13 +729,13 @@
 0.0.0.0 metrics-whatsapp.com
 0.0.0.0 mi-santander.com
 0.0.0.0 michaeltenzer.com
-0.0.0.0 micr0s0ft-1ug.pages.dev
 0.0.0.0 microsoft-africa.org
 0.0.0.0 microsoft-alpha.vercel.app
 0.0.0.0 microsoft-online.gr
 0.0.0.0 microsoft-ssl.com
 0.0.0.0 microsoft-telemetry.at
 0.0.0.0 microsoft0117.vercel.app
+0.0.0.0 microsoft09-one.vercel.app
 0.0.0.0 microsoft365businessbasic.com
 0.0.0.0 microsoft365updates.com
 0.0.0.0 microsoftjk.eu.org
@@ -752,6 +751,7 @@
 0.0.0.0 monjaro-amazon.com
 0.0.0.0 mono-whatsapp.com
 0.0.0.0 movistar-recaudo-epayc.com
+0.0.0.0 movistarexpresss.org
 0.0.0.0 my-facebook-blog.blogspot.com
 0.0.0.0 my-kraken.com
 0.0.0.0 my-spotify.app
@@ -811,6 +811,7 @@
 0.0.0.0 openseaproks007.vercel.app
 0.0.0.0 openseavxr.vercel.app
 0.0.0.0 opsnode-whatsapp.com
+0.0.0.0 or812899h.pics
 0.0.0.0 orbit-whatsapp.com
 0.0.0.0 orchestrator-whatsapp.com
 0.0.0.0 orygozcb.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
@@ -840,21 +841,21 @@
 0.0.0.0 photos-instagram.vercel.app
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 pipe-whatsapp.com
+0.0.0.0 pl-smart234523.sbs
 0.0.0.0 platform-kraken.cc
 0.0.0.0 podnode-whatsapp.com
 0.0.0.0 pomarosahotel.com
 0.0.0.0 premio-instagram.com
 0.0.0.0 prev-whatsapp.com
 0.0.0.0 profil-facebook-saya.blogspot.com
-0.0.0.0 projectshare.ngrok.pro
 0.0.0.0 proxyapi-whatsapp.com
 0.0.0.0 ptai.in
 0.0.0.0 r-facebook.blogspot.com
 0.0.0.0 rama-facebook.blogspot.com
+0.0.0.0 rbxshader.com
 0.0.0.0 reactivar-microsoft-live.iceiy.com
 0.0.0.0 receiptslinkedin.com
 0.0.0.0 recreate-instagrampage.vercel.app
-0.0.0.0 redirecthelp.com
 0.0.0.0 register-facebook.blogspot.com
 0.0.0.0 repoapi-whatsapp.com
 0.0.0.0 repocdn-whatsapp.com
@@ -864,6 +865,7 @@
 0.0.0.0 rezerwacja42589.click
 0.0.0.0 roblox-login.vercel.app
 0.0.0.0 roblox.com.am
+0.0.0.0 roblox.com.bi
 0.0.0.0 roblox.com.bo
 0.0.0.0 roblox.com.bz
 0.0.0.0 roblox.com.ee
@@ -896,6 +898,7 @@
 0.0.0.0 secure-coinbase-com-sign-in.typedream.app
 0.0.0.0 securedsupport-coinbase.com
 0.0.0.0 secureserver.net
+0.0.0.0 seletc-binance.com.cn
 0.0.0.0 send-money-cashapp.com
 0.0.0.0 send-secure-trustwallet-usdt-bip20.vercel.app
 0.0.0.0 servercdn-whatsapp.com
@@ -1046,6 +1049,7 @@
 0.0.0.0 ww-facebook.blogspot.com
 0.0.0.0 www-app-google.com
 0.0.0.0 www-apple.support
+0.0.0.0 www-googlegravity.com
 0.0.0.0 www.mxjkckus.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
 0.0.0.0 www.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-125-38.cpanel.site
 0.0.0.0 www.zygzsdwh.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site

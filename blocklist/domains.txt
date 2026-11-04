@@ -1,20 +1,18 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 1062
-# Updated: 2026-11-03T23:24:16Z
+# Entries: 1066
+# Updated: 2026-11-04T06:23:49Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
-00r230h45-f34.help
-0130321h4f23.casa
 1056804.com
 123-facebook.blogspot.com
-128738-coinbase.com
 1479182-coinbase.com
 1789503-coinbase.com
 2017-facebook.blogspot.com
 401283-outlookmailbox-00012-validate.weebly.com
+4872934723948762.sbs
 491217-coinbase.com
 912391293412.pl
 a2zapk.co
@@ -24,7 +22,6 @@ account-instagram.vercel.app
 acct-goog1e.com
 acounts-google.duckdns.org
 admin.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
-adobe-ngcckbusxdmnonhfhmaaikji.pages.dev
 adobefileviewer.dpdns.org
 adobeinstaller-virid.vercel.app
 adobeofhumans.com
@@ -154,6 +151,7 @@ bnv-whatsapp.com
 bnw-whatsapp.com
 bnx-whatsapp.com
 bny-whatsapp.com
+bnyapplication.com
 boc-whatsapp.com
 bod-whatsapp.com
 boe-whatsapp.com
@@ -431,6 +429,7 @@ facebook-vn-com.blogspot.com
 facebook-vu.blogspot.com
 facebook-xi-coral.vercel.app
 facebook1019key.blogspot.com
+facebook24-facebook.blogspot.com
 facebook7-facebook.blogspot.com
 facebookaccountsmanager.blogspot.com
 facebookahla.blogspot.com
@@ -642,8 +641,8 @@ jayaram0550.github.io
 jj-facebook.blogspot.com
 jo-facebook.blogspot.com
 joker-whatsapp.com
-jp-id.cc
 jsqnjzyg.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
+juliantrouch.github.io
 jwb-facebook.blogspot.com
 kauadosantos.github.io
 knife-whatsapp.com
@@ -730,13 +729,13 @@ metamaskwallett.blogspot.com
 metrics-whatsapp.com
 mi-santander.com
 michaeltenzer.com
-micr0s0ft-1ug.pages.dev
 microsoft-africa.org
 microsoft-alpha.vercel.app
 microsoft-online.gr
 microsoft-ssl.com
 microsoft-telemetry.at
 microsoft0117.vercel.app
+microsoft09-one.vercel.app
 microsoft365businessbasic.com
 microsoft365updates.com
 microsoftjk.eu.org
@@ -752,6 +751,7 @@ model-whatsapp.com
 monjaro-amazon.com
 mono-whatsapp.com
 movistar-recaudo-epayc.com
+movistarexpresss.org
 my-facebook-blog.blogspot.com
 my-kraken.com
 my-spotify.app
@@ -811,6 +811,7 @@ opensea-six.vercel.app
 openseaproks007.vercel.app
 openseavxr.vercel.app
 opsnode-whatsapp.com
+or812899h.pics
 orbit-whatsapp.com
 orchestrator-whatsapp.com
 orygozcb.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
@@ -840,21 +841,21 @@ ph-whatsapp.com
 photos-instagram.vercel.app
 piedrasdecolon.com.ar
 pipe-whatsapp.com
+pl-smart234523.sbs
 platform-kraken.cc
 podnode-whatsapp.com
 pomarosahotel.com
 premio-instagram.com
 prev-whatsapp.com
 profil-facebook-saya.blogspot.com
-projectshare.ngrok.pro
 proxyapi-whatsapp.com
 ptai.in
 r-facebook.blogspot.com
 rama-facebook.blogspot.com
+rbxshader.com
 reactivar-microsoft-live.iceiy.com
 receiptslinkedin.com
 recreate-instagrampage.vercel.app
-redirecthelp.com
 register-facebook.blogspot.com
 repoapi-whatsapp.com
 repocdn-whatsapp.com
@@ -864,6 +865,7 @@ rev.it
 rezerwacja42589.click
 roblox-login.vercel.app
 roblox.com.am
+roblox.com.bi
 roblox.com.bo
 roblox.com.bz
 roblox.com.ee
@@ -896,6 +898,7 @@ secure-bridge-trezr-apps.typedream.app
 secure-coinbase-com-sign-in.typedream.app
 securedsupport-coinbase.com
 secureserver.net
+seletc-binance.com.cn
 send-money-cashapp.com
 send-secure-trustwallet-usdt-bip20.vercel.app
 servercdn-whatsapp.com
@@ -1046,6 +1049,7 @@ wooflers.com
 ww-facebook.blogspot.com
 www-app-google.com
 www-apple.support
+www-googlegravity.com
 www.mxjkckus.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
 www.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-125-38.cpanel.site
 www.zygzsdwh.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
