@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 971
-# Updated: 2026-11-07T12:56:52Z
+# Entries: 958
+# Updated: 2026-11-07T21:42:42Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -10,8 +10,9 @@
 1479182-coinbase.com
 1789503-coinbase.com
 2017-facebook.blogspot.com
-40129i12-transportowa.homes
+58273.sbs
 73265428375733.sbs
+832991-coinbase.com
 89237892.com
 912391293412.pl
 a2zapk.co
@@ -23,7 +24,8 @@ acounts-google.duckdns.org
 admin.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 adobefileviewer.dpdns.org
 adobeinstaller-virid.vercel.app
-adobeofhumans.com
+adobesign-coral.vercel.app
+adobesign-review.vercel.app
 adsbillinghub.com
 aggregator-whatsapp.com
 akc-whatsapp.com
@@ -32,7 +34,6 @@ ake-whatsapp.com
 alb-whatsapp.com
 alc-whatsapp.com
 ald-whatsapp.com
-ale-whatsapp.com
 alerta-appleid.info
 alf-whatsapp.com
 alibaba188.org
@@ -80,15 +81,7 @@ await-whatsapp.com
 axm-amazon.com
 backname.io
 backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
-bankofamerica-secure-account-protection.ph
-bankofamerica-secure-backup-transfer.ph
-bankofamerica-secure-contact.ph
-bankofamerica-secure-download.ph
-bankofamerica-secure-verification-update.ph
 bankofamerica-tx.com
-bankofamericafunds.ph
-bankofamericahttps.ph
-bankofamericasecuritiess.ph
 barclays-bank.vercel.app
 bbvalues.uk
 be-spotify.com
@@ -98,7 +91,6 @@ bercel.app
 beta-instagram.vercel.app
 bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 binance-co.github.io
-binance-exchanges.cloud
 binance-kplaw.top
 binance-mail.click
 binance-promo-code.vercel.app
@@ -301,7 +293,6 @@ drive03.com
 ebay-lwholesale.com
 ebay-phone-number.blogspot.com
 ebay-seller-center-managedpayments.vercel.app
-ebay-trend-checker.pages.dev
 edgeapi-whatsapp.com
 edgecdn-whatsapp.com
 edgehost-whatsapp.com
@@ -314,7 +305,6 @@ en-home-trezore.pages.dev
 en-ledgre.pages.dev
 en-trezor-suite-io.square.site
 ensuite-trexor.square.site
-epremo-akam.com
 epsilons.co
 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
 eu-facebook.blogspot.com
@@ -470,7 +460,6 @@ hameem.net
 happy-whatsapp.com
 hashnode.dev
 help-docs-metamask.gitbook.io
-help-instagram.blogspot.com
 help-kraken-com-eng.square.site
 hostcdn-whatsapp.com
 hostpush-whatsapp.com
@@ -478,11 +467,13 @@ hot-binance.com.cn
 hotmail666.com
 hsbc-sec.com
 hsbcverifyadvisorhelp.com
+htiprzedmiot213242332.sbs
 httpapi-whatsapp.com
 httpcdn-whatsapp.com
 httpsrv-whatsapp.com
 icloud-lost.us
 icloud-suporteid.com
+icloudhelp.com
 ideeo.mx
 ids-whatsapp.com
 ifotografix.co.uk
@@ -561,8 +552,8 @@ ivory-whatsapp.com
 jayaram0550.github.io
 joker-whatsapp.com
 jsqnjzyg.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
-juliantrouch.github.io
 kauadosantos.github.io
+kazyno-10zl-paypal.net.pl
 klarnaplayes.shop
 knife-whatsapp.com
 kraken-tor.co.com
@@ -573,6 +564,7 @@ kucoinlogenac.gitbook.io
 kucoinlogin.blogspot.com
 kucoinloginaa.gitbook.io
 kucoinloign.gitbook.io
+kup-aukcja9734.lol
 latest-whatsapp.com
 layer-whatsapp.com
 layout-whatsapp.com
@@ -608,6 +600,7 @@ lookup-whatsapp.com
 lovefive-facebook.blogspot.com
 lpfweb-whatsapp.com
 ly-facebook.blogspot.com
+m-facebookk.com.vn
 m-facebooks.vn
 m4ntapaset.ink
 macro-whatsapp.com
@@ -631,7 +624,6 @@ metamask-ai-agent.vercel.app
 metamask-connect.vercel.app
 metamask-launchpad.vercel.app
 metamask-login.vercel.app
-metamask-sdk-examples.vercel.app
 metamask-six.vercel.app
 metamask-wallet.vercel.app
 metamask-web.vercel.app
@@ -685,9 +677,7 @@ netflix-coral-zeta.vercel.app
 netflix-homepage-pi.vercel.app
 netflix-profile.com
 netflix-renovacion-es.com
-netflix-trial.vercel.app
 netflix-web-site-three.vercel.app
-netflix.com.bd
 netflix.surf
 netflix6.com
 netflixbymanoj.vercel.app
@@ -714,9 +704,9 @@ o356.ee
 oferta98340.sbs
 office365licensingsupport.com
 ogloszenie832.cfd
+ogoszenie-58175065.sbs
 onedrive-1-one.vercel.app
 onedrive-4-nine.vercel.app
-onguard.co.za
 open-instagram.vercel.app
 openai-online.net
 opensea-six.vercel.app
@@ -744,8 +734,6 @@ paypal-logiin.blogspot.com
 paypal-password.blogspot.com
 paypal-verify.vercel.app
 paypalcorp.blogspot.com
-paypaldashboard.app
-paypliant.com
 peputragroup.com
 perfectgiftchoice.life
 perplexity-beta-ads.com
@@ -753,11 +741,12 @@ ph-whatsapp.com
 photos-instagram.vercel.app
 piedrasdecolon.com.ar
 pipe-whatsapp.com
-pl-7252f5626152652oferta02092827392.cfd
-pl-smart12476234.lol
-pl-smart236784.sbs
+pl-3478652.sbs
+pl-3478951324.lol
+pl-numerbiletu72313919.sbs
+pl74583.pl
 platform-kraken.cc
-poc-notlinkedin.com
+pll453fds32433sd30d2340392.shop
 podnode-whatsapp.com
 pomarosahotel.com
 premio-instagram.com
@@ -786,7 +775,6 @@ roblox.com.bz
 roblox.com.ee
 roblox.com.et
 roblox.com.gr
-roblox.com.kg
 roblox.com.ml
 roblox.com.pt
 roblox.com.ss
@@ -828,7 +816,6 @@ signin-web.com
 sk-facebook.blogspot.com
 skylar.web.id
 smallflyingarts.net
-smar84390-1230-12009.buzz
 smart-ofert23887239.sbs
 smbweb-whatsapp.com
 sort-whatsapp.com
@@ -862,6 +849,7 @@ support-apple.help
 support-appleld.info
 support-ledgerlive-eng.typedream.app
 support-ledgrcom-start-web.typedream.app
+support.zoom.us.vless.d165.dpdns.org
 support24h.app
 sysauth-whatsapp.com
 syschat-whatsapp.com
@@ -885,6 +873,7 @@ trezor-login-us-auth-start.typedream.app
 trezorguide.vercel.app
 trezoriostart-apps.square.site
 trust-wallet-login.vercel.app
+trust-wallet-usdt1.netlify.app
 trustwallet-helpcenter.vercel.app
 trustwallet-secure-check.vercel.app
 trustwallet-team-support.github.io
@@ -943,7 +932,6 @@ whatsapp-fast.vercel.app
 whatsapp-gruppo-connect.com
 whatsapp-iamsuyash.vercel.app
 whatsapp-me.web.id
-whatsapp-quickchat.vercel.app
 whatsapp-verify.blogspot.com
 whatsapp11-cnj.pages.dev
 whatsappapk.org
@@ -958,7 +946,6 @@ ww-facebook.blogspot.com
 www-app-google.com
 www-apple.support
 www-google-vipp.com
-www-googlegravity.com
 www.mxjkckus.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
 www.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-125-38.cpanel.site
 www.zygzsdwh.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
