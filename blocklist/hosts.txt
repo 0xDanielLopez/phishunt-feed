@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 980
-# Updated: 2026-11-07T05:59:13Z
+# Entries: 976
+# Updated: 2026-11-07T13:02:49Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -11,7 +11,6 @@
 0.0.0.0 1789503-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
 0.0.0.0 40129i12-transportowa.homes
-0.0.0.0 45325.sbs
 0.0.0.0 73265428375733.sbs
 0.0.0.0 89237892.com
 0.0.0.0 912391293412.pl
@@ -25,6 +24,8 @@
 0.0.0.0 adobefileviewer.dpdns.org
 0.0.0.0 adobeinstaller-virid.vercel.app
 0.0.0.0 adobeofhumans.com
+0.0.0.0 adobesign-coral.vercel.app
+0.0.0.0 adobesign-review.vercel.app
 0.0.0.0 adsbillinghub.com
 0.0.0.0 aggregator-whatsapp.com
 0.0.0.0 akc-whatsapp.com
@@ -240,10 +241,6 @@
 0.0.0.0 com-microsoftonline-ondrive.ca
 0.0.0.0 comcast-1-zeta.vercel.app
 0.0.0.0 comcast-2-iota.vercel.app
-0.0.0.0 comcast-2.vercel.app
-0.0.0.0 comcast-3-2.vercel.app
-0.0.0.0 comcast-3-3.vercel.app
-0.0.0.0 comcast-3.vercel.app
 0.0.0.0 comcast-ebon.vercel.app
 0.0.0.0 comcast-seven.vercel.app
 0.0.0.0 comcast-xi.vercel.app
@@ -451,7 +448,6 @@
 0.0.0.0 go-google.com
 0.0.0.0 google-alerter.com
 0.0.0.0 google-apk.com
-0.0.0.0 google-play-store-findsoulmate-meet-choiceforpartner.pages.dev
 0.0.0.0 google1208.com
 0.0.0.0 google1302.com
 0.0.0.0 google1308.com
@@ -487,7 +483,6 @@
 0.0.0.0 httpapi-whatsapp.com
 0.0.0.0 httpcdn-whatsapp.com
 0.0.0.0 httpsrv-whatsapp.com
-0.0.0.0 icloud-jp7.xyz
 0.0.0.0 icloud-lost.us
 0.0.0.0 icloud-suporteid.com
 0.0.0.0 ideeo.mx
@@ -570,6 +565,7 @@
 0.0.0.0 jsqnjzyg.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
 0.0.0.0 juliantrouch.github.io
 0.0.0.0 kauadosantos.github.io
+0.0.0.0 kazyno-10zl-paypal.net.pl
 0.0.0.0 klarnaplayes.shop
 0.0.0.0 knife-whatsapp.com
 0.0.0.0 kraken-tor.co.com
@@ -615,6 +611,7 @@
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lpfweb-whatsapp.com
 0.0.0.0 ly-facebook.blogspot.com
+0.0.0.0 m-facebookk.com.vn
 0.0.0.0 m-facebooks.vn
 0.0.0.0 m4ntapaset.ink
 0.0.0.0 macro-whatsapp.com
@@ -681,7 +678,6 @@
 0.0.0.0 nav-binance.com.cn
 0.0.0.0 nbpublic.com
 0.0.0.0 neda-facebook.blogspot.com
-0.0.0.0 neokitjyg.servebeer.com
 0.0.0.0 netauth-whatsapp.com
 0.0.0.0 netbot-whatsapp.com
 0.0.0.0 netchat-whatsapp.com
@@ -761,11 +757,10 @@
 0.0.0.0 photos-instagram.vercel.app
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 pipe-whatsapp.com
-0.0.0.0 pl-numerbiletu382138123.sbs
+0.0.0.0 pl-7252f5626152652oferta02092827392.cfd
 0.0.0.0 pl-smart12476234.lol
 0.0.0.0 pl-smart236784.sbs
 0.0.0.0 platform-kraken.cc
-0.0.0.0 pll453fds32433sd30d23408.shop
 0.0.0.0 poc-notlinkedin.com
 0.0.0.0 podnode-whatsapp.com
 0.0.0.0 pomarosahotel.com
@@ -894,6 +889,7 @@
 0.0.0.0 trezorguide.vercel.app
 0.0.0.0 trezoriostart-apps.square.site
 0.0.0.0 trust-wallet-login.vercel.app
+0.0.0.0 trust-wallet-usdt1.netlify.app
 0.0.0.0 trustwallet-helpcenter.vercel.app
 0.0.0.0 trustwallet-secure-check.vercel.app
 0.0.0.0 trustwallet-team-support.github.io

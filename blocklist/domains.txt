@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 989
-# Updated: 2026-11-07T05:47:48Z
+# Entries: 971
+# Updated: 2026-11-07T12:56:52Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -11,7 +11,6 @@
 1789503-coinbase.com
 2017-facebook.blogspot.com
 40129i12-transportowa.homes
-45325.sbs
 73265428375733.sbs
 89237892.com
 912391293412.pl
@@ -82,13 +81,11 @@ axm-amazon.com
 backname.io
 backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 bankofamerica-secure-account-protection.ph
-bankofamerica-secure-accountupdates.ph
 bankofamerica-secure-backup-transfer.ph
 bankofamerica-secure-contact.ph
 bankofamerica-secure-download.ph
 bankofamerica-secure-verification-update.ph
 bankofamerica-tx.com
-bankofamericacorporation.ph
 bankofamericafunds.ph
 bankofamericahttps.ph
 bankofamericasecuritiess.ph
@@ -242,15 +239,10 @@ com-login-us.com
 com-microsoftonline-ondrive.ca
 comcast-1-zeta.vercel.app
 comcast-2-iota.vercel.app
-comcast-2.vercel.app
-comcast-3-2.vercel.app
-comcast-3-3.vercel.app
-comcast-3.vercel.app
 comcast-ebon.vercel.app
 comcast-seven.vercel.app
 comcast-xi.vercel.app
 comcast2.vercel.app
-comcastxfiniylo.weebly.com
 command-whatsapp.com
 commit-whatsapp.com
 comomypal-securityserver.netflixconfirmation.net1fc.smtp.test.bimp-bot.duckdns.org
@@ -454,7 +446,6 @@ gloronyan.github.io
 go-google.com
 google-alerter.com
 google-apk.com
-google-play-store-findsoulmate-meet-choiceforpartner.pages.dev
 google1208.com
 google1302.com
 google1308.com
@@ -490,7 +481,6 @@ hsbcverifyadvisorhelp.com
 httpapi-whatsapp.com
 httpcdn-whatsapp.com
 httpsrv-whatsapp.com
-icloud-jp7.xyz
 icloud-lost.us
 icloud-suporteid.com
 ideeo.mx
@@ -684,7 +674,6 @@ natnode-whatsapp.com
 nav-binance.com.cn
 nbpublic.com
 neda-facebook.blogspot.com
-neokitjyg.servebeer.com
 netauth-whatsapp.com
 netbot-whatsapp.com
 netchat-whatsapp.com
@@ -764,11 +753,10 @@ ph-whatsapp.com
 photos-instagram.vercel.app
 piedrasdecolon.com.ar
 pipe-whatsapp.com
-pl-numerbiletu382138123.sbs
+pl-7252f5626152652oferta02092827392.cfd
 pl-smart12476234.lol
 pl-smart236784.sbs
 platform-kraken.cc
-pll453fds32433sd30d23408.shop
 poc-notlinkedin.com
 podnode-whatsapp.com
 pomarosahotel.com
@@ -948,7 +936,6 @@ webruntime-whatsapp.com
 webrust-whatsapp.com
 webswift-whatsapp.com
 webtrace-whatsapp.com
-weeblysite.com
 wellsfargobanking.app
 wetransfer-1.vercel.app
 whatsapp-dp-images.in
@@ -975,13 +962,8 @@ www-googlegravity.com
 www.mxjkckus.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
 www.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-125-38.cpanel.site
 www.zygzsdwh.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
-xfinity-145t.square.site
 xfinity2.vercel.app
-xfinitymailbox1.weebly.com
-xfinitymanagementsocialservice.weebly.com
 xfinityservices.vercel.app
-xfinityupdatessss.weebly.com
-xfinityy111.weebly.com
 yahoo-accountregistration.weebly.com
 yahoo888.xyz
 yourwebs.app
