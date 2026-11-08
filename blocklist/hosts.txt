@@ -1,12 +1,11 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 961
-# Updated: 2026-11-08T06:02:37Z
+# Entries: 960
+# Updated: 2026-11-08T13:26:09Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
-0.0.0.0 00049499994.quest
 0.0.0.0 1056804.com
 0.0.0.0 1479182-coinbase.com
 0.0.0.0 1789503-coinbase.com
@@ -14,7 +13,6 @@
 0.0.0.0 58273.sbs
 0.0.0.0 73265428375733.sbs
 0.0.0.0 832991-coinbase.com
-0.0.0.0 912391293412.pl
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
 0.0.0.0 abkweb-whatsapp.com
@@ -26,7 +24,6 @@
 0.0.0.0 adobeinstaller-virid.vercel.app
 0.0.0.0 adobesign-coral.vercel.app
 0.0.0.0 adobesign-review.vercel.app
-0.0.0.0 adsbillinghub.com
 0.0.0.0 aggregator-whatsapp.com
 0.0.0.0 akc-whatsapp.com
 0.0.0.0 akd-whatsapp.com
@@ -45,7 +42,6 @@
 0.0.0.0 amazon-harshdeep.vercel.app
 0.0.0.0 amazon-opfq.vercel.app
 0.0.0.0 amazon-section-opal.vercel.app
-0.0.0.0 amazon-shop.vip
 0.0.0.0 amazon-signin-update-payment-secure-verify-billing-mainapp.40-124-80-100.cpanel.site
 0.0.0.0 amazon-signin-update-payment-secure-verify-billing-mainsec.40-124-80-100.cpanel.site
 0.0.0.0 amb-whatsapp.com
@@ -91,7 +87,7 @@
 0.0.0.0 beta-instagram.vercel.app
 0.0.0.0 bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 0.0.0.0 binance-co.github.io
-0.0.0.0 binance-kplaw.top
+0.0.0.0 binance-live-trade.pages.dev
 0.0.0.0 binance-mail.click
 0.0.0.0 binance-promo-code.vercel.app
 0.0.0.0 binance-red-packet.vercel.app
@@ -197,6 +193,7 @@
 0.0.0.0 bxp-whatsapp.com
 0.0.0.0 cachesrv-whatsapp.com
 0.0.0.0 callback-whatsapp.com
+0.0.0.0 carsscanned.ebaymclaren-austin.eventshouse.app
 0.0.0.0 cashapp-liart.vercel.app
 0.0.0.0 cashappps.com
 0.0.0.0 cdnchat-whatsapp.com
@@ -227,6 +224,7 @@
 0.0.0.0 coinbaseprolns.com
 0.0.0.0 coinbaseprologinv.gitbook.io
 0.0.0.0 coinbaseverify.vercel.app
+0.0.0.0 collectableswall.ebaymclaren-austin.eventshouse.app
 0.0.0.0 column-whatsapp.com
 0.0.0.0 com-login-us.com
 0.0.0.0 com-microsoftonline-ondrive.ca
@@ -293,6 +291,7 @@
 0.0.0.0 ebay-lwholesale.com
 0.0.0.0 ebay-phone-number.blogspot.com
 0.0.0.0 ebay-seller-center-managedpayments.vercel.app
+0.0.0.0 ebaymclaren-austin.eventshouse.app
 0.0.0.0 edgeapi-whatsapp.com
 0.0.0.0 edgecdn-whatsapp.com
 0.0.0.0 edgehost-whatsapp.com
@@ -309,7 +308,6 @@
 0.0.0.0 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
 0.0.0.0 eu-facebook.blogspot.com
 0.0.0.0 eu.cc
-0.0.0.0 eventshouse.app
 0.0.0.0 ewlpnkrg.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 0.0.0.0 ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 0.0.0.0 exclusive-openseamints.vercel.app
@@ -460,13 +458,13 @@
 0.0.0.0 hashnode.dev
 0.0.0.0 help-docs-metamask.gitbook.io
 0.0.0.0 help-kraken-com-eng.square.site
+0.0.0.0 hofmemorabilia.ebaymclaren-austin.eventshouse.app
 0.0.0.0 hostcdn-whatsapp.com
 0.0.0.0 hostpush-whatsapp.com
 0.0.0.0 hot-binance.com.cn
 0.0.0.0 hotmail666.com
 0.0.0.0 hsbc-sec.com
 0.0.0.0 hsbcverifyadvisorhelp.com
-0.0.0.0 htiprzedmiot213242332.sbs
 0.0.0.0 httpapi-whatsapp.com
 0.0.0.0 httpcdn-whatsapp.com
 0.0.0.0 httpsrv-whatsapp.com
@@ -545,13 +543,13 @@
 0.0.0.0 internal-alerts.com
 0.0.0.0 invreceiptslinkedin.com
 0.0.0.0 io-en-trezo.square.site
+0.0.0.0 io-startt-trezr-eng.pages.dev
 0.0.0.0 io-trezo-secure.square.site
 0.0.0.0 io-trezrn-eng.pages.dev
 0.0.0.0 ips-whatsapp.com
 0.0.0.0 isha-dev.com
 0.0.0.0 itau-com.vercel.app
 0.0.0.0 itau-snowy.vercel.app
-0.0.0.0 itunesbomb.com
 0.0.0.0 ivory-whatsapp.com
 0.0.0.0 jayaram0550.github.io
 0.0.0.0 joker-whatsapp.com
@@ -618,6 +616,7 @@
 0.0.0.0 match-whatsapp.com
 0.0.0.0 mb-facebook.blogspot.com
 0.0.0.0 mb-keramikgmbh.ch
+0.0.0.0 mclarencar.ebaymclaren-austin.eventshouse.app
 0.0.0.0 meet-googlee46347975696.pages.dev
 0.0.0.0 meet-googlee7563454656.pages.dev
 0.0.0.0 meet-googlee7823629056.pages.dev
@@ -776,7 +775,6 @@
 0.0.0.0 roblox.com.bz
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.et
-0.0.0.0 roblox.com.gr
 0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.ss
 0.0.0.0 rootsblowers.co.in
@@ -876,7 +874,6 @@
 0.0.0.0 trezorguide.vercel.app
 0.0.0.0 trezoriostart-apps.square.site
 0.0.0.0 trust-wallet-login.vercel.app
-0.0.0.0 trust-wallet-usdt1.netlify.app
 0.0.0.0 trustwallet-helpcenter.vercel.app
 0.0.0.0 trustwallet-secure-check.vercel.app
 0.0.0.0 trustwallet-team-support.github.io
@@ -954,6 +951,8 @@
 0.0.0.0 www.zygzsdwh.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
 0.0.0.0 xfinity2.vercel.app
 0.0.0.0 xfinityservices.vercel.app
+0.0.0.0 xfinityvoicemailwf.weebly.com
+0.0.0.0 xmas1225usa.com
 0.0.0.0 yahoo-accountregistration.weebly.com
 0.0.0.0 yahoo888.xyz
 0.0.0.0 yourwebs.app

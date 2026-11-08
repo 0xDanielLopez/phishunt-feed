@@ -1,12 +1,11 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 961
-# Updated: 2026-11-08T06:02:36Z
+# Entries: 960
+# Updated: 2026-11-08T13:23:56Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
-00049499994.quest
 1056804.com
 1479182-coinbase.com
 1789503-coinbase.com
@@ -14,7 +13,6 @@
 58273.sbs
 73265428375733.sbs
 832991-coinbase.com
-912391293412.pl
 a2zapk.co
 a2zapk.dev
 abkweb-whatsapp.com
@@ -26,7 +24,6 @@ adobefileviewer.dpdns.org
 adobeinstaller-virid.vercel.app
 adobesign-coral.vercel.app
 adobesign-review.vercel.app
-adsbillinghub.com
 aggregator-whatsapp.com
 akc-whatsapp.com
 akd-whatsapp.com
@@ -45,7 +42,6 @@ ama-whatsapp.com
 amazon-harshdeep.vercel.app
 amazon-opfq.vercel.app
 amazon-section-opal.vercel.app
-amazon-shop.vip
 amazon-signin-update-payment-secure-verify-billing-mainapp.40-124-80-100.cpanel.site
 amazon-signin-update-payment-secure-verify-billing-mainsec.40-124-80-100.cpanel.site
 amb-whatsapp.com
@@ -91,7 +87,7 @@ bercel.app
 beta-instagram.vercel.app
 bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 binance-co.github.io
-binance-kplaw.top
+binance-live-trade.pages.dev
 binance-mail.click
 binance-promo-code.vercel.app
 binance-red-packet.vercel.app
@@ -197,6 +193,7 @@ bxo-whatsapp.com
 bxp-whatsapp.com
 cachesrv-whatsapp.com
 callback-whatsapp.com
+carsscanned.ebaymclaren-austin.eventshouse.app
 cashapp-liart.vercel.app
 cashappps.com
 cdnchat-whatsapp.com
@@ -227,6 +224,7 @@ coinbaseprolnb.com
 coinbaseprolns.com
 coinbaseprologinv.gitbook.io
 coinbaseverify.vercel.app
+collectableswall.ebaymclaren-austin.eventshouse.app
 column-whatsapp.com
 com-login-us.com
 com-microsoftonline-ondrive.ca
@@ -293,6 +291,7 @@ drive03.com
 ebay-lwholesale.com
 ebay-phone-number.blogspot.com
 ebay-seller-center-managedpayments.vercel.app
+ebaymclaren-austin.eventshouse.app
 edgeapi-whatsapp.com
 edgecdn-whatsapp.com
 edgehost-whatsapp.com
@@ -309,7 +308,6 @@ epsilons.co
 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
 eu-facebook.blogspot.com
 eu.cc
-eventshouse.app
 ewlpnkrg.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 exclusive-openseamints.vercel.app
@@ -460,13 +458,13 @@ happy-whatsapp.com
 hashnode.dev
 help-docs-metamask.gitbook.io
 help-kraken-com-eng.square.site
+hofmemorabilia.ebaymclaren-austin.eventshouse.app
 hostcdn-whatsapp.com
 hostpush-whatsapp.com
 hot-binance.com.cn
 hotmail666.com
 hsbc-sec.com
 hsbcverifyadvisorhelp.com
-htiprzedmiot213242332.sbs
 httpapi-whatsapp.com
 httpcdn-whatsapp.com
 httpsrv-whatsapp.com
@@ -545,13 +543,13 @@ instagramusicabrasilinstagram.blogspot.com
 internal-alerts.com
 invreceiptslinkedin.com
 io-en-trezo.square.site
+io-startt-trezr-eng.pages.dev
 io-trezo-secure.square.site
 io-trezrn-eng.pages.dev
 ips-whatsapp.com
 isha-dev.com
 itau-com.vercel.app
 itau-snowy.vercel.app
-itunesbomb.com
 ivory-whatsapp.com
 jayaram0550.github.io
 joker-whatsapp.com
@@ -618,6 +616,7 @@ maps-apple.support
 match-whatsapp.com
 mb-facebook.blogspot.com
 mb-keramikgmbh.ch
+mclarencar.ebaymclaren-austin.eventshouse.app
 meet-googlee46347975696.pages.dev
 meet-googlee7563454656.pages.dev
 meet-googlee7823629056.pages.dev
@@ -776,7 +775,6 @@ roblox.com.bo
 roblox.com.bz
 roblox.com.ee
 roblox.com.et
-roblox.com.gr
 roblox.com.ml
 roblox.com.ss
 rootsblowers.co.in
@@ -876,7 +874,6 @@ trezor-login-us-auth-start.typedream.app
 trezorguide.vercel.app
 trezoriostart-apps.square.site
 trust-wallet-login.vercel.app
-trust-wallet-usdt1.netlify.app
 trustwallet-helpcenter.vercel.app
 trustwallet-secure-check.vercel.app
 trustwallet-team-support.github.io
@@ -954,6 +951,8 @@ www.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-
 www.zygzsdwh.login.microsoftonline-billing-verification-secured-help.104-248-114-136.cpanel.site
 xfinity2.vercel.app
 xfinityservices.vercel.app
+xfinityvoicemailwf.weebly.com
+xmas1225usa.com
 yahoo-accountregistration.weebly.com
 yahoo888.xyz
 yourwebs.app
