@@ -1,11 +1,12 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 958
-# Updated: 2026-11-07T21:42:42Z
+# Entries: 961
+# Updated: 2026-11-08T06:02:36Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
+00049499994.quest
 1056804.com
 1479182-coinbase.com
 1789503-coinbase.com
@@ -13,7 +14,6 @@
 58273.sbs
 73265428375733.sbs
 832991-coinbase.com
-89237892.com
 912391293412.pl
 a2zapk.co
 a2zapk.dev
@@ -99,6 +99,7 @@ binance-referral-code-btcbonus.vercel.app
 binance-register.blogspot.com
 binancecheck.com
 binancecheck.online
+binanceidentityportal.com
 binanceii.com
 binancelivetrade.blogspot.com
 binancenn.com
@@ -280,7 +281,6 @@ dothome.co.kr
 dow-nload-ledger-live--doc.typedream.app
 dpd-bexnaro.com
 dpd-calviro.click
-dpd-ie-pack.top
 dpd-ie-pack.vip
 dpd-ios.rest
 dpd-malvexa.click
@@ -315,7 +315,6 @@ ewlpnkrg.www.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
 exclusive-openseamints.vercel.app
 exodus-wallet.global.ssl.fastly.net
 exoduswallethelpcenter.vercel.app
-exploreinamazon.com
 faceb00klogin.blogspot.com
 faceb0k-facebook.blogspot.com
 facebook--br.blogspot.com
@@ -471,6 +470,9 @@ htiprzedmiot213242332.sbs
 httpapi-whatsapp.com
 httpcdn-whatsapp.com
 httpsrv-whatsapp.com
+icloud-jp9.xyz
+icloud-jps.xyz
+icloud-jpz.xyz
 icloud-lost.us
 icloud-suporteid.com
 icloudhelp.com
@@ -514,6 +516,7 @@ instagram-one-alpha.vercel.app
 instagram-open.blogspot.com
 instagram-register.blogspot.com
 instagram-ten-blond.vercel.app
+instagram-ten-nu.vercel.app
 instagram-test.vercel.app
 instagram-tip.blogspot.com
 instagram-usman-haider.vercel.app
@@ -548,6 +551,7 @@ ips-whatsapp.com
 isha-dev.com
 itau-com.vercel.app
 itau-snowy.vercel.app
+itunesbomb.com
 ivory-whatsapp.com
 jayaram0550.github.io
 joker-whatsapp.com
@@ -564,7 +568,6 @@ kucoinlogenac.gitbook.io
 kucoinlogin.blogspot.com
 kucoinloginaa.gitbook.io
 kucoinloign.gitbook.io
-kup-aukcja9734.lol
 latest-whatsapp.com
 layer-whatsapp.com
 layout-whatsapp.com
@@ -603,6 +606,7 @@ ly-facebook.blogspot.com
 m-facebookk.com.vn
 m-facebooks.vn
 m4ntapaset.ink
+macieladvogados.com
 macro-whatsapp.com
 magic-whatsapp.com
 mail.amazon-signin-update-payment-secure-verify-billing-mainapp.40-124-80-100.cpanel.site
@@ -655,7 +659,6 @@ model-whatsapp.com
 monjaro-amazon.com
 mono-whatsapp.com
 movistar-recaudo-epayc.com
-movistarexpresss.org
 my-kraken.com
 my-spotify.app
 mybluehost.me
@@ -684,6 +687,7 @@ netflixbymanoj.vercel.app
 netflixcol.vercel.app
 netflixfeitoaqui.com.br
 netflixquebec.blogspot.com
+netflixuae.com
 netflixvoid.org
 netflixy-bixy.vercel.app
 netflixzap.com
@@ -704,7 +708,6 @@ o356.ee
 oferta98340.sbs
 office365licensingsupport.com
 ogloszenie832.cfd
-ogoszenie-58175065.sbs
 onedrive-1-one.vercel.app
 onedrive-4-nine.vercel.app
 open-instagram.vercel.app
@@ -741,9 +744,8 @@ ph-whatsapp.com
 photos-instagram.vercel.app
 piedrasdecolon.com.ar
 pipe-whatsapp.com
-pl-3478652.sbs
-pl-3478951324.lol
 pl-numerbiletu72313919.sbs
+pl-zakupy23875.sbs
 pl74583.pl
 platform-kraken.cc
 pll453fds32433sd30d2340392.shop
@@ -776,7 +778,6 @@ roblox.com.ee
 roblox.com.et
 roblox.com.gr
 roblox.com.ml
-roblox.com.pt
 roblox.com.ss
 rootsblowers.co.in
 rricrosoft-offices.org
@@ -800,6 +801,7 @@ secure-bridge-trezr-apps.typedream.app
 secure-coinbase-com-sign-in.typedream.app
 securedsupport-coinbase.com
 secureserver.net
+seg-socialportugal-info-1213.cc
 send-money-cashapp.com
 send-secure-trustwallet-usdt-bip20.vercel.app
 servercdn-whatsapp.com
@@ -849,6 +851,7 @@ support-apple.help
 support-appleld.info
 support-ledgerlive-eng.typedream.app
 support-ledgrcom-start-web.typedream.app
+support.zoom.us.trojan.d165.dpdns.org
 support.zoom.us.vless.d165.dpdns.org
 support24h.app
 sysauth-whatsapp.com
