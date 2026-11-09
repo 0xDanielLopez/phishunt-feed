@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 954
-# Updated: 2026-11-08T21:55:49Z
+# Entries: 939
+# Updated: 2026-11-09T06:31:34Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -13,6 +13,7 @@
 58273.sbs
 73265428375733.sbs
 832991-coinbase.com
+85723.sbs
 a2zapk.co
 a2zapk.dev
 abkweb-whatsapp.com
@@ -29,7 +30,6 @@ akc-whatsapp.com
 akd-whatsapp.com
 ake-whatsapp.com
 alb-whatsapp.com
-alc-whatsapp.com
 ald-whatsapp.com
 alerta-appleid.info
 alf-whatsapp.com
@@ -37,7 +37,6 @@ alibaba188.org
 alibaba99.com
 alibabamobaile.ir
 alibabasauce.com
-alquilerautocaravanatarragona.com
 ama-whatsapp.com
 amazon-harshdeep.vercel.app
 amazon-opfq.vercel.app
@@ -61,7 +60,6 @@ apihost-whatsapp.com
 apimail-whatsapp.com
 app81-facebook.blogspot.com
 appedge-whatsapp.com
-apphost-whatsapp.com
 apple-supports.sa.com
 appleid-icloudmac.com
 appleinc-support.info
@@ -81,7 +79,6 @@ bankofamerica-tx.com
 barclays-bank.vercel.app
 bbvalues.uk
 be-spotify.com
-bedreaders-docusignatures.xyz
 berbagi-facebook.blogspot.com
 bercel.app
 beta-instagram.vercel.app
@@ -92,7 +89,6 @@ binance-promo-code.vercel.app
 binance-red-packet.vercel.app
 binance-referral-code-btcbonus.vercel.app
 binance-register.blogspot.com
-binanceai.fun
 binancecheck.com
 binanceidentityportal.com
 binanceii.com
@@ -216,8 +212,6 @@ coinbase-event.vercel.app
 coinbase-invest.com
 coinbase.am.in
 coinbase.com.lc
-coinbaseprolnb.com
-coinbaseprolns.com
 coinbaseprologinv.gitbook.io
 coinbaseverify.vercel.app
 column-whatsapp.com
@@ -406,6 +400,7 @@ fedexsv.com
 fedexwp.com
 fercel.app
 fhnweb-whatsapp.com
+fifa-careerhub.com
 firewall-whatsapp.com
 flame-whatsapp.com
 flazio.online
@@ -459,12 +454,8 @@ hsbcverifyadvisorhelp.com
 httpapi-whatsapp.com
 httpcdn-whatsapp.com
 httpsrv-whatsapp.com
-icloud-jp9.xyz
 icloud-jpa.xyz
-icloud-jps.xyz
-icloud-jpz.xyz
 icloud-lost.us
-icloud-suporteid.com
 icloudhelp.com
 ideeo.mx
 ids-whatsapp.com
@@ -560,7 +551,6 @@ layer-whatsapp.com
 layout-whatsapp.com
 ld-icloud.com
 ld-icloud.info
-ledger-live-download-auth-co.typedream.app
 ledger-live-download-sso-conect.typedream.app
 ledger-live-login-web.square.site
 ledgrelivapp--crome.typedream.app
@@ -590,7 +580,6 @@ lovefive-facebook.blogspot.com
 lpfweb-whatsapp.com
 ly-facebook.blogspot.com
 m-facebookk.com.vn
-m-facebooks.vn
 m4ntapaset.ink
 macieladvogados.com
 macro-whatsapp.com
@@ -694,11 +683,9 @@ noreply-icloud.app
 nosqldb-whatsapp.com
 nqxweb-whatsapp.com
 o356.ee
-oferta-33742115.cfd
-oferta98340.sbs
+oferta72163549902.cfd
 office365licensingsupport.com
-ogloszenie832.cfd
-ogoszenie-83201572.sbs
+ogoszenie-7827561.sbs
 onedrive-1-one.vercel.app
 onedrive-4-nine.vercel.app
 open-instagram.vercel.app
@@ -732,13 +719,13 @@ perfectgiftchoice.life
 perplexity-beta-ads.com
 ph-whatsapp.com
 photos-instagram.vercel.app
+pi-off848148.lat
 piedrasdecolon.com.ar
 pipe-whatsapp.com
-pl-39e45786.sbs
+pl-772001917q228oferta2277171009.cfd
+pl-numerbiletu32138491.sbs
 pl-oferta723106578.sbs
-pl-zakupy23875.sbs
 pl194.sbs
-pl74583.pl
 platform-kraken.cc
 pll453fds32433sd30d2340392.shop
 podnode-whatsapp.com
@@ -768,6 +755,7 @@ roblox.com.bz
 roblox.com.ee
 roblox.com.et
 roblox.com.ml
+roblox.com.pt
 roblox.com.ss
 rootsblowers.co.in
 rricrosoft-offices.org
@@ -808,7 +796,6 @@ signin-web.com
 sk-facebook.blogspot.com
 skylar.web.id
 smallflyingarts.net
-smart-ofert23887239.sbs
 smbweb-whatsapp.com
 sort-whatsapp.com
 splitter-whatsapp.com
@@ -858,7 +845,6 @@ therelayservice.com
 ticket-fedex.com
 tokenapi-whatsapp.com
 trackingnumbers.org
-transakcja704482.sbs
 trezoorr--thego.gitbook.io
 trezor-eo-startd.pages.dev
 trezor-hardware-login.square.site
@@ -873,7 +859,6 @@ trustwallet-team-support.github.io
 trustwallet-tokentwtowner.vercel.app
 trustwalletindia-beta.vercel.app
 ttgyahvw.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
-ukupteraz.bond
 unicaja-inicio.net
 updata.net.cn
 us--ledger-live-crypto-cdn-en.typedream.app
