@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 939
-# Updated: 2026-11-09T06:31:34Z
+# Entries: 930
+# Updated: 2026-11-09T22:22:37Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -10,9 +10,8 @@
 1479182-coinbase.com
 1789503-coinbase.com
 2017-facebook.blogspot.com
+465378-coinbase.com
 58273.sbs
-73265428375733.sbs
-832991-coinbase.com
 85723.sbs
 a2zapk.co
 a2zapk.dev
@@ -53,7 +52,6 @@ an-usps.com
 ane-whatsapp.com
 anf-whatsapp.com
 ang-whatsapp.com
-api-coinbase.com
 apicloud-whatsapp.com
 apiedge-whatsapp.com
 apihost-whatsapp.com
@@ -66,9 +64,9 @@ appleinc-support.info
 apvdelhi.com
 ashy-moss-0bc074f03.5.azurestaticapps.net
 asso-entrautres.fr
+aukcja8279.shop
 authapi-whatsapp.com
 authcdn-whatsapp.com
-authenticate-netflix.com
 avaturefed.net
 avinfra.in
 await-whatsapp.com
@@ -78,9 +76,9 @@ backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 bankofamerica-tx.com
 barclays-bank.vercel.app
 bbvalues.uk
-be-spotify.com
 berbagi-facebook.blogspot.com
 bercel.app
+bet-facebook.blogspot.com
 beta-instagram.vercel.app
 bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 binance-co.github.io
@@ -89,7 +87,7 @@ binance-promo-code.vercel.app
 binance-red-packet.vercel.app
 binance-referral-code-btcbonus.vercel.app
 binance-register.blogspot.com
-binancecheck.com
+binanceapi.bet
 binanceidentityportal.com
 binanceii.com
 binancelivetrade.blogspot.com
@@ -153,6 +151,7 @@ bor-whatsapp.com
 botchat-whatsapp.com
 botcore-whatsapp.com
 botlink-whatsapp.com
+brad-facebook.blogspot.com
 bradescosuporte.digital
 branch-whatsapp.com
 bryweb-whatsapp.com
@@ -272,9 +271,9 @@ dpd-ie-pack.vip
 dpd-malvexa.click
 dpd-ravlimo.com
 dpd-telvora.com
+dpd-xelvora.com
 dpd.bio
 drift-whatsapp.com
-drive-icloud.com
 drive03.com
 ebay-lwholesale.com
 ebay-phone-number.blogspot.com
@@ -328,6 +327,7 @@ facebook-front-iota.vercel.app
 facebook-germany.blogspot.com
 facebook-groups-new.blogspot.com
 facebook-hack-accounts.blogspot.com
+facebook-links.blogspot.com
 facebook-logiin.vercel.app
 facebook-login-be.blogspot.com
 facebook-login-it.blogspot.com
@@ -342,6 +342,7 @@ facebook-notification.blogspot.com
 facebook-official-page.blogspot.com
 facebook-photo5.blogspot.com
 facebook-profile-login.blogspot.com
+facebook-pt.blogspot.com
 facebook-rus.blogspot.com
 facebook-sage-tau.vercel.app
 facebook-services-login.blogspot.com
@@ -397,7 +398,6 @@ facebooktechnicalsupportnumber123.blogspot.com
 facebookwebsite9.blogspot.com
 faq-trezrio.pages.dev
 fedexsv.com
-fedexwp.com
 fercel.app
 fhnweb-whatsapp.com
 fifa-careerhub.com
@@ -408,7 +408,6 @@ format-whatsapp.com
 forsakens-crew-teman-facebook.blogspot.com
 freeopenai.me
 fwh.is
-g0ogle.com
 gafiatechnologies.com
 gercel.app
 gestorweb.cl
@@ -454,7 +453,6 @@ hsbcverifyadvisorhelp.com
 httpapi-whatsapp.com
 httpcdn-whatsapp.com
 httpsrv-whatsapp.com
-icloud-jpa.xyz
 icloud-lost.us
 icloudhelp.com
 ideeo.mx
@@ -485,6 +483,8 @@ instagram-frontpage.vercel.app
 instagram-groupe-invite.vercel.app
 instagram-inky.vercel.app
 instagram-jennifer.blogspot.com
+instagram-jordan-reallynguyen.vercel.app
+instagram-jordan.vercel.app
 instagram-login-page-theta.vercel.app
 instagram-login-page-two.vercel.app
 instagram-login-pi-seven.vercel.app
@@ -522,7 +522,6 @@ instagramsnp.blogspot.com
 instagramsupportverify.blogspot.com
 instagramusicabrasilinstagram.blogspot.com
 internal-alerts.com
-invreceiptslinkedin.com
 io-en-trezo.square.site
 io-startt-trezr-eng.pages.dev
 io-trezo-secure.square.site
@@ -533,12 +532,14 @@ itau-com.vercel.app
 itau-snowy.vercel.app
 ivory-whatsapp.com
 jayaram0550.github.io
+jesienne-oferty-84712.cfd
 joker-whatsapp.com
 jsqnjzyg.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
 kauadosantos.github.io
 klarnaplayes.shop
 knife-whatsapp.com
 kraken-tor.co.com
+kucoin-logged-in.pages.dev
 kucoin-referral-code-pt.vercel.app
 kucoinblock.com
 kucoindeep.com
@@ -575,6 +576,7 @@ login.rmdbwskx.santander.bimp-bot.duckdns.org
 login.wccheck-346e1e56-a.yfcowbetawww.santander.bimp-bot.duckdns.org
 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
 logowanie-facebook.vercel.app
+lokalna-4716.sbs
 lookup-whatsapp.com
 lovefive-facebook.blogspot.com
 lpfweb-whatsapp.com
@@ -589,10 +591,10 @@ mailauth-whatsapp.com
 mailcore-whatsapp.com
 maillink-whatsapp.com
 mailnode-whatsapp.com
+map-supports.com
 maps-apple.support
 match-whatsapp.com
 mb-facebook.blogspot.com
-mb-keramikgmbh.ch
 meet-googlee46347975696.pages.dev
 meet-googlee7563454656.pages.dev
 meet-googlee7823629056.pages.dev
@@ -610,14 +612,12 @@ metamaskchromeextensionn.blogspot.com
 metamaskeeogin.gitbook.io
 metamaskextensionnn.gitbook.io
 metamasklskog.gitbook.io
-metamaskseed.com
 metamaskuxlogen.gitbook.io
 metamaskwallett.blogspot.com
 metrics-whatsapp.com
 mi-santander.com
 michaeltenzer.com
 microsoft-africa.org
-microsoft-auth365.com
 microsoft-online.gr
 microsoft-ssl.com
 microsoft-telemetry.at
@@ -644,7 +644,6 @@ mykraken.exchange
 mytemp.website
 nat-whatsapp.com
 natnode-whatsapp.com
-nav-binance.com.cn
 nbpublic.com
 neda-facebook.blogspot.com
 netauth-whatsapp.com
@@ -652,11 +651,8 @@ netbot-whatsapp.com
 netchat-whatsapp.com
 netedge-whatsapp.com
 netflix-71f05.firebaseapp.com
-netflix-authenticate.com
-netflix-colombia.vercel.app
 netflix-coral-zeta.vercel.app
 netflix-homepage-pi.vercel.app
-netflix-profile.com
 netflix-renovacion-es.com
 netflix-web-site-three.vercel.app
 netflix.surf
@@ -664,6 +660,7 @@ netflix6.com
 netflixbymanoj.vercel.app
 netflixcol.vercel.app
 netflixfeitoaqui.com.br
+netflixgt.com
 netflixquebec.blogspot.com
 netflixuae.com
 netflixvoid.org
@@ -673,7 +670,6 @@ nethost-whatsapp.com
 network-facebook.blogspot.com
 next-whatsapp.com
 nfdweb-whatsapp.com
-no-spotify.com
 noble-whatsapp.com
 nodeapi-whatsapp.com
 nodeauth-whatsapp.com
@@ -682,14 +678,14 @@ nodeedge-whatsapp.com
 noreply-icloud.app
 nosqldb-whatsapp.com
 nqxweb-whatsapp.com
+nr-239s34n4.sbs
 o356.ee
-oferta72163549902.cfd
+ofereta-84512110.cfd
 office365licensingsupport.com
 ogoszenie-7827561.sbs
 onedrive-1-one.vercel.app
 onedrive-4-nine.vercel.app
 open-instagram.vercel.app
-openai-online.net
 opensea-six.vercel.app
 openseaproks007.vercel.app
 openseavxr.vercel.app
@@ -719,10 +715,9 @@ perfectgiftchoice.life
 perplexity-beta-ads.com
 ph-whatsapp.com
 photos-instagram.vercel.app
-pi-off848148.lat
 piedrasdecolon.com.ar
 pipe-whatsapp.com
-pl-772001917q228oferta2277171009.cfd
+pl-459876234.lol
 pl-numerbiletu32138491.sbs
 pl-oferta723106578.sbs
 pl194.sbs
@@ -736,11 +731,8 @@ prev-whatsapp.com
 profil-facebook-saya.blogspot.com
 proxyapi-whatsapp.com
 ptai.in
-qbl-bd.com
 r-facebook.blogspot.com
-rbxshader.com
 reactivar-microsoft-live.iceiy.com
-receiptslinkedin.com
 recreate-instagrampage.vercel.app
 repoapi-whatsapp.com
 repocdn-whatsapp.com
@@ -754,8 +746,8 @@ roblox.com.bo
 roblox.com.bz
 roblox.com.ee
 roblox.com.et
+roblox.com.kz
 roblox.com.ml
-roblox.com.pt
 roblox.com.ss
 rootsblowers.co.in
 rricrosoft-offices.org
@@ -772,13 +764,13 @@ santander-remaster-whats-fb.vercel.app
 santander-serfin.com
 santanderbizum.com
 santandercitas.com
+santandersupportchat.com
 saque-instagram.com
 search.er.in
 secnode-whatsapp.com
 secure-bridge-trezr-apps.typedream.app
 secure-coinbase-com-sign-in.typedream.app
 securedsupport-coinbase.com
-secureserver.net
 seg-socialportugal-info-1213.cc
 send-money-cashapp.com
 send-secure-trustwallet-usdt-bip20.vercel.app
@@ -792,8 +784,9 @@ shield-whatsapp.com
 shopping-shop.jp
 shopweb.com.vn
 sigma-whatsapp.com
-signin-web.com
+sign-in-to-xfinity-3643.weebly.com
 sk-facebook.blogspot.com
+sklep24.sbs
 skylar.web.id
 smallflyingarts.net
 smbweb-whatsapp.com
@@ -861,7 +854,6 @@ trustwalletindia-beta.vercel.app
 ttgyahvw.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
 unicaja-inicio.net
 updata.net.cn
-us--ledger-live-crypto-cdn-en.typedream.app
 usdt-trustwallet-blockchain.vercel.app
 uspsaunitedworkforce.com
 uspsecuredlogs.com
@@ -886,10 +878,7 @@ wasmer.app
 wave-whatsapp.com
 waycobeauty.com
 wccheck-760967a0-ext.wccheck-32275d6f-a.login.wccheck-0209014e-ext.santander.bimp-bot.duckdns.org
-web-cn-whatsapp.com
 web-conect-us-ledger-live-wallet.typedream.app
-web-meet-google.com
-web-oauth.com
 web-trezor-io-start-us.vercel.app
 webaccess-alert.com
 webchat-whatsapp.com
@@ -908,6 +897,7 @@ webswift-whatsapp.com
 webtrace-whatsapp.com
 wellsfargobanking.app
 wetransfer-1.vercel.app
+whatsapp-adult-tight-pussy.pages.dev
 whatsapp-dp-images.in
 whatsapp-fast.vercel.app
 whatsapp-gruppo-connect.com
@@ -921,6 +911,7 @@ whatsappdevil.com
 whatsappfreewhatsapp.blogspot.com
 whatsappo-ten.vercel.app
 whatsappr.cc
+whatsappsdzuan.icu
 windows-ledger-live.typedream.app
 wooflers.com
 worldtk-whatsapp.com.cn
