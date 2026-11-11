@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 920
-# Updated: 2026-11-10T19:44:16Z
+# Entries: 904
+# Updated: 2026-11-11T06:23:12Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -8,61 +8,48 @@
 
 0.0.0.0 1056804.com
 0.0.0.0 2017-facebook.blogspot.com
+0.0.0.0 4xdconsulting.com
 0.0.0.0 73a2370016b7.a.12904.account-paypal.antimoney-laundering.org
 0.0.0.0 73a2370016b7.ab.paypal-support.antimoney-laundering.org
+0.0.0.0 73a2370016b7.account-paypal.antimoney-laundering.org
+0.0.0.0 73a2370016b7.gweb.account-paypal.antimoney-laundering.org
+0.0.0.0 73a2370016b7.lynch.accounts-paypal.antimoney-laundering.org
+0.0.0.0 73a2370016b7.mbgw.accounts-paypal.antimoney-laundering.org
+0.0.0.0 73a2370016b7.sexwww.paypal-updates.antimoney-laundering.org
+0.0.0.0 73a2370016b7.yamato.paypal-updates.antimoney-laundering.org
 0.0.0.0 8597432.top
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
 0.0.0.0 abkweb-whatsapp.com
-0.0.0.0 account-instagram.vercel.app
 0.0.0.0 acct-goog1e.com
 0.0.0.0 acounts-google.duckdns.org
 0.0.0.0 admin.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 0.0.0.0 adobefileviewer.dpdns.org
 0.0.0.0 adobeinstaller-virid.vercel.app
-0.0.0.0 adobepdf.vercel.app
 0.0.0.0 adobesign-coral.vercel.app
 0.0.0.0 adobesign-review.vercel.app
 0.0.0.0 aggregator-whatsapp.com
-0.0.0.0 akc-whatsapp.com
-0.0.0.0 akd-whatsapp.com
-0.0.0.0 ake-whatsapp.com
-0.0.0.0 alb-whatsapp.com
-0.0.0.0 ald-whatsapp.com
 0.0.0.0 alerta-appleid.info
-0.0.0.0 alf-whatsapp.com
 0.0.0.0 alibaba188.org
 0.0.0.0 alibaba99.com
 0.0.0.0 alibabamobaile.ir
 0.0.0.0 alibabasauce.com
-0.0.0.0 ama-whatsapp.com
 0.0.0.0 amazon-harshdeep.vercel.app
 0.0.0.0 amazon-section-opal.vercel.app
 0.0.0.0 amazon-signin-update-payment-secure-verify-billing-mainapp.40-124-80-100.cpanel.site
 0.0.0.0 amazon-signin-update-payment-secure-verify-billing-mainsec.40-124-80-100.cpanel.site
-0.0.0.0 amb-whatsapp.com
-0.0.0.0 amc-whatsapp.com
-0.0.0.0 amd-whatsapp.com
-0.0.0.0 amf-whatsapp.com
-0.0.0.0 amh-whatsapp.com
 0.0.0.0 amnesiacuracao.com
 0.0.0.0 an-usps.com
-0.0.0.0 ane-whatsapp.com
 0.0.0.0 anf-whatsapp.com
-0.0.0.0 ang-whatsapp.com
-0.0.0.0 apicloud-whatsapp.com
 0.0.0.0 apiedge-whatsapp.com
-0.0.0.0 apihost-whatsapp.com
 0.0.0.0 apimail-whatsapp.com
 0.0.0.0 app81-facebook.blogspot.com
-0.0.0.0 appedge-whatsapp.com
 0.0.0.0 apple-supports.sa.com
 0.0.0.0 appleid-icloudmac.com
 0.0.0.0 appleinc-support.info
 0.0.0.0 apvdelhi.com
 0.0.0.0 arpa.org.bd
 0.0.0.0 ashy-moss-0bc074f03.5.azurestaticapps.net
-0.0.0.0 asi.paypal-signin.antimoney-laundering.org
 0.0.0.0 asso-entrautres.fr
 0.0.0.0 aukcja8279.shop
 0.0.0.0 authapi-whatsapp.com
@@ -87,7 +74,6 @@
 0.0.0.0 binance-red-packet.vercel.app
 0.0.0.0 binance-referral-code-btcbonus.vercel.app
 0.0.0.0 binance-register.blogspot.com
-0.0.0.0 binancecheck.online
 0.0.0.0 binanceidentityportal.com
 0.0.0.0 binanceii.com
 0.0.0.0 binancelivetrade.blogspot.com
@@ -101,6 +87,7 @@
 0.0.0.0 blo-whatsapp.com
 0.0.0.0 blp-whatsapp.com
 0.0.0.0 bls-whatsapp.com
+0.0.0.0 blu-foods.com
 0.0.0.0 blw-whatsapp.com
 0.0.0.0 bly-whatsapp.com
 0.0.0.0 blz-whatsapp.com
@@ -153,6 +140,7 @@
 0.0.0.0 botcore-whatsapp.com
 0.0.0.0 botlink-whatsapp.com
 0.0.0.0 brad-facebook.blogspot.com
+0.0.0.0 bradescocontapj.com
 0.0.0.0 bradescoinvestidor.com
 0.0.0.0 bradescosuporte.digital
 0.0.0.0 branch-whatsapp.com
@@ -203,12 +191,10 @@
 0.0.0.0 clientapi-whatsapp.com
 0.0.0.0 clientcdn-whatsapp.com
 0.0.0.0 cloudcdn-whatsapp.com
-0.0.0.0 clouddns-whatsapp.com
 0.0.0.0 cloudlink-whatsapp.com
 0.0.0.0 cloudnode-whatsapp.com
 0.0.0.0 cloudsec-whatsapp.com
 0.0.0.0 cn-fedex.com
-0.0.0.0 cn-feed-whatsapp.com.cn
 0.0.0.0 coinbase-connetct.vercel.app
 0.0.0.0 coinbase-invest.com
 0.0.0.0 coinbase-pro-sign-in.gitbook.io
@@ -217,10 +203,12 @@
 0.0.0.0 coinbase.com.lc
 0.0.0.0 coinbaseplogininin.gitbook.io
 0.0.0.0 coinbaseprologinv.gitbook.io
+0.0.0.0 coinbaseprotect.com
 0.0.0.0 coinbaseverify.vercel.app
 0.0.0.0 column-whatsapp.com
 0.0.0.0 com-login-us.com
 0.0.0.0 com-microsoftonline-ondrive.ca
+0.0.0.0 com-users.vip
 0.0.0.0 comcast-1-zeta.vercel.app
 0.0.0.0 comcast-xi.vercel.app
 0.0.0.0 command-whatsapp.com
@@ -253,11 +241,11 @@
 0.0.0.0 devimg-whatsapp.com
 0.0.0.0 devnode-whatsapp.com
 0.0.0.0 dhcpapi-whatsapp.com
-0.0.0.0 dhcpnode-whatsapp.com
 0.0.0.0 dhl-express-dev.firebaseapp.com
 0.0.0.0 dir.com.my
 0.0.0.0 discovery-whatsapp.com
 0.0.0.0 discoveryloft.com
+0.0.0.0 dispute-google.com
 0.0.0.0 dkupteraz.shop
 0.0.0.0 dmpweb-whatsapp.com
 0.0.0.0 dnscloud-whatsapp.com
@@ -270,6 +258,7 @@
 0.0.0.0 dpd-bexnaro.com
 0.0.0.0 dpd-calviro.click
 0.0.0.0 dpd-cenviro.com
+0.0.0.0 dpd-ie-edit.top
 0.0.0.0 dpd-ie-pack.vip
 0.0.0.0 dpd-malvexa.click
 0.0.0.0 dpd-packages.club
@@ -295,7 +284,7 @@
 0.0.0.0 en-home-trezore.pages.dev
 0.0.0.0 en-ledgre.pages.dev
 0.0.0.0 en-trezor-suite-io.square.site
-0.0.0.0 ensuite-trexor.square.site
+0.0.0.0 epremo-akam.com
 0.0.0.0 epsilons.co
 0.0.0.0 erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org
 0.0.0.0 eu-facebook.blogspot.com
@@ -417,6 +406,7 @@
 0.0.0.0 globaldoctors.asia
 0.0.0.0 gloronyan.github.io
 0.0.0.0 glovonetwork.com
+0.0.0.0 goku8.workers.dev
 0.0.0.0 google-alerter.com
 0.0.0.0 google-apk.com
 0.0.0.0 google1208.com
@@ -433,10 +423,10 @@
 0.0.0.0 googleoa.com
 0.0.0.0 googleplaety.com
 0.0.0.0 googleplaiby.com
-0.0.0.0 googleplay-1m3.pages.dev
 0.0.0.0 googleplaydown.com
 0.0.0.0 googlepllry.com
 0.0.0.0 googleplrzy.com
+0.0.0.0 gruposuplidores.com
 0.0.0.0 gzlweb-whatsapp.com
 0.0.0.0 hameem.net
 0.0.0.0 happy-whatsapp.com
@@ -452,8 +442,10 @@
 0.0.0.0 hsbcverifyadvisorhelp.com
 0.0.0.0 httpapi-whatsapp.com
 0.0.0.0 httpcdn-whatsapp.com
+0.0.0.0 https--www--roblox.com
 0.0.0.0 httpsrv-whatsapp.com
 0.0.0.0 icloud-apple.xyz
+0.0.0.0 icloud-finm.com
 0.0.0.0 icloudhelp.com
 0.0.0.0 ideeo.mx
 0.0.0.0 ids-whatsapp.com
@@ -518,16 +510,16 @@
 0.0.0.0 instagramsupportverify.blogspot.com
 0.0.0.0 instagramusicabrasilinstagram.blogspot.com
 0.0.0.0 internal-alerts.com
-0.0.0.0 io-en-trezo.square.site
 0.0.0.0 io-startt-trezr-eng.pages.dev
-0.0.0.0 io-trezo-secure.square.site
 0.0.0.0 io-trezrn-eng.pages.dev
 0.0.0.0 ips-whatsapp.com
 0.0.0.0 isha-dev.com
 0.0.0.0 itau-snowy.vercel.app
+0.0.0.0 itcserv.net
 0.0.0.0 ivory-whatsapp.com
 0.0.0.0 jayaram0550.github.io
 0.0.0.0 joker-whatsapp.com
+0.0.0.0 jornaldapraia.net
 0.0.0.0 jsqnjzyg.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
 0.0.0.0 kauadosantos.github.io
 0.0.0.0 kinofino.de
@@ -560,9 +552,9 @@
 0.0.0.0 lib-iscpolobcu.org
 0.0.0.0 limit-whatsapp.com
 0.0.0.0 linkhost-whatsapp.com
+0.0.0.0 lite.paypal-login.antimoney-laundering.org
 0.0.0.0 lkgrazsl.login.5b55bakaizeipheexooz.bckwsbem.santander.bimp-bot.duckdns.org
 0.0.0.0 lobster-cloud.com
-0.0.0.0 locations-icloud.us
 0.0.0.0 log-in-facebook.blogspot.com
 0.0.0.0 login-facebookaccount.blogspot.com
 0.0.0.0 login-my-facebook.blogspot.com
@@ -571,7 +563,6 @@
 0.0.0.0 login.rmdbwskx.santander.bimp-bot.duckdns.org
 0.0.0.0 login.wccheck-346e1e56-a.yfcowbetawww.santander.bimp-bot.duckdns.org
 0.0.0.0 login.wccheck-b18ca936-a.santander.bimp-bot.duckdns.org
-0.0.0.0 lokalna-ofeta754322.top
 0.0.0.0 lookup-whatsapp.com
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 lpfweb-whatsapp.com
@@ -589,7 +580,6 @@
 0.0.0.0 maps-apple.support
 0.0.0.0 match-whatsapp.com
 0.0.0.0 mb-facebook.blogspot.com
-0.0.0.0 mcfrys.co.ke
 0.0.0.0 meet-googlee46347975696.pages.dev
 0.0.0.0 meet-googlee7563454656.pages.dev
 0.0.0.0 meet-googlee7823629056.pages.dev
@@ -635,7 +625,6 @@
 0.0.0.0 mv1.paypal-support.antimoney-laundering.org
 0.0.0.0 my-coinbase.vercel.app
 0.0.0.0 my-kraken.com
-0.0.0.0 my-settings-google.com
 0.0.0.0 my-spotify.app
 0.0.0.0 mybluehost.me
 0.0.0.0 mykraken.exchange
@@ -677,6 +666,7 @@
 0.0.0.0 nosqldb-whatsapp.com
 0.0.0.0 nqxweb-whatsapp.com
 0.0.0.0 o356.ee
+0.0.0.0 ofe83204.sbs
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 onedrive-1-one.vercel.app
 0.0.0.0 onedrive-4-nine.vercel.app
@@ -687,6 +677,7 @@
 0.0.0.0 opsnode-whatsapp.com
 0.0.0.0 orbit-whatsapp.com
 0.0.0.0 orchestrator-whatsapp.com
+0.0.0.0 order-sellerform.com
 0.0.0.0 ossama-instagram.vercel.app
 0.0.0.0 outlook-mailer.com
 0.0.0.0 outlook-phi-one.vercel.app
@@ -707,19 +698,18 @@
 0.0.0.0 paypal-verify.vercel.app
 0.0.0.0 paypalcorp.blogspot.com
 0.0.0.0 pe-facebook.blogspot.com
-0.0.0.0 peputragroup.com
 0.0.0.0 perfectgiftchoice.life
 0.0.0.0 ph-whatsapp.com
 0.0.0.0 photos-instagram.vercel.app
 0.0.0.0 piedrasdecolon.com.ar
 0.0.0.0 pipe-whatsapp.com
-0.0.0.0 pl-98260026276272oferta7171027293939.sbs
+0.0.0.0 pl-ogloszezenie12481982.shop
 0.0.0.0 pl74892.pl
+0.0.0.0 pl869840.cfd
 0.0.0.0 platform-kraken.cc
-0.0.0.0 pll453fds32433sd30d2340392.shop
-0.0.0.0 pm-zamow73091paczke.cyou
 0.0.0.0 podnode-whatsapp.com
 0.0.0.0 pomarosahotel.com
+0.0.0.0 portaal-stpmex.com
 0.0.0.0 premio-instagram.com
 0.0.0.0 prestamo-santander-cliente.vercel.app
 0.0.0.0 prev-whatsapp.com
@@ -732,7 +722,6 @@
 0.0.0.0 repoapi-whatsapp.com
 0.0.0.0 repocdn-whatsapp.com
 0.0.0.0 reponode-whatsapp.com
-0.0.0.0 resolver-whatsapp.com
 0.0.0.0 rev.it
 0.0.0.0 revolut-login.it
 0.0.0.0 rezerwacja42589.click
@@ -762,7 +751,6 @@
 0.0.0.0 search.er.in
 0.0.0.0 secnode-whatsapp.com
 0.0.0.0 secure-bridge-trezr-apps.typedream.app
-0.0.0.0 secure-coinbase-com-sign-in.typedream.app
 0.0.0.0 securedsupport-coinbase.com
 0.0.0.0 send-money-cashapp.com
 0.0.0.0 send-secure-trustwallet-usdt-bip20.vercel.app
@@ -832,21 +820,19 @@
 0.0.0.0 theamazon.vercel.app
 0.0.0.0 therelayservice.com
 0.0.0.0 ticket-fedex.com
+0.0.0.0 tickets-icloud-apple.com
+0.0.0.0 todaytonight.paypal-login.antimoney-laundering.org
 0.0.0.0 tokenapi-whatsapp.com
 0.0.0.0 trackingnumbers.org
 0.0.0.0 trezoorr--thego.gitbook.io
 0.0.0.0 trezor-eo-startd.pages.dev
-0.0.0.0 trezor-hardware-login.square.site
-0.0.0.0 trezor-login-guide.square.site
 0.0.0.0 trezor-login-us-auth-start.typedream.app
 0.0.0.0 trezorguide.vercel.app
-0.0.0.0 trezoriostart-apps.square.site
 0.0.0.0 trustwallet-helpcenter.vercel.app
 0.0.0.0 trustwallet-team-support.github.io
 0.0.0.0 trustwallet-tokentwtowner.vercel.app
 0.0.0.0 trustwalletindia-beta.vercel.app
 0.0.0.0 ttgyahvw.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
-0.0.0.0 twitter-film-one.pages.dev
 0.0.0.0 unicaja-inicio.net
 0.0.0.0 updata.net.cn
 0.0.0.0 uspsaunitedworkforce.com
@@ -874,7 +860,6 @@
 0.0.0.0 web-conect-us-ledger-live-wallet.typedream.app
 0.0.0.0 web-trezor-io-start-us.vercel.app
 0.0.0.0 webaccess-alert.com
-0.0.0.0 webchat-whatsapp.com
 0.0.0.0 webcompiler-whatsapp.com
 0.0.0.0 webdoc-whatsapp.com
 0.0.0.0 webenv-whatsapp.com
@@ -900,7 +885,6 @@
 0.0.0.0 whatsappdevil.com
 0.0.0.0 whatsappfreewhatsapp.blogspot.com
 0.0.0.0 whatsappo-ten.vercel.app
-0.0.0.0 whatsappr.cc
 0.0.0.0 whm5.paypal-verification.antimoney-laundering.org
 0.0.0.0 windows-ledger-live.typedream.app
 0.0.0.0 wooflers.com
