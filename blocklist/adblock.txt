@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 899
-! Updated: 2026-11-11T19:36:44Z
+! Entries: 905
+! Updated: 2026-11-12T07:11:50Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -8,9 +8,9 @@
 
 ||1056804.com^
 ||2017-facebook.blogspot.com^
+||685903.com^
 ||73a2370016b7.a.12904.account-paypal.antimoney-laundering.org^
 ||73a2370016b7.ab.paypal-support.antimoney-laundering.org^
-||73a2370016b7.account-paypal.antimoney-laundering.org^
 ||73a2370016b7.d.i37.paypal-updates.antimoney-laundering.org^
 ||73a2370016b7.jadwiga.paypal-login.antimoney-laundering.org^
 ||73a2370016b7.louie.account-paypal.antimoney-laundering.org^
@@ -20,8 +20,7 @@
 ||73a2370016b7.mbgw.accounts-paypal.antimoney-laundering.org^
 ||73a2370016b7.princess4u3.paypal-support.antimoney-laundering.org^
 ||73a2370016b7.switchblade.paypal-update.antimoney-laundering.org^
-||73a2370016b7.yamato.paypal-updates.antimoney-laundering.org^
-||8597432.top^
+||73a2370016b7.w-f.account-paypal.antimoney-laundering.org^
 ||9t882123hh.courses^
 ||a2zapk.co^
 ||a2zapk.dev^
@@ -30,7 +29,6 @@
 ||acounts-google.duckdns.org^
 ||adb-viewersv.com^
 ||admin.bill-netflix-dashboard-account.104-248-114-136.cpanel.site^
-||adobe-dayqrskrqknufmccveruyetw.pages.dev^
 ||adobefileviewer.dpdns.org^
 ||adobeinstaller-virid.vercel.app^
 ||adobelady.com^
@@ -40,6 +38,7 @@
 ||alibaba99.com^
 ||alibabamobaile.ir^
 ||alibabasauce.com^
+||alibabatradeonline.com^
 ||amazon-harshdeep.vercel.app^
 ||amazon-section-opal.vercel.app^
 ||amnesiacuracao.com^
@@ -202,8 +201,9 @@
 ||coinbase-supportdesk.vercel.app^
 ||coinbase.am.in^
 ||coinbase.com.lc^
+||coinbaseactivate.com^
+||coinbasedeauth.com^
 ||coinbaseplogininin.gitbook.io^
-||coinbaseprologinv.gitbook.io^
 ||coinbaseprotect.com^
 ||coinbaseverify.vercel.app^
 ||coinbasevip2012.net^
@@ -245,7 +245,6 @@
 ||discovery-whatsapp.com^
 ||discoveryloft.com^
 ||dispute-google.com^
-||dkupteraz.shop^
 ||dmpweb-whatsapp.com^
 ||dnscloud-whatsapp.com^
 ||dnsedge-whatsapp.com^
@@ -254,6 +253,7 @@
 ||docs-trezor-app.pages.dev^
 ||dothome.co.kr^
 ||dow-nload-ledger-live--doc.typedream.app^
+||dp-dev.account-paypal.antimoney-laundering.org^
 ||dpd-bexnaro.com^
 ||dpd-calviro.click^
 ||dpd-cenviro.com^
@@ -276,7 +276,6 @@
 ||edgenode-whatsapp.com^
 ||edgeone.dev^
 ||egrweb-whatsapp.com^
-||elcorteingles-espupuy.sbs^
 ||email-microsoft.com^
 ||ember-whatsapp.com^
 ||emekastudios.co.za^
@@ -432,10 +431,8 @@
 ||help-kraken-com-eng.square.site^
 ||hostcdn-whatsapp.com^
 ||hostpush-whatsapp.com^
-||hot-binance.com.cn^
 ||hotmail-two.vercel.app^
 ||hotmail666.com^
-||hrms.account.fr.paypal.antimoney-laundering.org^
 ||hsbc-sec.com^
 ||hsbcglobalchat.com^
 ||hsbcverifyadvisorhelp.com^
@@ -447,6 +444,7 @@
 ||icloudhelp.com^
 ||ideeo.mx^
 ||ids-whatsapp.com^
+||ims.paypal-support.antimoney-laundering.org^
 ||info-eng-ledgerlive-learn.typedream.app^
 ||info-facebook.blogspot.com^
 ||ingdirect-accesoweb-login.com^
@@ -527,12 +525,12 @@
 ||knife-whatsapp.com^
 ||kraken-tor.co.com^
 ||kucoin-referral-code-pt.vercel.app^
-||kucoinapp.pages.dev^
 ||kucoinblock.com^
 ||kucoindeep.com^
 ||kucoinlogenac.gitbook.io^
 ||kucoinlogin.blogspot.com^
 ||kucoinloginaa.gitbook.io^
+||kucoinloginii-1.gitbook.io^
 ||kucoinloign.gitbook.io^
 ||kucoinspro.com^
 ||latest-whatsapp.com^
@@ -550,7 +548,6 @@
 ||level-whatsapp.com^
 ||lexer-whatsapp.com^
 ||limit-whatsapp.com^
-||linkedin-365bet.com^
 ||linkhost-whatsapp.com^
 ||lite.paypal-login.antimoney-laundering.org^
 ||lobster-cloud.com^
@@ -563,10 +560,10 @@
 ||lovefive-facebook.blogspot.com^
 ||lpfweb-whatsapp.com^
 ||ly-facebook.blogspot.com^
-||m-ashraf.com^
 ||m4ntapaset.ink^
 ||macieladvogados.com^
 ||macro-whatsapp.com^
+||madison.paypal-updates.antimoney-laundering.org^
 ||magic-whatsapp.com^
 ||mailauth-whatsapp.com^
 ||mailcore-whatsapp.com^
@@ -590,7 +587,6 @@
 ||metamask-wallet.vercel.app^
 ||metamask-web.vercel.app^
 ||metamaskchromeextensionn.blogspot.com^
-||metamaskeeogin.gitbook.io^
 ||metamaskextensionnn.gitbook.io^
 ||metamasklskog.gitbook.io^
 ||metamaskuxlogen.gitbook.io^
@@ -651,6 +647,7 @@
 ||network-facebook.blogspot.com^
 ||next-whatsapp.com^
 ||nfdweb-whatsapp.com^
+||nft-opensea.com^
 ||noble-whatsapp.com^
 ||nodeapi-whatsapp.com^
 ||nodeauth-whatsapp.com^
@@ -659,15 +656,17 @@
 ||noreply-icloud.app^
 ||nosqldb-whatsapp.com^
 ||nqxweb-whatsapp.com^
+||nr-238sn34.sbs^
 ||o102040.shop^
+||o108940.shop^
 ||o356.ee^
 ||ofe83204.sbs^
-||oferta28wqv39owb37gw8.cfd^
 ||office365licensingsupport.com^
 ||onedrive-1-one.vercel.app^
 ||onedrive-4-nine.vercel.app^
 ||open-instagram.vercel.app^
 ||opensea-six.vercel.app^
+||opensealogin1.blogspot.com^
 ||openseaproks007.vercel.app^
 ||openseavxr.vercel.app^
 ||opsnode-whatsapp.com^
@@ -697,16 +696,15 @@
 ||perfectgiftchoice.life^
 ||ph-whatsapp.com^
 ||photos-instagram.vercel.app^
-||pi-oferta98456.lol^
 ||piedrasdecolon.com.ar^
 ||pipe-whatsapp.com^
-||pl-019673350.icu^
-||pl-ogloszezenie678912.shop^
+||pl-248957a24.sbs^
 ||pl74892.pl^
-||pl869840.cfd^
 ||platform-kraken.cc^
+||pll453fds32433sd30d2340f0221.shop^
 ||pmc.pay.paypal-security.antimoney-laundering.org^
 ||podnode-whatsapp.com^
+||polska-przedmiot.cfd^
 ||pomarosahotel.com^
 ||premio-instagram.com^
 ||prestamo-santander-cliente.vercel.app^
@@ -726,6 +724,7 @@
 ||roblox.com.bz^
 ||roblox.com.ee^
 ||roblox.com.et^
+||roblox.com.gr^
 ||roblox.com.ml^
 ||roblox.com.pt^
 ||roblox.com.ss^
@@ -737,6 +736,7 @@
 ||sagers.com^
 ||sample-whatsapp.com^
 ||samplel-ks6yxvur5-instagramm.vercel.app^
+||santander-comprovante-fr8kq2lm7xv9pqa4nx.duckdns.org^
 ||santander-dev-week.vercel.app^
 ||santander-inicio.vercel.app^
 ||santanderbizum.com^
@@ -746,6 +746,7 @@
 ||search.er.in^
 ||secnode-whatsapp.com^
 ||secure-bridge-trezr-apps.typedream.app^
+||secure-wallet-coinbase.com^
 ||securedsupport-coinbase.com^
 ||send-money-cashapp.com^
 ||send-secure-trustwallet-usdt-bip20.vercel.app^
@@ -766,6 +767,7 @@
 ||sk-facebook.blogspot.com^
 ||skylar.web.id^
 ||smallflyingarts.net^
+||smart-92492.cfd^
 ||smbweb-whatsapp.com^
 ||sort-whatsapp.com^
 ||spacevip.com.br^
@@ -790,6 +792,7 @@
 ||steamcommunity.blog^
 ||steamcommunity.ing^
 ||steuerquimica.cl^
+||strawberryv2.sbs^
 ||stream-whatsapp.com^
 ||style-whatsapp.com^
 ||sugar-outlook.com^
@@ -803,6 +806,7 @@
 ||support.zoom.us.trojan.d165.dpdns.org^
 ||support.zoom.us.vless.d165.dpdns.org^
 ||support24h.app^
+||syracusehousepainters.com^
 ||sysauth-whatsapp.com^
 ||syschat-whatsapp.com^
 ||sysdata-whatsapp.com^
@@ -830,6 +834,7 @@
 ||ttgyahvw.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site^
 ||unicaja-inicio.net^
 ||updata.net.cn^
+||us-lcloud.com^
 ||uspsaunitedworkforce.com^
 ||uspsecuredlogs.com^
 ||uspss.pages.dev^
@@ -853,6 +858,7 @@
 ||waycobeauty.com^
 ||web-conect-us-ledger-live-wallet.typedream.app^
 ||web-trezor-io-start-us.vercel.app^
+||web4147.account-paypal.antimoney-laundering.org^
 ||webaccess-alert.com^
 ||webcompiler-whatsapp.com^
 ||webdoc-whatsapp.com^
@@ -879,11 +885,12 @@
 ||whatsappdevil.com^
 ||whatsappfreewhatsapp.blogspot.com^
 ||whatsappo-ten.vercel.app^
-||whitecarrot.app^
+||whatsappsdzuan.bond^
 ||whm5.paypal-verification.antimoney-laundering.org^
 ||windows-ledger-live.typedream.app^
 ||wooflers.com^
 ||worldtk-whatsapp.com.cn^
+||wvw-kraken.com^
 ||ww-facebook.blogspot.com^
 ||www-app-google.com^
 ||www-apple.support^
@@ -893,7 +900,6 @@
 ||wwwwww.account-paypal.antimoney-laundering.org^
 ||xfinityinfoltdorgltd.weebly.com^
 ||xfinityvoicemailwf.weebly.com^
-||yahoo-accountregistration.weebly.com^
 ||yahoo-donation.com^
 ||yahoo888.xyz^
 ||yourwebs.app^
