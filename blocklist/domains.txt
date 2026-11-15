@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 680
-# Updated: 2026-11-15T16:41:10Z
+# Entries: 674
+# Updated: 2026-11-15T18:42:40Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -9,6 +9,7 @@
 1-whatsapp.top
 1056804.com
 145.life
+199281-coinbase.com
 2017-facebook.blogspot.com
 73a2370016b7.a.12904.account-paypal.antimoney-laundering.org
 73a2370016b7.ab.paypal-support.antimoney-laundering.org
@@ -16,7 +17,6 @@
 73a2370016b7.jadwiga.paypal-login.antimoney-laundering.org
 73a2370016b7.louie.account-paypal.antimoney-laundering.org
 73a2370016b7.lp.web18762.account-paypal.antimoney-laundering.org
-73a2370016b7.lynch.accounts-paypal.antimoney-laundering.org
 73a2370016b7.matfiz.paypal-support.antimoney-laundering.org
 73a2370016b7.mbgw.accounts-paypal.antimoney-laundering.org
 73a2370016b7.switchblade.paypal-update.antimoney-laundering.org
@@ -34,6 +34,7 @@ alibaba99.com
 alibabamobaile.ir
 alibabasauce.com
 alibabatradeonline.com
+allkategoriaoferta421412.sbs
 amazon-europe.club
 amazon-harshdeep.vercel.app
 amazon-layout-5ufe.vercel.app
@@ -56,13 +57,11 @@ autoconfig.glovonetwork.com
 avaturefed.net
 axm-amazon.com
 backname.io
-backup.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 bankofamerica-financial.com
 bankofamerica-tx.com
 bankofamericatreasury.info
 barclaysea.com
 bbvalues.uk
-being-suite-trezre-us.framer.ai
 berbagi-facebook.blogspot.com
 beta-instagram.vercel.app
 bill-netflix-dashboard-account.104-248-114-136.cpanel.site
@@ -84,7 +83,6 @@ biowikiweb.com
 blu-foods.com
 bnext.es
 bob2.paypal-updates.antimoney-laundering.org
-bradescoinvestidor.com
 brasil-facebook.blogspot.com
 bridge-trezr-io-sso.square.site
 brimembal.com
@@ -95,6 +93,8 @@ cashappps.com
 chat-on-whatsapp.com
 chatgpt-vwas-us.com
 chatgpt0005.eu.org
+chatgptget.com
+chatgptown.cn
 checkleaked.cc
 citrix-sharing.com
 click-facebook.blogspot.com
@@ -137,10 +137,12 @@ dothome.co.kr
 dow-nload-ledger-live--doc.typedream.app
 dp-dev.account-paypal.antimoney-laundering.org
 dpd-bexnaro.com
+dpd-calnori.com
 dpd-calviro.click
 dpd-cenviro.com
 dpd-ie-pack.club
 dpd-ie-pack.vip
+dpd-ie-pzr.club
 dpd-malvexa.click
 dpd-packages.club
 dpd-ravlimo.com
@@ -162,9 +164,7 @@ en-trezor-suite-io.square.site
 epsilons.co
 eu-facebook.blogspot.com
 eu.cc
-eventshouse.app
 exclusive-openseamints.vercel.app
-exodus-wallet.global.ssl.fastly.net
 exoduswallethelpcenter.vercel.app
 facebook--br.blogspot.com
 facebook-2-0-dun.vercel.app
@@ -279,10 +279,12 @@ google56.cn
 googleapps.lk
 googlecontacts.email
 googleepkay.com
+googleeptay.com
 googleepway.com
 googlel0gin.netlify.app
 googlelikenadav.com
 googlelogos.com
+googlemeet-join.com
 googlenewsgh.com
 googleoa.com
 googleplaety.com
@@ -313,7 +315,6 @@ ingdirect-portal-ingreso.com
 ingdirect-servicios-clientes.com
 ingdirect-usuario-login.com
 iniciamazon.com.br
-instagram-12.blogspot.com
 instagram-2-blond.vercel.app
 instagram-baittouts-login.blogspot.com
 instagram-cam.vercel.app
@@ -441,7 +442,6 @@ microsoftonline-sharepoint.online
 microsoftturkey.com
 microsoftturkiye.com
 microsoftwordob.blogspot.com
-milindu.work
 millassllc.com
 mirror-google.com
 monjaro-amazon.com
@@ -456,6 +456,7 @@ netflix-coral-zeta.vercel.app
 netflix-homepage-pi.vercel.app
 netflix-renovacion-es.com
 netflix-switzerlandch.com
+netflix-verification.fr
 netflix-web-site-three.vercel.app
 netflix.surf
 netflix6.com
@@ -477,7 +478,6 @@ o10202038.shop
 o356.ee
 oauthe-xfinity-comm.weebly.com
 ofe83204.sbs
-oferta-59530174.sbs
 oferty-24.sbs
 office365licensingsupport.com
 ogoszenie-9583315.sbs
@@ -513,15 +513,12 @@ perfectgiftchoice.life
 ph-whatsapp.com
 photos-instagram.vercel.app
 piedrasdecolon.com.ar
-pl-oferta2179118.click
+pl-238957.sbs
 pl-ogloszenie142908.shop
 pl-ogloszezenle891241.shop
 pl-ogloszezenle978142.shop
-pl-xbox-series-x-oferta2224.sbs
-pl-xbox-series-x-oferta2874.cfd
 pl74892.pl
 platform-kraken.cc
-pll453f0le34k2n.shop
 pmc.pay.paypal-security.antimoney-laundering.org
 porrtal-stpmex.com
 portall-stpmex.com
@@ -530,8 +527,10 @@ premio-instagram.com
 prestamo-santander-cliente.vercel.app
 profil-facebook-saya.blogspot.com
 ptai.in
+qualisatis.com.br
 r-facebook.blogspot.com
 reactivar-microsoft-live.iceiy.com
+recover-paypal-p73809.com
 recreate-instagrampage.vercel.app
 reserveringenavonturenboerderij.nl
 rev.it
@@ -565,7 +564,6 @@ seurexpress.wpenginepowered.com
 sexy-whatsapp.blogspot.com
 shopping-shop.jp
 sign-in-to-xfinity-3643.weebly.com
-sip34427.account-paypal.antimoney-laundering.org
 sk-facebook.blogspot.com
 skylar.web.id
 smallflyingarts.net
@@ -584,12 +582,12 @@ spwww.paypal-updates.antimoney-laundering.org
 sso-site-ledgrr.square.site
 start-ledgerlive-com-web.typedream.app
 start-ledgren.zapier.app
-startio-trexoru.framer.website
 steam000.com
 steamcommunity.blog
 steamcommunity.ing
 steuerquimica.cl
 subscriber-netflix.com
+sue-wellsfargo.com
 sugar-outlook.com
 suite-app-docs-trezr.typedream.app
 support-apple.help
@@ -610,10 +608,8 @@ test.jsqnjzyg.login.microsoftonline-billing-verification-secured-help.161-35-102
 theamazon.vercel.app
 therelayservice.com
 ticket-fedex.com
-tickets-icloud-apple.com
 todaytonight.paypal-login.antimoney-laundering.org
 trackingnumbers.org
-transakcja940491.sbs
 trezoorr--thego.gitbook.io
 trezor-eo-startd.pages.dev
 trezor-login-us-auth-start.typedream.app
@@ -624,8 +620,9 @@ trustwallet-helpcenter.vercel.app
 trustwallet-recovery.duckdns.org
 trustwallet-tokentwtowner.vercel.app
 trustwalletindia-beta.vercel.app
+tunishopia.tn
+twitterw-wiki.com
 ukupteraz.click
-ukupteraz.rest
 unicaja-inicio.net
 updata.net.cn
 uspsaunitedworkforce.com
@@ -651,7 +648,6 @@ webaccess-alert.com
 webdirecto.com
 webmail.glovonetwork.com
 webpage-edge-start-trezo.pages.dev
-webpage-trezriostart.pages.dev
 wellsfargobanking.app
 whatsapp-dp-images.in
 whatsapp-fast.vercel.app
@@ -663,7 +659,6 @@ whatsappapk.org
 whatsappcampaign.online
 whatsappfreewhatsapp.blogspot.com
 whatsappo-ten.vercel.app
-whm5.paypal-verification.antimoney-laundering.org
 windows-ledger-live.typedream.app
 worldtk-whatsapp.com.cn
 ww-facebook.blogspot.com
@@ -680,7 +675,6 @@ yourwebs.app
 yzz.me
 z-facebook.blogspot.com
 z-instagram.blogspot.com
-zakupy-ioo24hc.top
 zaltiel.com.do
 zeta-facebook.blogspot.com
 zh-google-chrome.com
