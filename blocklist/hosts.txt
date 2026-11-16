@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 674
-# Updated: 2026-11-15T18:52:02Z
+# Entries: 679
+# Updated: 2026-11-16T06:31:28Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -8,6 +8,7 @@
 
 0.0.0.0 1-whatsapp.top
 0.0.0.0 1056804.com
+0.0.0.0 1291928gii.click
 0.0.0.0 145.life
 0.0.0.0 199281-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
@@ -34,7 +35,6 @@
 0.0.0.0 alibabamobaile.ir
 0.0.0.0 alibabasauce.com
 0.0.0.0 alibabatradeonline.com
-0.0.0.0 allkategoriaoferta421412.sbs
 0.0.0.0 amazon-europe.club
 0.0.0.0 amazon-harshdeep.vercel.app
 0.0.0.0 amazon-layout-5ufe.vercel.app
@@ -44,8 +44,8 @@
 0.0.0.0 an-usps.com
 0.0.0.0 apexrecoveryconsulting.com.glovonetwork.com
 0.0.0.0 app81-facebook.blogspot.com
+0.0.0.0 apper.so
 0.0.0.0 apple-cl0ud.com
-0.0.0.0 apple-support-login.live
 0.0.0.0 appleid-icloudmac.com
 0.0.0.0 appleinc-support.info
 0.0.0.0 arpa.org.bd
@@ -102,6 +102,7 @@
 0.0.0.0 coinbase-advanced-trial.pages.dev
 0.0.0.0 coinbase-connetct.vercel.app
 0.0.0.0 coinbase-invest.com
+0.0.0.0 coinbase-login-usa.com
 0.0.0.0 coinbase-supportdesk.vercel.app
 0.0.0.0 coinbase-svip.com
 0.0.0.0 coinbase.am.in
@@ -113,7 +114,6 @@
 0.0.0.0 coinbasevip2012.net
 0.0.0.0 com-gpt.vip
 0.0.0.0 com-microsoftonline-ondrive.ca
-0.0.0.0 com-numerbiletu3821831923.sbs
 0.0.0.0 com-ok.vip
 0.0.0.0 com-users.vip
 0.0.0.0 comcast-1-zeta.vercel.app
@@ -154,7 +154,6 @@
 0.0.0.0 ebay-lwholesale.com
 0.0.0.0 ebay-phone-number.blogspot.com
 0.0.0.0 ebay-seller-center-managedpayments.vercel.app
-0.0.0.0 edgeone.dev
 0.0.0.0 email-microsoft.com
 0.0.0.0 emekastudios.co.za
 0.0.0.0 employmentlawyerlongisland.com
@@ -162,10 +161,12 @@
 0.0.0.0 en-ledgre.pages.dev
 0.0.0.0 en-trezor-suite-io.square.site
 0.0.0.0 epsilons.co
+0.0.0.0 esteva0almeida.github.io
 0.0.0.0 eu-facebook.blogspot.com
 0.0.0.0 eu.cc
 0.0.0.0 exclusive-openseamints.vercel.app
 0.0.0.0 exoduswallethelpcenter.vercel.app
+0.0.0.0 facebok-facebook.blogspot.com
 0.0.0.0 facebook--br.blogspot.com
 0.0.0.0 facebook-2-0-dun.vercel.app
 0.0.0.0 facebook-2025.blogspot.com
@@ -301,9 +302,11 @@
 0.0.0.0 hotmail666.com
 0.0.0.0 hsbc-sec.com
 0.0.0.0 hsbcverifyadvisorhelp.com
+0.0.0.0 https-www-roblox.com
 0.0.0.0 icloud-finm.com
 0.0.0.0 icloudhelp.com
 0.0.0.0 id-paypalservice.dev
+0.0.0.0 id-whatsapp-telegram.pages.dev
 0.0.0.0 ideeo.mx
 0.0.0.0 ijpress.account-paypal.antimoney-laundering.org
 0.0.0.0 info-eng-ledgerlive-learn.typedream.app
@@ -440,7 +443,6 @@
 0.0.0.0 microsoftjk.eu.org
 0.0.0.0 microsoftonline-sharepoint.online
 0.0.0.0 microsoftturkey.com
-0.0.0.0 microsoftturkiye.com
 0.0.0.0 microsoftwordob.blogspot.com
 0.0.0.0 millassllc.com
 0.0.0.0 mirror-google.com
@@ -466,7 +468,6 @@
 0.0.0.0 netflixfeitoaqui.com.br
 0.0.0.0 netflixmedia.com
 0.0.0.0 netflixquebec.blogspot.com
-0.0.0.0 netflixuae.com
 0.0.0.0 netflixvoid.org
 0.0.0.0 netflixy-bixy.vercel.app
 0.0.0.0 netflixzap.com
@@ -477,10 +478,12 @@
 0.0.0.0 o10202038.shop
 0.0.0.0 o356.ee
 0.0.0.0 oauthe-xfinity-comm.weebly.com
+0.0.0.0 ofe24.sbs
 0.0.0.0 ofe83204.sbs
 0.0.0.0 oferty-24.sbs
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 ogoszenie-9583315.sbs
+0.0.0.0 onaamazon.com.ng
 0.0.0.0 onedrive-1-one.vercel.app
 0.0.0.0 onedrive-4-nine.vercel.app
 0.0.0.0 open-instagram.vercel.app
@@ -513,13 +516,12 @@
 0.0.0.0 ph-whatsapp.com
 0.0.0.0 photos-instagram.vercel.app
 0.0.0.0 piedrasdecolon.com.ar
-0.0.0.0 pl-238957.sbs
+0.0.0.0 pl-2478935.sbs
 0.0.0.0 pl-ogloszenie142908.shop
 0.0.0.0 pl-ogloszezenle891241.shop
 0.0.0.0 pl-ogloszezenle978142.shop
 0.0.0.0 pl74892.pl
 0.0.0.0 platform-kraken.cc
-0.0.0.0 pmc.pay.paypal-security.antimoney-laundering.org
 0.0.0.0 porrtal-stpmex.com
 0.0.0.0 portall-stpmex.com
 0.0.0.0 pousadaparaisodocarmo.com.br
@@ -527,11 +529,13 @@
 0.0.0.0 prestamo-santander-cliente.vercel.app
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 ptai.in
+0.0.0.0 pwpwwp.sbs
 0.0.0.0 qualisatis.com.br
 0.0.0.0 r-facebook.blogspot.com
 0.0.0.0 reactivar-microsoft-live.iceiy.com
 0.0.0.0 recover-paypal-p73809.com
 0.0.0.0 recreate-instagrampage.vercel.app
+0.0.0.0 renouveler-spotify.com
 0.0.0.0 reserveringenavonturenboerderij.nl
 0.0.0.0 rev.it
 0.0.0.0 roblox.com.am
@@ -553,16 +557,17 @@
 0.0.0.0 santander-comprovante-fr8kq2lm7xv9pqa4nx.duckdns.org
 0.0.0.0 santander-dev-week.vercel.app
 0.0.0.0 santander-inicio.vercel.app
+0.0.0.0 santanderarena.cl
 0.0.0.0 santandercitas.com
 0.0.0.0 saque-instagram.com
 0.0.0.0 search.er.in
 0.0.0.0 secure-bridge-trezr-apps.typedream.app
 0.0.0.0 secure14-apple.com
+0.0.0.0 secure40-appleid.com
 0.0.0.0 securedsupport-coinbase.com
 0.0.0.0 send-secure-trustwallet-usdt-bip20.vercel.app
 0.0.0.0 seurexpress.wpenginepowered.com
 0.0.0.0 sexy-whatsapp.blogspot.com
-0.0.0.0 shopping-shop.jp
 0.0.0.0 sign-in-to-xfinity-3643.weebly.com
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 skylar.web.id
@@ -586,7 +591,6 @@
 0.0.0.0 steamcommunity.blog
 0.0.0.0 steamcommunity.ing
 0.0.0.0 steuerquimica.cl
-0.0.0.0 subscriber-netflix.com
 0.0.0.0 sue-wellsfargo.com
 0.0.0.0 sugar-outlook.com
 0.0.0.0 suite-app-docs-trezr.typedream.app
@@ -626,6 +630,7 @@
 0.0.0.0 unicaja-inicio.net
 0.0.0.0 updata.net.cn
 0.0.0.0 uspsaunitedworkforce.com
+0.0.0.0 uspss.pages.dev
 0.0.0.0 uspssmartparcellocker.tech
 0.0.0.0 v0-exodus-wallet-app.vercel.app
 0.0.0.0 v0-trezor-suite-website.vercel.app

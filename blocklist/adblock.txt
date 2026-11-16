@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 674
-! Updated: 2026-11-15T18:52:03Z
+! Entries: 679
+! Updated: 2026-11-16T06:31:28Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -8,6 +8,7 @@
 
 ||1-whatsapp.top^
 ||1056804.com^
+||1291928gii.click^
 ||145.life^
 ||199281-coinbase.com^
 ||2017-facebook.blogspot.com^
@@ -34,7 +35,6 @@
 ||alibabamobaile.ir^
 ||alibabasauce.com^
 ||alibabatradeonline.com^
-||allkategoriaoferta421412.sbs^
 ||amazon-europe.club^
 ||amazon-harshdeep.vercel.app^
 ||amazon-layout-5ufe.vercel.app^
@@ -44,8 +44,8 @@
 ||an-usps.com^
 ||apexrecoveryconsulting.com.glovonetwork.com^
 ||app81-facebook.blogspot.com^
+||apper.so^
 ||apple-cl0ud.com^
-||apple-support-login.live^
 ||appleid-icloudmac.com^
 ||appleinc-support.info^
 ||arpa.org.bd^
@@ -102,6 +102,7 @@
 ||coinbase-advanced-trial.pages.dev^
 ||coinbase-connetct.vercel.app^
 ||coinbase-invest.com^
+||coinbase-login-usa.com^
 ||coinbase-supportdesk.vercel.app^
 ||coinbase-svip.com^
 ||coinbase.am.in^
@@ -113,7 +114,6 @@
 ||coinbasevip2012.net^
 ||com-gpt.vip^
 ||com-microsoftonline-ondrive.ca^
-||com-numerbiletu3821831923.sbs^
 ||com-ok.vip^
 ||com-users.vip^
 ||comcast-1-zeta.vercel.app^
@@ -154,7 +154,6 @@
 ||ebay-lwholesale.com^
 ||ebay-phone-number.blogspot.com^
 ||ebay-seller-center-managedpayments.vercel.app^
-||edgeone.dev^
 ||email-microsoft.com^
 ||emekastudios.co.za^
 ||employmentlawyerlongisland.com^
@@ -162,10 +161,12 @@
 ||en-ledgre.pages.dev^
 ||en-trezor-suite-io.square.site^
 ||epsilons.co^
+||esteva0almeida.github.io^
 ||eu-facebook.blogspot.com^
 ||eu.cc^
 ||exclusive-openseamints.vercel.app^
 ||exoduswallethelpcenter.vercel.app^
+||facebok-facebook.blogspot.com^
 ||facebook--br.blogspot.com^
 ||facebook-2-0-dun.vercel.app^
 ||facebook-2025.blogspot.com^
@@ -301,9 +302,11 @@
 ||hotmail666.com^
 ||hsbc-sec.com^
 ||hsbcverifyadvisorhelp.com^
+||https-www-roblox.com^
 ||icloud-finm.com^
 ||icloudhelp.com^
 ||id-paypalservice.dev^
+||id-whatsapp-telegram.pages.dev^
 ||ideeo.mx^
 ||ijpress.account-paypal.antimoney-laundering.org^
 ||info-eng-ledgerlive-learn.typedream.app^
@@ -440,7 +443,6 @@
 ||microsoftjk.eu.org^
 ||microsoftonline-sharepoint.online^
 ||microsoftturkey.com^
-||microsoftturkiye.com^
 ||microsoftwordob.blogspot.com^
 ||millassllc.com^
 ||mirror-google.com^
@@ -466,7 +468,6 @@
 ||netflixfeitoaqui.com.br^
 ||netflixmedia.com^
 ||netflixquebec.blogspot.com^
-||netflixuae.com^
 ||netflixvoid.org^
 ||netflixy-bixy.vercel.app^
 ||netflixzap.com^
@@ -477,10 +478,12 @@
 ||o10202038.shop^
 ||o356.ee^
 ||oauthe-xfinity-comm.weebly.com^
+||ofe24.sbs^
 ||ofe83204.sbs^
 ||oferty-24.sbs^
 ||office365licensingsupport.com^
 ||ogoszenie-9583315.sbs^
+||onaamazon.com.ng^
 ||onedrive-1-one.vercel.app^
 ||onedrive-4-nine.vercel.app^
 ||open-instagram.vercel.app^
@@ -513,13 +516,12 @@
 ||ph-whatsapp.com^
 ||photos-instagram.vercel.app^
 ||piedrasdecolon.com.ar^
-||pl-238957.sbs^
+||pl-2478935.sbs^
 ||pl-ogloszenie142908.shop^
 ||pl-ogloszezenle891241.shop^
 ||pl-ogloszezenle978142.shop^
 ||pl74892.pl^
 ||platform-kraken.cc^
-||pmc.pay.paypal-security.antimoney-laundering.org^
 ||porrtal-stpmex.com^
 ||portall-stpmex.com^
 ||pousadaparaisodocarmo.com.br^
@@ -527,11 +529,13 @@
 ||prestamo-santander-cliente.vercel.app^
 ||profil-facebook-saya.blogspot.com^
 ||ptai.in^
+||pwpwwp.sbs^
 ||qualisatis.com.br^
 ||r-facebook.blogspot.com^
 ||reactivar-microsoft-live.iceiy.com^
 ||recover-paypal-p73809.com^
 ||recreate-instagrampage.vercel.app^
+||renouveler-spotify.com^
 ||reserveringenavonturenboerderij.nl^
 ||rev.it^
 ||roblox.com.am^
@@ -553,16 +557,17 @@
 ||santander-comprovante-fr8kq2lm7xv9pqa4nx.duckdns.org^
 ||santander-dev-week.vercel.app^
 ||santander-inicio.vercel.app^
+||santanderarena.cl^
 ||santandercitas.com^
 ||saque-instagram.com^
 ||search.er.in^
 ||secure-bridge-trezr-apps.typedream.app^
 ||secure14-apple.com^
+||secure40-appleid.com^
 ||securedsupport-coinbase.com^
 ||send-secure-trustwallet-usdt-bip20.vercel.app^
 ||seurexpress.wpenginepowered.com^
 ||sexy-whatsapp.blogspot.com^
-||shopping-shop.jp^
 ||sign-in-to-xfinity-3643.weebly.com^
 ||sk-facebook.blogspot.com^
 ||skylar.web.id^
@@ -586,7 +591,6 @@
 ||steamcommunity.blog^
 ||steamcommunity.ing^
 ||steuerquimica.cl^
-||subscriber-netflix.com^
 ||sue-wellsfargo.com^
 ||sugar-outlook.com^
 ||suite-app-docs-trezr.typedream.app^
@@ -626,6 +630,7 @@
 ||unicaja-inicio.net^
 ||updata.net.cn^
 ||uspsaunitedworkforce.com^
+||uspss.pages.dev^
 ||uspssmartparcellocker.tech^
 ||v0-exodus-wallet-app.vercel.app^
 ||v0-trezor-suite-website.vercel.app^
