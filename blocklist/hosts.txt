@@ -1,14 +1,12 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 679
-# Updated: 2026-11-16T06:31:28Z
+# Entries: 667
+# Updated: 2026-11-16T22:03:10Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
-0.0.0.0 1-whatsapp.top
 0.0.0.0 1056804.com
-0.0.0.0 1291928gii.click
 0.0.0.0 145.life
 0.0.0.0 199281-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
@@ -53,6 +51,7 @@
 0.0.0.0 asso-entrautres.fr
 0.0.0.0 athome-www.paypal-login.antimoney-laundering.org
 0.0.0.0 attmail8566575.weebly.com
+0.0.0.0 auth-metamask.pages.dev
 0.0.0.0 autoconfig.glovonetwork.com
 0.0.0.0 avaturefed.net
 0.0.0.0 axm-amazon.com
@@ -61,6 +60,7 @@
 0.0.0.0 bankofamerica-tx.com
 0.0.0.0 bankofamericatreasury.info
 0.0.0.0 barclaysea.com
+0.0.0.0 barclaysiportalhelphub.com
 0.0.0.0 bbvalues.uk
 0.0.0.0 berbagi-facebook.blogspot.com
 0.0.0.0 beta-instagram.vercel.app
@@ -83,11 +83,12 @@
 0.0.0.0 blu-foods.com
 0.0.0.0 bnext.es
 0.0.0.0 bob2.paypal-updates.antimoney-laundering.org
+0.0.0.0 bradescobeneficios.app.br
+0.0.0.0 bradescoempresabanking.com
 0.0.0.0 brasil-facebook.blogspot.com
 0.0.0.0 bridge-trezr-io-sso.square.site
 0.0.0.0 brimembal.com
 0.0.0.0 buscarmi-icloud.app
-0.0.0.0 carlosjosez1981-collab.github.io
 0.0.0.0 cashapp-liart.vercel.app
 0.0.0.0 cashappps.com
 0.0.0.0 chat-on-whatsapp.com
@@ -104,7 +105,6 @@
 0.0.0.0 coinbase-invest.com
 0.0.0.0 coinbase-login-usa.com
 0.0.0.0 coinbase-supportdesk.vercel.app
-0.0.0.0 coinbase-svip.com
 0.0.0.0 coinbase.am.in
 0.0.0.0 coinbase.com.lc
 0.0.0.0 coinbaseactivate.com
@@ -115,7 +115,6 @@
 0.0.0.0 com-gpt.vip
 0.0.0.0 com-microsoftonline-ondrive.ca
 0.0.0.0 com-ok.vip
-0.0.0.0 com-users.vip
 0.0.0.0 comcast-1-zeta.vercel.app
 0.0.0.0 comcast-xi.vercel.app
 0.0.0.0 correosicri.cc
@@ -130,12 +129,10 @@
 0.0.0.0 dhl-express-dev.firebaseapp.com
 0.0.0.0 dir.com.my
 0.0.0.0 discoveryloft.com
-0.0.0.0 dispute-google.com
 0.0.0.0 docs-google.com
 0.0.0.0 docs-trezor-app.pages.dev
 0.0.0.0 dothome.co.kr
 0.0.0.0 dow-nload-ledger-live--doc.typedream.app
-0.0.0.0 dp-dev.account-paypal.antimoney-laundering.org
 0.0.0.0 dpd-bexnaro.com
 0.0.0.0 dpd-calnori.com
 0.0.0.0 dpd-calviro.click
@@ -163,8 +160,8 @@
 0.0.0.0 epsilons.co
 0.0.0.0 esteva0almeida.github.io
 0.0.0.0 eu-facebook.blogspot.com
-0.0.0.0 eu.cc
 0.0.0.0 exclusive-openseamints.vercel.app
+0.0.0.0 exodus-tecnoclin.netlify.app
 0.0.0.0 exoduswallethelpcenter.vercel.app
 0.0.0.0 facebok-facebook.blogspot.com
 0.0.0.0 facebook--br.blogspot.com
@@ -259,7 +256,7 @@
 0.0.0.0 facebookwebsite9.blogspot.com
 0.0.0.0 fedexsv.com
 0.0.0.0 fifa-careerhub.com
-0.0.0.0 flazio.online
+0.0.0.0 fifa-hr.com
 0.0.0.0 forsakens-crew-teman-facebook.blogspot.com
 0.0.0.0 freeopenai.me
 0.0.0.0 fwh.is
@@ -300,13 +297,16 @@
 0.0.0.0 help-kraken-com-eng.square.site
 0.0.0.0 hotmail-two.vercel.app
 0.0.0.0 hotmail666.com
+0.0.0.0 hropenai.cn
 0.0.0.0 hsbc-sec.com
+0.0.0.0 hsbc-trade-review.pages.dev
+0.0.0.0 hsbcprivatebanksupport.com
 0.0.0.0 hsbcverifyadvisorhelp.com
 0.0.0.0 https-www-roblox.com
 0.0.0.0 icloud-finm.com
 0.0.0.0 icloudhelp.com
+0.0.0.0 id-applejp.cyou
 0.0.0.0 id-paypalservice.dev
-0.0.0.0 id-whatsapp-telegram.pages.dev
 0.0.0.0 ideeo.mx
 0.0.0.0 ijpress.account-paypal.antimoney-laundering.org
 0.0.0.0 info-eng-ledgerlive-learn.typedream.app
@@ -395,7 +395,6 @@
 0.0.0.0 ledger-live-login-web.square.site
 0.0.0.0 ledzer-live.square.site
 0.0.0.0 leia-santander.vercel.app
-0.0.0.0 linkedin-365bet.com
 0.0.0.0 lite.paypal-login.antimoney-laundering.org
 0.0.0.0 livepackagetracking.com
 0.0.0.0 lobster-cloud.com
@@ -428,7 +427,6 @@
 0.0.0.0 metamaskextensionnn.gitbook.io
 0.0.0.0 metamaskiologii.gitbook.io
 0.0.0.0 metamasklskog.gitbook.io
-0.0.0.0 metamasksupportsos.github.io
 0.0.0.0 metamaskuxlogen.gitbook.io
 0.0.0.0 metamaskwallett.blogspot.com
 0.0.0.0 mi-santander.com
@@ -444,7 +442,6 @@
 0.0.0.0 microsoftonline-sharepoint.online
 0.0.0.0 microsoftturkey.com
 0.0.0.0 microsoftwordob.blogspot.com
-0.0.0.0 millassllc.com
 0.0.0.0 mirror-google.com
 0.0.0.0 monjaro-amazon.com
 0.0.0.0 movistar-recaudo-epayc.com
@@ -454,9 +451,9 @@
 0.0.0.0 mytemp.website
 0.0.0.0 nbpublic.com
 0.0.0.0 neda-facebook.blogspot.com
+0.0.0.0 netflix-abonnement.com
 0.0.0.0 netflix-coral-zeta.vercel.app
 0.0.0.0 netflix-homepage-pi.vercel.app
-0.0.0.0 netflix-renovacion-es.com
 0.0.0.0 netflix-switzerlandch.com
 0.0.0.0 netflix-verification.fr
 0.0.0.0 netflix-web-site-three.vercel.app
@@ -478,14 +475,13 @@
 0.0.0.0 o10202038.shop
 0.0.0.0 o356.ee
 0.0.0.0 oauthe-xfinity-comm.weebly.com
-0.0.0.0 ofe24.sbs
 0.0.0.0 ofe83204.sbs
 0.0.0.0 oferty-24.sbs
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 ogoszenie-9583315.sbs
-0.0.0.0 onaamazon.com.ng
 0.0.0.0 onedrive-1-one.vercel.app
 0.0.0.0 onedrive-4-nine.vercel.app
+0.0.0.0 onedrive-live-shared-folder-attachment-microsoft365.com
 0.0.0.0 open-instagram.vercel.app
 0.0.0.0 openai-hotel-trip.com
 0.0.0.0 openanthropic.com
@@ -516,7 +512,6 @@
 0.0.0.0 ph-whatsapp.com
 0.0.0.0 photos-instagram.vercel.app
 0.0.0.0 piedrasdecolon.com.ar
-0.0.0.0 pl-2478935.sbs
 0.0.0.0 pl-ogloszenie142908.shop
 0.0.0.0 pl-ogloszezenle891241.shop
 0.0.0.0 pl-ogloszezenle978142.shop
@@ -529,8 +524,6 @@
 0.0.0.0 prestamo-santander-cliente.vercel.app
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 ptai.in
-0.0.0.0 pwpwwp.sbs
-0.0.0.0 qualisatis.com.br
 0.0.0.0 r-facebook.blogspot.com
 0.0.0.0 reactivar-microsoft-live.iceiy.com
 0.0.0.0 recover-paypal-p73809.com
@@ -562,8 +555,6 @@
 0.0.0.0 saque-instagram.com
 0.0.0.0 search.er.in
 0.0.0.0 secure-bridge-trezr-apps.typedream.app
-0.0.0.0 secure14-apple.com
-0.0.0.0 secure40-appleid.com
 0.0.0.0 securedsupport-coinbase.com
 0.0.0.0 send-secure-trustwallet-usdt-bip20.vercel.app
 0.0.0.0 seurexpress.wpenginepowered.com
@@ -576,7 +567,6 @@
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotify-clon-by-akshit.netlify.app
 0.0.0.0 spotify-login-teal.vercel.app
-0.0.0.0 spotifymodapp.com.in
 0.0.0.0 spotifymode.org
 0.0.0.0 spotifypremiumapk.pk
 0.0.0.0 spotifypremiumz.net
@@ -585,7 +575,6 @@
 0.0.0.0 spspspsps.shop
 0.0.0.0 spwww.paypal-updates.antimoney-laundering.org
 0.0.0.0 sso-site-ledgrr.square.site
-0.0.0.0 start-ledgerlive-com-web.typedream.app
 0.0.0.0 start-ledgren.zapier.app
 0.0.0.0 steam000.com
 0.0.0.0 steamcommunity.blog
@@ -597,7 +586,6 @@
 0.0.0.0 support-apple.help
 0.0.0.0 support-appleld.info
 0.0.0.0 support-barclays-inc.info
-0.0.0.0 support-ledgerlive-eng.typedream.app
 0.0.0.0 support-ledgrcom-start-web.typedream.app
 0.0.0.0 support.zoom.us.trojan.d165.dpdns.org
 0.0.0.0 support.zoom.us.vless.d165.dpdns.org
@@ -636,10 +624,10 @@
 0.0.0.0 v0-trezor-suite-website.vercel.app
 0.0.0.0 verify-google-app.netlify.app
 0.0.0.0 verifyaccount-google.com
-0.0.0.0 verifycase-apple.com
 0.0.0.0 verifytoken.com
 0.0.0.0 viewclass.com
 0.0.0.0 viewpackagetracking.com
+0.0.0.0 vintedd.duckdns.org
 0.0.0.0 vinteden-etikett5358.com
 0.0.0.0 vodafone-business-berlin.de
 0.0.0.0 vodafone-business-berlin.store

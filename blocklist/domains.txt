@@ -1,14 +1,12 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 679
-# Updated: 2026-11-16T06:30:02Z
+# Entries: 667
+# Updated: 2026-11-16T22:03:10Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
-1-whatsapp.top
 1056804.com
-1291928gii.click
 145.life
 199281-coinbase.com
 2017-facebook.blogspot.com
@@ -53,6 +51,7 @@ ashy-moss-0bc074f03.5.azurestaticapps.net
 asso-entrautres.fr
 athome-www.paypal-login.antimoney-laundering.org
 attmail8566575.weebly.com
+auth-metamask.pages.dev
 autoconfig.glovonetwork.com
 avaturefed.net
 axm-amazon.com
@@ -61,6 +60,7 @@ bankofamerica-financial.com
 bankofamerica-tx.com
 bankofamericatreasury.info
 barclaysea.com
+barclaysiportalhelphub.com
 bbvalues.uk
 berbagi-facebook.blogspot.com
 beta-instagram.vercel.app
@@ -83,11 +83,12 @@ biowikiweb.com
 blu-foods.com
 bnext.es
 bob2.paypal-updates.antimoney-laundering.org
+bradescobeneficios.app.br
+bradescoempresabanking.com
 brasil-facebook.blogspot.com
 bridge-trezr-io-sso.square.site
 brimembal.com
 buscarmi-icloud.app
-carlosjosez1981-collab.github.io
 cashapp-liart.vercel.app
 cashappps.com
 chat-on-whatsapp.com
@@ -104,7 +105,6 @@ coinbase-connetct.vercel.app
 coinbase-invest.com
 coinbase-login-usa.com
 coinbase-supportdesk.vercel.app
-coinbase-svip.com
 coinbase.am.in
 coinbase.com.lc
 coinbaseactivate.com
@@ -115,7 +115,6 @@ coinbasevip2012.net
 com-gpt.vip
 com-microsoftonline-ondrive.ca
 com-ok.vip
-com-users.vip
 comcast-1-zeta.vercel.app
 comcast-xi.vercel.app
 correosicri.cc
@@ -130,12 +129,10 @@ de-paypal-sec.com
 dhl-express-dev.firebaseapp.com
 dir.com.my
 discoveryloft.com
-dispute-google.com
 docs-google.com
 docs-trezor-app.pages.dev
 dothome.co.kr
 dow-nload-ledger-live--doc.typedream.app
-dp-dev.account-paypal.antimoney-laundering.org
 dpd-bexnaro.com
 dpd-calnori.com
 dpd-calviro.click
@@ -163,8 +160,8 @@ en-trezor-suite-io.square.site
 epsilons.co
 esteva0almeida.github.io
 eu-facebook.blogspot.com
-eu.cc
 exclusive-openseamints.vercel.app
+exodus-tecnoclin.netlify.app
 exoduswallethelpcenter.vercel.app
 facebok-facebook.blogspot.com
 facebook--br.blogspot.com
@@ -259,7 +256,7 @@ facebooktechnicalsupportnumber123.blogspot.com
 facebookwebsite9.blogspot.com
 fedexsv.com
 fifa-careerhub.com
-flazio.online
+fifa-hr.com
 forsakens-crew-teman-facebook.blogspot.com
 freeopenai.me
 fwh.is
@@ -300,13 +297,16 @@ help-docs-metamask.gitbook.io
 help-kraken-com-eng.square.site
 hotmail-two.vercel.app
 hotmail666.com
+hropenai.cn
 hsbc-sec.com
+hsbc-trade-review.pages.dev
+hsbcprivatebanksupport.com
 hsbcverifyadvisorhelp.com
 https-www-roblox.com
 icloud-finm.com
 icloudhelp.com
+id-applejp.cyou
 id-paypalservice.dev
-id-whatsapp-telegram.pages.dev
 ideeo.mx
 ijpress.account-paypal.antimoney-laundering.org
 info-eng-ledgerlive-learn.typedream.app
@@ -395,7 +395,6 @@ ledger-live-download-sso-conect.typedream.app
 ledger-live-login-web.square.site
 ledzer-live.square.site
 leia-santander.vercel.app
-linkedin-365bet.com
 lite.paypal-login.antimoney-laundering.org
 livepackagetracking.com
 lobster-cloud.com
@@ -428,7 +427,6 @@ metamaskchromeextensionn.blogspot.com
 metamaskextensionnn.gitbook.io
 metamaskiologii.gitbook.io
 metamasklskog.gitbook.io
-metamasksupportsos.github.io
 metamaskuxlogen.gitbook.io
 metamaskwallett.blogspot.com
 mi-santander.com
@@ -444,7 +442,6 @@ microsoftjk.eu.org
 microsoftonline-sharepoint.online
 microsoftturkey.com
 microsoftwordob.blogspot.com
-millassllc.com
 mirror-google.com
 monjaro-amazon.com
 movistar-recaudo-epayc.com
@@ -454,9 +451,9 @@ my-spotify.app
 mytemp.website
 nbpublic.com
 neda-facebook.blogspot.com
+netflix-abonnement.com
 netflix-coral-zeta.vercel.app
 netflix-homepage-pi.vercel.app
-netflix-renovacion-es.com
 netflix-switzerlandch.com
 netflix-verification.fr
 netflix-web-site-three.vercel.app
@@ -478,14 +475,13 @@ nr-238sn34.sbs
 o10202038.shop
 o356.ee
 oauthe-xfinity-comm.weebly.com
-ofe24.sbs
 ofe83204.sbs
 oferty-24.sbs
 office365licensingsupport.com
 ogoszenie-9583315.sbs
-onaamazon.com.ng
 onedrive-1-one.vercel.app
 onedrive-4-nine.vercel.app
+onedrive-live-shared-folder-attachment-microsoft365.com
 open-instagram.vercel.app
 openai-hotel-trip.com
 openanthropic.com
@@ -516,7 +512,6 @@ perfectgiftchoice.life
 ph-whatsapp.com
 photos-instagram.vercel.app
 piedrasdecolon.com.ar
-pl-2478935.sbs
 pl-ogloszenie142908.shop
 pl-ogloszezenle891241.shop
 pl-ogloszezenle978142.shop
@@ -529,8 +524,6 @@ premio-instagram.com
 prestamo-santander-cliente.vercel.app
 profil-facebook-saya.blogspot.com
 ptai.in
-pwpwwp.sbs
-qualisatis.com.br
 r-facebook.blogspot.com
 reactivar-microsoft-live.iceiy.com
 recover-paypal-p73809.com
@@ -562,8 +555,6 @@ santandercitas.com
 saque-instagram.com
 search.er.in
 secure-bridge-trezr-apps.typedream.app
-secure14-apple.com
-secure40-appleid.com
 securedsupport-coinbase.com
 send-secure-trustwallet-usdt-bip20.vercel.app
 seurexpress.wpenginepowered.com
@@ -576,7 +567,6 @@ smart-92492.cfd
 spotify-client-beta.vercel.app
 spotify-clon-by-akshit.netlify.app
 spotify-login-teal.vercel.app
-spotifymodapp.com.in
 spotifymode.org
 spotifypremiumapk.pk
 spotifypremiumz.net
@@ -585,7 +575,6 @@ sprinklers-orlando.com
 spspspsps.shop
 spwww.paypal-updates.antimoney-laundering.org
 sso-site-ledgrr.square.site
-start-ledgerlive-com-web.typedream.app
 start-ledgren.zapier.app
 steam000.com
 steamcommunity.blog
@@ -597,7 +586,6 @@ suite-app-docs-trezr.typedream.app
 support-apple.help
 support-appleld.info
 support-barclays-inc.info
-support-ledgerlive-eng.typedream.app
 support-ledgrcom-start-web.typedream.app
 support.zoom.us.trojan.d165.dpdns.org
 support.zoom.us.vless.d165.dpdns.org
@@ -636,10 +624,10 @@ v0-exodus-wallet-app.vercel.app
 v0-trezor-suite-website.vercel.app
 verify-google-app.netlify.app
 verifyaccount-google.com
-verifycase-apple.com
 verifytoken.com
 viewclass.com
 viewpackagetracking.com
+vintedd.duckdns.org
 vinteden-etikett5358.com
 vodafone-business-berlin.de
 vodafone-business-berlin.store
