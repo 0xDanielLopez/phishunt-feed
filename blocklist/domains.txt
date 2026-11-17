@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 685
-# Updated: 2026-11-17T07:43:17Z
+# Entries: 675
+# Updated: 2026-11-17T20:56:19Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -17,14 +17,13 @@
 73a2370016b7.jadwiga.paypal-login.antimoney-laundering.org
 73a2370016b7.louie.account-paypal.antimoney-laundering.org
 73a2370016b7.lp.web18762.account-paypal.antimoney-laundering.org
-73a2370016b7.matfiz.paypal-support.antimoney-laundering.org
-73a2370016b7.mbgw.accounts-paypal.antimoney-laundering.org
-73a2370016b7.w-f.account-paypal.antimoney-laundering.org
 746184-icloud.com
+822312-coinbase.com
 a.12904.account-paypal.antimoney-laundering.org
 a2zapk.co
 a2zapk.dev
 acct-goog1e.com
+achiit.github.io
 acounts-google.duckdns.org
 adb-viewersv.com
 admin.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
@@ -41,10 +40,10 @@ amazon-harshdeep.vercel.app
 amazon-layout-5ufe.vercel.app
 amazon-section-opal.vercel.app
 amazon-slots.digital
-ambitopv.com
 amnesiacuracao.com
 an-usps.com
 apexrecoveryconsulting.com.glovonetwork.com
+app-trezor-starts.pages.dev
 app81-facebook.blogspot.com
 apper.so
 apple-cl0ud.com
@@ -59,12 +58,13 @@ auth-metamask.pages.dev
 autoconfig.glovonetwork.com
 avaturefed.net
 axm-amazon.com
-backname.io
 bankofamerica-financial.com
 bankofamerica-tx.com
 bankofamericatreasury.info
 barclaysea.com
+barclaysiportalfraudcentre.com
 barclaysiportalhelphub.com
+barclaysnetreactivate.com
 bbvalues.uk
 berbagi-facebook.blogspot.com
 beta-instagram.vercel.app
@@ -102,6 +102,7 @@ chat-on-whatsapp.com
 chatgpt-vwas-us.com
 chatgpt0005.eu.org
 chatgptown.cn
+chatgpts.co.kr
 chatgptupd.com
 checkleaked.cc
 citrix-sharing.com
@@ -110,6 +111,7 @@ cn-fedex.com
 coinbase-advanced-trial.pages.dev
 coinbase-connetct.vercel.app
 coinbase-invest.com
+coinbase-lock.com
 coinbase-login-usa.com
 coinbase-supportdesk.vercel.app
 coinbase.am.in
@@ -120,6 +122,7 @@ coinbaseplogininin.gitbook.io
 coinbaseprotect.com
 coinbasevip2012.net
 com-gpt.vip
+com-info.vip
 com-microsoftonline-ondrive.ca
 com-ok.vip
 comcast-1-zeta.vercel.app
@@ -140,6 +143,7 @@ dir.com.my
 discoveryloft.com
 docs-google.com
 docs-trezor-app.pages.dev
+dogsitters.ie
 dothome.co.kr
 dow-nload-ledger-live--doc.typedream.app
 dpd-bexnaro.com
@@ -171,7 +175,6 @@ es-netflix-dashboard.com
 esteva0almeida.github.io
 eu-facebook.blogspot.com
 exclusive-openseamints.vercel.app
-exodus-tecnoclin.netlify.app
 exoduswallethelpcenter.vercel.app
 facebok-facebook.blogspot.com
 facebook--br.blogspot.com
@@ -264,15 +267,18 @@ facebookwebsite9.blogspot.com
 fedexsv.com
 fifa-careerhub.com
 fifa-hr.com
+foroshgahma.com
 forsakens-crew-teman-facebook.blogspot.com
 freeopenai.me
 fwh.is
 gafiatechnologies.com
+game-amazon.best
 gestorweb.cl
 get-googlemeet.com
 ggzh-google.com.cn
 glallegro.com
 gloronyan.github.io
+gls-grougp.icu
 goku8.workers.dev
 google-alerter.com
 google-apk.com
@@ -286,6 +292,7 @@ googlecontacts.email
 googleepkay.com
 googleeptay.com
 googleepway.com
+googleguestservices.com
 googlel0gin.netlify.app
 googlelikenadav.com
 googlelogos.com
@@ -303,16 +310,15 @@ hashnode.dev
 help-docs-metamask.gitbook.io
 hotmail-two.vercel.app
 hotmail666.com
-hropenai.cn
 hsbc-sec.com
 hsbcprivatebanksupport.com
 hsbcverifyadvisorhelp.com
 icloud-finm.com
 icloud-id.rip
 icloud-my.rip
+icloud-ny.rip
 icloudhelp.com
 id-paypalservice.dev
-id-tkgfhjg4jf8.rest
 ideeo.mx
 ijpress.account-paypal.antimoney-laundering.org
 info-eng-ledgerlive-learn.typedream.app
@@ -388,7 +394,6 @@ kucoin-referral-code-pt.vercel.app
 kucoinapp.pages.dev
 kucoinblock.com
 kucoindeep.com
-kucoinlogenac.gitbook.io
 kucoinlogin.blogspot.com
 kucoinloginaa.gitbook.io
 kucoinloginii-1.gitbook.io
@@ -449,19 +454,17 @@ microsoft365businessbasic.com
 microsoft365updates.com
 microsoftjk.eu.org
 microsoftonline-sharepoint.online
-microsoftturkey.com
 microsoftwordob.blogspot.com
 mirror-google.com
-mm456.xyz
 monjaro-amazon.com
 movistar-recaudo-epayc.com
 my-coinbase.vercel.app
 my-kraken.com
 my-spotify.app
 mytemp.website
+naiwniak.pl
 nbpublic.com
 neda-facebook.blogspot.com
-netflix-abonnement.com
 netflix-coral-zeta.vercel.app
 netflix-homepage-pi.vercel.app
 netflix-switzerlandch.com
@@ -472,7 +475,6 @@ netflix-web-site-three.vercel.app
 netflix.surf
 netflix6.com
 netflixa.shop
-netflixaccount119.blogspot.com
 netflixbymanoj.vercel.app
 netflixcol.vercel.app
 netflixfeitoaqui.com.br
@@ -483,16 +485,13 @@ netflixy-bixy.vercel.app
 netflixzap.com
 network-facebook.blogspot.com
 noreply-icloud.app
-nr-238483smn3.sbs
+o102020282.sbs
 o10202038.shop
 o20303024.shop
 o356.ee
 oauthe-xfinity-comm.weebly.com
-ofe83204.sbs
 oferta-2113658.cfd
-oferty-24.sbs
 office365licensingsupport.com
-ogoszenie-9583315.sbs
 onedrive-live-shared-folder-attachment-microsoft365.com
 open-instagram.vercel.app
 openai-hotel-trip.com
@@ -529,7 +528,6 @@ pl-625517r251627oferta5345336s444.sbs
 pl-ogloszenie142908.shop
 pl-ogloszezenle891241.shop
 pl-ogloszezenle978142.shop
-pl74892.pl
 platform-kraken.cc
 porrtal-stpmex.com
 portall-stpmex.com
@@ -551,10 +549,10 @@ roblox.com.bz
 roblox.com.ee
 roblox.com.et
 roblox.com.gr
+roblox.com.gt
 roblox.com.ml
 roblox.com.pt
 roblox.com.ss
-rootsblowers.co.in
 rricrosoft-offices.org
 ruddycruzc.github.io
 s1027ipmi.paypal-updates.antimoney-laundering.org
@@ -587,6 +585,7 @@ spotifyprimiumapk.com
 sprinklers-orlando.com
 spspspsps.shop
 spwww.paypal-updates.antimoney-laundering.org
+sso-auth.com
 sso-site-ledgrr.square.site
 sspspssp.top
 start-ledgren.zapier.app
@@ -605,7 +604,6 @@ support.zoom.us.trojan.d165.dpdns.org
 support.zoom.us.vless.d165.dpdns.org
 support24h.app
 syracusehousepainters.com
-systemsharbor.com
 tamil.bid
 tara-facebook.blogspot.com
 tb-facebook.blogspot.com
@@ -623,16 +621,13 @@ trezorsuite-app.gitbook.io
 trezrhiwanlt.gitbook.io
 trust-wallet-omega.vercel.app
 trustwallet-helpcenter.vercel.app
-trustwallet-recovery.duckdns.org
-trustwallet-secure.duckdns.org
 trustwallet-tokentwtowner.vercel.app
 trustwalletindia-beta.vercel.app
 tunishopia.tn
 twitterw-wiki.com
-ukupteraz.click
 unicaja-inicio.net
 updata.net.cn
-usa-icloud.com
+us75webzoom.us
 uspsaunitedworkforce.com
 uspss.pages.dev
 uspssmartparcellocker.tech
@@ -641,16 +636,13 @@ v0-trezor-suite-website.vercel.app
 verify-google-app.netlify.app
 verifyaccount-google.com
 verifytoken.com
-vetro-pack-gls-3m.pages.dev
 viewclass.com
 viewpackagetracking.com
-vintedd.duckdns.org
 vinteden-etikett5358.com
 vodafone-business-berlin.de
 vodafone-business-berlin.store
 vodafone-on-line.it
 vpnuse.eu.org
-wab-whatsapp.cc
 wasmer.app
 web-trezor-io-start-us.vercel.app
 webaccess-alert.com
@@ -669,7 +661,6 @@ whatsappcampaign.online
 whatsappfreewhatsapp.blogspot.com
 whatsappo-ten.vercel.app
 whatsappsedzuan.bond
-wiega-gls-10m.pages.dev
 windows-ledger-live.typedream.app
 wise-transfer.com
 worldtk-whatsapp.com.cn
@@ -680,7 +671,6 @@ www.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-
 xfinityecure.weebly.com
 xfinityinfoltdorgltd.weebly.com
 xfinitywebslogin.weebly.com
-xqnrclhhevjgnwr.workers.dev
 yahoo888.xyz
 yourwebs.app
 yzz.me
