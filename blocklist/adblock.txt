@@ -1,17 +1,19 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 860
-! Updated: 2026-11-18T07:29:48Z
+! Entries: 863
+! Updated: 2026-11-18T20:32:28Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
 ! Community-reported phishing domains. Use at your own risk.
 
+||0230923o5.surf^
 ||1056804.com^
 ||199281-coinbase.com^
 ||2017-facebook.blogspot.com^
 ||30ee17940a1b0dec.netflix.memberaccess-recovery.40-113-33-046.cpanel.site^
 ||30ee17940a1b0dec.www.netflix.memberaccess-recovery.40-113-33-046.cpanel.site^
 ||3177550-coinbase.com^
+||6710014.cc^
 ||73a2370016b7.a.12904.account-paypal.antimoney-laundering.org^
 ||73a2370016b7.ab.paypal-support.antimoney-laundering.org^
 ||73a2370016b7.d.i37.paypal-updates.antimoney-laundering.org^
@@ -19,6 +21,7 @@
 ||73a2370016b7.louie.account-paypal.antimoney-laundering.org^
 ||73a2370016b7.lp.web18762.account-paypal.antimoney-laundering.org^
 ||822312-coinbase.com^
+||837846348734633.sbs^
 ||a.12904.account-paypal.antimoney-laundering.org^
 ||a2zapk.co^
 ||a2zapk.dev^
@@ -32,10 +35,12 @@
 ||aflryvbz.microsoftonline-billing-verification-secured-help.52-234-33-034.cpanel.site^
 ||agentforce.cc^
 ||agiletechsolutionsinc.com^
+||ainosato3-instagram.pages.dev^
 ||alibaba99.com^
 ||alibabamobaile.ir^
 ||alibabasauce.com^
 ||alibabatradeonline.com^
+||all-music-spotify-vnzx.netlify.app^
 ||amazon-europe.club^
 ||amazon-harshdeep.vercel.app^
 ||amazon-layout-5ufe.vercel.app^
@@ -50,7 +55,6 @@
 ||apexrecoveryconsulting.com.glovonetwork.com^
 ||app-trezor-starts.pages.dev^
 ||app81-facebook.blogspot.com^
-||apper.so^
 ||apple-cl0ud.com^
 ||appleid-icloudmac.com^
 ||appleid-support-security-verify.167-71-10-235.cpanel.site^
@@ -63,6 +67,7 @@
 ||athome-www.paypal-login.antimoney-laundering.org^
 ||attmail8566575.weebly.com^
 ||auth-metamask.pages.dev^
+||auth0-google.com^
 ||autoconfig.glovonetwork.com^
 ||avaturefed.net^
 ||axm-amazon.com^
@@ -70,8 +75,6 @@
 ||bankofamericatreasury.info^
 ||barclaysea.com^
 ||barclaysiportalfraudcentre.com^
-||barclaysiportalhelphub.com^
-||barclaysnetreactivate.com^
 ||bbvalues.uk^
 ||berbagi-facebook.blogspot.com^
 ||beta-instagram.vercel.app^
@@ -90,8 +93,8 @@
 ||binance-referral-code-btcbonus.vercel.app^
 ||binance-register.blogspot.com^
 ||binance-verif.com^
+||binance-zh.cn^
 ||binance3.github.io^
-||binanceidentityportal.com^
 ||binanceii.com^
 ||binancelivetrade.blogspot.com^
 ||binancenn.com^
@@ -108,6 +111,7 @@
 ||bradescoblack-convite.com^
 ||bradescochat.com^
 ||bradescoempresabanking.com^
+||bradesconvitecenturion.com^
 ||bradescoprincipalinvestimentos.com^
 ||brasil-facebook.blogspot.com^
 ||bridge-trezr-io-sso.square.site^
@@ -134,6 +138,7 @@
 ||coinbase-invest.com^
 ||coinbase-lock.com^
 ||coinbase-login-usa.com^
+||coinbase-secured.com^
 ||coinbase-supportdesk.vercel.app^
 ||coinbase.am.in^
 ||coinbase.com.lc^
@@ -154,7 +159,6 @@
 ||ct.ws^
 ||cursos-zensara.com^
 ||customer-paypal-services.com^
-||dapp-coin.top^
 ||darkieamazon.vercel.app^
 ||daservglobal.com^
 ||dashboard-netflix-en-us-verification.51-79-117-114.cpanel.site^
@@ -164,7 +168,6 @@
 ||discoveryloft.com^
 ||docs-google.com^
 ||docs-trezor-app.pages.dev^
-||docusignworkflow.com^
 ||dogsitters.ie^
 ||dothome.co.kr^
 ||dow-nload-ledger-live--doc.typedream.app^
@@ -172,6 +175,7 @@
 ||dpd-calnori.com^
 ||dpd-calviro.click^
 ||dpd-cenviro.com^
+||dpd-ie-kmr.club^
 ||dpd-ie-pack.club^
 ||dpd-ie-pack.vip^
 ||dpd-ie-pzr.club^
@@ -192,11 +196,12 @@
 ||en-home-trezore.pages.dev^
 ||en-ledgre.pages.dev^
 ||en-trezor-suite-io.square.site^
+||eofer245.cfd^
+||eofeta34635336.sbs^
 ||epsilons.co^
 ||es-netflix-dashboard.com^
 ||esteva0almeida.github.io^
 ||eu-facebook.blogspot.com^
-||eu.cc^
 ||exclusive-openseamints.vercel.app^
 ||exoduswallethelpcenter.vercel.app^
 ||facebok-facebook.blogspot.com^
@@ -206,7 +211,6 @@
 ||facebook-247-support.blogspot.com^
 ||facebook-5645464.blogspot.com^
 ||facebook-9.blogspot.com^
-||facebook-98.blogspot.com^
 ||facebook-account-login-page.blogspot.com^
 ||facebook-alpha.blogspot.com^
 ||facebook-ba.blogspot.com^
@@ -288,6 +292,7 @@
 ||facebooksociallink.blogspot.com^
 ||facebooktechnicalsupportnumber123.blogspot.com^
 ||facebookwebsite9.blogspot.com^
+||fedexasset.pro^
 ||fedexsv.com^
 ||fifa-careerhub.com^
 ||fifa-hr.com^
@@ -295,7 +300,6 @@
 ||forsakens-crew-teman-facebook.blogspot.com^
 ||freeopenai.me^
 ||fwh.is^
-||gafiatechnologies.com^
 ||game-amazon.best^
 ||gestorweb.cl^
 ||get-googlemeet.com^
@@ -303,11 +307,11 @@
 ||glallegro.com^
 ||gloronyan.github.io^
 ||gls-defender.pro^
-||gls-grougp.icu^
+||gls-grovup.cyou^
 ||goku8.workers.dev^
 ||google-alerter.com^
 ||google-apk.com^
-||google-do-do-junoo.netlify.app^
+||google-rights.com^
 ||google1208.com^
 ||google1302.com^
 ||google1308.com^
@@ -337,7 +341,6 @@
 ||hotmail-two.vercel.app^
 ||hotmail666.com^
 ||hsbc-sec.com^
-||hsbcprivatebanksupport.com^
 ||hsbcverifyadvisorhelp.com^
 ||icloud-finm.com^
 ||icloud-id.rip^
@@ -437,6 +440,7 @@
 ||ledgrr-strt-auth-io.square.site^
 ||ledzer-live.square.site^
 ||leia-santander.vercel.app^
+||lewisc99.github.io^
 ||lite.paypal-login.antimoney-laundering.org^
 ||live-ledgre.com^
 ||livepackagetracking.com^
@@ -450,6 +454,7 @@
 ||lovefive-facebook.blogspot.com^
 ||ly-facebook.blogspot.com^
 ||m.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-125-38.cpanel.site^
+||m365cloud-microsoft.com^
 ||m4ntapaset.ink^
 ||macieladvogados.com^
 ||madison.paypal-updates.antimoney-laundering.org^
@@ -495,6 +500,7 @@
 ||microsoftwordob.blogspot.com^
 ||mirror-google.com^
 ||monjaro-amazon.com^
+||moonstream-instagram-com.vercel.app^
 ||movistar-recaudo-epayc.com^
 ||my-coinbase.vercel.app^
 ||my-kraken.com^
@@ -507,7 +513,6 @@
 ||netflix-dashboard-login.23-099-70-096.cpanel.site^
 ||netflix-dashboard-login.8-219-97-148.cpanel.site^
 ||netflix-homepage-pi.vercel.app^
-||netflix-log-in-dashboard.139-84-132-128.cpanel.site^
 ||netflix-log-in-dashboard.167-71-143-126.cpanel.site^
 ||netflix-signin-update-billing-secured-mainapp-payment-decline.104-248-114-136.cpanel.site^
 ||netflix-signin-update-billing-secured-mainapp-payment-decline.161-35-102-243.cpanel.site^
@@ -517,7 +522,6 @@
 ||netflix-signin-update-payment-secured-billing-mainsec.51-79-117-114.cpanel.site^
 ||netflix-signin-update-payment-secured-billing-verify-account.104-248-114-136.cpanel.site^
 ||netflix-signin-update-payment-secured-billing-verify-account.167-71-10-235.cpanel.site^
-||netflix-signin-update-payment-secured-billing-verifying.139-84-132-128.cpanel.site^
 ||netflix-signin-update-payment-secured-billing-verifying.161-35-102-243.cpanel.site^
 ||netflix-signin-update-payment-secured-billing-verifying.167-71-10-235.cpanel.site^
 ||netflix-signin-update-payment-verify-billing-mainapp.104-248-114-136.cpanel.site^
@@ -526,6 +530,7 @@
 ||netflix-signin-verifying-billing-secure-payment-update.52-234-33-034.cpanel.site^
 ||netflix-signin-verifying-billing-secure-payment-update.82-119-81-020.cpanel.site^
 ||netflix-switzerlandch.com^
+||netflix-updateinfo.com^
 ||netflix-updatepayment.com^
 ||netflix-upgrade.com^
 ||netflix-verification.fr^
@@ -569,7 +574,6 @@
 ||notexistswww.www.www.netflix-signin-update-payment-secured-billing-mainsec.52-176-40-210.cpanel.site^
 ||notexistswww.www.www.www.www.www.account-netflix-payment.52-166-65-2.cpanel.site^
 ||o102020282.sbs^
-||o10202038.shop^
 ||o10303082.sbs^
 ||o20303024.shop^
 ||o356.ee^
@@ -592,6 +596,7 @@
 ||outlook1.cc^
 ||outlookmail.social^
 ||outlookmails.de^
+||outlookquarantinenotice.com^
 ||outlooksa.vercel.app^
 ||page-instagram.vercel.app^
 ||page-kucoin-en-us.typedream.app^
@@ -607,10 +612,8 @@
 ||ph-whatsapp.com^
 ||photos-instagram.vercel.app^
 ||piedrasdecolon.com.ar^
+||pk-oferta95032.cyou^
 ||pl-625517r251627oferta5345336s444.sbs^
-||pl-ogloszenie142908.shop^
-||pl-ogloszezenle891241.shop^
-||pl-ogloszezenle978142.shop^
 ||platform-kraken.cc^
 ||porrtal-stpmex.com^
 ||portall-stpmex.com^
@@ -620,7 +623,6 @@
 ||profil-facebook-saya.blogspot.com^
 ||ptai.in^
 ||r-facebook.blogspot.com^
-||rajasthanagroproduct.com^
 ||reactivar-microsoft-live.iceiy.com^
 ||recover-paypal-p73809.com^
 ||recreate-instagrampage.vercel.app^
@@ -628,6 +630,7 @@
 ||reserveringenavonturenboerderij.nl^
 ||rev.it^
 ||rgnmsfve.mgsfpgkn.zyg.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site^
+||roblox.com.am^
 ||roblox.com.bo^
 ||roblox.com.bz^
 ||roblox.com.ee^
@@ -667,7 +670,6 @@
 ||spotifypremiumz.net^
 ||spotifyprimiumapk.com^
 ||sprinklers-orlando.com^
-||spspspsps.shop^
 ||spwww.paypal-updates.antimoney-laundering.org^
 ||sso-auth.com^
 ||sso-site-ledgrr.square.site^
@@ -678,7 +680,6 @@
 ||steamcommunity.ing^
 ||stericycle.bill-account-netflix.52-176-40-210.cpanel.site^
 ||stericycle.www.bill-account-netflix.52-176-40-210.cpanel.site^
-||stericycle.www.bill-netflix-dashboard-account.193-146-211-80.cpanel.site^
 ||stericycle.www.www.dashboard-netflix-en-us-verification.23-099-70-096.cpanel.site^
 ||stericycle.www.www.www.bill-netflix-dashboard-account.52-166-65-002.cpanel.site^
 ||stericycle.www.www.www.dashboard-netflix-en-us-verification.104-243-38-18.cpanel.site^
@@ -693,6 +694,7 @@
 ||support.zoom.us.trojan.d165.dpdns.org^
 ||support.zoom.us.vless.d165.dpdns.org^
 ||support24h.app^
+||swift-hsbc.com^
 ||syracusehousepainters.com^
 ||tamil.bid^
 ||tara-facebook.blogspot.com^
@@ -719,8 +721,8 @@
 ||twitterw-wiki.com^
 ||unicaja-inicio.net^
 ||updata.net.cn^
+||us09zoom.us^
 ||us15zoom.us.com^
-||us75webzoom.us^
 ||uspsaunitedworkforce.com^
 ||uspss.pages.dev^
 ||uspssmartparcellocker.tech^
@@ -733,7 +735,6 @@
 ||verifytoken.com^
 ||viewclass.com^
 ||viewpackagetracking.com^
-||vinteden-etikett5358.com^
 ||vodafone-business-berlin.de^
 ||vodafone-business-berlin.store^
 ||vodafone-on-line.it^
@@ -761,7 +762,9 @@
 ||whatsapp11-cnj.pages.dev^
 ||whatsappapk.org^
 ||whatsappcampaign.online^
+||whatsappdjin.bond^
 ||whatsappfreewhatsapp.blogspot.com^
+||whatsapplmao.sbs^
 ||whatsappo-ten.vercel.app^
 ||whatsappsedzuan.bond^
 ||windows-ledger-live.typedream.app^
@@ -798,7 +801,6 @@
 ||www.nvdqmmgf.amazon-signin-update-payment-secure-billing-mainapp.3-129-34-49.cpanel.site^
 ||www.stericycle.amazon-signin-update-payment-secure-verify-billing-mainsec.167-71-143-126.cpanel.site^
 ||www.stericycle.dashboard-netflix-en-us-verification.23-099-70-096.cpanel.site^
-||www.stericycle.www.bill-netflix-dashboard-account.193-146-211-80.cpanel.site^
 ||www.vkpsourd.login.microsoftonline-billing-verification-secured-help.54-037-73-097.cpanel.site^
 ||www.vwraqsci.netflix-signin-update-payment-secured-billing-mainapp.50-116-6-13.cpanel.site^
 ||www.wc-020cba42b24a.www.ouxhbuse.netflix-signin-verifying-billing-secure-payment-update.104-243-38-18.cpanel.site^
@@ -853,6 +855,7 @@
 ||www.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-125-38.cpanel.site^
 ||xfinityecure.weebly.com^
 ||xfinityinfoltdorgltd.weebly.com^
+||xfinityupdateinfo.weebly.com^
 ||xfinitywebslogin.weebly.com^
 ||xucoxuqh.amazon-signin-update-payment-secure-verify-billing-mainsec.54-037-73-097.cpanel.site^
 ||yahoo888.xyz^
