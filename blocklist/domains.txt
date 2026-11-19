@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 870
-# Updated: 2026-11-19T07:27:17Z
+# Entries: 847
+# Updated: 2026-11-19T20:38:20Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -20,7 +20,6 @@
 73a2370016b7.louie.account-paypal.antimoney-laundering.org
 73a2370016b7.lp.web18762.account-paypal.antimoney-laundering.org
 822312-coinbase.com
-837846348734633.sbs
 a.12904.account-paypal.antimoney-laundering.org
 a2zapk.co
 a2zapk.dev
@@ -29,6 +28,7 @@ achiit.github.io
 acounts-google.duckdns.org
 adb-viewersv.com
 admin.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
+adobedocviewer.help
 adobefileviewer.dpdns.org
 adobeinstaller-virid.vercel.app
 aflryvbz.microsoftonline-billing-verification-secured-help.52-234-33-034.cpanel.site
@@ -51,20 +51,19 @@ amazon-slots.digital
 amnesiacuracao.com
 an-usps.com
 apexrecoveryconsulting.com.glovonetwork.com
-app-icloudmaps.click
 app-trezor-starts.pages.dev
 app81-facebook.blogspot.com
 apple-cl0ud.com
 appleid-icloudmac.com
 appleid-support-security-verify.167-71-10-235.cpanel.site
 appleid-support-security-verify.167-71-169-104.cpanel.site
-appleid-support-security-verify.50-116-6-13.cpanel.site
 appleinc-support.info
 arpa.org.bd
 ashy-moss-0bc074f03.5.azurestaticapps.net
 asso-entrautres.fr
 athome-www.paypal-login.antimoney-laundering.org
 attmail8566575.weebly.com
+aurionintl.online
 auth-metamask.pages.dev
 autoconfig.glovonetwork.com
 avaturefed.net
@@ -106,7 +105,6 @@ biowikiweb.com
 bnext.es
 bob2.paypal-updates.antimoney-laundering.org
 bradesco-app-redesign.vercel.app
-bradesco-netempresa.digital
 bradescobeneficios.app.br
 bradescoblack-convite.com
 bradescochat.com
@@ -123,7 +121,6 @@ cashapp-liart.vercel.app
 cashapp-secure-account-access.165-154-255-254.cpanel.site
 cashapp-verify-payment-info.165-154-255-254.cpanel.site
 cashappps.com
-chat-on-whatsapp.com
 chatgpt-vwas-us.com
 chatgpt0005.eu.org
 chatgptown.cn
@@ -131,7 +128,6 @@ chatgpts.co.kr
 chatgpttrainingforemployees.com
 chatgptupd.com
 checkleaked.cc
-citrix-sharing.com
 click-facebook.blogspot.com
 cn-fedex.com
 coinbase-advanced-trial.pages.dev
@@ -166,10 +162,12 @@ darkieamazon.vercel.app
 daservglobal.com
 dashboard-netflix-en-us-verification.51-79-117-114.cpanel.site
 de-paypal-sec.com
+desireblueuniforms.com
 dhl-express-dev.firebaseapp.com
+dianh.top
+diogoss120.github.io
 dir.com.my
 discoveryloft.com
-dk-przywiezione71935spz.cyou
 docs-google.com
 docs-trezor-app.pages.dev
 dogsitters.ie
@@ -186,6 +184,7 @@ dpd-ie-pzr.club
 dpd-malvexa.click
 dpd-packages.club
 dpd-ravlimo.com
+dpd-suivi-colis.com
 dpd-telvora.com
 dpd-xelvora.com
 dpd.bio
@@ -196,12 +195,12 @@ ebay-phone-number.blogspot.com
 ebay-seller-center-managedpayments.vercel.app
 email-microsoft.com
 emekastudios.co.za
+emeklialbay.site
 employmentlawyerlongisland.com
 en-home-trezore.pages.dev
 en-ledgre.pages.dev
 en-trezor-suite-io.square.site
 eofeta34635336.sbs
-epsilons.co
 es-netflix-dashboard.com
 esteva0almeida.github.io
 eu-facebook.blogspot.com
@@ -231,7 +230,6 @@ facebook-five-gamma.vercel.app
 facebook-germany.blogspot.com
 facebook-groups-new.blogspot.com
 facebook-hack-accounts.blogspot.com
-facebook-juga.blogspot.com
 facebook-links.blogspot.com
 facebook-login-be.blogspot.com
 facebook-login-it.blogspot.com
@@ -248,6 +246,7 @@ facebook-photo5.blogspot.com
 facebook-profile-login.blogspot.com
 facebook-pt.blogspot.com
 facebook-rus.blogspot.com
+facebook-seks-40.blogspot.com
 facebook-services-login.blogspot.com
 facebook-system.blogspot.com
 facebook-theta.vercel.app
@@ -304,16 +303,13 @@ fwh.is
 game-amazon.best
 gestorweb.cl
 get-googlemeet.com
-ggzh-google.com.cn
 glallegro.com
 gloronyan.github.io
 gls-defender.pro
-gls-grovup.cyou
 goku8.workers.dev
 google-alerter.com
 google-apk.com
 google1208.com
-google1302.com
 google1308.com
 google56.cn
 googleapps.lk
@@ -332,8 +328,7 @@ googleoa.com
 googleplaety.com
 googleplaiby.com
 googleplaydown.com
-googlepllry.com
-googleplrzy.com
+googlesupportt.netlify.app
 gruposuplidores.com
 hameem.net
 hashnode.dev
@@ -341,7 +336,6 @@ help-docs-metamask.gitbook.io
 hotmail-two.vercel.app
 hotmail666.com
 hsbc-sec.com
-hsbcverifyadvisorhelp.com
 icloud-finm.com
 icloud-id.rip
 icloud-my.rip
@@ -382,6 +376,7 @@ instagram-register.blogspot.com
 instagram-services.com
 instagram-session.vercel.app
 instagram-tip.blogspot.com
+instagram-zeta.vercel.app
 instagram030.github.io
 instagram157.github.io
 instagram90sedition.vercel.app
@@ -394,7 +389,6 @@ instagramfollowers7894.blogspot.com
 instagramfollowersfake.blogspot.com
 instagramlikescheap.blogspot.com
 instagramlogin-k.blogspot.com
-instagramlogin08.blogspot.com
 instagramlogin124.blogspot.com
 instagramlogin24.blogspot.com
 instagramlogin68.blogspot.com
@@ -439,12 +433,12 @@ ledgrr-strt-auth-io.square.site
 ledzer-live.square.site
 leia-santander.vercel.app
 lewisc99.github.io
+lhttps-www--roblox.com
 lite.paypal-login.antimoney-laundering.org
 live-ledgre.com
 livepackagetracking.com
 lobster-cloud.com
 log-in-facebook.blogspot.com
-login-facebook-login.blogspot.com
 login-facebookaccount.blogspot.com
 login-my-facebook.blogspot.com
 login-page-instagram.blogspot.com
@@ -508,7 +502,6 @@ my-coinbase.vercel.app
 my-kraken.com
 my-spotify.app
 mytemp.website
-nbpublic.com
 neda-facebook.blogspot.com
 netflix-coral-zeta.vercel.app
 netflix-dashboard-login.23-099-70-096.cpanel.site
@@ -551,14 +544,10 @@ netflixy-bixy.vercel.app
 netflixzap.com
 network-facebook.blogspot.com
 noreply-icloud.app
-notexistsbill-netflix-dashboard-account.50-116-6-13.cpanel.site
-notexistsikkkjqhz.netflix-signin-update-payment-secured-billing-mainapp.50-116-6-13.cpanel.site
 notexistslqthujai.netflix-signin-verifying-billing-secure-payment-update.40-113-33-046.cpanel.site
 notexistsnotexistsbill-account-netflix.40-113-33-46.cpanel.site
-notexistsnotexistsnotexistsecsbqavu.amazon-signin-update-payment-secure-billing-mainapp.050-116-06-013.cpanel.site
 notexistssocxqnfn.netflix-signin-update-payment-secured-billing-mainsec.23-099-70-096.cpanel.site
 notexistswww.amazon-signin-update-payment-secure-verify-billing-mainsec.23-099-70-096.cpanel.site
-notexistswww.bill-account-netflix-dashboard.050-116-06-013.cpanel.site
 notexistswww.codrfpkl.netflix-signin-update-payment-secured-billing-mainsec.104-243-38-18.cpanel.site
 notexistswww.netflix-signin-update-payment-secured-billing-mainapp.161-35-102-243.cpanel.site
 notexistswww.netflix-signin-update-payment-secured-billing-mainsec.52-176-40-210.cpanel.site
@@ -568,7 +557,6 @@ notexistswww.ntbnbkct.netflix-signin-update-payment-secured-billing-mainsec.167-
 notexistswww.www.amazon-signin-update-payment-secure-verify-billing-mainsec.40-113-33-046.cpanel.site
 notexistswww.www.bill-netflix-dashboard-account.52-166-65-002.cpanel.site
 notexistswww.www.dashboard-netflix-en-us-verification.23-099-70-096.cpanel.site
-notexistswww.www.notexistsnotexistswww.www.www.login-netflix-dashboard-user.50-116-06-013.cpanel.site
 notexistswww.www.www.amazon-signin-update-payment-secure-verify-billing-mainsec.03-129-34-049.cpanel.site
 notexistswww.www.www.bill-account-netflix.40-113-33-46.cpanel.site
 notexistswww.www.www.lqthujai.netflix-signin-verifying-billing-secure-payment-update.40-113-33-046.cpanel.site
@@ -576,14 +564,14 @@ notexistswww.www.www.netflix-signin-update-payment-secured-billing-mainsec.52-17
 notexistswww.www.www.www.www.www.account-netflix-payment.52-166-65-2.cpanel.site
 o102020282.sbs
 o10303082.sbs
-o20303024.shop
+o30303040.sbs
 o356.ee
 oauthe-xfinity-comm.weebly.com
+ofert894401.sbs
 office365licensingsupport.com
 onedrive-live-shared-folder-attachment-microsoft365.com
 open-instagram.vercel.app
 openai--ads.com
-openai-hotel-trip.com
 openanthropic.com
 opensea-six.vercel.app
 opensea-team.help
@@ -612,10 +600,6 @@ paypalcorp.blogspot.com
 perfectgiftchoice.life
 ph-whatsapp.com
 photos-instagram.vercel.app
-piedrasdecolon.com.ar
-pjlivelo.com
-pl-625517r251627oferta5345336s444.sbs
-pl-oferta789618732.cfd
 platform-kraken.cc
 porrtal-stpmex.com
 portall-stpmex.com
@@ -627,9 +611,11 @@ profil-facebook-saya.blogspot.com
 ptai.in
 r-facebook.blogspot.com
 rbxexntesions.com
+rcm-portal.at
 reactivar-microsoft-live.iceiy.com
 recover-paypal-p73809.com
 recreate-instagrampage.vercel.app
+recreatingwordsforsoul.us-sea-1.linodeobjects.com
 renouveler-spotify.com
 reserveringenavonturenboerderij.nl
 rev.it
@@ -663,13 +649,15 @@ securedsupport-coinbase.com
 securelinkvault.com
 security-server-stat-kng4.bolt.host
 send-secure-trustwallet-usdt-bip20.vercel.app
-servicosjuridico.com
 seurexpress.wpenginepowered.com
 sexy-whatsapp.blogspot.com
 sk-facebook.blogspot.com
 skylar.web.id
 smallflyingarts.net
+smar921012.surf
+smart-ofert783.sbs
 smart-oferty24.shop
+smart-zakupy24h.shop
 spotify-client-beta.vercel.app
 spotify-clon-by-akshit.netlify.app
 spotify-login-teal.vercel.app
@@ -677,7 +665,6 @@ spotifymode.org
 spotifypremiumapk.pk
 spotifypremiumz.net
 spotifyprimiumapk.com
-sprinklers-orlando.com
 spwww.paypal-updates.antimoney-laundering.org
 sso-auth.com
 sso-site-ledgrr.square.site
@@ -712,7 +699,6 @@ temporary.site
 test.jsqnjzyg.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
 theamazon.vercel.app
 therelayservice.com
-ticket-fedex.com
 trackingnumbers.org
 trezoorr--thego.gitbook.io
 trezor-eo-startd.pages.dev
@@ -729,10 +715,11 @@ tunishopia.tn
 tvkrqejy.netflix-signin-verifying-billing-secure-payment-update.15-204-247-101.cpanel.site
 twitterw-wiki.com
 unicaja-inicio.net
+unsyncid-coinbase.com
 updata.net.cn
-us09zoom.us
-us15zoom.us.com
+us07zoom.us
 uspsaunitedworkforce.com
+uspsofficialdelivery.com
 uspss.pages.dev
 uspssmartparcellocker.tech
 v0-exodus-wallet-app.vercel.app
@@ -763,24 +750,25 @@ webmail.glovonetwork.com
 webmail.login-microsoft-update-billing-online-secure-mainapp.20-14-89-105.cpanel.site
 webpage-edge-start-trezo.pages.dev
 wellsfargobanking.app
+whatsapp-connect-vcm.pages.dev
 whatsapp-dp-images.in
 whatsapp-fast.vercel.app
 whatsapp-gruppo-connect.com
+whatsapp-hk.com
 whatsapp-iamsuyash.vercel.app
+whatsapp-online.me
 whatsapp-verify.blogspot.com
 whatsapp11-cnj.pages.dev
 whatsappapk.org
 whatsappcampaign.online
 whatsappdjin.bond
 whatsappfreewhatsapp.blogspot.com
-whatsapplmao.sbs
 whatsappo-ten.vercel.app
 windows-ledger-live.typedream.app
 wise-transfer.com
 worldtk-whatsapp.com.cn
 wvvw--roblox.com
 ww-facebook.blogspot.com
-www-app-google.com
 www.amazon-signin-update-payment-secure-billing-mainapp.3-129-34-49.cpanel.site
 www.amazon-signin-update-payment-secure-verify-billing-mainapp.167-71-10-235.cpanel.site
 www.amazon-signin-update-payment-secure-verify-billing-mainsec.130-61-243-200.cpanel.site
@@ -794,13 +782,11 @@ www.bill-netflix-dashboard-account.3-129-34-49.cpanel.site
 www.cbndbysw.login.microsoftonline-billing-verification-secured-help.03-129-34-049.cpanel.site
 www.dashboard-netflix-en-us-verification.167-71-10-235.cpanel.site
 www.dashboard-netflix-en-us-verification.8-219-97-148.cpanel.site
-www.gttgvoej.microsoftonline-billing-verification-secured-help.134-209-251-140.cpanel.site
 www.gtxwdxyq.amazon-signin-update-payment-secure-billing-mainapp.40-113-33-46.cpanel.site
 www.login.microsoftonline-billing-verification-secured-help.03-129-34-049.cpanel.site
 www.login.microsoftonline-billing-verification-secured-help.167-71-169-104.cpanel.site
 www.m.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-125-38.cpanel.site
 www.netflix-dashboard-login.03-022-22-000.cpanel.site
-www.netflix-signin-update-payment-secure-verify-billing-mainapp.50-116-6-13.cpanel.site
 www.netflix-signin-update-payment-secured-billing-mainapp.35-179-33-128.cpanel.site
 www.netflix-signin-update-payment-secured-billing-mainsec.40-113-33-46.cpanel.site
 www.netflix-signin-verifying-billing-secure-payment-update.212-227-255-11.cpanel.site
@@ -810,7 +796,6 @@ www.nvdqmmgf.amazon-signin-update-payment-secure-billing-mainapp.3-129-34-49.cpa
 www.stericycle.amazon-signin-update-payment-secure-verify-billing-mainsec.167-71-143-126.cpanel.site
 www.stericycle.dashboard-netflix-en-us-verification.23-099-70-096.cpanel.site
 www.vkpsourd.login.microsoftonline-billing-verification-secured-help.54-037-73-097.cpanel.site
-www.vwraqsci.netflix-signin-update-payment-secured-billing-mainapp.50-116-6-13.cpanel.site
 www.wc-020cba42b24a.www.ouxhbuse.netflix-signin-verifying-billing-secure-payment-update.104-243-38-18.cpanel.site
 www.wthpqpte.login.microsoftonline-billing-verification-secured-help.54-037-73-097.cpanel.site
 www.www.30ee17940a1b0dec.www.netflix.memberaccess-recovery.40-113-33-046.cpanel.site
@@ -824,40 +809,33 @@ www.www.netflix-signin-update-payment-secure-verify-billing-mainapp.51-79-117-11
 www.www.netflix-signin-update-payment-secure-verify-billing-mainapp.52-234-33-034.cpanel.site
 www.www.netflix-signin-update-payment-secured-billing-mainsec.54-037-73-097.cpanel.site
 www.www.netflix.memberaccess-recovery.51-79-117-114.cpanel.site
-www.www.notexistsnotexistsecsbqavu.amazon-signin-update-payment-secure-billing-mainapp.050-116-06-013.cpanel.site
 www.www.uhrmwpzj.netflix-signin-update-payment-secured-billing-mainsec.15-204-247-101.cpanel.site
 www.www.wc-691207f1b1df.ouxhbuse.netflix-signin-verifying-billing-secure-payment-update.104-243-38-18.cpanel.site
 www.www.www.amazon-signin-update-payment-secure-verify-billing-mainsec.54-037-73-097.cpanel.site
 www.www.www.amazon-signin-update-payment-secure-verify-billing-mainsec.8-219-97-148.cpanel.site
 www.www.www.appleid-support-security-verify.51-79-117-114.cpanel.site
-www.www.www.bill-account-netflix-dashboard.050-116-06-013.cpanel.site
 www.www.www.dwiylwkp.amazon-signin-update-payment-secure-verify-billing-mainsec.8-219-97-148.cpanel.site
 www.www.www.fbfjglke.netflix-signin-update-payment-secured-billing-mainapp.40-113-33-046.cpanel.site
 www.www.www.login.microsoftonline-billing-verification-secured-help.8-219-97-148.cpanel.site
 www.www.www.netflix-dashboard-login.51-79-117-114.cpanel.site
 www.www.www.netflix-log-in-dashboard.167-71-10-235.cpanel.site
-www.www.www.netflix-signin-update-payment-secure-verify-billing-mainapp.50-116-6-13.cpanel.site
 www.www.www.netflix-signin-update-payment-secured-billing-mainapp.52-234-07-169.cpanel.site
 www.www.www.netflix-signin-update-payment-secured-billing-mainsec.03-129-34-049.cpanel.site
 www.www.www.netflix-signin-update-payment-secured-billing-mainsec.23-99-70-96.cpanel.site
 www.www.www.netflix-signin-update-payment-secured-billing-mainsec.52-234-07-169.cpanel.site
 www.www.www.netflix.memberaccess-recovery.15-204-247-101.cpanel.site
-www.www.www.notexistslukisxct.netflix-signin-update-payment-secured-billing-mainsec.050-116-06-013.cpanel.site
 www.www.www.www.amazon-signin-update-payment-secure-verify-billing-mainsec.40-113-33-046.cpanel.site
 www.www.www.www.appleid-support-security-verify.52-176-40-210.cpanel.site
 www.www.www.www.appleid-support-security-verify.8-219-97-148.cpanel.site
 www.www.www.www.netflix-dashboard-login.8-219-97-148.cpanel.site
-www.www.www.www.netflix-signin-update-payment-secure-verify-billing-mainapp.50-116-6-13.cpanel.site
 www.www.www.www.netflix-signin-update-payment-secured-billing-mainapp.40-113-33-046.cpanel.site
 www.www.www.www.netflix-signin-update-payment-secured-billing-mainsec.52-234-07-169.cpanel.site
 www.www.www.www.netflix.memberaccess-recovery.23-099-70-096.cpanel.site
-www.www.www.www.notexistslukisxct.netflix-signin-update-payment-secured-billing-mainsec.050-116-06-013.cpanel.site
 www.www.www.www.www.amazon-signin-update-payment-secure-billing-mainapp.52-176-40-210.cpanel.site
 www.www.www.www.www.amazon-signin-update-payment-secure-verify-billing-mainsec.03-129-34-049.cpanel.site
 www.www.www.www.www.amazon-signin-update-payment-secure-verify-billing-mainsec.51-79-117-114.cpanel.site
 www.www.www.www.www.appleid-support-security-verify.8-219-97-148.cpanel.site
 www.www.www.www.www.netflix-dashboard-login.23-099-70-096.cpanel.site
-www.www.www.www.www.netflix-signin-verifying-billing-secure-payment-update.134-209-251-140.cpanel.site
 www.www.www.xxdjqszw.amazon-signin-update-payment-secure-verify-billing-mainsec.52-234-07-169.cpanel.site
 www.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-125-38.cpanel.site
 xfinityecure.weebly.com
@@ -866,7 +844,6 @@ xfinityupdateinfo.weebly.com
 xfinitywebslogin.weebly.com
 xucoxuqh.amazon-signin-update-payment-secure-verify-billing-mainsec.54-037-73-097.cpanel.site
 yahoo888.xyz
-yourwebs.app
 yzz.me
 z-facebook.blogspot.com
 z-instagram.blogspot.com
