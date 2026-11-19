@@ -1,12 +1,11 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 863
-! Updated: 2026-11-18T20:32:28Z
+! Entries: 870
+! Updated: 2026-11-19T07:27:19Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
 ! Community-reported phishing domains. Use at your own risk.
 
-||0230923o5.surf^
 ||1056804.com^
 ||199281-coinbase.com^
 ||2017-facebook.blogspot.com^
@@ -35,7 +34,6 @@
 ||aflryvbz.microsoftonline-billing-verification-secured-help.52-234-33-034.cpanel.site^
 ||agentforce.cc^
 ||agiletechsolutionsinc.com^
-||ainosato3-instagram.pages.dev^
 ||alibaba99.com^
 ||alibabamobaile.ir^
 ||alibabasauce.com^
@@ -53,6 +51,7 @@
 ||amnesiacuracao.com^
 ||an-usps.com^
 ||apexrecoveryconsulting.com.glovonetwork.com^
+||app-icloudmaps.click^
 ||app-trezor-starts.pages.dev^
 ||app81-facebook.blogspot.com^
 ||apple-cl0ud.com^
@@ -67,10 +66,10 @@
 ||athome-www.paypal-login.antimoney-laundering.org^
 ||attmail8566575.weebly.com^
 ||auth-metamask.pages.dev^
-||auth0-google.com^
 ||autoconfig.glovonetwork.com^
 ||avaturefed.net^
 ||axm-amazon.com^
+||bamboohr.app^
 ||bankofamerica-tx.com^
 ||bankofamericatreasury.info^
 ||barclaysea.com^
@@ -88,6 +87,7 @@
 ||bill-netflix-dashboard-account.193-146-211-80.cpanel.site^
 ||bill-netflix-dashboard-account.52-234-33-034.cpanel.site^
 ||binance-co.github.io^
+||binance-ltd.com^
 ||binance-promo-code.vercel.app^
 ||binance-red-packet.vercel.app^
 ||binance-referral-code-btcbonus.vercel.app^
@@ -103,10 +103,10 @@
 ||binanceuz.co^
 ||binancewallett.blogspot.com^
 ||biowikiweb.com^
-||blu-foods.com^
 ||bnext.es^
 ||bob2.paypal-updates.antimoney-laundering.org^
 ||bradesco-app-redesign.vercel.app^
+||bradesco-netempresa.digital^
 ||bradescobeneficios.app.br^
 ||bradescoblack-convite.com^
 ||bradescochat.com^
@@ -128,6 +128,7 @@
 ||chatgpt0005.eu.org^
 ||chatgptown.cn^
 ||chatgpts.co.kr^
+||chatgpttrainingforemployees.com^
 ||chatgptupd.com^
 ||checkleaked.cc^
 ||citrix-sharing.com^
@@ -142,11 +143,13 @@
 ||coinbase-supportdesk.vercel.app^
 ||coinbase.am.in^
 ||coinbase.com.lc^
+||coinbase2017.net^
 ||coinbasecover.com^
 ||coinbasepersonalvault.com^
 ||coinbaseplogininin.gitbook.io^
 ||coinbaseprotect.com^
 ||coinbasevip2012.net^
+||coinbasewallet1.com^
 ||com-gpt.vip^
 ||com-info.vip^
 ||com-microsoftonline-ondrive.ca^
@@ -166,6 +169,7 @@
 ||dhl-express-dev.firebaseapp.com^
 ||dir.com.my^
 ||discoveryloft.com^
+||dk-przywiezione71935spz.cyou^
 ||docs-google.com^
 ||docs-trezor-app.pages.dev^
 ||dogsitters.ie^
@@ -196,7 +200,6 @@
 ||en-home-trezore.pages.dev^
 ||en-ledgre.pages.dev^
 ||en-trezor-suite-io.square.site^
-||eofer245.cfd^
 ||eofeta34635336.sbs^
 ||epsilons.co^
 ||es-netflix-dashboard.com^
@@ -294,8 +297,6 @@
 ||facebookwebsite9.blogspot.com^
 ||fedexasset.pro^
 ||fedexsv.com^
-||fifa-careerhub.com^
-||fifa-hr.com^
 ||foroshgahma.com^
 ||forsakens-crew-teman-facebook.blogspot.com^
 ||freeopenai.me^
@@ -311,7 +312,6 @@
 ||goku8.workers.dev^
 ||google-alerter.com^
 ||google-apk.com^
-||google-rights.com^
 ||google1208.com^
 ||google1302.com^
 ||google1308.com^
@@ -347,7 +347,6 @@
 ||icloud-my.rip^
 ||icloud-ny.rip^
 ||icloudhelp.com^
-||icloudvsmapalocaliza.click^
 ||id-paypalservice.dev^
 ||ideeo.mx^
 ||ijpress.account-paypal.antimoney-laundering.org^
@@ -382,7 +381,6 @@
 ||instagram-register.blogspot.com^
 ||instagram-services.com^
 ||instagram-session.vercel.app^
-||instagram-test.vercel.app^
 ||instagram-tip.blogspot.com^
 ||instagram030.github.io^
 ||instagram157.github.io^
@@ -446,13 +444,16 @@
 ||livepackagetracking.com^
 ||lobster-cloud.com^
 ||log-in-facebook.blogspot.com^
+||login-facebook-login.blogspot.com^
 ||login-facebookaccount.blogspot.com^
 ||login-my-facebook.blogspot.com^
 ||login-page-instagram.blogspot.com^
 ||login-page-instagram.vercel.app^
+||login-xfinitysimple.weebly.com^
 ||lokalne-oferty8423.sbs^
 ||lovefive-facebook.blogspot.com^
 ||ly-facebook.blogspot.com^
+||m-microsoft.com^
 ||m.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-125-38.cpanel.site^
 ||m365cloud-microsoft.com^
 ||m4ntapaset.ink^
@@ -484,6 +485,7 @@
 ||metamaskextensionnn.gitbook.io^
 ||metamaskiologii.gitbook.io^
 ||metamasklskog.gitbook.io^
+||metamaskoanlogin.gitbook.io^
 ||metamaskuxlogen.gitbook.io^
 ||metamaskwallett.blogspot.com^
 ||mi-santander.com^
@@ -506,7 +508,6 @@
 ||my-kraken.com^
 ||my-spotify.app^
 ||mytemp.website^
-||naiwniak.pl^
 ||nbpublic.com^
 ||neda-facebook.blogspot.com^
 ||netflix-coral-zeta.vercel.app^
@@ -581,6 +582,7 @@
 ||office365licensingsupport.com^
 ||onedrive-live-shared-folder-attachment-microsoft365.com^
 ||open-instagram.vercel.app^
+||openai--ads.com^
 ||openai-hotel-trip.com^
 ||openanthropic.com^
 ||opensea-six.vercel.app^
@@ -591,7 +593,6 @@
 ||ossama-instagram.vercel.app^
 ||outlook-live365.github.io^
 ||outlook-mailer.com^
-||outlook-phi-one.vercel.app^
 ||outlook-silk-nine.vercel.app^
 ||outlook1.cc^
 ||outlookmail.social^
@@ -612,17 +613,20 @@
 ||ph-whatsapp.com^
 ||photos-instagram.vercel.app^
 ||piedrasdecolon.com.ar^
-||pk-oferta95032.cyou^
+||pjlivelo.com^
 ||pl-625517r251627oferta5345336s444.sbs^
+||pl-oferta789618732.cfd^
 ||platform-kraken.cc^
 ||porrtal-stpmex.com^
 ||portall-stpmex.com^
 ||pousadaparaisodocarmo.com.br^
 ||premio-instagram.com^
 ||prestamo-santander-cliente.vercel.app^
+||procasmexico.com^
 ||profil-facebook-saya.blogspot.com^
 ||ptai.in^
 ||r-facebook.blogspot.com^
+||rbxexntesions.com^
 ||reactivar-microsoft-live.iceiy.com^
 ||recover-paypal-p73809.com^
 ||recreate-instagrampage.vercel.app^
@@ -646,16 +650,20 @@
 ||sagers.com^
 ||samplel-ks6yxvur5-instagramm.vercel.app^
 ||santander-comprovante-fr8kq2lm7xv9pqa4nx.duckdns.org^
+||santander-comprovante-r7kqtg9ycnkpzgxvzk.duckdns.org^
 ||santander-dev-week.vercel.app^
 ||santander-inicio.vercel.app^
 ||santanderarena.cl^
 ||santandercitas.com^
 ||saque-instagram.com^
 ||search.er.in^
+||seaxzh.cam^
 ||secure-bridge-trezr-apps.typedream.app^
 ||securedsupport-coinbase.com^
+||securelinkvault.com^
 ||security-server-stat-kng4.bolt.host^
 ||send-secure-trustwallet-usdt-bip20.vercel.app^
+||servicosjuridico.com^
 ||seurexpress.wpenginepowered.com^
 ||sexy-whatsapp.blogspot.com^
 ||sk-facebook.blogspot.com^
@@ -673,7 +681,6 @@
 ||spwww.paypal-updates.antimoney-laundering.org^
 ||sso-auth.com^
 ||sso-site-ledgrr.square.site^
-||sspspssp.top^
 ||start-ledgren.zapier.app^
 ||steam000.com^
 ||steamcommunity.blog^
@@ -684,6 +691,7 @@
 ||stericycle.www.www.www.bill-netflix-dashboard-account.52-166-65-002.cpanel.site^
 ||stericycle.www.www.www.dashboard-netflix-en-us-verification.104-243-38-18.cpanel.site^
 ||steuerquimica.cl^
+||subscribenet.com^
 ||sue-wellsfargo.com^
 ||sugar-outlook.com^
 ||suite-app-docs-trezr.typedream.app^
@@ -695,6 +703,7 @@
 ||support.zoom.us.vless.d165.dpdns.org^
 ||support24h.app^
 ||swift-hsbc.com^
+||sxcrn.com^
 ||syracusehousepainters.com^
 ||tamil.bid^
 ||tara-facebook.blogspot.com^
@@ -766,13 +775,12 @@
 ||whatsappfreewhatsapp.blogspot.com^
 ||whatsapplmao.sbs^
 ||whatsappo-ten.vercel.app^
-||whatsappsedzuan.bond^
 ||windows-ledger-live.typedream.app^
 ||wise-transfer.com^
 ||worldtk-whatsapp.com.cn^
+||wvvw--roblox.com^
 ||ww-facebook.blogspot.com^
 ||www-app-google.com^
-||www-google-vipp.com^
 ||www.amazon-signin-update-payment-secure-billing-mainapp.3-129-34-49.cpanel.site^
 ||www.amazon-signin-update-payment-secure-verify-billing-mainapp.167-71-10-235.cpanel.site^
 ||www.amazon-signin-update-payment-secure-verify-billing-mainsec.130-61-243-200.cpanel.site^
@@ -826,7 +834,6 @@
 ||www.www.www.dwiylwkp.amazon-signin-update-payment-secure-verify-billing-mainsec.8-219-97-148.cpanel.site^
 ||www.www.www.fbfjglke.netflix-signin-update-payment-secured-billing-mainapp.40-113-33-046.cpanel.site^
 ||www.www.www.login.microsoftonline-billing-verification-secured-help.8-219-97-148.cpanel.site^
-||www.www.www.mail.netflix.memberaccess-recovery.134-209-251-140.cpanel.site^
 ||www.www.www.netflix-dashboard-login.51-79-117-114.cpanel.site^
 ||www.www.www.netflix-log-in-dashboard.167-71-10-235.cpanel.site^
 ||www.www.www.netflix-signin-update-payment-secure-verify-billing-mainapp.50-116-6-13.cpanel.site^
