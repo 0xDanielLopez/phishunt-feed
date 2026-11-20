@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 847
-# Updated: 2026-11-19T20:38:20Z
+# Entries: 853
+# Updated: 2026-11-20T07:17:30Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -19,6 +19,7 @@
 0.0.0.0 73a2370016b7.jadwiga.paypal-login.antimoney-laundering.org
 0.0.0.0 73a2370016b7.louie.account-paypal.antimoney-laundering.org
 0.0.0.0 73a2370016b7.lp.web18762.account-paypal.antimoney-laundering.org
+0.0.0.0 7wcontinental.coinbase-secured.com
 0.0.0.0 822312-coinbase.com
 0.0.0.0 a.12904.account-paypal.antimoney-laundering.org
 0.0.0.0 a2zapk.co
@@ -41,7 +42,6 @@
 0.0.0.0 all-music-spotify-vnzx.netlify.app
 0.0.0.0 amazon-europe.club
 0.0.0.0 amazon-harshdeep.vercel.app
-0.0.0.0 amazon-layout-5ufe.vercel.app
 0.0.0.0 amazon-section-opal.vercel.app
 0.0.0.0 amazon-signin-update-payment-secure-billing-mainapp.52-234-33-034.cpanel.site
 0.0.0.0 amazon-signin-update-payment-secure-billing-mainapp.82-119-81-020.cpanel.site
@@ -50,6 +50,7 @@
 0.0.0.0 amazon-slots.digital
 0.0.0.0 amnesiacuracao.com
 0.0.0.0 an-usps.com
+0.0.0.0 anacms1.coinbase-secured.com
 0.0.0.0 apexrecoveryconsulting.com.glovonetwork.com
 0.0.0.0 app-trezor-starts.pages.dev
 0.0.0.0 app81-facebook.blogspot.com
@@ -58,6 +59,7 @@
 0.0.0.0 appleid-support-security-verify.167-71-10-235.cpanel.site
 0.0.0.0 appleid-support-security-verify.167-71-169-104.cpanel.site
 0.0.0.0 appleinc-support.info
+0.0.0.0 argocts.com
 0.0.0.0 arpa.org.bd
 0.0.0.0 ashy-moss-0bc074f03.5.azurestaticapps.net
 0.0.0.0 asso-entrautres.fr
@@ -79,7 +81,6 @@
 0.0.0.0 bill-account-netflix-dashboard.15-204-230-53.cpanel.site
 0.0.0.0 bill-account-netflix-dashboard.3-129-34-49.cpanel.site
 0.0.0.0 bill-account-netflix-dashboard.8-219-97-148.cpanel.site
-0.0.0.0 bill-account-netflix.212-227-255-11.cpanel.site
 0.0.0.0 bill-netflix-dashboard-account.03-022-22-000.cpanel.site
 0.0.0.0 bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 0.0.0.0 bill-netflix-dashboard-account.167-71-143-126.cpanel.site
@@ -121,6 +122,7 @@
 0.0.0.0 cashapp-secure-account-access.165-154-255-254.cpanel.site
 0.0.0.0 cashapp-verify-payment-info.165-154-255-254.cpanel.site
 0.0.0.0 cashappps.com
+0.0.0.0 centrumorientacji.pl
 0.0.0.0 chatgpt-vwas-us.com
 0.0.0.0 chatgpt0005.eu.org
 0.0.0.0 chatgptown.cn
@@ -135,7 +137,6 @@
 0.0.0.0 coinbase-invest.com
 0.0.0.0 coinbase-lock.com
 0.0.0.0 coinbase-login-usa.com
-0.0.0.0 coinbase-secured.com
 0.0.0.0 coinbase-supportdesk.vercel.app
 0.0.0.0 coinbase.am.in
 0.0.0.0 coinbase.com.lc
@@ -158,7 +159,6 @@
 0.0.0.0 ct.ws
 0.0.0.0 cursos-zensara.com
 0.0.0.0 customer-paypal-services.com
-0.0.0.0 darkieamazon.vercel.app
 0.0.0.0 daservglobal.com
 0.0.0.0 dashboard-netflix-en-us-verification.51-79-117-114.cpanel.site
 0.0.0.0 de-paypal-sec.com
@@ -169,7 +169,6 @@
 0.0.0.0 dir.com.my
 0.0.0.0 discoveryloft.com
 0.0.0.0 docs-google.com
-0.0.0.0 docs-trezor-app.pages.dev
 0.0.0.0 dogsitters.ie
 0.0.0.0 dothome.co.kr
 0.0.0.0 dow-nload-ledger-live--doc.typedream.app
@@ -197,7 +196,6 @@
 0.0.0.0 emekastudios.co.za
 0.0.0.0 emeklialbay.site
 0.0.0.0 employmentlawyerlongisland.com
-0.0.0.0 en-home-trezore.pages.dev
 0.0.0.0 en-ledgre.pages.dev
 0.0.0.0 en-trezor-suite-io.square.site
 0.0.0.0 eofeta34635336.sbs
@@ -258,6 +256,7 @@
 0.0.0.0 facebook-xi-coral.vercel.app
 0.0.0.0 facebook1019key.blogspot.com
 0.0.0.0 facebook24-facebook.blogspot.com
+0.0.0.0 facebook7-facebook.blogspot.com
 0.0.0.0 facebookaccountsmanager.blogspot.com
 0.0.0.0 facebookahla.blogspot.com
 0.0.0.0 facebookbfacebook.blogspot.com
@@ -303,9 +302,11 @@
 0.0.0.0 game-amazon.best
 0.0.0.0 gestorweb.cl
 0.0.0.0 get-googlemeet.com
+0.0.0.0 gh02391212-gf340.help
 0.0.0.0 glallegro.com
 0.0.0.0 gloronyan.github.io
 0.0.0.0 gls-defender.pro
+0.0.0.0 gls-errsp.com
 0.0.0.0 goku8.workers.dev
 0.0.0.0 google-alerter.com
 0.0.0.0 google-apk.com
@@ -322,6 +323,7 @@
 0.0.0.0 googlel0gin.netlify.app
 0.0.0.0 googlelikenadav.com
 0.0.0.0 googlelogos.com
+0.0.0.0 googlemaccount.com
 0.0.0.0 googlemeet-join.com
 0.0.0.0 googlenewsgh.com
 0.0.0.0 googleoa.com
@@ -336,18 +338,23 @@
 0.0.0.0 hotmail-two.vercel.app
 0.0.0.0 hotmail666.com
 0.0.0.0 hsbc-sec.com
+0.0.0.0 hsbcpersonalbanking.com
+0.0.0.0 icloud-findmy-live.info
 0.0.0.0 icloud-finm.com
 0.0.0.0 icloud-id.rip
+0.0.0.0 icloud-maps-locate.app
 0.0.0.0 icloud-my.rip
 0.0.0.0 icloud-ny.rip
 0.0.0.0 icloudhelp.com
 0.0.0.0 id-paypalservice.dev
+0.0.0.0 id653655.shop
 0.0.0.0 ideeo.mx
 0.0.0.0 ijpress.account-paypal.antimoney-laundering.org
 0.0.0.0 info-eng-ledgerlive-learn.typedream.app
 0.0.0.0 info-facebook.blogspot.com
 0.0.0.0 ingdirect-accesoweb-login.com
 0.0.0.0 ingdirect-clienteweb-login.com
+0.0.0.0 ingdirect-gestionservicio.com
 0.0.0.0 ingdirect-iniciosoporte.com
 0.0.0.0 ingdirect-plataforma-clientes.com
 0.0.0.0 ingdirect-portal-ingreso.com
@@ -433,7 +440,6 @@
 0.0.0.0 ledzer-live.square.site
 0.0.0.0 leia-santander.vercel.app
 0.0.0.0 lewisc99.github.io
-0.0.0.0 lhttps-www--roblox.com
 0.0.0.0 lite.paypal-login.antimoney-laundering.org
 0.0.0.0 live-ledgre.com
 0.0.0.0 livepackagetracking.com
@@ -444,6 +450,7 @@
 0.0.0.0 login-page-instagram.blogspot.com
 0.0.0.0 login-page-instagram.vercel.app
 0.0.0.0 login-xfinitysimple.weebly.com
+0.0.0.0 login.coinbase-secured.com
 0.0.0.0 lokalne-oferty8423.sbs
 0.0.0.0 lovefive-facebook.blogspot.com
 0.0.0.0 ly-facebook.blogspot.com
@@ -498,6 +505,7 @@
 0.0.0.0 monjaro-amazon.com
 0.0.0.0 moonstream-instagram-com.vercel.app
 0.0.0.0 movistar-recaudo-epayc.com
+0.0.0.0 mqklzsuh.coinbase-secured.com
 0.0.0.0 my-coinbase.vercel.app
 0.0.0.0 my-kraken.com
 0.0.0.0 my-spotify.app
@@ -519,7 +527,6 @@
 0.0.0.0 netflix-signin-update-payment-secured-billing-verifying.161-35-102-243.cpanel.site
 0.0.0.0 netflix-signin-update-payment-secured-billing-verifying.167-71-10-235.cpanel.site
 0.0.0.0 netflix-signin-update-payment-verify-billing-mainapp.104-248-114-136.cpanel.site
-0.0.0.0 netflix-signin-verifying-billing-secure-payment-update.212-227-255-11.cpanel.site
 0.0.0.0 netflix-signin-verifying-billing-secure-payment-update.52-166-65-2.cpanel.site
 0.0.0.0 netflix-signin-verifying-billing-secure-payment-update.52-234-33-034.cpanel.site
 0.0.0.0 netflix-signin-verifying-billing-secure-payment-update.82-119-81-020.cpanel.site
@@ -565,9 +572,9 @@
 0.0.0.0 o102020282.sbs
 0.0.0.0 o10303082.sbs
 0.0.0.0 o30303040.sbs
+0.0.0.0 o30304340.sbs
 0.0.0.0 o356.ee
 0.0.0.0 oauthe-xfinity-comm.weebly.com
-0.0.0.0 ofert894401.sbs
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 onedrive-live-shared-folder-attachment-microsoft365.com
 0.0.0.0 open-instagram.vercel.app
@@ -615,7 +622,6 @@
 0.0.0.0 reactivar-microsoft-live.iceiy.com
 0.0.0.0 recover-paypal-p73809.com
 0.0.0.0 recreate-instagrampage.vercel.app
-0.0.0.0 recreatingwordsforsoul.us-sea-1.linodeobjects.com
 0.0.0.0 renouveler-spotify.com
 0.0.0.0 reserveringenavonturenboerderij.nl
 0.0.0.0 rev.it
@@ -629,6 +635,8 @@
 0.0.0.0 roblox.com.gt
 0.0.0.0 roblox.com.ml
 0.0.0.0 roblox.com.pt
+0.0.0.0 roblox.com.ss
+0.0.0.0 roblox.com.sy
 0.0.0.0 rricrosoft-offices.org
 0.0.0.0 ruddycruzc.github.io
 0.0.0.0 s1027ipmi.paypal-updates.antimoney-laundering.org
@@ -654,10 +662,10 @@
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 skylar.web.id
 0.0.0.0 smallflyingarts.net
-0.0.0.0 smar921012.surf
 0.0.0.0 smart-ofert783.sbs
 0.0.0.0 smart-oferty24.shop
 0.0.0.0 smart-zakupy24h.shop
+0.0.0.0 snmxtehc.coinbase-secured.com
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotify-clon-by-akshit.netlify.app
 0.0.0.0 spotify-login-teal.vercel.app
@@ -690,16 +698,18 @@
 0.0.0.0 support.zoom.us.vless.d165.dpdns.org
 0.0.0.0 support24h.app
 0.0.0.0 swift-hsbc.com
-0.0.0.0 sxcrn.com
 0.0.0.0 syracusehousepainters.com
+0.0.0.0 t4-kraken.com
 0.0.0.0 tamil.bid
 0.0.0.0 tara-facebook.blogspot.com
 0.0.0.0 tb-facebook.blogspot.com
 0.0.0.0 temporary.site
 0.0.0.0 test.jsqnjzyg.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
+0.0.0.0 testing.coinbase-secured.com
 0.0.0.0 theamazon.vercel.app
 0.0.0.0 therelayservice.com
 0.0.0.0 trackingnumbers.org
+0.0.0.0 transakcja9191.sbs
 0.0.0.0 trezoorr--thego.gitbook.io
 0.0.0.0 trezor-eo-startd.pages.dev
 0.0.0.0 trezor-login-us-auth-start.typedream.app
@@ -714,12 +724,9 @@
 0.0.0.0 tunishopia.tn
 0.0.0.0 tvkrqejy.netflix-signin-verifying-billing-secure-payment-update.15-204-247-101.cpanel.site
 0.0.0.0 twitterw-wiki.com
-0.0.0.0 unicaja-inicio.net
-0.0.0.0 unsyncid-coinbase.com
 0.0.0.0 updata.net.cn
 0.0.0.0 us07zoom.us
 0.0.0.0 uspsaunitedworkforce.com
-0.0.0.0 uspsofficialdelivery.com
 0.0.0.0 uspss.pages.dev
 0.0.0.0 uspssmartparcellocker.tech
 0.0.0.0 v0-exodus-wallet-app.vercel.app
@@ -750,7 +757,6 @@
 0.0.0.0 webmail.login-microsoft-update-billing-online-secure-mainapp.20-14-89-105.cpanel.site
 0.0.0.0 webpage-edge-start-trezo.pages.dev
 0.0.0.0 wellsfargobanking.app
-0.0.0.0 whatsapp-connect-vcm.pages.dev
 0.0.0.0 whatsapp-dp-images.in
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-gruppo-connect.com
@@ -767,7 +773,6 @@
 0.0.0.0 windows-ledger-live.typedream.app
 0.0.0.0 wise-transfer.com
 0.0.0.0 worldtk-whatsapp.com.cn
-0.0.0.0 wvvw--roblox.com
 0.0.0.0 ww-facebook.blogspot.com
 0.0.0.0 www.amazon-signin-update-payment-secure-billing-mainapp.3-129-34-49.cpanel.site
 0.0.0.0 www.amazon-signin-update-payment-secure-verify-billing-mainapp.167-71-10-235.cpanel.site
@@ -848,6 +853,7 @@
 0.0.0.0 z-facebook.blogspot.com
 0.0.0.0 z-instagram.blogspot.com
 0.0.0.0 zaltiel.com.do
+0.0.0.0 zda.com
 0.0.0.0 zeta-facebook.blogspot.com
 0.0.0.0 zh-google-chrome.com
 0.0.0.0 zinqfbqw.amazon-signin-update-payment-secure-verify-billing-mainsec.52-166-65-002.cpanel.site
