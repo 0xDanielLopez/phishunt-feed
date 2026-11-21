@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 869
-! Updated: 2026-11-21T07:09:26Z
+! Entries: 892
+! Updated: 2026-11-21T19:16:52Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -31,6 +31,7 @@
 ||acounts-google.duckdns.org^
 ||adb-viewersv.com^
 ||admin.bill-netflix-dashboard-account.104-248-114-136.cpanel.site^
+||adobebasicsstore.shop^
 ||adobedocviewer.help^
 ||adobefileviewer.dpdns.org^
 ||adobeinstaller-virid.vercel.app^
@@ -120,6 +121,7 @@
 ||bridge-trezr-io-sso.square.site^
 ||brimembal.com^
 ||buscarmi-icloud.app^
+||bybit-binance.com.cn^
 ||cashapp-account-recovery-verify.165-154-255-254.cpanel.site^
 ||cashapp-account-security-check.165-154-255-254.cpanel.site^
 ||cashapp-liart.vercel.app^
@@ -147,7 +149,6 @@
 ||coinbase.com.lc^
 ||coinbase2017.net^
 ||coinbasecover.com^
-||coinbasepersonalvault.com^
 ||coinbaseplogininin.gitbook.io^
 ||coinbaseprotect.com^
 ||coinbasevip2012.net^
@@ -155,6 +156,7 @@
 ||com-info.vip^
 ||com-microsoftonline-ondrive.ca^
 ||com-ok.vip^
+||comwtsfiopg.coinbase-secured.com^
 ||comwww.coinbase-secured.com^
 ||correosicri.cc^
 ||correosncr.cc^
@@ -162,7 +164,6 @@
 ||cpanel.login-microsoft-update-billing-online-secure-mainapp.20-14-89-105.cpanel.site^
 ||creyt.cl^
 ||ct.ws^
-||customer-paypal-services.com^
 ||daservglobal.com^
 ||dashboard-netflix-en-us-verification.51-79-117-114.cpanel.site^
 ||dbbdw.shop^
@@ -251,9 +252,9 @@
 ||facebook-profile-login.blogspot.com^
 ||facebook-pt.blogspot.com^
 ||facebook-rus.blogspot.com^
-||facebook-seks-40.blogspot.com^
 ||facebook-services-login.blogspot.com^
 ||facebook-source.blogspot.com^
+||facebook-space.blogspot.com^
 ||facebook-system.blogspot.com^
 ||facebook-theta.vercel.app^
 ||facebook-trk.blogspot.com^
@@ -273,6 +274,7 @@
 ||facebookcustomersupportnumber25.blogspot.com^
 ||facebookfakelogin.blogspot.com^
 ||facebookhints.blogspot.com^
+||facebookinsight-jp.com^
 ||facebookk.blogspot.com^
 ||facebooklivepage.blogspot.com^
 ||facebooklogin-page.blogspot.com^
@@ -287,7 +289,9 @@
 ||facebookloginapp.blogspot.com^
 ||facebooklogincc.blogspot.com^
 ||facebookloginf.blogspot.com^
+||facebookloginguidance.blogspot.com^
 ||facebookloginid.blogspot.com^
+||facebooklogininfo.blogspot.com^
 ||facebookloginpage2.blogspot.com^
 ||facebookloginpage2025.blogspot.com^
 ||facebookloginreview.blogspot.com^
@@ -315,12 +319,13 @@
 ||get-googlemeet.com^
 ||glallegro.com^
 ||gloronyan.github.io^
-||gls-defender.pro^
-||gls-errsp.com^
-||gls-groaup.cyou^
 ||goku8.workers.dev^
 ||google-alerter.com^
+||google-amazon-tesla.com^
+||google-amazon-ultraman.cc^
 ||google-apk.com^
+||google-k12-alert.com^
+||google-live-maps-view.com^
 ||google1208.com^
 ||google1308.com^
 ||google56.cn^
@@ -339,6 +344,7 @@
 ||googleplaiby.com^
 ||googleplaydown.com^
 ||googleplsky.com^
+||googlerelayinbox.blogspot.com^
 ||googlesupportt.netlify.app^
 ||gruposuplidores.com^
 ||hameem.net^
@@ -358,7 +364,6 @@
 ||id-paypalservice.dev^
 ||ideeo.mx^
 ||ijpress.account-paypal.antimoney-laundering.org^
-||imartykul2345232.sbs^
 ||info-eng-ledgerlive-learn.typedream.app^
 ||info-facebook.blogspot.com^
 ||ingdirect-accesoweb-login.com^
@@ -370,6 +375,7 @@
 ||ingdirect-servicios-clientes.com^
 ||ingdirect-usuario-login.com^
 ||iniciamazon.com.br^
+||innpozycja543412.sbs^
 ||instagram-2-blond.vercel.app^
 ||instagram-baittouts-login.blogspot.com^
 ||instagram-cam.vercel.app^
@@ -413,6 +419,7 @@
 ||instagramlogin99.blogspot.com^
 ||instagramloginpage111.blogspot.com^
 ||instagramloginpassword.blogspot.com^
+||instagrammalo.blogspot.com^
 ||instagramsnp.blogspot.com^
 ||instagramsupportverify.blogspot.com^
 ||instagramusicabrasilinstagram.blogspot.com^
@@ -426,11 +433,11 @@
 ||josebernardinogonza-pixel.github.io^
 ||jsqnjzyg.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site^
 ||klarnaplayes.shop^
+||kraken-binance.cn^
 ||kraken-exchange.help^
 ||kraken-tor.co.com^
 ||kuc0inlgin5.gitbook.io^
 ||kucoin-referral-code-pt.vercel.app^
-||kucoin.finance^
 ||kucoin108.com^
 ||kucoinapp.pages.dev^
 ||kucoinblock.com^
@@ -447,6 +454,7 @@
 ||ld-icloud.info^
 ||ledger-live-download-sso-conect.typedream.app^
 ||ledger-live-login-web.square.site^
+||ledgerlive-app-web.pages.dev^
 ||ledgrr-strt-auth-io.square.site^
 ||ledzer-live.square.site^
 ||leia-santander.vercel.app^
@@ -457,6 +465,7 @@
 ||livepackagetracking.com^
 ||lobster-cloud.com^
 ||log-in-facebook.blogspot.com^
+||login-coinbase.net^
 ||login-facebookaccount.blogspot.com^
 ||login-my-facebook.blogspot.com^
 ||login-page-instagram.blogspot.com^
@@ -485,6 +494,7 @@
 ||meet-googlee46347975696.pages.dev^
 ||meet-googlee7563454656.pages.dev^
 ||meet-googlee7823629056.pages.dev^
+||meme-facebook.blogspot.com^
 ||meraksoul.com^
 ||metamask-ai-agent.vercel.app^
 ||metamask-connect.vercel.app^
@@ -530,6 +540,7 @@
 ||netflix-dashboard-login.8-219-97-148.cpanel.site^
 ||netflix-homepage-pi.vercel.app^
 ||netflix-log-in-dashboard.167-71-143-126.cpanel.site^
+||netflix-login.blogspot.com^
 ||netflix-signin-update-billing-secured-mainapp-payment-decline.104-248-114-136.cpanel.site^
 ||netflix-signin-update-billing-secured-mainapp-payment-decline.161-35-102-243.cpanel.site^
 ||netflix-signin-update-payment-secure-verify-billing-mainapp.52-234-33-034.cpanel.site^
@@ -560,6 +571,7 @@
 ||netflixfeitoaqui.com.br^
 ||netflixmedia.com^
 ||netflixquebec.blogspot.com^
+||netflixuae.com^
 ||netflixvoid.org^
 ||netflixy-bixy.vercel.app^
 ||netflixzap.com^
@@ -584,12 +596,14 @@
 ||notexistswww.www.www.lqthujai.netflix-signin-verifying-billing-secure-payment-update.40-113-33-046.cpanel.site^
 ||notexistswww.www.www.netflix-signin-update-payment-secured-billing-mainsec.52-176-40-210.cpanel.site^
 ||notexistswww.www.www.www.www.www.account-netflix-payment.52-166-65-2.cpanel.site^
+||nuvasafe.com^
 ||nw-facebook.blogspot.com^
 ||o30303040.sbs^
 ||o30304340.sbs^
 ||o356.ee^
 ||oauthe-xfinity-comm.weebly.com^
-||oferta029342049223.cfd^
+||oferta-4827.sbs^
+||oferta-nr32873292.sbs^
 ||office365-authenticator.com^
 ||office365licensingsupport.com^
 ||onedrive-live-shared-folder-attachment-microsoft365.com^
@@ -615,16 +629,19 @@
 ||page-kucoin-en-us.typedream.app^
 ||pagina-inicial-instagram-anesoledar.vercel.app^
 ||pagina-inicial-instagram.vercel.app^
+||paxgold-binance.com.cn^
 ||paykmc.com^
 ||paypal-com-aspi-dll.us^
 ||paypal-password.blogspot.com^
 ||paypal-verify.vercel.app^
+||paypalacc.shop^
 ||paypalcorp.blogspot.com^
+||paypall.shop^
 ||perfectgiftchoice.life^
 ||ph-whatsapp.com^
 ||photos-instagram.vercel.app^
 ||phpmyadmin.coinbase-secured.com^
-||pl-oferta-prywatna92383.cfd^
+||pi-oferta2378967856.sbs^
 ||platform-kraken.cc^
 ||porrtal-stpmex.com^
 ||portall-stpmex.com^
@@ -633,8 +650,6 @@
 ||prestamo-santander-cliente.vercel.app^
 ||procasmexico.com^
 ||profil-facebook-saya.blogspot.com^
-||ps-transport603.top^
-||ptai.in^
 ||r-facebook.blogspot.com^
 ||rcm-portal.at^
 ||reactivar-microsoft-live.iceiy.com^
@@ -669,6 +684,7 @@
 ||saque-instagram.com^
 ||search.er.in^
 ||seaxzh.cam^
+||secret-trezor-io.pages.dev^
 ||secure-bridge-trezr-apps.typedream.app^
 ||securedsupport-coinbase.com^
 ||securelinkvault.com^
@@ -734,6 +750,7 @@
 ||trezorguide.vercel.app^
 ||trezorsuite-app.gitbook.io^
 ||trezrhiwanlt.gitbook.io^
+||tron-binance.cn^
 ||truegamefishing.com^
 ||trust-wallet-omega.vercel.app^
 ||trustwallet-helpcenter.vercel.app^
@@ -741,8 +758,12 @@
 ||trustwalletindia-beta.vercel.app^
 ||tunishopia.tn^
 ||tvkrqejy.netflix-signin-verifying-billing-secure-payment-update.15-204-247-101.cpanel.site^
+||twitterbikeusahq.shop^
 ||twitterw-wiki.com^
+||uniswap-binance.cn^
 ||updata.net.cn^
+||user.coinbase-secured.com^
+||uso4zoom.us^
 ||uspsaunitedworkforce.com^
 ||uspss.pages.dev^
 ||uspssmartparcellocker.tech^
@@ -760,6 +781,8 @@
 ||vodafone-on-line.it^
 ||vpnuse.eu.org^
 ||vvxhfgtt.amazon-signin-update-payment-secure-verify-billing-mainsec.167-71-10-235.cpanel.site^
+||w1-whatsapp.com.cn^
+||wallet-veriffy.com^
 ||wasmer.app^
 ||wc-020cba42b24a.ouxhbuse.netflix-signin-verifying-billing-secure-payment-update.104-243-38-18.cpanel.site^
 ||wc-13d0baf9cf59.ouxhbuse.netflix-signin-verifying-billing-secure-payment-update.104-243-38-18.cpanel.site^
@@ -777,9 +800,9 @@
 ||whatsapp-dp-images.in^
 ||whatsapp-fast.vercel.app^
 ||whatsapp-gruppo-connect.com^
-||whatsapp-hk.com^
 ||whatsapp-iamsuyash.vercel.app^
 ||whatsapp-online.me^
+||whatsapp-sex-7hf.pages.dev^
 ||whatsapp-verify.blogspot.com^
 ||whatsapp11-cnj.pages.dev^
 ||whatsappapk.org^
