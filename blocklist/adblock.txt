@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 851
-! Updated: 2026-11-20T20:22:24Z
+! Entries: 869
+! Updated: 2026-11-21T07:09:26Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -8,7 +8,6 @@
 
 ||01097978.sbs^
 ||1056804.com^
-||1515155.shop^
 ||199281-coinbase.com^
 ||2017-facebook.blogspot.com^
 ||21839-coinbase.com^
@@ -17,7 +16,6 @@
 ||3177550-coinbase.com^
 ||6710014.cc^
 ||73a2370016b7.a.12904.account-paypal.antimoney-laundering.org^
-||73a2370016b7.ab.paypal-support.antimoney-laundering.org^
 ||73a2370016b7.d.i37.paypal-updates.antimoney-laundering.org^
 ||73a2370016b7.jadwiga.paypal-login.antimoney-laundering.org^
 ||73a2370016b7.louie.account-paypal.antimoney-laundering.org^
@@ -68,8 +66,8 @@
 ||ashy-moss-0bc074f03.5.azurestaticapps.net^
 ||asso-entrautres.fr^
 ||athome-www.paypal-login.antimoney-laundering.org^
+||att-mail-com-110087.square.site^
 ||attmail8566575.weebly.com^
-||aurionintl.online^
 ||auth-metamask.pages.dev^
 ||autoconfig.glovonetwork.com^
 ||avaturefed.net^
@@ -153,21 +151,21 @@
 ||coinbaseplogininin.gitbook.io^
 ||coinbaseprotect.com^
 ||coinbasevip2012.net^
-||coinbasewallet1.com^
 ||com-gpt.vip^
 ||com-info.vip^
 ||com-microsoftonline-ondrive.ca^
 ||com-ok.vip^
+||comwww.coinbase-secured.com^
 ||correosicri.cc^
 ||correosncr.cc^
 ||cpanel.glovonetwork.com^
 ||cpanel.login-microsoft-update-billing-online-secure-mainapp.20-14-89-105.cpanel.site^
 ||creyt.cl^
 ||ct.ws^
-||cursos-zensara.com^
 ||customer-paypal-services.com^
 ||daservglobal.com^
 ||dashboard-netflix-en-us-verification.51-79-117-114.cpanel.site^
+||dbbdw.shop^
 ||de-paypal-sec.com^
 ||desireblueuniforms.com^
 ||dhl-express-dev.firebaseapp.com^
@@ -228,14 +226,18 @@
 ||facebook-do.blogspot.com^
 ||facebook-esp.blogspot.com^
 ||facebook-eu.blogspot.com^
+||facebook-facebook1.blogspot.com^
 ||facebook-fansdanssapage.blogspot.com^
+||facebook-fb-com.blogspot.com^
 ||facebook-five-gamma.vercel.app^
 ||facebook-germany.blogspot.com^
 ||facebook-groups-new.blogspot.com^
 ||facebook-hack-accounts.blogspot.com^
+||facebook-hr.blogspot.com^
 ||facebook-links.blogspot.com^
 ||facebook-login-be.blogspot.com^
 ||facebook-login-it.blogspot.com^
+||facebook-login-login.blogspot.com^
 ||facebook-login-page-kappa.vercel.app^
 ||facebook-login-page.blogspot.com^
 ||facebook-login-pages.blogspot.com^
@@ -251,6 +253,7 @@
 ||facebook-rus.blogspot.com^
 ||facebook-seks-40.blogspot.com^
 ||facebook-services-login.blogspot.com^
+||facebook-source.blogspot.com^
 ||facebook-system.blogspot.com^
 ||facebook-theta.vercel.app^
 ||facebook-trk.blogspot.com^
@@ -290,12 +293,14 @@
 ||facebookloginreview.blogspot.com^
 ||facebookloginsignub.blogspot.com^
 ||facebookloginuser.blogspot.com^
+||facebookmail-facebook.blogspot.com^
 ||facebookpagemanagement.com^
 ||facebookpageslinkk.blogspot.com^
 ||facebooksecurityhelp.blogspot.com^
 ||facebookshops.best^
 ||facebooksociallink.blogspot.com^
 ||facebooktechnicalsupportnumber123.blogspot.com^
+||facebookverifyyouraccount.blogspot.com^
 ||facebookwebsite9.blogspot.com^
 ||fedexasset.pro^
 ||fedexsv.com^
@@ -303,6 +308,7 @@
 ||forsakens-crew-teman-facebook.blogspot.com^
 ||fotos-icloud.info^
 ||freeopenai.me^
+||fwd.coinbase-secured.com^
 ||fwh.is^
 ||game-amazon.best^
 ||gestorweb.cl^
@@ -319,7 +325,6 @@
 ||google1308.com^
 ||google56.cn^
 ||googleapps.lk^
-||googlechena.top^
 ||googlecontacts.email^
 ||googleepkay.com^
 ||googleeptay.com^
@@ -333,6 +338,7 @@
 ||googleoa.com^
 ||googleplaiby.com^
 ||googleplaydown.com^
+||googleplsky.com^
 ||googlesupportt.netlify.app^
 ||gruposuplidores.com^
 ||hameem.net^
@@ -352,6 +358,7 @@
 ||id-paypalservice.dev^
 ||ideeo.mx^
 ||ijpress.account-paypal.antimoney-laundering.org^
+||imartykul2345232.sbs^
 ||info-eng-ledgerlive-learn.typedream.app^
 ||info-facebook.blogspot.com^
 ||ingdirect-accesoweb-login.com^
@@ -419,6 +426,7 @@
 ||josebernardinogonza-pixel.github.io^
 ||jsqnjzyg.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site^
 ||klarnaplayes.shop^
+||kraken-exchange.help^
 ||kraken-tor.co.com^
 ||kuc0inlgin5.gitbook.io^
 ||kucoin-referral-code-pt.vercel.app^
@@ -442,7 +450,7 @@
 ||ledgrr-strt-auth-io.square.site^
 ||ledzer-live.square.site^
 ||leia-santander.vercel.app^
-||letnie-okazje92035188.click^
+||letnie-okazj342353581.shop^
 ||lewisc99.github.io^
 ||lite.paypal-login.antimoney-laundering.org^
 ||live-ledgre.com^
@@ -556,6 +564,7 @@
 ||netflixy-bixy.vercel.app^
 ||netflixzap.com^
 ||network-facebook.blogspot.com^
+||node.coinbase-secured.com^
 ||noreply-icloud.app^
 ||notexistslqthujai.netflix-signin-verifying-billing-secure-payment-update.40-113-33-046.cpanel.site^
 ||notexistsnotexistsbill-account-netflix.40-113-33-46.cpanel.site^
@@ -575,13 +584,16 @@
 ||notexistswww.www.www.lqthujai.netflix-signin-verifying-billing-secure-payment-update.40-113-33-046.cpanel.site^
 ||notexistswww.www.www.netflix-signin-update-payment-secured-billing-mainsec.52-176-40-210.cpanel.site^
 ||notexistswww.www.www.www.www.www.account-netflix-payment.52-166-65-2.cpanel.site^
+||nw-facebook.blogspot.com^
 ||o30303040.sbs^
 ||o30304340.sbs^
 ||o356.ee^
 ||oauthe-xfinity-comm.weebly.com^
-||oferta8271652644321.cfd^
+||oferta029342049223.cfd^
+||office365-authenticator.com^
 ||office365licensingsupport.com^
 ||onedrive-live-shared-folder-attachment-microsoft365.com^
+||onedrive.business^
 ||open-instagram.vercel.app^
 ||openai--ads.com^
 ||openanthropic.com^
@@ -611,6 +623,8 @@
 ||perfectgiftchoice.life^
 ||ph-whatsapp.com^
 ||photos-instagram.vercel.app^
+||phpmyadmin.coinbase-secured.com^
+||pl-oferta-prywatna92383.cfd^
 ||platform-kraken.cc^
 ||porrtal-stpmex.com^
 ||portall-stpmex.com^
@@ -619,6 +633,7 @@
 ||prestamo-santander-cliente.vercel.app^
 ||procasmexico.com^
 ||profil-facebook-saya.blogspot.com^
+||ps-transport603.top^
 ||ptai.in^
 ||r-facebook.blogspot.com^
 ||rcm-portal.at^
@@ -635,8 +650,8 @@
 ||roblox.com.ee^
 ||roblox.com.et^
 ||roblox.com.gt^
+||roblox.com.kz^
 ||roblox.com.ml^
-||roblox.com.pt^
 ||roblox.com.ss^
 ||roblox.com.sy^
 ||rricrosoft-offices.org^
@@ -657,6 +672,7 @@
 ||secure-bridge-trezr-apps.typedream.app^
 ||securedsupport-coinbase.com^
 ||securelinkvault.com^
+||security-eng.coinbase-secured.com^
 ||security-server-stat-kng4.bolt.host^
 ||send-secure-trustwallet-usdt-bip20.vercel.app^
 ||seurexpress.wpenginepowered.com^
@@ -672,6 +688,7 @@
 ||spotify-login-teal.vercel.app^
 ||spotifymode.org^
 ||spotifypremiumapk.pk^
+||spotifypremiummodapk.com.co^
 ||spotifypremiumz.net^
 ||spotifyprimiumapk.com^
 ||spwww.paypal-updates.antimoney-laundering.org^
@@ -729,12 +746,12 @@
 ||uspsaunitedworkforce.com^
 ||uspss.pages.dev^
 ||uspssmartparcellocker.tech^
+||uspsstampcollectors.com^
 ||v0-exodus-wallet-app.vercel.app^
 ||v0-trezor-suite-website.vercel.app^
 ||venditoriamazon.com^
 ||verify-google-app.netlify.app^
 ||verifyaccount-google.com^
-||verifyapp.org^
 ||verifytoken.com^
 ||viewclass.com^
 ||viewpackagetracking.com^
@@ -769,6 +786,7 @@
 ||whatsappcampaign.online^
 ||whatsappfreewhatsapp.blogspot.com^
 ||whatsappo-ten.vercel.app^
+||whatsappzoeiras.blogspot.com^
 ||windows-ledger-live.typedream.app^
 ||winnersvoyagetours.com^
 ||wise-transfer.com^
