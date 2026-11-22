@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 908
-# Updated: 2026-11-22T06:49:01Z
+# Entries: 895
+# Updated: 2026-11-22T19:30:49Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -20,9 +20,7 @@
 73a2370016b7.louie.account-paypal.antimoney-laundering.org
 73a2370016b7.lp.web18762.account-paypal.antimoney-laundering.org
 78439.sbs
-7wcontinental.coinbase-secured.com
 822312-coinbase.com
-8973823-coinbase.com
 a.12904.account-paypal.antimoney-laundering.org
 a2zapk.co
 a2zapk.dev
@@ -30,7 +28,6 @@ acct-goog1e.com
 achiit.github.io
 acounts-google.duckdns.org
 adb-viewersv.com
-admin.bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 adobebasicsstore.shop
 adobefileviewer.dpdns.org
 adobeinstaller-virid.vercel.app
@@ -48,7 +45,6 @@ amazon-harshdeep.vercel.app
 amazon-section-opal.vercel.app
 amazon-signin-update-payment-secure-billing-mainapp.52-234-33-034.cpanel.site
 amazon-signin-update-payment-secure-billing-mainapp.82-119-81-020.cpanel.site
-amazon-signin-update-payment-secure-verify-billing-mainapp.161-35-102-243.cpanel.site
 amazon-signin-update-payment-secure-verify-billing-mainsec.52-234-33-034.cpanel.site
 amazon-slots.digital
 amnesiacuracao.com
@@ -62,6 +58,7 @@ appleid-icloudmac.com
 appleid-support-security-verify.167-71-10-235.cpanel.site
 appleid-support-security-verify.167-71-169-104.cpanel.site
 appleinc-support.info
+arfatech.in
 argocts.com
 arpa.org.bd
 ashy-moss-0bc074f03.5.azurestaticapps.net
@@ -78,6 +75,7 @@ bankofamerica-tx.com
 bankofamericatreasury.info
 barclaysea.com
 barclaysiportalfraudcentre.com
+bbvaexperiences.com
 bbvalues.uk
 beloaki.buzz
 berbagi-facebook.blogspot.com
@@ -87,7 +85,6 @@ bill-account-netflix-dashboard.15-204-230-53.cpanel.site
 bill-account-netflix-dashboard.3-129-34-49.cpanel.site
 bill-account-netflix-dashboard.8-219-97-148.cpanel.site
 bill-netflix-dashboard-account.03-022-22-000.cpanel.site
-bill-netflix-dashboard-account.104-248-114-136.cpanel.site
 bill-netflix-dashboard-account.167-71-143-126.cpanel.site
 bill-netflix-dashboard-account.193-146-211-80.cpanel.site
 bill-netflix-dashboard-account.52-234-33-034.cpanel.site
@@ -127,7 +124,6 @@ cashapp-account-recovery-verify.165-154-255-254.cpanel.site
 cashapp-account-security-check.165-154-255-254.cpanel.site
 cashapp-liart.vercel.app
 cashapp-secure-account-access.165-154-255-254.cpanel.site
-cashapp-verify-payment-info.165-154-255-254.cpanel.site
 cashappps.com
 centrumorientacji.pl
 chatgpt-vwas-us.com
@@ -150,6 +146,7 @@ coinbase-supportdesk.vercel.app
 coinbase.am.in
 coinbase.com.lc
 coinbase2017.net
+coinbasecd.com
 coinbasechat.vercel.app
 coinbasecover.com
 coinbaseplogininin.gitbook.io
@@ -161,7 +158,6 @@ com-info.vip
 com-microsoftonline-ondrive.ca
 com-ok.vip
 comwtsfiopg.coinbase-secured.com
-comwww.coinbase-secured.com
 correosicri.cc
 correosncr.cc
 cpanel.glovonetwork.com
@@ -280,7 +276,6 @@ facebookctf.vercel.app
 facebookcustomersupportnumber25.blogspot.com
 facebookfakelogin.blogspot.com
 facebookhints.blogspot.com
-facebookinsight-jp.com
 facebookk.blogspot.com
 facebooklivepage.blogspot.com
 facebooklogin-page.blogspot.com
@@ -313,8 +308,8 @@ facebooksociallink.blogspot.com
 facebooktechnicalsupportnumber123.blogspot.com
 facebookverifyyouraccount.blogspot.com
 facebookwebsite9.blogspot.com
-fedexasset.pro
 fedexsv.com
+fifa-careerportal.com
 foroshgahma.com
 forsakens-crew-teman-facebook.blogspot.com
 fotos-icloud.info
@@ -324,6 +319,7 @@ fwh.is
 game-amazon.best
 gestorweb.cl
 get-googlemeet.com
+ggzh-google.com.cn
 glallegro.com
 gloronyan.github.io
 goku8.workers.dev
@@ -353,14 +349,15 @@ googleplsky.com
 googlerelayinbox.blogspot.com
 googlesupportt.netlify.app
 gruposuplidores.com
-hameem.net
 hashnode.dev
 help-docs-metamask.gitbook.io
+home-facebook.blogspot.com
 hotmail-two.vercel.app
 hotmail666.com
 hsbc-sec.com
 hsbcnetcustomerchat.com
 hsbcpersonalbanking.com
+hsbcprivatebanksupport.com
 icloud-findmy-live.info
 icloud-finm.com
 icloud-id.rip
@@ -427,6 +424,7 @@ instagramlogin99.blogspot.com
 instagramloginpage111.blogspot.com
 instagramloginpassword.blogspot.com
 instagrammalo.blogspot.com
+instagramrecovery.blogspot.com
 instagramsnp.blogspot.com
 instagramsupportverify.blogspot.com
 instagramusicabrasilinstagram.blogspot.com
@@ -439,6 +437,7 @@ itau-snowy.vercel.app
 itcserv.net
 jayaram0550.github.io
 josebernardinogonza-pixel.github.io
+jp-coinbase.com
 jsqnjzyg.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
 klarnaplayes.shop
 kraken-binance.cn
@@ -496,7 +495,6 @@ mail.cashapp-verify-payment-info.165-154-255-254.cpanel.site
 mail.glovonetwork.com
 mail.manage-cashapp-accountinformation.165-154-255-254.cpanel.site
 manage-cashapp-accountinformation.165-154-255-254.cpanel.site
-map-supports.com
 marcosmarroquin23.github.io
 matheusmartino97.github.io
 mb-facebook.blogspot.com
@@ -507,6 +505,7 @@ meme-facebook.blogspot.com
 meraksoul.com
 metamask-ai-agent.vercel.app
 metamask-connect.vercel.app
+metamask-docs-git-dependabot-npmandya-5f7441-consensys-ddffed67.vercel.app
 metamask-launchpad.vercel.app
 metamask-login.vercel.app
 metamask-six.vercel.app
@@ -551,17 +550,13 @@ netflix-dashboard-login.8-219-97-148.cpanel.site
 netflix-homepage-pi.vercel.app
 netflix-log-in-dashboard.167-71-143-126.cpanel.site
 netflix-login.blogspot.com
-netflix-signin-update-billing-secured-mainapp-payment-decline.104-248-114-136.cpanel.site
-netflix-signin-update-billing-secured-mainapp-payment-decline.161-35-102-243.cpanel.site
 netflix-signin-update-payment-secure-verify-billing-mainapp.52-234-33-034.cpanel.site
 netflix-signin-update-payment-secured-billing-mainapp.52-234-33-034.cpanel.site
 netflix-signin-update-payment-secured-billing-mainapp.8-219-97-148.cpanel.site
 netflix-signin-update-payment-secured-billing-mainsec.51-79-117-114.cpanel.site
-netflix-signin-update-payment-secured-billing-verify-account.104-248-114-136.cpanel.site
 netflix-signin-update-payment-secured-billing-verify-account.167-71-10-235.cpanel.site
 netflix-signin-update-payment-secured-billing-verifying.161-35-102-243.cpanel.site
 netflix-signin-update-payment-secured-billing-verifying.167-71-10-235.cpanel.site
-netflix-signin-update-payment-verify-billing-mainapp.104-248-114-136.cpanel.site
 netflix-signin-verifying-billing-secure-payment-update.52-166-65-2.cpanel.site
 netflix-signin-verifying-billing-secure-payment-update.52-234-33-034.cpanel.site
 netflix-signin-verifying-billing-secure-payment-update.82-119-81-020.cpanel.site
@@ -606,17 +601,17 @@ notexistswww.www.www.lqthujai.netflix-signin-verifying-billing-secure-payment-up
 notexistswww.www.www.netflix-signin-update-payment-secured-billing-mainsec.52-176-40-210.cpanel.site
 notexistswww.www.www.www.www.www.account-netflix-payment.52-166-65-2.cpanel.site
 ns1.az
-nuvasafe.com
 nw-facebook.blogspot.com
 o30303040.sbs
 o30304340.sbs
 o356.ee
 oauthe-xfinity-comm.weebly.com
-ochronakupujacych.sbs
+ofe.lol
 oferta-nr32873292.sbs
 oferta948583902432.cfd
 office365-authenticator.com
 office365licensingsupport.com
+ogoszenie-8690384.sbs
 onedrive-live-shared-folder-attachment-microsoft365.com
 onedrive.business
 open-instagram.vercel.app
@@ -630,6 +625,7 @@ openseavxr.vercel.app
 ossama-instagram.vercel.app
 outlook-live365.github.io
 outlook-mailer.com
+outlook-notifications.com
 outlook-silk-nine.vercel.app
 outlook1.cc
 outlookmail.social
@@ -648,21 +644,14 @@ paypal-verify.vercel.app
 paypalacc.shop
 paypalcorp.blogspot.com
 paypall.shop
-payu-platnosc-kup.sbs
 perfectgiftchoice.life
 ph-whatsapp.com
 photos-instagram.vercel.app
 phpmyadmin.coinbase-secured.com
-pi-751757261.lat
-pl-555272h56238oferta44131415142333.sbs
 pl-domenatestowa8462288.top
-pl-h11ps74915742.shop
-pl-httpsdigital738296.sbs
-pl-oqloszenie9184192159126235125.sbs
 platform-kraken.cc
 porrtal-stpmex.com
 portall-stpmex.com
-postoffers.cfd
 postoffers.top
 pousadaparaisodocarmo.com.br
 premio-instagram.com
@@ -699,11 +688,9 @@ santandercitas.com
 saque-instagram.com
 search.er.in
 seaxzh.cam
-secret-trezor-io.pages.dev
 secure-bridge-trezr-apps.typedream.app
 securedsupport-coinbase.com
 securelinkvault.com
-security-eng.coinbase-secured.com
 security-server-stat-kng4.bolt.host
 send-secure-trustwallet-usdt-bip20.vercel.app
 seurexpress.wpenginepowered.com
@@ -712,8 +699,8 @@ sk-facebook.blogspot.com
 skylar.web.id
 smallflyingarts.net
 smart-ofert783.sbs
-smart-zakupy24h.shop
 snmxtehc.coinbase-secured.com
+spire-binance.com.cn
 spotify-client-beta.vercel.app
 spotify-clon-by-akshit.netlify.app
 spotify-login-teal.vercel.app
@@ -754,7 +741,6 @@ tara-facebook.blogspot.com
 tb-facebook.blogspot.com
 temporary.site
 test.jsqnjzyg.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
-testing.coinbase-secured.com
 theamazon.vercel.app
 therelayservice.com
 trackingnumbers.org
@@ -773,7 +759,6 @@ trustwallet-tokentwtowner.vercel.app
 trustwalletindia-beta.vercel.app
 tunishopia.tn
 tvkrqejy.netflix-signin-verifying-billing-secure-payment-update.15-204-247-101.cpanel.site
-twitterbikeusahq.shop
 twitterw-wiki.com
 uniswap-binance.cn
 updata.net.cn
@@ -792,6 +777,7 @@ verifyaccount-google.com
 verifytoken.com
 viewclass.com
 viewpackagetracking.com
+vodafone-admin-app.netlify.app
 vodafone-business-berlin.de
 vodafone-business-berlin.store
 vodafone-on-line.it
@@ -799,6 +785,7 @@ vpnuse.eu.org
 vvxhfgtt.amazon-signin-update-payment-secure-verify-billing-mainsec.167-71-10-235.cpanel.site
 w1-whatsapp.com.cn
 wallet-veriffy.com
+waniakanwal13.github.io
 wasmer.app
 wc-020cba42b24a.ouxhbuse.netflix-signin-verifying-billing-secure-payment-update.104-243-38-18.cpanel.site
 wc-13d0baf9cf59.ouxhbuse.netflix-signin-verifying-billing-secure-payment-update.104-243-38-18.cpanel.site
@@ -815,8 +802,8 @@ webpage-edge-start-trezo.pages.dev
 wellsfargobanking.app
 whatsapp-dp-images.in
 whatsapp-fast.vercel.app
-whatsapp-gruppo-connect.com
 whatsapp-iamsuyash.vercel.app
+whatsapp-pc.com.cn
 whatsapp-verify.blogspot.com
 whatsapp11-cnj.pages.dev
 whatsappapk.org
