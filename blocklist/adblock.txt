@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 813
-! Updated: 2026-11-23T07:40:23Z
+! Entries: 816
+! Updated: 2026-11-23T10:49:05Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -591,6 +591,8 @@
 ||phpmyadmin.coinbase-secured.com^
 ||pl-domenatestowa8462288.top^
 ||pl-ogloszenie279875016.cfd^
+||pl-ogloszenie483926047.cfd^
+||pl-oqloszenie91861419412159235125.sbs^
 ||platform-kraken.cc^
 ||porrtal-stpmex.com^
 ||portall-stpmex.com^
@@ -691,6 +693,7 @@
 ||trustwallet-tokentwtowner.vercel.app^
 ||trustwalletindia-beta.vercel.app^
 ||tunishopia.tn^
+||twitterbikeusahq.shop^
 ||twitterw-wiki.com^
 ||uniswap-binance.cn^
 ||updata.net.cn^

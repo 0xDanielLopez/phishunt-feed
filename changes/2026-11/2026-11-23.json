@@ -1,10 +1,10 @@
 {
  "date": "2026-11-23",
- "updated": "2026-11-23T07:40:23Z",
+ "updated": "2026-11-23T10:49:05Z",
  "source": "https://phishunt.io/feed.txt",
  "license": "CC0-1.0",
  "counts": {
-  "added": 17,
+  "added": 20,
   "removed": 97
  },
  "added": [
@@ -15,6 +15,8 @@
   "https://allegrolokalnie.oferta1553215.cfd",
   "https://allegrolokalnie.ogoszenie-7893462.sbs/karta-rtx-4060-ti-8gb-zotac-gami/b5bn1xz",
   "https://allegrolokalnie.pl-ogloszenie279875016.cfd",
+  "https://allegrolokalnie.pl-ogloszenie483926047.cfd",
+  "https://allegrolokalnie.pl-oqloszenie91861419412159235125.sbs",
   "https://bbva.e-docssign.net/107519/8af662/475d964a-0243-46bf-aefd-66da26254efa/",
   "https://comcast.fqtjw.com",
   "https://fedexdelivery.pages.dev",
@@ -24,6 +26,7 @@
   "https://maytheek.com",
   "https://santander-bloquear.com",
   "https://security-awareness.microsoft365.studio",
+  "https://twitterbikeusahq.shop",
   "https://www-instagram-com-erru.fronx.my.id"
  ],
  "removed": [

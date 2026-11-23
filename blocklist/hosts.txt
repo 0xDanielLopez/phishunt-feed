@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 813
-# Updated: 2026-11-23T07:40:22Z
+# Entries: 816
+# Updated: 2026-11-23T10:49:05Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -591,6 +591,8 @@
 0.0.0.0 phpmyadmin.coinbase-secured.com
 0.0.0.0 pl-domenatestowa8462288.top
 0.0.0.0 pl-ogloszenie279875016.cfd
+0.0.0.0 pl-ogloszenie483926047.cfd
+0.0.0.0 pl-oqloszenie91861419412159235125.sbs
 0.0.0.0 platform-kraken.cc
 0.0.0.0 porrtal-stpmex.com
 0.0.0.0 portall-stpmex.com
@@ -691,6 +693,7 @@
 0.0.0.0 trustwallet-tokentwtowner.vercel.app
 0.0.0.0 trustwalletindia-beta.vercel.app
 0.0.0.0 tunishopia.tn
+0.0.0.0 twitterbikeusahq.shop
 0.0.0.0 twitterw-wiki.com
 0.0.0.0 uniswap-binance.cn
 0.0.0.0 updata.net.cn

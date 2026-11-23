@@ -1,5 +1,123 @@
 [
   {
+    "url": "https://twitterbikeusahq.shop",
+    "domain": "twitterbikeusahq.shop",
+    "company": "twitter",
+    "date": "2026-11-23T10:13:03.902323+00:00",
+    "first_seen": "2026-11-23T10:13:03.902323+00:00",
+    "uuid": "8e406cb8-03a3-4838-b24f-7538d6c943aa",
+    "ip": "195.96.130.201",
+    "country": "United States",
+    "asn": "219278",
+    "org": "Beijing Ruihao Kai Yuan Technology Co., Ltd",
+    "cert": "Let's Encrypt",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": false,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": true,
+    "top_signals": [],
+    "score": 0,
+    "verdict": "noise",
+    "url_only": false
+  },
+  {
+    "url": "https://allegrolokalnie.pl-oqloszenie91861419412159235125.sbs",
+    "domain": "allegrolokalnie.pl-oqloszenie91861419412159235125.sbs",
+    "company": "allegro",
+    "date": "2026-11-23T09:00:52.188702+00:00",
+    "first_seen": "2026-11-23T09:00:52.188702+00:00",
+    "uuid": "37049b5d-6b54-4ef1-8be5-8d2e66184eaf",
+    "ip": "195.177.94.238",
+    "country": "France",
+    "asn": "214961",
+    "org": "Stellar Group SAS",
+    "cert": "-",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      },
+      {
+        "signal": "tld_abuse",
+        "label": "Suspicious TLD",
+        "points": 1.3
+      },
+      {
+        "signal": "csp_missing",
+        "label": "No CSP header",
+        "points": 1.1
+      }
+    ],
+    "score": 18,
+    "verdict": "noise",
+    "url_only": false
+  },
+  {
+    "url": "https://allegrolokalnie.pl-ogloszenie483926047.cfd",
+    "domain": "allegrolokalnie.pl-ogloszenie483926047.cfd",
+    "company": "allegro",
+    "date": "2026-11-23T08:01:10.934506+00:00",
+    "first_seen": "2026-11-23T08:01:10.934506+00:00",
+    "uuid": "1d6615e2-5104-48b9-94d2-a26866053d85",
+    "ip": "104.21.29.95",
+    "country": "United States",
+    "asn": "13335",
+    "org": "Cloudflare, Inc.",
+    "cert": "YE1",
+    "malicious_google": false,
+    "malicious_openphish": false,
+    "malicious_phishtank": true,
+    "malicious_tweetfeed": false,
+    "malicious_urlscan": false,
+    "top_signals": [
+      {
+        "signal": "kw_score_norm",
+        "label": "Keyword match",
+        "points": 5.3
+      },
+      {
+        "signal": "cluster_size",
+        "label": "Site cluster",
+        "points": 5.1
+      },
+      {
+        "signal": "phishtank_score",
+        "label": "PhishTank",
+        "points": 3.0
+      },
+      {
+        "signal": "asn_reputation",
+        "label": "ASN reputation",
+        "points": 2.6
+      },
+      {
+        "signal": "country_mismatch",
+        "label": "Country mismatch",
+        "points": 2.2
+      }
+    ],
+    "score": 24,
+    "verdict": "low",
+    "url_only": false
+  },
+  {
     "url": "http://allegrolokalnie.oferta38be29o8bwg38.cfd",
     "domain": "allegrolokalnie.oferta38be29o8bwg38.cfd",
     "company": "allegro",
