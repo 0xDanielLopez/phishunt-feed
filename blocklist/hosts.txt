@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 816
-# Updated: 2026-11-23T10:49:05Z
+# Entries: 794
+# Updated: 2026-11-23T23:54:26Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -12,8 +12,9 @@
 0.0.0.0 21839-coinbase.com
 0.0.0.0 30ee17940a1b0dec.www.netflix.memberaccess-recovery.40-113-33-046.cpanel.site
 0.0.0.0 3177550-coinbase.com
+0.0.0.0 576441gh.top
+0.0.0.0 58733.sbs
 0.0.0.0 6710014.cc
-0.0.0.0 78439.sbs
 0.0.0.0 822312-coinbase.com
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
@@ -38,10 +39,9 @@
 0.0.0.0 amazon-signin-update-payment-secure-verify-billing-mainsec.52-234-33-034.cpanel.site
 0.0.0.0 amazon-slots.digital
 0.0.0.0 amnesiacuracao.com
-0.0.0.0 an-usps.com
 0.0.0.0 anacms1.coinbase-secured.com
-0.0.0.0 antimoney-laundering.org
 0.0.0.0 apexrecoveryconsulting.com.glovonetwork.com
+0.0.0.0 app-facebook.blogspot.com
 0.0.0.0 app-trezor-starts.pages.dev
 0.0.0.0 app81-facebook.blogspot.com
 0.0.0.0 apple-cl0ud.com
@@ -56,7 +56,6 @@
 0.0.0.0 auth-metamask.pages.dev
 0.0.0.0 autoconfig.glovonetwork.com
 0.0.0.0 avaturefed.net
-0.0.0.0 axm-amazon.com
 0.0.0.0 bamboohr.app
 0.0.0.0 bankofamerica-tx.com
 0.0.0.0 bankofamericatreasury.info
@@ -64,7 +63,6 @@
 0.0.0.0 barclaysiportalfraudcentre.com
 0.0.0.0 bbvaexperiences.com
 0.0.0.0 bbvalues.uk
-0.0.0.0 beloaki.buzz
 0.0.0.0 berbagi-facebook.blogspot.com
 0.0.0.0 beritanasional.eu.org
 0.0.0.0 beta-instagram.vercel.app
@@ -77,7 +75,6 @@
 0.0.0.0 binance-referral-code-btcbonus.vercel.app
 0.0.0.0 binance-register.blogspot.com
 0.0.0.0 binance-verif.com
-0.0.0.0 binance-zh.cn
 0.0.0.0 binanceii.com
 0.0.0.0 binancelivetrade.blogspot.com
 0.0.0.0 binancenn.com
@@ -88,6 +85,8 @@
 0.0.0.0 biowikiweb.com
 0.0.0.0 bnext.es
 0.0.0.0 boost-coinbase-verify.web.app
+0.0.0.0 bradesco-conviteprincipal.com
+0.0.0.0 bradesco-principalconvite.world
 0.0.0.0 bradescobeneficios.app.br
 0.0.0.0 bradescoblack-convite.com
 0.0.0.0 bradescochat.com
@@ -97,7 +96,6 @@
 0.0.0.0 bradescoprincipalinvestimentos.com
 0.0.0.0 brasil-facebook.blogspot.com
 0.0.0.0 bridge-trezr-io-sso.square.site
-0.0.0.0 brimembal.com
 0.0.0.0 buscarmi-icloud.app
 0.0.0.0 bybit-binance.com.cn
 0.0.0.0 cashapp-account-recovery-verify.165-154-255-254.cpanel.site
@@ -105,13 +103,12 @@
 0.0.0.0 cashapp-liart.vercel.app
 0.0.0.0 cashapp-secure-account-access.165-154-255-254.cpanel.site
 0.0.0.0 cashappps.com
-0.0.0.0 centrumorientacji.pl
+0.0.0.0 centre-google.com
 0.0.0.0 chatgpt-vwas-us.com
 0.0.0.0 chatgpt0005.eu.org
 0.0.0.0 chatgptown.cn
 0.0.0.0 chatgptupd.com
 0.0.0.0 checkleaked.cc
-0.0.0.0 citex-pro.com
 0.0.0.0 click-facebook.blogspot.com
 0.0.0.0 cn-fedex.com
 0.0.0.0 coinbase-advanced-trial.pages.dev
@@ -119,12 +116,10 @@
 0.0.0.0 coinbase-invest.com
 0.0.0.0 coinbase-lock.com
 0.0.0.0 coinbase-login-usa.com
-0.0.0.0 coinbase-recover.vercel.app
 0.0.0.0 coinbase-supportdesk.vercel.app
 0.0.0.0 coinbase.am.in
 0.0.0.0 coinbase.com.lc
 0.0.0.0 coinbase2017.net
-0.0.0.0 coinbasecd.com
 0.0.0.0 coinbasechat.vercel.app
 0.0.0.0 coinbasecover.com
 0.0.0.0 coinbaseplogininin.gitbook.io
@@ -154,6 +149,7 @@
 0.0.0.0 domena788944.shop
 0.0.0.0 dothome.co.kr
 0.0.0.0 dow-nload-ledger-live--doc.typedream.app
+0.0.0.0 download-outlook.com
 0.0.0.0 dpd-bexnaro.com
 0.0.0.0 dpd-calnori.com
 0.0.0.0 dpd-calviro.click
@@ -170,8 +166,8 @@
 0.0.0.0 dpd-telvora.com
 0.0.0.0 dpd-xelvora.com
 0.0.0.0 drive03.com
-0.0.0.0 dropboxxesmailyamailapp.top
 0.0.0.0 e-docssign.net
+0.0.0.0 ebay-app.com
 0.0.0.0 ebay-lwholesale.com
 0.0.0.0 ebay-phone-number.blogspot.com
 0.0.0.0 ebay-seller-center-managedpayments.vercel.app
@@ -282,7 +278,6 @@
 0.0.0.0 fotos-icloud.info
 0.0.0.0 fqtjw.com
 0.0.0.0 freeopenai.me
-0.0.0.0 fronx.my.id
 0.0.0.0 fwd.coinbase-secured.com
 0.0.0.0 fwh.is
 0.0.0.0 game-amazon.best
@@ -290,15 +285,15 @@
 0.0.0.0 get-googlemeet.com
 0.0.0.0 ggzh-google.com.cn
 0.0.0.0 glallegro.com
-0.0.0.0 gloronyan.github.io
+0.0.0.0 gls-link.app
 0.0.0.0 goku8.workers.dev
-0.0.0.0 google-account-signin.com
 0.0.0.0 google-alerter.com
 0.0.0.0 google-amazon-tesla.com
 0.0.0.0 google-amazon-ultraman.cc
 0.0.0.0 google-apk.com
 0.0.0.0 google-aplication.download
 0.0.0.0 google-k12-alert.com
+0.0.0.0 google-static-09.com
 0.0.0.0 google1208.com
 0.0.0.0 google1308.com
 0.0.0.0 google56.cn
@@ -326,13 +321,11 @@
 0.0.0.0 hotmail-two.vercel.app
 0.0.0.0 hotmail666.com
 0.0.0.0 hsbc-sec.com
-0.0.0.0 hsbcpersonalbanking.com
 0.0.0.0 icloud-finm.com
 0.0.0.0 icloud-id.rip
 0.0.0.0 icloud-my.rip
 0.0.0.0 icloud-ny.rip
 0.0.0.0 icloudhelp.com
-0.0.0.0 id-237932sbns3.sbs
 0.0.0.0 id-paypalservice.dev
 0.0.0.0 ideeo.mx
 0.0.0.0 info-eng-ledgerlive-learn.typedream.app
@@ -366,7 +359,6 @@
 0.0.0.0 instagram-open.blogspot.com
 0.0.0.0 instagram-register.blogspot.com
 0.0.0.0 instagram-services.com
-0.0.0.0 instagram-session.vercel.app
 0.0.0.0 instagram-tip.blogspot.com
 0.0.0.0 instagram-zeta.vercel.app
 0.0.0.0 instagram030.github.io
@@ -402,6 +394,7 @@
 0.0.0.0 itau-snowy.vercel.app
 0.0.0.0 itcserv.net
 0.0.0.0 jayaram0550.github.io
+0.0.0.0 jesienne-okazj382428.top
 0.0.0.0 jp-coinbase.com
 0.0.0.0 jsqnjzyg.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
 0.0.0.0 klarnaplayes.shop
@@ -430,7 +423,6 @@
 0.0.0.0 ledgrr-strt-auth-io.square.site
 0.0.0.0 ledzer-live.square.site
 0.0.0.0 leia-santander.vercel.app
-0.0.0.0 letnie-okazj342353581.shop
 0.0.0.0 live-ledgre.com
 0.0.0.0 livepackagetracking.com
 0.0.0.0 lobster-cloud.com
@@ -482,12 +474,12 @@
 0.0.0.0 microsoft-ssl.com
 0.0.0.0 microsoft-telemetry.at
 0.0.0.0 microsoft0117.vercel.app
-0.0.0.0 microsoft365.studio
 0.0.0.0 microsoft365businessbasic.com
 0.0.0.0 microsoft365updates.com
 0.0.0.0 microsofth.com
 0.0.0.0 microsoftjk.eu.org
 0.0.0.0 microsoftonline-sharepoint.online
+0.0.0.0 microsoftsignin.azurewebsites.net
 0.0.0.0 microsoftwordob.blogspot.com
 0.0.0.0 mirror-google.com
 0.0.0.0 monjaro-amazon.com
@@ -498,6 +490,7 @@
 0.0.0.0 my-kraken.com
 0.0.0.0 my-spotify.app
 0.0.0.0 mybluehost.me
+0.0.0.0 mylogin-microsoftonline.com
 0.0.0.0 mytemp.website
 0.0.0.0 neda-facebook.blogspot.com
 0.0.0.0 netflix-coral-zeta.vercel.app
@@ -540,26 +533,18 @@
 0.0.0.0 notexistswww.www.www.lqthujai.netflix-signin-verifying-billing-secure-payment-update.40-113-33-046.cpanel.site
 0.0.0.0 notexistswww.www.www.netflix-signin-update-payment-secured-billing-mainsec.52-176-40-210.cpanel.site
 0.0.0.0 notexistswww.www.www.www.www.www.account-netflix-payment.52-166-65-2.cpanel.site
-0.0.0.0 nr-204-293-sn42sd.sbs
 0.0.0.0 ns1.az
-0.0.0.0 o30303040.sbs
-0.0.0.0 o30304340.sbs
 0.0.0.0 o356.ee
 0.0.0.0 oauthe-xfinity-comm.weebly.com
 0.0.0.0 ofe.lol
-0.0.0.0 oferta-nr32873292.sbs
-0.0.0.0 oferta1553215.cfd
-0.0.0.0 oferta38be29o8bwg38.cfd
-0.0.0.0 oferta948583902432.cfd
 0.0.0.0 office365licensingsupport.com
-0.0.0.0 ogoszenie-7893462.sbs
-0.0.0.0 ogoszenie-8690384.sbs
 0.0.0.0 onedrive-live-shared-folder-attachment-microsoft365.com
 0.0.0.0 onedrive.business
 0.0.0.0 open-instagram.vercel.app
 0.0.0.0 openanthropic.com
 0.0.0.0 opensea-six.vercel.app
 0.0.0.0 opensea-team.help
+0.0.0.0 openseadeals.shop
 0.0.0.0 opensealogin1.blogspot.com
 0.0.0.0 openseaproks007.vercel.app
 0.0.0.0 openseavxr.vercel.app
@@ -572,7 +557,6 @@
 0.0.0.0 outlookmail.social
 0.0.0.0 outlookmails.de
 0.0.0.0 outlookquarantinenotice.com
-0.0.0.0 outlooksa.vercel.app
 0.0.0.0 page-instagram.vercel.app
 0.0.0.0 page-kucoin-en-us.typedream.app
 0.0.0.0 pagina-inicial-instagram-anesoledar.vercel.app
@@ -589,16 +573,10 @@
 0.0.0.0 ph-whatsapp.com
 0.0.0.0 photos-instagram.vercel.app
 0.0.0.0 phpmyadmin.coinbase-secured.com
-0.0.0.0 pl-domenatestowa8462288.top
-0.0.0.0 pl-ogloszenie279875016.cfd
-0.0.0.0 pl-ogloszenie483926047.cfd
 0.0.0.0 pl-oqloszenie91861419412159235125.sbs
 0.0.0.0 platform-kraken.cc
 0.0.0.0 porrtal-stpmex.com
 0.0.0.0 portall-stpmex.com
-0.0.0.0 postoffer.cyou
-0.0.0.0 postoffers.top
-0.0.0.0 pousadaparaisodocarmo.com.br
 0.0.0.0 premio-instagram.com
 0.0.0.0 prestamo-santander-cliente.vercel.app
 0.0.0.0 procasmexico.com
@@ -611,7 +589,6 @@
 0.0.0.0 reserveringenavonturenboerderij.nl
 0.0.0.0 rev.it
 0.0.0.0 roblox.com.bo
-0.0.0.0 roblox.com.bz
 0.0.0.0 roblox.com.ee
 0.0.0.0 roblox.com.et
 0.0.0.0 roblox.com.kz
@@ -622,7 +599,6 @@
 0.0.0.0 sa-onedrive.com
 0.0.0.0 sagers.com
 0.0.0.0 samplel-ks6yxvur5-instagramm.vercel.app
-0.0.0.0 santander-bloquear.com
 0.0.0.0 santander-comprovante-fr8kq2lm7xv9pqa4nx.duckdns.org
 0.0.0.0 santander-comprovante-r7kqtg9ycnkpzgxvzk.duckdns.org
 0.0.0.0 santander-dev-week.vercel.app
@@ -642,8 +618,8 @@
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 skylar.web.id
 0.0.0.0 smallflyingarts.net
-0.0.0.0 smart-ofert783.sbs
 0.0.0.0 snmxtehc.coinbase-secured.com
+0.0.0.0 spellapp.com
 0.0.0.0 spire-binance.com.cn
 0.0.0.0 spotify-client-beta.vercel.app
 0.0.0.0 spotify-login-teal.vercel.app
@@ -674,16 +650,17 @@
 0.0.0.0 tamil.bid
 0.0.0.0 tara-facebook.blogspot.com
 0.0.0.0 tb-facebook.blogspot.com
+0.0.0.0 telar.cl
 0.0.0.0 temporary.site
 0.0.0.0 test.jsqnjzyg.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
 0.0.0.0 theamazon.vercel.app
 0.0.0.0 therelayservice.com
 0.0.0.0 trackingnumbers.org
-0.0.0.0 transakcja9191.sbs
 0.0.0.0 trezoorr--thego.gitbook.io
 0.0.0.0 trezor-eo-startd.pages.dev
 0.0.0.0 trezor-login-us-auth-start.typedream.app
 0.0.0.0 trezorguide.vercel.app
+0.0.0.0 trezoriowlte.gitbook.io
 0.0.0.0 trezorsuite-app.gitbook.io
 0.0.0.0 trezrhiwanlt.gitbook.io
 0.0.0.0 tron-binance.cn
@@ -697,13 +674,14 @@
 0.0.0.0 twitterw-wiki.com
 0.0.0.0 uniswap-binance.cn
 0.0.0.0 updata.net.cn
+0.0.0.0 us13zoom.us
+0.0.0.0 us14zoom.us
 0.0.0.0 user.coinbase-secured.com
 0.0.0.0 uso4zoom.us
 0.0.0.0 uspsaunitedworkforce.com
 0.0.0.0 uspss.pages.dev
 0.0.0.0 uspssmartparcellocker.tech
 0.0.0.0 uspsstampcollectors.com
-0.0.0.0 v-psp.com
 0.0.0.0 v0-exodus-wallet-app.vercel.app
 0.0.0.0 v0-trezor-suite-website.vercel.app
 0.0.0.0 venditoriamazon.com
