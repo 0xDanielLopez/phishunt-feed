@@ -1,11 +1,12 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 794
-! Updated: 2026-11-23T23:54:26Z
+! Entries: 805
+! Updated: 2026-11-24T09:55:20Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
 ! Community-reported phishing domains. Use at your own risk.
 
+||098432-kraken.com^
 ||1056804.com^
 ||199281-coinbase.com^
 ||2017-facebook.blogspot.com^
@@ -114,7 +115,6 @@
 ||coinbase-advanced-trial.pages.dev^
 ||coinbase-connetct.vercel.app^
 ||coinbase-invest.com^
-||coinbase-lock.com^
 ||coinbase-login-usa.com^
 ||coinbase-supportdesk.vercel.app^
 ||coinbase.am.in^
@@ -130,6 +130,7 @@
 ||com-info.vip^
 ||com-microsoftonline-ondrive.ca^
 ||com-ok.vip^
+||comcastupdate1b.weebly.com^
 ||comwtsfiopg.coinbase-secured.com^
 ||correosicri.cc^
 ||correosncr.cc^
@@ -162,7 +163,6 @@
 ||dpd-malvexa.click^
 ||dpd-packages.club^
 ||dpd-ravlimo.com^
-||dpd-suivi-colis.com^
 ||dpd-telvora.com^
 ||dpd-xelvora.com^
 ||drive03.com^
@@ -179,7 +179,9 @@
 ||en-trezor-suite-io.square.site^
 ||es-netflix-dashboard.com^
 ||eu-facebook.blogspot.com^
+||everythingturfpros.com^
 ||exclusive-openseamints.vercel.app^
+||exodus-web3-saport.square.site^
 ||exoduswallethelpcenter.vercel.app^
 ||facebok-facebook.blogspot.com^
 ||facebook--br.blogspot.com^
@@ -293,6 +295,7 @@
 ||google-apk.com^
 ||google-aplication.download^
 ||google-k12-alert.com^
+||google-meet-app.com^
 ||google-static-09.com^
 ||google1208.com^
 ||google1308.com^
@@ -321,11 +324,14 @@
 ||hotmail-two.vercel.app^
 ||hotmail666.com^
 ||hsbc-sec.com^
+||hsbcnetcustomerchat.com^
+||hsbcprivatebanksupport.com^
 ||icloud-finm.com^
 ||icloud-id.rip^
 ||icloud-my.rip^
 ||icloud-ny.rip^
 ||icloudhelp.com^
+||icloudservice.nl^
 ||id-paypalservice.dev^
 ||ideeo.mx^
 ||info-eng-ledgerlive-learn.typedream.app^
@@ -400,6 +406,7 @@
 ||klarnaplayes.shop^
 ||kraken-binance.cn^
 ||kraken-exchange.help^
+||kraken-site.shop^
 ||kraken-tor.co.com^
 ||kuc0inlgin5.gitbook.io^
 ||kucoin-referral-code-pt.vercel.app^
@@ -511,6 +518,7 @@
 ||netflixbymanoj.vercel.app^
 ||netflixcol.vercel.app^
 ||netflixfeitoaqui.com.br^
+||netflixinyourneighborhoodnm.com^
 ||netflixmedia.com^
 ||netflixquebec.blogspot.com^
 ||netflixuae.com^
@@ -561,6 +569,7 @@
 ||page-kucoin-en-us.typedream.app^
 ||pagina-inicial-instagram-anesoledar.vercel.app^
 ||pagina-inicial-instagram.vercel.app^
+||paineljota.top^
 ||paxgold-binance.com.cn^
 ||paykmc.com^
 ||paypal-com-aspi-dll.us^
@@ -573,7 +582,7 @@
 ||ph-whatsapp.com^
 ||photos-instagram.vercel.app^
 ||phpmyadmin.coinbase-secured.com^
-||pl-oqloszenie91861419412159235125.sbs^
+||pl-376252l72652726262oferta927263438h662.sbs^
 ||platform-kraken.cc^
 ||porrtal-stpmex.com^
 ||portall-stpmex.com^
@@ -582,7 +591,6 @@
 ||procasmexico.com^
 ||profil-facebook-saya.blogspot.com^
 ||r-facebook.blogspot.com^
-||rcm-portal.at^
 ||reactivar-microsoft-live.iceiy.com^
 ||recover-paypal-p73809.com^
 ||recreate-instagrampage.vercel.app^
@@ -674,10 +682,12 @@
 ||twitterw-wiki.com^
 ||uniswap-binance.cn^
 ||updata.net.cn^
+||uppdw.sbs^
 ||us13zoom.us^
 ||us14zoom.us^
 ||user.coinbase-secured.com^
 ||uso4zoom.us^
+||usps-vmts.azurewebsites.net^
 ||uspsaunitedworkforce.com^
 ||uspss.pages.dev^
 ||uspssmartparcellocker.tech^
@@ -787,6 +797,7 @@
 ||www.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-125-38.cpanel.site^
 ||xfinityecure.weebly.com^
 ||xfinityinfoltdorgltd.weebly.com^
+||xfinityloggingin.weebly.com^
 ||xfinitymailogs.weebly.com^
 ||xfinitywebslogin.weebly.com^
 ||xucoxuqh.amazon-signin-update-payment-secure-verify-billing-mainsec.54-037-73-097.cpanel.site^

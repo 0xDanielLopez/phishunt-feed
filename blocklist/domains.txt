@@ -1,13 +1,13 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 809
-# Updated: 2026-11-23T23:45:04Z
+# Entries: 805
+# Updated: 2026-11-24T09:55:19Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
+098432-kraken.com
 1056804.com
-17836x872v21n1.click
 199281-coinbase.com
 2017-facebook.blogspot.com
 21839-coinbase.com
@@ -23,7 +23,6 @@ acct-goog1e.com
 achiit.github.io
 acounts-google.duckdns.org
 adb-viewersv.com
-adobe-xnhfolowajskuqbycagggwcr.pages.dev
 adobebasicsstore.shop
 adobefileviewer.dpdns.org
 adobeinstaller-virid.vercel.app
@@ -77,7 +76,6 @@ binance-red-packet.vercel.app
 binance-referral-code-btcbonus.vercel.app
 binance-register.blogspot.com
 binance-verif.com
-binance-zh.cn
 binanceii.com
 binancelivetrade.blogspot.com
 binancenn.com
@@ -117,7 +115,6 @@ cn-fedex.com
 coinbase-advanced-trial.pages.dev
 coinbase-connetct.vercel.app
 coinbase-invest.com
-coinbase-lock.com
 coinbase-login-usa.com
 coinbase-supportdesk.vercel.app
 coinbase.am.in
@@ -133,6 +130,7 @@ com-gpt.vip
 com-info.vip
 com-microsoftonline-ondrive.ca
 com-ok.vip
+comcastupdate1b.weebly.com
 comwtsfiopg.coinbase-secured.com
 correosicri.cc
 correosncr.cc
@@ -142,7 +140,6 @@ creyt.cl
 ct.ws
 daservglobal.com
 dbbdw.shop
-dbdbw.shop
 de-paypal-sec.com
 dhl-express-dev.firebaseapp.com
 dir.com.my
@@ -166,7 +163,6 @@ dpd-ie-twn.link
 dpd-malvexa.click
 dpd-packages.club
 dpd-ravlimo.com
-dpd-suivi-colis.com
 dpd-telvora.com
 dpd-xelvora.com
 drive03.com
@@ -183,7 +179,9 @@ en-ledgre.pages.dev
 en-trezor-suite-io.square.site
 es-netflix-dashboard.com
 eu-facebook.blogspot.com
+everythingturfpros.com
 exclusive-openseamints.vercel.app
+exodus-web3-saport.square.site
 exoduswallethelpcenter.vercel.app
 facebok-facebook.blogspot.com
 facebook--br.blogspot.com
@@ -289,16 +287,15 @@ gestorweb.cl
 get-googlemeet.com
 ggzh-google.com.cn
 glallegro.com
-gloronyan.github.io
 gls-link.app
 goku8.workers.dev
-google-account-signin.com
 google-alerter.com
 google-amazon-tesla.com
 google-amazon-ultraman.cc
 google-apk.com
 google-aplication.download
 google-k12-alert.com
+google-meet-app.com
 google-static-09.com
 google1208.com
 google1308.com
@@ -327,12 +324,14 @@ home-facebook.blogspot.com
 hotmail-two.vercel.app
 hotmail666.com
 hsbc-sec.com
-hsbcpersonalbanking.com
+hsbcnetcustomerchat.com
+hsbcprivatebanksupport.com
 icloud-finm.com
 icloud-id.rip
 icloud-my.rip
 icloud-ny.rip
 icloudhelp.com
+icloudservice.nl
 id-paypalservice.dev
 ideeo.mx
 info-eng-ledgerlive-learn.typedream.app
@@ -402,12 +401,12 @@ itau-snowy.vercel.app
 itcserv.net
 jayaram0550.github.io
 jesienne-okazj382428.top
-join-my-group-whatsapp-bwh.pages.dev
 jp-coinbase.com
 jsqnjzyg.login.microsoftonline-billing-verification-secured-help.161-35-102-243.cpanel.site
 klarnaplayes.shop
 kraken-binance.cn
 kraken-exchange.help
+kraken-site.shop
 kraken-tor.co.com
 kuc0inlgin5.gitbook.io
 kucoin-referral-code-pt.vercel.app
@@ -427,7 +426,6 @@ ld-icloud.com
 ld-icloud.info
 ledger-live-download-sso-conect.typedream.app
 ledger-live-login-web.square.site
-ledgerlive-desktop--get.pages.dev
 ledgrr-start-info.gitbook.io
 ledgrr-strt-auth-io.square.site
 ledzer-live.square.site
@@ -443,7 +441,6 @@ login-page-instagram.blogspot.com
 login-page-instagram.vercel.app
 login-xfinitysimple.weebly.com
 login.coinbase-secured.com
-lokalna-ofera5982531.top
 lovefive-facebook.blogspot.com
 ly-facebook.blogspot.com
 m-microsoft.com
@@ -521,6 +518,7 @@ netflixa.shop
 netflixbymanoj.vercel.app
 netflixcol.vercel.app
 netflixfeitoaqui.com.br
+netflixinyourneighborhoodnm.com
 netflixmedia.com
 netflixquebec.blogspot.com
 netflixuae.com
@@ -547,7 +545,6 @@ ns1.az
 o356.ee
 oauthe-xfinity-comm.weebly.com
 ofe.lol
-oferta-3827.sbs
 office365licensingsupport.com
 onedrive-live-shared-folder-attachment-microsoft365.com
 onedrive.business
@@ -568,11 +565,11 @@ outlook1.cc
 outlookmail.social
 outlookmails.de
 outlookquarantinenotice.com
-outlooksa.vercel.app
 page-instagram.vercel.app
 page-kucoin-en-us.typedream.app
 pagina-inicial-instagram-anesoledar.vercel.app
 pagina-inicial-instagram.vercel.app
+paineljota.top
 paxgold-binance.com.cn
 paykmc.com
 paypal-com-aspi-dll.us
@@ -585,8 +582,7 @@ perfectgiftchoice.life
 ph-whatsapp.com
 photos-instagram.vercel.app
 phpmyadmin.coinbase-secured.com
-pl-oferta573938.lol
-pl-oqloszenie91861419412159235125.sbs
+pl-376252l72652726262oferta927263438h662.sbs
 platform-kraken.cc
 porrtal-stpmex.com
 portall-stpmex.com
@@ -595,15 +591,12 @@ prestamo-santander-cliente.vercel.app
 procasmexico.com
 profil-facebook-saya.blogspot.com
 r-facebook.blogspot.com
-rcm-portal.at
 reactivar-microsoft-live.iceiy.com
 recover-paypal-p73809.com
 recreate-instagrampage.vercel.app
 reserveringenavonturenboerderij.nl
 rev.it
-rezerwacja517221.click
 roblox.com.bo
-roblox.com.bz
 roblox.com.ee
 roblox.com.et
 roblox.com.kz
@@ -689,10 +682,12 @@ twitterbikeusahq.shop
 twitterw-wiki.com
 uniswap-binance.cn
 updata.net.cn
+uppdw.sbs
 us13zoom.us
 us14zoom.us
 user.coinbase-secured.com
 uso4zoom.us
+usps-vmts.azurewebsites.net
 uspsaunitedworkforce.com
 uspss.pages.dev
 uspssmartparcellocker.tech
@@ -802,6 +797,7 @@ www.www.www.xxdjqszw.amazon-signin-update-payment-secure-verify-billing-mainsec.
 www.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-125-38.cpanel.site
 xfinityecure.weebly.com
 xfinityinfoltdorgltd.weebly.com
+xfinityloggingin.weebly.com
 xfinitymailogs.weebly.com
 xfinitywebslogin.weebly.com
 xucoxuqh.amazon-signin-update-payment-secure-verify-billing-mainsec.54-037-73-097.cpanel.site

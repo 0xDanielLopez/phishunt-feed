@@ -1,11 +1,12 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 794
-# Updated: 2026-11-23T23:54:26Z
+# Entries: 805
+# Updated: 2026-11-24T09:55:20Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
+0.0.0.0 098432-kraken.com
 0.0.0.0 1056804.com
 0.0.0.0 199281-coinbase.com
 0.0.0.0 2017-facebook.blogspot.com
@@ -114,7 +115,6 @@
 0.0.0.0 coinbase-advanced-trial.pages.dev
 0.0.0.0 coinbase-connetct.vercel.app
 0.0.0.0 coinbase-invest.com
-0.0.0.0 coinbase-lock.com
 0.0.0.0 coinbase-login-usa.com
 0.0.0.0 coinbase-supportdesk.vercel.app
 0.0.0.0 coinbase.am.in
@@ -130,6 +130,7 @@
 0.0.0.0 com-info.vip
 0.0.0.0 com-microsoftonline-ondrive.ca
 0.0.0.0 com-ok.vip
+0.0.0.0 comcastupdate1b.weebly.com
 0.0.0.0 comwtsfiopg.coinbase-secured.com
 0.0.0.0 correosicri.cc
 0.0.0.0 correosncr.cc
@@ -162,7 +163,6 @@
 0.0.0.0 dpd-malvexa.click
 0.0.0.0 dpd-packages.club
 0.0.0.0 dpd-ravlimo.com
-0.0.0.0 dpd-suivi-colis.com
 0.0.0.0 dpd-telvora.com
 0.0.0.0 dpd-xelvora.com
 0.0.0.0 drive03.com
@@ -179,7 +179,9 @@
 0.0.0.0 en-trezor-suite-io.square.site
 0.0.0.0 es-netflix-dashboard.com
 0.0.0.0 eu-facebook.blogspot.com
+0.0.0.0 everythingturfpros.com
 0.0.0.0 exclusive-openseamints.vercel.app
+0.0.0.0 exodus-web3-saport.square.site
 0.0.0.0 exoduswallethelpcenter.vercel.app
 0.0.0.0 facebok-facebook.blogspot.com
 0.0.0.0 facebook--br.blogspot.com
@@ -293,6 +295,7 @@
 0.0.0.0 google-apk.com
 0.0.0.0 google-aplication.download
 0.0.0.0 google-k12-alert.com
+0.0.0.0 google-meet-app.com
 0.0.0.0 google-static-09.com
 0.0.0.0 google1208.com
 0.0.0.0 google1308.com
@@ -321,11 +324,14 @@
 0.0.0.0 hotmail-two.vercel.app
 0.0.0.0 hotmail666.com
 0.0.0.0 hsbc-sec.com
+0.0.0.0 hsbcnetcustomerchat.com
+0.0.0.0 hsbcprivatebanksupport.com
 0.0.0.0 icloud-finm.com
 0.0.0.0 icloud-id.rip
 0.0.0.0 icloud-my.rip
 0.0.0.0 icloud-ny.rip
 0.0.0.0 icloudhelp.com
+0.0.0.0 icloudservice.nl
 0.0.0.0 id-paypalservice.dev
 0.0.0.0 ideeo.mx
 0.0.0.0 info-eng-ledgerlive-learn.typedream.app
@@ -400,6 +406,7 @@
 0.0.0.0 klarnaplayes.shop
 0.0.0.0 kraken-binance.cn
 0.0.0.0 kraken-exchange.help
+0.0.0.0 kraken-site.shop
 0.0.0.0 kraken-tor.co.com
 0.0.0.0 kuc0inlgin5.gitbook.io
 0.0.0.0 kucoin-referral-code-pt.vercel.app
@@ -511,6 +518,7 @@
 0.0.0.0 netflixbymanoj.vercel.app
 0.0.0.0 netflixcol.vercel.app
 0.0.0.0 netflixfeitoaqui.com.br
+0.0.0.0 netflixinyourneighborhoodnm.com
 0.0.0.0 netflixmedia.com
 0.0.0.0 netflixquebec.blogspot.com
 0.0.0.0 netflixuae.com
@@ -561,6 +569,7 @@
 0.0.0.0 page-kucoin-en-us.typedream.app
 0.0.0.0 pagina-inicial-instagram-anesoledar.vercel.app
 0.0.0.0 pagina-inicial-instagram.vercel.app
+0.0.0.0 paineljota.top
 0.0.0.0 paxgold-binance.com.cn
 0.0.0.0 paykmc.com
 0.0.0.0 paypal-com-aspi-dll.us
@@ -573,7 +582,7 @@
 0.0.0.0 ph-whatsapp.com
 0.0.0.0 photos-instagram.vercel.app
 0.0.0.0 phpmyadmin.coinbase-secured.com
-0.0.0.0 pl-oqloszenie91861419412159235125.sbs
+0.0.0.0 pl-376252l72652726262oferta927263438h662.sbs
 0.0.0.0 platform-kraken.cc
 0.0.0.0 porrtal-stpmex.com
 0.0.0.0 portall-stpmex.com
@@ -582,7 +591,6 @@
 0.0.0.0 procasmexico.com
 0.0.0.0 profil-facebook-saya.blogspot.com
 0.0.0.0 r-facebook.blogspot.com
-0.0.0.0 rcm-portal.at
 0.0.0.0 reactivar-microsoft-live.iceiy.com
 0.0.0.0 recover-paypal-p73809.com
 0.0.0.0 recreate-instagrampage.vercel.app
@@ -674,10 +682,12 @@
 0.0.0.0 twitterw-wiki.com
 0.0.0.0 uniswap-binance.cn
 0.0.0.0 updata.net.cn
+0.0.0.0 uppdw.sbs
 0.0.0.0 us13zoom.us
 0.0.0.0 us14zoom.us
 0.0.0.0 user.coinbase-secured.com
 0.0.0.0 uso4zoom.us
+0.0.0.0 usps-vmts.azurewebsites.net
 0.0.0.0 uspsaunitedworkforce.com
 0.0.0.0 uspss.pages.dev
 0.0.0.0 uspssmartparcellocker.tech
@@ -787,6 +797,7 @@
 0.0.0.0 www.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-125-38.cpanel.site
 0.0.0.0 xfinityecure.weebly.com
 0.0.0.0 xfinityinfoltdorgltd.weebly.com
+0.0.0.0 xfinityloggingin.weebly.com
 0.0.0.0 xfinitymailogs.weebly.com
 0.0.0.0 xfinitywebslogin.weebly.com
 0.0.0.0 xucoxuqh.amazon-signin-update-payment-secure-verify-billing-mainsec.54-037-73-097.cpanel.site
