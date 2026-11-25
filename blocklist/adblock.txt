@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 746
-! Updated: 2026-11-24T22:27:25Z
+! Entries: 754
+! Updated: 2026-11-25T08:36:04Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -11,6 +11,7 @@
 ||199281-coinbase.com^
 ||2017-facebook.blogspot.com^
 ||21839-coinbase.com^
+||2krn-kraken.com^
 ||3177550-coinbase.com^
 ||58733.sbs^
 ||6710014.cc^
@@ -21,7 +22,6 @@
 ||achiit.github.io^
 ||acounts-google.duckdns.org^
 ||adb-viewersv.com^
-||adobe-chmvhqeevfrfcygkahnxmwzj.pages.dev^
 ||adobebasicsstore.shop^
 ||adobefileviewer.dpdns.org^
 ||adobeinstaller-virid.vercel.app^
@@ -61,6 +61,7 @@
 ||barclaysiportalfraudcentre.com^
 ||bbvaexperiences.com^
 ||bbvalues.uk^
+||beneficios-pj.com^
 ||berbagi-facebook.blogspot.com^
 ||beritanasional.eu.org^
 ||beta-instagram.vercel.app^
@@ -87,8 +88,10 @@
 ||bradesco-principalconvite.world^
 ||bradescobeneficios.app.br^
 ||bradescoblack-convite.com^
+||bradescoblackconvite.world^
 ||bradescochat.com^
 ||bradescoconviteblackclub.world^
+||bradescodigital-american.express^
 ||bradescoempresabanking.com^
 ||bradesconvitecenturion.com^
 ||bradescoprincipalinvestimentos.com^
@@ -108,6 +111,7 @@
 ||chatgptown.cn^
 ||chatgptupd.com^
 ||checkleaked.cc^
+||citrix-secure-access.com^
 ||click-facebook.blogspot.com^
 ||cn-fedex.com^
 ||coinbase-advanced-trial.pages.dev^
@@ -162,6 +166,7 @@
 ||dpd-ie-twn.link^
 ||dpd-malvexa.click^
 ||dpd-packages.club^
+||dpd-polska.com^
 ||dpd-ravlimo.com^
 ||dpd-telvora.com^
 ||dpd-xelvora.com^
@@ -219,6 +224,7 @@
 ||facebook-login-pages.blogspot.com^
 ||facebook-login.vercel.app^
 ||facebook-logo.blogspot.com^
+||facebook-meta-reels-1.pages.dev^
 ||facebook-new-security.blogspot.com^
 ||facebook-ng.blogspot.com^
 ||facebook-notification.blogspot.com^
@@ -276,8 +282,10 @@
 ||facebookverifyyouraccount.blogspot.com^
 ||facebookwebsite9.blogspot.com^
 ||fedexdelivery.pages.dev^
+||fedexinvoicedelivery.pages.dev^
 ||fedexsv.com^
 ||fifa-careerportal.com^
+||fifa-hiring.com^
 ||foroshgahma.com^
 ||forsakens-crew-teman-facebook.blogspot.com^
 ||fotos-icloud.info^
@@ -322,11 +330,13 @@
 ||gruposuplidores.com^
 ||hashnode.dev^
 ||help-docs-metamask.gitbook.io^
+||hke-whatsapp.com^
+||hkk-whatsapp.com^
 ||hotmail-two.vercel.app^
 ||hotmail666.com^
 ||hsbc-sec.com^
+||hsbcnetcustomerchat.com^
 ||hsbcprivatebanksupport.com^
-||icloud-apple1.shop^
 ||icloud-finm.com^
 ||icloud-id.rip^
 ||icloud-my.rip^
@@ -335,7 +345,6 @@
 ||icloudservice.nl^
 ||id-hjjfk5as78jg.rest^
 ||id-paypalservice.dev^
-||id-ungfjh4kf9zf.rest^
 ||ideeo.mx^
 ||info-eng-ledgerlive-learn.typedream.app^
 ||info-facebook.blogspot.com^
@@ -368,6 +377,7 @@
 ||instagram-open.blogspot.com^
 ||instagram-register.blogspot.com^
 ||instagram-services.com^
+||instagram-stories-facebook-1.pages.dev^
 ||instagram-tip.blogspot.com^
 ||instagram-zeta.vercel.app^
 ||instagram030.github.io^
@@ -411,7 +421,6 @@
 ||kraken-tor.co.com^
 ||kuc0inlgin5.gitbook.io^
 ||kucoin-referral-code-pt.vercel.app^
-||kucoin108.com^
 ||kucoinapp.pages.dev^
 ||kucoinblock.com^
 ||kucoindeep.com^
@@ -431,6 +440,7 @@
 ||ledgrr-strt-auth-io.square.site^
 ||ledzer-live.square.site^
 ||leia-santander.vercel.app^
+||letnie-okazj343653180.sbs^
 ||live-ledgre.com^
 ||livepackagetracking.com^
 ||lobster-cloud.com^
@@ -484,6 +494,7 @@
 ||microsoft0117.vercel.app^
 ||microsoft365businessbasic.com^
 ||microsoft365updates.com^
+||microsoftcom-link.com^
 ||microsofth.com^
 ||microsoftjk.eu.org^
 ||microsoftonline-sharepoint.online^
@@ -494,6 +505,7 @@
 ||moonstream-instagram-com.vercel.app^
 ||movistar-recaudo-epayc.com^
 ||mqklzsuh.coinbase-secured.com^
+||multimedia-penetration-gba-perry.trycloudflare.com^
 ||my-coinbase.vercel.app^
 ||my-kraken.com^
 ||my-spotify.app^
@@ -529,9 +541,7 @@
 ||ns1.az^
 ||o356.ee^
 ||oauthe-xfinity-comm.weebly.com^
-||ofartaa-944312.top^
 ||ofe.lol^
-||oferta-9514.sbs^
 ||office365licensingsupport.com^
 ||onedrive-live-shared-folder-attachment-microsoft365.com^
 ||onedrive.business^
@@ -569,13 +579,12 @@
 ||photos-instagram.vercel.app^
 ||phpmyadmin.coinbase-secured.com^
 ||pl-oferta9845654.shop^
-||pl-oqloszenie9318592960125512.sbs^
 ||platform-kraken.cc^
+||play-amazon.site^
 ||porrtal-stpmex.com^
 ||portall-stpmex.com^
 ||premio-instagram.com^
 ||prestamo-santander-cliente.vercel.app^
-||prime-atualizacaocadastral-amazon.top^
 ||procasmexico.com^
 ||profil-facebook-saya.blogspot.com^
 ||pspsp.sbs^
@@ -613,6 +622,7 @@
 ||send-secure-trustwallet-usdt-bip20.vercel.app^
 ||seurexpress.wpenginepowered.com^
 ||sexy-whatsapp.blogspot.com^
+||shslpskl.top^
 ||sk-facebook.blogspot.com^
 ||sklsklpss.top^
 ||skylar.web.id^
@@ -639,7 +649,6 @@
 ||support-apple.help^
 ||support-appleld.info^
 ||support-barclays-inc.info^
-||support-ledgrcom-start-web.typedream.app^
 ||support.zoom.us.trojan.d165.dpdns.org^
 ||support.zoom.us.vless.d165.dpdns.org^
 ||support24h.app^
@@ -656,9 +665,7 @@
 ||trackingnumbers.org^
 ||trezoorr--thego.gitbook.io^
 ||trezor-eo-startd.pages.dev^
-||trezor-login-us-auth-start.typedream.app^
 ||trezorguide.vercel.app^
-||trezoriowlte.gitbook.io^
 ||trezorsuite-app.gitbook.io^
 ||trezrhiwanlt.gitbook.io^
 ||tron-binance.cn^
@@ -742,6 +749,7 @@
 ||xfinitywebslogin.weebly.com^
 ||xucoxuqh.amazon-signin-update-payment-secure-verify-billing-mainsec.54-037-73-097.cpanel.site^
 ||yahoo888.xyz^
+||yahooinfo.coinbase-secured.com^
 ||yzz.me^
 ||z-facebook.blogspot.com^
 ||z-instagram.blogspot.com^
