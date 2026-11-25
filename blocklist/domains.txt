@@ -1,17 +1,16 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 754
-# Updated: 2026-11-25T08:23:49Z
+# Entries: 760
+# Updated: 2026-11-25T21:42:34Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
+0ferta73618.top
 1056804.com
-1920489-coinbase.com
 199281-coinbase.com
 2017-facebook.blogspot.com
 21839-coinbase.com
-2krn-kraken.com
 3177550-coinbase.com
 58733.sbs
 6710014.cc
@@ -22,6 +21,7 @@ acct-goog1e.com
 achiit.github.io
 acounts-google.duckdns.org
 adb-viewersv.com
+admin.coinbase-secured.com
 adobebasicsstore.shop
 adobefileviewer.dpdns.org
 adobeinstaller-virid.vercel.app
@@ -32,15 +32,14 @@ alibabamobaile.ir
 alibabasauce.com
 alibabatradeonline.com
 all-music-spotify-vnzx.netlify.app
-amazon-europe.club
 amazon-game-online.life
 amazon-harshdeep.vercel.app
 amazon-section-opal.vercel.app
+amazon-slots.buzz
 amazon-slots.digital
 amnesiacuracao.com
 anacms1.coinbase-secured.com
 apexrecoveryconsulting.com.glovonetwork.com
-app-facebook.blogspot.com
 app-trezor-starts.pages.dev
 app81-facebook.blogspot.com
 apple-cl0ud.com
@@ -54,14 +53,12 @@ attmail8566575.weebly.com
 auth-metamask.pages.dev
 autoconfig.glovonetwork.com
 avaturefed.net
-bamboohr.app
 bankofamerica-tx.com
 bankofamericatreasury.info
 barclaysea.com
 barclaysiportalfraudcentre.com
 bbvaexperiences.com
 bbvalues.uk
-beneficios-pj.com
 berbagi-facebook.blogspot.com
 beritanasional.eu.org
 beta-instagram.vercel.app
@@ -142,7 +139,6 @@ cpanel.login-microsoft-update-billing-online-secure-mainapp.20-14-89-105.cpanel.
 creyt.cl
 ct.ws
 daservglobal.com
-dbbdw.shop
 dbdbw.shop
 de-paypal-sec.com
 dhl-express-dev.firebaseapp.com
@@ -151,7 +147,6 @@ discoveryloft.com
 docs--trezr-css.gitbook.io
 docs-google.com
 dogsitters.ie
-domena788944.shop
 dothome.co.kr
 dow-nload-ledger-live--doc.typedream.app
 download-outlook.com
@@ -183,7 +178,7 @@ employmentlawyerlongisland.com
 en-ledgre.pages.dev
 en-trezor-suite-io.square.site
 en-whatsapp.com
-eofer234.sbs
+eofet623452.sbs
 es-netflix-dashboard.com
 eu-facebook.blogspot.com
 everythingturfpros.com
@@ -205,11 +200,13 @@ facebook-carol.blogspot.com
 facebook-cdn.blogspot.com
 facebook-channel.blogspot.com
 facebook-community.blogspot.com
+facebook-delta-three.vercel.app
 facebook-developers.blogspot.com
 facebook-do.blogspot.com
 facebook-esp.blogspot.com
 facebook-eu.blogspot.com
 facebook-fansdanssapage.blogspot.com
+facebook-fati.blogspot.com
 facebook-fb-com.blogspot.com
 facebook-five-gamma.vercel.app
 facebook-germany.blogspot.com
@@ -224,7 +221,6 @@ facebook-login-page.blogspot.com
 facebook-login-pages.blogspot.com
 facebook-login.vercel.app
 facebook-logo.blogspot.com
-facebook-meta-reels-1.pages.dev
 facebook-new-security.blogspot.com
 facebook-ng.blogspot.com
 facebook-notification.blogspot.com
@@ -285,7 +281,6 @@ fedexdelivery.pages.dev
 fedexinvoicedelivery.pages.dev
 fedexsv.com
 fifa-careerportal.com
-fifa-hiring.com
 foroshgahma.com
 forsakens-crew-teman-facebook.blogspot.com
 fotos-icloud.info
@@ -319,7 +314,6 @@ googleguestservices.com
 googlel0gin.netlify.app
 googlelikenadav.com
 googlelogos.com
-googlemeet-join.com
 googlenewsgh.com
 googleoa.com
 googleplaiby.com
@@ -336,6 +330,7 @@ hotmail-two.vercel.app
 hotmail666.com
 hsbc-sec.com
 hsbcnetcustomerchat.com
+hsbcorpfinancial.com
 hsbcprivatebanksupport.com
 icloud-finm.com
 icloud-id.rip
@@ -343,7 +338,6 @@ icloud-my.rip
 icloud-ny.rip
 icloudhelp.com
 icloudservice.nl
-id-hjjfk5as78jg.rest
 id-paypalservice.dev
 ideeo.mx
 info-eng-ledgerlive-learn.typedream.app
@@ -377,7 +371,6 @@ instagram-one-alpha.vercel.app
 instagram-open.blogspot.com
 instagram-register.blogspot.com
 instagram-services.com
-instagram-stories-facebook-1.pages.dev
 instagram-tip.blogspot.com
 instagram-zeta.vercel.app
 instagram030.github.io
@@ -414,10 +407,12 @@ itau-snowy.vercel.app
 itcserv.net
 jayaram0550.github.io
 jp-coinbase.com
+jrni.com
+kelissa.org
 klarnaplayes.shop
+kraken-24.net
 kraken-binance.cn
 kraken-exchange.help
-kraken-site.shop
 kraken-tor.co.com
 kuc0inlgin5.gitbook.io
 kucoin-referral-code-pt.vercel.app
@@ -440,9 +435,9 @@ ledgrr-start-info.gitbook.io
 ledgrr-strt-auth-io.square.site
 ledzer-live.square.site
 leia-santander.vercel.app
-letnie-okazj343653180.sbs
 live-ledgre.com
 livepackagetracking.com
+llaanidads.com
 lobster-cloud.com
 log-in-facebook.blogspot.com
 login-coinbase.net
@@ -468,7 +463,6 @@ mail.coinbase-secured.com
 mail.glovonetwork.com
 mail.manage-cashapp-accountinformation.165-154-255-254.cpanel.site
 manage-cashapp-accountinformation.165-154-255-254.cpanel.site
-maytheek.com
 mb-facebook.blogspot.com
 meet-googlee46347975696.pages.dev
 meet-googlee7563454656.pages.dev
@@ -485,16 +479,17 @@ metamaskdiuxtension.gitbook.io
 metamaskemailverification.com
 metamaskextensionnn.gitbook.io
 metamaskiologii.gitbook.io
+metamasksdiohrome.gitbook.io
 metamaskuxlogen.gitbook.io
 mi-santander.com
 microsoft-alerts.org
+microsoft-login-verify.online
 microsoft-online.gr
 microsoft-ssl.com
 microsoft-telemetry.at
 microsoft0117.vercel.app
 microsoft365businessbasic.com
 microsoft365updates.com
-microsoftcom-link.com
 microsofth.com
 microsoftjk.eu.org
 microsoftonline-sharepoint.online
@@ -513,13 +508,15 @@ mybluehost.me
 mylogin-microsoftonline.com
 mytemp.website
 neda-facebook.blogspot.com
+netflix-clon-eight-beta.vercel.app
+netflix-col.vercel.app
 netflix-coral-zeta.vercel.app
 netflix-dashboard-login.8-219-97-148.cpanel.site
 netflix-homepage-pi.vercel.app
+netflix-register.help
 netflix-signin-update-payment-secured-billing-mainapp.8-219-97-148.cpanel.site
 netflix-updateinfo.com
 netflix-updatepayment.com
-netflix-upgrade.com
 netflix-verification.fr
 netflix-web-site-three.vercel.app
 netflix.surf
@@ -541,6 +538,7 @@ noreply-icloud.app
 ns1.az
 o356.ee
 oauthe-xfinity-comm.weebly.com
+oauthe-xfinity.weebly.com
 ofe.lol
 office365licensingsupport.com
 onedrive-live-shared-folder-attachment-microsoft365.com
@@ -554,6 +552,7 @@ opensealogin1.blogspot.com
 openseaproks007.vercel.app
 openseavxr.vercel.app
 ossama-instagram.vercel.app
+outlook-8.onrender.com
 outlook-live365.github.io
 outlook-mailer.com
 outlook-notifications.com
@@ -578,14 +577,15 @@ perfectgiftchoice.life
 ph-whatsapp.com
 photos-instagram.vercel.app
 phpmyadmin.coinbase-secured.com
-pl-oferta9845654.shop
+pl-oferta809543.shop
+pl145.sbs
 platform-kraken.cc
 play-amazon.site
+playerportalhub.com
 porrtal-stpmex.com
 portall-stpmex.com
 premio-instagram.com
 prestamo-santander-cliente.vercel.app
-procasmexico.com
 profil-facebook-saya.blogspot.com
 pspsp.sbs
 r-facebook.blogspot.com
@@ -597,6 +597,7 @@ rev.it
 roblox.com.bo
 roblox.com.ee
 roblox.com.et
+roblox.com.gr
 roblox.com.kz
 roblox.com.pt
 roblox.com.ss
@@ -613,6 +614,7 @@ santander-inicio.vercel.app
 santanderarena.cl
 santandercitas.com
 saque-instagram.com
+schubert-kamphausen.de
 search.er.in
 seaxzh.cam
 secure-bridge-trezr-apps.typedream.app
@@ -626,6 +628,7 @@ shslpskl.top
 sk-facebook.blogspot.com
 sklsklpss.top
 skylar.web.id
+slplus.pro
 smallflyingarts.net
 snmxtehc.coinbase-secured.com
 spellapp.com
@@ -679,6 +682,8 @@ twitterbikeusahq.shop
 uniswap-binance.cn
 updata.net.cn
 uppdw.sbs
+us.cc
+us22zoom.us
 user.coinbase-secured.com
 usps-vmts.azurewebsites.net
 uspsaunitedworkforce.com
@@ -720,6 +725,7 @@ whatsappo-ten.vercel.app
 windows-ledger-live.typedream.app
 winnersvoyagetours.com
 wise-transfer.com
+wolfpackadventure.surf
 worldtk-whatsapp.com.cn
 ww-facebook.blogspot.com
 www.dashboard-netflix-en-us-verification.8-219-97-148.cpanel.site
