@@ -1,6 +1,6 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 760
-# Updated: 2026-11-25T21:42:34Z
+# Entries: 766
+# Updated: 2026-11-26T08:19:39Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
@@ -22,9 +22,9 @@ achiit.github.io
 acounts-google.duckdns.org
 adb-viewersv.com
 admin.coinbase-secured.com
-adobebasicsstore.shop
 adobefileviewer.dpdns.org
 adobeinstaller-virid.vercel.app
+adobepdf-online.lat
 agentforce.cc
 agiletechsolutionsinc.com
 alibaba99.com
@@ -50,6 +50,7 @@ ashy-moss-0bc074f03.5.azurestaticapps.net
 asso-entrautres.fr
 att-mail-com-110087.square.site
 attmail8566575.weebly.com
+aukcja136.shop
 auth-metamask.pages.dev
 autoconfig.glovonetwork.com
 avaturefed.net
@@ -280,7 +281,6 @@ facebookwebsite9.blogspot.com
 fedexdelivery.pages.dev
 fedexinvoicedelivery.pages.dev
 fedexsv.com
-fifa-careerportal.com
 foroshgahma.com
 forsakens-crew-teman-facebook.blogspot.com
 fotos-icloud.info
@@ -294,6 +294,7 @@ ggzh-google.com.cn
 glallegro.com
 gls-link.app
 goku8.workers.dev
+google-advertising.co.za
 google-alerter.com
 google-amazon-tesla.com
 google-amazon-ultraman.cc
@@ -336,6 +337,7 @@ icloud-finm.com
 icloud-id.rip
 icloud-my.rip
 icloud-ny.rip
+icloud.you
 icloudhelp.com
 icloudservice.nl
 id-paypalservice.dev
@@ -408,11 +410,9 @@ itcserv.net
 jayaram0550.github.io
 jp-coinbase.com
 jrni.com
-kelissa.org
 klarnaplayes.shop
 kraken-24.net
 kraken-binance.cn
-kraken-exchange.help
 kraken-tor.co.com
 kuc0inlgin5.gitbook.io
 kucoin-referral-code-pt.vercel.app
@@ -435,6 +435,7 @@ ledgrr-start-info.gitbook.io
 ledgrr-strt-auth-io.square.site
 ledzer-live.square.site
 leia-santander.vercel.app
+letnie-okazj343653181.sbs
 live-ledgre.com
 livepackagetracking.com
 llaanidads.com
@@ -483,7 +484,6 @@ metamasksdiohrome.gitbook.io
 metamaskuxlogen.gitbook.io
 mi-santander.com
 microsoft-alerts.org
-microsoft-login-verify.online
 microsoft-online.gr
 microsoft-ssl.com
 microsoft-telemetry.at
@@ -540,6 +540,7 @@ o356.ee
 oauthe-xfinity-comm.weebly.com
 oauthe-xfinity.weebly.com
 ofe.lol
+oferta-7281.sbs
 office365licensingsupport.com
 onedrive-live-shared-folder-attachment-microsoft365.com
 onedrive.business
@@ -577,7 +578,11 @@ perfectgiftchoice.life
 ph-whatsapp.com
 photos-instagram.vercel.app
 phpmyadmin.coinbase-secured.com
+pl-of1cjalnie848284781.sbs
+pl-oferta49329.sbs
+pl-oferta5733.shop
 pl-oferta809543.shop
+pl-ogloszezenie91824.shop
 pl145.sbs
 platform-kraken.cc
 play-amazon.site
@@ -628,7 +633,6 @@ shslpskl.top
 sk-facebook.blogspot.com
 sklsklpss.top
 skylar.web.id
-slplus.pro
 smallflyingarts.net
 snmxtehc.coinbase-secured.com
 spellapp.com
@@ -657,6 +661,7 @@ support.zoom.us.vless.d165.dpdns.org
 support24h.app
 swift-hsbc.com
 syracusehousepainters.com
+szybkie-zakupy-aukcja23029.top
 t4-kraken.com
 tamil.bid
 tara-facebook.blogspot.com
@@ -715,7 +720,6 @@ wellsfargobanking.app
 whatsapp-dp-images.in
 whatsapp-fast.vercel.app
 whatsapp-iamsuyash.vercel.app
-whatsapp-pc.com.cn
 whatsapp-verify.blogspot.com
 whatsapp11-cnj.pages.dev
 whatsappapk.org
@@ -752,6 +756,8 @@ xfinityecure.weebly.com
 xfinityinfoltdorgltd.weebly.com
 xfinityloggingin.weebly.com
 xfinitymailogs.weebly.com
+xfinityteamhelper.weebly.com
+xfinityteamlogin.weebly.com
 xfinitywebslogin.weebly.com
 xucoxuqh.amazon-signin-update-payment-secure-verify-billing-mainsec.54-037-73-097.cpanel.site
 yahoo888.xyz

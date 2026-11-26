@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 760
-# Updated: 2026-11-25T21:42:35Z
+# Entries: 766
+# Updated: 2026-11-26T08:19:40Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -22,9 +22,9 @@
 0.0.0.0 acounts-google.duckdns.org
 0.0.0.0 adb-viewersv.com
 0.0.0.0 admin.coinbase-secured.com
-0.0.0.0 adobebasicsstore.shop
 0.0.0.0 adobefileviewer.dpdns.org
 0.0.0.0 adobeinstaller-virid.vercel.app
+0.0.0.0 adobepdf-online.lat
 0.0.0.0 agentforce.cc
 0.0.0.0 agiletechsolutionsinc.com
 0.0.0.0 alibaba99.com
@@ -50,6 +50,7 @@
 0.0.0.0 asso-entrautres.fr
 0.0.0.0 att-mail-com-110087.square.site
 0.0.0.0 attmail8566575.weebly.com
+0.0.0.0 aukcja136.shop
 0.0.0.0 auth-metamask.pages.dev
 0.0.0.0 autoconfig.glovonetwork.com
 0.0.0.0 avaturefed.net
@@ -280,7 +281,6 @@
 0.0.0.0 fedexdelivery.pages.dev
 0.0.0.0 fedexinvoicedelivery.pages.dev
 0.0.0.0 fedexsv.com
-0.0.0.0 fifa-careerportal.com
 0.0.0.0 foroshgahma.com
 0.0.0.0 forsakens-crew-teman-facebook.blogspot.com
 0.0.0.0 fotos-icloud.info
@@ -294,6 +294,7 @@
 0.0.0.0 glallegro.com
 0.0.0.0 gls-link.app
 0.0.0.0 goku8.workers.dev
+0.0.0.0 google-advertising.co.za
 0.0.0.0 google-alerter.com
 0.0.0.0 google-amazon-tesla.com
 0.0.0.0 google-amazon-ultraman.cc
@@ -336,6 +337,7 @@
 0.0.0.0 icloud-id.rip
 0.0.0.0 icloud-my.rip
 0.0.0.0 icloud-ny.rip
+0.0.0.0 icloud.you
 0.0.0.0 icloudhelp.com
 0.0.0.0 icloudservice.nl
 0.0.0.0 id-paypalservice.dev
@@ -408,11 +410,9 @@
 0.0.0.0 jayaram0550.github.io
 0.0.0.0 jp-coinbase.com
 0.0.0.0 jrni.com
-0.0.0.0 kelissa.org
 0.0.0.0 klarnaplayes.shop
 0.0.0.0 kraken-24.net
 0.0.0.0 kraken-binance.cn
-0.0.0.0 kraken-exchange.help
 0.0.0.0 kraken-tor.co.com
 0.0.0.0 kuc0inlgin5.gitbook.io
 0.0.0.0 kucoin-referral-code-pt.vercel.app
@@ -435,6 +435,7 @@
 0.0.0.0 ledgrr-strt-auth-io.square.site
 0.0.0.0 ledzer-live.square.site
 0.0.0.0 leia-santander.vercel.app
+0.0.0.0 letnie-okazj343653181.sbs
 0.0.0.0 live-ledgre.com
 0.0.0.0 livepackagetracking.com
 0.0.0.0 llaanidads.com
@@ -483,7 +484,6 @@
 0.0.0.0 metamaskuxlogen.gitbook.io
 0.0.0.0 mi-santander.com
 0.0.0.0 microsoft-alerts.org
-0.0.0.0 microsoft-login-verify.online
 0.0.0.0 microsoft-online.gr
 0.0.0.0 microsoft-ssl.com
 0.0.0.0 microsoft-telemetry.at
@@ -540,6 +540,7 @@
 0.0.0.0 oauthe-xfinity-comm.weebly.com
 0.0.0.0 oauthe-xfinity.weebly.com
 0.0.0.0 ofe.lol
+0.0.0.0 oferta-7281.sbs
 0.0.0.0 office365licensingsupport.com
 0.0.0.0 onedrive-live-shared-folder-attachment-microsoft365.com
 0.0.0.0 onedrive.business
@@ -577,7 +578,11 @@
 0.0.0.0 ph-whatsapp.com
 0.0.0.0 photos-instagram.vercel.app
 0.0.0.0 phpmyadmin.coinbase-secured.com
+0.0.0.0 pl-of1cjalnie848284781.sbs
+0.0.0.0 pl-oferta49329.sbs
+0.0.0.0 pl-oferta5733.shop
 0.0.0.0 pl-oferta809543.shop
+0.0.0.0 pl-ogloszezenie91824.shop
 0.0.0.0 pl145.sbs
 0.0.0.0 platform-kraken.cc
 0.0.0.0 play-amazon.site
@@ -628,7 +633,6 @@
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 sklsklpss.top
 0.0.0.0 skylar.web.id
-0.0.0.0 slplus.pro
 0.0.0.0 smallflyingarts.net
 0.0.0.0 snmxtehc.coinbase-secured.com
 0.0.0.0 spellapp.com
@@ -657,6 +661,7 @@
 0.0.0.0 support24h.app
 0.0.0.0 swift-hsbc.com
 0.0.0.0 syracusehousepainters.com
+0.0.0.0 szybkie-zakupy-aukcja23029.top
 0.0.0.0 t4-kraken.com
 0.0.0.0 tamil.bid
 0.0.0.0 tara-facebook.blogspot.com
@@ -715,7 +720,6 @@
 0.0.0.0 whatsapp-dp-images.in
 0.0.0.0 whatsapp-fast.vercel.app
 0.0.0.0 whatsapp-iamsuyash.vercel.app
-0.0.0.0 whatsapp-pc.com.cn
 0.0.0.0 whatsapp-verify.blogspot.com
 0.0.0.0 whatsapp11-cnj.pages.dev
 0.0.0.0 whatsappapk.org
@@ -752,6 +756,8 @@
 0.0.0.0 xfinityinfoltdorgltd.weebly.com
 0.0.0.0 xfinityloggingin.weebly.com
 0.0.0.0 xfinitymailogs.weebly.com
+0.0.0.0 xfinityteamhelper.weebly.com
+0.0.0.0 xfinityteamlogin.weebly.com
 0.0.0.0 xfinitywebslogin.weebly.com
 0.0.0.0 xucoxuqh.amazon-signin-update-payment-secure-verify-billing-mainsec.54-037-73-097.cpanel.site
 0.0.0.0 yahoo888.xyz
