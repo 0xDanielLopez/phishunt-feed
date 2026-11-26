@@ -1,16 +1,15 @@
 # phishunt.io blocklist - plain domain list (Pi-hole compatible)
-# Entries: 766
-# Updated: 2026-11-26T08:19:39Z
+# Entries: 756
+# Updated: 2026-11-26T21:31:43Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/domains.txt
 # https://phishunt.io
 # Community-reported phishing domains. Use at your own risk.
 
-0ferta73618.top
 1056804.com
+19349144-coinbase.com
 199281-coinbase.com
 2017-facebook.blogspot.com
-21839-coinbase.com
 3177550-coinbase.com
 58733.sbs
 6710014.cc
@@ -24,7 +23,6 @@ adb-viewersv.com
 admin.coinbase-secured.com
 adobefileviewer.dpdns.org
 adobeinstaller-virid.vercel.app
-adobepdf-online.lat
 agentforce.cc
 agiletechsolutionsinc.com
 alibaba99.com
@@ -50,8 +48,6 @@ ashy-moss-0bc074f03.5.azurestaticapps.net
 asso-entrautres.fr
 att-mail-com-110087.square.site
 attmail8566575.weebly.com
-aukcja136.shop
-auth-metamask.pages.dev
 autoconfig.glovonetwork.com
 avaturefed.net
 bankofamerica-tx.com
@@ -79,7 +75,6 @@ binanceokc.com
 binancereferralid.github.io
 binanceuz.co
 binancewallett.blogspot.com
-biowikiweb.com
 bnext.es
 boost-coinbase-verify.web.app
 bradesco-conviteprincipal.com
@@ -97,7 +92,7 @@ brasil-facebook.blogspot.com
 bridge-trezr-io-sso.square.site
 buscarmi-icloud.app
 bybit-binance.com.cn
-cash-app-en.com
+c67b0c24-27dd-4c22-88d1-d2616db49038.coinbase-secured.com
 cashapp-account-recovery-verify.165-154-255-254.cpanel.site
 cashapp-account-security-check.165-154-255-254.cpanel.site
 cashapp-liart.vercel.app
@@ -113,6 +108,7 @@ citrix-secure-access.com
 click-facebook.blogspot.com
 cn-fedex.com
 coinbase-advanced-trial.pages.dev
+coinbase-backup.com
 coinbase-connetct.vercel.app
 coinbase-invest.com
 coinbase-login-usa.com
@@ -125,10 +121,8 @@ coinbaseplogininin.gitbook.io
 coinbaseprotect.com
 coinbasevip2012.net
 com-2fa.vip
-com-gpt.vip
 com-info.vip
 com-microsoftonline-ondrive.ca
-com-ok.vip
 comcastupdate1b.weebly.com
 comtqnxbwrc.coinbase-secured.com
 comunamazon.org
@@ -136,11 +130,9 @@ comwtsfiopg.coinbase-secured.com
 correosicri.cc
 correosncr.cc
 cpanel.glovonetwork.com
-cpanel.login-microsoft-update-billing-online-secure-mainapp.20-14-89-105.cpanel.site
 creyt.cl
 ct.ws
 daservglobal.com
-dbdbw.shop
 de-paypal-sec.com
 dhl-express-dev.firebaseapp.com
 dir.com.my
@@ -179,7 +171,6 @@ employmentlawyerlongisland.com
 en-ledgre.pages.dev
 en-trezor-suite-io.square.site
 en-whatsapp.com
-eofet623452.sbs
 es-netflix-dashboard.com
 eu-facebook.blogspot.com
 everythingturfpros.com
@@ -269,7 +260,9 @@ facebookloginpage2.blogspot.com
 facebookloginpage2025.blogspot.com
 facebookloginreview.blogspot.com
 facebookloginsignub.blogspot.com
+facebookloginss.blogspot.com
 facebookloginuser.blogspot.com
+facebookpage-noreplycenter.com
 facebookpagemanagement.com
 facebookpageslinkk.blogspot.com
 facebooksecurityhelp.blogspot.com
@@ -308,6 +301,8 @@ google1308.com
 google56.cn
 googleapps.lk
 googlecontacts.email
+googlee.gd.cn
+googlee.sc.cn
 googleepkay.com
 googleeptay.com
 googleepway.com
@@ -322,6 +317,7 @@ googleplaydown.com
 googleplsky.com
 googlerelayinbox.blogspot.com
 googlesupportt.netlify.app
+granometrics.io
 gruposuplidores.com
 hashnode.dev
 help-docs-metamask.gitbook.io
@@ -345,13 +341,8 @@ ideeo.mx
 info-eng-ledgerlive-learn.typedream.app
 info-facebook.blogspot.com
 ingdirect-accesoweb-login.com
-ingdirect-clienteweb-login.com
-ingdirect-gestionservicio.com
 ingdirect-iniciosoporte.com
-ingdirect-plataforma-clientes.com
 ingdirect-portal-ingreso.com
-ingdirect-servicios-clientes.com
-ingdirect-usuario-login.com
 iniciamazon.com.br
 instagram-2-blond.vercel.app
 instagram-baittouts-login.blogspot.com
@@ -410,6 +401,7 @@ itcserv.net
 jayaram0550.github.io
 jp-coinbase.com
 jrni.com
+kinoloft.de
 klarnaplayes.shop
 kraken-24.net
 kraken-binance.cn
@@ -435,10 +427,8 @@ ledgrr-start-info.gitbook.io
 ledgrr-strt-auth-io.square.site
 ledzer-live.square.site
 leia-santander.vercel.app
-letnie-okazj343653181.sbs
 live-ledgre.com
 livepackagetracking.com
-llaanidads.com
 lobster-cloud.com
 log-in-facebook.blogspot.com
 login-coinbase.net
@@ -471,11 +461,11 @@ meet-googlee7823629056.pages.dev
 meraksoul.com
 metamask-ai-agent.vercel.app
 metamask-connect.vercel.app
-metamask-launchpad.vercel.app
 metamask-login.vercel.app
 metamask-six.vercel.app
 metamask-wallet.vercel.app
 metamask-web.vercel.app
+metamask173.blogspot.com
 metamaskdiuxtension.gitbook.io
 metamaskemailverification.com
 metamaskextensionnn.gitbook.io
@@ -523,7 +513,6 @@ netflix.surf
 netflix6.com
 netflixa.shop
 netflixbymanoj.vercel.app
-netflixcol.vercel.app
 netflixfeitoaqui.com.br
 netflixinyourneighborhoodnm.com
 netflixmedia.com
@@ -578,19 +567,16 @@ perfectgiftchoice.life
 ph-whatsapp.com
 photos-instagram.vercel.app
 phpmyadmin.coinbase-secured.com
+pl-8752123.cfd
 pl-of1cjalnie848284781.sbs
-pl-oferta49329.sbs
 pl-oferta5733.shop
-pl-oferta809543.shop
-pl-ogloszezenie91824.shop
-pl145.sbs
 platform-kraken.cc
 play-amazon.site
-playerportalhub.com
 porrtal-stpmex.com
 portall-stpmex.com
 premio-instagram.com
 prestamo-santander-cliente.vercel.app
+prod24.top
 profil-facebook-saya.blogspot.com
 pspsp.sbs
 r-facebook.blogspot.com
@@ -630,6 +616,7 @@ send-secure-trustwallet-usdt-bip20.vercel.app
 seurexpress.wpenginepowered.com
 sexy-whatsapp.blogspot.com
 shslpskl.top
+sigmundbaron255mlg3.workers.dev
 sk-facebook.blogspot.com
 sklsklpss.top
 skylar.web.id
@@ -660,8 +647,8 @@ support.zoom.us.trojan.d165.dpdns.org
 support.zoom.us.vless.d165.dpdns.org
 support24h.app
 swift-hsbc.com
+swswss.shop
 syracusehousepainters.com
-szybkie-zakupy-aukcja23029.top
 t4-kraken.com
 tamil.bid
 tara-facebook.blogspot.com
@@ -670,6 +657,7 @@ telar.cl
 temporary.site
 theamazon.vercel.app
 therelayservice.com
+tk-binance.cn
 trackingnumbers.org
 trezoorr--thego.gitbook.io
 trezor-eo-startd.pages.dev
@@ -688,8 +676,9 @@ uniswap-binance.cn
 updata.net.cn
 uppdw.sbs
 us.cc
-us22zoom.us
+us23zoom.us
 user.coinbase-secured.com
+usps-orders.com
 usps-vmts.azurewebsites.net
 uspsaunitedworkforce.com
 uspss.pages.dev
@@ -707,7 +696,6 @@ viewpackagetracking.com
 vodafone-admin-app.netlify.app
 vodafone-business-berlin.de
 vodafone-business-berlin.store
-vodafone-on-line.it
 vpnuse.eu.org
 w1-whatsapp.com.cn
 wasmer.app
@@ -760,6 +748,8 @@ xfinityteamhelper.weebly.com
 xfinityteamlogin.weebly.com
 xfinitywebslogin.weebly.com
 xucoxuqh.amazon-signin-update-payment-secure-verify-billing-mainsec.54-037-73-097.cpanel.site
+yahoo-9game.com.cn
+yahoo-c7entertainment.com.cn
 yahoo888.xyz
 yahooinfo.coinbase-secured.com
 yzz.me
