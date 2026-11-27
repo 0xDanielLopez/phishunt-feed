@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 756
-! Updated: 2026-11-26T21:32:52Z
+! Entries: 771
+! Updated: 2026-11-27T08:35:16Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -14,8 +14,11 @@
 ||58733.sbs^
 ||6710014.cc^
 ||822312-coinbase.com^
+||931831317221828222.sbs^
 ||a2zapk.co^
 ||a2zapk.dev^
+||a3.coinbase-secured.com^
+||account-netflix.top^
 ||acct-goog1e.com^
 ||achiit.github.io^
 ||acounts-google.duckdns.org^
@@ -37,6 +40,7 @@
 ||amazon-slots.digital^
 ||amnesiacuracao.com^
 ||anacms1.coinbase-secured.com^
+||antimoney-laundering.org^
 ||apexrecoveryconsulting.com.glovonetwork.com^
 ||app-trezor-starts.pages.dev^
 ||app81-facebook.blogspot.com^
@@ -123,6 +127,7 @@
 ||com-2fa.vip^
 ||com-info.vip^
 ||com-microsoftonline-ondrive.ca^
+||coma3.coinbase-secured.com^
 ||comcastupdate1b.weebly.com^
 ||comtqnxbwrc.coinbase-secured.com^
 ||comunamazon.org^
@@ -171,9 +176,8 @@
 ||en-ledgre.pages.dev^
 ||en-trezor-suite-io.square.site^
 ||en-whatsapp.com^
-||es-netflix-dashboard.com^
 ||eu-facebook.blogspot.com^
-||everythingturfpros.com^
+||eventshouse.app^
 ||exclusive-openseamints.vercel.app^
 ||exodus-web3-saport.square.site^
 ||exoduswallethelpcenter.vercel.app^
@@ -304,6 +308,7 @@
 ||googlee.gd.cn^
 ||googlee.sc.cn^
 ||googleepkay.com^
+||googleeppay.com^
 ||googleeptay.com^
 ||googleepway.com^
 ||googleguestservices.com^
@@ -329,6 +334,7 @@
 ||hsbcnetcustomerchat.com^
 ||hsbcorpfinancial.com^
 ||hsbcprivatebanksupport.com^
+||icloud-apple.co^
 ||icloud-finm.com^
 ||icloud-id.rip^
 ||icloud-my.rip^
@@ -337,11 +343,11 @@
 ||icloudhelp.com^
 ||icloudservice.nl^
 ||id-paypalservice.dev^
+||id53455.shop^
 ||ideeo.mx^
 ||info-eng-ledgerlive-learn.typedream.app^
 ||info-facebook.blogspot.com^
 ||ingdirect-accesoweb-login.com^
-||ingdirect-iniciosoporte.com^
 ||ingdirect-portal-ingreso.com^
 ||iniciamazon.com.br^
 ||instagram-2-blond.vercel.app^
@@ -399,6 +405,8 @@
 ||itau-snowy.vercel.app^
 ||itcserv.net^
 ||jayaram0550.github.io^
+||jfdaily.sbs^
+||join-my-group-whatsapp-ewm.pages.dev^
 ||jp-coinbase.com^
 ||jrni.com^
 ||kinoloft.de^
@@ -419,6 +427,7 @@
 ||kucoinrewards.blogspot.com^
 ||kucoinspro.com^
 ||kucoinus.my^
+||kzxysgitlab.coinbase-secured.com^
 ||ld-icloud.com^
 ||ld-icloud.info^
 ||ledger-live-download-sso-conect.typedream.app^
@@ -439,7 +448,6 @@
 ||login-xfinitysimple.weebly.com^
 ||login.coinbase-secured.com^
 ||lovefive-facebook.blogspot.com^
-||lunarvelvetshell.org^
 ||ly-facebook.blogspot.com^
 ||m-microsoft.com^
 ||m.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-125-38.cpanel.site^
@@ -498,12 +506,14 @@
 ||mylogin-microsoftonline.com^
 ||mytemp.website^
 ||neda-facebook.blogspot.com^
+||netflix-bobby.web.app^
 ||netflix-clon-eight-beta.vercel.app^
 ||netflix-col.vercel.app^
 ||netflix-coral-zeta.vercel.app^
 ||netflix-dashboard-login.8-219-97-148.cpanel.site^
 ||netflix-homepage-pi.vercel.app^
 ||netflix-register.help^
+||netflix-seven-rose.vercel.app^
 ||netflix-signin-update-payment-secured-billing-mainapp.8-219-97-148.cpanel.site^
 ||netflix-updateinfo.com^
 ||netflix-updatepayment.com^
@@ -567,11 +577,11 @@
 ||ph-whatsapp.com^
 ||photos-instagram.vercel.app^
 ||phpmyadmin.coinbase-secured.com^
-||pl-8752123.cfd^
-||pl-of1cjalnie848284781.sbs^
 ||pl-oferta5733.shop^
+||pl-oferta842165.cfd^
 ||platform-kraken.cc^
 ||play-amazon.site^
+||plszybkie-zakupy-aukcja230.top^
 ||porrtal-stpmex.com^
 ||portall-stpmex.com^
 ||premio-instagram.com^
@@ -602,10 +612,12 @@
 ||santander-comprovante-r7kqtg9ycnkpzgxvzk.duckdns.org^
 ||santander-dev-week.vercel.app^
 ||santander-inicio.vercel.app^
+||santander-revogar.com^
 ||santanderarena.cl^
 ||santandercitas.com^
 ||saque-instagram.com^
 ||schubert-kamphausen.de^
+||sdspds.sbs^
 ||search.er.in^
 ||seaxzh.cam^
 ||secure-bridge-trezr-apps.typedream.app^
@@ -616,7 +628,6 @@
 ||seurexpress.wpenginepowered.com^
 ||sexy-whatsapp.blogspot.com^
 ||shslpskl.top^
-||sigmundbaron255mlg3.workers.dev^
 ||sk-facebook.blogspot.com^
 ||sklsklpss.top^
 ||skylar.web.id^
@@ -637,6 +648,7 @@
 ||steamcommunity.blog^
 ||steamcommunity.ing^
 ||steuerquimica.cl^
+||stockstar.sbs^
 ||sue-wellsfargo.com^
 ||sugar-outlook.com^
 ||suite-app-docs-trezr.typedream.app^
@@ -658,7 +670,9 @@
 ||theamazon.vercel.app^
 ||therelayservice.com^
 ||tk-binance.cn^
+||tqnxbwrc.coinbase-secured.com^
 ||trackingnumbers.org^
+||trezo-io-helpe.pages.dev^
 ||trezoorr--thego.gitbook.io^
 ||trezor-eo-startd.pages.dev^
 ||trezorguide.vercel.app^
@@ -668,6 +682,7 @@
 ||truegamefishing.com^
 ||trust-wallet-omega.vercel.app^
 ||trustwallet-helpcenter.vercel.app^
+||trustwallet-ownership.net^
 ||trustwallet-tokentwtowner.vercel.app^
 ||trustwalletindia-beta.vercel.app^
 ||tunishopia.tn^
@@ -689,7 +704,6 @@
 ||v1-coinbase.com^
 ||venditoriamazon.com^
 ||verify-google-app.netlify.app^
-||verifyaccount-google.com^
 ||verifytoken.com^
 ||viewclass.com^
 ||viewpackagetracking.com^
@@ -752,6 +766,7 @@
 ||yahoo-c7entertainment.com.cn^
 ||yahoo888.xyz^
 ||yahooinfo.coinbase-secured.com^
+||yuwenmi.sbs^
 ||yzz.me^
 ||z-facebook.blogspot.com^
 ||z-instagram.blogspot.com^

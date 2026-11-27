@@ -1,6 +1,6 @@
 # phishunt.io blocklist - hosts file format
-# Entries: 756
-# Updated: 2026-11-26T21:32:52Z
+# Entries: 771
+# Updated: 2026-11-27T08:35:16Z
 # License: CC0 1.0
 # Source: https://phishunt.io/blocklist/hosts.txt
 # https://phishunt.io
@@ -14,8 +14,11 @@
 0.0.0.0 58733.sbs
 0.0.0.0 6710014.cc
 0.0.0.0 822312-coinbase.com
+0.0.0.0 931831317221828222.sbs
 0.0.0.0 a2zapk.co
 0.0.0.0 a2zapk.dev
+0.0.0.0 a3.coinbase-secured.com
+0.0.0.0 account-netflix.top
 0.0.0.0 acct-goog1e.com
 0.0.0.0 achiit.github.io
 0.0.0.0 acounts-google.duckdns.org
@@ -37,6 +40,7 @@
 0.0.0.0 amazon-slots.digital
 0.0.0.0 amnesiacuracao.com
 0.0.0.0 anacms1.coinbase-secured.com
+0.0.0.0 antimoney-laundering.org
 0.0.0.0 apexrecoveryconsulting.com.glovonetwork.com
 0.0.0.0 app-trezor-starts.pages.dev
 0.0.0.0 app81-facebook.blogspot.com
@@ -123,6 +127,7 @@
 0.0.0.0 com-2fa.vip
 0.0.0.0 com-info.vip
 0.0.0.0 com-microsoftonline-ondrive.ca
+0.0.0.0 coma3.coinbase-secured.com
 0.0.0.0 comcastupdate1b.weebly.com
 0.0.0.0 comtqnxbwrc.coinbase-secured.com
 0.0.0.0 comunamazon.org
@@ -171,9 +176,8 @@
 0.0.0.0 en-ledgre.pages.dev
 0.0.0.0 en-trezor-suite-io.square.site
 0.0.0.0 en-whatsapp.com
-0.0.0.0 es-netflix-dashboard.com
 0.0.0.0 eu-facebook.blogspot.com
-0.0.0.0 everythingturfpros.com
+0.0.0.0 eventshouse.app
 0.0.0.0 exclusive-openseamints.vercel.app
 0.0.0.0 exodus-web3-saport.square.site
 0.0.0.0 exoduswallethelpcenter.vercel.app
@@ -304,6 +308,7 @@
 0.0.0.0 googlee.gd.cn
 0.0.0.0 googlee.sc.cn
 0.0.0.0 googleepkay.com
+0.0.0.0 googleeppay.com
 0.0.0.0 googleeptay.com
 0.0.0.0 googleepway.com
 0.0.0.0 googleguestservices.com
@@ -329,6 +334,7 @@
 0.0.0.0 hsbcnetcustomerchat.com
 0.0.0.0 hsbcorpfinancial.com
 0.0.0.0 hsbcprivatebanksupport.com
+0.0.0.0 icloud-apple.co
 0.0.0.0 icloud-finm.com
 0.0.0.0 icloud-id.rip
 0.0.0.0 icloud-my.rip
@@ -337,11 +343,11 @@
 0.0.0.0 icloudhelp.com
 0.0.0.0 icloudservice.nl
 0.0.0.0 id-paypalservice.dev
+0.0.0.0 id53455.shop
 0.0.0.0 ideeo.mx
 0.0.0.0 info-eng-ledgerlive-learn.typedream.app
 0.0.0.0 info-facebook.blogspot.com
 0.0.0.0 ingdirect-accesoweb-login.com
-0.0.0.0 ingdirect-iniciosoporte.com
 0.0.0.0 ingdirect-portal-ingreso.com
 0.0.0.0 iniciamazon.com.br
 0.0.0.0 instagram-2-blond.vercel.app
@@ -399,6 +405,8 @@
 0.0.0.0 itau-snowy.vercel.app
 0.0.0.0 itcserv.net
 0.0.0.0 jayaram0550.github.io
+0.0.0.0 jfdaily.sbs
+0.0.0.0 join-my-group-whatsapp-ewm.pages.dev
 0.0.0.0 jp-coinbase.com
 0.0.0.0 jrni.com
 0.0.0.0 kinoloft.de
@@ -419,6 +427,7 @@
 0.0.0.0 kucoinrewards.blogspot.com
 0.0.0.0 kucoinspro.com
 0.0.0.0 kucoinus.my
+0.0.0.0 kzxysgitlab.coinbase-secured.com
 0.0.0.0 ld-icloud.com
 0.0.0.0 ld-icloud.info
 0.0.0.0 ledger-live-download-sso-conect.typedream.app
@@ -439,7 +448,6 @@
 0.0.0.0 login-xfinitysimple.weebly.com
 0.0.0.0 login.coinbase-secured.com
 0.0.0.0 lovefive-facebook.blogspot.com
-0.0.0.0 lunarvelvetshell.org
 0.0.0.0 ly-facebook.blogspot.com
 0.0.0.0 m-microsoft.com
 0.0.0.0 m.www.znzfgdld.login.microsoftonline-billing-verification-secured-help.51-254-125-38.cpanel.site
@@ -498,12 +506,14 @@
 0.0.0.0 mylogin-microsoftonline.com
 0.0.0.0 mytemp.website
 0.0.0.0 neda-facebook.blogspot.com
+0.0.0.0 netflix-bobby.web.app
 0.0.0.0 netflix-clon-eight-beta.vercel.app
 0.0.0.0 netflix-col.vercel.app
 0.0.0.0 netflix-coral-zeta.vercel.app
 0.0.0.0 netflix-dashboard-login.8-219-97-148.cpanel.site
 0.0.0.0 netflix-homepage-pi.vercel.app
 0.0.0.0 netflix-register.help
+0.0.0.0 netflix-seven-rose.vercel.app
 0.0.0.0 netflix-signin-update-payment-secured-billing-mainapp.8-219-97-148.cpanel.site
 0.0.0.0 netflix-updateinfo.com
 0.0.0.0 netflix-updatepayment.com
@@ -567,11 +577,11 @@
 0.0.0.0 ph-whatsapp.com
 0.0.0.0 photos-instagram.vercel.app
 0.0.0.0 phpmyadmin.coinbase-secured.com
-0.0.0.0 pl-8752123.cfd
-0.0.0.0 pl-of1cjalnie848284781.sbs
 0.0.0.0 pl-oferta5733.shop
+0.0.0.0 pl-oferta842165.cfd
 0.0.0.0 platform-kraken.cc
 0.0.0.0 play-amazon.site
+0.0.0.0 plszybkie-zakupy-aukcja230.top
 0.0.0.0 porrtal-stpmex.com
 0.0.0.0 portall-stpmex.com
 0.0.0.0 premio-instagram.com
@@ -602,10 +612,12 @@
 0.0.0.0 santander-comprovante-r7kqtg9ycnkpzgxvzk.duckdns.org
 0.0.0.0 santander-dev-week.vercel.app
 0.0.0.0 santander-inicio.vercel.app
+0.0.0.0 santander-revogar.com
 0.0.0.0 santanderarena.cl
 0.0.0.0 santandercitas.com
 0.0.0.0 saque-instagram.com
 0.0.0.0 schubert-kamphausen.de
+0.0.0.0 sdspds.sbs
 0.0.0.0 search.er.in
 0.0.0.0 seaxzh.cam
 0.0.0.0 secure-bridge-trezr-apps.typedream.app
@@ -616,7 +628,6 @@
 0.0.0.0 seurexpress.wpenginepowered.com
 0.0.0.0 sexy-whatsapp.blogspot.com
 0.0.0.0 shslpskl.top
-0.0.0.0 sigmundbaron255mlg3.workers.dev
 0.0.0.0 sk-facebook.blogspot.com
 0.0.0.0 sklsklpss.top
 0.0.0.0 skylar.web.id
@@ -637,6 +648,7 @@
 0.0.0.0 steamcommunity.blog
 0.0.0.0 steamcommunity.ing
 0.0.0.0 steuerquimica.cl
+0.0.0.0 stockstar.sbs
 0.0.0.0 sue-wellsfargo.com
 0.0.0.0 sugar-outlook.com
 0.0.0.0 suite-app-docs-trezr.typedream.app
@@ -658,7 +670,9 @@
 0.0.0.0 theamazon.vercel.app
 0.0.0.0 therelayservice.com
 0.0.0.0 tk-binance.cn
+0.0.0.0 tqnxbwrc.coinbase-secured.com
 0.0.0.0 trackingnumbers.org
+0.0.0.0 trezo-io-helpe.pages.dev
 0.0.0.0 trezoorr--thego.gitbook.io
 0.0.0.0 trezor-eo-startd.pages.dev
 0.0.0.0 trezorguide.vercel.app
@@ -668,6 +682,7 @@
 0.0.0.0 truegamefishing.com
 0.0.0.0 trust-wallet-omega.vercel.app
 0.0.0.0 trustwallet-helpcenter.vercel.app
+0.0.0.0 trustwallet-ownership.net
 0.0.0.0 trustwallet-tokentwtowner.vercel.app
 0.0.0.0 trustwalletindia-beta.vercel.app
 0.0.0.0 tunishopia.tn
@@ -689,7 +704,6 @@
 0.0.0.0 v1-coinbase.com
 0.0.0.0 venditoriamazon.com
 0.0.0.0 verify-google-app.netlify.app
-0.0.0.0 verifyaccount-google.com
 0.0.0.0 verifytoken.com
 0.0.0.0 viewclass.com
 0.0.0.0 viewpackagetracking.com
@@ -752,6 +766,7 @@
 0.0.0.0 yahoo-c7entertainment.com.cn
 0.0.0.0 yahoo888.xyz
 0.0.0.0 yahooinfo.coinbase-secured.com
+0.0.0.0 yuwenmi.sbs
 0.0.0.0 yzz.me
 0.0.0.0 z-facebook.blogspot.com
 0.0.0.0 z-instagram.blogspot.com
