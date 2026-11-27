@@ -1,6 +1,6 @@
 ! phishunt.io blocklist - uBlock Origin / AdGuard filter list
-! Entries: 771
-! Updated: 2026-11-27T08:35:16Z
+! Entries: 782
+! Updated: 2026-11-27T21:18:02Z
 ! License: CC0 1.0
 ! Source: https://phishunt.io/blocklist/adblock.txt
 ! https://phishunt.io
@@ -14,16 +14,15 @@
 ||58733.sbs^
 ||6710014.cc^
 ||822312-coinbase.com^
-||931831317221828222.sbs^
 ||a2zapk.co^
 ||a2zapk.dev^
 ||a3.coinbase-secured.com^
 ||account-netflix.top^
 ||acct-goog1e.com^
 ||achiit.github.io^
-||acounts-google.duckdns.org^
 ||adb-viewersv.com^
 ||admin.coinbase-secured.com^
+||adobe-jnkjwenkgjnwjenkgje.pages.dev^
 ||adobefileviewer.dpdns.org^
 ||adobeinstaller-virid.vercel.app^
 ||agentforce.cc^
@@ -40,7 +39,6 @@
 ||amazon-slots.digital^
 ||amnesiacuracao.com^
 ||anacms1.coinbase-secured.com^
-||antimoney-laundering.org^
 ||apexrecoveryconsulting.com.glovonetwork.com^
 ||app-trezor-starts.pages.dev^
 ||app81-facebook.blogspot.com^
@@ -58,8 +56,11 @@
 ||bankofamericatreasury.info^
 ||barclaysea.com^
 ||barclaysiportalfraudcentre.com^
+||barclaysnetchatinfo.com^
 ||bbvaexperiences.com^
 ||bbvalues.uk^
+||bdbddb.sbs^
+||bddbdb.sbs^
 ||berbagi-facebook.blogspot.com^
 ||beritanasional.eu.org^
 ||beta-instagram.vercel.app^
@@ -103,6 +104,7 @@
 ||cashapp-secure-account-access.165-154-255-254.cpanel.site^
 ||cashappps.com^
 ||centre-google.com^
+||certif-account.com^
 ||chatgpt-vwas-us.com^
 ||chatgpt0005.eu.org^
 ||chatgptown.cn^
@@ -110,6 +112,7 @@
 ||checkleaked.cc^
 ||citrix-secure-access.com^
 ||click-facebook.blogspot.com^
+||clickhere-whatsapponly.pages.dev^
 ||cn-fedex.com^
 ||coinbase-advanced-trial.pages.dev^
 ||coinbase-backup.com^
@@ -140,6 +143,7 @@
 ||daservglobal.com^
 ||de-paypal-sec.com^
 ||dhl-express-dev.firebaseapp.com^
+||dhlexpressservice.com^
 ||dir.com.my^
 ||discoveryloft.com^
 ||docs--trezr-css.gitbook.io^
@@ -159,6 +163,7 @@
 ||dpd-ie-twn.link^
 ||dpd-malvexa.click^
 ||dpd-packages.club^
+||dpd-paketkosten.click^
 ||dpd-polska.com^
 ||dpd-ravlimo.com^
 ||dpd-telvora.com^
@@ -174,8 +179,10 @@
 ||emeklialbay.site^
 ||employmentlawyerlongisland.com^
 ||en-ledgre.pages.dev^
+||en-ledgrr.pages.dev^
 ||en-trezor-suite-io.square.site^
 ||en-whatsapp.com^
+||eofert92345.cfd^
 ||eu-facebook.blogspot.com^
 ||eventshouse.app^
 ||exclusive-openseamints.vercel.app^
@@ -241,6 +248,7 @@
 ||facebookahla.blogspot.com^
 ||facebookbfacebook.blogspot.com^
 ||facebookbusiines.github.io^
+||facebookcomprimisingourrights.blogspot.com^
 ||facebookctf.vercel.app^
 ||facebookcustomersupportnumber25.blogspot.com^
 ||facebookfakelogin.blogspot.com^
@@ -265,7 +273,6 @@
 ||facebookloginreview.blogspot.com^
 ||facebookloginsignub.blogspot.com^
 ||facebookloginss.blogspot.com^
-||facebookloginuser.blogspot.com^
 ||facebookpage-noreplycenter.com^
 ||facebookpagemanagement.com^
 ||facebookpageslinkk.blogspot.com^
@@ -287,6 +294,7 @@
 ||game-amazon.best^
 ||gestorweb.cl^
 ||get-googlemeet.com^
+||getdigicore.com^
 ||ggzh-google.com.cn^
 ||glallegro.com^
 ||gls-link.app^
@@ -325,23 +333,23 @@
 ||granometrics.io^
 ||gruposuplidores.com^
 ||hashnode.dev^
-||help-docs-metamask.gitbook.io^
 ||hke-whatsapp.com^
 ||hkk-whatsapp.com^
 ||hotmail-two.vercel.app^
 ||hotmail666.com^
 ||hsbc-sec.com^
-||hsbcnetcustomerchat.com^
+||hsbcnetlivesupportchat.com^
 ||hsbcorpfinancial.com^
 ||hsbcprivatebanksupport.com^
-||icloud-apple.co^
 ||icloud-finm.com^
 ||icloud-id.rip^
 ||icloud-my.rip^
 ||icloud-ny.rip^
+||icloud-verification.com^
 ||icloud.you^
 ||icloudhelp.com^
 ||icloudservice.nl^
+||icloudsupportpr.ink^
 ||id-paypalservice.dev^
 ||id53455.shop^
 ||ideeo.mx^
@@ -403,10 +411,10 @@
 ||isha-dev.com^
 ||itau-cassino.com^
 ||itau-snowy.vercel.app^
+||itauhomeinstbank.ooguy.com^
 ||itcserv.net^
 ||jayaram0550.github.io^
 ||jfdaily.sbs^
-||join-my-group-whatsapp-ewm.pages.dev^
 ||jp-coinbase.com^
 ||jrni.com^
 ||kinoloft.de^
@@ -436,6 +444,7 @@
 ||ledgrr-strt-auth-io.square.site^
 ||ledzer-live.square.site^
 ||leia-santander.vercel.app^
+||letnie-okazj3953305.cfd^
 ||live-ledgre.com^
 ||livepackagetracking.com^
 ||lobster-cloud.com^
@@ -498,7 +507,6 @@
 ||moonstream-instagram-com.vercel.app^
 ||movistar-recaudo-epayc.com^
 ||mqklzsuh.coinbase-secured.com^
-||multimedia-penetration-gba-perry.trycloudflare.com^
 ||my-coinbase.vercel.app^
 ||my-kraken.com^
 ||my-spotify.app^
@@ -535,10 +543,12 @@
 ||node.coinbase-secured.com^
 ||noreply-icloud.app^
 ||ns1.az^
+||o21o2o.sbs^
 ||o356.ee^
 ||oauthe-xfinity-comm.weebly.com^
 ||oauthe-xfinity.weebly.com^
 ||ofe.lol^
+||ofe24ta.cfd^
 ||oferta-7281.sbs^
 ||office365licensingsupport.com^
 ||onedrive-live-shared-folder-attachment-microsoft365.com^
@@ -552,6 +562,7 @@
 ||openseaproks007.vercel.app^
 ||openseavxr.vercel.app^
 ||ossama-instagram.vercel.app^
+||oswps.sbs^
 ||outlook-8.onrender.com^
 ||outlook-live365.github.io^
 ||outlook-mailer.com^
@@ -560,11 +571,11 @@
 ||outlook1.cc^
 ||outlookmail.social^
 ||outlookmails.de^
-||outlookquarantinenotice.com^
 ||page-instagram.vercel.app^
 ||page-kucoin-en-us.typedream.app^
 ||pagina-inicial-instagram-anesoledar.vercel.app^
 ||pagina-inicial-instagram.vercel.app^
+||paivudinho.github.io^
 ||paxgold-binance.com.cn^
 ||paykmc.com^
 ||paypal-com-aspi-dll.us^
@@ -578,10 +589,8 @@
 ||photos-instagram.vercel.app^
 ||phpmyadmin.coinbase-secured.com^
 ||pl-oferta5733.shop^
-||pl-oferta842165.cfd^
 ||platform-kraken.cc^
 ||play-amazon.site^
-||plszybkie-zakupy-aukcja230.top^
 ||porrtal-stpmex.com^
 ||portall-stpmex.com^
 ||premio-instagram.com^
@@ -617,7 +626,6 @@
 ||santandercitas.com^
 ||saque-instagram.com^
 ||schubert-kamphausen.de^
-||sdspds.sbs^
 ||search.er.in^
 ||seaxzh.cam^
 ||secure-bridge-trezr-apps.typedream.app^
@@ -631,12 +639,14 @@
 ||sk-facebook.blogspot.com^
 ||sklsklpss.top^
 ||skylar.web.id^
+||slsaadsss.top^
 ||smallflyingarts.net^
 ||snmxtehc.coinbase-secured.com^
+||spalsjas.top^
 ||spellapp.com^
-||spire-binance.com.cn^
 ||spotify-client-beta.vercel.app^
 ||spotify-login-teal.vercel.app^
+||spotify-react-omega-murex.vercel.app^
 ||spotifymode.org^
 ||spotifypremiumapk.pk^
 ||spotifypremiummodapk.com.co^
@@ -670,9 +680,9 @@
 ||theamazon.vercel.app^
 ||therelayservice.com^
 ||tk-binance.cn^
+||token-whatsapp.com^
 ||tqnxbwrc.coinbase-secured.com^
 ||trackingnumbers.org^
-||trezo-io-helpe.pages.dev^
 ||trezoorr--thego.gitbook.io^
 ||trezor-eo-startd.pages.dev^
 ||trezorguide.vercel.app^
@@ -693,7 +703,6 @@
 ||us.cc^
 ||us23zoom.us^
 ||user.coinbase-secured.com^
-||usps-orders.com^
 ||usps-vmts.azurewebsites.net^
 ||uspsaunitedworkforce.com^
 ||uspss.pages.dev^
@@ -715,7 +724,6 @@
 ||wasmer.app^
 ||web-trezor-io-start-us.vercel.app^
 ||webaccess-alert.com^
-||webdirecto.com^
 ||webmail.glovonetwork.com^
 ||webpage-edge-start-trezo.pages.dev^
 ||wellsfargobanking.app^
@@ -724,9 +732,11 @@
 ||whatsapp-iamsuyash.vercel.app^
 ||whatsapp-verify.blogspot.com^
 ||whatsapp11-cnj.pages.dev^
+||whatsapp2233.com^
 ||whatsappapk.org^
 ||whatsappcampaign.online^
 ||whatsappfreewhatsapp.blogspot.com^
+||whatsappmebeton.site^
 ||whatsappo-ten.vercel.app^
 ||windows-ledger-live.typedream.app^
 ||winnersvoyagetours.com^
@@ -766,6 +776,7 @@
 ||yahoo-c7entertainment.com.cn^
 ||yahoo888.xyz^
 ||yahooinfo.coinbase-secured.com^
+||yunjin-tec.com^
 ||yuwenmi.sbs^
 ||yzz.me^
 ||z-facebook.blogspot.com^
